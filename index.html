@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nation Content Board</title>
+<style>
+  :root{
+    --bg:#0f1115;--panel:#171a21;--panel2:#1e2230;--line:#2a2f3d;
+    --text:#e8eaf0;--muted:#9aa1b2;--faint:#6b7280;--accent:#e8112d;--accent2:#ff4d6d;
+    --green:#22c55e;--amber:#f59e0b;--blue:#38bdf8;--radius:13px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);font-size:14px;line-height:1.5}
+  button{font-family:inherit;cursor:pointer}
+  ::-webkit-scrollbar{width:9px;height:9px}::-webkit-scrollbar-thumb{background:#2c3242;border-radius:8px}
+
+  .app{display:grid;grid-template-columns:230px 1fr;height:100vh}
+  .side{background:var(--panel);border-right:1px solid var(--line);display:flex;flex-direction:column;overflow:hidden}
+  .brand{padding:18px;display:flex;align-items:center;gap:10px;border-bottom:1px solid var(--line)}
+  .logo{width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,var(--accent),var(--accent2));display:flex;align-items:center;justify-content:center;font-weight:800;color:#fff}
+  .brand h1{font-size:15px;margin:0;font-weight:700}.brand small{color:var(--muted);font-size:11px}
+  .nav{padding:10px;display:flex;flex-direction:column;gap:2px}
+  .nav button{display:flex;align-items:center;gap:9px;width:100%;text-align:left;background:transparent;border:none;color:var(--muted);padding:9px 11px;border-radius:9px;font-size:13.5px;font-weight:600}
+  .nav button:hover{background:var(--panel2);color:var(--text)}
+  .nav button.on{background:linear-gradient(90deg,rgba(232,17,45,.16),rgba(255,77,109,.06));color:var(--text)}
+  .nav .badge{margin-left:auto;background:var(--panel2);border:1px solid var(--line);border-radius:999px;font-size:10.5px;padding:1px 7px;color:var(--muted)}
+  .filt{margin-top:auto;padding:12px;border-top:1px solid var(--line)}
+  .filt label{font-size:10px;text-transform:uppercase;letter-spacing:.7px;color:var(--faint);font-weight:700;display:block;margin:0 2px 6px}
+  .filt select{width:100%;background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:9px;padding:9px 10px;font-size:13px}
+
+  .main{overflow:hidden;display:flex;flex-direction:column;min-height:0}
+  .top{padding:15px 24px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:14px;flex-shrink:0}
+  .top h2{margin:0;font-size:18px}.top .sub{color:var(--muted);font-size:12.5px;margin-top:2px}
+  #view{flex:1;min-height:0;display:flex;flex-direction:column;overflow:hidden}
+
+  /* Board split */
+  .board{flex:1;display:grid;grid-template-columns:380px 1fr;overflow:hidden;min-height:0}
+  .mlist{border-right:1px solid var(--line);overflow-y:auto;padding:14px;min-height:0}
+  .mcard{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:13px 14px;margin-bottom:11px;cursor:pointer;position:relative;transition:border-color .12s}
+  .mcard:hover{border-color:#3a4256}
+  .mcard.sel{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent) inset}
+  .mcard .mt{display:flex;align-items:center;gap:9px}
+  .mico{width:30px;height:30px;border-radius:8px;background:var(--panel2);display:flex;align-items:center;justify-content:center;font-size:15px;flex-shrink:0}
+  .mcard h3{margin:0;font-size:13.5px;line-height:1.3}
+  .mcard .when{font-size:11px;color:var(--muted);font-weight:600;margin-top:1px}
+  .mcard .mbl{color:var(--muted);font-size:12px;line-height:1.45;margin-top:8px}
+  .mcard .mtags{display:flex;gap:6px;flex-wrap:wrap;margin-top:9px;align-items:center}
+  .hot{position:absolute;top:12px;right:12px;background:linear-gradient(135deg,var(--accent),var(--accent2));color:#fff;font-size:8.5px;font-weight:800;padding:2px 7px;border-radius:999px;letter-spacing:.5px}
+  .chip{display:inline-flex;align-items:center;gap:5px;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:999px;background:var(--panel2);border:1px solid var(--line);color:var(--muted)}
+  .dot{width:7px;height:7px;border-radius:50%;display:inline-block}
+  .acount{font-size:10.5px;color:var(--accent);font-weight:800}
+
+  .detail{overflow-y:auto;padding:22px 26px;min-height:0}
+  .detail .dh{display:flex;align-items:flex-start;gap:13px;margin-bottom:5px}
+  .detail .dico{width:42px;height:42px;border-radius:10px;background:var(--panel2);display:flex;align-items:center;justify-content:center;font-size:21px;flex-shrink:0}
+  .detail h2{margin:0;font-size:19px}
+  .detail .dmeta{color:var(--muted);font-size:12.5px;margin-top:3px}
+  .detail .dbl{color:var(--text);font-size:13.5px;margin:12px 0 4px;line-height:1.55;max-width:680px}
+  .src{font-size:11.5px;color:var(--blue);text-decoration:none}.src:hover{text-decoration:underline}
+  .angles-h{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.7px;color:var(--faint);margin:22px 0 12px}
+  .angle{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:15px 16px;margin-bottom:13px;max-width:720px}
+  .angle .an{display:flex;align-items:center;gap:9px;margin-bottom:9px}
+  .angle .anum{width:22px;height:22px;border-radius:6px;background:rgba(232,17,45,.16);color:var(--accent2);font-weight:800;font-size:12px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+  .angle .anname{font-weight:700;font-size:14px}
+  .angle .copy{background:var(--panel2);border:1px solid var(--line);border-radius:9px;padding:12px 13px;font-size:13.5px;line-height:1.6;white-space:pre-wrap}
+  .angle .meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:11px}
+  .angle .acts{display:flex;gap:8px;margin-top:13px}
+  .btn{background:var(--panel2);border:1px solid var(--line);color:var(--text);padding:8px 13px;border-radius:9px;font-weight:600;font-size:12.5px;display:inline-flex;align-items:center;gap:6px}
+  .btn:hover{border-color:#3a4256}
+  .btn.primary{background:linear-gradient(135deg,var(--accent),var(--accent2));border:none;color:#fff}
+  .btn.primary:hover{filter:brightness(1.07)}
+  .btn.sm{padding:6px 10px;font-size:12px}
+  .tag{font-size:11.5px;color:var(--blue)}
+  .ch{font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:6px;background:var(--panel2);border:1px solid var(--line);color:var(--muted)}
+
+  .empty{color:var(--muted);text-align:center;padding:60px 20px}
+  .empty .big{font-size:40px;margin-bottom:10px}
+
+  /* Drafts */
+  .drafts{flex:1;overflow-y:auto;padding:22px 26px;min-height:0}
+  .dcol-h{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.7px;color:var(--faint);margin:6px 0 12px;display:flex;align-items:center;gap:8px}
+  .draft{background:var(--panel);border:1px solid var(--line);border-radius:11px;padding:13px 15px;margin-bottom:11px;max-width:760px}
+  .draft .dtop{display:flex;align-items:center;gap:9px;margin-bottom:8px;flex-wrap:wrap}
+  .draft .body{font-size:13px;color:var(--text);white-space:pre-wrap;line-height:1.55;background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:10px 12px}
+  .draft .dacts{display:flex;gap:8px;margin-top:11px;flex-wrap:wrap}
+  .st-drafting{color:var(--amber)}.st-drafting .dot{background:var(--amber)}
+  .st-ready{color:var(--green)}.st-ready .dot{background:var(--green)}
+
+  /* Modal */
+  .mbg{position:fixed;inset:0;background:rgba(0,0,0,.62);display:none;align-items:center;justify-content:center;z-index:40;padding:20px}
+  .mbg.show{display:flex}
+  .modal{background:var(--panel);border:1px solid var(--line);border-radius:15px;width:100%;max-width:620px;max-height:90vh;overflow:auto}
+  .modal .mh{padding:16px 20px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center}
+  .modal .mh h3{margin:0;font-size:16px}
+  .modal .mc{padding:18px 20px}
+  .modal .mf{padding:14px 20px;border-top:1px solid var(--line);display:flex;justify-content:flex-end;gap:10px;flex-wrap:wrap}
+  .x{background:transparent;border:none;color:var(--muted);font-size:22px;line-height:1}
+  .fld{margin-bottom:14px}
+  .fld label{display:block;font-size:11.5px;font-weight:700;color:var(--muted);margin-bottom:6px}
+  .fld textarea,.fld select{width:100%;background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:9px;padding:10px 12px;font-size:13.5px}
+  .fld textarea{min-height:140px;resize:vertical;line-height:1.6}
+  .chtoggles{display:flex;gap:7px;flex-wrap:wrap}
+  .cht{padding:6px 11px;border-radius:8px;border:1px solid var(--line);background:var(--panel2);font-size:12px;font-weight:600;color:var(--muted)}
+  .cht.on{border-color:var(--accent);color:var(--text);background:rgba(232,17,45,.12)}
+  .counts{font-size:11.5px;color:var(--muted);margin-top:8px;display:flex;gap:14px;flex-wrap:wrap}
+  .over{color:var(--accent2);font-weight:700}
+  .toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(18px);background:var(--panel2);border:1px solid var(--line);color:var(--text);padding:11px 17px;border-radius:10px;font-size:13px;font-weight:600;opacity:0;transition:all .25s;z-index:90;pointer-events:none}
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+  @media(max-width:980px){.board{grid-template-columns:1fr}.mlist{display:none}.mlist.mobshow{display:block}}
+</style>
+</head>
+<body>
+<div id="gate" style="position:fixed;inset:0;z-index:200;background:#0f1115;display:flex;align-items:center;justify-content:center">
+  <div style="background:#171a21;border:1px solid #2a2f3d;border-radius:14px;padding:28px;width:320px;text-align:center;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial,sans-serif;color:#e8eaf0">
+    <div style="width:44px;height:44px;border-radius:11px;background:linear-gradient(135deg,#e8112d,#ff4d6d);margin:0 auto 14px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:20px;color:#fff">N</div>
+    <div style="font-weight:700;margin-bottom:4px">Nation Content Board</div>
+    <div style="color:#9aa1b2;font-size:12.5px;margin-bottom:16px">Enter the team password</div>
+    <input id="gatePw" type="password" placeholder="Password" style="width:100%;box-sizing:border-box;padding:10px 12px;border-radius:9px;border:1px solid #2a2f3d;background:#1e2230;color:#e8eaf0;margin-bottom:10px">
+    <button id="gateBtn" style="width:100%;padding:10px;border-radius:9px;border:none;background:linear-gradient(135deg,#e8112d,#ff4d6d);color:#fff;font-weight:700;cursor:pointer">Enter</button>
+    <div id="gateErr" style="color:#ff4d6d;font-size:12px;margin-top:8px;min-height:14px"></div>
+  </div>
+</div>
+<script>
+(function(){
+  var PW='nation2026'; /* CHANGE THIS — see DEPLOY.md. Note: a client-side password is a light gate only. */
+  var g=document.getElementById('gate');
+  if(sessionStorage.getItem('nb_ok')==='1'){g.style.display='none';return;}
+  function go(){var v=document.getElementById('gatePw').value;
+    if(v===PW){sessionStorage.setItem('nb_ok','1');g.style.display='none';}
+    else{document.getElementById('gateErr').textContent='Incorrect password';}}
+  document.getElementById('gateBtn').onclick=go;
+  document.getElementById('gatePw').addEventListener('keydown',function(e){if(e.key==='Enter')go();});
+})();
+</script>
+<div class="app">
+  <aside class="side">
+    <div class="brand"><div class="logo">N</div><div><h1>Content Board</h1><small>Nation Broadcasting</small></div></div>
+    <div class="nav" id="nav">
+      <button data-v="board" class="on">📡 Today's board <span class="badge" id="bCount">0</span></button>
+      <button data-v="drafts">✍️ Drafts <span class="badge" id="dCount">0</span></button>
+    </div>
+    <div class="filt">
+      <label>Station / group</label>
+      <select id="stationFilter"></select>
+    </div>
+  </aside>
+  <main class="main">
+    <div class="top">
+      <div><h2 id="vTitle">Today's board</h2><div class="sub" id="vSub"></div></div>
+      <div id="topRight"></div>
+    </div>
+    <div id="view"></div>
+  </main>
+</div>
+
+<div class="mbg" id="editModal">
+  <div class="modal">
+    <div class="mh"><h3 id="emTitle">Draft copy</h3><button class="x" onclick="closeModal()">×</button></div>
+    <div class="mc" id="emBody"></div>
+    <div class="mf">
+      <button class="btn" onclick="closeModal()">Cancel</button>
+      <button class="btn" onclick="saveDraft('drafting')">Save to drafts</button>
+      <button class="btn primary" onclick="saveDraft('ready')">Mark ready for design</button>
+    </div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+/* ---------- reference ---------- */
+const STATIONS=[
+  {id:'nation-network',name:'Nation Network',color:'#e8112d'},
+  {id:'decades-genres',name:'Decades & Genres',color:'#8b5cf6'},
+  {id:'welsh-local',name:'Local Welsh Network',color:'#16a34a'},
+  {id:'radio-exe',name:'Radio Exe',color:'#14b8a6'},
+  {id:'dragon',name:'Dragon Radio',color:'#dc2626'}
+];
+const CH={instagram:{n:'Instagram',lim:2200},facebook:{n:'Facebook',lim:63206},x:{n:'X',lim:280},tiktok:{n:'TikTok',lim:2200},threads:{n:'Threads',lim:500}};
+const TYPES={sport:'⚽',gig:'🎤',birthday:'🎂',tv:'📺',seasonal:'🗓️',culture:'🎶'};
+function stById(id){return STATIONS.find(s=>s.id===id)}
+
+/* ---------- moments + angles (live, talked-about; seeded, refreshes daily) ---------- */
+const FALLBACK_MOMENTS=[
+ /* —— MON 15 (today) —— */
+ {id:'icecube',off:0,type:'birthday',hot:true,title:'Ice Cube turns 57',
+  blurb:'Hip-hop heavyweight and N.W.A founder Ice Cube celebrates his birthday today.',
+  source:{l:'Famous Birthdays',u:'https://www.famousbirthdays.com/june15.html'},
+  fits:[{g:'decades-genres',sub:'Nation 90s'},{g:'decades-genres',sub:'Nation Hits'}],
+  angles:[
+   {name:'It was a good day',copy:"Ice Cube is 57 today. And you already know what we’re playing. It was a good day.",channels:['instagram','x'],time:'08:30',tags:['#IceCube']},
+   {name:'The catalogue',copy:"N.W.A, Friday, a stack of solo hits and a face that launched a thousand memes. Ice Cube is 57 — still cooler than all of us.",channels:['facebook','instagram'],time:'10:00',tags:['#IceCube','#Nation90s']}
+  ]},
+ {id:'ariana',off:0,type:'culture',hot:true,title:'Ariana Grande is this week’s No.1',
+  blurb:'Ariana Grande tops the UK singles chart this week with “hate that i made you love me”.',
+  source:{l:'Official Charts',u:'https://www.officialcharts.com/charts/singles-chart/'},
+  fits:[{g:'decades-genres',sub:'Nation Hits'},{g:'nation-network',sub:''}],
+  angles:[
+   {name:'Straight in at No.1',copy:"Ariana Grande goes straight to No.1 this week with ‘hate that i made you love me’. On heavy rotation — you’re welcome.",channels:['instagram','x'],time:'12:00',tags:['#ArianaGrande']},
+   {name:'Song of the summer?',copy:"New week, new No.1. Ariana’s on top — but is it your song of the summer, or has something else got it? Make your case.",channels:['facebook'],time:'16:00',tags:['#NewMusic']}
+  ]},
+ {id:'samfender',off:0,type:'culture',hot:true,title:'Sam Fender back in the top 10',
+  blurb:'North East favourite Sam Fender is in the top 10 with “Rein Me In”, featuring Olivia Dean.',
+  source:{l:'Official Charts',u:'https://www.officialcharts.com/charts/singles-chart/'},
+  fits:[{g:'nation-network',sub:'Nation Radio North East'},{g:'decades-genres',sub:'Nation Hits'}],
+  angles:[
+   {name:'Local hero',for:'Nation Radio North East',copy:"Our Sam’s done it again. Sam Fender, ‘Rein Me In’ with Olivia Dean, straight into the top 10 — and the North East could not be prouder.",channels:['facebook','instagram'],time:'08:00',tags:['#SamFender']},
+   {name:'The collab',copy:"Sam Fender and Olivia Dean on the same track? Yes please. ‘Rein Me In’ is flying up the chart — have a listen.",channels:['instagram','x'],time:'12:00',tags:['#SamFender','#OliviaDean']}
+  ]},
+ {id:'loveisland',off:0,type:'tv',hot:true,title:'Love Island, one week in',
+  blurb:'Love Island is a week into its summer run on ITV2, six nights a week and dominating group chats.',
+  source:{l:'ITV',u:'https://www.itv.com/loveisland'},
+  fits:[{g:'decades-genres',sub:'Nation Hits'},{g:'nation-network',sub:''}],
+  angles:[
+   {name:'Morning-after chaos',copy:"One week of Love Island and we’ve already got a villain, a “type on paper”, and at least one grafting disaster. We’re not okay. We’re not turning it off either.",channels:['instagram','x'],time:'08:30',tags:['#LoveIsland']},
+   {name:'Pick a side',copy:"A week in. Who’s your winner, and who needs dumping tonight? No wrong answers — only strong ones.",channels:['facebook','instagram'],time:'09:00',tags:['#LoveIsland']},
+   {name:'Recoupling soundtrack',copy:"Every recoupling deserves a dramatic soundtrack. We’ve got it covered, while you pretend you’re not invested.",channels:['instagram'],time:'20:00',tags:['#LoveIsland']}
+  ]},
+ {id:'airsupply',off:0,type:'birthday',hot:true,title:'Air Supply’s Russell Hitchcock is 77',
+  blurb:'Russell Hitchcock, the voice of Air Supply, celebrates his birthday today.',
+  source:{l:'Famous Birthdays',u:'https://www.famousbirthdays.com/june15.html'},
+  fits:[{g:'decades-genres',sub:'Nation Easy'},{g:'decades-genres',sub:'Nation Love'}],
+  angles:[
+   {name:'All out of love',copy:"Russell Hitchcock of Air Supply is 77 today. All Out of Love, Making Love Out of Nothing at All — Nation Easy’s bread and butter. Many happy returns.",channels:['facebook'],time:'10:00',tags:['#AirSupply']}
+  ]},
+ /* —— TUE 16 —— */
+ {id:'ascot1',off:1,type:'seasonal',hot:false,title:'Royal Ascot opens',
+  blurb:'Royal Ascot begins Tuesday — five days of racing, hats and high-confidence tips.',
+  source:{l:'Ascot',u:'https://www.ascot.com/royal-ascot'},
+  fits:[{g:'nation-network',sub:''},{g:'radio-exe',sub:''},{g:'welsh-local',sub:''}],
+  angles:[
+   {name:'The sweepstake joke',copy:"Royal Ascot. Five days. Horses nobody’s heard of, hats that cost more than the horses, and a sweepstake that’ll end a friendship.",channels:['instagram','facebook'],time:'10:00',tags:['#RoyalAscot']},
+   {name:'Here for the outfits',copy:"Be honest — are you here for the racing or the outfits? Royal Ascot’s back, and the hats are already winning.",channels:['instagram','facebook'],time:'11:00',tags:['#RoyalAscot']},
+   {name:'Tip tracker',copy:"Royal Ascot, day one. Give us your tip for the feature race and we’ll track whose is best all week.",channels:['x','facebook'],time:'09:00',tags:['#RoyalAscot']}
+  ]},
+ {id:'messi',off:1,type:'sport',hot:false,title:'Messi and Argentina back in action',
+  blurb:'Holders Argentina face Algeria on Tuesday night — possibly Lionel Messi’s last World Cup.',
+  source:{l:'ESPN',u:'https://www.espn.com/soccer/'},
+  fits:[{g:'nation-network',sub:''}],
+  angles:[
+   {name:'The last dance',copy:"Argentina are back tonight, and so is Messi — quite possibly his last World Cup. Whatever shirt you wear, you watch this one.",channels:['instagram','x'],time:'18:00',tags:['#WorldCup2026']}
+  ]},
+ {id:'foreigner',off:2,type:'gig',hot:false,title:'Foreigner & Jefferson Starship in Manchester',
+  blurb:'Classic-rock royalty Foreigner and Jefferson Starship play the AO Arena, Manchester this week.',
+  source:{l:'Ticketmaster',u:'https://www.ticketmaster.co.uk/'},
+  fits:[{g:'decades-genres',sub:'Nation Rocks'},{g:'decades-genres',sub:'Nation Classic Hits'}],
+  angles:[
+   {name:'Know what love is',copy:"Foreigner and Jefferson Starship at Manchester’s AO Arena this week. I Want to Know What Love Is, incoming. Who’s going?",channels:['facebook','instagram'],time:'16:00',tags:['#Foreigner','#NationRocks']}
+  ]},
+ /* —— WED 17 —— */
+ {id:'engcro',off:2,type:'sport',hot:false,title:'England open their World Cup v Croatia',
+  blurb:'England begin against Croatia on Wednesday night — a rematch of the 2018 semi-final.',
+  source:{l:'ESPN',u:'https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries'},
+  fits:[{g:'nation-network',sub:''}],
+  angles:[
+   {name:'The rematch',copy:"Last time England got near a final, Croatia ended it. Wednesday night, they’re first up. The rematch, eight years on.",channels:['instagram','x'],time:'18:00',tags:['#ThreeLions']},
+   {name:'Manage expectations',copy:"England’s World Cup starts Wednesday. Manage your expectations — then immediately ignore that advice. Croatia, 9pm.",channels:['x'],time:'12:00',tags:['#ThreeLions']},
+   {name:'Where are you watching',copy:"Big screen, beer garden, or behind the sofa? England v Croatia, Wednesday night. Where will you be?",channels:['facebook'],time:'17:00',tags:['#WorldCup2026']}
+  ]},
+ /* —— THU 18 —— */
+ {id:'mccartney',off:3,type:'birthday',hot:false,title:'Paul McCartney turns 84',
+  blurb:'Paul McCartney celebrates his 84th birthday on Thursday.',
+  source:{l:'Famous Birthdays',u:'https://www.famousbirthdays.com/jun.html'},
+  fits:[{g:'decades-genres',sub:'Nation Classic Hits'},{g:'decades-genres',sub:'Nation 60s'},{g:'nation-network',sub:''}],
+  angles:[
+   {name:'Still going',copy:"Paul McCartney is 84 on Thursday and still selling out stadiums. The Beatle who never stopped. We’ll mark it properly.",channels:['facebook','instagram'],time:'08:00',tags:['#PaulMcCartney']},
+   {name:'The songbook',copy:"Yesterday. Hey Jude. Let It Be. Live and Let Die. Band on the Run. One man wrote half your life’s soundtrack. Happy 84th, Macca.",channels:['instagram'],time:'09:00',tags:['#McCartney']},
+   {name:'Request',copy:"It’s Macca’s birthday Thursday. Beatles, Wings or solo — tell us the one we have to play.",channels:['facebook'],time:'10:00',tags:['#PaulMcCartney']}
+  ]},
+ {id:'moyet',off:3,type:'birthday',hot:false,title:'Alison Moyet turns 65',
+  blurb:'Yazoo and solo star Alison Moyet celebrates her 65th birthday on Thursday.',
+  source:{l:'Famous Birthdays',u:'https://www.famousbirthdays.com/jun.html'},
+  fits:[{g:'decades-genres',sub:'Nation 80s'}],
+  angles:[
+   {name:'That voice',copy:"Alison Moyet — one of the great British voices — is 65 on Thursday. Only You, Don’t Go, Love Resurrection. A proper 80s original.",channels:['facebook','instagram'],time:'09:00',tags:['#AlisonMoyet']}
+  ]},
+ {id:'boyz2men',off:3,type:'birthday',hot:false,title:'Boyz II Men’s Nathan Morris is 55',
+  blurb:'Nathan Morris of Boyz II Men celebrates his birthday on Thursday.',
+  source:{l:'Famous Birthdays',u:'https://www.famousbirthdays.com/jun.html'},
+  fits:[{g:'decades-genres',sub:'Nation 90s'}],
+  angles:[
+   {name:'End of the Road',copy:"Boyz II Men’s Nathan Morris turns 55 on Thursday. End of the Road, I’ll Make Love to You — the 90s slow-dance soundtrack. A little Boyz II Men, coming up.",channels:['facebook'],time:'11:00',tags:['#Nation90s']}
+  ]},
+ {id:'ascotladies',off:3,type:'seasonal',hot:false,title:'Ladies Day at Royal Ascot',
+  blurb:'Thursday is Ladies Day — the Gold Cup on the track and the boldest hats in the stands.',
+  source:{l:'Ascot',u:'https://www.ascot.com/royal-ascot'},
+  fits:[{g:'nation-network',sub:''}],
+  angles:[
+   {name:'Ladies Day',copy:"It’s Ladies Day at Ascot — the Gold Cup on the track and a fashion contest in the stands. Show us the boldest hat you can find.",channels:['instagram','facebook'],time:'10:00',tags:['#RoyalAscot','#LadiesDay']},
+   {name:'The Gold Cup',copy:"The Gold Cup, Ascot’s blue riband, runs today — two and a half miles and the staying test of the year. Who’s on?",channels:['x'],time:'14:00',tags:['#GoldCup']}
+  ]},
+ /* —— FRI 19 —— */
+ {id:'scotmorocco',off:4,type:'sport',hot:false,title:'Scotland v Morocco — a place in the last 16',
+  blurb:'Scotland, top of Group C after beating Haiti, face Morocco on Friday. Win and they reach the World Cup knockouts for the first time ever.',
+  source:{l:'ESPN',u:'https://www.espn.com/soccer/story/_/id/48701669/scotland-world-cup-2026-schedule-fixtures-results-scores-group-c-how-watch-uk-news-analysis-injuries'},
+  fits:[{g:'nation-network',sub:'Nation Radio Scotland'}],
+  angles:[
+   {name:'One win from history',copy:"Scotland have never reached the World Cup knockouts. Beat Morocco on Friday and that changes forever. No pressure.",channels:['instagram','x'],time:'17:00',tags:['#Scotland']},
+   {name:'Still believing',copy:"Top of the group, and the country’s started to believe. Scotland v Morocco, Friday. Hold your nerve, Tartan Army.",channels:['instagram','facebook'],time:'09:00',tags:['#TartanArmy']}
+  ]},
+ /* —— SAT 20 —— */
+ {id:'lionel',off:5,type:'birthday',hot:false,title:'Lionel Richie turns 77',
+  blurb:'Lionel Richie celebrates his 77th birthday on Saturday.',
+  source:{l:'Famous Birthdays',u:'https://www.famousbirthdays.com/jun.html'},
+  fits:[{g:'decades-genres',sub:'Nation Love'},{g:'decades-genres',sub:'Nation Easy'},{g:'decades-genres',sub:'Nation Classic Hits'}],
+  angles:[
+   {name:'All Night Long',copy:"Lionel Richie is 77 on Saturday, and yes, we’re dancing on the ceiling all day. Easy, Hello, All Night Long — pick your favourite.",channels:['instagram','facebook'],time:'09:00',tags:['#LionelRichie']},
+   {name:'Hello',copy:"Is it us you’re looking for? Lionel Richie turns 77 on Saturday. A weekend of pure smooth, coming right up.",channels:['instagram'],time:'10:00',tags:['#LionelRichie']}
+  ]},
+ {id:'johntaylor',off:5,type:'birthday',hot:false,title:'Duran Duran’s John Taylor is 66',
+  blurb:'John Taylor, bassist of Duran Duran, celebrates his birthday on Saturday.',
+  source:{l:'Famous Birthdays',u:'https://www.famousbirthdays.com/jun.html'},
+  fits:[{g:'decades-genres',sub:'Nation 80s'}],
+  angles:[
+   {name:'Rio',copy:"John Taylor — the bassline behind Rio, Girls on Film and half your teenage years — is 66 on Saturday. Duran Duran all weekend.",channels:['instagram','facebook'],time:'09:00',tags:['#DuranDuran']}
+  ]},
+ {id:'ascotfinal',off:5,type:'seasonal',hot:false,title:'Royal Ascot — final day',
+  blurb:'Saturday closes Royal Ascot with the Jubilee Stakes and the famous Wokingham cavalry charge.',
+  source:{l:'Ascot',u:'https://www.ascot.com/royal-ascot'},
+  fits:[{g:'nation-network',sub:''}],
+  angles:[
+   {name:'Last day, big bets',copy:"Final day at Royal Ascot — last chance to win back what the week has cost you. How’s your sweepstake looking, honestly?",channels:['facebook','x'],time:'11:00',tags:['#RoyalAscot']}
+  ]},
+ /* —— SUN 21 —— */
+ {id:'fathers',off:6,type:'seasonal',hot:false,title:'Father’s Day on the longest day',
+  blurb:'Father’s Day UK falls on the summer solstice this year — Sunday 21 June.',
+  source:{l:'Awareness Days',u:'https://www.awarenessdays.com/awareness-days-calendar/fathers-day-uk/'},
+  fits:[{g:'nation-network',sub:''},{g:'decades-genres',sub:'Nation Love'}],
+  angles:[
+   {name:'Immersion heater',copy:"Father’s Day on the longest day of the year. Maximum daylight, maximum time for him to explain how the immersion heater works.",channels:['instagram','x'],time:'09:00',tags:['#FathersDay']},
+   {name:'Dedications',copy:"Every dad has a song: the car one, the wedding one, the one he swears blind he saw live twice. Tell us his and we’ll play it Sunday.",channels:['facebook'],time:'10:00',tags:['#FathersDay']},
+   {name:'Simple and warm',copy:"To the dads, step-dads, grandads and the blokes who stepped up — happy Father’s Day.",channels:['facebook','instagram'],time:'08:00',tags:['#FathersDay']}
+  ]},
+ /* —— NEXT WEEK —— */
+ {id:'engghana',off:8,type:'sport',hot:false,title:'England v Ghana — matchday two',
+  blurb:'England’s second group game comes on Tuesday 23rd.',
+  source:{l:'ESPN',u:'https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries'},
+  fits:[{g:'nation-network',sub:''}],
+  angles:[
+   {name:'Job to do',copy:"Win this and England are as good as through. Lose, and we’ll do what we do best — panic for a week. Ghana, Tuesday.",channels:['x'],time:'18:00',tags:['#ThreeLions']}
+  ]},
+ {id:'glasto',off:9,type:'culture',hot:false,title:'Glastonbury 2026 weekend',
+  blurb:'Glastonbury returns to Worthy Farm (24–28 June); Coldplay set to headline a record-breaking fifth time.',
+  source:{l:'Glastonbury guide',u:'https://holler.country/festivals/glastonbury-festival/'},
+  fits:[{g:'decades-genres',sub:'Nation Hits'},{g:'radio-exe',sub:''},{g:'nation-network',sub:''}],
+  angles:[
+   {name:'The tent joke',copy:"Right now, a quarter of a million people are pitching a tent they’ll never fold up properly again. Glastonbury’s back.",channels:['instagram','x'],time:'12:00',tags:['#Glastonbury2026']},
+   {name:'Coldplay history',copy:"Coldplay headline Glastonbury for a record fifth time this weekend. Love them or not, that’s a moment.",channels:['facebook','instagram'],time:'11:00',tags:['#Glastonbury2026','#Coldplay']},
+   {name:'On our doorstep',for:'Radio Exe',copy:"For one weekend a year the population of Somerset doubles and the A37 grinds to a halt. Glastonbury’s back on our doorstep.",channels:['instagram','facebook'],time:'17:00',tags:['#Glastonbury2026','#Somerset']}
+  ]}
+];
+let MOMENTS=FALLBACK_MOMENTS;
+
+/* ---------- state + storage ---------- */
+const LS='nation_board_v1';
+let DRAFTS=load();
+function load(){try{return JSON.parse(localStorage.getItem(LS))||[]}catch(e){return[]}}
+function save(){try{localStorage.setItem(LS,JSON.stringify(DRAFTS))}catch(e){}}
+let S={view:'board',station:'all',sel:MOMENTS[0].id,edit:null};
+let LAST_UPDATED=new Date();
+function uid(){return Math.random().toString(36).slice(2,9)}
+function esc(s){return(s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))}
+function toast(m){const t=document.getElementById('toast');t.textContent=m;t.classList.add('show');clearTimeout(t._t);t._t=setTimeout(()=>t.classList.remove('show'),1900)}
+
+function fmtT(t){let[h,m]=t.split(':').map(Number);const ap=h>=12?'pm':'am';h=h%12||12;return h+(m?':'+String(m).padStart(2,'0'):'')+ap}
+function whenLabel(o){if(o===0)return 'Today';if(o===1)return 'Tomorrow';const d=new Date();d.setDate(d.getDate()+o);return 'In '+o+' days · '+d.toLocaleDateString('en',{weekday:'short',day:'numeric',month:'short'})}
+
+/* ---------- filters / nav ---------- */
+function momentsFor(){return MOMENTS.filter(m=>S.station==='all'||m.fits.some(f=>f.g===S.station)).sort((a,b)=>(b.hot?1:0)-(a.hot?1:0)||a.off-b.off)}
+function ideaCount(){return momentsFor().reduce((n,m)=>n+m.angles.length,0)}
+function fitChips(m){return m.fits.map(f=>{const s=stById(f.g);return `<span class="chip"><span class="dot" style="background:${s?s.color:'#888'}"></span>${esc(f.sub||(s?s.name:''))}</span>`}).join('')}
+function refreshBoard(){LAST_UPDATED=new Date();render();toast('Feed refreshed')}
+function buildFilter(){
+  const sel=document.getElementById('stationFilter');
+  sel.innerHTML='<option value="all">All stations</option>'+STATIONS.map(s=>`<option value="${s.id}">${esc(s.name)}</option>`).join('');
+  sel.value=S.station;
+  sel.onchange=()=>{S.station=sel.value;const ms=momentsFor();S.sel=ms.length?ms[0].id:null;render()};
+}
+document.querySelectorAll('#nav button').forEach(b=>b.onclick=()=>{S.view=b.dataset.v;render()});
+
+/* ---------- render ---------- */
+function render(){
+  document.querySelectorAll('#nav button').forEach(b=>b.classList.toggle('on',b.dataset.v===S.view));
+  document.getElementById('bCount').textContent=momentsFor().length;
+  document.getElementById('dCount').textContent=DRAFTS.length;
+  const v=document.getElementById('view');
+  if(S.view==='board'){
+    document.getElementById('vTitle').textContent='Today’s board';
+    document.getElementById('vSub').textContent=`${momentsFor().length} live stories · ${ideaCount()} ready-to-use angles · pick one, draft, hand to design`;
+    const upd=LAST_UPDATED.toLocaleTimeString('en',{hour:'2-digit',minute:'2-digit'});
+    document.getElementById('topRight').innerHTML=`<span class="chip"><span class="dot" style="background:var(--green)"></span>Updated ${upd}</span> <button class="btn sm" onclick="refreshBoard()">↻ Refresh</button>`;
+    v.className='';v.innerHTML=boardHTML();wireBoard();
+  }else{
+    document.getElementById('vTitle').textContent='Drafts';
+    document.getElementById('vSub').textContent='Refine the copy, then mark it ready for your design team';
+    document.getElementById('topRight').innerHTML='';
+    v.className='';v.innerHTML=draftsHTML();
+  }
+}
+
+function boardHTML(){
+  const ms=momentsFor();
+  if(!ms.length)return `<div class="board"><div class="detail"><div class="empty"><div class="big">📭</div>No live moments for this station.</div></div></div>`;
+  if(!ms.find(m=>m.id===S.sel))S.sel=ms[0].id;
+  const list=ms.map(m=>{
+    const f0=m.fits[0],s0=stById(f0.g);
+    const more=m.fits.length>1?`<span class="chip">+${m.fits.length-1} more</span>`:'';
+    return `<div class="mcard ${m.id===S.sel?'sel':''}" data-id="${m.id}">
+      ${m.hot?'<span class="hot">● LIVE</span>':''}
+      <div class="mt"><div class="mico">${TYPES[m.type]||'•'}</div>
+        <div><h3>${esc(m.title)}</h3><div class="when">${whenLabel(m.off)}</div></div></div>
+      <div class="mbl">${esc(m.blurb)}</div>
+      <div class="mtags"><span class="chip"><span class="dot" style="background:${s0?s0.color:'#888'}"></span>${esc(f0.sub||(s0?s0.name:''))}</span>${more}<span class="acount">${m.angles.length} angles</span></div>
+    </div>`;
+  }).join('');
+  return `<div class="board"><div class="mlist">${list}</div><div class="detail" id="detail">${detailHTML(ms.find(m=>m.id===S.sel))}</div></div>`;
+}
+function detailHTML(m){
+  if(!m)return '';
+  return `<div class="dh"><div class="dico">${TYPES[m.type]||'•'}</div>
+      <div><h2>${esc(m.title)}</h2><div class="dmeta">${whenLabel(m.off)}</div></div></div>
+    <div class="dbl">${esc(m.blurb)}</div>
+    <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:10px 0 2px"><span style="font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;color:var(--faint)">Best for</span>${fitChips(m)}</div>
+    ${m.source?`<a class="src" href="${m.source.u}" target="_blank" rel="noopener">↗ Source: ${esc(m.source.l)}</a>`:''}
+    <div class="angles-h">${m.angles.length} angles to choose from</div>
+    ${m.angles.map((a,i)=>angleHTML(m,a,i)).join('')}`;
+}
+function angleHTML(m,a,i){
+  return `<div class="angle">
+    <div class="an"><div class="anum">${i+1}</div><div class="anname">${esc(a.name)}</div>${a.for?`<span class="chip" style="margin-left:auto">Best for ${esc(a.for)}</span>`:''}</div>
+    <div class="copy">${esc(a.copy)}</div>
+    <div class="meta">${a.channels.map(c=>`<span class="ch">${esc(CH[c].n)}</span>`).join('')}
+      <span class="chip">⏰ ${fmtT(a.time)}</span>
+      ${a.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join(' ')}</div>
+    <div class="acts">
+      <button class="btn primary sm" onclick="openEdit('${m.id}',${i})">✍️ Draft this</button>
+      <button class="btn sm" onclick="copyText('${m.id}',${i})">⧉ Copy text</button>
+    </div>
+  </div>`;
+}
+function wireBoard(){
+  document.querySelectorAll('.mcard').forEach(c=>c.onclick=()=>{S.sel=c.dataset.id;
+    document.querySelectorAll('.mcard').forEach(x=>x.classList.toggle('sel',x.dataset.id===S.sel));
+    document.getElementById('detail').innerHTML=detailHTML(MOMENTS.find(m=>m.id===S.sel));});
+}
+function copyText(mid,i){
+  const m=MOMENTS.find(x=>x.id===mid);const a=m.angles[i];
+  const txt=a.copy+'\n\n'+a.tags.join(' ');
+  navigator.clipboard&&navigator.clipboard.writeText(txt);
+  toast('Copy + hashtags copied to clipboard');
+}
+
+/* ---------- draft editor ---------- */
+function openEdit(mid,i){
+  const m=MOMENTS.find(x=>x.id===mid);const a=m.angles[i];
+  const f0=m.fits[0];
+  S.edit={momentId:mid,angle:a.name,station:f0.g,sub:a.for||f0.sub||'',channels:[...a.channels],body:a.copy+'\n\n'+a.tags.join(' '),title:m.title};
+  renderEdit();document.getElementById('editModal').classList.add('show');
+}
+function renderEdit(){
+  const e=S.edit;
+  document.getElementById('emTitle').textContent='Draft · '+e.title;
+  document.getElementById('emBody').innerHTML=`
+    <div class="fld"><label>Angle</label><div class="chip" style="font-size:12px">${esc(e.angle)}</div></div>
+    <div class="fld"><label>Channels</label><div class="chtoggles" id="emCh">
+      ${Object.keys(CH).map(c=>`<div class="cht ${e.channels.includes(c)?'on':''}" data-c="${c}">${esc(CH[c].n)}</div>`).join('')}</div></div>
+    <div class="fld"><label>Copy</label><textarea id="emText">${esc(e.body)}</textarea>
+      <div class="counts" id="emCounts"></div></div>`;
+  document.querySelectorAll('#emCh .cht').forEach(t=>t.onclick=()=>{const c=t.dataset.c;const i=e.channels.indexOf(c);
+    if(i>=0)e.channels.splice(i,1);else e.channels.push(c);t.classList.toggle('on');counts()});
+  document.getElementById('emText').oninput=ev=>{e.body=ev.target.value;counts()};
+  counts();
+}
+function counts(){
+  const e=S.edit,len=e.body.length;
+  document.getElementById('emCounts').innerHTML=(e.channels.length?e.channels:['instagram']).map(c=>{
+    const over=len>CH[c].lim;return `<span class="${over?'over':''}">${CH[c].n}: ${len}/${CH[c].lim}</span>`;
+  }).join('');
+}
+function saveDraft(status){
+  const e=S.edit;if(!e)return;
+  if(!e.body.trim()){toast('Add some copy first');return;}
+  DRAFTS.unshift({id:uid(),momentId:e.momentId,angle:e.angle,station:e.station,sub:e.sub,channels:[...e.channels],body:e.body,status,created:Date.now()});
+  save();closeModal();S.view='drafts';render();
+  toast(status==='ready'?'Marked ready for design':'Saved to drafts');
+}
+function closeModal(){document.getElementById('editModal').classList.remove('show');S.edit=null}
+document.getElementById('editModal').onclick=e=>{if(e.target.id==='editModal')closeModal()};
+
+/* ---------- drafts view ---------- */
+function draftsHTML(){
+  if(!DRAFTS.length)return `<div class="drafts"><div class="empty"><div class="big">✍️</div>No drafts yet. Pick an angle on the board and hit “Draft this”.</div></div>`;
+  const ready=DRAFTS.filter(d=>d.status==='ready'),draft=DRAFTS.filter(d=>d.status==='drafting');
+  const col=(title,cls,arr)=>`<div class="dcol-h ${cls}"><span class="dot"></span>${title} (${arr.length})</div>${arr.map(draftCard).join('')||'<div style="color:var(--faint);font-size:12.5px;margin-bottom:20px">Nothing here yet.</div>'}`;
+  return `<div class="drafts">${col('Ready for design','st-ready',ready)}<div style="height:18px"></div>${col('In progress','st-drafting',draft)}</div>`;
+}
+function draftCard(d){
+  const st=stById(d.station);
+  return `<div class="draft">
+    <div class="dtop"><span class="chip"><span class="dot" style="background:${st?st.color:'#888'}"></span>${esc(st?st.name:'')}${d.sub?' · '+esc(d.sub):''}</span>
+      <span class="chip">${esc(d.angle)}</span>
+      ${d.channels.map(c=>`<span class="ch">${esc(CH[c].n)}</span>`).join('')}</div>
+    <div class="body">${esc(d.body)}</div>
+    <div class="dacts">
+      <button class="btn sm" onclick="copyDraft('${d.id}')">⧉ Copy</button>
+      ${d.status==='drafting'?`<button class="btn sm primary" onclick="setStatus('${d.id}','ready')">✓ Ready for design</button>`:`<button class="btn sm" onclick="setStatus('${d.id}','drafting')">↩ Back to in progress</button>`}
+      <button class="btn sm" onclick="delDraft('${d.id}')" style="margin-left:auto">Delete</button>
+    </div></div>`;
+}
+function copyDraft(id){const d=DRAFTS.find(x=>x.id===id);if(d){navigator.clipboard&&navigator.clipboard.writeText(d.body);toast('Copied to clipboard')}}
+function setStatus(id,s){const d=DRAFTS.find(x=>x.id===id);if(d){d.status=s;save();render()}}
+function delDraft(id){DRAFTS=DRAFTS.filter(x=>x.id!==id);save();render()}
+
+/* ---------- init + live data ---------- */
+function applyData(d){
+  if(d&&Array.isArray(d.moments)&&d.moments.length){MOMENTS=d.moments;if(d.updated)LAST_UPDATED=new Date(d.updated);}
+  if(!MOMENTS.find(m=>m.id===S.sel))S.sel=MOMENTS[0]&&MOMENTS[0].id;
+}
+function loadData(){
+  fetch('moments.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).then(d=>{applyData(d);render();}).catch(()=>render());
+}
+buildFilter();render();loadData();
+/* Re-pull the feed every 10 minutes so freshly generated ideas appear for everyone. */
+setInterval(loadData,600000);
+</script>
+</body>
+</html>
