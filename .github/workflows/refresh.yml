@@ -1,0 +1,36 @@
+name: Refresh content board
+
+# The self-running engine. Researches live moments and rewrites moments.json,
+# which the hosted board picks up automatically.
+
+on:
+  schedule:
+    # Runs at the top of every hour. Change the cron to go more or less often.
+    # (GitHub's scheduler can run a few minutes late and won't do true 10-min cadence
+    #  reliably — for minute-level freshness, move this to an always-on host. See DEPLOY.md.)
+    - cron: "0 * * * *"
+  workflow_dispatch: {}   # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install
+      - name: Generate fresh ideas
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run generate
+      - name: Commit updated feed
+        run: |
+          git config user.name "nation-board-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add moments.json
+          git commit -m "Refresh ideas ($(date -u +%Y-%m-%dT%H:%MZ))" || echo "No changes"
+          git push
