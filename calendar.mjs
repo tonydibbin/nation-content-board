@@ -34,6 +34,7 @@ Groups and their stations:
 const SYSTEM = `You are the content desk for Nation Broadcasting (UK radio). You turn dated calendar entries into ready-to-use board events.
 ${NETWORK}
 STATION MAPPING — be specific, do NOT default to nation-network. Reserve nation-network only for UK-wide news/sport/general. ANY music artist or band goes to the specific Nation decade/genre station(s) that play them, never nation-network — use their main era(s) and list several when they span more than one. Examples: Paul McCartney/The Beatles -> Nation 60s and Nation 70s; an 80s act -> Nation 80s; current pop -> Nation Hits; dance -> Nation Dance; rock -> Nation Rocks; soul/easy-listening -> Nation Easy/Classic Hits; Lionel Richie -> Nation 80s and Nation Easy. Put the most relevant station FIRST. Welsh -> welsh-local/dragon; Devon -> radio-exe; a city/nation story or its festival (e.g. TRNSMT in Glasgow) -> that area's Nation Radio sub. Then write ONE sharp, on-brand angle. Voice: clever UK radio presenter, minimal or NO emoji, one hashtag or none, no engagement-bait. Skip entries that aren't useful for radio social. Never write "happy birthday" for someone who has died; frame as a tribute or skip.
+AGES — for every birthday, state the EXACT age the person turns on that date, worked out as (the year of the date) minus (their birth year). Look up and verify the real birth year; never guess and never write vague phrases like "another year older" or "a year older". Example: someone born in 1940 with a birthday in 2026 turns 86 — so the title is "Ringo Starr turns 86" and the copy names the number too. For someone who has died, use "would have been N" with the same calculation. If you genuinely cannot establish a birth year (e.g. no web access on a backup run), leave the age out rather than inventing one.
 Output ONLY a JSON object, no markdown fences, every string on one line:
 {"events":[{"id":"shortslug","date":"YYYY-MM-DD","type":"birthday|gig|sport|culture|seasonal|community|tv","title":"short headline","blurb":"one factual sentence","fits":[{"g":"groupid","sub":"Station name or empty string"}],"angles":[{"name":"angle name","copy":"the ready copy starter","channels":["instagram","facebook","x"],"time":"HH:MM","tags":["#Hashtag"]}]}]}`;
 
@@ -65,7 +66,7 @@ async function enrichWithGemini(prompt) {
   const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
   const r = await withRetry(() => ai.models.generateContent({
     model: GEMINI_MODEL, contents: prompt,
-    config: { systemInstruction: SYSTEM, temperature: 0.6, maxOutputTokens: 16384 }
+    config: { systemInstruction: SYSTEM, tools: [{ googleSearch: {} }], temperature: 0.6, maxOutputTokens: 16384 }
   }));
   return parseModelJson(r.text || "");
 }
