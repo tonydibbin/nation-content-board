@@ -54,7 +54,7 @@ OUTPUT: Return ONLY a JSON object, no prose, no markdown fences. All string valu
    }
  ]
 }
-"off" is whole days from today (${today}); 0 = today. Aim for 18-30 strong moments covering as many stations as the real news allows, including some local Welsh, Dragon and Radio Exe stories where genuine local hooks exist.`;
+"off" is whole days from today (${today}); 0 = today. Aim for 14-20 strong moments covering as many stations as the real news allows, including some local Welsh, Dragon and Radio Exe stories where genuine local hooks exist. Keep it concise so the whole JSON object is complete and not cut off.`;
 
 const PROMPT = `Today is ${today}. Use Google Search to find what's live and talked-about in the UK right now (sport incl. any World Cup/football, big gigs this week, the singles chart, major TV, notable artist birthdays, seasonal moments) and produce the moments JSON for the Nation Broadcasting board. No almanac/"on this day", no awareness-day filler, get every age and date right. Output only the JSON object, with every string on a single line.`;
 
@@ -71,13 +71,13 @@ const run = async () => {
   });
 
   const text = res.text || "";
-  const start = text.indexOf("{");
-  const end = text.lastIndexOf("}");
+  // Strip markdown code fences / backticks and any control characters, then take the
+  // outermost { ... } — models often wrap JSON in ```json fences or stray line breaks.
+  const clean = text.replace(/`+/g, " ").replace(new RegExp("[\\u0000-\\u001F]+", "g"), " ");
+  const start = clean.indexOf("{");
+  const end = clean.lastIndexOf("}");
   if (start < 0 || end < 0) throw new Error("No JSON found in model output:\n" + text.slice(0, 500));
-  // Models sometimes emit raw line breaks / control characters inside JSON strings,
-  // which strict JSON.parse rejects. Collapse any control characters to spaces first.
-  const raw = text.slice(start, end + 1).replace(new RegExp("[\\u0000-\\u001F]+", "g"), " ");
-  const data = JSON.parse(raw);
+  const data = JSON.parse(clean.slice(start, end + 1));
 
   if (!Array.isArray(data.moments) || data.moments.length === 0) throw new Error("No moments generated");
   data.updated = new Date().toISOString();
