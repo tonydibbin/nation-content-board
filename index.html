@@ -430,7 +430,7 @@ function angleHTML(m,a,i){
   return `<div class="angle">
     <div class="an"><div class="anum">${i+1}</div><div class="anname">${esc(a.name)}</div>${a.for?`<span class="chip" style="margin-left:auto">Best for ${esc(a.for)}</span>`:''}</div>
     <div class="copy">${esc(a.copy)}</div>
-    <div class="meta">${a.channels.map(c=>`<span class="ch">${esc(CH[c].n)}</span>`).join('')}
+    <div class="meta">${(a.channels||[]).filter(c=>CH[c]).map(c=>`<span class="ch">${esc(CH[c].n)}</span>`).join('')}
       <span class="chip">⏰ ${fmtT(a.time)}</span>
       ${a.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join(' ')}</div>
     <div class="acts">
@@ -455,7 +455,8 @@ function copyText(mid,i){
 function openEdit(mid,i){
   const m=MOMENTS.find(x=>x.id===mid);const a=m.angles[i];
   const f0=m.fits[0];
-  S.edit={momentId:mid,angle:a.name,station:f0.g,sub:a.for||f0.sub||'',channels:[...a.channels],body:a.copy+'\n\n'+a.tags.join(' '),title:m.title};
+  const chans=(a.channels||[]).filter(c=>CH[c]); if(!chans.length)chans.push('instagram','facebook');
+  S.edit={momentId:mid,angle:a.name,station:f0.g,sub:a.for||f0.sub||'',channels:chans,body:a.copy+'\n\n'+(a.tags||[]).join(' '),title:m.title};
   renderEdit();document.getElementById('editModal').classList.add('show');
 }
 function renderEdit(){
@@ -474,7 +475,7 @@ function renderEdit(){
 }
 function counts(){
   const e=S.edit,len=e.body.length;
-  document.getElementById('emCounts').innerHTML=(e.channels.length?e.channels:['instagram']).map(c=>{
+  document.getElementById('emCounts').innerHTML=(e.channels.length?e.channels:['instagram']).filter(c=>CH[c]).map(c=>{
     const over=len>CH[c].lim;return `<span class="${over?'over':''}">${CH[c].n}: ${len}/${CH[c].lim}</span>`;
   }).join('');
 }

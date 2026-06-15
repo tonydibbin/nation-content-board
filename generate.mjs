@@ -84,6 +84,15 @@ const run = async () => {
 
   // Light validation so a bad run can't wipe the board.
   const groups = ["nation-network", "decades-genres", "welsh-local", "radio-exe", "dragon"];
+  const validCh = ["instagram", "facebook", "x", "tiktok", "threads"];
+  for (const m of data.moments) {
+    if (Array.isArray(m.fits)) m.fits = m.fits.filter(f => f && groups.includes(f.g));
+    if (Array.isArray(m.angles)) for (const a of m.angles) {
+      a.channels = (Array.isArray(a.channels) ? a.channels : []).filter(c => validCh.includes(c));
+      if (!a.channels.length) a.channels = ["instagram", "facebook"];
+      if (!Array.isArray(a.tags)) a.tags = [];
+    }
+  }
   data.moments = data.moments.filter(m =>
     m && m.id && m.title && Array.isArray(m.fits) && m.fits.length && m.fits.every(f => groups.includes(f.g)) &&
     Array.isArray(m.angles) && m.angles.length && m.angles.every(a => a.copy && a.copy.trim())
