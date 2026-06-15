@@ -1,12 +1,12 @@
-// Nation Content Board — self-running idea engine.
-// Researches what's live & talked-about, writes moments.json for the board.
-// Runs on a schedule (see .github/workflows/refresh.yml). Needs ANTHROPIC_API_KEY.
+// Nation Content Board — self-running idea engine (free, Google Gemini).
+// Researches what's live & talked-about with Google Search, writes moments.json.
+// Runs on a schedule (see .github/workflows/refresh.yml). Needs a free GEMINI_API_KEY.
 
-import Anthropic from "@anthropic-ai/sdk";
+import { GoogleGenAI } from "@google/genai";
 import { writeFileSync } from "node:fs";
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-const MODEL = process.env.MODEL || "claude-sonnet-4-6";
+const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+const MODEL = process.env.MODEL || "gemini-2.0-flash";
 const today = new Date().toISOString().slice(0, 10);
 
 // The Nation Broadcasting network the board serves.
@@ -25,7 +25,7 @@ ${NETWORK}
 HARD RULES on what counts as a good moment:
 - It must be genuinely live and being talked about right now or in the next ~10 days: results, fixtures, gigs that week, chart news, big TV, notable birthdays of relevant artists, real seasonal moments.
 - NO "on this day" / anniversary trivia. NO worthy awareness days. NO generic filler or invented listener shout-outs.
-- Verify facts with web search. Get ages and dates RIGHT (compute age from birth year). Do not feature anyone who has died as if alive.
+- Verify facts with Google Search. Get ages and dates RIGHT (compute age from birth year). Do not feature anyone who has died as if alive.
 - Map each moment to the station(s) it actually suits. Local stories go to local stations; decade/genre stories to the matching sub-station.
 
 VOICE of the copy starters:
@@ -39,9 +39,9 @@ OUTPUT: Return ONLY a JSON object, no prose, no markdown fences. Schema:
  "moments": [
    {
      "id": "shortslug",
-     "off": 0,                      // whole days from today (${today}); 0 = today
+     "off": 0,
      "type": "sport|gig|birthday|tv|seasonal|culture",
-     "hot": true,                   // true only for today's items
+     "hot": true,
      "title": "short headline",
      "blurb": "one factual sentence on what it is and why it matters",
      "source": { "l": "Source name", "u": "https://..." },
@@ -54,21 +54,23 @@ OUTPUT: Return ONLY a JSON object, no prose, no markdown fences. Schema:
    }
  ]
 }
-Aim for 18-30 strong moments covering as many stations as the real news allows, including at least some local Welsh, Dragon and Radio Exe stories where genuine local hooks exist.`;
+"off" is whole days from today (${today}); 0 = today. Aim for 18-30 strong moments covering as many stations as the real news allows, including some local Welsh, Dragon and Radio Exe stories where genuine local hooks exist.`;
+
+const PROMPT = `Today is ${today}. Use Google Search to find what's live and talked-about in the UK right now (sport incl. any World Cup/football, big gigs this week, the singles chart, major TV, notable artist birthdays, seasonal moments) and produce the moments JSON for the Nation Broadcasting board. No almanac/"on this day", no awareness-day filler, get every age and date right. Output only the JSON object.`;
 
 const run = async () => {
-  const msg = await client.messages.create({
+  const res = await ai.models.generateContent({
     model: MODEL,
-    max_tokens: 8000,
-    system: SYSTEM,
-    tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 8 }],
-    messages: [{
-      role: "user",
-      content: `Today is ${today}. Research what's live and talked-about in the UK right now (sport incl. any World Cup/football, big gigs this week, the singles chart, major TV, notable artist birthdays, seasonal moments) and produce the moments JSON for the Nation Broadcasting board. Remember: no almanac/"on this day", no awareness-day filler, get every age and date right.`
-    }]
+    contents: PROMPT,
+    config: {
+      systemInstruction: SYSTEM,
+      tools: [{ googleSearch: {} }],
+      temperature: 0.7,
+      maxOutputTokens: 8192
+    }
   });
 
-  const text = msg.content.filter(b => b.type === "text").map(b => b.text).join("\n");
+  const text = res.text || "";
   const start = text.indexOf("{");
   const end = text.lastIndexOf("}");
   if (start < 0 || end < 0) throw new Error("No JSON found in model output:\n" + text.slice(0, 500));
@@ -80,7 +82,7 @@ const run = async () => {
   // Light validation so a bad run can't wipe the board.
   const groups = ["nation-network", "decades-genres", "welsh-local", "radio-exe", "dragon"];
   data.moments = data.moments.filter(m =>
-    m && m.id && m.title && Array.isArray(m.fits) && m.fits.every(f => groups.includes(f.g)) &&
+    m && m.id && m.title && Array.isArray(m.fits) && m.fits.length && m.fits.every(f => groups.includes(f.g)) &&
     Array.isArray(m.angles) && m.angles.length && m.angles.every(a => a.copy && a.copy.trim())
   );
   if (data.moments.length === 0) throw new Error("All moments failed validation");
