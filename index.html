@@ -128,7 +128,7 @@
   var g=document.getElementById('gate');
   if(sessionStorage.getItem('nb_ok')==='1'){g.style.display='none';return;}
   function go(){var v=document.getElementById('gatePw').value;
-    if(v===PW){sessionStorage.setItem('nb_ok','1');g.style.display='none';}
+    if(v.trim().toLowerCase()===PW.toLowerCase()){sessionStorage.setItem('nb_ok','1');g.style.display='none';}
     else{document.getElementById('gateErr').textContent='Incorrect password';}}
   document.getElementById('gateBtn').onclick=go;
   document.getElementById('gatePw').addEventListener('keydown',function(e){if(e.key==='Enter')go();});
