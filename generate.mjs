@@ -6,7 +6,7 @@ import { GoogleGenAI } from "@google/genai";
 import { writeFileSync } from "node:fs";
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-const MODEL = process.env.MODEL || "gemini-2.0-flash";
+const MODEL = process.env.MODEL || "gemini-2.5-flash";
 const today = new Date().toISOString().slice(0, 10);
 
 // The Nation Broadcasting network the board serves.
