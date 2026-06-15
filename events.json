@@ -159,6 +159,66 @@
    "angles": [
     { "name": "The North East's day", "for": "Nation Radio North East", "copy": "The Great North Run is back — tens of thousands pounding from Newcastle to South Shields. The North East at its proudest and sweatiest. Running, or cheering?", "channels": ["facebook","instagram"], "time": "09:00", "tags": ["#GreatNorthRun"] }
    ]
+  },
+  {
+   "id": "ev_royalwelsh",
+   "date": "2026-07-20",
+   "type": "culture",
+   "title": "Royal Welsh Show",
+   "blurb": "The Royal Welsh Show runs 20–23 July 2026 at Llanelwedd, Builth Wells — the biggest agricultural show in Europe.",
+   "source": { "l": "Royal Welsh", "u": "https://rwas.wales/royal-welsh/" },
+   "fits": [ { "g": "welsh-local", "sub": "" }, { "g": "dragon", "sub": "" } ],
+   "angles": [
+    { "name": "Builth bound", "copy": "The Royal Welsh Show is back at Llanelwedd this week — four days of the best of Welsh farming, food and rural life. The biggest week of the year for so many. Croeso!", "channels": ["facebook","instagram"], "time": "10:00", "tags": ["#RoyalWelshShow"] }
+   ]
+  },
+  {
+   "id": "ev_eisteddfod",
+   "date": "2026-08-01",
+   "type": "culture",
+   "title": "National Eisteddfod of Wales",
+   "blurb": "The National Eisteddfod comes to North Pembrokeshire, 1–8 August 2026 — Wales' great celebration of language, music and culture.",
+   "source": { "l": "Eisteddfod", "u": "https://eisteddfod.wales/" },
+   "fits": [ { "g": "welsh-local", "sub": "Radio Pembrokeshire" }, { "g": "welsh-local", "sub": "" }, { "g": "dragon", "sub": "" } ],
+   "angles": [
+    { "name": "Yr Eisteddfod", "copy": "The National Eisteddfod comes to North Pembrokeshire this week — a celebration of Welsh language, music and culture like nowhere else on earth. Pob lwc to everyone competing.", "channels": ["facebook","instagram"], "time": "10:00", "tags": ["#Eisteddfod"] }
+   ]
+  },
+  {
+   "id": "ev_greenman",
+   "date": "2026-08-20",
+   "type": "gig",
+   "title": "Green Man Festival",
+   "blurb": "Green Man returns to the Black Mountains, Powys, 20–23 August 2026 — one of Wales' best-loved music festivals.",
+   "source": { "l": "Green Man", "u": "https://www.greenman.net/" },
+   "fits": [ { "g": "dragon", "sub": "" }, { "g": "welsh-local", "sub": "" }, { "g": "decades-genres", "sub": "Nation Hits" } ],
+   "angles": [
+    { "name": "Green Man rises", "copy": "Green Man returns to the Black Mountains this weekend — four days of music, mountains and the odd bit of mizzle, in one of the most beautiful corners of Wales. Sold out, naturally.", "channels": ["instagram","tiktok"], "time": "12:00", "tags": ["#GreenMan"] }
+   ]
+  },
+  {
+   "id": "ev_sidmouth",
+   "date": "2026-07-31",
+   "type": "gig",
+   "title": "Sidmouth Folk Festival",
+   "blurb": "The 72nd Sidmouth Folk Festival takes over the Devon seaside town, 31 July–7 August 2026.",
+   "source": { "l": "Sidmouth Folk Festival", "u": "https://sidmouthfolkfestival.co.uk/" },
+   "fits": [ { "g": "radio-exe", "sub": "" } ],
+   "angles": [
+    { "name": "Folk by the sea", "for": "Radio Exe", "copy": "Sidmouth Folk Festival takes over the seafront from this week — a week of music, dancing and the friendliest crowd in Devon. A proper local institution.", "channels": ["facebook","instagram"], "time": "11:00", "tags": ["#SidmouthFolk"] }
+   ]
+  },
+  {
+   "id": "ev_beautifuldays",
+   "date": "2026-08-21",
+   "type": "gig",
+   "title": "Beautiful Days Festival",
+   "blurb": "Beautiful Days — the Levellers' own festival — runs 21–23 August 2026 at Escot Park, Ottery St Mary, Devon.",
+   "source": { "l": "Beautiful Days", "u": "https://www.beautifuldays.org/" },
+   "fits": [ { "g": "radio-exe", "sub": "" }, { "g": "decades-genres", "sub": "Nation Rocks" } ],
+   "angles": [
+    { "name": "No sponsors, no fuss", "for": "Radio Exe", "copy": "Beautiful Days lands at Escot Park this weekend — the Levellers' own festival, right here in Devon. No sponsors, no branding, just a brilliant weekend. Who's going?", "channels": ["instagram","facebook"], "time": "12:00", "tags": ["#BeautifulDays"] }
+   ]
   }
  ]
 }
