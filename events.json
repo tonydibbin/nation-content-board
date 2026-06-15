@@ -1,0 +1,164 @@
+{
+ "note": "Forward calendar of known upcoming events. Uses absolute dates; the board computes how far away each is. Add your own events here any time.",
+ "events": [
+  {
+   "id": "ev_wimbledon",
+   "date": "2026-06-29",
+   "type": "sport",
+   "title": "Wimbledon begins",
+   "blurb": "The Wimbledon Championships run 29 June–12 July 2026 — two weeks of grass-court tennis at SW19.",
+   "source": { "l": "Wimbledon", "u": "https://www.wimbledon.com/en_GB/the_championships/dates" },
+   "fits": [ { "g": "nation-network", "sub": "Nation Radio London" }, { "g": "nation-network", "sub": "" } ],
+   "angles": [
+    { "name": "Strawberries and serves", "copy": "Wimbledon starts today: two weeks of strawberries, impossible queues and at least one British hope to get behind. Who's your pick for the title?", "channels": ["instagram","facebook","x"], "time": "11:00", "tags": ["#Wimbledon"] },
+    { "name": "It's SW19 season", "copy": "Grass-court season is here. Wimbledon is back, and so is the national pastime of pretending we understand tennis for a fortnight.", "channels": ["x","instagram"], "time": "13:00", "tags": ["#Wimbledon"] }
+   ]
+  },
+  {
+   "id": "ev_britishgp",
+   "date": "2026-07-05",
+   "type": "sport",
+   "title": "British Grand Prix at Silverstone",
+   "blurb": "Race day at Silverstone — the British Grand Prix, round 12 of the 2026 F1 season.",
+   "source": { "l": "Formula 1", "u": "https://www.formula1.com/en/racing/2026/great-britain" },
+   "fits": [ { "g": "nation-network", "sub": "" } ],
+   "angles": [
+    { "name": "Lights out at Silverstone", "copy": "Lights out at Silverstone today — the British Grand Prix, the loudest, fastest weekend on the calendar. Who's taking the win?", "channels": ["instagram","x"], "time": "12:00", "tags": ["#BritishGP"] }
+   ]
+  },
+  {
+   "id": "ev_theopen",
+   "date": "2026-07-16",
+   "type": "sport",
+   "title": "The Open at Royal Birkdale",
+   "blurb": "The 154th Open Championship is held at Royal Birkdale, 16–19 July 2026.",
+   "source": { "l": "The Open", "u": "https://www.theopen.com/royal-birkdale-154th-open" },
+   "fits": [ { "g": "nation-network", "sub": "" } ],
+   "angles": [
+    { "name": "The Claret Jug is up", "copy": "The Open is back, at Royal Birkdale — links golf, coastal winds and the Claret Jug on the line. Four days, one champion.", "channels": ["facebook","instagram"], "time": "10:00", "tags": ["#TheOpen"] }
+   ]
+  },
+  {
+   "id": "ev_commonwealth",
+   "date": "2026-07-23",
+   "type": "sport",
+   "title": "Glasgow Commonwealth Games open",
+   "blurb": "The Commonwealth Games come to Glasgow, 23 July–2 August 2026 — a home Games for Scotland.",
+   "source": { "l": "Glasgow 2026", "u": "https://www.glasgow2026.com/" },
+   "fits": [ { "g": "nation-network", "sub": "Nation Radio Scotland" }, { "g": "nation-network", "sub": "" } ],
+   "angles": [
+    { "name": "Glasgow's moment", "for": "Nation Radio Scotland", "copy": "It's finally here — the Commonwealth Games come to Glasgow today. Scotland's chance to shine in front of a home crowd. Who are you cheering on?", "channels": ["instagram","facebook","x"], "time": "10:00", "tags": ["#Glasgow2026"] },
+    { "name": "Bring on the medals", "copy": "Ten sports, one city, a fortnight of action — the Commonwealth Games begin in Glasgow today. Expect noise.", "channels": ["instagram","x"], "time": "18:00", "tags": ["#CommonwealthGames"] }
+   ]
+  },
+  {
+   "id": "ev_sqa",
+   "date": "2026-08-04",
+   "type": "community",
+   "title": "SQA results day (Scotland)",
+   "blurb": "Scottish exam results (SQA) are released to students on 4 August 2026.",
+   "source": { "l": "SQA", "u": "https://www.sqa.org.uk/" },
+   "fits": [ { "g": "nation-network", "sub": "Nation Radio Scotland" } ],
+   "angles": [
+    { "name": "Results morning", "for": "Nation Radio Scotland", "copy": "Big morning across Scotland — SQA results are out. However today goes, there's always a way forward. Sending calm to every student opening that envelope.", "channels": ["facebook","instagram"], "time": "08:00", "tags": ["#SQAResults"] }
+   ]
+  },
+  {
+   "id": "ev_fringe",
+   "date": "2026-08-07",
+   "type": "culture",
+   "title": "Edinburgh Festival Fringe",
+   "blurb": "The world's biggest arts festival takes over Edinburgh, 7–31 August 2026.",
+   "source": { "l": "Edinburgh Fringe", "u": "https://www.edfringe.com/" },
+   "fits": [ { "g": "nation-network", "sub": "Nation Radio Scotland" } ],
+   "angles": [
+    { "name": "The Fringe is back", "for": "Nation Radio Scotland", "copy": "The world's biggest arts festival takes over Edinburgh from today — three weeks of comedy, theatre and glorious chaos. What are you booking?", "channels": ["instagram","facebook"], "time": "11:00", "tags": ["#EdFringe"] }
+   ]
+  },
+  {
+   "id": "ev_alevels",
+   "date": "2026-08-13",
+   "type": "community",
+   "title": "A-level results day",
+   "blurb": "A-level results day in England, Wales and Northern Ireland — 13 August 2026.",
+   "source": { "l": "UCAS", "u": "https://www.ucas.com/" },
+   "fits": [ { "g": "nation-network", "sub": "" } ],
+   "angles": [
+    { "name": "Whatever the envelope says", "copy": "A-level results day. Whether it's the grades you wanted or a quick change of plan, it works out — it really does. Good luck to everyone today.", "channels": ["facebook","instagram"], "time": "08:00", "tags": ["#ALevelResults"] }
+   ]
+  },
+  {
+   "id": "ev_gcses",
+   "date": "2026-08-20",
+   "type": "community",
+   "title": "GCSE results day",
+   "blurb": "GCSE results day in England, Wales and Northern Ireland — 20 August 2026.",
+   "source": { "l": "The Uni Guide", "u": "https://www.theuniguide.co.uk/" },
+   "fits": [ { "g": "nation-network", "sub": "" } ],
+   "angles": [
+    { "name": "Deep breath", "copy": "GCSE results day. Deep breath — these don't define you, there are more routes than ever, and you've already done the hard bit. You've got this.", "channels": ["facebook","instagram"], "time": "08:00", "tags": ["#GCSEResults"] }
+   ]
+  },
+  {
+   "id": "ev_premierleague",
+   "date": "2026-08-22",
+   "type": "sport",
+   "title": "Premier League season kicks off",
+   "blurb": "The 2026/27 Premier League season starts on 22 August 2026.",
+   "source": { "l": "Premier League", "u": "https://www.premierleague.com/" },
+   "fits": [ { "g": "nation-network", "sub": "" } ],
+   "angles": [
+    { "name": "Football's back", "copy": "The wait is over — the Premier League returns today. New season, fresh optimism, and a table nobody can argue with yet. Who's your dark horse?", "channels": ["instagram","x","facebook"], "time": "11:00", "tags": ["#PremierLeague"] }
+   ]
+  },
+  {
+   "id": "ev_readingleeds",
+   "date": "2026-08-27",
+   "type": "gig",
+   "title": "Reading & Leeds Festival",
+   "blurb": "Reading & Leeds runs 27–30 August 2026, with headliners including Fontaines D.C., Florence + The Machine, Chase & Status and RAYE.",
+   "source": { "l": "Reading & Leeds", "u": "https://www.readingandleedsfestival.com/" },
+   "fits": [ { "g": "decades-genres", "sub": "Nation Hits" }, { "g": "decades-genres", "sub": "Nation Rocks" }, { "g": "decades-genres", "sub": "Nation Dance" } ],
+   "angles": [
+    { "name": "Mud and magic", "copy": "Reading & Leeds kicks off today — Fontaines D.C., Florence + The Machine, Chase & Status, RAYE and a field full of mud and magic. Who are you there for?", "channels": ["instagram","tiktok"], "time": "12:00", "tags": ["#ReadingLeeds"] },
+    { "name": "Festival soundtrack", "copy": "Not heading to Reading or Leeds? We've got the line-up on rotation all weekend, no wellies required.", "channels": ["instagram"], "time": "17:00", "tags": ["#ReadingLeeds"] }
+   ]
+  },
+  {
+   "id": "ev_carnival",
+   "date": "2026-08-30",
+   "type": "culture",
+   "title": "Notting Hill Carnival turns 60",
+   "blurb": "Notting Hill Carnival takes to the streets on 30–31 August 2026 — its 60th anniversary.",
+   "source": { "l": "Notting Hill Carnival", "u": "https://nhcarnival.org/" },
+   "fits": [ { "g": "nation-network", "sub": "Nation Radio London" }, { "g": "decades-genres", "sub": "Nation Dance" } ],
+   "angles": [
+    { "name": "Sixty years of Carnival", "for": "Nation Radio London", "copy": "Notting Hill Carnival hits the streets this weekend — and it's the big 60th. London's loudest, most colourful party. Are you going down?", "channels": ["instagram","facebook"], "time": "11:00", "tags": ["#NottingHillCarnival"] }
+   ]
+  },
+  {
+   "id": "ev_bankhol",
+   "date": "2026-08-31",
+   "type": "seasonal",
+   "title": "August bank holiday",
+   "blurb": "The summer bank holiday Monday in England, Wales and Northern Ireland — 31 August 2026.",
+   "source": { "l": "GOV.UK", "u": "https://www.gov.uk/bank-holidays" },
+   "fits": [ { "g": "nation-network", "sub": "" } ],
+   "angles": [
+    { "name": "Last long weekend", "copy": "Bank holiday Monday — the last big long weekend of the summer. BBQ, beach, or back under the duvet? No wrong answers.", "channels": ["instagram","facebook"], "time": "09:00", "tags": ["#BankHoliday"] }
+   ]
+  },
+  {
+   "id": "ev_greatnorthrun",
+   "date": "2026-09-13",
+   "type": "community",
+   "title": "The Great North Run",
+   "blurb": "The Great North Run — the world's biggest half marathon — runs from Newcastle to South Shields in mid-September.",
+   "source": { "l": "Great Run", "u": "https://www.greatrun.org/events/great-north-run/" },
+   "fits": [ { "g": "nation-network", "sub": "Nation Radio North East" } ],
+   "angles": [
+    { "name": "The North East's day", "for": "Nation Radio North East", "copy": "The Great North Run is back — tens of thousands pounding from Newcastle to South Shields. The North East at its proudest and sweatiest. Running, or cheering?", "channels": ["facebook","instagram"], "time": "09:00", "tags": ["#GreatNorthRun"] }
+   ]
+  }
+ ]
+}

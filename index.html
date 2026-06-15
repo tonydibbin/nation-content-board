@@ -589,12 +589,29 @@ function setStatus(id,s){const d=DRAFTS.find(x=>x.id===id);if(d){d.status=s;save
 function delDraft(id){DRAFTS=DRAFTS.filter(x=>x.id!==id);save();render()}
 
 /* ---------- init + live data ---------- */
-function applyData(d){
-  if(d&&Array.isArray(d.moments)&&d.moments.length){MOMENTS=d.moments;if(d.updated)LAST_UPDATED=new Date(d.updated);}
-  if(!MOMENTS.find(m=>m.id===S.sel))S.sel=MOMENTS[0]&&MOMENTS[0].id;
+/* Convert the forward-events calendar (absolute dates) into moments with an `off`
+   (days from today). The live engine owns the detailed next week (off 0-6); the
+   forward events fill the runway from 7 days out. */
+function eventsToMoments(ev){
+  if(!ev||!Array.isArray(ev.events))return [];
+  const today=new Date(); today.setHours(0,0,0,0);
+  return ev.events.map(e=>{
+    const d=new Date(e.date+'T00:00:00');
+    const off=Math.round((d-today)/86400000);
+    return Object.assign({},e,{off,hot:false});
+  }).filter(e=>e.off>=7 && e.off<=120 && Array.isArray(e.fits) && e.fits.length && Array.isArray(e.angles) && e.angles.length);
 }
 function loadData(){
-  fetch('moments.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).then(d=>{applyData(d);render();}).catch(()=>render());
+  Promise.all([
+    fetch('moments.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
+    fetch('events.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
+  ]).then(function(res){
+    const m=res[0], ev=res[1];
+    const live=(m&&Array.isArray(m.moments)&&m.moments.length)?m.moments:FALLBACK_MOMENTS;
+    if(m&&m.updated)LAST_UPDATED=new Date(m.updated);
+    MOMENTS=live.concat(eventsToMoments(ev));
+    render();
+  }).catch(()=>render());
 }
 buildFilter();render();loadData();
 /* Re-pull the feed every 10 minutes so freshly generated ideas appear for everyone. */
