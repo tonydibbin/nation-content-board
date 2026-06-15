@@ -33,7 +33,7 @@ VOICE of the copy starters:
 - Minimal or NO emoji. One hashtag or none. No engagement-bait ("tag a mate").
 - Each moment gets 2-3 distinct ANGLES (different creative takes), each with a ready copy starter.
 
-OUTPUT: Return ONLY a JSON object, no prose, no markdown fences. Schema:
+OUTPUT: Return ONLY a JSON object, no prose, no markdown fences. All string values must be on a single line (no raw line breaks inside strings). Schema:
 {
  "updated": "ISO timestamp",
  "moments": [
@@ -56,7 +56,7 @@ OUTPUT: Return ONLY a JSON object, no prose, no markdown fences. Schema:
 }
 "off" is whole days from today (${today}); 0 = today. Aim for 18-30 strong moments covering as many stations as the real news allows, including some local Welsh, Dragon and Radio Exe stories where genuine local hooks exist.`;
 
-const PROMPT = `Today is ${today}. Use Google Search to find what's live and talked-about in the UK right now (sport incl. any World Cup/football, big gigs this week, the singles chart, major TV, notable artist birthdays, seasonal moments) and produce the moments JSON for the Nation Broadcasting board. No almanac/"on this day", no awareness-day filler, get every age and date right. Output only the JSON object.`;
+const PROMPT = `Today is ${today}. Use Google Search to find what's live and talked-about in the UK right now (sport incl. any World Cup/football, big gigs this week, the singles chart, major TV, notable artist birthdays, seasonal moments) and produce the moments JSON for the Nation Broadcasting board. No almanac/"on this day", no awareness-day filler, get every age and date right. Output only the JSON object, with every string on a single line.`;
 
 const run = async () => {
   const res = await ai.models.generateContent({
@@ -74,7 +74,10 @@ const run = async () => {
   const start = text.indexOf("{");
   const end = text.lastIndexOf("}");
   if (start < 0 || end < 0) throw new Error("No JSON found in model output:\n" + text.slice(0, 500));
-  const data = JSON.parse(text.slice(start, end + 1));
+  // Models sometimes emit raw line breaks / control characters inside JSON strings,
+  // which strict JSON.parse rejects. Collapse any control characters to spaces first.
+  const raw = text.slice(start, end + 1).replace(new RegExp("[\\u0000-\\u001F]+", "g"), " ");
+  const data = JSON.parse(raw);
 
   if (!Array.isArray(data.moments) || data.moments.length === 0) throw new Error("No moments generated");
   data.updated = new Date().toISOString();
