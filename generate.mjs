@@ -60,8 +60,22 @@ OUTPUT: Return ONLY a JSON object, no prose, no markdown fences. All string valu
 
 const PROMPT = `Today is ${today}. Use Google Search to find what's live and talked-about in the UK right now (sport incl. any World Cup/football, big gigs this week, the singles chart, major TV, notable artist birthdays, seasonal moments) and produce the moments JSON for the Nation Broadcasting board. No almanac/"on this day", no awareness-day filler, get every age and date right. Output only the JSON object, with every string on a single line.`;
 
+// Retry transient model errors (503 high demand, 429 rate limit, overload).
+async function withRetry(fn, tries = 5) {
+  for (let i = 0; i < tries; i++) {
+    try { return await fn(); }
+    catch (e) {
+      const msg = String((e && e.message) || e);
+      const transient = /\b(429|500|502|503)\b|unavailable|resource_exhausted|overloaded|high demand|try again/i.test(msg);
+      if (i === tries - 1 || !transient) throw e;
+      console.log(`Transient model error, retrying in ${6 * (i + 1)}s…`);
+      await new Promise(r => setTimeout(r, 6000 * (i + 1)));
+    }
+  }
+}
+
 const run = async () => {
-  const res = await ai.models.generateContent({
+  const res = await withRetry(() => ai.models.generateContent({
     model: MODEL,
     contents: PROMPT,
     config: {
@@ -70,7 +84,7 @@ const run = async () => {
       temperature: 0.7,
       maxOutputTokens: 16384
     }
-  });
+  }));
 
   const text = res.text || "";
   // Strip markdown code fences / backticks and any control characters, then take the

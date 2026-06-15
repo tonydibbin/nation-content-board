@@ -64,11 +64,22 @@ const run = async () => {
     items.map(e => `${e.date} — ${e.title}${e.notes ? (" — " + e.notes) : ""}`).join("\n");
 
   const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-  const r = await ai.models.generateContent({
+  const withRetry = async (fn, tries = 5) => {
+    for (let i = 0; i < tries; i++) {
+      try { return await fn(); }
+      catch (e) {
+        const msg = String((e && e.message) || e);
+        const transient = /\b(429|500|502|503)\b|unavailable|resource_exhausted|overloaded|high demand|try again/i.test(msg);
+        if (i === tries - 1 || !transient) throw e;
+        await new Promise(r => setTimeout(r, 6000 * (i + 1)));
+      }
+    }
+  };
+  const r = await withRetry(() => ai.models.generateContent({
     model: process.env.MODEL || "gemini-2.5-flash",
     contents: prompt,
     config: { systemInstruction: SYSTEM, temperature: 0.6, maxOutputTokens: 16384 }
-  });
+  }));
 
   const t = (r.text || "").replace(/`+/g, " ").replace(new RegExp("[\\u0000-\\u001F]+", "g"), " ");
   const s = t.indexOf("{"), en = t.lastIndexOf("}");
