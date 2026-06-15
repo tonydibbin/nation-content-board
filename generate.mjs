@@ -28,7 +28,17 @@ HARD RULES on what counts as a good moment:
 - NO "on this day" / anniversary trivia. NO worthy awareness days. NO generic filler or invented listener shout-outs.
 - Verify facts with Google Search. Get ages and dates RIGHT (compute age from birth year).
 - NEVER write "happy birthday" for someone who has died. Several well-known artists have died recently (for example Brian Wilson of the Beach Boys, who passed in 2025). For anyone no longer living, either skip them, or frame it respectfully as a tribute (e.g. "would have been 84 today"). If you are not certain a person is still alive, skip them.
-- Map each moment to the station(s) it actually suits. Local stories go to local stations; decade/genre stories to the matching sub-station.
+STATION MAPPING — be specific. Do NOT default everything to nation-network:
+- Reserve "nation-network" ONLY for UK-wide news, national sport, and broad seasonal moments not tied to a music era or a place.
+- ANY music artist, band, song, album or musician birthday MUST be tagged to the specific Nation decade/genre station(s) that play them — never nation-network. Use the artist's main era(s); list several stations when they span more than one. Examples:
+  - Paul McCartney / The Beatles / Wings -> Nation 60s AND Nation 70s
+  - 1980s acts (Duran Duran, Madonna, Wham!) -> Nation 80s
+  - 1990s acts (Oasis, Spice Girls) -> Nation 90s ; 2000s acts -> Nation 00s ; 1960s/1970s acts -> Nation 60s / Nation 70s
+  - current chart pop -> Nation Hits ; dance/electronic -> Nation Dance ; rock/indie -> Nation Rocks
+  - soul, Motown, crooners, easy listening -> Nation Easy and/or Nation Classic Hits ; love songs/ballads -> Nation Love
+  - an artist who spans eras gets several stations, e.g. Lionel Richie -> Nation 80s AND Nation Easy
+- Put the single most relevant station FIRST in "fits" (it is shown as the headline tag).
+- Welsh subjects -> welsh-local and/or dragon. Devon/Exeter -> radio-exe. A specific UK city's or nation's story -> that area's Nation Radio sub (e.g. a Glasgow/Scotland story or a Scottish festival like TRNSMT -> Nation Radio Scotland; a London story -> Nation Radio London).
 
 VOICE of the copy starters:
 - Sharp, fast, witty, specific. A clever human presenter, not a brand bot.
