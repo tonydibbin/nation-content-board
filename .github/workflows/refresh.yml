@@ -2,6 +2,8 @@ name: Refresh content board
 
 # The self-running engine. Rewrites moments.json (live ideas) and calendar.json
 # (your live team calendar). The board picks both up automatically.
+# PRIMARY model: Google Gemini (with web grounding). BACKUP: Groq (free) if Gemini
+# is overloaded. Both steps are non-fatal so a model outage can never break the run.
 
 on:
   schedule:
@@ -21,13 +23,16 @@ jobs:
           node-version: "20"
       - run: npm install
       - name: Generate fresh ideas
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: npm run generate
       - name: Sync the live team calendar
         continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           CAL_URL: ${{ secrets.CAL_URL }}
         run: npm run calendar
       - name: Commit updated feed
