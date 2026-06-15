@@ -602,14 +602,12 @@ function eventsToMoments(ev){
   }).filter(e=>e.off>=7 && e.off<=120 && Array.isArray(e.fits) && e.fits.length && Array.isArray(e.angles) && e.angles.length);
 }
 function loadData(){
-  Promise.all([
-    fetch('moments.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
-    fetch('events.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
-  ]).then(function(res){
-    const m=res[0], ev=res[1];
+  const grab=u=>fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+  Promise.all([grab('moments.json'),grab('events.json'),grab('calendar.json')]).then(function(res){
+    const m=res[0], ev=res[1], cal=res[2];
     const live=(m&&Array.isArray(m.moments)&&m.moments.length)?m.moments:FALLBACK_MOMENTS;
     if(m&&m.updated)LAST_UPDATED=new Date(m.updated);
-    MOMENTS=live.concat(eventsToMoments(ev));
+    MOMENTS=live.concat(eventsToMoments(ev)).concat(eventsToMoments(cal));
     render();
   }).catch(()=>render());
 }

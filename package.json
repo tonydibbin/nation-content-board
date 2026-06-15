@@ -4,9 +4,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "generate": "node generate.mjs"
+    "generate": "node generate.mjs",
+    "calendar": "node calendar.mjs"
   },
   "dependencies": {
-    "@google/genai": "^1.0.0"
+    "@google/genai": "^1.0.0",
+    "node-ical": "^0.20.1"
   }
 }
