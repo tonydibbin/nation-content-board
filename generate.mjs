@@ -25,7 +25,8 @@ ${NETWORK}
 HARD RULES on what counts as a good moment:
 - It must be genuinely live and being talked about right now or in the next ~10 days: results, fixtures, gigs that week, chart news, big TV, notable birthdays of relevant artists, real seasonal moments.
 - NO "on this day" / anniversary trivia. NO worthy awareness days. NO generic filler or invented listener shout-outs.
-- Verify facts with Google Search. Get ages and dates RIGHT (compute age from birth year). Do not feature anyone who has died as if alive.
+- Verify facts with Google Search. Get ages and dates RIGHT (compute age from birth year).
+- NEVER write "happy birthday" for someone who has died. Several well-known artists have died recently (for example Brian Wilson of the Beach Boys, who passed in 2025). For anyone no longer living, either skip them, or frame it respectfully as a tribute (e.g. "would have been 84 today"). If you are not certain a person is still alive, skip them.
 - Map each moment to the station(s) it actually suits. Local stories go to local stations; decade/genre stories to the matching sub-station.
 
 VOICE of the copy starters:
@@ -97,6 +98,13 @@ const run = async () => {
     m && m.id && m.title && Array.isArray(m.fits) && m.fits.length && m.fits.every(f => groups.includes(f.g)) &&
     Array.isArray(m.angles) && m.angles.length && m.angles.every(a => a.copy && a.copy.trim())
   );
+  // Guard: never let a "happy birthday" slip through for someone who has died.
+  const DECEASED = ["brian wilson"];
+  data.moments = data.moments.filter(m => {
+    const text = ((m.title || "") + " " + (m.angles || []).map(a => a.copy || "").join(" ")).toLowerCase();
+    const birthdayish = m.type === "birthday" || /happy|birthday/.test(text);
+    return !(birthdayish && DECEASED.some(n => text.includes(n)) && !/would have been|tribute|remember/.test(text));
+  });
   if (data.moments.length === 0) throw new Error("All moments failed validation");
 
   writeFileSync("moments.json", JSON.stringify(data, null, 1));
