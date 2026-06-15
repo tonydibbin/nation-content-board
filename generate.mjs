@@ -1,14 +1,18 @@
-// Nation Content Board — self-running idea engine (free, Google Gemini).
-// Researches what's live & talked-about with Google Search, writes moments.json.
-// Runs on a schedule (see .github/workflows/refresh.yml). Needs a free GEMINI_API_KEY.
+// Nation Content Board — self-running idea engine (free).
+// PRIMARY: Google Gemini with Google Search grounding (knows what's live this week).
+// BACKUP:  Groq (free, very reliable) kicks in automatically if Gemini is overloaded,
+//          working from known events + the curated events.json so the board still
+//          refreshes with solid content during a Gemini outage.
+// Writes moments.json. Runs on a schedule (see .github/workflows/refresh.yml).
 
 import { GoogleGenAI } from "@google/genai";
+import Groq from "groq-sdk";
 import { jsonrepair } from "jsonrepair";
-import { writeFileSync } from "node:fs";
+import { writeFileSync, readFileSync } from "node:fs";
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-const MODEL = process.env.MODEL || "gemini-2.5-flash";
 const today = new Date().toISOString().slice(0, 10);
+const GEMINI_MODEL = process.env.MODEL || "gemini-2.5-flash";
+const GROQ_MODEL = process.env.GROQ_MODEL || "llama-3.3-70b-versatile";
 
 // The Nation Broadcasting network the board serves.
 const NETWORK = `
@@ -19,15 +23,10 @@ Groups and their stations:
 - radio-exe (Radio Exe): Exeter / Devon local
 - dragon (Dragon Radio): Wales local`;
 
-const SYSTEM = `You are the content desk for Nation Broadcasting, a UK radio network. You produce a feed of LIVE, talked-about content ideas for social media, mapped to the right station(s). A human will design and post; you only supply the thinking.
-
+// Shared voice + mapping rules (used by both the primary and backup models).
+const RULES = `
 ${NETWORK}
 
-HARD RULES on what counts as a good moment:
-- It must be genuinely live and being talked about right now or in the next ~10 days: results, fixtures, gigs that week, chart news, big TV, notable birthdays of relevant artists, real seasonal moments.
-- NO "on this day" / anniversary trivia. NO worthy awareness days. NO generic filler or invented listener shout-outs.
-- Verify facts with Google Search. Get ages and dates RIGHT (compute age from birth year).
-- NEVER write "happy birthday" for someone who has died. Several well-known artists have died recently (for example Brian Wilson of the Beach Boys, who passed in 2025). For anyone no longer living, either skip them, or frame it respectfully as a tribute (e.g. "would have been 84 today"). If you are not certain a person is still alive, skip them.
 STATION MAPPING — be specific. Do NOT default everything to nation-network:
 - Reserve "nation-network" ONLY for UK-wide news, national sport, and broad seasonal moments not tied to a music era or a place.
 - ANY music artist, band, song, album or musician birthday MUST be tagged to the specific Nation decade/genre station(s) that play them — never nation-network. Use the artist's main era(s); list several stations when they span more than one. Examples:
@@ -44,6 +43,8 @@ VOICE of the copy starters:
 - Sharp, fast, witty, specific. A clever human presenter, not a brand bot.
 - Minimal or NO emoji. One hashtag or none. No engagement-bait ("tag a mate").
 - Each moment gets 2-3 distinct ANGLES (different creative takes), each with a ready copy starter.
+
+NEVER write "happy birthday" for someone who has died. Several well-known artists have died recently (for example Brian Wilson of the Beach Boys, who passed in 2025). For anyone no longer living, either skip them, or frame it respectfully as a tribute (e.g. "would have been 84 today"). If you are not certain a person is still alive, skip them.
 
 OUTPUT: Return ONLY a JSON object, no prose, no markdown fences. All string values must be on a single line (no raw line breaks inside strings). Schema:
 {
@@ -66,51 +67,93 @@ OUTPUT: Return ONLY a JSON object, no prose, no markdown fences. All string valu
    }
  ]
 }
-"off" is whole days from today (${today}); 0 = today. Aim for 14-20 strong moments covering as many stations as the real news allows, including some local Welsh, Dragon and Radio Exe stories where genuine local hooks exist. Keep it concise so the whole JSON object is complete and not cut off.`;
+"off" is whole days from today (${today}); 0 = today.`;
 
-const PROMPT = `Today is ${today}. Use Google Search to find what's live and talked-about in the UK right now (sport incl. any World Cup/football, big gigs this week, the singles chart, major TV, notable artist birthdays, seasonal moments) and produce the moments JSON for the Nation Broadcasting board. No almanac/"on this day", no awareness-day filler, get every age and date right. Output only the JSON object, with every string on a single line.`;
+// Primary (Gemini + Google Search): can see what's genuinely live this week.
+const SYSTEM_SEARCH = `You are the content desk for Nation Broadcasting, a UK radio network. You produce a feed of LIVE, talked-about content ideas for social media, mapped to the right station(s). A human will design and post; you only supply the thinking.
 
-// Retry transient model errors (503 high demand, 429 rate limit, overload).
-async function withRetry(fn, tries = 5) {
+HARD RULES on what counts as a good moment:
+- It must be genuinely live and being talked about right now or in the next ~10 days: results, fixtures, gigs that week, chart news, big TV, notable birthdays of relevant artists, real seasonal moments.
+- NO "on this day" / anniversary trivia. NO worthy awareness days. NO generic filler or invented listener shout-outs.
+- Verify facts with Google Search. Get ages and dates RIGHT (compute age from birth year).
+${RULES}
+Aim for 14-20 strong moments covering as many stations as the real news allows, including some local Welsh, Dragon and Radio Exe stories where genuine local hooks exist. Keep it concise so the whole JSON object is complete and not cut off.`;
+
+// Backup (Groq, no web access): grounded in known events + the curated events list,
+// so it stays accurate without inventing live results it can't verify.
+const SYSTEM_NOSEARCH = `You are the content desk for Nation Broadcasting, a UK radio network. You produce a feed of content ideas for social media, mapped to the right station(s). A human will design and post.
+
+IMPORTANT: You do NOT have web access right now. So do NOT invent live sports scores, this-week chart positions, or "tonight's" gigs — you cannot verify them and must not guess. Instead build the feed from: (a) the list of confirmed upcoming events provided below, and (b) well-known, reliable facts you are confident about — notably famous musicians' birthdays around today's date and genuine seasonal moments. If you are not certain a fact or a person being alive, skip it. Quality over quantity.
+${RULES}
+Aim for 10-16 solid moments. Lean on the provided events and confident evergreen hooks. Keep it concise so the whole JSON object is complete and not cut off.`;
+
+const PROMPT_SEARCH = `Today is ${today}. Use Google Search to find what's live and talked-about in the UK right now (sport incl. any World Cup/football, big gigs this week, the singles chart, major TV, notable artist birthdays, seasonal moments) and produce the moments JSON for the Nation Broadcasting board. No almanac/"on this day", no awareness-day filler, get every age and date right. Output only the JSON object, with every string on a single line.`;
+
+// Retry transient model errors (503 high demand, 429 rate limit, overload, timeouts).
+function isTransient(e) {
+  const msg = String((e && e.message) || e);
+  return /\b(429|500|502|503|504)\b|unavailable|resource_exhausted|overloaded|high demand|try again|timeout|ETIMEDOUT|ECONNRESET/i.test(msg);
+}
+async function withRetry(fn, tries = 4) {
   for (let i = 0; i < tries; i++) {
     try { return await fn(); }
     catch (e) {
-      const msg = String((e && e.message) || e);
-      const transient = /\b(429|500|502|503)\b|unavailable|resource_exhausted|overloaded|high demand|try again/i.test(msg);
-      if (i === tries - 1 || !transient) throw e;
-      console.log(`Transient model error, retrying in ${6 * (i + 1)}s…`);
-      await new Promise(r => setTimeout(r, 6000 * (i + 1)));
+      if (i === tries - 1 || !isTransient(e)) throw e;
+      const wait = 5000 * (i + 1);
+      console.log(`Transient model error, retrying in ${wait / 1000}s…`);
+      await new Promise(r => setTimeout(r, wait));
     }
   }
 }
 
-const run = async () => {
-  const res = await withRetry(() => ai.models.generateContent({
-    model: MODEL,
-    contents: PROMPT,
-    config: {
-      systemInstruction: SYSTEM,
-      tools: [{ googleSearch: {} }],
-      temperature: 0.7,
-      maxOutputTokens: 16384
-    }
-  }));
-
-  const text = res.text || "";
-  // Strip markdown code fences / backticks and any control characters, then take the
-  // outermost { ... } — models often wrap JSON in ```json fences or stray line breaks.
-  const clean = text.replace(/`+/g, " ").replace(new RegExp("[\\u0000-\\u001F]+", "g"), " ");
-  const start = clean.indexOf("{");
-  const end = clean.lastIndexOf("}");
-  if (start < 0 || end < 0) throw new Error("No JSON found in model output:\n" + text.slice(0, 500));
+// Pull the outermost { ... }, strip fences/control chars, parse (repair if needed).
+function parseModelJson(text) {
+  const clean = String(text || "").replace(/`+/g, " ").replace(new RegExp("[\\u0000-\\u001F]+", "g"), " ");
+  const start = clean.indexOf("{"), end = clean.lastIndexOf("}");
+  if (start < 0 || end < 0) throw new Error("No JSON found in model output:\n" + String(text).slice(0, 400));
   const slice = clean.slice(start, end + 1);
-  let data;
-  try { data = JSON.parse(slice); } catch { data = JSON.parse(jsonrepair(slice)); }
+  try { return JSON.parse(slice); } catch { return JSON.parse(jsonrepair(slice)); }
+}
 
-  if (!Array.isArray(data.moments) || data.moments.length === 0) throw new Error("No moments generated");
+// ---- PRIMARY: Gemini with Google Search grounding ----
+async function generateWithGemini() {
+  const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+  const res = await withRetry(() => ai.models.generateContent({
+    model: GEMINI_MODEL,
+    contents: PROMPT_SEARCH,
+    config: { systemInstruction: SYSTEM_SEARCH, tools: [{ googleSearch: {} }], temperature: 0.7, maxOutputTokens: 16384 }
+  }));
+  return parseModelJson(res.text || "");
+}
+
+// ---- BACKUP: Groq (free, reliable), grounded in curated events ----
+function curatedContext() {
+  let events = [];
+  try { events = JSON.parse(readFileSync("events.json", "utf8")).events || []; } catch (_) {}
+  const horizon = new Date(); horizon.setDate(horizon.getDate() + 21);
+  const soon = events
+    .filter(e => e && e.date && new Date(e.date) >= new Date(today) && new Date(e.date) <= horizon)
+    .map(e => `${e.date} — ${e.title}${e.blurb ? (": " + e.blurb) : ""}`);
+  return soon.length ? `\nConfirmed upcoming events (use these):\n${soon.join("\n")}` : "";
+}
+async function generateWithGroq() {
+  const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+  const prompt = `Today is ${today}. Build the moments JSON for the Nation Broadcasting board from confident, known hooks (famous musicians' birthdays around today, genuine seasonal moments) and the confirmed events below. Do not invent live results you cannot verify. Output only the JSON object, every string on a single line.${curatedContext()}`;
+  const res = await withRetry(() => groq.chat.completions.create({
+    model: GROQ_MODEL,
+    messages: [{ role: "system", content: SYSTEM_NOSEARCH }, { role: "user", content: prompt }],
+    temperature: 0.7,
+    max_tokens: 8000,
+    response_format: { type: "json_object" }
+  }));
+  return parseModelJson(res.choices?.[0]?.message?.content || "");
+}
+
+// Shared validation so a bad run can't wipe the board.
+function clean(data, source) {
+  if (!data || !Array.isArray(data.moments) || data.moments.length === 0) throw new Error("No moments generated");
   data.updated = new Date().toISOString();
-
-  // Light validation so a bad run can't wipe the board.
+  data.source = source;
   const groups = ["nation-network", "decades-genres", "welsh-local", "radio-exe", "dragon"];
   const validCh = ["instagram", "facebook", "x", "tiktok", "threads"];
   for (const m of data.moments) {
@@ -128,14 +171,28 @@ const run = async () => {
   // Guard: never let a "happy birthday" slip through for someone who has died.
   const DECEASED = ["brian wilson"];
   data.moments = data.moments.filter(m => {
-    const text = ((m.title || "") + " " + (m.angles || []).map(a => a.copy || "").join(" ")).toLowerCase();
-    const birthdayish = m.type === "birthday" || /happy|birthday/.test(text);
-    return !(birthdayish && DECEASED.some(n => text.includes(n)) && !/would have been|tribute|remember/.test(text));
+    const t = ((m.title || "") + " " + (m.angles || []).map(a => a.copy || "").join(" ")).toLowerCase();
+    const birthdayish = m.type === "birthday" || /happy|birthday/.test(t);
+    return !(birthdayish && DECEASED.some(n => t.includes(n)) && !/would have been|tribute|remember/.test(t));
   });
   if (data.moments.length === 0) throw new Error("All moments failed validation");
+  return data;
+}
 
+const run = async () => {
+  let data, source;
+  try {
+    data = clean(await generateWithGemini(), "gemini");
+    source = "gemini";
+  } catch (e) {
+    console.log(`Primary (Gemini) unavailable: ${e.message}`);
+    if (!process.env.GROQ_API_KEY) throw new Error("Gemini failed and no GROQ_API_KEY backup is set.");
+    console.log("Falling back to Groq backup model…");
+    data = clean(await generateWithGroq(), "groq");
+    source = "groq";
+  }
   writeFileSync("moments.json", JSON.stringify(data, null, 1));
-  console.log(`Wrote moments.json: ${data.moments.length} moments, ${data.moments.reduce((n, m) => n + m.angles.length, 0)} angles.`);
+  console.log(`Wrote moments.json via ${source}: ${data.moments.length} moments, ${data.moments.reduce((n, m) => n + m.angles.length, 0)} angles.`);
 };
 
-run().catch(e => { console.error("Generation failed:", e.message); process.exit(1); });
+run().catch(e => { console.error("Generation failed (both models):", e.message); process.exit(1); });
