@@ -7,6 +7,7 @@
 
 import ical from "node-ical";
 import { GoogleGenAI } from "@google/genai";
+import { jsonrepair } from "jsonrepair";
 import { writeFileSync } from "node:fs";
 
 const CAL_URL = process.env.CAL_URL;
@@ -72,7 +73,9 @@ const run = async () => {
   const t = (r.text || "").replace(/`+/g, " ").replace(new RegExp("[\\u0000-\\u001F]+", "g"), " ");
   const s = t.indexOf("{"), en = t.lastIndexOf("}");
   if (s < 0 || en < 0) throw new Error("No JSON returned from enrichment.");
-  const out = JSON.parse(t.slice(s, en + 1));
+  const slice = t.slice(s, en + 1);
+  let out;
+  try { out = JSON.parse(slice); } catch { out = JSON.parse(jsonrepair(slice)); }
 
   const groups = ["nation-network", "decades-genres", "welsh-local", "radio-exe", "dragon"];
   const validCh = ["instagram", "facebook", "x", "tiktok", "threads"];

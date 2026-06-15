@@ -3,6 +3,7 @@
 // Runs on a schedule (see .github/workflows/refresh.yml). Needs a free GEMINI_API_KEY.
 
 import { GoogleGenAI } from "@google/genai";
+import { jsonrepair } from "jsonrepair";
 import { writeFileSync } from "node:fs";
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
@@ -67,7 +68,7 @@ const run = async () => {
       systemInstruction: SYSTEM,
       tools: [{ googleSearch: {} }],
       temperature: 0.7,
-      maxOutputTokens: 8192
+      maxOutputTokens: 16384
     }
   });
 
@@ -78,7 +79,9 @@ const run = async () => {
   const start = clean.indexOf("{");
   const end = clean.lastIndexOf("}");
   if (start < 0 || end < 0) throw new Error("No JSON found in model output:\n" + text.slice(0, 500));
-  const data = JSON.parse(clean.slice(start, end + 1));
+  const slice = clean.slice(start, end + 1);
+  let data;
+  try { data = JSON.parse(slice); } catch { data = JSON.parse(jsonrepair(slice)); }
 
   if (!Array.isArray(data.moments) || data.moments.length === 0) throw new Error("No moments generated");
   data.updated = new Date().toISOString();
