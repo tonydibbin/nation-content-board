@@ -1,16 +1,16 @@
 {
- "updated": "2026-06-16T08:37:06.261Z",
+ "updated": "2026-06-16T13:21:30.434Z",
  "moments": [
   {
-   "id": "premier-league-transfers-open",
-   "off": 0,
+   "id": "world-cup-group-stage-england-croatia",
+   "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Transfer Window Open",
-   "blurb": "The Premier League's summer transfer window officially opened yesterday, Monday 15 June, with clubs already making significant moves ahead of the 2026/27 season.",
+   "title": "England's World Cup Clash",
+   "blurb": "England faces Croatia in a crucial FIFA World Cup 2026 group stage match tomorrow, June 17th.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/news/3973905"
+    "l": "FIFA World Cup 2026 Schedule",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026/match-centre"
    },
    "fits": [
     {
@@ -20,119 +20,144 @@
    ],
    "angles": [
     {
-     "name": "Transfer Talk",
-     "copy": "The summer transfer window is officially open! Who's your club signing, selling, or desperately holding onto? The rumour mill is in overdrive. #TransferWindow",
+     "name": "Match Build-up",
+     "copy": "Gareth Southgate's Lions are ready! England take on Croatia tomorrow in their next World Cup group stage fixture. How are we feeling, Nation?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#TransferWindow"
+      "#England #FIFAWorldCup"
      ]
     },
     {
-     "name": "Big Moves Already",
-     "copy": "Anthony Gordon to Barcelona, Marcos Senesi to Spurs... the Premier League transfer window is already heating up! What's been the most shocking move so far?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#PLTransfers"
-     ]
-    },
-    {
-     "name": "Your Club's Needs",
-     "copy": "With the transfer window wide open, what's the one player your team *must* sign this summer? Let's hear the shouts for your club! #FootballTransfers",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#FootballTransfers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "paul-mccartney-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Paul McCartney Turns 84",
-   "blurb": "Legendary Beatle and Wings frontman Paul McCartney celebrates his 84th birthday on Thursday, June 18.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Paul_McCartney"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Macca",
-     "copy": "On Thursday, Sir Paul McCartney turns 84! What's your favourite Beatles, Wings or solo track from the living legend? #PaulMcCartney",
+     "name": "Score Predictions",
+     "copy": "It's England vs. Croatia tomorrow in the World Cup! Score predictions, please. Will the Three Lions roar to victory?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "11:00",
      "tags": [
-      "#PaulMcCartney"
+      "#WorldCup2026"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "world-cup-group-stage-france-argentina",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "World Cup Heavyweights in Action",
+   "blurb": "Today, June 16th, sees two football giants in action at the FIFA World Cup 2026: France plays Senegal and Argentina takes on Algeria.",
+   "source": {
+    "l": "FIFA World Cup 2026 Schedule",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026/match-centre"
+   },
+   "fits": [
     {
-     "name": "Iconic Song",
-     "copy": "From 'Yesterday' to 'Live and Let Die' – Paul McCartney's songwriting genius is unmatched. Wishing a very happy 84th birthday to a true icon on Thursday!",
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "France Game",
+     "copy": "It's a big day for football fans! France kicks off their World Cup campaign against Senegal today. Can Mbappé lead them to glory?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#TheBeatles"
+      "#WorldCup2026 #France"
      ]
     },
     {
-     "name": "Birthday Playlist",
-     "copy": "Celebrating Paul McCartney's 84th birthday this week with a playlist of his greatest hits! What absolutely HAS to be on it?",
+     "name": "Argentina Game",
+     "copy": "Messi and Argentina are in action at the World Cup today, taking on Algeria. Will the reigning champions start strong?",
      "channels": [
       "instagram",
-      "tiktok"
+      "facebook",
+      "x"
      ],
-     "time": "18:00",
+     "time": "17:00",
      "tags": [
-      "#Macca"
+      "#Messi #Argentina"
      ]
     }
    ]
   },
   {
-   "id": "isle-of-wight-festival-2026",
+   "id": "glastonbury-2026",
+   "off": 8,
+   "type": "gig",
+   "hot": true,
+   "title": "Glastonbury Festival Kicks Off",
+   "blurb": "The iconic Glastonbury Festival returns to Worthy Farm, running from June 24th to 28th, 2026.",
+   "source": {
+    "l": "Glastonbury Festival",
+    "u": "https://www.glastonburyfestivals.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "copy": "Just 8 days until the gates open! Glastonbury Festival 2026 is almost here. Who's got their wellies packed and ready for Worthy Farm?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#Glastonbury2026"
+     ]
+    },
+    {
+     "name": "Anticipation",
+     "copy": "The biggest festival on earth is just around the corner! What acts are you most excited to see at Glastonbury next week?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Glasto"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "isle-of-wight-festival",
    "off": 2,
    "type": "gig",
    "hot": true,
-   "title": "Isle of Wight Festival Kicks Off",
-   "blurb": "The iconic Isle of Wight Festival returns from Thursday 18 – Sunday 21 June, featuring headliners Lewis Capaldi, Calvin Harris, and The Cure, alongside a host of other acts.",
+   "title": "Isle of Wight Festival Starts",
+   "blurb": "The Isle of Wight Festival takes place from June 18th to 21st, 2026, featuring a lineup of pop, rock, and electronic acts.",
    "source": {
-    "l": "Isle of Wight Festival Official Site",
+    "l": "Isle of Wight Festival",
     "u": "https://isleofwightfestival.com/"
    },
    "fits": [
@@ -147,66 +172,100 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Festival Fever",
-     "copy": "Isle of Wight Festival starts Thursday! Lewis Capaldi, Calvin Harris, The Cure – who are you most excited to see on the island? #IOW2026",
+     "name": "Festival Kick-off",
+     "copy": "The Isle of Wight Festival kicks off in two days! Who's heading to Seaclose Park for a weekend of incredible music?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
      "time": "10:00",
      "tags": [
-      "#IOW2026"
+      "#IOWFestival"
      ]
     },
     {
-     "name": "Road to the Island",
-     "copy": "Heading to the Isle of Wight Festival this weekend? Get ready for four days of incredible music and island vibes! What's your top tip for festival-goers?",
+     "name": "Lineup Excitement",
+     "copy": "Get ready for the Isle of Wight Festival starting Thursday! What's on your must-see list this year?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#FestivalSeason"
-     ]
-    },
-    {
-     "name": "IOW Lineup",
-     "copy": "From rock legends The Cure to dance superstar Calvin Harris, the Isle of Wight Festival lineup is HUGE! What's your must-see set this year?",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#IOWFestival"
+      "#MusicFestival"
      ]
     }
    ]
   },
   {
-   "id": "trnsmt-festival-2026",
+   "id": "hampton-court-palace-festival-chic",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Nile Rodgers & CHIC at Hampton Court",
+   "blurb": "Nile Rodgers & CHIC are performing at the Hampton Court Palace Festival on June 17th, as part of the series running until June 19th.",
+   "source": {
+    "l": "Hampton Court Palace Festival",
+    "u": "https://hamptoncourtpalacefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Disco Night",
+     "copy": "Get ready to dance! Nile Rodgers & CHIC bring the disco classics to Hampton Court Palace Festival tomorrow night. Pure joy!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#NileRodgers #CHIC"
+     ]
+    },
+    {
+     "name": "Iconic Performance",
+     "copy": "An evening with a legend: Nile Rodgers & CHIC live at Hampton Court Palace Festival tomorrow. What's your favourite CHIC track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#HamptonCourtFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trnsmt-festival",
    "off": 3,
    "type": "gig",
    "hot": true,
-   "title": "TRNSMT Festival Begins in Glasgow",
-   "blurb": "Scotland's biggest music festival, TRNSMT, takes over Glasgow Green from Friday 19 – Sunday 21 June with headliners including Richard Ashcroft, Kasabian, Lewis Capaldi, and Nile Rodgers & CHIC.",
+   "title": "TRNSMT Festival in Glasgow",
+   "blurb": "Glasgow Green hosts the TRNSMT Festival from June 19th to 21st, with headliners including Lewis Capaldi, Calvin Harris, and The Cure.",
    "source": {
-    "l": "TRNSMT Festival Official Site",
+    "l": "TRNSMT Festival",
     "u": "https://trnsmtfest.com/"
    },
    "fits": [
@@ -216,142 +275,117 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Glasgow Green Ready",
-     "copy": "TRNSMT Festival kicks off Friday in Glasgow! Who's heading to Scotland's biggest music event this weekend? #TRNSMT2026",
+     "name": "Scotland's Big Gig",
+     "copy": "TRNSMT Festival kicks off in Glasgow this Thursday! Scotland, are you ready for Lewis Capaldi, Calvin Harris, The Cure and more?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
      "time": "10:30",
      "tags": [
-      "#TRNSMT2026"
+      "#TRNSMT #Glasgow"
      ]
     },
     {
-     "name": "TRNSMT Headliners",
-     "copy": "From Richard Ashcroft to Lewis Capaldi, the TRNSMT lineup is stacked! Which act are you buzzing to see most in Glasgow?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#GlasgowMusic"
-     ]
-    },
-    {
-     "name": "City Festival Vibes",
-     "copy": "Three days of incredible music in the heart of Glasgow – TRNSMT Festival is back! Get ready for a huge weekend.",
+     "name": "Who Are You Seeing?",
+     "copy": "Just a few days until TRNSMT takes over Glasgow Green! Who's excited for the incredible lineup? Tell us who you're seeing!",
      "channels": [
       "instagram",
+      "facebook",
+      "x",
       "tiktok"
      ],
-     "time": "20:00",
+     "time": "14:30",
      "tags": [
-      "#TRNSMT"
+      "#ScottishMusic"
      ]
     }
    ]
   },
   {
-   "id": "scotland-vs-morocco-world-cup",
-   "off": 3,
-   "type": "sport",
+   "id": "parklife-festival",
+   "off": 4,
+   "type": "gig",
    "hot": true,
-   "title": "Scotland Face Morocco in World Cup",
-   "blurb": "Scotland continues their FIFA World Cup 2026 campaign with a crucial group stage match against Morocco on Friday 19 June, kicking off at 11pm BST.",
+   "title": "Parklife Festival in Manchester",
+   "blurb": "Parklife Festival runs from June 20th to 21st at Heaton Park, Manchester, bringing a huge lineup of artists.",
    "source": {
-    "l": "FIFA Official Site",
-    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026/scores-fixtures"
+    "l": "Parklife Festival",
+    "u": "https://parklife.uk.com/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": "Nation Radio North West"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Tartan Army Ready",
-     "copy": "It's Scotland's second World Cup group game on Friday! Can the Tartan Army get another win against Morocco? Kick-off 11pm BST! #Scotland",
+     "name": "Manchester Festival",
+     "copy": "Parklife is almost here! Heaton Park is about to light up for a massive weekend of music. Who's joining the party?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "12:00",
      "tags": [
-      "#FIFAWorldCup"
+      "#Parklife #Manchester"
      ]
     },
     {
-     "name": "Match Day Build-Up",
-     "copy": "Get ready, Scotland fans! The big game against Morocco is Friday night. Where will you be watching?",
+     "name": "Weekend Vibes",
+     "copy": "Only a few days until Parklife transforms Manchester! What are your festival essentials for this weekend?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "tiktok"
      ],
      "time": "17:30",
      "tags": [
-      "#SCOvsMAR"
-     ]
-    },
-    {
-     "name": "World Cup Hopes",
-     "copy": "After a decent start, Scotland look to build momentum in the World Cup. Huge game coming on Friday night! #WorldCup2026",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "21:00",
-     "tags": [
-      "#TartanArmy"
+      "#HeatonPark"
      ]
     }
    ]
   },
   {
-   "id": "hampton-court-festival-this-week",
-   "off": 0,
-   "type": "gig",
+   "id": "paul-mccartney-birthday",
+   "off": 2,
+   "type": "birthday",
    "hot": true,
-   "title": "Hampton Court Palace Festival Continues",
-   "blurb": "The Hampton Court Palace Festival continues this week with performances from The Stranglers (Tuesday), Nile Rodgers & CHIC (Wednesday), Elvis Costello & The Imposters (Thursday), Sophie Ellis-Bextor (Friday), and 80s Classical (Saturday).",
+   "title": "Happy 84th to Paul McCartney",
+   "blurb": "Legendary Beatle and Wings frontman, Paul McCartney, celebrates his 84th birthday on June 18th.",
    "source": {
-    "l": "Hampton Court Palace Festival",
-    "u": "https://hamptoncourtpalacefestival.com/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/paul-mccartney.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation 60s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
@@ -359,161 +393,34 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Palace Gigs",
-     "copy": "Hampton Court Palace Festival rolls on! Catch The Stranglers tonight, Nile Rodgers & CHIC tomorrow, and more incredible acts this week in a stunning setting.",
+     "name": "Beatles Icon",
+     "copy": "An absolute legend turns 84 on Thursday! Happy Birthday to the incredible Paul McCartney. What's your favourite Beatles or Wings song?",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#HCPF2026"
-     ]
-    },
-    {
-     "name": "Iconic Lineup",
-     "copy": "From punk legends to disco kings, the Hampton Court Palace Festival has something for everyone this week. Who are you seeing? #LiveMusicLondon",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#LondonGigs"
-     ]
-    },
-    {
-     "name": "Sophie & 80s Classical",
-     "copy": "Still time to catch Sophie Ellis-Bextor's Palace Disco on Friday or 80s Classical on Saturday at Hampton Court! An unforgettable experience.",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#HamptonCourt"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "summer-solstice-2026",
-   "off": 5,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Summer Solstice Approaches",
-   "blurb": "The Summer Solstice, marking the longest day and shortest night of the year in the Northern Hemisphere, occurs on Sunday 21 June 2026 at 9:24 AM BST.",
-   "source": {
-    "l": "Royal Museums Greenwich",
-    "u": "https://www.rmg.co.uk/stories/topics/summer-solstice"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Longest Day",
-     "copy": "Get ready for the longest day of the year! The Summer Solstice is this Sunday, June 21st. How are you planning to make the most of the extra daylight? #SummerSolstice",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SummerSolstice"
-     ]
-    },
-    {
-     "name": "Late Sunsets",
-     "copy": "Enjoy those incredibly late sunsets this week as we head towards the Summer Solstice on Sunday. Perfect for evening walks and outdoor plans!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#LongestDay"
-     ]
-    },
-    {
-     "name": "Midsummer Magic",
-     "copy": "Midsummer is almost here! The Summer Solstice marks a time of light, growth, and renewal. What are you looking forward to this summer?",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "20:30",
-     "tags": [
-      "#Midsummer"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-island-2026-ongoing",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Love Island UK Drama Continues",
-   "blurb": "Series 13 of Love Island UK is in full swing, airing nightly on ITV2 and ITVX, with fresh drama, new bombshells, and unexpected dumpings keeping viewers hooked.",
-   "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/loveisland"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Villa Latest",
-     "copy": "Did you catch last night's Love Island? The villa is serving up some serious drama! Who's your favourite couple right now? #LoveIslandUK",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
      ],
      "time": "09:00",
      "tags": [
-      "#LoveIslandUK"
+      "#PaulMcCartney #TheBeatles"
      ]
     },
     {
-     "name": "Bombshell Impact",
-     "copy": "New bombshells are shaking things up in the Love Island villa! Who do you think will be coupling up next?",
+     "name": "Living Legend",
+     "copy": "From Penny Lane to world tours, Paul McCartney is 84 on Thursday and still inspiring millions. Send your birthday wishes!",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#ITV2"
-     ]
-    },
-    {
-     "name": "Football Crossover",
-     "copy": "With the World Cup crossover theme this year, are you team football or team Love Island tonight? Or both?!",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#LoveIsland"
+      "#MusicLegend"
      ]
     }
    ]
@@ -523,11 +430,11 @@
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Lionel Richie's 77th Birthday",
-   "blurb": "The legendary singer-songwriter Lionel Richie celebrates his 77th birthday on Thursday, June 20.",
+   "title": "Lionel Richie Turns 77",
+   "blurb": "The iconic singer-songwriter Lionel Richie celebrates his 77th birthday on June 20th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Lionel_Richie"
+    "l": "Off The Wall School Of Music",
+    "u": "https://offthewallmusic.com/june-musical-birthdays/"
    },
    "fits": [
     {
@@ -540,114 +447,38 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Love"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Hello, Lionel!",
-     "copy": "Wishing a very happy 77th birthday to the incredible Lionel Richie on Thursday! What's your go-to Lionel track? #LionelRichie",
+     "name": "Hello, is it his birthday?",
+     "copy": "Hello! Is it Lionel Richie's 77th birthday we're looking for? Yes it is, this Saturday! What's your go-to Lionel track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
       "#LionelRichie"
      ]
     },
     {
-     "name": "All Night Long",
-     "copy": "From The Commodores to his incredible solo career, Lionel Richie has given us countless hits. Celebrating his 77th birthday this week!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Motown"
-     ]
-    },
-    {
-     "name": "Easy Listening Icon",
-     "copy": "Get ready for some smooth tunes as we celebrate Lionel Richie's birthday this Thursday! The perfect soundtrack for your day. #EasyListening",
-     "channels": [
-      "tiktok",
-      "instagram"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#EasyListening"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wales-vs-barbarians-rugby",
-   "off": 11,
-   "type": "sport",
-   "hot": false,
-   "title": "Wales Rugby vs Barbarians",
-   "blurb": "Wales will play a warm-up match against the Barbarians at Twickenham on Saturday 27 June, ahead of their inaugural Nations Championship campaign.",
-   "source": {
-    "l": "Welsh Rugby Union",
-    "u": "https://www.wru.wales/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cymru Ready",
-     "copy": "The Barbarians await! Wales take on the invitational side at Twickenham on Saturday 27 June. A big warm-up before the Nations Championship! #CymruRugby",
+     "name": "Motown to Solo Star",
+     "copy": "From The Commodores to a phenomenal solo career, Lionel Richie turns 77 on Saturday. Celebrate with his greatest hits all day!",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CymruRugby"
-     ]
-    },
-    {
-     "name": "Twickenham Clash",
-     "copy": "Wales head to Twickenham to face the Barbarians next Saturday. What kind of performance are you expecting from the boys in red?",
-     "channels": [
-      "x",
-      "facebook"
      ],
      "time": "15:00",
      "tags": [
-      "#WalesRugby"
-     ]
-    },
-    {
-     "name": "Nations Championship Build-Up",
-     "copy": "Excitement is building for the Nations Championship, and Wales' clash with the Barbarians next Saturday is the perfect curtain-raiser! #Rugby",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#Rugby"
+      "#Motown"
      ]
     }
    ]
@@ -658,53 +489,47 @@
    "type": "birthday",
    "hot": true,
    "title": "Lana Del Rey's 41st Birthday",
-   "blurb": "Grammy-nominated singer-songwriter Lana Del Rey celebrates her 41st birthday on Sunday, June 21.",
+   "blurb": "American singer-songwriter Lana Del Rey celebrates her 41st birthday on June 21st.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Lana_Del_Rey"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/lana-del-rey.html"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Lana",
-     "copy": "Wishing a very happy 41st birthday to the one and only Lana Del Rey this Sunday! What's your favourite melancholic masterpiece from her? #LanaDelRey",
+     "name": "Indie Icon",
+     "copy": "Happy 41st Birthday to the mesmerising Lana Del Rey this Friday! What's your favourite lyric from her?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
       "#LanaDelRey"
      ]
     },
     {
-     "name": "Lana's Influence",
-     "copy": "Known for her cinematic sound and evocative lyrics, Lana Del Rey turns 41 on Sunday. Her impact on modern music is undeniable!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MusicIcon"
-     ]
-    },
-    {
      "name": "Birthday Vibes",
-     "copy": "Get into the mood for Lana Del Rey's birthday on Sunday with a playlist of her most iconic tracks. Pure vibes! #NewMusic",
+     "copy": "Get ready to celebrate Lana Del Rey's 41st birthday this Friday! Which of her tracks is essential listening today?",
      "channels": [
-      "tiktok",
-      "instagram"
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
      ],
-     "time": "18:00",
+     "time": "16:30",
      "tags": [
-      "#NewMusic"
+      "#MusicBirthday"
      ]
     }
    ]
@@ -715,10 +540,10 @@
    "type": "birthday",
    "hot": true,
    "title": "Cyndi Lauper Turns 73",
-   "blurb": "Iconic singer-songwriter and actress Cyndi Lauper celebrates her 73rd birthday on Monday, June 22.",
+   "blurb": "Pop icon Cyndi Lauper celebrates her 73rd birthday on June 22nd.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Cyndi_Lauper"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/cyndi-lauper.html"
    },
    "fits": [
     {
@@ -733,120 +558,95 @@
    "angles": [
     {
      "name": "Girls Just Wanna Have Fun",
-     "copy": "Happy 73rd Birthday to the incredible Cyndi Lauper on Monday! What's your favourite track from the 80s icon? #CyndiLauper",
+     "copy": "She's so unusual and she turns 73 this Saturday! Happy Birthday to the one and only Cyndi Lauper. What's your favourite 80s anthem from her?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#CyndiLauper #80sMusic"
+     ]
+    },
+    {
+     "name": "Pop Pioneer",
+     "copy": "From 'Girls Just Want To Have Fun' to 'Time After Time', Cyndi Lauper is 73 this Saturday! Which of her hits takes you back?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "14:00",
      "tags": [
-      "#CyndiLauper"
-     ]
-    },
-    {
-     "name": "True Colours",
-     "copy": "From 'Girls Just Want to Have Fun' to 'True Colors', Cyndi Lauper's music is timeless. Wishing her a very happy birthday on Monday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#80sMusic"
-     ]
-    },
-    {
-     "name": "80s Legend",
-     "copy": "Celebrating the one and only Cyndi Lauper's birthday this Monday! Get ready for a blast of 80s pop perfection. #80sPop",
-     "channels": [
-      "tiktok",
-      "instagram"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#80sPop"
+      "#PopIcon"
      ]
     }
    ]
   },
   {
-   "id": "scotland-vs-brazil-world-cup",
-   "off": 8,
-   "type": "sport",
+   "id": "jason-mraz-birthday",
+   "off": 7,
+   "type": "birthday",
    "hot": true,
-   "title": "Scotland vs Brazil in World Cup",
-   "blurb": "Scotland faces their toughest challenge yet in the FIFA World Cup 2026 group stage, taking on five-time champions Brazil on Wednesday 24 June, at 11pm BST.",
+   "title": "Jason Mraz's 49th Birthday",
+   "blurb": "Grammy-winning singer-songwriter Jason Mraz celebrates his 49th birthday on June 23rd.",
    "source": {
-    "l": "FIFA Official Site",
-    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026/scores-fixtures"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/jason-mraz.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Brazil Challenge",
-     "copy": "Can Scotland pull off a World Cup shock against Brazil next Wednesday? The Tartan Army will be roaring them on! Kick-off 11pm BST. #SCOvBRA",
+     "name": "Good Vibes Birthday",
+     "copy": "It's a happy 49th birthday to the 'I'm Yours' singer, Jason Mraz, this Sunday! What's your favourite feel-good track from him?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#FIFAWorldCup"
+      "#JasonMraz"
      ]
     },
     {
-     "name": "Underdog Story",
-     "copy": "It's the ultimate test for Scotland next Wednesday against Brazil. Could this be the night for a legendary World Cup upset?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#WorldCup2026"
-     ]
-    },
-    {
-     "name": "Group Stage Finale",
-     "copy": "Scotland's final group game is a massive one against Brazil next Wednesday. All eyes on the Tartan Army! #Football",
+     "name": "Tune In",
+     "copy": "Celebrating Jason Mraz's 49th birthday this Sunday! We'll be playing his best all day. Which song are you hoping to hear?",
      "channels": [
       "instagram",
-      "tiktok"
+      "facebook",
+      "x"
      ],
-     "time": "20:00",
+     "time": "15:00",
      "tags": [
-      "#TartanArmy"
+      "#SingerSongwriter"
      ]
     }
    ]
   },
   {
-   "id": "blenheim-palace-festival-starts",
-   "off": 11,
-   "type": "gig",
-   "hot": false,
-   "title": "Blenheim Palace Festival Debuts",
-   "blurb": "The brand new Blenheim Palace Festival launches on Saturday 27 June, bringing Katy Perry, Teddy Swims, Lauren Spencer-Smith, and Pete Tong Ibiza Classics to the stunning Oxfordshire venue.",
+   "id": "solange-knowles-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Solange Knowles Turns 40",
+   "blurb": "Singer, songwriter, and actress Solange Knowles celebrates her 40th birthday on June 24th.",
    "source": {
-    "l": "Blenheim Palace Festival",
-    "u": "https://www.blenheimpalace.com/whats-on/events/blenheim-palace-festival/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/solange-knowles.html"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
@@ -858,107 +658,80 @@
    ],
    "angles": [
     {
-     "name": "New Festival Alert",
-     "copy": "A brand new festival is coming! Blenheim Palace Festival kicks off next Saturday with Katy Perry, Pete Tong, and more. Who's excited? #BlenheimPalace",
+     "name": "Birthday Queen",
+     "copy": "Happy 40th Birthday to the incredible Solange Knowles this Monday! What's your favourite track from her amazing catalogue?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Solange #Music"
+     ]
+    },
+    {
+     "name": "Celebrating Solange",
+     "copy": "Solange turns 40 this Monday! Let's celebrate her unique sound and style. What's the Solange song you can't get enough of?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "10:00",
-     "tags": [
-      "#BlenheimPalace"
-     ]
-    },
-    {
-     "name": "Pop & Dance in a Palace",
-     "copy": "Imagine seeing Katy Perry or Pete Tong Ibiza Classics in the stunning grounds of Blenheim Palace! The new festival starts next Saturday.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
      "time": "14:00",
      "tags": [
-      "#FestivalNews"
-     ]
-    },
-    {
-     "name": "Weekend Plans",
-     "copy": "Looking for plans next weekend? The debut Blenheim Palace Festival promises an unforgettable experience with huge names in pop and dance! #OxfordshireEvents",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#OxfordshireEvents"
+      "#RnB"
      ]
     }
    ]
   },
   {
-   "id": "state-fayre-festival-starts",
-   "off": 10,
-   "type": "gig",
-   "hot": false,
-   "title": "State Fayre Festival Opens",
-   "blurb": "The UK's biggest music & BBQ festival, State Fayre, takes place at Hylands Park, Essex, from Friday 26 – Sunday 28 June, headlined by Kings of Leon, Alanis Morissette, and The Lumineers.",
+   "id": "curt-smith-tears-for-fears-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Curt Smith of Tears for Fears Turns 65",
+   "blurb": "Curt Smith, co-founder, bassist, and vocalist of the iconic band Tears for Fears, celebrates his 65th birthday on June 24th.",
    "source": {
-    "l": "Hylands Estate",
-    "u": "https://www.hylandsestate.co.uk/events/state-fayre-festival-2026/"
+    "l": "Famous Singers' Birthdays",
+    "u": "https://www.famousbirthdays.com/people/curt-smith.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Music & BBQ",
-     "copy": "Music and BBQ? Yes please! State Fayre Festival kicks off next Friday in Essex with Kings of Leon, Alanis Morissette & The Lumineers! #StateFayre",
+     "name": "Tears for Fears Icon",
+     "copy": "Happy 65th Birthday this Monday to Curt Smith of Tears for Fears! What's your favourite hit from the legendary duo?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "10:30",
+     "time": "10:00",
      "tags": [
-      "#StateFayre"
+      "#TearsForFears #80sMusic"
      ]
     },
     {
-     "name": "Essex Festival",
-     "copy": "Hylands Park in Essex hosts the new State Fayre Festival next weekend! Get ready for three days of live music, delicious food, and good times.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#EssexEvents"
-     ]
-    },
-    {
-     "name": "Rock Legends",
-     "copy": "Kings of Leon, Alanis Morissette, The Lumineers – what a lineup for the inaugural State Fayre Festival next weekend! Who are you hoping to see?",
+     "name": "Shout Out",
+     "copy": "Shout out to Curt Smith of Tears for Fears, turning 65 this Monday! Which of their timeless tracks is your absolute favourite?",
      "channels": [
       "instagram",
-      "tiktok"
+      "facebook",
+      "x"
      ],
-     "time": "19:30",
+     "time": "15:00",
      "tags": [
-      "#FestivalVibes"
+      "#MusicBirthday"
      ]
     }
    ]
@@ -967,12 +740,12 @@
    "id": "ariana-grande-birthday",
    "off": 10,
    "type": "birthday",
-   "hot": false,
-   "title": "Ariana Grande Turns 33",
-   "blurb": "Pop superstar Ariana Grande celebrates her 33rd birthday on Saturday, June 26.",
+   "hot": true,
+   "title": "Ariana Grande's 33rd Birthday",
+   "blurb": "Pop superstar Ariana Grande celebrates her 33rd birthday on June 26th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Ariana_Grande"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/ariana-grande.html"
    },
    "fits": [
     {
@@ -982,40 +755,218 @@
    ],
    "angles": [
     {
-     "name": "Happy Birthday Ariana",
-     "copy": "Wishing a very happy 33rd birthday to the incredible Ariana Grande next Saturday! What's your favourite hit from the pop queen? #ArianaGrande",
+     "name": "Pop Queen",
+     "copy": "Happy 33rd Birthday to the one and only Ariana Grande this Wednesday! What's your all-time favourite Ariana hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ArianaGrande #PopMusic"
+     ]
+    },
+    {
+     "name": "Celebrating Ariana",
+     "copy": "Get ready to celebrate Ariana Grande's 33rd birthday this Wednesday! Which of her incredible songs gets you singing along?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "14:00",
      "tags": [
-      "#ArianaGrande"
+      "#PopStar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-island-2026-current-series",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Love Island UK Continues",
+   "blurb": "The 13th series of Love Island UK, which started on June 1st, 2026, continues with new episodes airing Sunday to Friday at 9pm on ITV2 and ITVX.",
+   "source": {
+    "l": "ITVX",
+    "u": "https://www.itv.com/itvx/love-island"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Villa Drama",
+     "copy": "The drama in the Love Island villa is heating up! Who's your favourite couple right now, and who do you think is playing a game?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#LoveIslandUK"
      ]
     },
     {
-     "name": "Pop Queen",
-     "copy": "From 'Thank U, Next' to 'Positions', Ariana Grande consistently delivers chart-topping anthems. Celebrating her 33rd birthday next Saturday!",
+     "name": "Tonight's Episode",
+     "copy": "Another night, another dose of Love Island! What are your predictions for tonight's episode? Any bombshells on the way?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "21:00",
      "tags": [
-      "#PopMusic"
+      "#LoveIsland"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "clarksons-farm-s5-episodes",
+   "off": 1,
+   "type": "tv",
+   "hot": true,
+   "title": "Clarkson's Farm Season 5 Finale",
+   "blurb": "The final episodes (7 & 8) of Clarkson's Farm Season 5 are available to stream on Prime Video from June 17th.",
+   "source": {
+    "l": "Prime Video",
+    "u": "https://www.amazon.co.uk/prime-video"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Episodes Drop",
+     "copy": "Get ready for more chaos at Diddly Squat! The final episodes of Clarkson's Farm Season 5 drop tomorrow on Prime Video. What do you hope to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#ClarksonsFarm #JeremyClarkson"
      ]
     },
     {
-     "name": "Birthday Playlist",
-     "copy": "Get ready to dance! We're celebrating Ariana Grande's birthday next Saturday with a playlist of her biggest bangers. What's on your list?",
+     "name": "Farm Fun",
+     "copy": "Tomorrow, it's the last two episodes of Clarkson's Farm Season 5! Who's catching up on Jeremy and Kaleb's latest adventures?",
      "channels": [
-      "tiktok",
-      "instagram"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "17:00",
+     "time": "12:00",
      "tags": [
-      "#Ariana"
+      "#DiddlySquat"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a-woman-of-substance-britbox",
+   "off": 8,
+   "type": "tv",
+   "hot": true,
+   "title": "New Drama 'A Woman of Substance'",
+   "blurb": "A new period drama, 'A Woman of Substance', based on Barbara Taylor Bradford's novel, premieres on BritBox on June 24th.",
+   "source": {
+    "l": "BritBox",
+    "u": "https://www.britbox.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Series Alert",
+     "copy": "Period drama fans, mark your calendars! 'A Woman of Substance' premieres on BritBox next Monday. Who's ready for a new epic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BritBox #NewDrama"
+     ]
+    },
+    {
+     "name": "Book Adaptation",
+     "copy": "If you loved the book, get ready for the screen! 'A Woman of Substance' starts on BritBox on June 24th. Will you be watching?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PeriodDrama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "summer-solstice-2026",
+   "off": 5,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Summer Solstice Approaches",
+   "blurb": "The Summer Solstice, marking the longest day of the year in the Northern Hemisphere, occurs on Sunday, June 21st, at 9:24 AM BST.",
+   "source": {
+    "l": "Royal Observatory Greenwich",
+    "u": "https://www.rmg.co.uk/stories/topics/summer-solstice"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Longest Day",
+     "copy": "Get ready for the longest day of the year! The Summer Solstice is this Sunday, June 21st. How will you be making the most of the extra daylight?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "07:00",
+     "tags": [
+      "#SummerSolstice #LongestDay"
+     ]
+    },
+    {
+     "name": "Sunrise Plans",
+     "copy": "The Summer Solstice is just around the corner! Will you be catching the sunrise or enjoying the late sunset this Sunday?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#SummerVibes"
      ]
     }
    ]
