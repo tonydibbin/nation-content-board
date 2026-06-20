@@ -1,16 +1,16 @@
 {
- "updated": "2026-06-20T09:55:53.483Z",
+ "updated": "2026-06-20T11:48:56.626Z",
  "moments": [
   {
-   "id": "fifa-worldcup-groupstage",
+   "id": "fifa-world-cup-2026-ongoing",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Group Stage Continues",
-   "blurb": "The FIFA World Cup 2026 group stage matches are ongoing this week across North America, with teams battling for a spot in the knockout rounds.",
+   "title": "FIFA World Cup 2026 Heats Up",
+   "blurb": "The FIFA World Cup 2026 is underway in the USA, Canada, and Mexico, with group stage matches continuing this week, including England playing Panama on June 27.",
    "source": {
     "l": "FIFA.com",
-    "u": "https://www.fifa.com/worldcup/2026/matches"
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/can-mex-usa2026"
    },
    "fits": [
     {
@@ -22,96 +22,442 @@
     {
      "name": "Global Footy Fever",
      "for": "",
-     "copy": "Morning! Ready for more World Cup action? The group stages are heating up today as teams fight for survival. Who are you backing?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "07:00",
-     "tags": [
-      "#WorldCup2026"
-     ]
-    },
-    {
-     "name": "Match Day Buzz",
-     "for": "",
-     "copy": "Another day, another set of World Cup fixtures! Grab your snacks and get ready for some top-tier international football. Which game are you most excited for?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#FIFAWorldCup"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "summer-solstice-2026",
-   "off": 1,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Longest Day of the Year",
-   "blurb": "The Summer Solstice, marking the longest day and shortest night of the year in the Northern Hemisphere, occurs tomorrow, Sunday June 21st at 9:24 AM BST.",
-   "source": {
-    "l": "Royal Museums Greenwich",
-    "u": "https://www.rmg.co.uk/stories/topics/what-is-summer-solstice"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Sunrise Celebration",
-     "for": "",
-     "copy": "It's almost here! Tomorrow is the Summer Solstice, the official start of astronomical summer. Get ready for maximum daylight!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SummerSolstice"
-     ]
-    },
-    {
-     "name": "Embrace the Light",
-     "for": "",
-     "copy": "Longer evenings are officially here! The Summer Solstice arrives tomorrow, giving us the most daylight of the year. How will you make the most of it?",
+     "copy": "The FIFA World Cup 2026 is officially in full swing across North America! Who are you backing to go all the way?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "12:00",
      "tags": [
-      "#LongestDay"
+      "#FIFAWorldCup"
+     ]
+    },
+    {
+     "name": "England's Next Challenge",
+     "for": "nation-network",
+     "copy": "England fans, mark your calendars! The Three Lions face Panama next on June 27th in the World Cup group stage. Get ready!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#EnglandFootball"
      ]
     }
    ]
   },
   {
-   "id": "lionel-richie-bday",
+   "id": "isle-of-wight-festival-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Isle of Wight Festival Wraps Up",
+   "blurb": "The iconic Isle of Wight Festival, featuring headliners Lewis Capaldi, Calvin Harris, and The Cure, is concluding this weekend, running from June 18-21.",
+   "source": {
+    "l": "Isle of Wight Festival",
+    "u": "https://isleofwightfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Finale",
+     "for": "Nation Radio South",
+     "copy": "It's the final day for Isle of Wight Festival 2026! What's been your highlight from Lewis Capaldi, Calvin Harris, The Cure and more?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#IOWFestival"
+     ]
+    },
+    {
+     "name": "Weekend Vibe Check",
+     "for": "Nation Hits",
+     "copy": "Festival season in full swing! Isle of Wight Festival is wrapping up this weekend - who did you catch live?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#FestivalVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trnsmt-festival-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "TRNSMT Festival Live in Glasgow",
+   "blurb": "Glasgow Green is buzzing with TRNSMT Festival, running June 19-21, with headliners Richard Ashcroft, Kasabian, and Lewis Capaldi performing this weekend.",
+   "source": {
+    "l": "TRNSMT Festival",
+    "u": "https://trnsmtfest.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Glasgow Green Rocks",
+     "for": "Nation Radio Scotland",
+     "copy": "TRNSMT is taking over Glasgow Green this weekend! Who's ready for Richard Ashcroft, Kasabian, and Lewis Capaldi?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TRNSMT"
+     ]
+    },
+    {
+     "name": "Festival Weekend",
+     "for": "Nation Rocks",
+     "copy": "From indie anthems to pop hits, TRNSMT Festival is the place to be in Scotland this weekend. What's on your setlist?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#GlasgowMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "parklife-festival-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Parklife Festival Manchester",
+   "blurb": "Parklife Festival is happening this weekend, June 20-21, bringing major acts to Manchester for a huge two-day event.",
+   "source": {
+    "l": "Parklife Festival",
+    "u": "https://parklife.uk.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North West"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Manchester's Big Weekend",
+     "for": "Nation Radio North West",
+     "copy": "Parklife is ON in Manchester this weekend! Who's heading to Heaton Park for two days of incredible music?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#Parklife"
+     ]
+    },
+    {
+     "name": "Festival Energy",
+     "for": "Nation Dance",
+     "copy": "The beats are dropping at Parklife 2026! Manchester is the place to be for festival vibes today and tomorrow.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ManchesterMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bristol-sounds-2026",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Bristol Sounds Next Week",
+   "blurb": "Bristol Sounds returns to Canons Marsh Amphitheatre next week, running from June 26-27, with a lineup of exciting artists.",
+   "source": {
+    "l": "Bristol Sounds",
+    "u": "https://www.bristolsounds.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South West"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bristol's Summer Stage",
+     "for": "Nation Radio South West",
+     "copy": "Get ready, Bristol! Bristol Sounds takes over Canons Marsh Amphitheatre next week, June 26-27. Who are you hoping to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#BristolSounds"
+     ]
+    },
+    {
+     "name": "Midweek Gigs",
+     "for": "Nation Hits",
+     "copy": "Looking ahead to next week's live music? Bristol Sounds has you covered with two days of great acts!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#LiveMusicUK"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "outbreak-fest-2026",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Outbreak Fest in Manchester",
+   "blurb": "Outbreak Fest, the hardcore, punk, and alternative music festival, is set for June 26-28 at BEC Arena in Manchester.",
+   "source": {
+    "l": "Outbreak Fest",
+    "u": "https://www.outbreak-fest.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North West"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hardcore in Manc",
+     "for": "Nation Rocks",
+     "copy": "Manchester's BEC Arena gets loud next week! Outbreak Fest brings the best in hardcore, punk, and alternative music, June 26-28.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#OutbreakFest"
+     ]
+    },
+    {
+     "name": "Alt Music Alert",
+     "for": "Nation Radio North West",
+     "copy": "Ready for some raw energy? Outbreak Fest is set to ignite Manchester next weekend. Who's on your must-see list?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ManchesterGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "blenheim-palace-festival-2026",
+   "off": 7,
+   "type": "gig",
+   "hot": true,
+   "title": "Blenheim Palace Festival Kicks Off",
+   "blurb": "The Blenheim Palace Festival begins on June 27, featuring an incredible lineup including Katy Perry, Teddy Swims, Pete Tong Ibiza Classics, Alanis Morissette, and Michael Bublé.",
+   "source": {
+    "l": "Blenheim Palace Festival",
+    "u": "https://www.blenheimpalace.com/whats-on/events/blenheim-palace-festival/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Thames Valley"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Palace Party",
+     "for": "Nation Hits",
+     "copy": "An epic week ahead at Blenheim Palace! Katy Perry, Alanis Morissette, Michael Bublé and more are set to perform from June 27th. Who are you most excited for?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BlenheimPalaceFestival"
+     ]
+    },
+    {
+     "name": "Star-Studded Lineup",
+     "for": "Nation 90s",
+     "copy": "Alanis Morissette at a palace? Yes please! Blenheim Palace Festival starts next Saturday. What's your favourite Alanis track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#AlanisMorissette"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wimbledon-2026",
+   "off": 9,
+   "type": "sport",
+   "hot": true,
+   "title": "Wimbledon Championships Begin Soon",
+   "blurb": "The Wimbledon Championships 2026 are set to begin on Monday, June 29, running until July 12 at the All England Club in London.",
+   "source": {
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/index.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tennis Season in London",
+     "for": "Nation Radio London",
+     "copy": "Strawberries and cream at the ready! Wimbledon 2026 kicks off on Monday, June 29. Who are you rooting for this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "Grand Slam Anticipation",
+     "for": "",
+     "copy": "The grass courts of Wimbledon await! The world's most prestigious tennis tournament begins in just over a week.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Tennis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lionel-richie-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 77th Lionel Richie",
-   "blurb": "Music icon Lionel Richie, known for hits like 'Hello' and 'All Night Long', celebrates his 77th birthday today, June 20th.",
+   "title": "Happy Birthday Lionel Richie",
+   "blurb": "Legendary singer-songwriter Lionel Richie, known for hits like 'Easy' and 'All Night Long', celebrates his 77th birthday today, June 20, 2026.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Lionel_Richie"
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/story-happy-birthday-lionel-richie"
    },
    "fits": [
     {
@@ -120,7 +466,15 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
     },
     {
      "g": "decades-genres",
@@ -129,9 +483,9 @@
    ],
    "angles": [
     {
-     "name": "Hello, Is It Me You're Looking For?",
+     "name": "Celebrating a Legend",
      "for": "Nation Easy",
-     "copy": "Wishing a very happy 77th birthday to the one and only Lionel Richie! What's your favourite smooth classic from the legend?",
+     "copy": "Happy 77th Birthday to the incredible Lionel Richie! What's your all-time favourite track from the king of smooth soul?",
      "channels": [
       "instagram",
       "facebook",
@@ -143,196 +497,31 @@
      ]
     },
     {
-     "name": "All Night Long",
+     "name": "Iconic Hits",
      "for": "Nation 80s",
-     "copy": "It's a party 'All Night Long' for Lionel Richie, who turns 77 today! Still bringing the funk and soul. Let's celebrate his incredible career!",
+     "copy": "'Hello', 'Dancing on the Ceiling', 'All Night Long' - so many classics! Join us in wishing Lionel Richie a very happy birthday!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "12:00",
      "tags": [
-      "#80sMusic"
+      "#MusicIcon"
      ]
     }
    ]
   },
   {
-   "id": "ray-davies-bday",
+   "id": "lana-del-rey-birthday",
    "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Ray Davies Turns 82",
-   "blurb": "Sir Ray Davies, the legendary frontman and songwriter of The Kinks, celebrates his 82nd birthday tomorrow, June 21st.",
+   "title": "Lana Del Rey Turns 41",
+   "blurb": "American singer-songwriter Lana Del Rey, known for her cinematic and melancholic style, celebrates her 41st birthday tomorrow, June 21, 2026.",
    "source": {
-    "l": "Britannica",
-    "u": "https://www.britannica.com/biography/Ray-Davies"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Kinks Icon",
-     "for": "Nation 60s",
-     "copy": "Tomorrow, we're wishing a very happy 82nd birthday to the brilliant Sir Ray Davies! The Kinks legend gave us some of the greatest songs ever.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RayDavies"
-     ]
-    },
-    {
-     "name": "Waterloo Sunset King",
-     "for": "Nation Rocks",
-     "copy": "From 'You Really Got Me' to 'Waterloo Sunset', Ray Davies is a true songwriting genius. He turns 82 tomorrow – what's your favourite Kinks track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TheKinks"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cyndi-lauper-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Cyndi Lauper's 73rd Birthday",
-   "blurb": "The iconic 'Girls Just Want to Have Fun' singer Cyndi Lauper celebrates her 73rd birthday on June 22nd.",
-   "source": {
-    "l": "Biography.com",
-    "u": "https://www.biography.com/musicians/cyndi-lauper"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Girls Just Wanna Celebrate",
-     "for": "Nation 80s",
-     "copy": "Get ready to celebrate! The incredible Cyndi Lauper turns 73 on June 22nd. Her vibrant energy and timeless hits still make us wanna have fun!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CyndiLauper"
-     ]
-    },
-    {
-     "name": "True Colors of a Legend",
-     "for": "Nation Classic Hits",
-     "copy": "With a voice that spans generations and 'True Colors' that shine bright, Cyndi Lauper celebrates her 73rd birthday on Monday. Happy birthday to a true legend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#80sIcon"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chris-isaak-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Chris Isaak Turns 70",
-   "blurb": "The smooth-voiced 'Wicked Game' singer Chris Isaak celebrates his 70th birthday on June 26th.",
-   "source": {
-    "l": "Last.fm",
-    "u": "https://www.last.fm/music/Chris+Isaak/+wiki"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wicked Game Turns 70",
-     "for": "Nation Rocks",
-     "copy": "Wishing a very happy 70th birthday to the distinctive Chris Isaak on June 26th! His 'Wicked Game' is still sending shivers down our spines.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ChrisIsaak"
-     ]
-    },
-    {
-     "name": "Smooth Operator",
-     "for": "Nation Easy",
-     "copy": "The master of cool, Chris Isaak, celebrates his 70th on Thursday! His timeless sound makes him a true icon. What's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Rockabilly"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "nicole-scherzinger-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Nicole Scherzinger's 48th Birthday",
-   "blurb": "Former Pussycat Dolls lead singer Nicole Scherzinger, known for hits like 'Don't Cha', celebrates her 48th birthday on June 29th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/nicole-scherzinger.html"
+    "l": "National Today",
+    "u": "https://nationaltoday.com/lana-del-rey-birthday/"
    },
    "fits": [
     {
@@ -345,29 +534,14 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Don't Cha Wanna Celebrate?",
+     "name": "Queen of Melancholy",
      "for": "Nation Hits",
-     "copy": "Get ready to 'Don't Cha' dance! Nicole Scherzinger turns 48 on June 29th. The Pussycat Dolls icon is still bringing the pop anthems!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#NicoleScherzinger"
-     ]
-    },
-    {
-     "name": "Pop Queen Reigns",
-     "for": "Nation 00s",
-     "copy": "From girl group sensation to solo star, Nicole Scherzinger celebrates her 48th on Monday! What's your favourite track from her incredible career?",
+     "copy": "Tomorrow, June 21st, we celebrate the unique artistry of Lana Del Rey as she turns 41! What's your favourite Lana track?",
      "channels": [
       "instagram",
       "facebook",
@@ -375,104 +549,66 @@
      ],
      "time": "16:00",
      "tags": [
-      "#PussycatDolls"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fantasia-barrino-bday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Fantasia Barrino Turns 42",
-   "blurb": "American Idol winner and R&B powerhouse Fantasia Barrino celebrates her 42nd birthday on June 30th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/fantasia-barrino.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Idol to Icon",
-     "for": "Nation Hits",
-     "copy": "Happy 42nd birthday to the phenomenal Fantasia Barrino on June 30th! From American Idol winner to R&B superstar, she continues to inspire.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#FantasiaBarrino"
+      "#LanaDelRey"
      ]
     },
     {
-     "name": "R&B Powerhouse",
-     "for": "Nation Hits",
-     "copy": "Celebrating the incredible talent of Fantasia Barrino, who turns 42 on Tuesday! Her powerful vocals and stage presence are unmatched.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#RNB"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wimbledon-2026-start",
-   "off": 9,
-   "type": "sport",
-   "hot": true,
-   "title": "Wimbledon Championships Begin",
-   "blurb": "The prestigious Wimbledon Championships 2026 kick off on Monday, June 29th, bringing two weeks of world-class tennis to London.",
-   "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": "Radio Exe"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tennis Time",
-     "for": "nation-network",
-     "copy": "Get ready for strawberries and cream! Wimbledon 2026 begins on Monday, June 29th. Who are your picks for the champions this year?",
+     "name": "Early Summer Birthday",
+     "for": "Nation Rocks",
+     "copy": "Get ready to wish Lana Del Rey a happy 41st birthday tomorrow! Her influence on music is undeniable.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#MusicBirthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cyndi-lauper-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Cyndi Lauper's 73rd Birthday",
+   "blurb": "Grammy-winning pop icon Cyndi Lauper, famous for 'Girls Just Want to Have Fun' and 'Time After Time', celebrates her 73rd birthday on Sunday, June 22, 2026.",
+   "source": {
+    "l": "National Today",
+    "u": "https://nationaltoday.com/cyndi-lauper-birthday/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s Pop Legend",
+     "for": "Nation 80s",
+     "copy": "Girls (and guys) just want to have fun! Sending early birthday wishes to the incredible Cyndi Lauper, who turns 73 on Sunday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "10:00",
      "tags": [
-      "#Wimbledon"
+      "#CyndiLauper"
      ]
     },
     {
-     "name": "London Calling Tennis Fans",
-     "for": "Nation Radio London",
-     "copy": "The greatest tennis tournament in the world returns to London next Monday! Wimbledon 2026 is almost here. Are you heading to SW19 or watching from home?",
+     "name": "Timeless Tracks",
+     "for": "Nation Classic Hits",
+     "copy": "From 'Time After Time' to 'True Colors', Cyndi Lauper's music is iconic. Happy 73rd birthday to her this weekend!",
      "channels": [
       "instagram",
       "facebook",
@@ -480,77 +616,77 @@
      ],
      "time": "14:00",
      "tags": [
-      "#Wimbledon2026"
+      "#PopIcon"
      ]
     }
    ]
   },
   {
-   "id": "glastonbury-fallow-year",
-   "off": 0,
-   "type": "gig",
-   "hot": false,
-   "title": "Glastonbury Fallow Year Confirmed",
-   "blurb": "Just a reminder that there is no Glastonbury Festival in 2026, as it's a planned 'fallow year' to allow Worthy Farm to recover. The festival returns in 2027.",
+   "id": "fantasia-barrino-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Fantasia Barrino Turns 42",
+   "blurb": "American Idol winner and Grammy-winning R&B singer Fantasia Barrino, known for her powerful vocals, celebrates her 42nd birthday on June 30, 2026.",
    "source": {
-    "l": "Glastonbury Festivals Official Site",
-    "u": "https://www.glastonburyfestivals.co.uk/information/"
+    "l": "National Today",
+    "u": "https://nationaltoday.com/fantasia-barrino-birthday/"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "No Glasto This Year",
-     "for": "nation-network",
-     "copy": "Missing the Pyramid Stage already? Just a friendly reminder that Glastonbury Festival is taking its planned fallow year in 2026. See you in 2027!",
+     "name": "R&B Powerhouse",
+     "for": "Nation Hits",
+     "copy": "Mark your calendars for June 30th! The incredibly talented Fantasia Barrino celebrates her 42nd birthday. What's your favourite Fantasia song?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "13:00",
      "tags": [
-      "#Glastonbury"
+      "#Fantasia"
      ]
     },
     {
-     "name": "Worthy Farm Resting",
-     "for": "Nation Rocks",
-     "copy": "While Worthy Farm takes a well-deserved break, we're already dreaming of Glastonbury 2027! What's your favourite Glasto memory?",
+     "name": "Idol to Icon",
+     "for": "Nation 00s",
+     "copy": "From American Idol champion to Grammy winner, Fantasia Barrino has had an amazing career. Happy 42nd birthday to her at the end of the month!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "17:00",
      "tags": [
-      "#Glasto2027"
+      "#AmericanIdol"
      ]
     }
    ]
   },
   {
-   "id": "school-summer-holidays-approach",
-   "off": 30,
-   "type": "seasonal",
-   "hot": false,
-   "title": "Summer Holidays on the Horizon",
-   "blurb": "School summer holidays in England and Wales are just a few weeks away, with most schools breaking up around July 20th-22nd.",
+   "id": "mike-tyson-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Mike Tyson's 60th Birthday",
+   "blurb": "Boxing legend Mike Tyson, former undisputed world heavyweight champion, will celebrate his 60th birthday on June 30, 2026.",
    "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mike_Tyson"
    },
    "fits": [
     {
@@ -560,32 +696,81 @@
    ],
    "angles": [
     {
-     "name": "Countdown to Freedom",
+     "name": "Iron Mike at 60",
      "for": "",
-     "copy": "Only a few more weeks until the school summer holidays begin across England and Wales! Parents and kids, are you ready for the break?",
+     "copy": "The Baddest Man on the Planet turns 60! Happy birthday wishes to boxing icon Mike Tyson on June 30th.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#MikeTyson"
+     ]
+    },
+    {
+     "name": "Sporting Legend",
+     "for": "",
+     "copy": "One of the most formidable athletes in history, Mike Tyson, celebrates his 60th at the end of the month. What's your favourite Tyson moment?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "11:00",
+     "time": "15:00",
      "tags": [
-      "#SummerHolidays"
+      "#BoxingLegend"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "summer-solstice-2026",
+   "off": 1,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Summer Solstice Approaches",
+   "blurb": "The Summer Solstice, marking the longest day of the year in the Northern Hemisphere, occurs tomorrow, June 21, 2026.",
+   "source": {
+    "l": "Time and Date",
+    "u": "https://www.timeanddate.com/calendar/seasons.html"
+   },
+   "fits": [
     {
-     "name": "Summer Plans Loading",
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Longest Day",
      "for": "",
-     "copy": "The countdown to summer holidays is officially on for many families! What are your big plans for the long break?",
+     "copy": "Get ready for maximum daylight! The Summer Solstice is tomorrow, June 21st, bringing us the longest day of the year.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "09:30",
      "tags": [
-      "#SchoolHolidays"
+      "#SummerSolstice"
+     ]
+    },
+    {
+     "name": "Summer is Here",
+     "for": "",
+     "copy": "Officially welcoming summer! Tomorrow marks the Summer Solstice. How are you making the most of the extra daylight?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#FirstDayOfSummer"
      ]
     }
    ]
