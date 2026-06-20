@@ -1,118 +1,205 @@
 {
- "updated": "2026-06-20T21:01:16.863Z",
+ "updated": "2026-06-20T22:55:46.700Z",
  "moments": [
   {
-   "id": "summer",
-   "off": 0,
+   "id": "summer-solstice-2026",
+   "off": 1,
    "type": "seasonal",
    "hot": true,
-   "title": "Summer Solstice",
-   "blurb": "Today marks the summer solstice, the longest day of the year in the Northern Hemisphere",
+   "title": "Longest Day of the Year",
+   "blurb": "The Summer Solstice, marking the longest day and shortest night of the year in the Northern Hemisphere, occurs on Sunday, June 21st, at 9:24 AM BST.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Royal Museums Greenwich",
+    "u": "https://www.rmg.co.uk/stories/topics/summer-solstice"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Seasonal Moment",
-     "for": "",
-     "copy": "The longest day of the year is here, make the most of the sunshine",
+     "name": "General UK",
+     "copy": "Get ready to soak up the sun! Tomorrow is the Summer Solstice, bringing us the longest day of 2026. How are you making the most of the extra daylight? #SummerSolstice",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "08:00",
-     "tags": []
+     "tags": [
+      "#SummerSolstice"
+     ]
     },
     {
-     "name": "Summer Vibes",
-     "for": "",
-     "copy": "As the summer solstice arrives, get ready for long evenings and warm weather",
+     "name": "Early Morning",
+     "copy": "The sun rises on the Summer Solstice tomorrow at 9:24 AM BST – the official moment of the longest day. Perfect for an early start or late finish!",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "facebook"
      ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Summer of Sport",
-     "for": "",
-     "copy": "The summer solstice marks the beginning of a packed summer of sport, including Wimbledon and the British Grand Prix",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
+     "time": "21:00",
+     "tags": [
+      "#LongestDay"
+     ]
     }
    ]
   },
   {
-   "id": "wimbledon",
-   "off": 9,
+   "id": "world-cup-2026-ongoing",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon Countdown",
-   "blurb": "The Wimbledon Championships are just over a week away, running from June 29 to July 12",
+   "title": "FIFA World Cup 2026 Group Stage",
+   "blurb": "The FIFA World Cup 2026 group stage continues across North America, with matches running daily and England playing Panama on June 27th.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "FIFA",
+    "u": "https://www.fifa.com/worldcup/2026/matches"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Tennis Fever",
-     "for": "",
-     "copy": "Get ready for two weeks of grass-court tennis as Wimbledon approaches",
+     "name": "General Update",
+     "copy": "Another day, another set of World Cup clashes! Who are you backing in today's group stage fixtures? #FIFAWorldCup2026",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#FIFAWorldCup2026"
+     ]
+    },
+    {
+     "name": "England Focus",
+     "copy": "England fans, get ready! The Three Lions are back in World Cup action on June 27th against Panama. How are your nerves holding up?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#EnglandFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exeter-chiefs-final",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Gallagher Premiership Final: Exeter Chiefs",
+   "blurb": "Exeter Chiefs face Northampton Saints today in the Gallagher Premiership Rugby final at Twickenham Stadium, kicking off at 3 PM BST.",
+   "source": {
+    "l": "Premiership Rugby",
+    "u": "https://www.premiershiprugby.com/fixtures-results/"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": "Radio Exe"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Westcountry"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Day Hype",
+     "copy": "It's FINAL DAY! Our very own Exeter Chiefs battle Northampton Saints for the Gallagher Premiership title at Twickenham. Come on you Chiefs! #PremRugbyFinal #ExeterChiefs",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
       "threads"
      ],
      "time": "10:00",
-     "tags": []
+     "tags": [
+      "#ExeterChiefs"
+     ]
     },
     {
-     "name": "British Hope",
-     "for": "",
-     "copy": "Who will be the British players to watch at this year's Wimbledon Championships?",
+     "name": "Local Support",
+     "copy": "Devon is behind you, Chiefs! Tune in from 3 PM BST to watch Exeter take on Northampton in the biggest game of the season. Where are you watching?",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "14:00",
-     "tags": []
+     "time": "13:00",
+     "tags": [
+      "#DevonRugby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "isle-of-wight-festival-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Isle of Wight Festival Wraps Up",
+   "blurb": "The Isle of Wight Festival continues through Sunday, June 21st, featuring headliners like Calvin Harris tonight and The Cure tomorrow.",
+   "source": {
+    "l": "Isle of Wight Festival",
+    "u": "https://www.isleofwightfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
     },
     {
-     "name": "SW19",
-     "for": "",
-     "copy": "The wait is almost over, Wimbledon is just around the corner, will we see a new champion crowned?",
+     "g": "nation-network",
+     "sub": "Nation Radio Westcountry"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Saturday Headliner",
+     "copy": "Calvin Harris takes over the Isle of Wight Festival main stage tonight! Who's there and ready to dance? #IOW2026 #CalvinHarris",
      "channels": [
       "instagram",
       "facebook",
@@ -121,32 +208,104 @@
       "threads"
      ],
      "time": "18:00",
-     "tags": []
+     "tags": [
+      "#IOW2026"
+     ]
+    },
+    {
+     "name": "Weekend Vibes",
+     "copy": "The Isle of Wight Festival is in full swing! What's been your highlight so far from the epic lineup, including Lewis Capaldi and The Cure?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FestivalSeason"
+     ]
     }
    ]
   },
   {
-   "id": "britishgp",
-   "off": 15,
-   "type": "sport",
+   "id": "trnsmt-festival-2026",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "British Grand Prix",
-   "blurb": "The British Grand Prix takes place on July 5, round 12 of the 2026 F1 season",
+   "title": "TRNSMT Festival Continues in Glasgow",
+   "blurb": "Glasgow Green is buzzing as TRNSMT Festival hosts Kasabian tonight, with Lewis Capaldi set to headline on Sunday, June 21st.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "TRNSMT Festival",
+    "u": "https://trnsmtfest.com/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "F1 Countdown",
-     "for": "",
-     "copy": "The British Grand Prix is just over two weeks away, who will take the top spot on the podium?",
+     "name": "Saturday Headliner",
+     "copy": "TRNSMT is rockin' Glasgow Green! Tonight, Kasabian takes the stage. Who's catching them live? #TRNSMT2026 #Kasabian",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#TRNSMT2026"
+     ]
+    },
+    {
+     "name": "Festival Lineup",
+     "copy": "It's a huge weekend in Glasgow! TRNSMT Festival continues with Kasabian tonight and Lewis Capaldi wrapping things up tomorrow. What's been your favourite set?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#GlasgowMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taylor-swift-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Taylor Swift Tops UK Singles Chart",
+   "blurb": "Taylor Swift's 'I Knew It, I Knew You' is the UK's number one single, achieving the biggest week of sales in three years for the week ending June 25th.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "copy": "Queen of the charts! Taylor Swift is Number 1 in the UK with 'I Knew It, I Knew You' AND had the biggest sales week in three years. Incredible!",
      "channels": [
       "instagram",
       "facebook",
@@ -155,38 +314,328 @@
       "threads"
      ],
      "time": "11:00",
-     "tags": []
+     "tags": [
+      "#TaylorSwift"
+     ]
     },
     {
-     "name": "Silverstone",
-     "for": "",
-     "copy": "The British Grand Prix returns to Silverstone, one of the most iconic tracks in the F1 calendar",
+     "name": "Pop Culture News",
+     "copy": "Still buzzing from the latest Official Singles Chart? Taylor Swift is dominating at Number 1. What's your favourite track from the current Top 40?",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "facebook"
      ],
      "time": "15:00",
-     "tags": []
+     "tags": [
+      "#UKCharts"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lionel-richie-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 77th Birthday Lionel Richie",
+   "blurb": "Legendary singer-songwriter Lionel Richie, known for hits like 'Hello' and 'All Night Long', celebrates his 77th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/lionel-richie.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     },
     {
-     "name": "Racing Action",
-     "for": "",
-     "copy": "Get ready for high-speed action as the British Grand Prix takes center stage on July 5",
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Shoutout",
+     "copy": "Wishing a very happy 77th birthday to the one and only Lionel Richie! What's your all-time favourite Lionel track? #LionelRichie #HappyBirthday",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#LionelRichie"
+     ]
+    },
+    {
+     "name": "Music Icon",
+     "copy": "From The Commodores to a phenomenal solo career, Lionel Richie turns 77 today. Celebrate with us by playing his timeless hits!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#MusicLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-taylor-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 66th Birthday John Taylor",
+   "blurb": "Duran Duran bassist and co-founder John Taylor celebrates his 66th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/john-taylor.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Shoutout",
+     "copy": "Happy 66th Birthday to the legendary John Taylor of Duran Duran! What's your favourite Duran Duran song to blast out? #JohnTaylor #DuranDuran",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#DuranDuran"
+     ]
+    },
+    {
+     "name": "80s Icon",
+     "copy": "Celebrating an 80s icon today! John Taylor, bassist for Duran Duran, turns 66. Get those classic hits on rotation!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michael-anthony-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 72nd Birthday Michael Anthony",
+   "blurb": "Former Van Halen bassist and rock icon Michael Anthony celebrates his 72nd birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/michael-anthony.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Birthday",
+     "copy": "Happy 72nd Birthday to the incredible Michael Anthony, former bassist of Van Halen! What's your favourite Van Halen track? #MichaelAnthony #VanHalen",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#VanHalen"
+     ]
+    },
+    {
+     "name": "Hard Rock Legend",
+     "copy": "A true legend of hard rock, Michael Anthony turns 72 today! Crank up those classic Van Halen riffs in his honour.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#RockMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wales-u19-euro-host",
+   "off": 8,
+   "type": "sport",
+   "hot": true,
+   "title": "Wales Hosts UEFA U19 EURO Finals",
+   "blurb": "Wales is set to host the UEFA Under-19 European Championship finals across North Wales, with matches kicking off on Sunday, June 28th.",
+   "source": {
+    "l": "FAW",
+    "u": "https://www.faw.cymru/en/news/all-you-need-know-uefa-u19-euro-finals/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Local Excitement",
+     "copy": "Huge news for Welsh football! We're hosting the UEFA U19 EURO finals starting June 28th across North Wales. Get ready to cheer on the next generation! #Cymru #U19EURO",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#Cymru"
+     ]
+    },
+    {
+     "name": "Upcoming Fixtures",
+     "copy": "The UEFA U19 EURO Finals are almost here! Wales takes on nine-time winners Spain in their opening match on Sunday, June 28th, at the Racecourse Ground.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#WelshFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "clarksons-farm-s5-finale",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Clarkson's Farm Season 5 Concludes",
+   "blurb": "The final episodes (7-8) of Clarkson's Farm Season 5, following Jeremy Clarkson's farming adventures, premiered on Prime Video on June 17th.",
+   "source": {
+    "l": "Amazon Prime Video",
+    "u": "https://www.amazon.co.uk/Clarksons-Farm-Season-5/dp/B0CKD3319X"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Catch Up TV",
+     "copy": "Have you caught up with the final episodes of Clarkson's Farm Season 5 yet? More chaos and triumphs from Diddly Squat Farm! #ClarksonsFarm #PrimeVideo",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ClarksonsFarm"
+     ]
+    },
+    {
+     "name": "What's Next?",
+     "copy": "Season 5 of Clarkson's Farm wrapped up this week. What were your thoughts on Jeremy's latest farming challenges?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#DiddlySquatFarm"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-island-s13-ongoing",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Love Island Season 13 Continues",
+   "blurb": "The new series of Love Island (Season 13) continues, bringing daily drama from the villa.",
+   "source": {
+    "l": "ITV Hub",
+    "u": "https://www.itv.com/hub/love-island"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Reality TV Buzz",
+     "copy": "Another night, another dose of Love Island drama! Who's coupling up and who's on the rocks? Tune in tonight! #LoveIsland",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
       "threads"
      ],
      "time": "19:00",
-     "tags": []
+     "tags": [
+      "#LoveIsland"
+     ]
+    },
+    {
+     "name": "Daily Gossip",
+     "copy": "Still hooked on Love Island Season 13? The villa is heating up! What's been the biggest shocker so far?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#ITV"
+     ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
