@@ -1,90 +1,32 @@
 {
- "updated": "2026-06-23T21:00:59.705Z",
+ "updated": "2026-06-23T22:13:49.475Z",
  "moments": [
   {
-   "id": "summer-solstice",
+   "id": "icc-women-t20-world-cup",
    "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Longest Day of the Year",
-   "blurb": "The summer solstice marks the longest day of the year and the beginning of summer in the Northern Hemisphere.",
-   "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio"
-    }
-   ],
-   "angles": [
-    {
-     "name": "sunrise",
-     "for": "",
-     "copy": "Summer is here, the days are long and the nights are warm, what's your favorite way to enjoy the longest day of the year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "06:00",
-     "tags": []
-    },
-    {
-     "name": "seasonal",
-     "for": "",
-     "copy": "As we mark the summer solstice, we look forward to the next few months of sunshine and outdoor fun.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "holiday",
-     "for": "",
-     "copy": "With the summer solstice here, we're officially in holiday season, where are you off to this summer?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "wimbledon-approaches",
-   "off": 6,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon 2026",
-   "blurb": "The Wimbledon Championships are set to begin on June 29th, two weeks of grass-court tennis at SW19.",
+   "title": "ICC Women's T20 World Cup Live",
+   "blurb": "The ICC Women's T20 World Cup is currently live across the UK, running until July 5th, with matches in Birmingham, Bristol, Leeds, London, Manchester, and Southampton.",
    "source": {
-    "l": "Wimbledon",
-    "u": ""
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.org/looking-ahead-britains-sporting-highlights-2026"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "tennis-fans",
+     "name": "Tournament Buzz",
      "for": "",
-     "copy": "Who are you backing to win Wimbledon this year?",
+     "copy": "Who's making waves at the ICC Women's T20 World Cup? The action is live across the UK and the competition is fierce!",
      "channels": [
       "instagram",
       "facebook",
@@ -93,60 +35,102 @@
       "threads"
      ],
      "time": "08:00",
-     "tags": []
+     "tags": [
+      "#T20WorldCup"
+     ]
     },
     {
-     "name": "london-summer",
+     "name": "Home Crowd Advantage",
      "for": "Nation Radio London",
-     "copy": "As London gets ready to host the tennis world, what's your favorite spot to enjoy the summer in the city?",
+     "copy": "The ICC Women's T20 World Cup final is set for London on July 5th! Are you ready to cheer on the teams?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "14:00",
-     "tags": []
-    },
-    {
-     "name": "summer-of-sport",
-     "for": "",
-     "copy": "Wimbledon is just the start of a fantastic summer of sport, what are you most looking forward to?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "20:00",
-     "tags": []
+     "time": "12:00",
+     "tags": [
+      "#WomenInCricket"
+     ]
     }
    ]
   },
   {
-   "id": "british-gp",
-   "off": 12,
+   "id": "uk-athletics-championships",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "British Grand Prix 2026",
-   "blurb": "The British Grand Prix takes place on July 5th at Silverstone, round 12 of the 2026 F1 season.",
+   "title": "UK Athletics Championships Just Wrapped",
+   "blurb": "The 2026 UK Athletics Championships concluded on June 21st in Birmingham, with top British athletes competing for national titles and European Championship qualification.",
    "source": {
-    "l": "Formula 1",
-    "u": ""
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/2026_UK_Athletics_Championships"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "f1-fans",
+     "name": "Athletics Highlights",
      "for": "",
-     "copy": "The British Grand Prix is just around the corner, who do you think will take the top spot?",
+     "copy": "Still buzzing from the UK Athletics Championships in Birmingham this weekend! Who were your standout performers?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#UKA #Athletics"
+     ]
+    },
+    {
+     "name": "Birmingham Action",
+     "for": "",
+     "copy": "Birmingham hosted the best of British athletics this past weekend. What a show put on by our track and field stars!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Birmingham"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wimbledon-2026-starts",
+   "off": 6,
+   "type": "sport",
+   "hot": true,
+   "title": "Wimbledon 2026 Kicks Off",
+   "blurb": "The Championships, Wimbledon, the world's oldest tennis tournament, begins its 14-day run on Monday, June 29th, 2026.",
+   "source": {
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/visit_and_tickets/future_dates.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tennis Season",
+     "for": "",
+     "copy": "Strawberries and cream at the ready! Wimbledon 2026 starts next Monday. Who are you backing for the titles?",
      "channels": [
       "instagram",
       "facebook",
@@ -155,60 +139,855 @@
       "threads"
      ],
      "time": "10:00",
-     "tags": []
+     "tags": [
+      "#Wimbledon"
+     ]
     },
     {
-     "name": "silverstone",
-     "for": "",
-     "copy": "As the racing world heads to Silverstone, what's your favorite memory from the British Grand Prix?",
+     "name": "London Calling",
+     "for": "Nation Radio London",
+     "copy": "The All England Club gates open on Monday for Wimbledon! Get ready for two weeks of world-class tennis right here in London.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "16:00",
-     "tags": []
-    },
-    {
-     "name": "racing-season",
-     "for": "",
-     "copy": "The British Grand Prix is a highlight of the racing season, what else are you looking forward to?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "22:00",
-     "tags": []
+     "time": "15:00",
+     "tags": [
+      "#Wimbledon2026"
+     ]
     }
    ]
   },
   {
-   "id": "ray-davies-birthday",
-   "off": 0,
-   "type": "birthday",
+   "id": "british-grand-prix-2026",
+   "off": 9,
+   "type": "sport",
    "hot": true,
-   "title": "Ray Davies Birthday",
-   "blurb": "Ray Davies, the legendary lead singer and songwriter of The Kinks, was born on June 21, 1944, but we're still celebrating his birthday week.",
+   "title": "British Grand Prix Incoming",
+   "blurb": "The British Grand Prix at Silverstone is set to roar into action from July 2nd to July 5th, 2026.",
    "source": {
-    "l": "The Kinks",
-    "u": ""
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.org/uk-sporting-calendar-events-seasons"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "kinks-classics",
-     "for": "Nation 60s",
-     "copy": "Ray Davies is the genius behind some of The Kinks' biggest hits, what's your favorite song?",
+     "name": "F1 Countdown",
+     "for": "",
+     "copy": "Start your engines! The British Grand Prix at Silverstone is just around the corner. Who's heading trackside?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#BritishGP #F1"
+     ]
+    },
+    {
+     "name": "Silverstone Buzz",
+     "for": "",
+     "copy": "Get ready for high-octane drama! Silverstone hosts the British Grand Prix from July 2nd. Expect speed, thrills, and hopefully a home win!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Silverstone"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "official-singles-chart-update",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Official Singles Chart This Week",
+   "blurb": "The Official Singles Chart Top 40 for June 18th - June 24th is out, featuring new entries from Olivia Rodrigo, LE SSERAFIM x ILLIT x KATSEYE, and Shakira & Burna Boy.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Toppers",
+     "for": "",
+     "copy": "The Official Singles Chart is fresh! Who's at number one and what new tracks are making a splash this week?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#OfficialCharts #NewMusic"
+     ]
+    },
+    {
+     "name": "New Entries",
+     "for": "",
+     "copy": "New music alert! Olivia Rodrigo, LE SSERAFIM x ILLIT x KATSEYE, and Shakira & Burna Boy are all in the new Top 40. What's your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "house-of-the-dragon-s3",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "House Of The Dragon Season 3 Premiered",
+   "blurb": "Season 3 of 'House Of The Dragon' premiered yesterday, June 22nd, and is now streaming on Sky Atlantic and HBO Max.",
+   "source": {
+    "l": "Virgin Media O2",
+    "u": "https://www.virginmediao2.co.uk/virgin-tv/whats-on/best-new-tv-shows-summer-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Return to Westeros",
+     "for": "",
+     "copy": "Fire and Blood is back! House Of The Dragon Season 3 dropped yesterday. Who's already binged it?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#HouseOfTheDragon #HOTD"
+     ]
+    },
+    {
+     "name": "Weekend Watch",
+     "for": "",
+     "copy": "Still thinking about the House Of The Dragon Season 3 premiere. What were your first impressions?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#GameOfThrones"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "avatar-last-airbender-s2",
+   "off": 2,
+   "type": "tv",
+   "hot": true,
+   "title": "Avatar: The Last Airbender S2 Arrives",
+   "blurb": "Season 2 of 'Avatar: The Last Airbender' is set to premiere on Netflix on Thursday, June 25th.",
+   "source": {
+    "l": "Virgin Media O2",
+    "u": "https://www.virginmediao2.co.uk/virgin-tv/whats-on/best-new-tv-shows-summer-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bending Back",
+     "for": "",
+     "copy": "Get ready, Avatar fans! The Last Airbender Season 2 hits Netflix this Thursday. Are you excited for more bending action?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#AvatarTheLastAirbender #Netflix"
+     ]
+    },
+    {
+     "name": "What to Watch",
+     "for": "",
+     "copy": "Your next binge-watch is almost here! Avatar: The Last Airbender Season 2 lands on Netflix this week.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#FantasyTV"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-bear-s5-disney",
+   "off": 3,
+   "type": "tv",
+   "hot": true,
+   "title": "The Bear Season 5 on Disney+",
+   "blurb": "The highly anticipated fifth season of 'The Bear' will be available to stream on Disney+ from Friday, June 26th.",
+   "source": {
+    "l": "Virgin Media O2",
+    "u": "https://www.virginmediao2.co.uk/virgin-tv/whats-on/best-new-tv-shows-summer-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chef's Kiss TV",
+     "for": "",
+     "copy": "Yes, chef! Season 5 of 'The Bear' drops on Disney+ this Friday. Prepare for more kitchen chaos and culinary brilliance!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#TheBear #DisneyPlus"
+     ]
+    },
+    {
+     "name": "Weekend Binge",
+     "for": "",
+     "copy": "Your weekend plans just got better: The Bear Season 5 is coming to Disney+ on Friday! Who's ready for another serving?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#TVRecommendations"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-arthurs-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Bonehead!",
+   "blurb": "Paul 'Bonehead' Arthurs, co-founder and rhythm guitarist of Oasis, turns 61 today.",
+   "source": {
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Oasis Legend",
+     "for": "",
+     "copy": "Happy 61st Birthday to the one and only Bonehead from Oasis! What's your favourite Oasis track he helped shape?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#Oasis #Bonehead"
+     ]
+    },
+    {
+     "name": "Britpop Icon",
+     "for": "Nation 90s",
+     "copy": "Wishing a very Happy 61st Birthday to Paul 'Bonehead' Arthurs! A true Britpop legend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Britpop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jason-mraz-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Jason Mraz!",
+   "blurb": "Grammy-winning singer-songwriter Jason Mraz, known for hits like 'I'm Yours,' celebrates his 49th birthday today.",
+   "source": {
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Mraz Day",
+     "for": "",
+     "copy": "Happy 49th Birthday to the incredibly talented Jason Mraz! What's your favourite song from him?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JasonMraz #ImYours"
+     ]
+    },
+    {
+     "name": "Good Vibes",
+     "for": "Nation Easy",
+     "copy": "Sending good vibes and Happy 49th Birthday wishes to Jason Mraz, whose music always brightens the day.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SingerSongwriter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kt-tunstall-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday KT Tunstall!",
+   "blurb": "Scottish singer-songwriter KT Tunstall, known for 'Black Horse and the Cherry Tree,' turns 51 today.",
+   "source": {
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish Star",
+     "for": "",
+     "copy": "Happy 51st Birthday to the fantastic KT Tunstall! Which of her songs is your go-to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#KTTunstall #ScottishMusic"
+     ]
+    },
+    {
+     "name": "Cherry Tree Vibes",
+     "for": "",
+     "copy": "Wishing a very Happy 51st to the brilliant KT Tunstall! Still rocking 'Black Horse and the Cherry Tree' regularly.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PopRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "leee-john-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Leee John!",
+   "blurb": "Leee John, lead singer of the iconic 80s soul and funk band Imagination, celebrates his 69th birthday today.",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/june-soul-birthdays"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Imagination Legend",
+     "for": "Nation 80s",
+     "copy": "Happy 69th Birthday to the incredible Leee John from Imagination! Get 'Body Talk' on repeat today.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Imagination #LeeeJohn"
+     ]
+    },
+    {
+     "name": "Soulful Birthday",
+     "for": "Nation Easy",
+     "copy": "Wishing a very Happy 69th to Leee John, the smooth voice of Imagination. Pure soul!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#80sSoul"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nicole-scherzinger-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Nicole Scherzinger!",
+   "blurb": "Singer, dancer, and TV personality Nicole Scherzinger, known for her work with The Pussycat Dolls, turns 48 on June 29th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/singers/nicole-scherzinger.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pussycat Doll",
+     "for": "Nation Hits",
+     "copy": "Getting ready to celebrate Nicole Scherzinger's 48th birthday on June 29th! What's your favourite Pussycat Dolls track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#NicoleScherzinger #PussycatDolls"
+     ]
+    },
+    {
+     "name": "Pop Icon",
+     "for": "Nation 00s",
+     "copy": "Happy early 48th Birthday to the incredible Nicole Scherzinger! She's still 'Don't Cha' know, a total star.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#PopIcon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ian-paice-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Ian Paice!",
+   "blurb": "Ian Paice, the legendary drummer and only constant member of Deep Purple, celebrates his 78th birthday on June 29th.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/june/29"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Drumming Legend",
+     "for": "Nation Rocks",
+     "copy": "On June 29th, we celebrate the 78th Birthday of Deep Purple's drumming powerhouse, Ian Paice! What's your favourite Deep Purple riff?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#DeepPurple #IanPaice"
+     ]
+    },
+    {
+     "name": "Classic Rocker",
+     "for": "Nation 70s",
+     "copy": "Happy early 78th Birthday to the one and only Ian Paice! Still an absolute titan behind the kit.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#ClassicRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "colin-hay-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Colin Hay!",
+   "blurb": "Colin Hay, the Scottish-Australian frontman of Men at Work and successful solo artist, turns 73 on June 29th.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/june/29"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Men at Work Maestro",
+     "for": "Nation 80s",
+     "copy": "It's Colin Hay's 73rd Birthday on June 29th! Let's hear it for the voice behind 'Down Under' and so many more.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#MenAtWork #ColinHay"
+     ]
+    },
+    {
+     "name": "Aussie Legend",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing a very Happy 73rd to Colin Hay! Still bringing joy with his timeless tunes.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deborah-harry-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Debbie Harry!",
+   "blurb": "Deborah Harry, the iconic lead singer of Blondie, will celebrate her 81st birthday on July 1st.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-this-week-june-28-july-4-998871234"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Blondie Icon",
+     "for": "Nation 70s",
+     "copy": "Get ready to wish the legendary Debbie Harry a very Happy 81st Birthday on July 1st! A true punk and pop icon.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#DebbieHarry #Blondie"
+     ]
+    },
+    {
+     "name": "Timeless Style",
+     "for": "Nation Rocks",
+     "copy": "Still looking and sounding incredible! Happy early 81st Birthday to the one and only Deborah Harry.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#PunkRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "missy-elliott-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Missy Elliott!",
+   "blurb": "Groundbreaking rapper, singer, and producer Missy Elliott will be turning 55 on July 1st.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-this-week-june-28-july-4-998871234"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Work It",
+     "for": "Nation Hits",
+     "copy": "Get your freak on for Missy Elliott's 55th Birthday on July 1st! A true pioneer of hip-hop and R&B.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#MissyElliott #HipHop"
+     ]
+    },
+    {
+     "name": "Music Icon",
+     "for": "Nation 00s",
+     "copy": "Wishing an early Happy 55th Birthday to the one and only Missy Elliott! Her influence is undeniable.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#MusicLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vince-clarke-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Vince Clarke!",
+   "blurb": "Synth-pop innovator Vince Clarke, known for his work with Depeche Mode, Yazoo, and Erasure, turns 66 on July 3rd.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/3"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Synth Master",
+     "for": "Nation 80s",
+     "copy": "Happy 66th Birthday to synth wizard Vince Clarke on July 3rd! From Depeche Mode to Erasure, he's shaped so much of the 80s sound.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#VinceClarke #Erasure"
+     ]
+    },
+    {
+     "name": "Electronic Pioneer",
+     "for": "Nation Dance",
+     "copy": "An early Happy Birthday to Vince Clarke! His electronic magic is still making us dance.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#SynthPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shane-lynch-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Shane Lynch!",
+   "blurb": "Shane Lynch, member of the hugely popular Irish boyband Boyzone, celebrates his 50th birthday on July 3rd.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/3"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Boyzone Star",
+     "for": "Nation 90s",
+     "copy": "Get ready to wish Shane Lynch of Boyzone a very Happy 50th Birthday on July 3rd! What's your favourite Boyzone hit?",
      "channels": [
       "instagram",
       "facebook",
@@ -217,38 +996,26 @@
       "threads"
      ],
      "time": "09:00",
-     "tags": []
+     "tags": [
+      "#ShaneLynch #Boyzone"
+     ]
     },
     {
-     "name": "british-invasion",
-     "for": "",
-     "copy": "As a key figure in the British Invasion, Ray Davies' influence on music is still felt today.",
+     "name": "Irish Pop",
+     "for": "Nation Hits",
+     "copy": "Happy early 50th Birthday to Shane Lynch! Still a pop heartthrob from the 90s.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "15:00",
-     "tags": []
-    },
-    {
-     "name": "songwriting-legend",
-     "for": "",
-     "copy": "With a career spanning decades, Ray Davies is one of the most respected songwriters in the business.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "21:00",
-     "tags": []
+     "time": "14:00",
+     "tags": [
+      "#90sPop"
+     ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
