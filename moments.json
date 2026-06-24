@@ -1,28 +1,28 @@
 {
- "updated": "2026-06-24T11:36:50.028Z",
+ "updated": "2026-06-24T13:59:29.592Z",
  "moments": [
   {
-   "id": "solstice",
+   "id": "midsummer",
    "off": 0,
    "type": "seasonal",
    "hot": true,
    "title": "Summer Solstice",
-   "blurb": "The summer solstice marks the beginning of summer in the Northern Hemisphere",
+   "blurb": "Today marks the summer solstice, the longest day of the year in the Northern Hemisphere",
    "source": {
-    "l": "BBC",
-    "u": "https://www.bbc.co.uk"
+    "l": "General knowledge",
+    "u": ""
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": "Nation Radio"
     }
    ],
    "angles": [
     {
-     "name": "Seasonal Shift",
+     "name": "Sun's out",
      "for": "",
-     "copy": "Summer has officially begun, what are your plans for the new season",
+     "copy": "The summer solstice is here, and with it the longest day of the year",
      "channels": [
       "instagram",
       "facebook",
@@ -36,87 +36,9 @@
      ]
     },
     {
-     "name": "Sunniest Day",
+     "name": "Sunset fun",
      "for": "",
-     "copy": "The longest day of the year has arrived, make the most of the extra sunlight",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Summer Vibes",
-     "for": "",
-     "copy": "Get ready for the hottest season of the year, what's on your summer playlist",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "wimbledon",
-   "off": 5,
-   "type": "sport",
-   "hot": true,
-   "title": "Wimbledon Begins",
-   "blurb": "The Wimbledon Championships start on June 29 and run for two weeks",
-   "source": {
-    "l": "Wimbledon",
-    "u": "https://www.wimbledon.com"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tennis Fever",
-     "for": "",
-     "copy": "The wait is almost over, Wimbledon starts in just a few days",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Grass-Court Action",
-     "for": "",
-     "copy": "Get ready for two weeks of thrilling tennis action at SW19",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": []
-    },
-    {
-     "name": "British Hopes",
-     "for": "",
-     "copy": "Who will be the British players to watch at this year's Wimbledon",
+     "copy": "Make the most of the extra daylight hours and enjoy the outdoors this evening",
      "channels": [
       "instagram",
       "facebook",
@@ -126,95 +48,45 @@
      ],
      "time": "18:00",
      "tags": []
+    },
+    {
+     "name": "Seasonal vibes",
+     "for": "",
+     "copy": "The summer solstice marks the beginning of summer, a time for adventure and making memories",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": []
     }
    ]
   },
   {
-   "id": "britishgp",
-   "off": 11,
+   "id": "wimbledon",
+   "off": 5,
    "type": "sport",
    "hot": true,
-   "title": "British Grand Prix",
-   "blurb": "The British Grand Prix takes place at Silverstone on July 5",
+   "title": "Wimbledon Approaches",
+   "blurb": "The Wimbledon Championships begin on June 29 and will run for two weeks",
    "source": {
-    "l": "Formula 1",
-    "u": "https://www.formula1.com"
+    "l": "Wimbledon official site",
+    "u": ""
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": "Nation Radio"
     }
    ],
    "angles": [
     {
-     "name": "Racing Ahead",
+     "name": "Tennis fever",
      "for": "",
-     "copy": "The British Grand Prix is just around the corner, who will take the top spot on the podium",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BritishGP"
-     ]
-    },
-    {
-     "name": "Silverstone Showdown",
-     "for": "",
-     "copy": "The British Grand Prix is set to be an exciting race, don't miss it",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": []
-    },
-    {
-     "name": "F1 Frenzy",
-     "for": "",
-     "copy": "Get ready for a thrilling day of Formula 1 action at Silverstone",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "19:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "carlysimon",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Carly Simon",
-   "blurb": "Carly Simon is a renowned American singer-songwriter",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Carly_Simon"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday Tribute",
-     "for": "Nation 70s",
-     "copy": "Carly Simon is an iconic figure in music, celebrate her birthday with her greatest hits",
+     "copy": "Get ready for two weeks of world-class tennis as Wimbledon begins on June 29",
      "channels": [
       "instagram",
       "facebook",
@@ -226,9 +98,9 @@
      "tags": []
     },
     {
-     "name": "Songwriting Legend",
-     "for": "Nation 70s",
-     "copy": "Carly Simon's songwriting skills have inspired generations of musicians",
+     "name": "Grass court action",
+     "for": "",
+     "copy": "The grass courts of SW19 will host the biggest names in tennis from June 29",
      "channels": [
       "instagram",
       "facebook",
@@ -236,13 +108,13 @@
       "tiktok",
       "threads"
      ],
-     "time": "13:00",
+     "time": "11:00",
      "tags": []
     },
     {
-     "name": "Timeless Music",
-     "for": "Nation 70s",
-     "copy": "Carly Simon's music remains timeless, enjoy her classic songs on her special day",
+     "name": "British hopes",
+     "for": "",
+     "copy": "Will this be the year a British player lifts the Wimbledon trophy?",
      "channels": [
       "instagram",
       "facebook",
@@ -250,7 +122,69 @@
       "tiktok",
       "threads"
      ],
-     "time": "17:00",
+     "time": "15:00",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "britishgp",
+   "off": 11,
+   "type": "sport",
+   "hot": true,
+   "title": "British Grand Prix",
+   "blurb": "The British Grand Prix takes place at Silverstone on July 5, round 12 of the 2026 F1 season",
+   "source": {
+    "l": "Formula 1 official site",
+    "u": ""
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio"
+    }
+   ],
+   "angles": [
+    {
+     "name": "F1 at Silverstone",
+     "for": "",
+     "copy": "The British Grand Prix is just around the corner, with the race taking place on July 5",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": []
+    },
+    {
+     "name": "Racing action",
+     "for": "",
+     "copy": "Get ready for high-speed action as the F1 season arrives at Silverstone",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": []
+    },
+    {
+     "name": "Home advantage",
+     "for": "",
+     "copy": "Can the British drivers make the most of their home advantage at the British Grand Prix?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
      "tags": []
     }
    ]
