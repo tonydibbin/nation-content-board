@@ -1,39 +1,28 @@
 {
- "updated": "2026-06-24T08:49:14.927Z",
+ "updated": "2026-06-24T11:36:50.028Z",
  "moments": [
   {
-   "id": "debbie-harry-bday",
-   "off": 7,
-   "type": "birthday",
+   "id": "solstice",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Blondie's Debbie Harry turns 81",
-   "blurb": "Iconic Blondie frontwoman Debbie Harry, known for hits like 'Heart of Glass' and 'Call Me', celebrates her 81st birthday on July 1st.",
+   "title": "Summer Solstice",
+   "blurb": "The summer solstice marks the beginning of summer in the Northern Hemisphere",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Debbie_Harry"
+    "l": "BBC",
+    "u": "https://www.bbc.co.uk"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Punk Icon",
-     "copy": "Happy 81st Birthday to the one and only Debbie Harry! Still setting trends and rocking stages. What's your favourite Blondie track?",
+     "name": "Seasonal Shift",
+     "for": "",
+     "copy": "Summer has officially begun, what are your plans for the new season",
      "channels": [
       "instagram",
       "facebook",
@@ -41,27 +30,143 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#DebbieHarry"
+      "#SummerSolstice"
      ]
     },
     {
-     "name": "Blondie Hits",
-     "copy": "From 'Heart of Glass' to 'Rapture', Debbie Harry shaped an era. Wishing the Blondie legend a very happy 81st birthday on July 1st!",
+     "name": "Sunniest Day",
+     "for": "",
+     "copy": "The longest day of the year has arrived, make the most of the extra sunlight",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "12:00",
+     "tags": []
+    },
+    {
+     "name": "Summer Vibes",
+     "for": "",
+     "copy": "Get ready for the hottest season of the year, what's on your summer playlist",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "wimbledon",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "Wimbledon Begins",
+   "blurb": "The Wimbledon Championships start on June 29 and run for two weeks",
+   "source": {
+    "l": "Wimbledon",
+    "u": "https://www.wimbledon.com"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tennis Fever",
+     "for": "",
+     "copy": "The wait is almost over, Wimbledon starts in just a few days",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
      "tags": [
-      "#Blondie"
+      "#Wimbledon"
      ]
     },
     {
-     "name": "Ageless Rocker",
-     "copy": "81 and still fabulous! Debbie Harry's influence on music and style is undeniable. What's her most iconic look or lyric for you?",
+     "name": "Grass-Court Action",
+     "for": "",
+     "copy": "Get ready for two weeks of thrilling tennis action at SW19",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": []
+    },
+    {
+     "name": "British Hopes",
+     "for": "",
+     "copy": "Who will be the British players to watch at this year's Wimbledon",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "britishgp",
+   "off": 11,
+   "type": "sport",
+   "hot": true,
+   "title": "British Grand Prix",
+   "blurb": "The British Grand Prix takes place at Silverstone on July 5",
+   "source": {
+    "l": "Formula 1",
+    "u": "https://www.formula1.com"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Racing Ahead",
+     "for": "",
+     "copy": "The British Grand Prix is just around the corner, who will take the top spot on the podium",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#BritishGP"
+     ]
+    },
+    {
+     "name": "Silverstone Showdown",
+     "for": "",
+     "copy": "The British Grand Prix is set to be an exciting race, don't miss it",
      "channels": [
       "instagram",
       "facebook",
@@ -70,12 +175,86 @@
       "threads"
      ],
      "time": "15:00",
-     "tags": [
-      "#PunkRock"
-     ]
+     "tags": []
+    },
+    {
+     "name": "F1 Frenzy",
+     "for": "",
+     "copy": "Get ready for a thrilling day of Formula 1 action at Silverstone",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "carlysimon",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Carly Simon",
+   "blurb": "Carly Simon is a renowned American singer-songwriter",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Carly_Simon"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Tribute",
+     "for": "Nation 70s",
+     "copy": "Carly Simon is an iconic figure in music, celebrate her birthday with her greatest hits",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": []
+    },
+    {
+     "name": "Songwriting Legend",
+     "for": "Nation 70s",
+     "copy": "Carly Simon's songwriting skills have inspired generations of musicians",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": []
+    },
+    {
+     "name": "Timeless Music",
+     "for": "Nation 70s",
+     "copy": "Carly Simon's music remains timeless, enjoy her classic songs on her special day",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": []
     }
    ]
   }
  ],
- "source": "gemini"
+ "source": "groq"
 }
