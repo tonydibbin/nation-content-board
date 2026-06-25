@@ -1,118 +1,16 @@
 {
- "updated": "2026-06-25T13:56:37.951Z",
+ "updated": "2026-06-25T16:13:59.857Z",
  "moments": [
   {
-   "id": "uk-heatwave-2026",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK swelters in record-breaking June heat",
-   "blurb": "An extreme heat warning is in place for parts of England and Wales today, with temperatures potentially hitting 38-39°C, and thunderstorms expected as the heatwave peaks.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/weather/forecast/uk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Heatwave peak",
-     "copy": "It's scorching! Today is set to be the peak of the heatwave for many across England and Wales, with temperatures pushing towards 39°C. Stay hydrated and cool! #UKHeatwave",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#UKHeatwave"
-     ]
-    },
-    {
-     "name": "Thunderstorm warning",
-     "copy": "After the heat, comes the storms? Thunderstorms are expected across southern and southwestern UK today as the heatwave transitions. Keep an eye on the skies!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ThunderstormWarning"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wimbledon-2026-draw",
-   "off": 1,
-   "type": "sport",
-   "hot": true,
-   "title": "Wimbledon 2026 draw revealed tomorrow",
-   "blurb": "Wimbledon qualifying wraps up today, with the official singles draw for the main tournament being announced tomorrow, Friday June 26th, ahead of play starting on Monday.",
-   "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Draw anticipation",
-     "copy": "Who will face who on the hallowed grass? The official Wimbledon 2026 singles draw drops tomorrow! Who are you hoping for in the first round? #Wimbledon",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Qualifying ends",
-     "copy": "The final serves of Wimbledon qualifying are being played today. All eyes now turn to tomorrow's draw as the main event looms!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WimbledonQualifying"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fifa-world-cup-2026-matches",
+   "id": "fifa-world-cup-2026",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "World Cup 2026 group stage continues",
-   "blurb": "The FIFA World Cup 2026 group stage continues today with matches including Ecuador v Germany and Curaçao v Côte d'Ivoire.",
+   "title": "World Cup Knocks Are Coming",
+   "blurb": "The FIFA World Cup 2026 group stages are concluding, with the highly anticipated Round of 32 kicking off on Sunday, June 28th, across Canada, Mexico, and the USA.",
    "source": {
-    "l": "BBC Sport",
-    "u": "https://www.bbc.co.uk/sport/football/world-cup/2026/scores-fixtures"
+    "l": "FIFA",
+    "u": "https://www.fifa.com/worldcup/"
    },
    "fits": [
     {
@@ -122,8 +20,9 @@
    ],
    "angles": [
     {
-     "name": "Today's games",
-     "copy": "More World Cup action today! Who are you backing in Ecuador v Germany and Curaçao v Côte d'Ivoire? Tune in!",
+     "name": "Knockout Stage Excitement",
+     "for": "",
+     "copy": "Who's making it through? The World Cup group stages are wrapping up, with the Round of 32 just days away!",
      "channels": [
       "instagram",
       "facebook",
@@ -131,51 +30,15 @@
       "tiktok",
       "threads"
      ],
-     "time": "15:00",
+     "time": "09:00",
      "tags": [
       "#WorldCup2026"
      ]
     },
     {
-     "name": "International football fix",
-     "copy": "Getting your international football fix today with the World Cup group stage? We've got the latest scores and reactions!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "icc-womens-t20-world-cup-ongoing",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Women's T20 World Cup continues in UK",
-   "blurb": "The ICC Women's T20 World Cup 2026, hosted in England and Wales, is in full swing, running until July 15th.",
-   "source": {
-    "l": "ICC Cricket",
-    "u": "https://www.icc-cricket.com/tournaments/t20worldcup/women"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cricket action",
-     "copy": "The ICC Women's T20 World Cup is lighting up England and Wales! Catch all the action as the tournament heats up.",
+     "name": "The Drama Heats Up",
+     "for": "",
+     "copy": "Knockout football is almost here! Get ready for the drama as the FIFA World Cup 2026 moves to the next stage from Sunday.",
      "channels": [
       "instagram",
       "facebook",
@@ -183,218 +46,83 @@
       "tiktok",
       "threads"
      ],
-     "time": "11:00",
+     "time": "12:00",
      "tags": [
-      "#T20WorldCup"
+      "#FIFAWorldCup"
      ]
     },
     {
-     "name": "Local Welsh angle",
-     "copy": "With the ICC Women's T20 World Cup being hosted in Wales, which local stars are you rooting for? The action continues this week!",
-     "for": "welsh-local",
+     "name": "Backing Your Team",
+     "for": "",
+     "copy": "The World Cup just got serious! Which teams are you backing to go all the way as the Round of 32 approaches?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#FootballFever"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-update",
+   "off": 1,
+   "type": "culture",
+   "hot": true,
+   "title": "New UK Chart No.1?",
+   "blurb": "Taylor Swift's 'I Knew It, I Knew You' is currently No.1, but the Official UK Singles Chart is updated tomorrow, Friday, June 26th.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Race Tomorrow",
+     "for": "",
+     "copy": "Will Taylor Swift hold on to No.1? Find out when the new UK Singles Chart drops tomorrow!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#UKCharts"
+     ]
+    },
+    {
+     "name": "New Music Friday Predix",
+     "for": "",
+     "copy": "Who do you reckon will be topping the charts this week? New music Friday is here and the race for No.1 is on.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "13:00",
      "tags": [
-      "#WelshCricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "england-vs-new-zealand-cricket",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "England Men's Test Cricket starts today",
-   "blurb": "England Men's Test team takes on New Zealand in a five-day Rothesay Test Match at Trent Bridge, starting today, Thursday June 25th.",
-   "source": {
-    "l": "ECB",
-    "u": "https://www.ecb.co.uk/england/men/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bazball returns",
-     "copy": "Bazball is back! England vs New Zealand in the first Test at Trent Bridge starts today. Will Stokesy's side dominate?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#EnglandCricket"
+      "#NewMusicFriday"
      ]
     },
     {
-     "name": "Trent Bridge Test",
-     "copy": "The Blackcaps are in town! Day one of the England vs New Zealand Test is underway at Trent Bridge. Get ready for some classic Test cricket!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#TestCricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "efl-fixture-release-day",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "EFL 2026/27 Fixtures Released Today",
-   "blurb": "The fixtures for the 2026/27 Sky Bet Championship, League One, and League Two seasons have been released today, June 25th, with the Carabao Cup and EFL Trophy draws also taking place.",
-   "source": {
-    "l": "EFL Official Site",
-    "u": "https://www.efl.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fan excitement",
-     "copy": "It's here! The 2026/27 EFL fixtures are out! Which game are you looking forward to most this season? #EFLFixtures",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#EFLFixtures"
-     ]
-    },
-    {
-     "name": "Local team focus",
-     "copy": "Wrexham fans, your 2026/27 Championship fixtures are HERE! Who's first up for the Dragons?",
-     "for": "dragon",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#WrexhamAFC"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "foo-fighters-anfield",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Foo Fighters play Anfield Stadium",
-   "blurb": "Rock legends Foo Fighters kick off their run of shows at Liverpool's Anfield Stadium tonight, playing through until Saturday, June 27th.",
-   "source": {
-    "l": "Ticketmaster",
-    "u": "https://www.ticketmaster.co.uk/foo-fighters-tickets/artist/735579"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Liverpool rocks",
-     "copy": "Foo Fighters are bringing the noise to Anfield tonight! Who's ready to rock out in Liverpool? #FooFightersLiverpool",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#FooFightersLiverpool"
-     ]
-    },
-    {
-     "name": "Rock legends live",
-     "copy": "Dave Grohl and co. are on stage! Foo Fighters are playing Anfield from today until Saturday. An epic rock weekend awaits!",
-     "for": "Nation Rocks",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#RockMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "take-that-uk-tour",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Take That UK Tour continues",
-   "blurb": "Take That's UK tour continues this week, with dates running through to early July across various venues.",
-   "source": {
-    "l": "GigsAndTours",
-    "u": "https://www.gigsandtours.com/tour/take-that"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Still going strong",
-     "copy": "Take That are still going strong on their UK tour! Who's got tickets to see Gary, Mark, and Howard this week?",
+     "name": "Official Chart Predictions",
+     "for": "",
+     "copy": "Chart battle latest: Get ready for tomorrow's Official UK Singles Chart update. Any predictions?",
      "channels": [
       "instagram",
       "facebook",
@@ -404,54 +132,49 @@
      ],
      "time": "16:00",
      "tags": [
-      "#TakeThat"
+      "#OfficialCharts"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "love-island-uk-2026",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Love Island Drama Continues",
+   "blurb": "Love Island UK continues nightly on ITV2 and ITVX, bringing more villa drama, new arrivals, and budding romances to our screens.",
+   "source": {
+    "l": "ITV",
+    "u": "https://www.itv.com/loveisland"
+   },
+   "fits": [
     {
-     "name": "90s nostalgia",
-     "copy": "Relive the 90s magic! Take That's tour is in full swing across the UK. Which classic hit are you hoping to hear live?",
-     "for": "Nation 90s",
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Favourite Couple?",
+     "for": "",
+     "copy": "Who's your favourite couple in the Love Island villa right now? The drama is heating up!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "18:00",
      "tags": [
-      "#90sPop"
+      "#LoveIslandUK"
      ]
-    }
-   ]
-  },
-  {
-   "id": "everywhere-at-once-festival",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "Everywhere at Once Festival kicks off",
-   "blurb": "The 'Everywhere at Once Festival' takes place this weekend, June 26th-28th, uniting hundreds of grassroots music venues across the UK for a unique music celebration.",
-   "source": {
-    "l": "Everywhere at Once Festival",
-    "u": "https://everywhereatonce.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Grassroots music",
-     "copy": "Forget the fields, the 'Everywhere at Once Festival' brings live music to your doorstep this weekend! Support your local grassroots venues.",
+     "name": "This Week's Drama",
+     "for": "",
+     "copy": "New bombshells, shocking recouplings... Love Island is delivering! What's been your favourite moment this week?",
      "channels": [
       "instagram",
       "facebook",
@@ -459,55 +182,15 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "20:00",
      "tags": [
-      "#SupportLiveMusic"
+      "#LoveIsland"
      ]
     },
     {
-     "name": "UK wide festival",
-     "copy": "Hundreds of venues, one massive weekend! The 'Everywhere at Once Festival' is happening across the UK from tomorrow. Find a gig near you!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#UKMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "state-fayre-festival-chelmsford",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "State Fayre Festival begins in Chelmsford",
-   "blurb": "The State Fayre Festival, a new music and BBQ festival, kicks off tomorrow, June 26th, at Hylands Park, Chelmsford, featuring headliners like Kings of Leon, Alanis Morissette, and The Lumineers.",
-   "source": {
-    "l": "State Fayre Festival",
-    "u": "https://statefayre.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chelmsford festival",
-     "copy": "Chelmsford, get ready! The State Fayre Festival starts tomorrow with Kings of Leon, Alanis Morissette, and The Lumineers! Music and BBQ, what's not to love?",
+     "name": "Team Islander",
+     "for": "",
+     "copy": "Are you team [Islander A] or team [Islander B]? The Love Island arguments are getting spicy!",
      "channels": [
       "instagram",
       "facebook",
@@ -515,402 +198,9 @@
       "tiktok",
       "threads"
      ],
-     "time": "15:00",
+     "time": "21:30",
      "tags": [
-      "#StateFayre"
-     ]
-    },
-    {
-     "name": "Rock and BBQ",
-     "copy": "Kings of Leon AND BBQ? The State Fayre Festival is bringing the best of both worlds to Chelmsford this weekend.",
-     "for": "Nation Rocks",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#LiveMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "blenheim-palace-festival-starts",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Blenheim Palace Festival begins Saturday",
-   "blurb": "The debut Blenheim Palace Festival starts this Saturday, June 27th, with Pete Tong Ibiza Classics, followed by Alanis Morissette, Teddy Swims, Katy Perry, and Michael Bublé over the next week.",
-   "source": {
-    "l": "Blenheim Palace Festival",
-    "u": "https://www.blenheimpalace.com/whats-on/events/blenheim-palace-festival/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Palace party",
-     "copy": "A festival fit for a palace! Blenheim Palace Festival kicks off Saturday with Pete Tong Ibiza Classics. What a line-up this week!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#BlenheimFestival"
-     ]
-    },
-    {
-     "name": "Star-studded week",
-     "copy": "Katy Perry, Alanis Morissette, Michael Bublé – all at Blenheim Palace! This new festival starts Saturday. Who are you most excited to see?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MusicFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bst-hyde-park-starts",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "BST Hyde Park 2026 begins Saturday",
-   "blurb": "American Express presents BST Hyde Park kicks off this Saturday, June 27th, with Garth Brooks headlining, followed by ATEEZ on Sunday and other major acts through July.",
-   "source": {
-    "l": "BST Hyde Park",
-    "u": "https://www.bst-hydepark.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hyde Park is buzzing",
-     "copy": "BST Hyde Park is back! Garth Brooks headlines this Saturday, with ATEEZ on Sunday. London's biggest summer festival is here!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#BSTHydePark"
-     ]
-    },
-    {
-     "name": "K-Pop in London",
-     "copy": "K-Pop sensation ATEEZ are hitting BST Hyde Park this Sunday! Who's ready for an epic show in London?",
-     "for": "Nation Hits",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#ATEEZ"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-bear-season-5",
-   "off": 1,
-   "type": "tv",
-   "hot": true,
-   "title": "The Bear Season 5 drops tomorrow",
-   "blurb": "The highly anticipated fifth season of 'The Bear' arrives on Disney+ tomorrow, Friday June 26th.",
-   "source": {
-    "l": "Disney+",
-    "u": "https://www.disneyplus.com/series/the-bear/1xWZZM5Pj0M1"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chef's kiss",
-     "copy": "Get ready for more kitchen chaos! Season 5 of 'The Bear' hits Disney+ tomorrow. Are you team Carmy, Sydney, or Richie?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TheBearFX"
-     ]
-    },
-    {
-     "name": "Binge-watching plans",
-     "copy": "Your weekend plans are sorted: 'The Bear' Season 5 lands on Disney+ tomorrow! Who's binging it all?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#DisneyPlus"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "avatar-the-last-airbender-s2",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Avatar: The Last Airbender S2 out today",
-   "blurb": "Season 2 of the live-action 'Avatar: The Last Airbender' series is available to stream on Netflix from today, June 25th.",
-   "source": {
-    "l": "Netflix",
-    "u": "https://www.netflix.com/title/80237739"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New season drop",
-     "copy": "The wait is over! 'Avatar: The Last Airbender' Season 2 is streaming on Netflix from today. Who's diving back into the four nations?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#AvatarTheLastAirbender"
-     ]
-    },
-    {
-     "name": "Bending good news",
-     "copy": "Good news, Benders! The new season of 'Avatar: The Last Airbender' is on Netflix now. Time to start watching!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Netflix"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "house-of-the-dragon-s3-ongoing",
-   "off": -3,
-   "type": "tv",
-   "hot": true,
-   "title": "House of the Dragon Season 3 still hot",
-   "blurb": "The third season of 'House of the Dragon' premiered on HBO Max on Monday, June 22nd, continuing the Targaryen civil war.",
-   "source": {
-    "l": "HBO Max",
-    "u": "https://www.hbo.com/house-of-the-dragon"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dragon drama",
-     "copy": "Still reeling from the start of 'House of the Dragon' Season 3? The Targaryen drama is back and as fiery as ever!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#HouseOfTheDragon"
-     ]
-    },
-    {
-     "name": "Weekly episodes",
-     "copy": "New episodes of 'House of the Dragon' Season 3 are dropping weekly on HBO Max. Who's keeping up with the battle for the Iron Throne?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#HOTD"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "boy-george-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Boy George is 65 today",
-   "blurb": "Iconic Culture Club frontman Boy George celebrates his 65th birthday today, June 25th. (Born 1961)",
-   "source": {
-    "l": "Google",
-    "u": "https://www.google.com/search?q=Boy+George+birth+date"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy 65th",
-     "copy": "It's Boy George's 65th birthday today! The Culture Club legend still bringing colour and hits. What's your favourite Boy George track? #BoyGeorge",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BoyGeorge"
-     ]
-    },
-    {
-     "name": "80s icon",
-     "copy": "Celebrating an 80s icon today! Boy George turns 65. From 'Karma Chameleon' to 'Do You Really Want to Hurt Me?', his music is timeless. #80sMusic",
-     "for": "Nation 80s",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "carly-simon-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Carly Simon turns 81 today",
-   "blurb": "Grammy-winning singer-songwriter Carly Simon, known for hits like 'You're So Vain', celebrates her 81st birthday today, June 25th. (Born 1945)",
-   "source": {
-    "l": "Google",
-    "u": "https://www.google.com/search?q=Carly+Simon+birth+date"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Music legend",
-     "copy": "Happy 81st birthday to the incredible Carly Simon! 'You're So Vain' is just one of her many classics. What's your favourite? #CarlySimon",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#CarlySimon"
-     ]
-    },
-    {
-     "name": "70s superstar",
-     "copy": "Celebrating the timeless talent of Carly Simon, who turns 81 today! Her voice defined an era. #70sMusic",
-     "for": "Nation 70s",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#70sMusic"
+      "#VillaLife"
      ]
     }
    ]
@@ -920,188 +210,27 @@
    "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Ariana Grande turns 33 tomorrow",
-   "blurb": "Pop superstar Ariana Grande celebrates her 33rd birthday tomorrow, June 26th. (Born 1993)",
+   "title": "Happy Birthday Ariana Grande",
+   "blurb": "Pop superstar Ariana Grande turns 33 tomorrow, June 26th, celebrating a career filled with chart-topping hits and iconic vocals.",
    "source": {
-    "l": "Google",
-    "u": "https://www.google.com/search?q=Ariana+Grande+birth+date"
+    "l": "Biography.com",
+    "u": "https://www.biography.com/musicians/ariana-grande"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Pop princess turns 33",
-     "copy": "Wishing a very happy 33rd birthday to the one and only Ariana Grande tomorrow! Get ready for 'Thank U, Next' on repeat. #ArianaGrande",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ArianaGrande"
-     ]
-    },
-    {
-     "name": "Tomorrow's celebration",
-     "copy": "Tomorrow, we're celebrating Ariana Grande's 33rd birthday! What's your go-to Ariana track? #PopHits",
-     "for": "Nation Hits",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#PopHits"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shirley-manson-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shirley Manson is 60 on Saturday",
-   "blurb": "Garbage frontwoman and rock icon Shirley Manson celebrates her 60th birthday this Saturday, June 27th. (Born 1966)",
-   "source": {
-    "l": "Google",
-    "u": "https://www.google.com/search?q=Shirley+Manson+birth+date"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock icon turns 60",
-     "copy": "Happy 60th birthday to the incredible Shirley Manson this Saturday! The Garbage frontwoman still rocking. #ShirleyManson",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ShirleyManson"
-     ]
-    },
-    {
-     "name": "90s queen",
-     "copy": "Celebrating a true 90s queen this weekend! Shirley Manson of Garbage turns 60 on Saturday. What's your favourite Garbage hit? #90sRock",
-     "for": "Nation 90s",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#90sRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mel-brooks-100th",
-   "off": 3,
-   "type": "culture",
-   "hot": true,
-   "title": "Mel Brooks' 100th Birthday & TV Tribute",
-   "blurb": "Legendary filmmaker and comedian Mel Brooks celebrates his 100th birthday on Sunday, June 28th, with BBC Four showing his classic film 'The Producers' tonight.",
-   "source": {
-    "l": "BBC Four",
-    "u": "https://www.bbc.co.uk/bbcfour"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Comedy legend 100",
-     "copy": "A true legend turns 100 this Sunday! Mel Brooks' comedic genius is unparalleled. Catch 'The Producers' tonight on BBC Four!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#MelBrooks"
-     ]
-    },
-    {
-     "name": "The Producers on TV",
-     "copy": "Celebrating Mel Brooks' 100th birthday with a classic! 'The Producers' is on BBC Four tonight. A must-watch for comedy fans!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#ClassicFilm"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "debbie-harry-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Debbie Harry turns 81 next Monday",
-   "blurb": "Blondie icon Debbie Harry will celebrate her 81st birthday next Monday, July 1st. (Born 1945)",
-   "source": {
-    "l": "Google",
-    "u": "https://www.google.com/search?q=Debbie+Harry+birth+date"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Punk rock queen",
-     "copy": "Next Monday, the legendary Debbie Harry turns 81! The ultimate punk rock queen and Blondie icon. #DebbieHarry",
+     "name": "Ariana's Big Day",
+     "for": "",
+     "copy": "Tomorrow, pop icon Ariana Grande celebrates her 33rd birthday! What's your ultimate Ari track?",
      "channels": [
       "instagram",
       "facebook",
@@ -1111,21 +240,407 @@
      ],
      "time": "10:00",
      "tags": [
-      "#DebbieHarry"
+      "#ArianaGrande"
      ]
     },
     {
-     "name": "Blondie forever",
-     "copy": "Prepare for a celebration next week! Debbie Harry's 81st birthday is on July 1st. What's your favourite Blondie hit? #Blondie",
-     "for": "Nation 70s",
+     "name": "Celebrating Ari",
+     "for": "",
+     "copy": "From Nickelodeon to global superstar, happy 33rd birthday to the incredible Ariana Grande tomorrow!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#Blondie"
+      "#PopPrincess"
+     ]
+    },
+    {
+     "name": "Playlist for Ari",
+     "for": "",
+     "copy": "Wishing a very happy 33rd birthday to Ariana Grande tomorrow! Get ready for a playlist of her biggest hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#HappyBirthdayAriana"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nicole-scherzinger-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Nicole Scherzinger",
+   "blurb": "Pussycat Dolls frontwoman and TV personality Nicole Scherzinger turns 48 on Monday, June 29th.",
+   "source": {
+    "l": "IMDb",
+    "u": "https://www.imdb.com/name/nm1060010/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Don't Cha Wish It Was Your Birthday?",
+     "for": "",
+     "copy": "Don't cha wish it was your birthday? Nicole Scherzinger turns 48 on Monday! What's your favourite Pussycat Dolls track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#NicoleScherzinger"
+     ]
+    },
+    {
+     "name": "Celebrating Nicole",
+     "for": "",
+     "copy": "Happy 48th Birthday to the fabulous Nicole Scherzinger on Monday! Celebrate with her biggest hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PussycatDolls"
+     ]
+    },
+    {
+     "name": "Pop Star & Judge",
+     "for": "",
+     "copy": "From global pop star to X Factor judge, wishing Nicole Scherzinger a very happy 48th birthday on June 29th!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#HappyBirthdayNicole"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ralf-hutter-kraftwerk-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 80th Ralf Hütter",
+   "blurb": "Ralf Hütter, co-founder and lead vocalist of electronic music pioneers Kraftwerk, celebrates his 80th birthday on Tuesday, June 30th.",
+   "source": {
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/ralf-h%C3%BCtter-mn0000854432"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Electronic Music Legend",
+     "for": "",
+     "copy": "Celebrating 80 years of electronic music genius! Happy birthday to Kraftwerk's Ralf Hütter on Tuesday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Kraftwerk"
+     ]
+    },
+    {
+     "name": "Man Behind The Machines",
+     "for": "",
+     "copy": "The man behind the machines! Ralf Hütter of Kraftwerk turns 80 on June 30th. What's your favourite Kraftwerk track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#RalfHutter"
+     ]
+    },
+    {
+     "name": "Shaping Modern Music",
+     "for": "",
+     "copy": "He shaped the sound of modern music. Wishing a very happy 80th birthday to Kraftwerk's Ralf Hütter on Tuesday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#ElectronicMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "missy-elliott-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Missy Elliott",
+   "blurb": "Iconic rapper, singer, songwriter, and producer Missy Elliott turns 55 on Wednesday, July 1st, celebrating a groundbreaking career.",
+   "source": {
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/missy-elliott-mn0000057034"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Get Ur Freak On",
+     "for": "",
+     "copy": "Get Ur Freak On! The legendary Missy Elliott turns 55 on Wednesday! What's your favourite Missy track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MissyElliott"
+     ]
+    },
+    {
+     "name": "Pioneer of Hip-Hop",
+     "for": "",
+     "copy": "Happy 55th birthday to the one and only Missy Elliott on July 1st! A true pioneer of hip-hop and R&B.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#HipHopLegend"
+     ]
+    },
+    {
+     "name": "Favourite Missy Lyric?",
+     "for": "",
+     "copy": "Celebrating the incredible Missy Elliott, who turns 55 on Wednesday! Drop your favourite Missy lyric!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#HappyBirthdayMissy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ashley-tisdale-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Ashley Tisdale",
+   "blurb": "Actress and singer Ashley Tisdale, known for her role as Sharpay Evans in High School Musical, turns 41 on Thursday, July 2nd.",
+   "source": {
+    "l": "IMDb",
+    "u": "https://www.imdb.com/name/nm0864112/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "We're All In This Together",
+     "for": "",
+     "copy": "We're all in this together! Happy 41st birthday to High School Musical's Ashley Tisdale on Thursday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#AshleyTisdale"
+     ]
+    },
+    {
+     "name": "From East High to Pop Star",
+     "for": "",
+     "copy": "From East High to pop star, wishing a very happy 41st birthday to Ashley Tisdale on July 2nd!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SharpayEvans"
+     ]
+    },
+    {
+     "name": "HSM Icon",
+     "for": "",
+     "copy": "Sharpay Evans herself! Ashley Tisdale turns 41 on Thursday. What's your favourite High School Musical moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#HighSchoolMusical"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "huey-lewis-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Huey Lewis",
+   "blurb": "Huey Lewis, frontman of Huey Lewis and the News, celebrates his 76th birthday on Sunday, July 5th, known for hits like 'The Power of Love'.",
+   "source": {
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/huey-lewis-mn0000583733"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "The Power of Love",
+     "for": "",
+     "copy": "It's the power of love! Happy 76th birthday to the legendary Huey Lewis on Sunday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#HueyLewis"
+     ]
+    },
+    {
+     "name": "Go-To Track",
+     "for": "",
+     "copy": "Wishing a very happy 76th birthday to Huey Lewis on July 5th! What's your go-to Huey Lewis and the News track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#HueyLewisAndTheNews"
+     ]
+    },
+    {
+     "name": "Timeless Hits",
+     "for": "",
+     "copy": "Still stuck with you! Celebrate Huey Lewis' 76th birthday on Sunday with his timeless hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#80sMusic"
      ]
     }
    ]
