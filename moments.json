@@ -1,18 +1,22 @@
 {
- "updated": "2026-06-26T11:38:11.957Z",
+ "updated": "2026-06-26T13:54:11.907Z",
  "moments": [
   {
-   "id": "wimbledon-starts",
+   "id": "wimbledon-starts-2026",
    "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon 2026",
-   "blurb": "The Wimbledon Championships start on June 29 for two weeks of grass-court tennis at SW19",
+   "title": "Wimbledon Kicks Off",
+   "blurb": "The Championships, Wimbledon, the world's most prestigious tennis tournament, begins its 14-day run at the All England Club in London on Monday.",
    "source": {
-    "l": "Wimbledon",
-    "u": ""
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/championships/schedule/index.html"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
@@ -20,137 +24,8 @@
    ],
    "angles": [
     {
-     "name": "London Calling",
-     "for": "",
-     "copy": "Get ready for the world's most famous tennis tournament to take over London",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Grass Court Action",
-     "for": "",
-     "copy": "The wait is almost over for two weeks of thrilling grass-court tennis at SW19",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Tennis Fever",
-     "for": "",
-     "copy": "Who will be crowned the champion of Wimbledon 2026?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "british-gp",
-   "off": 9,
-   "type": "sport",
-   "hot": true,
-   "title": "British Grand Prix",
-   "blurb": "The British Grand Prix takes place at Silverstone on July 5, round 12 of the 2026 F1 season",
-   "source": {
-    "l": "Formula 1",
-    "u": ""
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "F1 Action",
-     "for": "",
-     "copy": "The British Grand Prix is just around the corner, get ready for high-speed action at Silverstone",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#F1"
-     ]
-    },
-    {
-     "name": "Racing Legends",
-     "for": "",
-     "copy": "Who will take the top spot on the podium at the British Grand Prix?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": []
-    },
-    {
-     "name": "Silverstone Showdown",
-     "for": "",
-     "copy": "The stage is set for an epic battle at Silverstone, don't miss the British Grand Prix on July 5",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "20:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "the-open",
-   "off": 20,
-   "type": "sport",
-   "hot": true,
-   "title": "The Open Championship",
-   "blurb": "The 154th Open Championship takes place at Royal Birkdale from July 16 to 19, 2026",
-   "source": {
-    "l": "The Open",
-    "u": ""
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Golfing Greats",
-     "for": "",
-     "copy": "The world's top golfers are set to tee off at Royal Birkdale for The Open Championship",
+     "name": "Anticipation",
+     "copy": "Get ready, tennis fans! Wimbledon 2026 serves up its first aces on Monday. Who are you backing for the Gentlemen's and Ladies' Singles titles?",
      "channels": [
       "instagram",
       "facebook",
@@ -160,27 +35,111 @@
      ],
      "time": "10:00",
      "tags": [
-      "#TheOpen"
+      "#Wimbledon"
      ]
     },
     {
-     "name": "Royal Birkdale",
-     "for": "",
-     "copy": "The picturesque Royal Birkdale course will challenge even the best golfers at The Open Championship",
+     "name": "London Buzz",
+     "for": "Nation Radio London",
+     "copy": "Strawberries and cream are on order! Wimbledon kicks off in SW19 on Monday, bringing two weeks of world-class tennis to London. Are you heading to the queues?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "16:00",
-     "tags": []
+     "time": "11:00",
+     "tags": [
+      "#WimbledonLondon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-thunder",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Heatwave & Thunderstorm Warnings",
+   "blurb": "The UK is experiencing an exceptional heatwave with provisional record temperatures for June, alongside warnings for impactful thunderstorms across parts of England and Wales.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/about-us/press-office/news/weather-and-climate/2026/new-uk-june-maximum-temperature-record-for-second-consecutive-day"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
     },
     {
-     "name": "Championship Fever",
-     "for": "",
-     "copy": "Who will lift the Claret Jug at the 154th Open Championship?",
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Heat Alert",
+     "copy": "It's another scorcher! Red and Amber Extreme Heat warnings are in place across parts of the UK today with record June temperatures. Stay hydrated and stay safe!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#UKHeatwave"
+     ]
+    },
+    {
+     "name": "Thunderstorm Risk",
+     "copy": "The heatwave could break with a bang! Thunderstorm warnings are out for parts of the UK, bringing risks of heavy rain and lightning. Keep an eye on the forecast.",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#UKStorm"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-island-casa-amor",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Love Island UK: Casa Amor Imminent?",
+   "blurb": "The 13th series of Love Island UK is approaching its halfway mark, with fans eagerly anticipating the return of Casa Amor in the coming days, expected around late June/early July.",
+   "source": {
+    "l": "Cosmopolitan",
+    "u": "https://www.cosmopolitan.com/uk/entertainment/a61118165/love-island-uk-2026-casa-amor-when/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Casa Amor Watch",
+     "copy": "Is Casa Amor about to drop? Love Island fans are on high alert as the dreaded (or anticipated!) twist is expected in the villa any day now. Who do you think will have their head turned?",
      "channels": [
       "instagram",
       "facebook",
@@ -188,11 +147,589 @@
       "tiktok",
       "threads"
      ],
-     "time": "19:00",
-     "tags": []
+     "time": "14:00",
+     "tags": [
+      "#LoveIslandUK"
+     ]
+    },
+    {
+     "name": "Mid-Season Drama",
+     "copy": "The Love Island villa is heating up! With the series nearing its midpoint and Casa Amor rumours swirling, expect some serious drama this week. Who's your favourite couple (for now)?",
+     "channels": [
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#CasaAmor"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "state-fayre-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "State Fayre Festival Kicks Off",
+   "blurb": "The brand new State Fayre festival, billed as 'the UK's biggest music and BBQ festival' with an Americana theme, opens today at Hylands Park, Chelmsford, featuring headliners Kings of Leon and Alanis Morissette.",
+   "source": {
+    "l": "Rolling Stone UK",
+    "u": "https://www.rollingstone.co.uk/music/music-news/rolling-stone-uks-2026-summer-festival-guide-37862/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Festival Alert",
+     "copy": "Chelmsford, are you ready? The inaugural State Fayre festival kicks off today at Hylands Park, bringing Kings of Leon, Alanis Morissette and more for a weekend of music and BBQ!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#StateFayre"
+     ]
+    },
+    {
+     "name": "Americana Vibes",
+     "copy": "New festival alert! State Fayre is bringing Americana vibes to Chelmsford this weekend with Kings of Leon and Alanis Morissette headlining. Who's excited for some 'Redneck Woman' or 'Ironic' live?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#FestivalUK"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "runway-festival-lgbtq",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Runway Festival Opens",
+   "blurb": "Runway, the UK's first LGBTQ+ camping festival, begins today at a secret location in Gloucestershire, offering an immersive experience with artists like Gabrielle Kwarteng and Peach.",
+   "source": {
+    "l": "Rolling Stone UK",
+    "u": "https://www.rollingstone.co.uk/music/music-news/rolling-stone-uks-2026-summer-festival-guide-37862/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Inclusive Festival",
+     "copy": "Making history this weekend! Runway, the UK's first LGBTQ+ camping festival, is now open in Gloucestershire. Celebrating queer culture with a fantastic lineup of artists!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#RunwayFestival"
+     ]
+    },
+    {
+     "name": "Weekend Escape",
+     "copy": "Looking for a unique festival experience? Runway Festival, the UK's first LGBTQ+ camping festival, is on this weekend in Gloucestershire. Expect an unforgettable immersive world!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#QueerFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bst-hyde-park-starts",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "BST Hyde Park Begins",
+   "blurb": "British Summer Time Hyde Park kicks off its series of summer concerts tomorrow, June 27th, featuring a stellar lineup including Lewis Capaldi, Pitbull, and Mumford & Sons across weekends in June and July.",
+   "source": {
+    "l": "Time Out London",
+    "u": "https://www.timeout.com/london/music/best-music-festivals-in-london"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hyde Park Calling",
+     "copy": "London, get ready! BST Hyde Park starts tomorrow with a summer of incredible music. Lewis Capaldi, Pitbull, Mumford & Sons and more are set to grace the stage. Who are you seeing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#BSTHydePark"
+     ]
+    },
+    {
+     "name": "Summer Concerts",
+     "copy": "The iconic BST Hyde Park series begins tomorrow! From pop anthems to rock legends, London's ready for a summer of unforgettable live music. What's on your playlist for the weekend?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LondonGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "world-cup-2026-ongoing",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Football World Cup Continues",
+   "blurb": "The 2026 FIFA World Cup is currently underway, captivating football fans globally with matches continuing throughout the summer.",
+   "source": {
+    "l": "Love Island UK 2026 Promo",
+    "u": "https://www.digitalspy.com/tv/reality-tv/a61110599/love-island-2026-cast-line-up/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "World Cup Fever",
+     "copy": "World Cup fever is still gripping the globe! Who's impressed you most so far, and which nation do you think will lift the trophy?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "Football Summer",
+     "copy": "It's a football-filled summer! The World Cup continues, bringing daily drama and incredible goals. Are you glued to every match?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Football"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "official-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "New Official UK Singles Chart Out",
+   "blurb": "The Official UK Singles Chart is updated today, revealing the biggest songs in the country and any new entries or climbers.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Reveal",
+     "copy": "The new Official UK Singles Chart is OUT! Has your favourite made it to Number 1 this week, or is there a surprise new entry? Tune in!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:45",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Weekend Playlist",
+     "copy": "Your weekend playlist just got an update! The Official UK Singles Chart is refreshed today. What tracks are you adding to your rotation?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "18:30",
+     "tags": [
+      "#NewMusicFriday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-ariana-grande",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Ariana Grande",
+   "blurb": "Pop superstar Ariana Grande celebrates her 33rd birthday today, June 26th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/ariana-grande.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess Bday",
+     "copy": "Big happy 33rd birthday to the one and only Ariana Grande! What's your favourite track from the pop superstar?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ArianaGrande"
+     ]
+    },
+    {
+     "name": "Celebrating Ari",
+     "copy": "Wishing a very happy birthday to Ariana Grande today! From Broadway to global pop icon, she's done it all. What's your go-to Ariana anthem?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#HappyBirthdayAriana"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-chris-isaak",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Chris Isaak",
+   "blurb": "Singer-songwriter Chris Isaak, known for 'Wicked Game', turns 70 today, June 26th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/chris-isaak.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wicked Game Bday",
+     "copy": "Happy 70th birthday to the legendary Chris Isaak! 'Wicked Game' still gives us chills. What's your favourite track from him?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ChrisIsaak"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-mick-jones",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Mick Jones",
+   "blurb": "Mick Jones, guitarist and vocalist for The Clash, celebrates his 71st birthday today, June 26th.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/june/26"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Clash Guitar Hero Bday",
+     "copy": "Wishing a very happy 71st birthday to Mick Jones, the legendary guitarist from The Clash! What's your favourite punk anthem?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#MickJones"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-nicole-scherzinger",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Nicole Scherzinger",
+   "blurb": "Former Pussycat Dolls frontwoman Nicole Scherzinger turns 48 on Sunday, June 28th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/nicole-scherzinger.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Diva Bday",
+     "copy": "Wishing a glamorous 48th birthday to Nicole Scherzinger on Sunday! From Pussycat Dolls to X Factor, she's a true star. What's your favourite Pussycat Dolls hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#NicoleScherzinger"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-katherine-jenkins",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Katherine Jenkins",
+   "blurb": "Welsh mezzo-soprano Katherine Jenkins OBE celebrates her 46th birthday on Monday, June 29th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/katherine-jenkins.html"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh Voice Bday",
+     "copy": "Penblwydd Hapus to our very own Katherine Jenkins! The Welsh mezzo-soprano celebrates her 46th birthday on Monday. What's your favourite performance from her?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#KatherineJenkins"
+     ]
+    },
+    {
+     "name": "Classical Crossover",
+     "copy": "Happy 46th birthday to the incredible Katherine Jenkins on Monday! A true Welsh icon. What's your favourite of her stunning classical crossover tracks?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#WelshTalent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-cheryl-tweedy",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Cheryl Ann Tweedy",
+   "blurb": "Pop singer and TV personality Cheryl Ann Tweedy (formerly Cole) turns 43 on Tuesday, June 30th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/cheryl-tweedy.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Girls Aloud Star Bday",
+     "copy": "Wishing a very happy 43rd birthday to the fantastic Cheryl Ann Tweedy on Tuesday! From Girls Aloud to solo hits, she's a pop legend. What's your favourite Cheryl track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#CherylTweedy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-deborah-harry",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Deborah Harry",
+   "blurb": "Blondie's iconic frontwoman Deborah Harry celebrates her 81st birthday on Wednesday, July 1st.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-this-week-june-28-july-4-9964585c531d053228a4585b7f7e914c"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Blondie Icon Bday",
+     "copy": "Happy 81st birthday to the one and only Deborah Harry on Wednesday! The legendary Blondie frontwoman is forever iconic. What's your favourite Blondie hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DeborahHarry"
+     ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
