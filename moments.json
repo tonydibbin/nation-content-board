@@ -1,41 +1,40 @@
 {
- "updated": "2026-06-27T05:43:32.679Z",
+ "updated": "2026-06-27T08:22:44.398Z",
  "moments": [
   {
-   "id": "fifa-world-cup-2026",
+   "id": "world-cup-2026",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "FIFA World Cup 2026 Continues",
-   "blurb": "The FIFA World Cup 2026, co-hosted by the USA, Canada, and Mexico, is in full swing, having kicked off on June 11 and running until July 19.",
+   "title": "World Cup 2026 Group Stages Heating Up",
+   "blurb": "The FIFA World Cup 2026, co-hosted by USA, Canada, and Mexico, is well underway, with group stage matches dominating the football world.",
    "source": {
-    "l": "FIFA Official Website",
+    "l": "FIFA.com",
     "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Match Day Hype",
-     "copy": "Another day, another set of World Cup clashes! Who are you backing to make it through to the next round?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#FIFAWorldCup2026"
-     ]
-    },
-    {
-     "name": "Fan Reactions",
-     "copy": "The World Cup drama continues! What's been your standout moment from the tournament so far? The goals, the upsets, the passion!",
+     "name": "Daily Match Chat",
+     "for": "",
+     "copy": "Morning! Who watched the World Cup last night? Any shock results or standout performances you’re still talking about? #WorldCup2026",
      "channels": [
       "instagram",
       "facebook",
@@ -43,9 +42,25 @@
       "tiktok",
       "threads"
      ],
-     "time": "18:00",
+     "time": "08:30",
      "tags": [
-      "#WorldCupFever"
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "Team Focus",
+     "for": "welsh-local",
+     "copy": "With the World Cup well underway, how are our home nations performing? Keeping an eye on the Welsh dragons as they battle it out! #Cymru #WorldCup",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Cymru"
      ]
     }
    ]
@@ -55,70 +70,27 @@
    "off": 2,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon Kicks Off",
-   "blurb": "The Championships, Wimbledon, the world's most prestigious tennis tournament, begins on Monday, June 29, 2026, bringing two weeks of grass-court action to London.",
+   "title": "Wimbledon Kicks Off Monday",
+   "blurb": "The Wimbledon Championships 2026 begin on Monday, June 29, promising two weeks of world-class tennis to London.",
    "source": {
-    "l": "Wimbledon Official Website",
-    "u": "https://www.wimbledon.com/"
+    "l": "Wimbledon Official",
+    "u": "https://www.wimbledon.com/index.html"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Anticipation",
-     "copy": "Strawberries & cream at the ready! Wimbledon 2026 serves up its first aces on Monday. Who's your pick for the trophy this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Wimbledon"
-     ]
     },
     {
-     "name": "Tradition",
-     "copy": "That iconic green grass and all-white attire. Wimbledon is almost here, bringing its unique blend of tradition and world-class tennis.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#TheChampionships"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-island-2026-ongoing",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Love Island UK 2026 Heats Up",
-   "blurb": "Love Island UK Series 13, which started on June 1, 2026, continues to air nightly on ITV2 and ITVX, with the islanders navigating new couplings and villa drama.",
-   "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/loveisland"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
+     "g": "radio-exe",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Tonight's Drama",
-     "copy": "Another night, another dose of Love Island drama! Who's cracking on, and whose head is about to turn? Tune in tonight!",
+     "name": "Anticipation Build-up",
+     "for": "",
+     "copy": "Get ready for strawberries and cream! Wimbledon starts Monday and we're already buzzing for the first serves. Who's your pick for the title?",
      "channels": [
       "instagram",
       "facebook",
@@ -126,23 +98,89 @@
       "tiktok",
       "threads"
      ],
-     "time": "19:00",
+     "time": "10:00",
      "tags": [
-      "#LoveIsland"
+      "#Wimbledon"
      ]
     },
     {
-     "name": "Fan Theories",
-     "copy": "The Love Island villa is buzzing! What are your theories on who's genuine and who's playing games? Drop them below!",
+     "name": "Tennis Talk",
+     "for": "",
+     "copy": "Just two days until Wimbledon! That iconic green grass, the tension, the drama... what are you most looking forward to this year?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#LoveIslandUK"
+      "#Wimbledon2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glastonbury-2026-wrap",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Glastonbury 2026 Wraps Up",
+   "blurb": "Glastonbury Festival 2026 concludes today, leaving a trail of unforgettable performances and festival fever across the UK.",
+   "source": {
+    "l": "eFestivals",
+    "u": "https://www.efestivals.co.uk/festivals/glastonbury/2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Highlights",
+     "for": "",
+     "copy": "It's been another epic Glastonbury! What was your favourite moment, set, or surprise guest from Worthy Farm this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Glastonbury2026"
+     ]
+    },
+    {
+     "name": "Post-Glasto Blues",
+     "for": "decades-genres",
+     "copy": "The fields of Glastonbury are emptying, but the memories will last a lifetime. Who's already planning their return to the Pyramid Stage?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Glasto"
      ]
     }
    ]
@@ -152,43 +190,55 @@
    "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "BST Hyde Park Festival Live",
-   "blurb": "The BST Hyde Park summer music festival is currently underway in London, featuring global headline artists and running until July 12.",
+   "title": "BST Hyde Park Concert Series Underway",
+   "blurb": "The British Summer Time Hyde Park concert series is bringing a host of world-class artists to London's iconic park this week and next.",
    "source": {
-    "l": "BST Hyde Park Official",
+    "l": "BST Hyde Park",
     "u": "https://www.bst-hydepark.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Festival Vibes",
-     "copy": "BST Hyde Park is LIVE in London! Who's soaking up the festival vibes and catching some incredible acts this weekend?",
+     "name": "London Gig Buzz",
+     "for": "nation-network",
+     "copy": "Hyde Park is buzzing! The BST concert series is delivering huge acts this week. Who are you hoping to catch?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "16:00",
+     "time": "11:00",
      "tags": [
       "#BSTHydePark"
      ]
     },
     {
-     "name": "London Calling",
-     "copy": "The sound of summer is in Hyde Park! BST brings a packed line-up to the capital. What's your favourite festival memory?",
+     "name": "Weekend Plans",
+     "for": "nation-network",
+     "copy": "If you're in London this weekend, BST Hyde Park has some incredible music lined up. Who's on your must-see list?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "11:00",
+     "time": "16:00",
      "tags": [
       "#LondonGigs"
      ]
@@ -196,63 +246,127 @@
    ]
   },
   {
-   "id": "uk-singles-chart-update",
+   "id": "love-island-uk-2026",
    "off": 0,
-   "type": "culture",
+   "type": "tv",
    "hot": true,
-   "title": "Official UK Singles Chart Update",
-   "blurb": "The latest Official UK Singles Chart is out today, revealing the nation's biggest tracks and new entries.",
+   "title": "Love Island UK Continues to Deliver Drama",
+   "blurb": "The latest series of Love Island UK, which began on June 1, is well into its run, with new bombshells and blossoming relationships keeping viewers glued to their screens nightly.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "ITV Hub",
+    "u": "https://www.itv.com/loveisland"
    },
    "fits": [
     {
      "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "New No.1?",
-     "copy": "Has your favourite track climbed to the top? The new Official UK Singles Chart is here! Who's your money on for number one?",
+     "name": "Morning Debrief",
+     "for": "",
+     "copy": "Did you watch Love Island last night? We need to talk about that recoupling! What just happened?!",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "17:00",
+     "time": "08:45",
      "tags": [
-      "#OfficialCharts"
+      "#LoveIslandUK"
      ]
     },
     {
-     "name": "Chart rundown",
-     "copy": "Weekend playlist sorted! The latest UK Singles Chart is live. What new tunes are you adding to your rotation?",
+     "name": "Who's Your Favourite?",
+     "for": "",
+     "copy": "Halfway through the week, who are your favourite Islanders right now? Are any couples actually going to last?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "13:30",
      "tags": [
-      "#NewMusic"
+      "#LoveIsland"
      ]
     }
    ]
   },
   {
-   "id": "cheryl-birthday",
-   "off": 3,
+   "id": "shirley-manson-60",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Cheryl Turns 43",
-   "blurb": "Pop icon Cheryl, known for her work with Girls Aloud and a successful solo career, celebrates her 43rd birthday on June 30.",
+   "title": "Shirley Manson Turns 60",
+   "blurb": "Shirley Manson, the iconic Scottish lead singer of the alternative rock band Garbage, celebrates her 60th birthday today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/cheryl-cole.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Garbage Frontwoman",
+     "for": "decades-genres",
+     "copy": "Happy 60th Birthday to the incredible Shirley Manson! Her voice and style defined an era with Garbage. What's your favourite Garbage track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#ShirleyManson"
+     ]
+    },
+    {
+     "name": "Alt-Rock Icon",
+     "for": "decades-genres",
+     "copy": "Wishing a very happy 60th to the one and only Shirley Manson! Still rocking it with Garbage after all these years. Legend!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Garbage"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nicole-scherzinger-48",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Nicole Scherzinger's 48th Birthday",
+   "blurb": "Nicole Scherzinger, known for fronting The Pussycat Dolls and her successful solo career, turns 48 on Monday, June 29.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Nicole_Scherzinger"
    },
    "fits": [
     {
@@ -262,12 +376,17 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Birthday Shoutout",
-     "copy": "Sending birthday wishes to the one and only Cheryl who turns 43 on June 30! What's your favourite Girls Aloud or solo track?",
+     "name": "Pussycat Dolls Star",
+     "for": "decades-genres",
+     "copy": "Get ready to celebrate! Nicole Scherzinger is 48 on Monday. What's your ultimate Pussycat Dolls anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -275,37 +394,155 @@
       "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "11:30",
      "tags": [
-      "#Cheryl"
+      "#NicoleScherzinger"
      ]
     },
     {
-     "name": "Pop Queen",
-     "copy": "From Girls Aloud to solo superstar, Cheryl has given us so many pop anthems. Happy 43rd birthday to a true UK music icon!",
+     "name": "Solo Success",
+     "for": "decades-genres",
+     "copy": "From 'Don't Cha' to 'Right There', Nicole Scherzinger has given us so many hits. Wishing her a fabulous 48th on Monday!",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "13:00",
+     "time": "16:30",
      "tags": [
-      "#GirlsAloud"
+      "#PussycatDolls"
      ]
     }
    ]
   },
   {
-   "id": "debbie-harry-birthday",
+   "id": "colin-hay-73",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Colin Hay Turns 73",
+   "blurb": "Colin Hay, the distinctive Scottish-Australian singer-songwriter and frontman of Men at Work, celebrates his 73rd birthday on Monday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Colin_Hay"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Men at Work Legend",
+     "for": "decades-genres",
+     "copy": "Happy 73rd Birthday to the brilliant Colin Hay of Men at Work on Monday! What's your favourite track from the Aussie legends?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#ColinHay"
+     ]
+    },
+    {
+     "name": "Down Under Voice",
+     "for": "decades-genres",
+     "copy": "Can you hear that? It's the sound of us celebrating Colin Hay's 73rd birthday on Monday! An iconic voice from the 80s. #MenAtWork",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "missy-elliott-55",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Missy Elliott's 55th Birthday",
+   "blurb": "Groundbreaking rapper, singer, songwriter, and producer Missy Elliott will celebrate her 55th birthday on Wednesday, July 1.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Missy_Elliott"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip-Hop Pioneer",
+     "for": "decades-genres",
+     "copy": "Get ready to 'Work It'! Missy Elliott turns 55 on Wednesday! What's your all-time favourite track or music video from the legend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MissyElliott"
+     ]
+    },
+    {
+     "name": "Birthday Shoutout",
+     "for": "decades-genres",
+     "copy": "A huge happy 55th birthday to the one and only Missy Elliott this Wednesday! Her impact on music is undeniable.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#HipHop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debbie-harry-81",
    "off": 4,
    "type": "birthday",
    "hot": true,
    "title": "Debbie Harry Turns 81",
-   "blurb": "The legendary Blondie frontwoman, Debbie Harry, celebrates her 81st birthday on July 1.",
+   "blurb": "Debbie Harry, the iconic lead singer of new wave pioneers Blondie, will celebrate her 81st birthday on Wednesday, July 1.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/debbie-harry.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Debbie_Harry"
    },
    "fits": [
     {
@@ -319,68 +556,17 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Iconic Frontwoman",
-     "copy": "Happy 81st birthday to the iconic Debbie Harry! Blondie wouldn't be the same without her incredible voice and style. What's your favourite Blondie hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#DebbieHarry"
-     ]
-    },
-    {
-     "name": "Music Legend",
-     "copy": "Still looking amazing and sounding even better! Celebrating the incredible Debbie Harry as she turns 81 on July 1.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Blondie"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "missy-elliott-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Missy Elliott Turns 55",
-   "blurb": "Trailblazing rapper, singer, and producer Missy Elliott celebrates her 55th birthday on July 1.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/missy-elliott.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hip Hop Royalty",
-     "copy": "Get Ur Freak On for Missy Elliott's 55th birthday on July 1! A true innovator and legend in music.",
+     "name": "Blondie Icon",
+     "for": "decades-genres",
+     "copy": "Happy 81st Birthday to the utterly timeless Debbie Harry on Wednesday! Still rocking, still inspiring. What's your favourite Blondie hit?",
      "channels": [
       "instagram",
       "facebook",
@@ -390,50 +576,105 @@
      ],
      "time": "11:00",
      "tags": [
-      "#MissyElliott"
+      "#DebbieHarry"
      ]
     },
     {
-     "name": "Birthday Beats",
-     "copy": "Happy 55th Birthday to the incredible Missy Elliott! Her influence on music is undeniable. What's your favourite Missy track?",
+     "name": "New Wave Legend",
+     "for": "decades-genres",
+     "copy": "Wishing a fantastic 81st to the one and only Debbie Harry this Wednesday! A true music and fashion legend.",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "16:00",
      "tags": [
-      "#MusicIcon"
+      "#Blondie"
      ]
     }
    ]
   },
   {
-   "id": "burna-boy-birthday",
+   "id": "lindsay-lohan-40",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Burna Boy Turns 35",
-   "blurb": "Grammy Award-winning Nigerian superstar Burna Boy, known for his Afrobeats and dancehall hits, celebrates his 35th birthday on July 2.",
+   "title": "Lindsay Lohan's 40th Birthday",
+   "blurb": "Actress and occasional singer Lindsay Lohan, known for films like 'Mean Girls' and 'The Parent Trap', celebrates her 40th birthday on Thursday, July 2.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/burna-boy.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Lindsay_Lohan"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Noughties Icon",
+     "for": "decades-genres",
+     "copy": "She's 40 on Thursday! Happy Birthday to Lindsay Lohan, a true noughties icon. What's your favourite Lindsay Lohan moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#LindsayLohan"
+     ]
+    },
+    {
+     "name": "Remember Her Music?",
+     "for": "decades-genres",
+     "copy": "Before the Netflix rom-coms, Lindsay Lohan gave us some absolute bops! Wishing her a happy 40th this Thursday. #MeanGirls #Noughties",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#NoughtiesMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "post-malone-31",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Post Malone Turns 31",
+   "blurb": "Chart-topping artist Post Malone, known for his genre-blending hits, celebrates his 31st birthday on Saturday, July 4.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Post_Malone"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Afrobeats King",
-     "copy": "Big birthday shoutout to the African Giant, Burna Boy, who turns 35 on July 2! What's your go-to Burna Boy anthem?",
+     "name": "Current Hitmaker",
+     "for": "decades-genres",
+     "copy": "Happy 31st Birthday to Post Malone this Saturday! What's your favourite track from the 'Sunflower' hitmaker?",
      "channels": [
       "instagram",
       "facebook",
@@ -443,35 +684,37 @@
      ],
      "time": "10:00",
      "tags": [
-      "#BurnaBoy"
+      "#PostMalone"
      ]
     },
     {
-     "name": "Celebration Vibes",
-     "copy": "The vibes are high for Burna Boy's 35th! Wishing him a fantastic birthday filled with good music and celebration.",
+     "name": "Birthday Weekend",
+     "for": "decades-genres",
+     "copy": "It's a birthday weekend for Post Malone, turning 31 on Saturday! Time to crank up his biggest hits. What are you listening to?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#AfricanGiant"
+      "#BirthdayVibes"
      ]
     }
    ]
   },
   {
-   "id": "huey-lewis-birthday",
+   "id": "huey-lewis-76",
    "off": 8,
    "type": "birthday",
    "hot": true,
-   "title": "Huey Lewis Turns 76",
-   "blurb": "The charismatic frontman of Huey Lewis & The News, Huey Lewis, celebrates his 76th birthday on July 5.",
+   "title": "Huey Lewis's 76th Birthday",
+   "blurb": "Huey Lewis, the charismatic frontman of Huey Lewis and the News, celebrates his 76th birthday on Sunday, July 5.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/huey-lewis.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Huey_Lewis"
    },
    "fits": [
     {
@@ -485,124 +728,9 @@
    ],
    "angles": [
     {
-     "name": "Power of Love",
-     "copy": "Do you believe in the Power of Love? Happy 76th birthday to the legendary Huey Lewis on July 5!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#HueyLewis"
-     ]
-    },
-    {
      "name": "80s Icon",
-     "copy": "Celebrating an 80s icon! Huey Lewis turns 76 this week. What's your favourite Huey Lewis & The News track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shane-filan-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shane Filan Turns 47",
-   "blurb": "Westlife's beloved singer, Shane Filan, celebrates his 47th birthday on July 5.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/shane-filan.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Boyband Legend",
-     "copy": "Flying Without Wings into his 47th birthday! Happy Birthday to Westlife's Shane Filan on July 5!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ShaneFilan"
-     ]
-    },
-    {
-     "name": "Westlife Memories",
-     "copy": "Wishing a very Happy 47th Birthday to Shane Filan! What's your favourite Westlife song to sing along to?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Westlife"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "50-cent-birthday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "50 Cent Turns 51",
-   "blurb": "Grammy-winning rapper, actor, and entrepreneur 50 Cent celebrates his 51st birthday on July 6.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/50-cent.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "In Da Club",
-     "copy": "Go shorty, it's your birthday! Happy 51st to the one and only 50 Cent on July 6!",
+     "for": "decades-genres",
+     "copy": "It's Hip to Be Square when you're turning 76! Happy Birthday to Huey Lewis this Sunday! What's your favourite track from the News?",
      "channels": [
       "instagram",
       "facebook",
@@ -610,46 +738,44 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#50Cent"
+      "#HueyLewis"
      ]
     },
     {
-     "name": "Hip Hop Mogul",
-     "copy": "Celebrating a hip hop legend! 50 Cent turns 51 this week. What's your favourite track from his incredible career?",
+     "name": "Back To The Future",
+     "for": "decades-genres",
+     "copy": "Wishing a very happy 76th birthday to the legendary Huey Lewis this Sunday! His music is simply 'The Power of Love'.",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#GUnit"
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "ringo-starr-birthday",
+   "id": "ringo-starr-86",
    "off": 10,
    "type": "birthday",
    "hot": true,
    "title": "Ringo Starr Turns 86",
-   "blurb": "The legendary drummer of The Beatles, Ringo Starr, celebrates his 86th birthday on July 7.",
+   "blurb": "The legendary drummer of The Beatles, Ringo Starr, will celebrate his 86th birthday on Tuesday, July 7.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/ringo-starr.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
@@ -659,55 +785,8 @@
    "angles": [
     {
      "name": "Beatles Legend",
-     "copy": "Peace and Love! Wishing a very Happy 86th Birthday to the iconic Ringo Starr on July 7!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RingoStarr"
-     ]
-    },
-    {
-     "name": "Drummer Icon",
-     "copy": "From Abbey Road to solo success, Ringo Starr is a true music legend. Happy 86th Birthday to The Beatles' drummer!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#TheBeatles"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-school-summer-holidays-start",
-   "off": 4,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK School Summer Holidays Begin",
-   "blurb": "The summer school holidays officially begin for some parts of the UK, including Northern Ireland, on July 1, with other regions following later in the month.",
-   "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-dates-and-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Holiday Mode On",
-     "copy": "School's out for summer! For many, the long-awaited summer holidays begin this week. What are your plans?",
+     "for": "decades-genres",
+     "copy": "Peace and Love! The one and only Ringo Starr celebrates his 86th birthday next Tuesday! What's your favourite Beatles track featuring Ringo?",
      "channels": [
       "instagram",
       "facebook",
@@ -717,21 +796,75 @@
      ],
      "time": "10:00",
      "tags": [
-      "#SummerHolidays"
+      "#RingoStarr"
      ]
     },
     {
-     "name": "Family Fun",
-     "copy": "The great escape! Summer holidays are kicking off, bringing weeks of family fun and adventures across the UK.",
+     "name": "Drumming Icon",
+     "for": "decades-genres",
+     "copy": "Wishing a very happy 86th birthday to the legendary Ringo Starr next Tuesday! A true drumming icon. #TheBeatles",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#SchoolHolidays"
+      "#Beatles"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scottish-schools-summer",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Scottish Schools Break for Summer",
+   "blurb": "Many schools across Scotland are breaking up for the summer holidays this week, marking the start of weeks of freedom for students.",
+   "source": {
+    "l": "Scottish Government",
+    "u": "https://www.gov.scot/policies/schools/school-holidays/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Freedom for Kids",
+     "for": "nation-network",
+     "copy": "Summer holidays are officially here for many Scottish schools! What are your plans to keep the kids entertained?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ScottishSummer"
+     ]
+    },
+    {
+     "name": "Road Trip Time",
+     "for": "nation-network",
+     "copy": "With Scottish schools breaking up, the roads might be getting busier! Where are you heading for your summer getaway?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Scotland"
      ]
     }
    ]
