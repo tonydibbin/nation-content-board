@@ -1,18 +1,22 @@
 {
- "updated": "2026-06-28T22:50:47.292Z",
+ "updated": "2026-06-28T23:57:27.013Z",
  "moments": [
   {
-   "id": "wimbledonstart",
+   "id": "wimbledon-starts",
    "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon starts tomorrow",
-   "blurb": "The Wimbledon Championships begin on June 29, 2026, at the All England Lawn Tennis and Croquet Club",
+   "title": "Wimbledon Kicks Off",
+   "blurb": "The 139th edition of The Championships, Wimbledon, begins on Monday, bringing two weeks of world-class tennis to the All England Club in London.",
    "source": {
-    "l": "Wimbledon",
-    "u": "https://www.wimbledon.com"
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
@@ -20,9 +24,8 @@
    ],
    "angles": [
     {
-     "name": "London tennis",
-     "for": "Nation Radio London",
-     "copy": "The wait is almost over as Wimbledon starts tomorrow, who will be crowned the champion this year?",
+     "name": "Anticipation",
+     "copy": "Centre Court ready! Wimbledon 2026 serves up two weeks of unmissable tennis starting tomorrow. Who's your pick for the trophy?",
      "channels": [
       "instagram",
       "facebook",
@@ -36,45 +39,30 @@
      ]
     },
     {
-     "name": "Grass court",
-     "for": "",
-     "copy": "The grass courts of SW19 are ready for the biggest names in tennis to battle it out",
+     "name": "UK Pride",
+     "copy": "It's almost time for the greatest tennis tournament in the world to get underway in London! Wimbledon is back from Monday.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "UK sport",
-     "for": "",
-     "copy": "Get ready for two weeks of tennis action as Wimbledon begins tomorrow",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": []
+     "tags": [
+      "#Wimbledon2026"
+     ]
     }
    ]
   },
   {
-   "id": "britishgp",
-   "off": 7,
+   "id": "tour-de-france-starts",
+   "off": 6,
    "type": "sport",
    "hot": true,
-   "title": "British Grand Prix",
-   "blurb": "The British Grand Prix takes place on July 5, 2026, at Silverstone Circuit",
+   "title": "Tour de France Grand Départ",
+   "blurb": "The 113th edition of the Tour de France begins on July 4th in Barcelona, with 21 stages of gruelling cycling culminating in Paris on July 26th.",
    "source": {
-    "l": "Formula 1",
-    "u": "https://www.formula1.com"
+    "l": "Tour de France Official Site",
+    "u": "https://www.letour.fr/en/"
    },
    "fits": [
     {
@@ -84,73 +72,177 @@
    ],
    "angles": [
     {
-     "name": "F1 UK",
-     "for": "",
-     "copy": "The British Grand Prix is just around the corner, who will take the top spot on the podium?",
+     "name": "Race Start",
+     "copy": "Get ready for three weeks of epic cycling! The Tour de France 2026 starts this Saturday in Barcelona. Who's your favourite for the Yellow Jersey?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
-      "#BritishGP"
+      "#TDF2026"
      ]
     },
     {
-     "name": "Silverstone",
-     "for": "",
-     "copy": "Silverstone Circuit is set to host the British Grand Prix, one of the most iconic races in the F1 calendar",
+     "name": "Global Event",
+     "copy": "Beyond the UK, the biggest cycling race on the planet, the Tour de France, begins this weekend. Expect stunning scenery and fierce competition.",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "14:00",
-     "tags": []
-    },
-    {
-     "name": "Racing",
-     "for": "",
-     "copy": "Get ready for high-speed action as the British Grand Prix takes place on July 5",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "19:00",
-     "tags": []
+     "tags": [
+      "#TourDeFrance"
+     ]
     }
    ]
   },
   {
-   "id": "theopen",
-   "off": 18,
-   "type": "sport",
+   "id": "lewis-capaldi-exeter",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "The Open Championship",
-   "blurb": "The 154th Open Championship takes place from July 16 to 19, 2026, at Royal Birkdale",
+   "title": "Lewis Capaldi Plays Exeter",
+   "blurb": "Scottish superstar Lewis Capaldi performs live at Powderham Castle in Exeter today, bringing his chart-topping hits to the South West.",
    "source": {
-    "l": "The Open",
-    "u": "https://www.theopen.com"
+    "l": "Visit Exeter",
+    "u": "https://www.visitexeter.com/whats-on/music-and-concerts"
    },
    "fits": [
     {
-     "g": "nation-network",
+     "g": "radio-exe",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South West"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Golf major",
-     "for": "",
-     "copy": "The Open Championship is just around the corner, who will lift the Claret Jug?",
+     "name": "Local Excitement",
+     "for": "radio-exe",
+     "copy": "Lewis Capaldi is LIVE at Powderham Castle tonight! If you're heading there, get ready for an incredible show. What song are you hoping to hear?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LewisCapaldiExeter"
+     ]
+    },
+    {
+     "name": "Gig Buzz",
+     "copy": "Exeter, are you ready for Lewis Capaldi? He's performing at Powderham Castle today – massive tunes guaranteed!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CapaldiLive"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart",
+   "off": 0,
+   "type": "chart",
+   "hot": true,
+   "title": "Official UK Singles Chart Update",
+   "blurb": "The Official UK Singles Chart for June 25 - July 1 is out, with Ariana Grande's 'Hate That I Made You Love Me' having debuted at #1 on June 5.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Toppers",
+     "copy": "The latest Official UK Singles Chart is in! What's your favourite track making waves this week?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Current #1",
+     "copy": "Still buzzing from Ariana Grande's 'Hate That I Made You Love Me' hitting #1 earlier this month. What a track!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ArianaGrande"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-albums-july3",
+   "off": 5,
+   "type": "culture",
+   "hot": true,
+   "title": "New Album Releases This Week",
+   "blurb": "Friday, July 3rd sees new albums from Madonna ('Confessions II'), Deep Purple ('Splat!'), Ken Carson, Natasha Hamilton, and Mary in the Junkyard ('Role Model Hermit').",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/news/new-album-releases-2026-dates-for-madonna-ariana-grande-the-rolling-stones-and-more/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Music Friday",
+     "copy": "New Music Friday is coming! This week, look out for fresh albums from Madonna, Deep Purple, and exciting new band Mary in the Junkyard.",
      "channels": [
       "instagram",
       "facebook",
@@ -160,27 +252,149 @@
      ],
      "time": "10:00",
      "tags": [
-      "#TheOpen"
+      "#NewMusicFriday"
      ]
     },
     {
-     "name": "Royal Birkdale",
-     "for": "",
-     "copy": "Royal Birkdale is set to host The Open Championship, one of the most prestigious golf tournaments in the world",
+     "name": "Anticipated Releases",
+     "copy": "What are you most excited for? Madonna and Deep Purple both drop new albums this Friday! A huge week for music lovers.",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "15:00",
-     "tags": []
+     "time": "14:30",
+     "tags": [
+      "#NewAlbums"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nicole-scherzinger-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Nicole Scherzinger",
+   "blurb": "Singer and TV personality Nicole Scherzinger, known for her work with The Pussycat Dolls, turns 48 on June 29th.",
+   "source": {
+    "l": "Google Search"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     },
     {
-     "name": "Golf",
-     "for": "",
-     "copy": "Get ready for four days of golf action as The Open Championship takes place from July 16 to 19",
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Icon",
+     "copy": "Wishing a very Happy 48th Birthday to the incredible Nicole Scherzinger tomorrow! What's your favourite Pussycat Dolls hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#NicoleScherzinger"
+     ]
+    },
+    {
+     "name": "Birthday Shoutout",
+     "copy": "Tomorrow, the amazing Nicole Scherzinger celebrates her 48th birthday! Send her some love!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#PussycatDolls"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rza-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday RZA",
+   "blurb": "Founding member and de facto leader of the Wu-Tang Clan, RZA, turns 57 on July 5th.",
+   "source": {
+    "l": "Google Search"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip-Hop Legend",
+     "copy": "Celebrating the legendary RZA's 57th birthday this Sunday! What's your go-to Wu-Tang Clan track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RZA"
+     ]
+    },
+    {
+     "name": "Producer Genius",
+     "copy": "The mastermind behind so much iconic hip-hop, RZA, turns 57 on July 5th. Massive respect!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#WuTangClan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "50cent-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday 50 Cent",
+   "blurb": "Grammy Award-winning rapper, actor, and businessman 50 Cent celebrates his 51st birthday on July 6th.",
+   "source": {
+    "l": "Google Search"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rap Superstar",
+     "copy": "Go shorty, it's your birthday! 50 Cent turns 51 next Monday. What's your favourite track from the rap icon?",
      "channels": [
       "instagram",
       "facebook",
@@ -188,11 +402,225 @@
       "tiktok",
       "threads"
      ],
-     "time": "20:00",
-     "tags": []
+     "time": "10:30",
+     "tags": [
+      "#50Cent"
+     ]
+    },
+    {
+     "name": "Music & Movies",
+     "copy": "From 'Get Rich or Die Tryin'' to Hollywood, 50 Cent celebrates his 51st birthday on July 6th. An absolute legend!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#HappyBirthday50Cent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ringo-starr-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Ringo Starr",
+   "blurb": "The legendary drummer for The Beatles, Ringo Starr, celebrates his 86th birthday on July 7th.",
+   "source": {
+    "l": "Google Search"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Beatles Icon",
+     "copy": "Peace and love! The one and only Ringo Starr turns 86 next Tuesday. What's your favourite Beatles track featuring his iconic drumming?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#RingoStarr"
+     ]
+    },
+    {
+     "name": "Music Legend",
+     "copy": "An absolute legend of music! Ringo Starr celebrates his 86th birthday on July 7th. Send him your best wishes!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#TheBeatles"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jaden-smith-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Jaden Smith",
+   "blurb": "Actor and musician Jaden Smith, known for his roles in 'The Pursuit of Happyness' and his music career, turns 28 on July 8th.",
+   "source": {
+    "l": "Google Search"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Young Talent",
+     "copy": "Happy 28th Birthday to the multi-talented Jaden Smith next Wednesday! What's your favourite of his tracks or films?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#JadenSmith"
+     ]
+    },
+    {
+     "name": "Birthday Vibes",
+     "copy": "Jaden Smith turns 28 on July 8th! Get ready to celebrate the artist and actor.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#HappyBirthdayJaden"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "school-holidays-start",
+   "off": 3,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Northern Ireland & Scottish School Summer Holidays Begin",
+   "blurb": "Summer holidays officially begin for schools in Northern Ireland on July 1st, with some Scottish schools also breaking up this week.",
+   "source": {
+    "l": "UK Government / Local Council Websites"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "School's Out NI",
+     "copy": "Northern Ireland, the summer holidays officially kick off this Wednesday for schools! What are your plans for the long break?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Scottish Break",
+     "copy": "Many schools across Scotland are breaking up for summer this week! Enjoy the well-deserved break!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#ScottishSummer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exeter-tribute-gigs",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Exeter Tribute & Jazz Gigs",
+   "blurb": "Exeter Phoenix hosts Just Radiohead (July 3rd) and AC-DC UK (July 4th), while Jazz at the Mermaid offers a monthly night on July 1st.",
+   "source": {
+    "l": "Exeter Phoenix",
+    "u": "https://exeterphoenix.org.uk/whats-on/music/"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tribute Nights",
+     "for": "radio-exe",
+     "copy": "Love Radiohead or AC/DC? Exeter Phoenix has you covered this week with top tribute acts Just Radiohead (Fri) and AC-DC UK (Sat)! What's your favourite track from these legends?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ExeterGigs"
+     ]
+    },
+    {
+     "name": "Jazz in Exeter",
+     "for": "radio-exe",
+     "copy": "For something smoother, Jazz at the Mermaid is back this Wednesday for its popular monthly night! Get your cool on.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#ExeterJazz"
+     ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
