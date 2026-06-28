@@ -1,16 +1,16 @@
 {
- "updated": "2026-06-28T16:54:39.576Z",
+ "updated": "2026-06-28T17:57:01.140Z",
  "moments": [
   {
    "id": "wimbledon-starts-2026",
    "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon Kicks Off",
-   "blurb": "The 139th edition of The Championships, Wimbledon, the world's most prestigious tennis tournament, begins on Monday, June 29, 2026, at the All England Club in London, running for two weeks.",
+   "title": "Wimbledon Begins",
+   "blurb": "The world's most prestigious tennis tournament, Wimbledon, kicks off for two weeks of grass-court action in London.",
    "source": {
     "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/"
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
    },
    "fits": [
     {
@@ -18,14 +18,19 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "radio-exe",
+     "sub": "Radio Exe"
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
     }
    ],
    "angles": [
     {
      "name": "General Excitement",
-     "copy": "Get ready for strawberries, cream, and world-class tennis! Wimbledon 2026 serves up its first aces tomorrow. Who are you backing for the title?",
+     "for": "",
+     "copy": "Get ready for strawberries, cream, and world-class tennis! Wimbledon 2026 serves up its first aces tomorrow. Who's your pick for the trophy?",
      "channels": [
       "instagram",
       "facebook",
@@ -38,9 +43,9 @@
      ]
     },
     {
-     "name": "London Local Angle",
-     "for": "Nation Radio London",
-     "copy": "The eyes of the sporting world turn to SW19! Wimbledon kicks off its two-week run tomorrow, bringing all the tennis drama to our doorstep. Are you heading down?",
+     "name": "British Hopes",
+     "for": "nation-network",
+     "copy": "The All England Club gates open tomorrow! Can a British star go all the way at Wimbledon this year? We're ready for two weeks of drama.",
      "channels": [
       "instagram",
       "facebook",
@@ -49,21 +54,35 @@
      ],
      "time": "10:00",
      "tags": [
-      "#WimbledonLondon"
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "Morning Serve",
+     "for": "",
+     "copy": "Wimbledon season is officially here! Tune in from Monday for all the action from SW19. Who's your favourite to lift the trophy?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Wimbledon2026"
      ]
     }
    ]
   },
   {
-   "id": "tour-de-france-grand-depart-2026",
-   "off": 6,
+   "id": "austrian-gp-race-day",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Tour de France Grand Départ",
-   "blurb": "The 113th edition of the Tour de France begins on Friday, July 4, 2026, with the Grand Départ taking place in Barcelona, Spain, before three weeks of gruelling racing.",
+   "title": "Austrian Grand Prix",
+   "blurb": "The Formula 1 Austrian Grand Prix is happening today, with the race set to determine who takes the top step on the podium.",
    "source": {
-    "l": "Tour de France Official Site",
-    "u": "https://www.letour.fr/"
+    "l": "Formula 1 Official Site",
+    "u": "https://www.formula1.com/en/racing/2026/Austria.html"
    },
    "fits": [
     {
@@ -73,8 +92,63 @@
    ],
    "angles": [
     {
-     "name": "General Excitement",
-     "copy": "The greatest show on two wheels is almost here! The Tour de France kicks off on Friday from Barcelona. Get ready for three weeks of epic cycling.",
+     "name": "Race Day",
+     "for": "",
+     "copy": "It's race day at the Austrian Grand Prix! Who are you backing for the win today? Get ready for some high-speed drama in Spielberg.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#F1",
+      "#AustrianGP"
+     ]
+    },
+    {
+     "name": "Sunday Thrills",
+     "for": "",
+     "copy": "Engines revving for the Austrian Grand Prix! Sunday afternoon is all about F1. Will there be any surprises on the Red Bull Ring?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#F12026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kellie-pickler-40th-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Kellie Pickler Turns 40",
+   "blurb": "American country music singer and former American Idol contestant Kellie Pickler celebrates her 40th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/kellie-pickler.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Country Star",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 40th Birthday to the incredible Kellie Pickler! From American Idol to country music stardom, what's your favourite Kellie track?",
      "channels": [
       "instagram",
       "facebook",
@@ -83,87 +157,41 @@
      ],
      "time": "09:00",
      "tags": [
-      "#TourDeFrance"
+      "#KelliePickler"
      ]
     },
     {
-     "name": "Countdown",
-     "copy": "Just six days until the peloton rolls out! Who's your pick for the Yellow Jersey at this year's Tour de France?",
+     "name": "Idol to Icon",
+     "for": "Nation Easy",
+     "copy": "Celebrating Kellie Pickler's 40th today! The talented singer first captured hearts on American Idol. Send her some birthday love!",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#TDF2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-number-1",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "UK Singles Chart No.1",
-   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' holds the top spot on the Official UK Singles Chart for a 14th non-consecutive week, as announced on Friday, June 26, 2026.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper",
-     "copy": "Still reigning supreme! Sam Fender & Olivia Dean's 'Rein Me In' is Number 1 on the Official UK Singles Chart for a massive 14th week. What a track!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
      ],
      "time": "11:00",
      "tags": [
-      "#UKChart"
-     ]
-    },
-    {
-     "name": "Artist Focus",
-     "copy": "Another week, another Number 1 for Sam Fender and Olivia Dean! 'Rein Me In' continues its incredible run at the top of the charts. Are you loving it?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SamFender #OliviaDean"
+      "#Birthday"
      ]
     }
    ]
   },
   {
-   "id": "nicole-scherzinger-birthday-2026",
-   "off": 1,
+   "id": "mark-stoermer-killers-bday",
+   "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 48th, Nicole Scherzinger",
-   "blurb": "American singer, actress, and TV personality Nicole Scherzinger, known for The Pussycat Dolls and The X Factor, celebrates her 48th birthday on June 29, 2026.",
+   "hot": true,
+   "title": "Mark Stoermer Turns 49",
+   "blurb": "Mark Stoermer, bassist for the iconic rock band The Killers, celebrates his 49th birthday today.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Nicole_Scherzinger"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/mark-stoermer.html"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
@@ -175,44 +203,155 @@
    ],
    "angles": [
     {
-     "name": "Pussycat Dolls Tribute",
-     "copy": "Don't Cha wish you had a birthday like this? Happy 48th Birthday tomorrow to the incredible Nicole Scherzinger! What's your favourite Pussycat Dolls track?",
+     "name": "Killers Bassist",
+     "for": "Nation Rocks",
+     "copy": "Happy 49th Birthday to Mark Stoermer, the brilliant bassist from The Killers! What's your favourite Killers song that gets you moving?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "12:00",
+     "time": "10:30",
      "tags": [
-      "#NicoleScherzinger"
+      "#TheKillers",
+      "#MarkStoermer"
      ]
     },
     {
-     "name": "X Factor Memories",
-     "copy": "From pop superstar to X Factor judge! Wishing a very Happy 48th Birthday to Nicole Scherzinger tomorrow. What's your top Nicole moment?",
+     "name": "00s Icon",
+     "for": "Nation 00s",
+     "copy": "Wishing a very Happy 49th Birthday to Mark Stoermer of The Killers! The band's hits defined the 00s for many of us. What's your go-to track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "13:30",
      "tags": [
-      "#PussycatDolls"
+      "#00sMusic"
      ]
     }
    ]
   },
   {
-   "id": "colin-hay-birthday-2026",
+   "id": "saul-davies-james-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Saul Davies Turns 61",
+   "blurb": "Saul Davies, guitarist and violinist for the legendary British band James, celebrates his 61st birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/saul-davies.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "James' Maestro",
+     "for": "Nation Rocks",
+     "copy": "Happy 61st Birthday to Saul Davies from James! His guitar and violin work are iconic. What's your top James anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#JamesBand",
+      "#SaulDavies"
+     ]
+    },
+    {
+     "name": "90s Alternative",
+     "for": "Nation 90s",
+     "copy": "Celebrating Saul Davies of James, turning 61 today! From 'Sit Down' to 'Laid', their music defined a generation. What's your favourite James memory?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#90sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ian-paice-deep-purple-bday",
    "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 73rd, Colin Hay",
-   "blurb": "Scottish-Australian musician Colin Hay, best known as the lead vocalist of the band Men at Work, celebrates his 73rd birthday on June 29, 2026.",
+   "hot": true,
+   "title": "Ian Paice Turns 78",
+   "blurb": "Ian Paice, the only constant member and legendary drummer of Deep Purple, celebrates his 78th birthday tomorrow.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Colin_Hay"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/ian-paice.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Legend",
+     "for": "Nation Rocks",
+     "copy": "Tomorrow, the one and only Ian Paice of Deep Purple turns 78! The man behind some of rock's most iconic drum fills. What's your favourite Deep Purple track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#DeepPurple",
+      "#IanPaice"
+     ]
+    },
+    {
+     "name": "70s Pioneer",
+     "for": "Nation 70s",
+     "copy": "Get ready to wish Ian Paice a very Happy 78th Birthday tomorrow! A true 70s rock pioneer with Deep Purple. Which song showcases his drumming best?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#70sRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "colin-hay-men-at-work-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Colin Hay Turns 73",
+   "blurb": "Colin Hay, the distinctive voice of Men at Work and a successful solo artist, celebrates his 73rd birthday tomorrow.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/colin-hay.html"
    },
    "fits": [
     {
@@ -221,138 +360,30 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Men at Work Classic",
-     "copy": "Can you hear that? It's the sound of a birthday celebration! Happy 73rd Birthday tomorrow to the legendary Colin Hay of Men at Work!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#ColinHay #MenAtWork"
-     ]
-    },
-    {
-     "name": "Solo & Band",
-     "copy": "From 'Down Under' to a successful solo career, wishing Colin Hay a very Happy 73rd Birthday tomorrow! What's your favourite track from the Men at Work frontman?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "missy-elliott-birthday-2026",
-   "off": 3,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 55th, Missy Elliott",
-   "blurb": "Groundbreaking American rapper, singer, songwriter, and record producer Missy 'Misdemeanor' Elliott celebrates her 55th birthday on July 1, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Missy_Elliott"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hip-Hop Icon",
-     "copy": "Get Ur Freak On! Wishing a massive Happy 55th Birthday to the one and only Missy Elliott on Wednesday! An absolute icon of hip-hop.",
+     "name": "Men at Work Icon",
+     "for": "Nation 80s",
+     "copy": "Tomorrow, Colin Hay of Men at Work turns 73! His voice is instantly recognisable. What's your favourite track from the 80s legends?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "12:00",
      "tags": [
-      "#MissyElliott"
+      "#MenAtWork",
+      "#ColinHay"
      ]
     },
     {
-     "name": "Producer & Performer",
-     "copy": "From 'Supa Dupa Fly' to a legendary producer, Missy Elliott turns 55 on Wednesday! What's your favourite Missy track or collaboration?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HipHop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "post-malone-birthday-2026",
-   "off": 6,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 31st, Post Malone",
-   "blurb": "American singer, rapper, songwriter, and record producer Post Malone, known for blending genres, celebrates his 31st birthday on July 4, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Post_Malone"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Genre Bender",
-     "copy": "Happy 31st Birthday to the one and only Post Malone on Saturday! From 'White Iverson' to 'Circles', he keeps us guessing. What's your favourite Posty tune?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PostMalone"
-     ]
-    },
-    {
-     "name": "Modern Hitmaker",
-     "copy": "He's only 31 on Saturday, but he's already given us so many hits! Wishing a very Happy Birthday to Post Malone. Which of his tracks is on your playlist?",
+     "name": "Classic Voice",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 73rd Birthday for tomorrow to Colin Hay! Whether with Men at Work or solo, his songs are timeless. Which one's on your playlist?",
      "channels": [
       "instagram",
       "facebook",
@@ -360,40 +391,53 @@
      ],
      "time": "16:00",
      "tags": [
-      "#HappyBirthday"
+      "#ClassicHits"
      ]
     }
    ]
   },
   {
-   "id": "rza-birthday-2026",
-   "off": 7,
+   "id": "nicole-scherzinger-bday",
+   "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 57th, RZA",
-   "blurb": "Robert Fitzgerald Diggs, better known as RZA, the de facto leader and producer of the iconic hip-hop group Wu-Tang Clan, celebrates his 57th birthday on July 5, 2026.",
+   "hot": true,
+   "title": "Nicole Scherzinger Turns 48",
+   "blurb": "Singer, dancer, and TV personality Nicole Scherzinger, known for The Pussycat Dolls, celebrates her 48th birthday tomorrow.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/RZA"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/nicole-scherzinger.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Wu-Tang Legend",
-     "copy": "Protect Ya Neck and wish a Happy 57th Birthday to the legendary RZA from Wu-Tang Clan on Sunday! An absolute powerhouse in hip-hop.",
+     "name": "Pop Princess",
+     "for": "Nation Hits",
+     "copy": "Tomorrow, the fabulous Nicole Scherzinger turns 48! From Pussycat Doll to solo star, she's a true performer. What's your favourite Nicole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#NicoleScherzinger",
+      "#PussycatDolls"
+     ]
+    },
+    {
+     "name": "00s Diva",
+     "for": "Nation 00s",
+     "copy": "Wishing a very Happy 48th Birthday for tomorrow to Nicole Scherzinger! The voice behind so many 00s anthems. Which one takes you back?",
      "channels": [
       "instagram",
       "facebook",
@@ -401,70 +445,55 @@
      ],
      "time": "11:30",
      "tags": [
-      "#RZA #WuTangClan"
-     ]
-    },
-    {
-     "name": "Producer Genius",
-     "copy": "The Abbot turns 57 on Sunday! Happy Birthday to RZA, the mastermind behind so much of the Wu-Tang Clan's iconic sound. What's your favourite Wu-Tang track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#HipHopLegend"
+      "#00sHits"
      ]
     }
    ]
   },
   {
-   "id": "50-cent-birthday-2026",
-   "off": 8,
+   "id": "dj-shadow-bday",
+   "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 51st, 50 Cent",
-   "blurb": "American rapper, actor, and businessman Curtis James Jackson III, professionally known as 50 Cent, celebrates his 51st birthday on July 6, 2026.",
+   "hot": true,
+   "title": "DJ Shadow Turns 54",
+   "blurb": "Influential American DJ and record producer DJ Shadow, a pioneer of instrumental hip-hop, celebrates his 54th birthday tomorrow.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/50_Cent"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/dj-shadow.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Rap Superstar",
-     "copy": "Go Shorty, it's your birthday! Wishing a very Happy 51st Birthday to the one and only 50 Cent on Monday! What's your favourite track from the 'Get Rich or Die Tryin'' star?",
+     "name": "Electronic Genius",
+     "for": "Nation Dance",
+     "copy": "Happy 54th Birthday for tomorrow to the groundbreaking DJ Shadow! A true innovator in electronic music. What's your favourite track from him?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "09:30",
+     "time": "14:30",
      "tags": [
-      "#50Cent"
+      "#DJShadow",
+      "#ElectronicMusic"
      ]
     },
     {
-     "name": "Iconic Hits",
-     "copy": "From 'In Da Club' to 'Candy Shop', 50 Cent turns 51 on Monday! Celebrate his birthday by cranking up your favourite G-Unit era anthem.",
+     "name": "Hip-Hop Pioneer",
+     "for": "Nation Dance",
+     "copy": "Tomorrow, we celebrate DJ Shadow's 54th birthday! His influence on instrumental hip-hop is massive. Which album is a must-listen?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "16:30",
      "tags": [
       "#HipHop"
      ]
@@ -472,34 +501,183 @@
    ]
   },
   {
-   "id": "ringo-starr-birthday-2026",
-   "off": 9,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 86th, Ringo Starr",
-   "blurb": "Sir Richard Starkey, better known as Ringo Starr, the iconic drummer for The Beatles, celebrates his 86th birthday on July 7, 2026.",
+   "id": "lytham-festival-2026",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Lytham Festival Kicks Off",
+   "blurb": "Lytham Festival, one of the UK's biggest live music events, begins on Wednesday in Lytham St Annes, Lancashire, featuring a huge lineup of artists.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
+    "l": "Lytham Festival Official Site",
+    "u": "https://www.lythamfestival.com/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Beatles Legend",
-     "copy": "Peace and Love! Wishing a very Happy 86th Birthday to the legendary Ringo Starr on Tuesday! What's your favourite Beatles track featuring Ringo on vocals?",
+     "name": "Festival Fever",
+     "for": "",
+     "copy": "Lytham Festival 2026 is almost here! Kicking off on Wednesday, who are you most excited to see on the Lancashire coast?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LythamFestival"
+     ]
+    },
+    {
+     "name": "Midweek Music",
+     "for": "",
+     "copy": "Wednesday marks the start of Lytham Festival! Five days of incredible music in Lytham St Annes. Who's got their tickets ready?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#FestivalSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "british-grand-prix-2026",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "British Grand Prix",
+   "blurb": "The Formula 1 British Grand Prix weekend starts on Friday at Silverstone Circuit, bringing high-octane racing to the UK.",
+   "source": {
+    "l": "Formula 1 Official Site",
+    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Silverstone Calling",
+     "for": "",
+     "copy": "The roar of F1 returns to Silverstone this Friday for the British Grand Prix! Who's your money on for pole position and the race win?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BritishGP",
+      "#F1"
+     ]
+    },
+    {
+     "name": "Home Race",
+     "for": "",
+     "copy": "It's almost time for the British Grand Prix! The F1 circus rolls into Silverstone on Friday for a weekend of speed. Are you trackside or watching from home?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Silverstone"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-supreme-festival-2026",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Love Supreme Festival",
+   "blurb": "The Love Supreme Jazz Festival, the UK's largest outdoor jazz festival, kicks off its weekend of music, food, and culture in Glynde Place, East Sussex.",
+   "source": {
+    "l": "Love Supreme Festival Official Site",
+    "u": "https://lovesupremefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jazz & Soul Vibes",
+     "for": "Nation Easy",
+     "copy": "Love Supreme Festival starts this Friday! Get ready for a weekend of the best jazz, soul, and funk in East Sussex. Who are you excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#LoveSupreme"
+     ]
+    },
+    {
+     "name": "Festival Groove",
+     "for": "Nation Dance",
+     "copy": "Friday marks the start of Love Supreme! Three days of incredible music and good vibes. Who's heading to Glynde Place?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#JazzFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tour-de-france-starts-2026",
+   "off": 6,
+   "type": "sport",
+   "hot": true,
+   "title": "Tour de France Grand Départ",
+   "blurb": "The 113th edition of the Tour de France begins on Saturday with the Grand Départ in Barcelona, Spain.",
+   "source": {
+    "l": "Tour de France Official Site",
+    "u": "https://www.letour.fr/en/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cycling Epic",
+     "for": "",
+     "copy": "The greatest race on two wheels begins this Saturday! The Tour de France 2026 kicks off in Barcelona. Who's your favourite for the Yellow Jersey?",
      "channels": [
       "instagram",
       "facebook",
@@ -508,18 +686,126 @@
      ],
      "time": "08:30",
      "tags": [
-      "#RingoStarr #TheBeatles"
+      "#TourDeFrance"
      ]
     },
     {
-     "name": "Drumming Icon",
-     "copy": "From the back of the Fab Four to a successful solo career, Happy 86th Birthday to Ringo Starr on Tuesday! A true drumming icon.",
+     "name": "Grand Départ",
+     "for": "",
+     "copy": "Get ready for three weeks of gruelling climbs and sprint finishes! The Tour de France starts on Saturday. Where will you be watching from?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:30",
+     "time": "10:30",
+     "tags": [
+      "#TDF2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "post-malone-30th-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Post Malone Turns 30",
+   "blurb": "Grammy-nominated rapper, singer, and songwriter Post Malone celebrates his 30th birthday on Saturday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/post-malone.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Genre-Bending Star",
+     "for": "Nation Hits",
+     "copy": "Happy 30th Birthday for Saturday to the one and only Post Malone! From 'Rockstar' to 'Circles', his hits are undeniable. What's your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#PostMalone"
+     ]
+    },
+    {
+     "name": "Birthday Bash",
+     "for": "Nation Dance",
+     "copy": "Saturday is Post Malone's 30th birthday! Get ready to celebrate with his genre-defying tracks. Which one gets you on the dance floor?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Birthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "huey-lewis-76th-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Huey Lewis Turns 76",
+   "blurb": "Huey Lewis, frontman of Huey Lewis and the News, known for their 80s hits, celebrates his 76th birthday on Sunday.",
+   "source": {
+    "l": "National Day Calendar",
+    "u": "https://nationaldaycalendar.com/july-5-birthdays-and-events/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s Icon",
+     "for": "Nation 80s",
+     "copy": "Happy 76th Birthday for Sunday to the legendary Huey Lewis! 'The Power of Love' and 'Hip to Be Square' still sound amazing. What's your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#HueyLewis",
+      "#80sMusic"
+     ]
+    },
+    {
+     "name": "Timeless Hits",
+     "for": "Nation Classic Hits",
+     "copy": "Sunday marks Huey Lewis's 76th birthday! The voice behind so many classic tracks. Which Huey Lewis and the News song is always on your playlist?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
      "tags": [
       "#ClassicRock"
      ]
@@ -527,15 +813,15 @@
    ]
   },
   {
-   "id": "uk-school-summer-holidays-begin-2026",
-   "off": 3,
+   "id": "uk-school-summer-holidays-start",
+   "off": 1,
    "type": "seasonal",
    "hot": true,
-   "title": "Summer Holidays Begin in Parts of UK",
-   "blurb": "The summer school holidays officially begin for many pupils across Northern Ireland from July 1, 2026, marking the start of the long break, with other regions following later in July.",
+   "title": "UK School Summer Holidays Start",
+   "blurb": "School summer holidays are beginning across parts of the UK this week, marking the start of the long break for many students.",
    "source": {
-    "l": "Gov.uk / Local Councils",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
+    "l": "Expatica UK School Holidays",
+    "u": "https://www.expatica.com/uk/education/school-holidays-in-the-uk-106516/"
    },
    "fits": [
     {
@@ -552,18 +838,18 @@
     },
     {
      "g": "radio-exe",
-     "sub": ""
+     "sub": "Radio Exe"
     }
    ],
    "angles": [
     {
-     "name": "Holiday Kick-off",
-     "copy": "The countdown is over for many! Summer holidays officially begin for some schools in the UK this week. What are your big summer plans?",
+     "name": "Summer Break Begins",
+     "for": "",
+     "copy": "School's out for summer! For many across the UK, the summer holidays begin this week. What are your plans for the long break?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "07:00",
@@ -572,29 +858,29 @@
      ]
     },
     {
-     "name": "Local Angle (Wales)",
-     "for": "welsh-local",
-     "copy": "School's out for summer! Pupils across parts of Wales are starting their summer holidays this week. What are your plans for the long break?",
+     "name": "Kids Are Out",
+     "for": "",
+     "copy": "The school summer holidays are kicking off! Get ready for six weeks of fun. What's the first thing you're doing with the extra time?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "10:00",
      "tags": [
-      "#GwyliauHaf"
+      "#SchoolHolidays"
      ]
     },
     {
-     "name": "Local Angle (Devon)",
+     "name": "Local Summer Fun",
      "for": "radio-exe",
-     "copy": "While some are already off, the anticipation is building! Summer holidays begin for many across the UK this week. What's top of your Devon summer bucket list?",
+     "copy": "Devon schools are starting to break up for summer! What local adventures are you planning with the kids during the long holiday?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "11:00",
      "tags": [
       "#DevonSummer"
      ]
