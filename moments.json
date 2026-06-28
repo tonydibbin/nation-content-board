@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-28T19:02:31.830Z",
+ "updated": "2026-06-28T20:48:55.093Z",
  "moments": [
   {
    "id": "wimbledon-starts",
@@ -7,10 +7,10 @@
    "type": "sport",
    "hot": true,
    "title": "Wimbledon 2026 Kicks Off",
-   "blurb": "The 139th edition of The Championships, Wimbledon, begins on Monday, June 29th, bringing two weeks of world-class tennis to the All England Club in London.",
+   "blurb": "The world's most prestigious tennis tournament, Wimbledon, begins on Monday, June 29, 2026, at the All England Club in London, running for two weeks.",
    "source": {
     "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/en_GB/index.html"
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
    },
    "fits": [
     {
@@ -18,18 +18,23 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "General Excitement",
-     "copy": "Game, set, match! Wimbledon 2026 starts tomorrow, get ready for two weeks of grass-court action, strawberries, and cream. Who's your pick for the trophy?",
+     "name": "General excitement",
+     "copy": "Get ready for strawberries, cream and world-class tennis! Wimbledon 2026 kicks off tomorrow, bringing two weeks of unmissable action. Who are you backing for the title?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "08:00",
@@ -38,32 +43,43 @@
      ]
     },
     {
-     "name": "London Focus",
-     "for": "Nation Radio London",
-     "copy": "London is buzzing! The All England Club opens its gates tomorrow for Wimbledon 2026. Are you heading to SW19 or watching from the Hill?",
+     "name": "London focus",
+     "copy": "Centre Court calls! Wimbledon begins tomorrow in SW19, drawing tennis fans from across the globe. The buzz around London is real!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
-      "#Wimbledon"
+      "#WimbledonLondon"
+     ]
+    },
+    {
+     "name": "Devon local angle",
+     "copy": "Devon tennis fans, it's almost time! Wimbledon 2026 starts tomorrow. Will we see any local talent making a splash this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WimbledonDevon"
      ]
     }
    ]
   },
   {
-   "id": "f1-british-gp",
-   "off": 5,
+   "id": "england-world-cup",
+   "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "F1 British Grand Prix",
-   "blurb": "The Formula 1 Pirelli British Grand Prix 2026 takes place at the iconic Silverstone Circuit from July 3rd to 5th.",
+   "title": "England's World Cup Round of 32",
+   "blurb": "England faces DR Congo in their FIFA World Cup 2026 Round of 32 match on Wednesday, July 1, 2026, in Atlanta, with kick-off at 5pm BST.",
    "source": {
-    "l": "Formula 1 Official Site",
-    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
+    "l": "Sky Sports",
+    "u": "https://www.skysports.com/football/england-fixtures"
    },
    "fits": [
     {
@@ -73,53 +89,101 @@
    ],
    "angles": [
     {
-     "name": "Race Weekend Kick-off",
-     "copy": "Get ready for the roar! The F1 British Grand Prix kicks off this Friday at Silverstone. Who's taking pole position for the weekend?",
+     "name": "Match anticipation",
+     "copy": "The World Cup journey continues! England takes on DR Congo in the Round of 32 this Wednesday. Can the Three Lions roar into the next stage?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#BritishGP",
-      "#F1"
+      "#England #FIFAWorldCup"
      ]
     },
     {
-     "name": "Silverstone Excitement",
-     "copy": "Silverstone is calling! The British Grand Prix is just days away. Will we see a home hero on the podium this year?",
+     "name": "Fan excitement",
+     "copy": "Midweek football fever! Clear your diaries for Wednesday, July 1st, as England plays their World Cup Round of 32 match. Where will you be watching?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#Silverstone",
-      "#F1"
+      "#ThreeLions"
      ]
     }
    ]
   },
   {
-   "id": "england-cricket-india-t20i",
-   "off": 3,
+   "id": "wales-rugby-fiji",
+   "off": 6,
    "type": "sport",
    "hot": true,
-   "title": "England Men vs India T20I",
-   "blurb": "England Men's white-ball team faces India in the first Vitality IT20 at the Riverside Ground in Chester-le-Street on Wednesday, July 1st.",
+   "title": "Wales Rugby vs Fiji",
+   "blurb": "Wales begins their inaugural Nations Championship campaign against Fiji at Cardiff City Stadium on Saturday, July 4, 2026.",
    "source": {
-    "l": "ECB Official Site",
-    "u": "https://www.ecb.co.uk/england/men/fixtures"
+    "l": "Planet Rugby",
+    "u": "https://www.planetrugby.com/wales-july-tests-squad-fixtures-global-kick-off-times-referees-and-where-to-watch-the-nations-championship"
    },
    "fits": [
     {
-     "g": "nation-network",
+     "g": "welsh-local",
      "sub": ""
     },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh game day build-up",
+     "copy": "It's almost here! Wales kick off their Nations Championship against Fiji this Saturday at Cardiff City Stadium. Who's ready for some rugby action?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WelshRugby #WALvFIJ"
+     ]
+    },
+    {
+     "name": "Local excitement",
+     "copy": "The Red Wall meets the rugby pitch! Wales take on Fiji in Cardiff this Saturday. Expect a huge atmosphere in the capital!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Cardiff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "school-holidays-ni",
+   "off": 3,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Northern Ireland School Summer Holidays",
+   "blurb": "School summer holidays in Northern Ireland officially begin on Wednesday, July 1, 2026.",
+   "source": {
+    "l": "Department of Education NI",
+    "u": "https://www.education-ni.gov.uk/articles/school-holidays"
+   },
+   "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio North East"
@@ -127,559 +191,221 @@
    ],
    "angles": [
     {
-     "name": "Match Build-up",
-     "copy": "Big cricket coming! England Men take on India in the first T20 International this Wednesday. Expect fireworks at the Riverside!",
+     "name": "Holiday excitement",
+     "copy": "Freedom! Northern Ireland schools break up for summer holidays this Wednesday. What are your plans for the long break?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ENGvIND",
-      "#Cricket"
-     ]
-    },
-    {
-     "name": "North East Focus",
-     "for": "Nation Radio North East",
-     "copy": "The North East welcomes England Cricket! Durham's Riverside Ground hosts the first T20I against India this Wednesday. Who's got tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#DurhamCricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bad-bunny-london",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Bad Bunny Live in London",
-   "blurb": "Grammy Award-winner Bad Bunny brings his 'DeBÍ TiRAR MáS FOToS World Tour' to Tottenham Hotspur Stadium in London for a second night tonight, June 28th.",
-   "source": {
-    "l": "Tottenham Hotspur Stadium",
-    "u": "https://www.tottenhamhotspur.com/the-stadium/events/bad-bunny/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tonight's Gig",
-     "copy": "Bad Bunny takes over Tottenham Hotspur Stadium tonight for his second London show! Who's ready for a night of Latin trap and pure energy?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#BadBunnyLondon"
-     ]
-    },
-    {
-     "name": "London Gig Buzz",
-     "for": "Nation Radio London",
-     "copy": "Another huge night in London! Bad Bunny is live at Spurs' stadium tonight. Did you catch him or are you heading there?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#LondonGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "blenheim-katy-perry",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Katy Perry at Blenheim Palace",
-   "blurb": "Pop superstar Katy Perry is set to headline the Blenheim Palace Festival on Wednesday, July 1st, promising a spectacular show at the historic Oxfordshire venue.",
-   "source": {
-    "l": "Blenheim Palace Festival",
-    "u": "https://www.blenheimpalace.com/whats-on/events/blenheim-palace-festival/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Royalty",
-     "copy": "Roar! Katy Perry brings her pop majesty to Blenheim Palace this Wednesday! Who's excited to witness a truly iconic performance?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#KatyPerry",
-      "#BlenheimPalace"
-     ]
-    },
-    {
-     "name": "Festival Highlight",
-     "copy": "The Blenheim Palace Festival continues with Katy Perry headlining on July 1st. Get ready for a night of chart-topping hits!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#BlenheimFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "blenheim-michael-buble",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Michael Bublé at Blenheim Palace",
-   "blurb": "The incomparable Michael Bublé will charm audiences at the Blenheim Palace Festival on Saturday, July 4th, performing his beloved hits in a stunning setting.",
-   "source": {
-    "l": "Blenheim Palace Festival",
-    "u": "https://www.blenheimpalace.com/whats-on/events/blenheim-palace-festival/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Smooth Sounds",
-     "copy": "Get ready for an evening of smooth vocals! Michael Bublé performs at Blenheim Palace this Saturday. Perfect summer vibes guaranteed.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#MichaelBublé",
-      "#BlenheimPalace"
-     ]
-    },
-    {
-     "name": "Weekend Plans",
-     "copy": "Planning your weekend? Michael Bublé at Blenheim Palace on July 4th promises an unforgettable night of music and romance.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#WeekendGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "metallica-london",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Metallica Takes London Stadium",
-   "blurb": "Metal legends Metallica bring their 'M72 World Tour' to London Stadium for two 'No Repeat Weekend' shows, starting Friday, July 3rd.",
-   "source": {
-    "l": "London Stadium",
-    "u": "https://www.london-stadium.com/events/metallica-m72-world-tour"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal Mayhem",
-     "copy": "Metallica are back! London Stadium gets two nights of pure metal from Friday as the M72 World Tour rolls in. Get ready to headbang!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#Metallica",
-      "#M72WorldTour"
-     ]
-    },
-    {
-     "name": "No Repeat Weekend",
-     "copy": "Two nights, two completely different sets! Metallica's 'No Repeat Weekend' hits London Stadium starting July 3rd. Which night are you going?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#LondonRocks"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bst-duran-duran",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "Duran Duran at BST Hyde Park",
-   "blurb": "New Romantic icons Duran Duran headline BST Hyde Park on Sunday, July 5th, with the reunited Scissor Sisters as main support.",
-   "source": {
-    "l": "BST Hyde Park",
-    "u": "https://www.bst-hydepark.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Legends",
-     "copy": "Hungry Like the Wolf? Duran Duran are headlining BST Hyde Park this Sunday! Get ready for a dose of 80s cool in London.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DuranDuran",
-      "#BSTHydePark"
-     ]
-    },
-    {
-     "name": "London Festival Vibes",
-     "for": "Nation Radio London",
-     "copy": "Hyde Park is buzzing! Duran Duran and Scissor Sisters are set to light up the stage this Sunday at BST. Who's got their tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#LondonEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tv-elle-prequel",
-   "off": 3,
-   "type": "tv",
-   "hot": true,
-   "title": "Legally Blonde Prequel 'Elle' Airs",
-   "blurb": "The much-anticipated 'Legally Blonde' prequel series, 'Elle', exploring Elle Woods' teenage years, premieres on Prime Video on Wednesday, July 1st.",
-   "source": {
-    "l": "Prime Video",
-    "u": "https://www.primevideo.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New TV Show",
-     "copy": "What, like it's hard? The 'Legally Blonde' prequel series 'Elle' drops on Prime Video this Wednesday! Get ready for more bend and snap!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ElleSeries",
-      "#LegallyBlonde"
-     ]
-    },
-    {
-     "name": "Streaming Alert",
-     "copy": "Your new binge-watch awaits! The 'Elle' series, a prequel to 'Legally Blonde', is coming to Prime Video on July 1st. Who's tuning in?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#PrimeVideo"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-ian-paice",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 78th to Ian Paice",
-   "blurb": "Ian Paice, the legendary drummer and only constant member of Deep Purple, celebrates his 78th birthday tomorrow, June 29th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Ian_Paice"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend Birthday",
-     "copy": "Tomorrow, we celebrate Ian Paice of Deep Purple turning 78! Still drumming strong. What's your favourite Deep Purple track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#IanPaice",
-      "#DeepPurple"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-nicole-scherzinger",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 48th to Nicole Scherzinger",
-   "blurb": "Former Pussycat Dolls lead singer and TV personality Nicole Scherzinger turns 48 tomorrow, June 29th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/nicole-scherzinger.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star Birthday",
-     "copy": "Don't Cha wish her a happy birthday? Nicole Scherzinger turns 48 tomorrow! What's your favourite Pussycat Dolls hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#NicoleScherzinger",
-      "#PussycatDolls"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-evelyn-champagne-king",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 66th to Evelyn 'Champagne' King",
-   "blurb": "Disco and R&B legend Evelyn 'Champagne' King, known for hits like 'Shame', celebrates her 66th birthday tomorrow, June 29th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Evelyn_%22Champagne%22_King"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Disco Diva Birthday",
-     "copy": "Shame, shame, shame if you forget! Happy 66th birthday tomorrow to the iconic Evelyn 'Champagne' King! What's your go-to track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#EvelynChampagneKing",
-      "#Disco"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-deborah-harry",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 81st to Debbie Harry",
-   "blurb": "Deborah Harry, the iconic lead singer of Blondie, will celebrate her 81st birthday on Wednesday, July 1st.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/deborah-harry.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Punk Icon Birthday",
-     "copy": "Call Me! The legendary Debbie Harry of Blondie turns 81 this Wednesday. A true punk and new wave icon!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "09:00",
      "tags": [
-      "#DebbieHarry",
-      "#Blondie"
+      "#SummerHolidays #NISchools"
+     ]
+    },
+    {
+     "name": "Travel plans",
+     "copy": "Traffic alert! Northern Ireland schools are out for summer from Wednesday. Heading off on a staycation or abroad?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SummerTravel"
      ]
     }
    ]
   },
   {
-   "id": "bday-missy-elliott",
+   "id": "school-holidays-scotland",
+   "off": 4,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Scotland School Summer Holidays",
+   "blurb": "Summer school holidays in Scotland begin on Thursday, July 2, 2026.",
+   "source": {
+    "l": "Holiday Cottages",
+    "u": "https://www.holidaycottages.co.uk/blog/uk-school-holiday-dates"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish holiday start",
+     "copy": "School's out for summer in Scotland from Thursday! Get ready for sunshine (hopefully!) and adventures. What's first on your holiday to-do list?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ScottishSummer #SchoolHolidays"
+     ]
+    },
+    {
+     "name": "Family fun",
+     "copy": "Parents in Scotland, the summer holidays officially begin on Thursday! Time to plan some family fun. Any hidden gems you're visiting?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FamilyFunScotland"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jd-cymru-fixtures",
+   "off": 4,
+   "type": "sport",
+   "hot": true,
+   "title": "JD Cymru Leagues Fixture Release",
+   "blurb": "The Phase One fixtures for the 2026/27 JD Cymru Premier campaign will be announced on Thursday, July 2, 2026, with JD Cymru North and South fixtures following on July 3.",
+   "source": {
+    "l": "FAW",
+    "u": "https://www.faw.cymru/en/news/jd-cymru-leagues-202627-fixture-release-days/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Fixture anticipation",
+     "copy": "The wait is almost over! The 2026/27 JD Cymru Premier fixtures drop this Thursday, with North & South following Friday. Who are you hoping your team plays first?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#JDCymruLeagues #WelshFootball"
+     ]
+    },
+    {
+     "name": "Local club focus",
+     "copy": "Get ready for the new season! JD Cymru League fixtures are out this week. Which local derbies are you looking forward to most?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#LocalFootball #Wales"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nicole-scherzinger-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Nicole Scherzinger",
+   "blurb": "Singer, dancer, and TV personality Nicole Scherzinger, known for The Pussycat Dolls, turns 48 on Monday, June 29.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Nicole_Scherzinger"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pussycat Dolls tribute",
+     "copy": "Happy 48th Birthday to the incredible Nicole Scherzinger! From Pussycat Dolls anthems to solo hits, she's always brought the fire. What's your favourite Nicole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#NicoleScherzinger #PussycatDolls"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ralf-hutter-bday",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Ralf Hütter",
+   "blurb": "Ralf Hütter, co-founder and lead vocalist of electronic music pioneers Kraftwerk, celebrates his 80th birthday on Tuesday, June 30.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ralf_H%C3%BCtter"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Kraftwerk influence",
+     "copy": "Wishing a very Happy 80th Birthday to Ralf Hütter of Kraftwerk! A true visionary who shaped electronic music as we know it. Which Kraftwerk track is your ultimate synth anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RalfHutter #Kraftwerk"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "missy-elliott-bday",
    "off": 3,
    "type": "birthday",
-   "hot": true,
-   "title": "Happy 55th to Missy Elliott",
-   "blurb": "Groundbreaking rapper, singer, and producer Missy Elliott will celebrate her 55th birthday on Wednesday, July 1st.",
+   "hot": false,
+   "title": "Happy Birthday Missy Elliott",
+   "blurb": "The iconic rapper, singer, and producer Missy Elliott turns 55 on Wednesday, July 1.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/missy-elliott.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Missy_Elliott"
    },
    "fits": [
     {
@@ -693,109 +419,378 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Hip-Hop Royalty Birthday",
-     "copy": "Work It! The one and only Missy Elliott turns 55 this Wednesday. A true innovator in music!",
+     "name": "Hip-hop legend",
+     "copy": "Get your freak on! Happy 55th Birthday to the legendary Missy Elliott! Her influence on music and culture is undeniable. What's your favourite Missy video?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MissyElliott",
-      "#HipHop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-vince-clarke",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 66th to Vince Clarke",
-   "blurb": "Vince Clarke, the influential synth-pop pioneer from Erasure, Depeche Mode, and Yazoo, celebrates his 66th birthday on Friday, July 3rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Vince_Clarke"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Synth-Pop Genius Birthday",
-     "copy": "Just Can't Get Enough! Happy 66th birthday this Friday to synth-pop legend Vince Clarke (Depeche Mode, Yazoo, Erasure)!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#VinceClarke",
-      "#Erasure"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-huey-lewis",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 76th to Huey Lewis",
-   "blurb": "Huey Lewis, frontman of Huey Lewis and the News, known for hits like 'The Power of Love', will celebrate his 76th birthday on Sunday, July 5th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/huey-lewis.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Icon Birthday",
-     "copy": "It's the Heart of Rock & Roll! Happy 76th birthday this Sunday to the fantastic Huey Lewis! What's your favourite tune from The News?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "tiktok"
      ],
      "time": "11:00",
      "tags": [
-      "#HueyLewis",
-      "#80sMusic"
+      "#MissyElliott #HipHop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deborah-harry-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Deborah Harry",
+   "blurb": "Blondie's legendary frontwoman Deborah Harry celebrates her 81st birthday on Wednesday, July 1.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Deborah_Harry"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Blondie icon",
+     "copy": "Call Me! Wishing a very Happy 81st Birthday to the one and only Deborah Harry. A true rock icon and fashion pioneer. What's your go-to Blondie track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#DeborahHarry #Blondie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lindsay-lohan-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Lindsay Lohan",
+   "blurb": "Actress and singer Lindsay Lohan, known for Mean Girls and her pop hits, turns 40 on Thursday, July 2.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Lindsay_Lohan"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop culture icon",
+     "copy": "You go, Glen Coco! Happy 40th Birthday to Lindsay Lohan! From teen movie queen to pop star, she's done it all. What's your favourite Lindsay Lohan moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LindsayLohan #MeanGirls"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "post-malone-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Post Malone",
+   "blurb": "Grammy-nominated rapper and singer Post Malone celebrates his 31st birthday on Saturday, July 4.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Post_Malone"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Modern hitmaker",
+     "copy": "Cheers to 31! Happy Birthday to the one and only Post Malone! Always delivering the bangers. What's your favourite Posty track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#PostMalone #HappyBirthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rza-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday RZA",
+   "blurb": "Legendary producer and Wu-Tang Clan leader RZA turns 57 on Sunday, July 5.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/RZA"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wu-Tang mastermind",
+     "copy": "Protect Ya Neck! Happy 57th Birthday to the genius behind Wu-Tang Clan, RZA. His beats changed the game. What's your favourite RZA-produced track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RZA #WuTangClan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "huey-lewis-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Huey Lewis",
+   "blurb": "Huey Lewis, frontman of Huey Lewis and the News, celebrates his 76th birthday on Sunday, July 5.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Huey_Lewis"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s hitmaker",
+     "copy": "It's The Power Of Love! Happy 76th Birthday to Huey Lewis! An 80s icon with timeless hits. What's your favourite Huey Lewis and the News song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#HueyLewis #80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "50-cent-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday 50 Cent",
+   "blurb": "Rapper, actor, and entrepreneur 50 Cent turns 51 on Monday, July 6.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/50_Cent"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip-hop mogul",
+     "copy": "Go Shorty, It's Your Birthday! Happy 51st to the one and only 50 Cent! Still running the game. What's your favourite 50 Cent track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#50Cent #HipHop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ringo-starr-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Ringo Starr",
+   "blurb": "The legendary drummer of The Beatles, Ringo Starr, celebrates his 86th birthday on Tuesday, July 7.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Beatles legend",
+     "copy": "Peace and Love! Happy 86th Birthday to the iconic Ringo Starr! The beat behind the biggest band in history. What's your favourite Beatles song featuring Ringo?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#RingoStarr #TheBeatles"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beck-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Beck",
+   "blurb": "Multi-award-winning musician Beck, known for his eclectic style, turns 56 on Wednesday, July 8.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Beck"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Alternative icon",
+     "copy": "Where it's at! Happy 56th Birthday to the brilliant and eclectic Beck! A true musical innovator. What's your favourite Beck album?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Beck #AlternativeMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-open-championship-leadup",
+   "off": 14,
+   "type": "sport",
+   "hot": false,
+   "title": "The Open Championship: Practice Rounds Begin",
+   "blurb": "The 154th Open Championship at Royal Birkdale will see practice rounds commence from Sunday, July 12, 2026, leading up to the main tournament from July 16-19.",
+   "source": {
+    "l": "The Open Official Site",
+    "u": "https://www.theopen.com/the-154th-open-at-royal-birkdale"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Golf excitement",
+     "copy": "The countdown to The Open is on! Practice rounds kick off at Royal Birkdale from July 12th. Who's your pick for the Claret Jug this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheOpen #Golf"
+     ]
+    },
+    {
+     "name": "Royal Birkdale focus",
+     "copy": "Royal Birkdale is getting ready! The 154th Open Championship's practice days start from July 12th. Get set for some links golf drama!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#RoyalBirkdale"
      ]
     }
    ]
