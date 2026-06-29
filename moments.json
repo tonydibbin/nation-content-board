@@ -1,42 +1,90 @@
 {
- "updated": "2026-06-29T18:55:57.641Z",
+ "updated": "2026-06-29T20:46:14.328Z",
  "moments": [
   {
-   "id": "fifa-world-cup-2026",
+   "id": "wimbledon-kickoff",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "FIFA World Cup 2026 Underway!",
-   "blurb": "The biggest football tournament on the planet, the FIFA World Cup 2026, is in full swing across North America, running from June 11 to July 19.",
+   "title": "Wimbledon 2026 Kicks Off",
+   "blurb": "The 139th Wimbledon Championships begin today, bringing two weeks of world-class tennis to the All England Club in London.",
    "source": {
-    "l": "FIFA Official Site",
-    "u": "https://www.fifa.com/worldcup/"
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/index.html"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": "Radio Exe"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Global Footy Fever",
-     "copy": "The World Cup 2026 is LIVE! Who are you backing to lift the trophy this year? Every game counts now. #WorldCup2026",
+     "name": "Opening Day Excitement",
+     "copy": "Game on! Wimbledon 2026 is officially underway today. Who are you backing for the men's and ladies' singles titles this year?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "09:00",
      "tags": [
-      "#WorldCup2026"
+      "#Wimbledon"
      ]
     },
     {
-     "name": "UK Fan Focus",
-     "copy": "Is your living room officially a World Cup fan zone? The 2026 tournament is dominating screens and conversations right now. What's been the best match so far?",
+     "name": "Local Buzz (Devon)",
+     "for": "Radio Exe",
+     "copy": "It's a big day for tennis fans as Wimbledon starts! Are you glued to the TV or hoping for a local hero to make it big? Let us know, Devon!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#Wimbledon2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fifa-world-cup-2026-updates",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "FIFA World Cup 2026 Action",
+   "blurb": "The FIFA World Cup 2026, hosted across Canada, Mexico, and the United States, is currently in full swing with group stage and early knockout matches captivating fans worldwide.",
+   "source": {
+    "l": "FIFA Official Website",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "dragon",
+     "sub": "Dragon Radio"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tournament Fever",
+     "copy": "The World Cup continues to deliver! Who's been the standout team or player for you so far? Let the debate begin!",
      "channels": [
       "instagram",
       "facebook",
@@ -46,34 +94,84 @@
      ],
      "time": "12:00",
      "tags": [
-      "#FootballFever"
+      "#WorldCup2026"
      ]
     },
     {
-     "name": "Tournament Buzz",
-     "copy": "From shock results to stunning goals, the FIFA World Cup 2026 is delivering! Tune in to catch all the action as the group stages heat up.",
+     "name": "UK Teams Performance",
+     "copy": "With the World Cup heating up, how are our home nations faring? Are you still hopeful for a deep run from England, Scotland, or Wales?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "15:00",
      "tags": [
-      "#FIFAWorldCup"
+      "#Football"
      ]
     }
    ]
   },
   {
-   "id": "wimbledon-2026",
+   "id": "uk-singles-chart-no1",
    "off": 0,
-   "type": "sport",
+   "type": "culture",
    "hot": true,
-   "title": "Wimbledon 2026 Begins",
-   "blurb": "The world-famous Wimbledon Championships are officially underway today, running from June 29 to July 12 at the All England Club in London.",
+   "title": "New Official Singles Chart Topper",
+   "blurb": "Sam Fender & Olivia Dean have claimed the coveted #1 spot on the Official UK Singles Chart this week with their track 'Rein Me In'.",
    "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Number One",
+     "copy": "We have a new UK Official Singles Chart Number 1! Huge congrats to Sam Fender & Olivia Dean with 'Rein Me In'. Is it on your playlist?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Chart Reaction",
+     "copy": "Did the new #1 surprise you? 'Rein Me In' by Sam Fender & Olivia Dean takes the top spot! What else are you loving in the charts right now?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-thunderstorms",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Heatwave & Thunderstorm Risk",
+   "blurb": "A significant heatwave is affecting parts of England and Wales with temperatures in the mid-30s, expected to transition to more changeable conditions with potential thunderstorms by the weekend.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/10day"
    },
    "fits": [
     {
@@ -81,14 +179,18 @@
      "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "radio-exe",
+     "sub": "Radio Exe"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
     }
    ],
    "angles": [
     {
-     "name": "Tennis Kicks Off",
-     "copy": "Game, Set, Match! Wimbledon 2026 has officially begun. Who are you putting your money on for the Ladies' and Gentlemen's Singles titles?",
+     "name": "Beat the Heat",
+     "copy": "It's a scorcher out there for many, with temperatures soaring! Remember to stay hydrated and keep cool. Are you enjoying the heat or ready for it to break?",
      "channels": [
       "instagram",
       "facebook",
@@ -97,48 +199,33 @@
      ],
      "time": "09:30",
      "tags": [
-      "#Wimbledon"
+      "#UKHeatwave"
      ]
     },
     {
-     "name": "Strawberries & Cream",
-     "copy": "It's not truly summer until Wimbledon starts! The iconic tennis tournament is live from London. Time for strawberries and cream!",
+     "name": "Storms Incoming?",
+     "copy": "After the intense heat, the forecast suggests thunderstorms could be on the way for some areas. Stay safe and weather aware!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "16:00",
      "tags": [
-      "#Wimbledon2026"
-     ]
-    },
-    {
-     "name": "British Summer Tradition",
-     "copy": "Two weeks of world-class tennis, tradition, and unpredictable British weather. Wimbledon is here! Who's your favourite to watch on the grass courts?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#Tennis"
+      "#UKWeather"
      ]
     }
    ]
   },
   {
-   "id": "glastonbury-aftermath",
+   "id": "summer-holidays-begin",
    "off": 0,
-   "type": "gig",
+   "type": "seasonal",
    "hot": true,
-   "title": "Glastonbury 2026 Wrap-Up",
-   "blurb": "Glastonbury Festival 2026 concluded yesterday, June 28th, leaving thousands of festival-goers with muddy boots and unforgettable memories.",
+   "title": "Summer School Holidays Start",
+   "blurb": "Northern Ireland schools are now on summer holidays, with schools in England and Wales set to break up around July 20-22.",
    "source": {
-    "l": "Glastonbury Festival Official Site",
-    "u": "https://www.glastonburyfestivals.co.uk/"
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/school-term-dates-and-holidays"
    },
    "fits": [
     {
@@ -146,366 +233,51 @@
      "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "dragon",
+     "sub": "Dragon Radio"
     }
    ],
    "angles": [
     {
-     "name": "Post-Glasto Blues",
-     "copy": "The fields of Worthy Farm are clearing, but the memories (and mud!) of Glastonbury 2026 live on. What was your highlight from the weekend?",
+     "name": "Freedom for Kids",
+     "copy": "Summer holidays are officially here for some! If your kids are off, what are your plans for keeping them entertained? Or are you counting down the days until yours start?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#Glastonbury2026"
+      "#SummerHolidays"
      ]
     },
     {
-     "name": "Best of Glasto",
-     "copy": "From surprise guests to legendary headliners, Glastonbury 2026 delivered. What was the absolute standout performance for you?",
+     "name": "Wales School Break",
+     "for": "Radio Carmarthenshire",
+     "copy": "The countdown is on for summer holidays in Wales! Are you ready for the school break, or are you dreading the juggling act? Tell us your plans!",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#GlastoHighlights"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "nicole-scherzinger-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 48th Birthday Nicole Scherzinger",
-   "blurb": "American singer, songwriter, and television personality Nicole Scherzinger, best known as the lead singer of The Pussycat Dolls, turns 48 today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/nicole-scherzinger.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star Birthday",
-     "copy": "Wishing a very happy 48th birthday to the incredible Nicole Scherzinger! From Pussycat Dolls to solo hits, what's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#NicoleScherzinger"
-     ]
-    },
-    {
-     "name": "Pussycat Doll Power",
-     "copy": "She's got that 'Don't Cha' vibe! Happy 48th Birthday to pop icon Nicole Scherzinger today. Still slaying!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#PussycatDolls"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "debbie-harry-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 81st Birthday Debbie Harry",
-   "blurb": "The iconic lead singer of Blondie, Debbie Harry, celebrates her 81st birthday on July 1st.",
-   "source": {
-    "l": "Biography.com",
-    "u": "https://www.biography.com/musicians/debbie-harry"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Blondie Legend",
-     "copy": "Happy 81st Birthday to the one and only Debbie Harry on July 1st! Her influence on music and style is undeniable. What's your top Blondie track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#DebbieHarry"
-     ]
-    },
-    {
-     "name": "Punk Icon",
-     "copy": "Call her! Debbie Harry turns 81 on Wednesday. The Blondie frontwoman defined an era. Celebrate her incredible legacy with us!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Blondie"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "missy-elliott-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 55th Birthday Missy Elliott",
-   "blurb": "Grammy-winning American rapper, singer, songwriter, and record producer Missy Elliott celebrates her 55th birthday on July 1st.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/missy-elliott.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hip Hop Royalty",
-     "copy": "Get Ur Freak On! Happy 55th Birthday to the legendary Missy Elliott on July 1st! A true pioneer of hip-hop and music video innovation.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#MissyElliott"
-     ]
-    },
-    {
-     "name": "Work It",
-     "copy": "From 'Work It' to the Rock and Roll Hall of Fame, Missy Elliott is a force of nature. Wishing her a fantastic 55th birthday this Wednesday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#HipHopLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lindsay-lohan-bday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 40th Birthday Lindsay Lohan",
-   "blurb": "American actress and singer Lindsay Lohan, known for 'Mean Girls' and 'The Parent Trap', turns 40 on July 2nd.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/lindsay-lohan.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Mean Girls Star",
-     "copy": "On Wednesday, July 2nd, the one and only Lindsay Lohan celebrates her 40th birthday! What's your favourite Lohan movie or song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#LindsayLohan"
-     ]
-    },
-    {
-     "name": "Child Star to Icon",
-     "copy": "From 'The Parent Trap' to pop hits, Lindsay Lohan turns 40 this week! A true noughties icon. Happy Birthday!",
-     "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "13:00",
      "tags": [
-      "#NoughtiesNostalgia"
+      "#WelshSummer"
      ]
     }
    ]
   },
   {
-   "id": "post-malone-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 31st Birthday Post Malone",
-   "blurb": "Chart-topping American singer, rapper, and songwriter Post Malone celebrates his 31st birthday on July 4th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/post-malone.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Modern Hitmaker",
-     "copy": "Wishing a very Happy 31st Birthday to Post Malone this Saturday, July 4th! What's your go-to Posty anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PostMalone"
-     ]
-    },
-    {
-     "name": "Genre-Bending Star",
-     "copy": "From 'Sunflower' to his latest country ventures, Post Malone turns 31 this weekend! Celebrate the versatile artist with us.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HappyBirthdayPostMalone"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "huey-lewis-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 76th Birthday Huey Lewis",
-   "blurb": "American singer, songwriter, and actor Huey Lewis, known for his band Huey Lewis and the News, turns 76 on July 5th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/huey-lewis.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Icon Birthday",
-     "copy": "It's Hip to Be Square! Happy 76th Birthday to the legendary Huey Lewis this Sunday, July 5th. What's your favourite Huey Lewis and the News hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#HueyLewis"
-     ]
-    },
-    {
-     "name": "Power of Love",
-     "copy": "Wishing a fantastic 76th birthday to Huey Lewis this weekend! Get ready to feel 'The Power of Love'.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#HueyLewisAndTheNews"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "trnsmt-festival-2026",
-   "off": 11,
+   "id": "trnsmt-recap",
+   "off": 1,
    "type": "gig",
-   "hot": true,
-   "title": "TRNSMT Festival Next Week",
-   "blurb": "Scotland's major music event, TRNSMT Festival, takes over Glasgow Green from July 10th-12th, featuring a packed lineup of artists.",
+   "hot": false,
+   "title": "TRNSMT Festival Wrap-Up",
+   "blurb": "TRNSMT Festival, Scotland's major music event, recently wrapped up in Glasgow Green (June 19-21), featuring headliners Richard Ashcroft, Kasabian, and Lewis Capaldi.",
    "source": {
     "l": "TRNSMT Official Site",
     "u": "https://trnsmtfest.com/"
@@ -526,28 +298,27 @@
    ],
    "angles": [
     {
-     "name": "Glasgow Green Calling",
-     "copy": "TRNSMT Festival is just around the corner! Glasgow Green will be buzzing with live music from July 10th. Who are you excited to see?",
+     "name": "Festival Highlights",
+     "copy": "Still buzzing from TRNSMT? What was your highlight from Glasgow Green last weekend? So many incredible sets!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "16:00",
+     "time": "11:00",
      "tags": [
-      "#TRNSMT2026"
+      "#TRNSMT"
      ]
     },
     {
-     "name": "Scottish Festival Vibe",
-     "copy": "Planning your trip to TRNSMT? The huge Scottish festival kicks off next week! Get ready for three days of incredible live acts.",
+     "name": "Best Set Debate",
+     "copy": "Who had the best set at TRNSMT 2026? Richard Ashcroft, Kasabian, Lewis Capaldi, or someone else? Let us know!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "16:30",
      "tags": [
       "#GlasgowMusic"
      ]
@@ -555,26 +326,71 @@
    ]
   },
   {
-   "id": "exeter-craft-festival-2026",
-   "off": 6,
-   "type": "culture",
+   "id": "nicole-scherzinger-bday",
+   "off": 0,
+   "type": "birthday",
    "hot": true,
-   "title": "Exeter Craft Festival Returns",
-   "blurb": "The Exeter Craft Festival is set to bring local artisans and craftspeople to Exeter Cathedral Green from July 5th-7th.",
+   "title": "Happy Birthday Nicole Scherzinger",
+   "blurb": "Singer, dancer, and TV personality Nicole Scherzinger, known for The Pussycat Dolls, turns 48 today.",
    "source": {
-    "l": "Exeter Craft Festival",
-    "u": "https://www.exetercraftfestival.co.uk/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/june29.html"
    },
    "fits": [
     {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Local Craft Showcase",
-     "copy": "Get ready to explore incredible local talent! The Exeter Craft Festival takes over Cathedral Green this weekend, July 5th-7th. Support local makers!",
+     "name": "Pussycat Doll's Day",
+     "copy": "Happy 48th Birthday to the incredible Nicole Scherzinger! What's your favourite Pussycat Dolls track or solo hit from her?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#NicoleScherzinger"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ian-paice-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Ian Paice",
+   "blurb": "Deep Purple's legendary drummer and co-founder, Ian Paice, celebrates his 78th birthday today.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/june/29"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Legend's Birthday",
+     "copy": "Sending huge birthday wishes to Deep Purple's iconic drummer, Ian Paice, who turns 78 today! What's your go-to Deep Purple anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -582,20 +398,238 @@
      ],
      "time": "10:00",
      "tags": [
-      "#ExeterCraftFestival"
+      "#DeepPurple"
      ]
+    }
+   ]
+  },
+  {
+   "id": "colin-hay-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Colin Hay",
+   "blurb": "Colin Hay, the Scottish-Australian frontman of Men at Work, celebrates his 73rd birthday today.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/june/29"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
-     "name": "Weekend in Exeter",
-     "copy": "Planning your weekend? The Exeter Craft Festival is perfect for finding unique gifts and enjoying the vibrant atmosphere on Cathedral Green, starting this Sunday!",
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Men At Work Birthday",
+     "copy": "Happy 73rd Birthday to the brilliant Colin Hay of Men at Work! Which of their classic hits always gets you singing along?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
+     "time": "12:00",
+     "tags": [
+      "#ColinHay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "50-cent-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday 50 Cent",
+   "blurb": "Grammy-winning rapper, actor, and entrepreneur 50 Cent (Curtis Jackson) turns 51 on July 6.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-5-11-c9179d63f27111531061922c00222166"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip Hop Icon's Birthday",
+     "copy": "Get ready to celebrate 50 Cent's 51st birthday on July 6! What's your favourite track from the hip hop legend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#50Cent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ringo-starr-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Ringo Starr",
+   "blurb": "The legendary drummer for The Beatles, Ringo Starr, will celebrate his 86th birthday on July 7.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-5-11-c9179d63f27111531061922c00222166"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Beatles Drummer Birthday",
+     "copy": "Peace and love! Ringo Starr turns 86 on July 7. What's your favourite Beatles song featuring his iconic drumming?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
      "time": "13:00",
      "tags": [
-      "#ExeterEvents"
+      "#RingoStarr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jack-white-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Jack White",
+   "blurb": "The innovative musician and frontman of The White Stripes, Jack White, will celebrate his 51st birthday on July 9.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-5-11-c9179d63f27111531061922c00222166"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "White Stripes Icon",
+     "copy": "Celebrating Jack White's 51st birthday on July 9! What's your favourite White Stripes track, or a gem from his solo work?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#JackWhite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "courtney-love-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Courtney Love",
+   "blurb": "Hole frontwoman and rock icon Courtney Love turns 62 on July 9.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-5-11-c9179d63f27111531061922c00222166"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Grunge Queen's Birthday",
+     "copy": "Wishing a very Happy 62nd Birthday to the one and only Courtney Love on July 9! What's your favourite Hole song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#CourtneyLove"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debbie-sledge-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Debbie Sledge",
+   "blurb": "Debbie Sledge, a founding member of the iconic disco group Sister Sledge, celebrates her 72nd birthday on July 9.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-5-11-c9179d63f27111531061922c00222166"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Sister Sledge Celebration",
+     "copy": "Happy 72nd Birthday to Debbie Sledge on July 9! What's your go-to Sister Sledge anthem that always gets you dancing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SisterSledge"
      ]
     }
    ]
