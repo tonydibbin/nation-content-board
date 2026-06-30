@@ -1,65 +1,231 @@
 {
- "updated": "2026-06-30T15:28:23.383Z",
+ "updated": "2026-06-30T17:45:47.624Z",
  "moments": [
   {
-   "id": "fifa-world-cup-knockouts-june30",
+   "id": "wimbledon-2026",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Knockout Stage Continues",
-   "blurb": "The FIFA World Cup 2026 knockout stage is in full swing today, June 30th, with major matches including France vs. Sweden and Mexico vs. Ecuador.",
+   "title": "Wimbledon 2026 underway",
+   "blurb": "The world-famous tennis tournament, The Championships, Wimbledon, is in full swing at the All England Club in London, running from June 29 to July 12.",
    "source": {
-    "l": "FIFA World Cup 2026",
-    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026"
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Today's Big Games",
-     "copy": "World Cup knockout football today! Who are you backing in France vs Sweden and Mexico vs Ecuador? Let the drama unfold!",
+     "name": "Opening Week Buzz",
+     "copy": "It's the first full week of Wimbledon 2026! Who are you backing to make it to the finals on the iconic grass courts?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "14:00",
+     "time": "09:00",
      "tags": [
-      "#FIFAWorldCup"
+      "#Wimbledon2026"
      ]
     },
     {
-     "name": "England's Next Challenge",
-     "copy": "England are in action tomorrow against DR Congo in the World Cup Round of 32! Feeling confident? #ThreeLions",
+     "name": "Strawberries & Cream",
+     "copy": "Nothing says British summer like Wimbledon. Time for strawberries and cream, Pimm's, and world-class tennis.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#EnglandFootball"
+      "#Wimbledon"
      ]
     }
    ]
   },
   {
-   "id": "post-malone-birthday",
-   "off": 4,
+   "id": "blenheim-palace-festival-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Blenheim Palace Festival concludes",
+   "blurb": "The Blenheim Palace Festival, a five-day celebration of music and arts, concludes tomorrow, July 1st, set against the backdrop of the iconic stately home.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/blenheim-palace-festival"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Final Day at Blenheim",
+     "copy": "Last chance to soak up the atmosphere at Blenheim Palace Festival today and tomorrow! What a stunning setting for music and arts.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#BlenheimPalaceFestival"
+     ]
+    },
+    {
+     "name": "Palace Vibes",
+     "copy": "From classical to contemporary, Blenheim Palace Festival has brought a unique blend of culture to Oxfordshire. Who made it down?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#UKFestivals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lytham-festival-2026",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Lytham Festival kicks off",
+   "blurb": "Lytham Festival, a major UK music event, begins tomorrow, July 1st, running until July 5th on Lytham Green.",
+   "source": {
+    "l": "Skiddle",
+    "u": "https://www.skiddle.com/festivals/lytham-festival/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Fever",
+     "copy": "Lytham Festival 2026 starts tomorrow! Get ready for five days of incredible music on Lytham Green.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LythamFestival"
+     ]
+    },
+    {
+     "name": "North West Summer",
+     "copy": "Planning your Lytham Festival weekend? We're sending good vibes for sunshine and brilliant sets! What acts are you most excited for?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#UKFestivals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debbie-harry-birthday",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Post Malone!",
-   "blurb": "American singer, rapper, and songwriter Post Malone celebrates his 31st birthday on July 4th.",
+   "title": "Debbie Harry turns 81",
+   "blurb": "Blondie's iconic frontwoman, Debbie Harry, celebrates her 81st birthday tomorrow, July 1st.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/debbie-harry.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Blondie",
+     "copy": "Happy 81st Birthday to the one and only Debbie Harry! Still looking and sounding incredible.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#DebbieHarry"
+     ]
+    },
+    {
+     "name": "Rock Icon",
+     "copy": "From 'Heart of Glass' to 'Rapture', Debbie Harry shaped music history. Celebrating her 81st birthday tomorrow!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Blondie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "missy-elliott-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Missy Elliott turns 55",
+   "blurb": "Grammy-winning rapper, singer, and producer Missy Elliott celebrates her 55th birthday tomorrow, July 1st.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Post_Malone"
+    "u": "https://en.wikipedia.org/wiki/Missy_Elliott"
    },
    "fits": [
     {
@@ -69,12 +235,386 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Birthday Shoutout",
-     "copy": "Turning 31 this week! Happy Birthday to the one and only Post Malone on July 4th. What's your favourite track?",
+     "name": "Birthday for Missy",
+     "copy": "Happy 55th Birthday to the legendary Missy Elliott! Still bringing the fire with every track.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#MissyElliott"
+     ]
+    },
+    {
+     "name": "Queen of Hip Hop",
+     "copy": "Tomorrow, we celebrate Missy Elliott's 55th! What's your favourite Missy track or video?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Timbaland"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-farnham-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "John Farnham turns 77",
+   "blurb": "Australian pop and rock legend John Farnham, known for hits like 'You're the Voice', celebrates his 77th birthday tomorrow, July 1st.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/john-farnham.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "A Voice for John",
+     "copy": "Happy 77th Birthday to the incredible John Farnham! 'You're the Voice' remains an absolute anthem.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#JohnFarnham"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gate-to-southwell-festival-2026",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Gate To Southwell Festival starts",
+   "blurb": "The Gate To Southwell Festival, celebrating folk, roots, and acoustic music, begins on July 2nd and runs until July 5th.",
+   "source": {
+    "l": "Skiddle",
+    "u": "https://www.skiddle.com/festivals/gate-to-southwell-festival/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Roots Festival",
+     "copy": "Get ready for four days of fantastic folk and roots music as Gate To Southwell Festival kicks off on Thursday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#SouthwellFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vince-clarke-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Vince Clarke turns 66",
+   "blurb": "Synth-pop pioneer Vince Clarke, known for his work with Depeche Mode, Yazoo, and Erasure, celebrates his 66th birthday on July 3rd.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Vince_Clarke"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Synth Lord's Birthday",
+     "copy": "Happy 66th Birthday to the legendary Vince Clarke! Responsible for some of the greatest synth-pop anthems ever.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#VinceClarke"
+     ]
+    },
+    {
+     "name": "Erasure Icon",
+     "copy": "From Depeche Mode to Erasure, Vince Clarke's influence is undeniable. Wishing him a fantastic 66th birthday on Friday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#Erasure"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shane-lynch-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "Shane Lynch turns 50",
+   "blurb": "Boyzone member Shane Lynch celebrates his 50th birthday on July 3rd.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/shane-lynch.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Boyzone at 50",
+     "copy": "Happy 50th Birthday to Boyzone's Shane Lynch on Friday! Where does the time go?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ShaneLynch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-supreme-festival-2026",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Love Supreme Festival begins",
+   "blurb": "The Love Supreme Jazz Festival, the UK's only greenfield jazz festival, runs from July 3rd to 5th.",
+   "source": {
+    "l": "Love Supreme Festival Official Site",
+    "u": "https://lovesupremefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jazz in the Park",
+     "copy": "Love Supreme Festival kicks off this Friday! Who's heading to Glynde Place for a weekend of incredible jazz, funk, and soul?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#LoveSupreme"
+     ]
+    },
+    {
+     "name": "Festival Weekend",
+     "copy": "The sun's out (hopefully!) for Love Supreme this weekend. Get ready for some smooth tunes and good vibes.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#UKJazz"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "maverick-festival-2026",
+   "off": 3,
+   "type": "gig",
+   "hot": false,
+   "title": "Maverick Festival starts",
+   "blurb": "The Maverick Festival, the UK's original Americana festival, takes place from July 3rd to 5th.",
+   "source": {
+    "l": "Maverick Festival Official Site",
+    "u": "https://www.maverickfestival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Americana Weekend",
+     "copy": "Dust off your cowboy boots, Maverick Festival is back this weekend for a celebration of Americana music!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#MaverickFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "todd-in-the-hole-festival-2026",
+   "off": 3,
+   "type": "gig",
+   "hot": false,
+   "title": "Todd In The Hole Festival begins",
+   "blurb": "The Todd In The Hole Festival, a family-friendly music festival, runs from July 3rd to 5th.",
+   "source": {
+    "l": "Todd In The Hole Official Site",
+    "u": "https://www.toddinthehole.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Family Festival Fun",
+     "copy": "Todd In The Hole Festival kicks off this Friday! Perfect for a family weekend of music and good times.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#ToddInTheHole"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-waite-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "John Waite turns 74",
+   "blurb": "British singer-songwriter John Waite, known for his work with The Babys, Bad English, and solo hits, celebrates his 74th birthday on July 4th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/john-waite.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Missing You at 74",
+     "copy": "Happy 74th Birthday to the voice behind 'Missing You', John Waite! A true rock legend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JohnWaite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "post-malone-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Post Malone turns 31",
+   "blurb": "Multi-platinum artist Post Malone celebrates his 31st birthday on July 4th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Post_Malone"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cheers to Posty",
+     "copy": "Happy 31st Birthday to the one and only Post Malone! What's your top Posty track?",
      "channels": [
       "instagram",
       "facebook",
@@ -82,21 +622,20 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "10:30",
      "tags": [
       "#PostMalone"
      ]
     },
     {
-     "name": "Posty's Hits",
-     "copy": "From 'Circles' to 'Sunflower', Post Malone brings the vibes. Wishing him a big happy 31st birthday this Thursday!",
+     "name": "Hitmaker at 31",
+     "copy": "Celebrating Post Malone's 31st birthday on Saturday! From 'Circles' to 'Sunflower', he's given us so many hits.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "13:00",
+     "time": "15:30",
      "tags": [
       "#HappyBirthdayPostMalone"
      ]
@@ -104,17 +643,222 @@
    ]
   },
   {
-   "id": "bill-withers-tribute",
-   "off": 4,
+   "id": "huey-lewis-birthday",
+   "off": 5,
    "type": "birthday",
-   "hot": false,
-   "title": "Remembering Bill Withers",
-   "blurb": "Soul and R&B legend Bill Withers, known for hits like 'Lean on Me' and 'Lovely Day', would have been 88 on July 4th.",
+   "hot": true,
+   "title": "Huey Lewis turns 76",
+   "blurb": "Huey Lewis, frontman of Huey Lewis and the News, celebrates his 76th birthday on July 5th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bill_Withers"
+    "u": "https://en.wikipedia.org/wiki/Huey_Lewis"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "It's the Power of Love",
+     "copy": "Happy 76th Birthday to Huey Lewis! Still feeling 'The Power of Love' for this 80s icon.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#HueyLewis"
+     ]
+    },
+    {
+     "name": "News at 76",
+     "copy": "Wishing Huey Lewis a very happy 76th birthday on Sunday! What's your favourite Huey Lewis and the News song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rza-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": false,
+   "title": "RZA turns 57",
+   "blurb": "RZA, the influential leader of the Wu-Tang Clan, celebrates his 57th birthday on July 5th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/RZA"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wu-Tang Birthday",
+     "copy": "Happy 57th Birthday to the mastermind, RZA! His influence on hip-hop is immeasurable.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RZA"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shane-filan-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Shane Filan turns 47",
+   "blurb": "Westlife heartthrob Shane Filan celebrates his 47th birthday on July 5th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/shane-filan.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Westlife's Shane at 47",
+     "copy": "Happy 47th Birthday to Westlife's Shane Filan! Still got us 'Flying Without Wings'.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ShaneFilan"
+     ]
+    },
+    {
+     "name": "Boyband Legend",
+     "copy": "Wishing Shane Filan a very happy 47th birthday on Sunday! What's your favourite Westlife ballad?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Westlife"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2000-trees-festival-2026",
+   "off": 8,
+   "type": "gig",
+   "hot": true,
+   "title": "2000 Trees Festival approaches",
+   "blurb": "The 2000 Trees Festival, a multi-award-winning independent rock and alternative festival, takes place from July 8th to 11th.",
+   "source": {
+    "l": "2000 Trees Festival Official Site",
+    "u": "https://www.2000treesfestival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Trees is Coming",
+     "copy": "Just a few days until 2000 Trees Festival kicks off! Get ready for four days of the best in rock and alternative.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#2000Trees"
+     ]
+    },
+    {
+     "name": "Rock Out in Cheltenham",
+     "copy": "Who's heading to Upcote Farm for 2000 Trees next week? The countdown is on!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#UKFestivals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debbie-sledge-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Debbie Sledge turns 72",
+   "blurb": "Debbie Sledge, a member of the iconic disco group Sister Sledge, celebrates her 72nd birthday on July 9th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/debbie-sledge.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
@@ -122,156 +866,256 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Soulful Tribute",
-     "copy": "On July 4th, we remember the incredible Bill Withers, who would have been 88. His music still lifts us up. #BillWithers",
+     "name": "We Are Family Birthday",
+     "copy": "Happy 72nd Birthday to Debbie Sledge! Thank you for the timeless anthems.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "08:00",
      "tags": [
-      "#Legend"
+      "#DebbieSledge"
      ]
     },
     {
-     "name": "Timeless Tracks",
-     "copy": "From 'Ain't No Sunshine' to 'Lovely Day', Bill Withers' legacy lives on. Remembering him on what would have been his 88th birthday.",
+     "name": "Disco Diva",
+     "copy": "Celebrating Debbie Sledge's 72nd birthday next week! 'We Are Family' forever.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#SoulMusic"
+      "#SisterSledge"
      ]
     }
    ]
   },
   {
-   "id": "ringo-starr-birthday",
-   "off": 7,
+   "id": "jim-kerr-birthday",
+   "off": 9,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 86th Birthday Ringo Starr!",
-   "blurb": "The legendary Beatles drummer Ringo Starr celebrates his 86th birthday on July 7th.",
+   "title": "Jim Kerr turns 67",
+   "blurb": "Jim Kerr, lead singer of the Scottish rock band Simple Minds, celebrates his 67th birthday on July 9th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
+    "u": "https://en.wikipedia.org/wiki/Jim_Kerr"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Drummer's Day",
-     "copy": "Peace and Love! Wishing a very Happy 86th Birthday to the iconic Ringo Starr on July 7th. What's your favourite Beatles track featuring Ringo?",
+     "name": "Simple Minds at 67",
+     "copy": "Happy 67th Birthday to Simple Minds frontman, Jim Kerr! Still giving us those iconic stadium anthems.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
-      "#RingoStarr"
+      "#JimKerr"
      ]
     },
     {
-     "name": "Legendary Beatle",
-     "copy": "Still making music and spreading good vibes! Happy 86th to Ringo Starr this Monday. A true music legend.",
+     "name": "Scottish Rock Legend",
+     "copy": "Wishing Jim Kerr a very happy 67th birthday next week! From 'Don't You (Forget About Me)' to 'Alive and Kicking', a true legend.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#TheBeatles"
+      "#SimpleMinds"
      ]
     }
    ]
   },
   {
-   "id": "uk-summer-holidays",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Summer Holidays Begin for Some",
-   "blurb": "As June ends and July begins, many schools across the UK start to break up for the long summer holidays.",
+   "id": "marc-almond-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Marc Almond turns 69",
+   "blurb": "Marc Almond, known for his work with Soft Cell and a successful solo career, celebrates his 69th birthday on July 9th.",
    "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Marc_Almond"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tainted Love Birthday",
+     "copy": "Happy 69th Birthday to the distinctive voice of Marc Almond! A true electronic music pioneer.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#MarcAlmond"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "courtney-love-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Courtney Love turns 62",
+   "blurb": "Hole frontwoman Courtney Love celebrates her 62nd birthday on July 9th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Courtney_Love"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Courtney",
+     "copy": "Happy 62nd Birthday to the fierce and iconic Courtney Love! Still rocking it after all these years.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CourtneyLove"
+     ]
+    },
+    {
+     "name": "Hole's Queen",
+     "copy": "Celebrating Courtney Love's 62nd birthday next week! What's your favourite Hole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#HoleBand"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jack-white-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jack White turns 51",
+   "blurb": "The White Stripes frontman and acclaimed solo artist Jack White celebrates his 51st birthday on July 9th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jack_White_(musician)"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "White Stripes Whiz",
+     "copy": "Happy 51st Birthday to the incredible Jack White! From 'Seven Nation Army' to his solo work, a true guitar hero.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#JackWhite"
+     ]
+    },
+    {
+     "name": "Guitar Hero at 51",
+     "copy": "Wishing Jack White a very happy 51st birthday next week! What's your favourite White Stripes song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#TheWhiteStripes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "also-festival-2026",
+   "off": 10,
+   "type": "gig",
+   "hot": false,
+   "title": "Also Festival starts",
+   "blurb": "Also Festival, a festival of ideas, music, and food, takes place from July 10th to 12th.",
+   "source": {
+    "l": "Also Festival Official Site",
+    "u": "https://www.also-festival.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "School's Out!",
-     "copy": "That's it for another school year for some! Are your kids officially on summer holidays? What are your plans?",
+     "name": "Ideas & Music",
+     "copy": "Also Festival kicks off next Friday! A unique blend of talks, workshops, music, and great food.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SummerHolidays"
-     ]
-    },
-    {
-     "name": "Holiday Vibes",
-     "copy": "The great escape begins! Wishing everyone starting their summer holidays a fantastic time. Where are you off to (or staying put)?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "12:00",
      "tags": [
-      "#SchoolHolidays"
+      "#AlsoFestival"
      ]
     }
    ]
