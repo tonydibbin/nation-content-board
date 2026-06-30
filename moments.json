@@ -1,222 +1,862 @@
 {
- "updated": "2026-06-30T10:22:20.133Z",
+ "updated": "2026-06-30T13:01:19.127Z",
  "moments": [
   {
-   "id": "summerSolstice",
+   "id": "wimbledon-live-start",
    "off": 0,
-   "type": "seasonal",
+   "type": "sport",
    "hot": true,
-   "title": "Longest Day of the Year",
-   "blurb": "Today marks the summer solstice, the longest day of the year in the Northern Hemisphere",
+   "title": "Wimbledon Kicks Off",
+   "blurb": "The Wimbledon Championships are officially underway, bringing two weeks of world-class tennis to the All England Club in London, running until July 12.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Seasonal Moment",
-     "for": "",
-     "copy": "The longest day of the year has arrived, make the most of the extra daylight",
+     "name": "General Excitement",
+     "copy": "Game, set, match! Wimbledon is LIVE from London, serving up two weeks of unmissable tennis action. Who are you backing for the trophy?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "08:00",
+     "time": "14:00",
      "tags": [
-      "#SummerSolstice"
+      "#Wimbledon"
      ]
     },
     {
-     "name": "Summer Vibes",
-     "for": "",
-     "copy": "Summer is officially here, get ready for warm weather and outdoor fun",
+     "name": "London Local Angle",
+     "for": "Nation Radio London",
+     "copy": "It's a big fortnight for London as Wimbledon takes centre court! The city is buzzing with tennis fever. Are you heading to SW19 or watching from home?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Astronomical Event",
-     "for": "",
-     "copy": "The summer solstice marks a significant astronomical event, learn more about its significance",
-     "channels": [
+      "x",
       "threads"
      ],
-     "time": "16:00",
-     "tags": []
+     "time": "15:00",
+     "tags": [
+      "#WimbledonLondon"
+     ]
     }
    ]
   },
   {
-   "id": "britishGP",
-   "off": 5,
+   "id": "british-grand-prix-week",
+   "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "British Grand Prix",
-   "blurb": "The British Grand Prix takes place at Silverstone on July 5, round 12 of the 2026 F1 season",
+   "title": "British Grand Prix Incoming",
+   "blurb": "The Formula 1 British Grand Prix weekend kicks off on Friday, July 3rd, with practice and qualifying leading up to the main race at Silverstone on Sunday, July 5th.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Formula 1 Official Site",
+    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Racing Ahead",
-     "for": "",
-     "copy": "Get ready for the British Grand Prix, one of the most prestigious events in the F1 calendar",
+     "name": "Race Weekend Build-Up",
+     "copy": "Get ready for the roar! The British Grand Prix is almost here, with practice and qualifying starting Friday at Silverstone, leading to Sunday's race. Who's your pick for the podium?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
       "#BritishGP"
      ]
     },
     {
-     "name": "F1 Excitement",
-     "for": "",
-     "copy": "The wait is almost over, the British Grand Prix is just around the corner",
+     "name": "F1 Fever",
+     "copy": "Lights out and away we go... almost! The British Grand Prix weekend is just days away. Time to get your F1 fix at Silverstone!",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": []
-    },
-    {
-     "name": "Silverstone Showdown",
-     "for": "",
-     "copy": "The British Grand Prix is set to be an thrilling event, don't miss out on the action",
-     "channels": [
+      "x",
       "threads"
      ],
-     "time": "18:00",
-     "tags": []
+     "time": "12:00",
+     "tags": [
+      "#F1"
+     ]
     }
    ]
   },
   {
-   "id": "theOpen",
-   "off": 16,
+   "id": "fifa-world-cup-ongoing",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship",
-   "blurb": "The 154th Open Championship takes place at Royal Birkdale from July 16 to 19, 2026",
+   "title": "FIFA World Cup 2026 Heats Up",
+   "blurb": "The FIFA World Cup 2026 is in full swing, with matches continuing throughout June and July, capturing the attention of football fans across the UK.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "FIFA Official Site",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tournament Action",
+     "copy": "The World Cup action continues! Who's impressed you most so far and which team are you rooting for as the tournament progresses?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FIFAWorldCup"
+     ]
+    },
+    {
+     "name": "Football Fever",
+     "copy": "World Cup fever is gripping the nation! Every match is a talking point. What's been your favourite moment from the tournament so far?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wireless-festival-cancelled",
+   "off": 10,
+   "type": "gig",
+   "hot": true,
+   "title": "Wireless Festival Cancellation Still Buzzing",
+   "blurb": "London's Wireless Festival, originally scheduled for July 10-12, remains a talking point after its cancellation in April due to headliner Ye being denied entry to the UK.",
+   "source": {
+    "l": "JamBase",
+    "u": "https://www.jambase.com/festival/wireless-festival-2026-london"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Golfing Greats",
-     "for": "",
-     "copy": "The Open Championship is one of the most prestigious golf tournaments, watch the world's top golfers in action",
+     "name": "Festival Fallout",
+     "copy": "Still gutted about Wireless Festival being cancelled this year? The July 10-12 dates are a reminder of the big names we almost saw in London.",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "13:00",
      "tags": [
-      "#TheOpen"
+      "#WirelessFestival"
      ]
     },
     {
-     "name": "Royal Birkdale",
-     "for": "",
-     "copy": "The Open Championship heads to Royal Birkdale, a challenging course that will test the golfers' skills",
+     "name": "London Music Scene",
+     "for": "Nation Radio London",
+     "copy": "The Finsbury Park dates for Wireless Festival this July might be off, but London's music scene always finds a way. What other gigs are you hitting up?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": []
-    },
-    {
-     "name": "Golfing Excitement",
-     "for": "",
-     "copy": "The Open Championship is set to be an exciting event, don't miss out on the action",
-     "channels": [
+      "x",
       "threads"
      ],
-     "time": "19:00",
-     "tags": []
+     "time": "17:00",
+     "tags": [
+      "#LondonGigs"
+     ]
     }
    ]
   },
   {
-   "id": "royalWelshShow",
-   "off": 20,
-   "type": "culture",
+   "id": "love-island-uk-ongoing",
+   "off": 0,
+   "type": "tv",
    "hot": true,
-   "title": "Royal Welsh Show",
-   "blurb": "The Royal Welsh Show takes place from July 20 to 23, 2026, at Llanelwedd, Builth Wells, the biggest agricultural show in Europe",
+   "title": "Love Island UK Drama Heats Up",
+   "blurb": "The 13th series of Love Island UK, which began on June 1st, continues to deliver daily drama and romance from the Mallorca villa on ITV2 and ITVX.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "ITV Hub",
+    "u": "https://www.itv.com/loveisland"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Agricultural Excellence",
-     "for": "Bridge FM",
-     "copy": "The Royal Welsh Show is a celebration of agriculture and rural life, come and experience it for yourself",
+     "name": "Villa Gossip",
+     "copy": "Another day, another dose of Love Island drama! Who's coupled up, who's cracking on, and who's giving you the most villa gossip?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "20:00",
      "tags": [
-      "#RoyalWelshShow"
+      "#LoveIslandUK"
      ]
     },
     {
-     "name": "Welsh Pride",
-     "for": "Radio Pembrokeshire",
-     "copy": "The Royal Welsh Show is a proud showcase of Welsh farming and culture, don't miss out",
+     "name": "Summer TV",
+     "copy": "Love Island is our go-to summer TV fix! Are you hooked on the latest series and all the twists and turns?",
      "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "21:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-rein-me-in",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean Top UK Chart",
+   "blurb": "Sam Fender & Olivia Dean's collaboration 'Rein Me In' is currently the UK's Official Singles Chart Number 1, holding the top spot for the week ending July 2, 2026.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "copy": "Huge congrats to Sam Fender & Olivia Dean! 'Rein Me In' is officially the UK's Number 1 single. Have you been streaming it non-stop?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Music Reign",
+     "copy": "The UK Singles Chart has a new leader! Sam Fender & Olivia Dean are at Number 1 with 'Rein Me In'. What's your favourite track on the chart right now?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-imminent",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Braces for Another Heatwave",
+   "blurb": "Another heatwave is forecast for the UK, with temperatures expected to rise significantly from this weekend, potentially hitting 30-38C in parts of England and Wales over the next 10 days.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "National Heat Alert",
+     "copy": "Get ready to feel the heat! Another heatwave is on its way, with temperatures set to soar across the UK from this weekend. Stay safe and hydrated!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#UKHeatwave"
+     ]
+    },
+    {
+     "name": "Wales Heatwave",
+     "for": "welsh-local",
+     "copy": "Wales is set for some scorching temperatures next week, with parts of the country potentially hitting 30C+. How are you planning to beat the heat?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#WalesWeather"
+     ]
+    },
+    {
+     "name": "Devon Heatwave",
+     "for": "radio-exe",
+     "copy": "Devon, get ready! Temperatures are forecast to climb, with some areas potentially reaching 34C+. Time to find those cool spots!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#DevonHeat"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-huey-lewis",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Huey Lewis",
+   "blurb": "American singer Huey Lewis, frontman of Huey Lewis and the News, turns 76 on July 5th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Huey Lewis Tribute",
+     "copy": "Wishing a very Happy 76th Birthday to the legendary Huey Lewis on July 5th! What's your favourite Huey Lewis and the News hit?",
+     "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
-     "tags": []
+     "time": "09:00",
+     "tags": [
+      "#HueyLewis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-john-keeble",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday John Keeble",
+   "blurb": "John Keeble, drummer for iconic New Romantic band Spandau Ballet, celebrates his 67th birthday on July 6th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Spandau Ballet Drummer",
+     "copy": "A huge Happy 67th Birthday to John Keeble, the rhythmic force behind Spandau Ballet, on July 6th! What's your top Spandau track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#SpandauBallet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-50-cent",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday 50 Cent",
+   "blurb": "Grammy Award-winning rapper and actor 50 Cent (Curtis Jackson) turns 51 on July 6th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
-     "name": "Family Fun",
-     "for": "Swansea Bay Radio",
-     "copy": "The Royal Welsh Show is a fun day out for the whole family, with plenty of activities and entertainment",
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip Hop Icon",
+     "copy": "Happy 51st Birthday to the one and only 50 Cent on July 6th! What's your favourite track from the hip hop legend?",
      "channels": [
-      "threads"
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
      ],
-     "time": "17:00",
-     "tags": []
+     "time": "12:00",
+     "tags": [
+      "#50Cent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-chris-wood",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Chris Wood (Bastille)",
+   "blurb": "Chris Wood, drummer for the acclaimed British band Bastille, celebrates his 41st birthday on July 6th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bastille Drummer",
+     "copy": "Wishing a very Happy 41st Birthday to Chris Wood, the brilliant drummer from Bastille, on July 6th! What's your favourite Bastille anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Bastille"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-ringo-starr",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Ringo Starr",
+   "blurb": "Legendary Beatles drummer Ringo Starr celebrates his 86th birthday on July 7th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Beatles Icon",
+     "copy": "Peace and love! Happy 86th Birthday to the iconic Ringo Starr on July 7th! What's your favourite Ringo moment or Beatles track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#RingoStarr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-suzanne-vega",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Suzanne Vega",
+   "blurb": "Grammy-winning singer-songwriter Suzanne Vega, known for hits like 'Luka' and 'Tom's Diner', turns 67 on July 7th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Singer-Songwriter Legend",
+     "copy": "Happy 67th Birthday to the incredible Suzanne Vega on July 7th! Which of her timeless songs is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#SuzanneVega"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-debbie-sledge",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Debbie Sledge",
+   "blurb": "Debbie Sledge, a founding member of the legendary disco and R&B group Sister Sledge, turns 72 on July 9th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Disco Diva",
+     "copy": "Wishing a fabulous 72nd Birthday to Debbie Sledge, one quarter of the iconic Sister Sledge, on July 9th! What's your ultimate Sister Sledge anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#SisterSledge"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-marc-almond",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Marc Almond",
+   "blurb": "Marc Almond, lead singer of the pioneering synth-pop duo Soft Cell, celebrates his 69th birthday on July 9th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Synth-Pop Icon",
+     "copy": "Happy 69th Birthday to the distinctive voice of Soft Cell, Marc Almond, on July 9th! What's your favourite Soft Cell classic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SoftCell"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-jim-kerr",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Jim Kerr (Simple Minds)",
+   "blurb": "Jim Kerr, the charismatic frontman of Scottish rock band Simple Minds, turns 67 on July 9th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish Rock Legend",
+     "copy": "Wishing a very Happy 67th Birthday to Simple Minds' incredible frontman, Jim Kerr, on July 9th! Celebrate with your favourite Simple Minds hit!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#SimpleMinds"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-courtney-love",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Courtney Love",
+   "blurb": "Iconic rock musician and actress Courtney Love, known for fronting Hole, celebrates her 62nd birthday on July 9th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Grunge Queen",
+     "copy": "Happy 62nd Birthday to the fearless Courtney Love on July 9th! What's your go-to Hole track or favourite Courtney moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#CourtneyLove"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-jack-white",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Jack White",
+   "blurb": "Grammy-winning musician, singer, songwriter, and producer Jack White (The White Stripes, The Raconteurs, The Dead Weather) turns 51 on July 9th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Modern Rock Genius",
+     "copy": "Happy 51st Birthday to the incredible multi-instrumentalist Jack White on July 9th! What's your favourite White Stripes song or one of his many projects?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#JackWhite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-perrie-edwards",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Perrie Edwards",
+   "blurb": "Singer Perrie Edwards, best known as a member of the hugely successful girl group Little Mix, celebrates her 33rd birthday on July 9th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-5-11-july-02685764d26244f78326e033f67f6540"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Little Mix Star",
+     "copy": "Wishing a very Happy 33rd Birthday to the amazing Perrie Edwards on July 9th! What's your favourite Little Mix anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#PerrieEdwards"
+     ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
