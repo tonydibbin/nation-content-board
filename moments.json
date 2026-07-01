@@ -1,32 +1,27 @@
 {
- "updated": "2026-06-30T23:02:15.080Z",
+ "updated": "2026-07-01T02:03:10.552Z",
  "moments": [
   {
-   "id": "wimbledon-championships-2026",
+   "id": "world-cup-knockouts",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon Kicks Off",
-   "blurb": "The 139th Wimbledon Championships are underway at the All England Club, running from June 29 to July 12, bringing two weeks of world-class tennis action.",
+   "title": "World Cup 2026 Heats Up",
+   "blurb": "The FIFA World Cup 2026, co-hosted by USA, Canada, and Mexico, is well into its knockout stages, with thrilling matches determining who progresses.",
    "source": {
-    "l": "Wimbledon Official",
-    "u": "https://www.wimbledon.com/"
+    "l": "FIFA",
+    "u": "https://www.fifa.com/worldcup/2026/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "General Buzz",
-     "for": "",
-     "copy": "Strawberries and cream are officially back! Wimbledon 2026 is serving up aces and drama for the next two weeks. Who's your pick for the title?",
+     "name": "General Excitement",
+     "copy": "The World Cup 2026 knockout stages are here! Who are you backing to lift the trophy?",
      "channels": [
       "instagram",
       "facebook",
@@ -36,226 +31,145 @@
      ],
      "time": "08:00",
      "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "UK Teams Focus",
+     "copy": "Are England, Scotland or Wales still in the running for World Cup glory? Catch all the action and drama.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#WorldCup"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wimbledon-continues",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Wimbledon Fortnight Underway",
+   "blurb": "The prestigious Wimbledon Championships are in full swing, with top tennis players battling it out on the grass courts of London.",
+   "source": {
+    "l": "Wimbledon Official",
+    "u": "https://www.wimbledon.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Court Action",
+     "copy": "Strawberries and cream are essential! Wimbledon continues this week, who's your favourite to win?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
       "#Wimbledon"
      ]
     },
     {
      "name": "British Hopes",
-     "for": "nation-network",
-     "copy": "The grass courts of SW19 are buzzing! Our British hopefuls are hitting the courts at Wimbledon. Who are you cheering on?",
+     "copy": "Any British hopefuls making waves at Wimbledon this year? The competition is fierce!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#Wimbledon2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fifa-world-cup-2026-knockouts",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "World Cup Knockout Stages",
-   "blurb": "The FIFA World Cup 2026 in North America has entered its thrilling knockout stages, with Round of 32 matches currently underway until July 3rd.",
-   "source": {
-    "l": "FIFA World Cup",
-    "u": "https://www.fifa.com/worldcup/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "General Excitement",
-     "for": "",
-     "copy": "It's do-or-die time! The FIFA World Cup 2026 knockout stages are in full swing. Who's making it through to the next round?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#WorldCup2026"
-     ]
-    },
-    {
-     "name": "Big Games Ahead",
-     "for": "nation-network",
-     "copy": "Every game matters now! The World Cup Round of 32 is delivering non-stop drama. Don't miss the upcoming fixtures!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:30",
-     "tags": [
-      "#FIFAWorldCup"
+      "#Tennis"
      ]
     }
    ]
   },
   {
-   "id": "uk-heatwave-july",
-   "off": 5,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK Set for Another Heatwave",
-   "blurb": "Forecasters predict another heatwave for the UK, with temperatures expected to rise significantly from July 5-7, potentially hitting 38C in parts of the South East by July 8.",
-   "source": {
-    "l": "Met Office / WXCharts",
-    "u": "https://www.metoffice.gov.uk/weather/forecast/uk-outlook-for-the-next-6-to-30-days"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Heatwave Warning",
-     "for": "",
-     "copy": "Get ready to feel the heat again! Another UK heatwave is on the cards for next week, with temperatures soaring. Stay cool and hydrated!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#UKHeatwave"
-     ]
-    },
-    {
-     "name": "Local Impact",
-     "for": "radio-exe",
-     "copy": "Devon, get ready for some serious sunshine! Temperatures are set to climb next week, so dust off those fans and get the ice cream in.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#DevonWeather"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-island-uk-current",
+   "id": "debbie-harry-birthday",
    "off": 0,
-   "type": "tv",
+   "type": "birthday",
    "hot": true,
-   "title": "Love Island UK Continues",
-   "blurb": "Love Island UK Series 13, hosted by Maya Jama, is in full swing, airing nightly from Sunday to Friday on ITV2 and ITVX after kicking off on June 1st.",
+   "title": "Debbie Harry is 81",
+   "blurb": "Blondie's iconic frontwoman, Debbie Harry, celebrates her 81st birthday today, July 1st.",
    "source": {
-    "l": "ITV2 / ITVX",
-    "u": "https://www.itv.com/loveisland"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/debbie-harry.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Daily Drama",
-     "for": "",
-     "copy": "Another night, another dose of villa drama! Love Island UK is providing all the summer feels (and arguments). Who's your favourite couple right now?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "21:00",
-     "tags": [
-      "#LoveIsland"
-     ]
-    },
-    {
-     "name": "Unseen Bits",
-     "for": "",
-     "copy": "Catching up on all the 'Unseen Bits' from the Love Island villa this weekend? Iain Stirling's narration is always gold!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LoveIslandUK"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "glastonbury-fallow-year",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Glastonbury Fallow Year",
-   "blurb": "Glastonbury Festival is taking its traditional 'fallow year' in 2026, meaning there is no festival at Worthy Farm this summer to allow the land to recover.",
-   "source": {
-    "l": "Glastonbury Festivals",
-    "u": "https://www.glastonburyfestivals.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Iconic Frontwoman",
+     "copy": "Happy 81st Birthday to the one and only Debbie Harry! What's your favourite Blondie track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Blondie"
+     ]
+    },
+    {
+     "name": "Style and Music",
+     "copy": "From 'Heart of Glass' to 'Rapture', Debbie Harry defined an era. Celebrating her 81st today!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#DebbieHarry"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vince-clarke-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Vince Clarke Turns 66",
+   "blurb": "Synth-pop legend Vince Clarke, known for his work with Depeche Mode, Yazoo, and Erasure, celebrates his 66th birthday on July 3rd.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Vince_Clarke"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
@@ -264,111 +178,49 @@
    ],
    "angles": [
     {
-     "name": "Missing the Mud",
-     "for": "",
-     "copy": "No Pyramid Stage this year! It's a Glastonbury fallow year, giving Worthy Farm a well-deserved break. What's your favourite Glasto memory?",
+     "name": "Synth Master",
+     "copy": "Happy 66th Birthday to synth pioneer Vince Clarke! From Depeche Mode to Erasure, his influence is massive.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#Glastonbury"
+      "#VinceClarke"
      ]
     },
     {
-     "name": "Festival Blues",
-     "for": "nation-network",
-     "copy": "Feeling the absence of Glastonbury this summer? The fields are quiet, but the memories of past festivals live on! What's your dream headliner for 2027?",
+     "name": "Erasure Love",
+     "copy": "It's Vince Clarke's birthday on July 3rd! Which Erasure hit is your ultimate singalong?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FallowYear"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "trnsmt-wrap-up",
-   "off": -9,
-   "type": "gig",
-   "hot": false,
-   "title": "TRNSMT Festival Wrap-Up",
-   "blurb": "TRNSMT Festival 2026, featuring headliners like Richard Ashcroft, Kasabian, and Lewis Capaldi, concluded on June 21st at Glasgow Green.",
-   "source": {
-    "l": "TRNSMT Festival",
-    "u": "https://trnsmtfest.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Highlights",
-     "for": "Nation Radio Scotland",
-     "copy": "Still buzzing from TRNSMT? What was your highlight from Glasgow Green this year? Richard Ashcroft, Kasabian or Lewis Capaldi?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "tiktok"
      ],
      "time": "13:00",
      "tags": [
-      "#TRNSMT"
-     ]
-    },
-    {
-     "name": "Post-Festival Vibes",
-     "for": "Nation Rocks",
-     "copy": "The dust has settled on TRNSMT 2026! Who delivered the best set and left you wanting more?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#TRNSMTFestival"
+      "#Erasure"
      ]
     }
    ]
   },
   {
-   "id": "missy-elliott-birthday",
-   "off": 1,
+   "id": "shane-lynch-birthday",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Missy Elliott",
-   "blurb": "Grammy-winning rapper, singer, songwriter, and producer Missy Elliott turns 55 on July 1st.",
+   "title": "Shane Lynch is 50",
+   "blurb": "Boyzone star Shane Lynch celebrates his 50th birthday on July 3rd.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/missy-elliott.html"
+    "u": "https://www.famousbirthdays.com/people/shane-lynch.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -376,58 +228,109 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Iconic Artist",
-     "for": "Nation Hits",
-     "copy": "Happy 55th Birthday to the one and only Missy Elliott! Which of her groundbreaking tracks gets you moving every time?",
+     "name": "Boyzone Icon",
+     "copy": "Wishing a very Happy 50th Birthday to Boyzone's Shane Lynch! What's your favourite Boyzone moment?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "11:00",
      "tags": [
-      "#MissyElliott"
+      "#Boyzone"
      ]
     },
     {
-     "name": "Producer Legend",
-     "for": "Nation 00s",
-     "copy": "A true legend of music production and performance, Missy Elliott turns 55 today! From 'Get Ur Freak On' to 'Work It', what's your favourite Missy moment?",
+     "name": "Half Century",
+     "copy": "Shane Lynch hits the big 5-0 this week! Still got those pop star moves?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "14:00",
+     "time": "16:00",
      "tags": [
-      "#HappyBirthdayMissy"
+      "#ShaneLynch"
      ]
     }
    ]
   },
   {
-   "id": "ralph-johnson-eart-wind-fire-birthday",
-   "off": 4,
+   "id": "post-malone-birthday",
+   "off": 3,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Ralph Johnson",
-   "blurb": "Ralph Johnson, percussionist and vocalist for the legendary band Earth, Wind & Fire, celebrates his 75th birthday on July 4th.",
+   "hot": true,
+   "title": "Post Malone Turns 31",
+   "blurb": "Grammy-nominated artist Post Malone celebrates his 31st birthday on July 4th.",
    "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/birthdays-july"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/post-malone.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "copy": "Happy 31st Birthday to Post Malone! What's your go-to track from the genre-bending star?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#PostMalone"
+     ]
+    },
+    {
+     "name": "Birthday Vibes",
+     "copy": "Celebrating Post Malone's 31st on July 4th! Time to crank up the tunes.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Music"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-waite-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "John Waite is 74",
+   "blurb": "British rock singer John Waite, known for The Babys, Bad English, and his solo hits, celebrates his 74th birthday on July 4th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/John_Waite"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -435,37 +338,48 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Funk & Soul Icon",
-     "for": "Nation Easy",
-     "copy": "Wishing a very Happy 75th Birthday to Ralph Johnson of the incredible Earth, Wind & Fire! What's your go-to EWF track?",
+     "name": "Rock Legend",
+     "copy": "Happy 74th Birthday to John Waite! 'Missing You' is still an absolute classic.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "12:30",
      "tags": [
-      "#EarthWindAndFire"
+      "#JohnWaite"
+     ]
+    },
+    {
+     "name": "Timeless Voice",
+     "copy": "From The Babys to Bad English, John Waite's voice is unmistakable. Celebrating his 74th on July 4th!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#ClassicRock"
      ]
     }
    ]
   },
   {
    "id": "huey-lewis-birthday",
-   "off": 5,
+   "off": 4,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Huey Lewis",
-   "blurb": "American singer, songwriter, and actor Huey Lewis, frontman of Huey Lewis and the News, turns 76 on July 5th.",
+   "hot": true,
+   "title": "Huey Lewis Turns 76",
+   "blurb": "Huey Lewis, frontman of Huey Lewis and the News, celebrates his 76th birthday on July 5th.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244c207a9c8491c3d1f885e7d4d44"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Huey_Lewis"
    },
    "fits": [
     {
@@ -479,115 +393,49 @@
    ],
    "angles": [
     {
-     "name": "80s Legend",
-     "for": "Nation 80s",
-     "copy": "It's the Heart of Rock & Roll's birthday! Happy 76th to Huey Lewis! Which classic Huey Lewis and the News song is your favourite?",
+     "name": "Power of Love",
+     "copy": "It's Huey Lewis's 76th Birthday on July 5th! What's your favourite hit from Huey Lewis and the News?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#HueyLewis"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "nick-omalley-arctic-monkeys-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Nick O'Malley",
-   "blurb": "Arctic Monkeys bassist Nick O'Malley celebrates his 41st birthday on July 5th.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244c207a9c8491c3d1f885e7d4d44"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Indie Rock Star",
-     "for": "Nation Rocks",
-     "copy": "Happy 41st Birthday to Arctic Monkeys' bassist, Nick O'Malley! What's your favourite Arctic Monkeys album?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ArcticMonkeys"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "john-keeble-spandau-ballet-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday John Keeble",
-   "blurb": "John Keeble, drummer for the iconic New Romantic band Spandau Ballet, turns 67 on July 6th.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244c207a9c8491c3d1f885e7d4d44"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Icon",
-     "for": "Nation 80s",
-     "copy": "Gold! Happy 67th Birthday to John Keeble, drummer for Spandau Ballet! What's your favourite Spandau hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "10:00",
      "tags": [
-      "#SpandauBallet"
+      "#HueyLewis"
+     ]
+    },
+    {
+     "name": "Soundtrack King",
+     "copy": "From 'Back to the Future' to 'The Power of Love', Huey Lewis brought us some iconic tracks. Happy 76th!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "50-cent-birthday",
-   "off": 6,
+   "id": "shane-filan-birthday",
+   "off": 4,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday 50 Cent",
-   "blurb": "Grammy-winning rapper, actor, and entrepreneur 50 Cent celebrates his 51st birthday on July 6th.",
+   "hot": true,
+   "title": "Shane Filan is 47",
+   "blurb": "Westlife heartthrob Shane Filan celebrates his 47th birthday on July 5th.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244c207a9c8491c3d1f885e7d4d44"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/shane-filan.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -595,38 +443,53 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Hip-Hop Mogul",
-     "for": "Nation Hits",
-     "copy": "Go Shorty, it's your birthday! Happy 51st to the legendary 50 Cent. What's your favourite track from the 'Get Rich or Die Tryin'' icon?",
+     "name": "Westlife Charm",
+     "copy": "Wishing a very Happy 47th Birthday to Westlife's Shane Filan! What's your top Westlife ballad?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#Westlife"
+     ]
+    },
+    {
+     "name": "Pop Star Birthday",
+     "copy": "Shane Filan turns 47 on July 5th! Still dreaming of a world where we can fly?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "14:00",
+     "time": "16:30",
      "tags": [
-      "#50Cent"
+      "#ShaneFilan"
      ]
     }
    ]
   },
   {
    "id": "ringo-starr-birthday",
-   "off": 7,
+   "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Ringo Starr",
-   "blurb": "Legendary Beatles drummer Ringo Starr celebrates his 86th birthday on July 7th.",
+   "title": "Ringo Starr is 86",
+   "blurb": "The legendary drummer of The Beatles, Ringo Starr, celebrates his 86th birthday on July 7th.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244c207a9c8491c3d1f885e7d4d44"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
    },
    "fits": [
     {
@@ -645,14 +508,11 @@
    "angles": [
     {
      "name": "Beatles Legend",
-     "for": "Nation 60s",
-     "copy": "Peace and love! Happy 86th Birthday to the one and only Ringo Starr! What's your favourite Beatles song featuring Ringo on drums?",
+     "copy": "Peace and Love! Happy 86th Birthday to the one and only Ringo Starr on July 7th!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "09:00",
      "tags": [
@@ -660,34 +520,37 @@
      ]
     },
     {
-     "name": "Solo & Beyond",
-     "for": "Nation Classic Hits",
-     "copy": "From The Beatles to his All Starr Band, Ringo Starr is still going strong at 86! Celebrate his birthday with some classic tracks.",
+     "name": "Drummer Icon",
+     "copy": "Celebrating Ringo Starr's 86th! What's your favourite Beatles track featuring Ringo's distinctive drumming?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
      "time": "13:00",
      "tags": [
-      "#HappyBirthdayRingo"
+      "#TheBeatles"
      ]
     }
    ]
   },
   {
-   "id": "perrie-edwards-birthday",
-   "off": 7,
+   "id": "alesso-birthday",
+   "off": 6,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Perrie Edwards",
-   "blurb": "Singer Perrie Edwards, known for her work with Little Mix and her solo career, turns 33 on July 7th.",
+   "hot": true,
+   "title": "Alesso Turns 35",
+   "blurb": "Swedish DJ and producer Alesso, known for his global dance hits, celebrates his 35th birthday on July 7th.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244c207a9c8491c3d1f885e7d4d44"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Alesso"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
@@ -695,33 +558,44 @@
    ],
    "angles": [
     {
-     "name": "Pop Star",
-     "for": "Nation Hits",
-     "copy": "Happy 33rd Birthday to the amazing Perrie Edwards! What's your favourite Little Mix track or solo bop from Perrie?",
+     "name": "Dance Floor Filler",
+     "copy": "Happy 35th Birthday to Alesso! Which of his tracks gets you on the dance floor every time?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "11:30",
+     "time": "10:30",
      "tags": [
-      "#PerrieEdwards"
+      "#Alesso"
+     ]
+    },
+    {
+     "name": "Electronic Star",
+     "copy": "Celebrating Alesso's 35th on July 7th! The Swedish DJ continues to deliver massive tunes.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#EDM"
      ]
     }
    ]
   },
   {
-   "id": "jack-white-birthday",
-   "off": 9,
+   "id": "kevin-bacon-birthday",
+   "off": 7,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Jack White",
-   "blurb": "Grammy-winning musician, singer, songwriter, and producer Jack White, known for The White Stripes and his solo work, turns 51 on July 9th.",
+   "hot": true,
+   "title": "Kevin Bacon is 68",
+   "blurb": "Actor and musician Kevin Bacon, known for his extensive film career and as part of The Bacon Brothers, celebrates his 68th birthday on July 8th.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244c207a9c8491c3d1f885e7d4d44"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/kevin-bacon.html"
    },
    "fits": [
     {
@@ -730,41 +604,49 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rock Innovator",
-     "for": "Nation Rocks",
-     "copy": "Happy 51st Birthday to the incredible Jack White! From The White Stripes to The Raconteurs and his solo career, what's your top Jack White track?",
+     "name": "Six Degrees",
+     "copy": "Happy 68th Birthday to Kevin Bacon! What's your favourite movie role from the multi-talented star?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#KevinBacon"
+     ]
+    },
+    {
+     "name": "Music Man",
+     "copy": "Beyond the big screen, Kevin Bacon rocks out with The Bacon Brothers. Celebrating his 68th on July 8th!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "10:00",
+     "time": "14:00",
      "tags": [
-      "#JackWhite"
+      "#TheBaconBrothers"
      ]
     }
    ]
   },
   {
    "id": "courtney-love-birthday",
-   "off": 9,
+   "off": 8,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Courtney Love",
-   "blurb": "Singer, songwriter, and actress Courtney Love, frontwoman of Hole, celebrates her 62nd birthday on July 9th.",
+   "hot": true,
+   "title": "Courtney Love Turns 62",
+   "blurb": "Hole frontwoman and rock icon Courtney Love celebrates her 62nd birthday on July 9th.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244c207a9c8491c3d1f885e7d4d44"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Courtney_Love"
    },
    "fits": [
     {
@@ -778,32 +660,95 @@
    ],
    "angles": [
     {
-     "name": "Grunge Queen",
-     "for": "Nation 90s",
-     "copy": "Happy 62nd Birthday to the iconic Courtney Love! What's your favourite Hole anthem or solo track?",
+     "name": "Rock Goddess",
+     "copy": "Happy 62nd Birthday to the unforgettable Courtney Love! What's your essential Hole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CourtneyLove"
+     ]
+    },
+    {
+     "name": "Grunge Icon",
+     "copy": "Celebrating Courtney Love's 62nd on July 9th! A true force in rock music.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "14:30",
+     "time": "15:00",
      "tags": [
-      "#CourtneyLove"
+      "#Hole"
      ]
     }
    ]
   },
   {
-   "id": "neil-tennant-pet-shop-boys-birthday",
-   "off": 10,
+   "id": "jack-white-birthday",
+   "off": 8,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Neil Tennant",
-   "blurb": "Neil Tennant, lead singer of the hugely influential synth-pop duo Pet Shop Boys, turns 72 on July 10th.",
+   "hot": true,
+   "title": "Jack White is 51",
+   "blurb": "The White Stripes' co-founder and prolific musician, Jack White, celebrates his 51st birthday on July 9th.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244c207a9c8491c3d1f885e7d4d44"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jack_White_(musician)"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Hero",
+     "copy": "Happy 51st Birthday to the incredible Jack White! What's your favourite White Stripes riff?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#JackWhite"
+     ]
+    },
+    {
+     "name": "Music Maverick",
+     "copy": "From The White Stripes to solo brilliance, Jack White turns 51 on July 9th! A true rock innovator.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#TheWhiteStripes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "marc-almond-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Marc Almond Turns 69",
+   "blurb": "Soft Cell's iconic frontman, Marc Almond, celebrates his 69th birthday on July 9th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Marc_Almond"
    },
    "fits": [
     {
@@ -813,131 +758,194 @@
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Synth-Pop Pioneer",
-     "for": "Nation 80s",
-     "copy": "It's a West End Girl's birthday! Happy 72nd to Pet Shop Boys frontman Neil Tennant. What's your favourite PSB classic?",
+     "name": "Synth-pop Sensation",
+     "copy": "Happy 69th Birthday to Marc Almond! 'Tainted Love' is still a timeless classic.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "13:00",
      "tags": [
-      "#PetShopBoys"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "new-tv-elle-prime",
-   "off": 1,
-   "type": "tv",
-   "hot": false,
-   "title": "'Elle' Premieres on Prime Video",
-   "blurb": "The highly anticipated 'Legally Blonde' prequel series, 'Elle', following a teenage Elle Woods, premieres on Prime Video on July 1st.",
-   "source": {
-    "l": "Prime Video",
-    "u": "https://www.amazon.co.uk/prime-video"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Legally Blonde Prequel",
-     "for": "",
-     "copy": "Bend and snap! The 'Legally Blonde' prequel series 'Elle' drops on Prime Video tomorrow! Who's excited to see teenage Elle Woods?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ElleSeries"
+      "#MarcAlmond"
      ]
     },
     {
-     "name": "New Streaming",
-     "for": "nation-network",
-     "copy": "Calling all 'Legally Blonde' fans! A brand new prequel series, 'Elle', arrives on Prime Video tomorrow. Get ready for more pink and sass!",
+     "name": "Soft Cell Icon",
+     "copy": "Celebrating Marc Almond's 69th on July 9th! A distinctive voice and style that defined the 80s.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PrimeVideo"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "new-tv-the-dark-itv",
-   "off": 0,
-   "type": "tv",
-   "hot": false,
-   "title": "'The Dark' on ITV/Netflix",
-   "blurb": "A new ITV crime thriller, 'The Dark', starring Laura Donnelly and Helen Baxendale, is set to premiere in July, with some sources also mentioning Netflix.",
-   "source": {
-    "l": "ITV / Netflix",
-    "u": "https://www.itv.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Crime Thriller Alert",
-     "for": "",
-     "copy": "If you love a good crime thriller, keep an eye out for 'The Dark' arriving on ITV this July! Laura Donnelly and Helen Baxendale star.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TheDark"
-     ]
-    },
-    {
-     "name": "New Series",
-     "for": "nation-network",
-     "copy": "Looking for your next TV obsession? 'The Dark', a moody new crime drama, is coming to screens this month. Get ready for twists and tension!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "tiktok"
      ],
      "time": "17:30",
      "tags": [
-      "#NewTV"
+      "#SoftCell"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jim-kerr-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jim Kerr is 67",
+   "blurb": "Simple Minds frontman Jim Kerr celebrates his 67th birthday on July 9th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jim_Kerr"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Simple Minds Leader",
+     "copy": "Happy 67th Birthday to Jim Kerr! 'Don't You (Forget About Me)' is forever a classic.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#JimKerr"
+     ]
+    },
+    {
+     "name": "Stadium Rock Voice",
+     "copy": "Celebrating Jim Kerr's 67th on July 9th! What's your favourite Simple Minds anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:30",
+     "tags": [
+      "#SimpleMinds"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debbie-sledge-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Debbie Sledge is 72",
+   "blurb": "Debbie Sledge, a founding member of the legendary R&B group Sister Sledge, celebrates her 72nd birthday on July 9th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Sister_Sledge"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Family Affair",
+     "copy": "Happy 72nd Birthday to Debbie Sledge! 'We Are Family' is still an anthem for the ages.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#SisterSledge"
+     ]
+    },
+    {
+     "name": "Disco Diva",
+     "copy": "Celebrating Debbie Sledge's 72nd on July 9th! Get ready to hit the dance floor with some Sister Sledge classics.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Disco"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jessica-simpson-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jessica Simpson Turns 46",
+   "blurb": "Singer, actress, and TV personality Jessica Simpson celebrates her 46th birthday on July 10th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/jessica-simpson.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess",
+     "copy": "Happy 46th Birthday to Jessica Simpson! What's your favourite hit from the pop superstar?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#JessicaSimpson"
+     ]
+    },
+    {
+     "name": "Reality Star",
+     "copy": "Celebrating Jessica Simpson's 46th on July 10th! From 'Newlyweds' to fashion mogul, she's done it all.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PopMusic"
      ]
     }
    ]
