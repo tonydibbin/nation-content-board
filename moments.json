@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-02T21:56:22.206Z",
+ "updated": "2026-07-02T22:54:48.385Z",
  "moments": [
   {
-   "id": "wimbledon-finals-week",
+   "id": "wimbledon-finals-approach",
    "off": 0,
    "type": "sport",
    "hot": true,
    "title": "Wimbledon Finals Week",
-   "blurb": "The 2026 Wimbledon Championships enter their crucial second week, culminating in the finals on July 11th and 12th.",
+   "blurb": "The Wimbledon Championships are in full swing, with the men's and women's singles finals approaching on the final weekend (July 11th-12th).",
    "source": {
     "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/en_GB/news/articles/2026-06-29/the_championships_2026_overview.html"
+    "u": "https://www.wimbledon.com/en_GB/visit/dates.html"
    },
    "fits": [
     {
@@ -20,12 +20,68 @@
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Centre Court Drama",
-     "copy": "Who's making it to the final weekend at Wimbledon? The tension is building as the championships head into their second week!",
+     "name": "General Sport",
+     "for": "",
+     "copy": "Centre Court drama, strawberries and cream. Wimbledon is building to a thrilling climax this week!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "London Local",
+     "for": "Nation Radio London",
+     "copy": "The buzz around SW19 is electric! Who are you backing to lift the trophy at Wimbledon this weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#WimbledonLondon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "england-india-t20s",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "England vs India T20 Series Continues",
+   "blurb": "England's Vitality IT20 series against India continues this week with matches on July 4th, 7th, 9th, and 11th.",
+   "source": {
+    "l": "ECB Official Site",
+    "u": "https://www.ecb.co.uk/england/men/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Day Hype",
+     "for": "",
+     "copy": "Big week for England cricket! The T20 series against India heats up with four crucial matches. Who's tuning in?",
      "channels": [
       "instagram",
       "facebook",
@@ -34,33 +90,33 @@
      ],
      "time": "10:00",
      "tags": [
-      "#Wimbledon"
+      "#EnglandCricket"
      ]
     },
     {
-     "name": "British Hopes",
-     "copy": "Can a Brit go all the way at Wimbledon this year? We're glued to every match as the finals approach.",
+     "name": "Team Focus",
+     "for": "",
+     "copy": "Harry Brook's side faces a tough test as the Vitality IT20 series against India rolls on. Can they dominate?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
      "time": "14:00",
      "tags": [
-      "#Wimbledon2026"
+      "#Cricket"
      ]
     }
    ]
   },
   {
-   "id": "tour-de-france-starts",
+   "id": "tour-de-france-start",
    "off": 2,
    "type": "sport",
    "hot": true,
    "title": "Tour de France Kicks Off",
-   "blurb": "The 113th edition of the Tour de France begins on Saturday, July 4th, with the Grand Départ in Barcelona, Spain.",
+   "blurb": "The iconic cycling race, Tour de France, begins its 113th edition in Barcelona, Spain, on Saturday, July 4th.",
    "source": {
-    "l": "Tour de France Official",
+    "l": "Tour de France Official Site",
     "u": "https://www.letour.fr/en/"
    },
    "fits": [
@@ -71,253 +127,136 @@
    ],
    "angles": [
     {
-     "name": "Pedal to the Metal",
-     "copy": "The greatest race on two wheels is back! The Tour de France starts this Saturday in Barcelona. Who's your pick for the Yellow Jersey?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#TourDeFrance"
-     ]
-    },
-    {
-     "name": "Grand Départ Excitement",
-     "copy": "Three weeks of gruelling climbs and sprint finishes begin this weekend as the Tour de France gets underway. Get ready for some epic cycling!",
+     "name": "Grand Depart",
+     "for": "",
+     "copy": "The greatest show on two wheels is back! The Tour de France begins this Saturday in Barcelona. Get ready for three weeks of epic cycling.",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#TDF2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "open-championship-practice",
-   "off": 10,
-   "type": "sport",
-   "hot": true,
-   "title": "The Open Championship Practice Days",
-   "blurb": "The 154th Open Championship at Royal Birkdale begins its practice days on Sunday, July 12th, leading up to the main tournament.",
-   "source": {
-    "l": "The Open Official Site",
-    "u": "https://www.theopen.com/future-venues/royal-birkdale-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Golf's Greatest Returns",
-     "copy": "The world's best golfers head to Royal Birkdale next week for The Open! Practice days kick off Sunday. Who's got their eye on the Claret Jug?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
      ],
      "time": "11:00",
      "tags": [
-      "#TheOpen"
+      "#TDF2026"
      ]
     },
     {
-     "name": "Birkdale Buzz",
-     "copy": "Get ready for links golf at its finest! The Open Championship practice rounds start Sunday. It's going to be an epic week in Southport.",
+     "name": "Cycling Buzz",
+     "for": "",
+     "copy": "Who's your pick for the Yellow Jersey? The Tour de France Grand Départ is just two days away!",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#RoyalBirkdale"
+      "#TourDeFrance"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-rein-me-in",
-   "off": 0,
+   "id": "new-uk-singles-chart",
+   "off": 2,
    "type": "culture",
    "hot": true,
-   "title": "Sam Fender & Olivia Dean Top UK Chart",
-   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' is the Official UK Singles Chart number one for the week ending July 2, 2026, marking its 14th non-consecutive week at the top.",
+   "title": "New Official Singles Chart Revealed",
+   "blurb": "The Official UK Singles Chart is updated on Friday, July 4th, revealing the new number one and top movers of the week.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
      "g": "nation-network",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Chart Toppers",
-     "copy": "Another week, another number one! Sam Fender & Olivia Dean's 'Rein Me In' is back at the top of the UK Singles Chart. What a track!",
+     "name": "Chart Prediction",
+     "for": "Nation Hits",
+     "copy": "New music Friday means a new Official Singles Chart! Who do you think will be crowned number one this week?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "10:30",
+     "time": "10:00",
      "tags": [
-      "#UKChart"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Record Breaker",
-     "copy": "'Rein Me In' by Sam Fender & Olivia Dean just hit #1 for its 14th non-consecutive week! This song is truly unstoppable. Tune in to hear it!",
+     "name": "Weekend Listen",
+     "for": "Nation Hits",
+     "copy": "Tune in tomorrow to find out the UK's new number one! What's your favourite track in the charts right now?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "16:00",
      "tags": [
-      "#NumberOne"
+      "#NewMusicFriday"
      ]
     }
    ]
   },
   {
-   "id": "michelle-branch-birthday",
+   "id": "ashley-tisdale-bday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 43rd Birthday Michelle Branch",
-   "blurb": "American singer-songwriter Michelle Branch, known for hits like 'Everywhere' and 'All You Wanted', turns 43 today.",
+   "title": "Happy 41st Ashley Tisdale!",
+   "blurb": "Actress and singer Ashley Tisdale, known for her roles in 'High School Musical' and 'The Suite Life of Zack & Cody', celebrates her 41st birthday today, July 2nd.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/michelle-branch.html"
+    "u": "https://www.famousbirthdays.com/people/ashley-tisdale.html"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Pop-Rock Icon",
-     "copy": "Happy 43rd Birthday to the incredible Michelle Branch! From 'Everywhere' to 'Breathe', her songs are timeless. What's your favourite?",
+     "name": "Pop Culture Throwback",
+     "for": "Nation 00s",
+     "copy": "From East High to pop stardom! Happy 41st birthday to the one and only Ashley Tisdale today. What's your favourite Sharpay moment?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "09:30",
+     "time": "08:30",
      "tags": [
-      "#MichelleBranch"
+      "#AshleyTisdale"
      ]
     },
     {
-     "name": "Still Everywhere",
-     "copy": "Celebrating Michelle Branch's 43rd birthday today! Her early 2000s anthems still sound as good as ever. Send her some birthday love!",
+     "name": "Music & TV",
+     "for": "Nation Hits",
+     "copy": "Wishing a very happy 41st birthday to actress and singer Ashley Tisdale! Still belting out 'Fabulous' at the top of our lungs.",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:30",
+     "time": "13:00",
      "tags": [
-      "#00sMusic"
+      "#HighSchoolMusical"
      ]
     }
    ]
   },
   {
-   "id": "monie-love-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 56th Birthday Monie Love",
-   "blurb": "British rapper Monie Love, a pioneer in UK hip hop and known for her work with Native Tongues, turns 56 today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/monie-love.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "UK Hip Hop Legend",
-     "copy": "Big up to the legendary Monie Love, celebrating her 56th birthday today! A true icon of UK hip hop and the Native Tongues crew.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#MonieLove"
-     ]
-    },
-    {
-     "name": "Pioneering Rapper",
-     "copy": "Happy 56th to the trailblazing Monie Love! Her influence on rap and dance music is undeniable. What's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#90sHipHop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "50-cent-birthday",
+   "id": "50-cent-bday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 51st Birthday 50 Cent",
-   "blurb": "Grammy-winning rapper, actor, and entrepreneur 50 Cent, born Curtis Jackson, celebrates his 51st birthday on July 6th.",
+   "title": "Happy 51st 50 Cent!",
+   "blurb": "Multi-platinum rapper, actor, and entrepreneur 50 Cent (Curtis Jackson III) turns 51 on Monday, July 6th.",
    "source": {
     "l": "Famous Birthdays",
     "u": "https://www.famousbirthdays.com/people/50-cent.html"
@@ -325,10 +264,6 @@
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation 00s"
     },
     {
@@ -338,44 +273,46 @@
    ],
    "angles": [
     {
-     "name": "In Da Club",
-     "copy": "Get ready to party like it's your birthday! 50 Cent turns 51 on Monday. What's your go-to track from the hip hop mogul?",
+     "name": "Hip-Hop Icon",
+     "for": "Nation Hits",
+     "copy": "Go shorty, it's your birthday! Wishing a very Happy 51st Birthday to the legend that is 50 Cent on Monday. What's his ultimate track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#50Cent"
      ]
     },
     {
-     "name": "Hip Hop Mogul",
-     "copy": "Celebrating 50 Cent's 51st birthday on July 6th! From chart-topping hits to acting, he's done it all. Drop your favourite 50 track!",
+     "name": "Throwback Bangers",
+     "for": "Nation 00s",
+     "copy": "Getting ready to celebrate 50 Cent's 51st on Monday! Still got 'In Da Club' on repeat? We definitely do.",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "15:30",
+     "time": "14:00",
      "tags": [
-      "#HappyBirthday50Cent"
+      "#HipHopClassics"
      ]
     }
    ]
   },
   {
-   "id": "ringo-starr-birthday",
+   "id": "ringo-starr-bday",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 86th Birthday Ringo Starr",
-   "blurb": "The legendary Beatles drummer Ringo Starr celebrates his 86th birthday on July 7th.",
+   "title": "Happy 86th Ringo Starr!",
+   "blurb": "Legendary Beatles drummer and peace & love advocate Ringo Starr celebrates his 86th birthday on Tuesday, July 7th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/ringo-starr.html"
+    "l": "Ringo Starr Official Site",
+    "u": "https://www.ringostarr.com/about"
    },
    "fits": [
     {
@@ -393,41 +330,200 @@
    ],
    "angles": [
     {
-     "name": "Peace & Love",
-     "copy": "Happy 86th Birthday to the one and only Ringo Starr on July 7th! Send him some Peace & Love for his special day.",
+     "name": "Music Legend",
+     "for": "Nation 60s",
+     "copy": "Peace and Love! Wishing the happiest of 86th birthdays to the one and only Ringo Starr on Tuesday! What's your favourite Beatles track he sang?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#RingoStarr"
+     ]
+    },
+    {
+     "name": "Timeless Talent",
+     "for": "Nation Classic Hits",
+     "copy": "He's still got it! Ringo Starr turns 86 on Tuesday. A true icon of music history.",
+     "channels": [
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#TheBeatles"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "night-manager-s2-premiere",
+   "off": 5,
+   "type": "tv",
+   "hot": true,
+   "title": "The Night Manager Season 2 Premieres",
+   "blurb": "The highly anticipated second season of the BBC's acclaimed spy thriller 'The Night Manager' premieres on July 7th.",
+   "source": {
+    "l": "BBC Official Site",
+    "u": "https://www.bbc.co.uk/programmes/p03r01d5"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "TV Drama Hype",
+     "for": "",
+     "copy": "Get ready for more espionage and intrigue! The Night Manager Season 2 arrives on Tuesday. Who's excited for its return?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
-      "#RingoStarr"
+      "#TheNightManager"
      ]
     },
     {
-     "name": "Beatles Legend",
-     "copy": "The iconic drummer Ringo Starr turns 86 on Sunday! What's your favourite Beatles track featuring Ringo on vocals or drums?",
+     "name": "Must-Watch TV",
+     "for": "",
+     "copy": "Tom Hiddleston and Olivia Colman are back! Don't miss the premiere of The Night Manager Season 2 this week.",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "12:00",
+     "time": "17:00",
      "tags": [
-      "#Beatles"
+      "#BBCDrama"
      ]
     }
    ]
   },
   {
-   "id": "courtney-love-birthday",
+   "id": "uk-heatwave-warning",
+   "off": 3,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Heatwave Forecast",
+   "blurb": "A heatwave is forecast for much of the UK starting July 5th, with temperatures set to soar across many regions.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Weather Alert",
+     "for": "",
+     "copy": "Sun's out, shades on! A heatwave is heading our way from Sunday, with temperatures climbing. Stay safe and hydrated!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#UKHeatwave"
+     ]
+    },
+    {
+     "name": "Local Impact",
+     "for": "radio-exe",
+     "copy": "Devon, get ready for some serious sunshine! Temperatures are set to soar from Sunday. What are your heatwave essentials?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#DevonWeather"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-island-continues",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Love Island UK Drama Heats Up",
+   "blurb": "Love Island UK continues nightly on ITV2 and ITVX, with the islanders navigating new relationships and challenges as the final weeks approach.",
+   "source": {
+    "l": "ITV Hub",
+    "u": "https://www.itv.com/loveisland"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Daily Recaps",
+     "for": "Nation Hits",
+     "copy": "Did you catch last night's Love Island? The drama is absolutely POPPING OFF as we head towards the grand finale!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    },
+    {
+     "name": "Evening Tune-in",
+     "for": "",
+     "copy": "What twists will the villa bring tonight? Get ready for another dose of Love Island UK on ITV2 and ITVX.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#LoveIslandUK"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "courtney-love-bday",
    "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 62nd Birthday Courtney Love",
-   "blurb": "American singer, songwriter, and actress Courtney Love, frontwoman of Hole, celebrates her 62nd birthday on July 9th.",
+   "title": "Happy 62nd Courtney Love!",
+   "blurb": "Hole frontwoman and grunge icon Courtney Love celebrates her 62nd birthday on Thursday, July 9th.",
    "source": {
     "l": "Famous Birthdays",
     "u": "https://www.famousbirthdays.com/people/courtney-love.html"
@@ -444,13 +540,13 @@
    ],
    "angles": [
     {
-     "name": "Grunge Queen",
-     "copy": "Happy 62nd Birthday to the inimitable Courtney Love! A true force in rock music. What's your favourite Hole song?",
+     "name": "Rock Legend",
+     "for": "Nation Rocks",
+     "copy": "A true rock 'n' roll force! Wishing a very Happy 62nd Birthday to the incredible Courtney Love on Thursday. What's your favourite Hole track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "10:00",
      "tags": [
@@ -458,211 +554,65 @@
      ]
     },
     {
-     "name": "Rock Icon",
-     "copy": "Celebrating Courtney Love's 62nd birthday this Friday! Her impact on music and culture is undeniable. Crank up some Hole!",
+     "name": "Grunge Queen",
+     "for": "Nation 90s",
+     "copy": "The queen of grunge turns 62 this week! Celebrate Courtney Love's birthday with us on Thursday by blasting some Hole!",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#HoleBand"
+      "#Grunge"
      ]
     }
    ]
   },
   {
-   "id": "bastille-cardiff-castle",
-   "off": 8,
-   "type": "gig",
+   "id": "scottish-school-holidays",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Bastille Live at Cardiff Castle",
-   "blurb": "Multi-platinum band Bastille play a huge headline show at Cardiff Castle on Friday, July 10th, with support from Arthur Hill and Sofia Camara.",
+   "title": "Scottish Schools on Summer Break",
+   "blurb": "Schools across Scotland are now on their summer holidays, kicking off the long-awaited break for students and families.",
    "source": {
-    "l": "Cardiff Castle Events",
-    "u": "https://www.cardiffcastle.com/events/bastille-cardiff-castle/"
+    "l": "Scottish Government",
+    "u": "https://www.gov.scot/policies/schools/school-holidays/"
    },
    "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
     {
      "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Cardiff Castle Rocks",
-     "for": "welsh-local",
-     "copy": "Bastille are bringing their anthems to Cardiff Castle this Friday! Who's joining them for what promises to be an epic night?",
+     "name": "Holiday Start",
+     "for": "Nation Radio Scotland",
+     "copy": "YAS! Many schools across Scotland are officially on summer holidays! What are your plans for the long break?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#CardiffGigs"
-     ]
-    },
-    {
-     "name": "Singalong Alert",
-     "for": "nation-network",
-     "copy": "Get ready for a massive singalong! Bastille play Cardiff Castle this Friday. Expect all the hits and an incredible atmosphere.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#BastilleLive"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mavis-staples-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 87th Birthday Mavis Staples",
-   "blurb": "Legendary American gospel and R&B singer Mavis Staples, known for her work with The Staple Singers, turns 87 on July 10th.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/birthdays-july"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Soul Legend",
-     "copy": "Wishing a very Happy 87th Birthday to the iconic Mavis Staples on July 10th! A true voice of soul and gospel music.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "tiktok"
      ],
      "time": "09:00",
      "tags": [
-      "#MavisStaples"
+      "#ScottishSummer"
      ]
     },
     {
-     "name": "Timeless Voice",
-     "copy": "The incredible Mavis Staples celebrates her 87th birthday this Friday! Her powerful voice with The Staple Singers shaped generations.",
+     "name": "Family Fun",
+     "for": "Nation Radio Scotland",
+     "copy": "School's out for summer in Scotland! Keep us company on the radio for all your holiday vibes and tunes.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#StapleSingers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lil-kim-birthday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 51st Birthday Lil' Kim",
-   "blurb": "Grammy-winning rapper and fashion icon Lil' Kim celebrates her 51st birthday on July 11th.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/birthdays-july"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen Bee",
-     "copy": "Happy 51st Birthday to the one and only Queen Bee, Lil' Kim, on July 11th! A true hip hop legend and style icon.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LilKim"
-     ]
-    },
-    {
-     "name": "Hip Hop Royalty",
-     "copy": "Celebrating the fierce and fabulous Lil' Kim's 51st birthday this Saturday! Drop your favourite track from the rap superstar!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#HappyBirthdayLilKim"
+      "#SummerHolidays"
      ]
     }
    ]
