@@ -1,16 +1,192 @@
 {
- "updated": "2026-07-02T06:58:37.099Z",
+ "updated": "2026-07-02T09:56:18.026Z",
  "moments": [
   {
-   "id": "wimbledon-2026-day4",
+   "id": "world-cup-2026-ongoing",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon continues",
-   "blurb": "The Wimbledon Championships are in full swing, with Day 4 of the prestigious tennis tournament taking place today, featuring top players on the grass courts.",
+   "title": "World Cup 2026 Action Continues",
+   "blurb": "The FIFA World Cup 2026 is in full swing across North America, with group stage matches and knockout rounds captivating football fans worldwide until July 19.",
    "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
+    "l": "FIFA",
+    "u": "https://www.fifa.com/worldcup/2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Day Hype",
+     "copy": "More World Cup action today! Who are you backing to make it through to the next round? #FIFAWorldCup",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FIFAWorldCup"
+     ]
+    },
+    {
+     "name": "Tournament Buzz",
+     "copy": "The biggest football tournament on the planet is dominating screens. Any upsets caught your eye so far at the World Cup 2026?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wimbledon-2026-week1",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Wimbledon 2026 Underway",
+   "blurb": "The Championships, Wimbledon, are ongoing at the All England Club, running from June 29 to July 12, with top players battling it out on the grass courts.",
+   "source": {
+    "l": "Wimbledon Official",
+    "u": "https://www.wimbledon.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tennis Fever",
+     "copy": "Strawberries and cream at the ready! Wimbledon 2026 is serving up some incredible tennis this week. Who's your pick for the title?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "British Hopes",
+     "copy": "Any big shocks or standout performances from the British players at Wimbledon so far? Catch all the action live!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Wimbledon2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "british-grand-prix-2026",
+   "off": 3,
+   "type": "sport",
+   "hot": true,
+   "title": "F1 British Grand Prix This Sunday",
+   "blurb": "The Formula 1 British Grand Prix is set to electrify Silverstone this Sunday, July 5th, attracting motorsport enthusiasts from around the globe.",
+   "source": {
+    "l": "Formula 1",
+    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Race Weekend Anticipation",
+     "copy": "Get ready for the roar! The British Grand Prix is this Sunday at Silverstone. Who's going to take the checkered flag?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BritishGP"
+     ]
+    },
+    {
+     "name": "Silverstone Showdown",
+     "copy": "All eyes on Silverstone this weekend for the British Grand Prix. Will we see a new winner or a dominant performance?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#F1"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-island-uk-2026",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Love Island UK Drama Continues",
+   "blurb": "The 13th series of Love Island UK, which began on June 1st, is providing daily dose of sun, romance, and drama from the Mallorca villa.",
+   "source": {
+    "l": "ITV2 / ITVX",
+    "u": "https://www.itv.com/loveisland"
    },
    "fits": [
     {
@@ -20,43 +196,94 @@
    ],
    "angles": [
     {
-     "name": "Centre Court Drama",
-     "for": "",
-     "copy": "Day 4 at Wimbledon! Who are you backing to make it through to the weekend? Every serve, every volley, every roar from the crowd – it's all happening right now.",
+     "name": "Villa Gossip",
+     "copy": "Another day, another dose of drama in the Love Island villa! What's got everyone talking from last night's episode?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#LoveIslandUK"
+     ]
+    },
+    {
+     "name": "Coupling Predictions",
+     "copy": "Who's cracking on and who's on the rocks? Your Love Island predictions for the next recoupling are in!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-update",
+   "off": 1,
+   "type": "culture",
+   "hot": true,
+   "title": "New UK Singles Chart Tomorrow",
+   "blurb": "The Official UK Singles Chart will be updated tomorrow, July 3rd, revealing the nation's new number one and top tracks.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Countdown",
+     "copy": "New music Friday means a new Official UK Singles Chart! Who do you think will be crowned number one tomorrow?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "11:00",
+     "time": "17:00",
      "tags": [
-      "#Wimbledon"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Best of British",
-     "for": "",
-     "copy": "Sun's out (hopefully!) and the strawberries and cream are flowing. It's Day 4 of Wimbledon. Are any British hopefuls catching your eye today?",
+     "name": "Who's Top?",
+     "copy": "Will the current Number 1 hold on, or is there a new challenger for the top spot? Find out in tomorrow's UK Singles Chart!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "19:00",
      "tags": [
-      "#Wimbledon"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
-   "id": "michelle-branch-bday",
+   "id": "michelle-branch-birthday",
    "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "Michelle Branch turns 43",
-   "blurb": "American singer-songwriter and guitarist Michelle Branch, known for hits like 'Everywhere' and 'The Game of Love', celebrates her 43rd birthday today.",
+   "hot": true,
+   "title": "Happy 46th to Michelle Branch",
+   "blurb": "American singer-songwriter Michelle Branch, known for hits like 'Everywhere' and 'Are You Happy Now?', celebrates her 46th birthday today.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Michelle_Branch"
@@ -73,199 +300,64 @@
    ],
    "angles": [
     {
-     "name": "Happy Birthday Michelle",
-     "for": "Nation 00s",
-     "copy": "Happy 43rd Birthday to Michelle Branch today! Remember 'Everywhere'? Still sounds as fresh as it did in the noughties. What's your favourite Michelle Branch track?",
+     "name": "Celebrating Michelle",
+     "copy": "Sending 46th birthday wishes to the brilliant Michelle Branch! What's your favourite track from her awesome career?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "09:00",
      "tags": [
       "#MichelleBranch"
      ]
-    },
-    {
-     "name": "00s Throwback",
-     "for": "Nation 00s",
-     "copy": "It's Michelle Branch's 43rd birthday! From 'Everywhere' to 'Are You Happy Now?', she gave us some serious 00s pop-rock anthems. Still got them on your playlist?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MichelleBranch #00sMusic"
-     ]
     }
    ]
   },
   {
-   "id": "love-island-2026-ongoing",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Love Island drama continues",
-   "blurb": "The latest series of Love Island UK is well underway, bringing daily drama, romance, and villa antics to screens across the country.",
-   "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/loveisland"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Villa Latest",
-     "for": "",
-     "copy": "Who's coupling up and who's getting dumped? The Love Island villa is delivering daily drama. What was last night's biggest moment for you?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#LoveIsland"
-     ]
-    },
-    {
-     "name": "Hot Takes",
-     "for": "",
-     "copy": "Catching up on Love Island? The heat is definitely on in the villa! Who's your favourite islander so far and why?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LoveIsland"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-update-fri",
+   "id": "vince-clarke-birthday",
    "off": 1,
-   "type": "culture",
+   "type": "birthday",
    "hot": true,
-   "title": "New UK Singles Chart imminent",
-   "blurb": "The Official UK Singles Chart is set to be updated tomorrow, Friday, July 3rd, revealing the nation's new number one and top-selling tracks.",
+   "title": "Vince Clarke Turns 66",
+   "blurb": "Tomorrow, July 3rd, marks the 66th birthday of electronic music pioneer Vince Clarke, co-founder of Depeche Mode, Yazoo, and Erasure.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Vince_Clarke"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 80s"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Chart Prediction",
-     "for": "Nation Hits",
-     "copy": "Tomorrow, a new UK Singles Chart drops! Who do you think will be crowned number one? Any new entries you're hoping to see climb the ranks?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Who's Hot?",
-     "for": "Nation Hits",
-     "copy": "The battle for the top spot is always fierce. The new UK Singles Chart update is just hours away. Which artist deserves to be at #1?",
+     "name": "Synth Pop Icon",
+     "copy": "Happy 66th birthday to the legendary Vince Clarke tomorrow! From Depeche Mode to Erasure, his synth-pop influence is undeniable. Which project is your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:30",
+     "time": "10:00",
      "tags": [
-      "#UKCharts"
+      "#VinceClarke"
      ]
     }
    ]
   },
   {
-   "id": "tour-de-france-2026-start",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "Tour de France kicks off",
-   "blurb": "The 2026 Tour de France, cycling's most prestigious race, begins this Saturday, July 4th, starting in Barcelona, Spain.",
-   "source": {
-    "l": "Tour de France Official Site",
-    "u": "https://www.letour.fr/en/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Grand Départ",
-     "for": "",
-     "copy": "Get ready for three weeks of epic cycling! The Tour de France kicks off this Saturday. Who's your pick for the Yellow Jersey this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#TourDeFrance"
-     ]
-    },
-    {
-     "name": "Cycling Fever",
-     "for": "",
-     "copy": "The greatest show on two wheels starts Saturday! Tour de France is almost here. Will you be tuning in to watch the peloton tackle the mountains?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TDF2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "post-malone-bday",
+   "id": "post-malone-birthday",
    "off": 2,
    "type": "birthday",
-   "hot": false,
-   "title": "Post Malone turns 31",
-   "blurb": "Grammy-nominated artist Post Malone, known for his genre-bending hits, celebrates his 31st birthday on Saturday, July 4th.",
+   "hot": true,
+   "title": "Post Malone Turns 31",
+   "blurb": "On Saturday, July 4th, chart-topping artist Post Malone, known for his genre-blending hits, celebrates his 31st birthday.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Post_Malone"
@@ -274,108 +366,32 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Posty",
-     "for": "Nation Hits",
-     "copy": "This Saturday, Post Malone turns 31! From 'Rockstar' to his latest country ventures, he keeps us guessing. What's your favourite Posty track?",
+     "name": "Celebrating Posty",
+     "copy": "Wishing a very happy 31st birthday to Post Malone this Saturday! What's your go-to Posty anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "11:30",
+     "time": "11:00",
      "tags": [
       "#PostMalone"
      ]
-    },
-    {
-     "name": "Celebrating Post Malone",
-     "for": "Nation Hits",
-     "copy": "Ahead of his 31st birthday on Saturday, we're celebrating Post Malone! Which of his massive tunes always gets you singing along?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#HappyBirthdayPostMalone"
-     ]
     }
    ]
   },
   {
-   "id": "wireless-festival-2026",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Wireless Festival weekend",
-   "blurb": "Wireless Festival, one of the UK's biggest urban music festivals, takes over Finsbury Park in London from July 5th to 7th, featuring a lineup of top hip-hop, rap, and R&B artists.",
-   "source": {
-    "l": "Wireless Festival Official",
-    "u": "https://wirelessfestival.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wireless is HERE",
-     "for": "Nation Radio London",
-     "copy": "Finsbury Park is about to go OFF! Wireless Festival kicks off this weekend (July 5-7). Who are you hyped to see on the lineup?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WirelessFestival"
-     ]
-    },
-    {
-     "name": "Festival Vibes",
-     "for": "Nation Hits",
-     "copy": "Wireless Festival is just around the corner! London is getting ready for a massive weekend of urban music. What's your must-see act?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#WirelessFest"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "huey-lewis-bday",
+   "id": "huey-lewis-birthday",
    "off": 3,
    "type": "birthday",
-   "hot": false,
-   "title": "Huey Lewis turns 76",
-   "blurb": "American singer-songwriter and actor Huey Lewis, frontman of Huey Lewis and the News, celebrates his 76th birthday on Saturday, July 5th.",
+   "hot": true,
+   "title": "Huey Lewis is 76",
+   "blurb": "Legendary singer Huey Lewis of Huey Lewis and the News, famous for 'The Power of Love,' turns 76 on Sunday, July 5th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Huey_Lewis"
@@ -388,158 +404,73 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "It's Hip to Be Square",
-     "for": "Nation 80s",
-     "copy": "Power of Love! Huey Lewis turns 76 this Saturday. What's your favourite hit from Huey Lewis and the News?",
+     "name": "Huey's Big Day",
+     "copy": "It's the heart of rock and roll! Happy 76th birthday to the iconic Huey Lewis this Sunday! What's your favourite Huey Lewis and the News track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "12:00",
      "tags": [
       "#HueyLewis"
      ]
-    },
-    {
-     "name": "80s Icon",
-     "for": "Nation Classic Hits",
-     "copy": "Wishing a very Happy 76th Birthday to the legendary Huey Lewis on Saturday! From 'The Power of Love' to 'Heart of Rock & Roll', his music defined an era. What's your go-to track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#HueyLewisAndTheNews #80sMusic"
-     ]
     }
    ]
   },
   {
-   "id": "rza-bday",
-   "off": 3,
-   "type": "birthday",
-   "hot": false,
-   "title": "RZA turns 57",
-   "blurb": "RZA, the influential rapper, producer, and de facto leader of the Wu-Tang Clan, celebrates his 57th birthday on Saturday, July 5th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/RZA"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wu-Tang Forever",
-     "for": "Nation 90s",
-     "copy": "Happy 57th Birthday this Saturday to the one and only RZA! The mastermind behind the Wu-Tang Clan's iconic sound. What's your favourite Wu-Tang album?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RZA #WuTangClan"
-     ]
-    },
-    {
-     "name": "Hip-Hop Architect",
-     "for": "Nation Dance",
-     "copy": "Celebrating the birthday of a true hip-hop architect, RZA, this Saturday! His production changed the game. What's your top RZA-produced track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#HipHopLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mya-bday",
+   "id": "50-cent-birthday",
    "off": 4,
    "type": "birthday",
-   "hot": false,
-   "title": "Mýa turns 47",
-   "blurb": "American R&B singer Mýa, known for hits like 'Case of the Ex' and 'Ghetto Supastar', celebrates her 47th birthday on Sunday, July 6th.",
+   "hot": true,
+   "title": "50 Cent Turns 51",
+   "blurb": "Grammy-winning rapper, actor, and businessman 50 Cent (Curtis Jackson) celebrates his 51st birthday on Monday, July 6th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/M%C3%FFa_Harrison"
+    "u": "https://en.wikipedia.org/wiki/50_Cent"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Birthday Queen Mýa",
-     "for": "Nation Hits",
-     "copy": "Wishing a very Happy 47th Birthday to the incredible Mýa this Sunday! Which of her smooth R&B anthems is still on heavy rotation for you?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Mya #RnB"
-     ]
-    },
-    {
-     "name": "90s/00s R&B Vibe",
-     "for": "Nation 00s",
-     "copy": "Mýa turns 47 on Sunday! From 'It's All About Me' to 'Case of the Ex', she gave us so many bops. What's your favourite Mýa track?",
+     "name": "Go Shorty, It's Your Birthday",
+     "copy": "Go Shorty, it's his birthday! Wishing 50 Cent a very happy 51st on Monday! What's your favourite track from the rap legend?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#Mya #90sRnB"
+      "#50Cent"
      ]
     }
    ]
   },
   {
-   "id": "ringo-starr-bday",
+   "id": "ringo-starr-birthday",
    "off": 5,
    "type": "birthday",
-   "hot": false,
-   "title": "Ringo Starr turns 86",
-   "blurb": "Legendary Beatles drummer Ringo Starr celebrates his 86th birthday on Monday, July 7th.",
+   "hot": true,
+   "title": "Ringo Starr's 86th Birthday",
+   "blurb": "The legendary drummer of The Beatles, Ringo Starr, will celebrate his 86th birthday on Tuesday, July 7th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
@@ -560,43 +491,27 @@
    ],
    "angles": [
     {
-     "name": "Peace & Love",
-     "for": "Nation 60s",
-     "copy": "Wishing a very Happy 86th Birthday to the one and only Ringo Starr on Monday! An absolute icon. What's your favourite Beatles track featuring Ringo?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#RingoStarr #TheBeatles"
-     ]
-    },
-    {
-     "name": "Beatles Legend",
-     "for": "Nation Classic Hits",
-     "copy": "Monday is Ringo Starr's 86th birthday! From The Beatles to his All-Starr Band, his rhythm is unmistakable. Which Ringo-led song do you love most?",
+     "name": "Fab Four Drummer",
+     "copy": "All we need is love... and a happy 86th birthday to the one and only Ringo Starr this Tuesday! What's your favourite Beatles track featuring Ringo?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:30",
+     "time": "14:00",
      "tags": [
-      "#Ringo"
+      "#RingoStarr"
      ]
     }
    ]
   },
   {
-   "id": "beck-bday",
+   "id": "beck-birthday",
    "off": 6,
    "type": "birthday",
-   "hot": false,
-   "title": "Beck turns 56",
-   "blurb": "Genre-bending American musician Beck, known for hits like 'Loser' and 'Where It's At', celebrates his 56th birthday on Tuesday, July 8th.",
+   "hot": true,
+   "title": "Beck Turns 56",
+   "blurb": "Eclectic and innovative musician Beck, known for hits like 'Loser' and 'Where It's At', celebrates his 56th birthday on Wednesday, July 8th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Beck"
@@ -604,56 +519,40 @@
    "fits": [
     {
      "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Beck",
-     "for": "Nation Rocks",
-     "copy": "Tuesday is Beck's 56th birthday! The master of musical reinvention, from 'Loser' to 'Dreams'. What's your favourite era of Beck?",
+     "name": "Celebrating Beck",
+     "copy": "Happy 56th birthday to the incredibly talented Beck this Wednesday! Which of his genre-bending tracks is your all-time favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
-     "tags": [
-      "#Beck"
-     ]
-    },
-    {
-     "name": "Alt-Rock Icon",
-     "for": "Nation 90s",
-     "copy": "Celebrating Beck's 56th birthday on Tuesday! His unique sound defined alternative music for decades. Which of his albums is your all-time favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
      "time": "15:00",
      "tags": [
-      "#BeckMusic #AlternativeRock"
+      "#Beck"
      ]
     }
    ]
   },
   {
-   "id": "courtney-love-bday",
+   "id": "courtney-love-birthday",
    "off": 7,
    "type": "birthday",
-   "hot": false,
-   "title": "Courtney Love turns 62",
-   "blurb": "American singer, songwriter, and actress Courtney Love, iconic frontwoman of Hole, celebrates her 62nd birthday on Wednesday, July 9th.",
+   "hot": true,
+   "title": "Courtney Love is 62",
+   "blurb": "Iconic Hole frontwoman and actress Courtney Love celebrates her 62nd birthday on Thursday, July 9th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Courtney_Love"
@@ -661,55 +560,39 @@
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
      "name": "Rock Icon Birthday",
-     "for": "Nation Rocks",
-     "copy": "Wishing a fierce Happy 62nd Birthday to the one and only Courtney Love this Wednesday! What's your favourite Hole anthem or solo track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#CourtneyLove #Hole"
-     ]
-    },
-    {
-     "name": "90s Grunge Queen",
-     "for": "Nation 90s",
-     "copy": "Wednesday, Courtney Love turns 62! A true force in 90s alternative rock. Which of her powerful songs resonates most with you?",
+     "copy": "Happy 62nd birthday to the fierce and fabulous Courtney Love this Thursday! What's your favourite Hole track or Courtney moment?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "16:00",
      "tags": [
-      "#Grunge #90sMusic"
+      "#CourtneyLove"
      ]
     }
    ]
   },
   {
-   "id": "jack-white-bday",
+   "id": "jack-white-birthday",
    "off": 7,
    "type": "birthday",
-   "hot": false,
-   "title": "Jack White turns 51",
-   "blurb": "American musician Jack White, known for his work with The White Stripes, The Raconteurs, and his solo career, celebrates his 51st birthday on Wednesday, July 9th.",
+   "hot": true,
+   "title": "Jack White Turns 51",
+   "blurb": "The prolific rock musician and producer Jack White, best known for The White Stripes, turns 51 on Thursday, July 9th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jack_White_(musician)"
+    "u": "https://en.wikipedia.org/wiki/Jack_White"
    },
    "fits": [
     {
@@ -723,130 +606,8 @@
    ],
    "angles": [
     {
-     "name": "Happy Birthday Jack",
-     "for": "Nation Rocks",
-     "copy": "Wednesday is Jack White's 51st birthday! From White Stripes riffs to solo masterpieces, his guitar work is iconic. What's your favourite Jack White project?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JackWhite #WhiteStripes"
-     ]
-    },
-    {
-     "name": "Modern Rock Legend",
-     "for": "Nation Rocks",
-     "copy": "Celebrating the 51st birthday of a modern rock legend, Jack White, this Wednesday! What's the song that first got you hooked on his unique sound?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#RockMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jessica-simpson-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": false,
-   "title": "Jessica Simpson turns 46",
-   "blurb": "American singer, actress, and fashion designer Jessica Simpson, known for her 00s pop career, celebrates her 46th birthday on Thursday, July 10th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jessica_Simpson"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Jessica",
-     "for": "Nation 00s",
-     "copy": "Thursday, Jessica Simpson turns 46! From 'I Wanna Love You Forever' to 'A Public Affair', she was a huge 00s pop star. What's your favourite of her songs?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#JessicaSimpson"
-     ]
-    },
-    {
-     "name": "00s Pop Princess",
-     "for": "Nation Hits",
-     "copy": "Celebrating Jessica Simpson's 46th birthday this Thursday! Remember her reality TV show and those undeniable pop hits? Which one is your throwback favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#00sPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mavis-staples-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": false,
-   "title": "Mavis Staples turns 87",
-   "blurb": "Legendary American gospel and R&B singer Mavis Staples, known for her work with The Staple Singers and her solo career, celebrates her 87th birthday on Thursday, July 10th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mavis_Staples"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Soulful Birthday",
-     "for": "Nation Easy",
-     "copy": "Wishing a magnificent Happy 87th Birthday to the living legend Mavis Staples this Thursday! Her voice is pure soul. What's your favourite Staple Singers classic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#MavisStaples #SoulMusic"
-     ]
-    },
-    {
-     "name": "Music Icon",
-     "for": "Nation Classic Hits",
-     "copy": "On Thursday, Mavis Staples turns 87! A true icon whose music has inspired generations. Celebrate by sharing your favourite Mavis Staples song.",
+     "name": "Celebrating Jack White",
+     "copy": "Wishing a very happy 51st birthday to the incredible Jack White this Thursday! What's your favourite project or song from the rock polymath?",
      "channels": [
       "instagram",
       "facebook",
@@ -854,170 +615,7 @@
      ],
      "time": "17:00",
      "tags": [
-      "#TheStapleSingers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "british-grand-prix-2026",
-   "off": 8,
-   "type": "sport",
-   "hot": true,
-   "title": "F1 British Grand Prix weekend",
-   "blurb": "The Formula 1 British Grand Prix roars into Silverstone this weekend, July 10-12, bringing high-speed action and drama to UK motorsport fans.",
-   "source": {
-    "l": "Silverstone Official Site",
-    "u": "https://www.silverstone.co.uk/events/formula-1-british-grand-prix"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Silverstone Showdown",
-     "for": "",
-     "copy": "Start your engines! The British Grand Prix is at Silverstone this weekend (July 10-12). Who are you backing for pole position and the win?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#BritishGP #F1"
-     ]
-    },
-    {
-     "name": "F1 Fever",
-     "for": "",
-     "copy": "The biggest race on the British calendar is almost here! F1 British Grand Prix weekend starts Friday. Are you heading to Silverstone or watching from home?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Formula1"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "richie-sambora-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": false,
-   "title": "Richie Sambora turns 67",
-   "blurb": "Richie Sambora, the legendary guitarist and co-songwriter for Bon Jovi, celebrates his 67th birthday on Friday, July 11th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Richie_Sambora"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bon Jovi Legend",
-     "for": "Nation Rocks",
-     "copy": "Friday is Richie Sambora's 67th birthday! The iconic Bon Jovi guitarist gave us some of rock's greatest riffs. What's your favourite Richie solo?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RichieSambora #BonJovi"
-     ]
-    },
-    {
-     "name": "Rock Star Birthday",
-     "for": "Nation 80s",
-     "copy": "Happy 67th Birthday to Richie Sambora this Friday! Co-writer of so many classic Bon Jovi anthems. Which one gets you reaching for the air guitar?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#80sRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "trnsmt-festival-2026",
-   "off": 9,
-   "type": "gig",
-   "hot": true,
-   "title": "TRNSMT Festival weekend",
-   "blurb": "Glasgow Green hosts Scotland's biggest music festival, TRNSMT, from July 11th to 13th, featuring a packed lineup across multiple stages.",
-   "source": {
-    "l": "TRNSMT Official Site",
-    "u": "https://trnsmtfest.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "TRNSMT Takes Over",
-     "for": "Nation Radio Scotland",
-     "copy": "Glasgow, are you ready?! TRNSMT Festival kicks off this weekend (July 11-13) at Glasgow Green. Who are you buzzing to see live?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TRNSMT"
-     ]
-    },
-    {
-     "name": "Festival Countdown",
-     "for": "Nation Rocks",
-     "copy": "Just days until TRNSMT Festival takes over Glasgow Green! Get ready for a massive weekend of music. Who's on your must-see list for TRNSMT?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#TRNSMT2026"
+      "#JackWhite"
      ]
     }
    ]
