@@ -1,16 +1,69 @@
 {
- "updated": "2026-07-03T20:10:07.509Z",
+ "updated": "2026-07-03T21:53:10.348Z",
  "moments": [
   {
-   "id": "british-gp-final",
-   "off": 2,
+   "id": "wimbledon-finals-approach",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "British Grand Prix Finale",
-   "blurb": "The high-octane British Grand Prix at Silverstone concludes this weekend, with the final race of the Formula 1 event taking place on Sunday, July 5th.",
+   "title": "Wimbledon Heats Up",
+   "blurb": "The third round of Gentlemen's and Ladies' Singles is underway at Wimbledon, with the tournament running until July 12th.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.org/business-events/key-sporting-moments-2026"
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "General Update",
+     "copy": "Third round action at Wimbledon today! Who are you backing to make it through to the next stage?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "London Focus",
+     "for": "Nation Radio London",
+     "copy": "The All England Club is buzzing! Another day of incredible tennis at Wimbledon, right here in London. Who's your pick for the title?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#WimbledonLondon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "british-grand-prix-live",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "F1 British Grand Prix Starts",
+   "blurb": "The Formula 1 Pirelli British Grand Prix kicks off today at Silverstone, with Practice 1 and Sprint Qualifying on the schedule.",
+   "source": {
+    "l": "Formula 1 Official Site",
+    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
    },
    "fits": [
     {
@@ -21,199 +74,89 @@
    "angles": [
     {
      "name": "Race Day Excitement",
-     "copy": "Who are you backing for glory at Silverstone this Sunday? The British Grand Prix is set for a thrilling finale!",
+     "copy": "Lights out and away we go! The British Grand Prix weekend is officially ON at Silverstone. Who's taking pole in Sprint Qualifying today?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
       "#BritishGP"
      ]
     },
     {
-     "name": "Weekend of Speed",
-     "copy": "Engines roaring all weekend! The British Grand Prix wraps up Sunday – catch all the action.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#F1"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wimbledon-continues",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Wimbledon Championships Ongoing",
-   "blurb": "The world-famous Wimbledon Championships continue at the All England Club, with top tennis action running until July 12th.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.org/business-events/key-sporting-moments-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tennis Fever",
-     "copy": "Strawberries and cream are out, the serves are in! Wimbledon is in full swing, who's your pick for the title?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Centre Court Drama",
-     "copy": "More incredible tennis from Wimbledon today. Don't miss a minute of the action as the tournament progresses.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Tennis"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "womens-t20-final",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "ICC Women's T20 World Cup Final",
-   "blurb": "The ICC Women's T20 World Cup culminates with the highly anticipated final match taking place this Sunday, July 5th.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.org/business-events/key-sporting-moments-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "World Cup Decider",
-     "copy": "It all comes down to this! The ICC Women's T20 World Cup Final is on Sunday. Who will lift the trophy?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#T20WorldCup"
-     ]
-    },
-    {
-     "name": "Cricket's Big Day",
-     "copy": "Get ready for a massive Sunday of cricket as the Women's T20 World Cup concludes. Fingers crossed for a UK win!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#Cricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-heatwave",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK Heatwave incoming",
-   "blurb": "High pressure is set to bring very warm and potentially hot conditions across much of the UK, especially Southern and Eastern England, over the next week, with temperatures reaching the low 30s Celsius.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Summer Heat Alert",
-     "copy": "Sun's out, temps are rising! Get ready for a very warm week across the UK, with the mercury hitting the low 30s in some areas. Stay hydrated!",
+     "name": "Weekend Kick-off",
+     "copy": "The roar of F1 engines is back in the UK! Practice and Sprint Qualifying today for the British Grand Prix. What a start to the weekend!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "08:30",
+     "time": "15:00",
      "tags": [
-      "#UKWeather"
-     ]
-    },
-    {
-     "name": "Hot Spell Ahead",
-     "copy": "Dig out the shorts! A hot spell is on the way for much of the UK over the next week. Perfect for some outdoor fun (responsibly, of course).",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Heatwave"
-     ]
-    },
-    {
-     "name": "Devon Sunshine",
-     "copy": "Radio Exe listeners, get ready for some glorious sunshine and rising temperatures over the next few days! Time to hit the beach?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Devon"
+      "#F1Silverstone"
      ]
     }
    ]
   },
   {
-   "id": "sam-fender-olivia-dean-number-1",
+   "id": "world-cup-round-of-32-ends",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "World Cup Round of 32 Finishes",
+   "blurb": "The FIFA World Cup 2026 Round of 32 concludes today with crucial matches, setting the stage for the Round of 16.",
+   "source": {
+    "l": "Olympics.com",
+    "u": "https://olympics.com/en/news/fifa-world-cup-2026-every-match-result-friday-3-july-live-scores"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Today's Deciders",
+     "copy": "It all comes down to today! The final Round of 32 matches at the World Cup. Who's making it through to the last 16?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "England's Next Match",
+     "copy": "With the Round of 32 wrapping up, England fans are looking ahead! The Three Lions face Mexico in the Round of 16 on Sunday. Predictions?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#EnglandFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sam-fender-olivia-dean-no1",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "Sam Fender & Olivia Dean UK #1",
-   "blurb": "Sam Fender and Olivia Dean's collaboration 'Rein Me In' holds the UK Official Singles Chart #1 for a 15th non-consecutive week, making chart history.",
+   "title": "Sam Fender & Olivia Dean Hold UK No. 1",
+   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' holds the top spot on the Official Singles Chart for an impressive 15th nonconsecutive week.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
@@ -226,50 +169,102 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Chart Toppers",
-     "copy": "Still reigning supreme! Sam Fender & Olivia Dean's 'Rein Me In' is #1 for an incredible 15th week. Have you streamed it today?",
+     "name": "Chart Reign",
+     "copy": "Still reigning supreme! Sam Fender and Olivia Dean's 'Rein Me In' is the UK's No. 1 single for a 15th week. Incredible stuff!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "16:00",
+     "time": "11:00",
      "tags": [
       "#UKCharts"
      ]
     },
     {
-     "name": "Making History",
-     "copy": "15 weeks at #1! Sam Fender and Olivia Dean are setting records with 'Rein Me In'. A modern classic in the making?",
+     "name": "Modern Classic",
+     "copy": "'Rein Me In' is fast becoming a modern classic! Huge congratulations to Sam Fender and Olivia Dean on their continued chart dominance.",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "18:00",
+     "time": "16:00",
      "tags": [
-      "#MusicNews"
+      "#SamFender"
      ]
     }
    ]
   },
   {
-   "id": "new-music-friday-july-3",
+   "id": "metallica-london-stadium",
    "off": 0,
-   "type": "culture",
+   "type": "gig",
    "hot": true,
-   "title": "New Music Friday Releases",
-   "blurb": "Today's New Music Friday brings fresh releases, including Deep Purple's new album 'Splat!', Becky Hill's single 'what do i have to do?', and mary in the junkyard's debut album 'Role Model Hermit'.",
+   "title": "Metallica Live in London",
+   "blurb": "Metal legends Metallica play the first of two nights at London Stadium today as part of their M72 World Tour, with different setlists each night.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/news/new-music-friday-madonna-snow-patrol-kylie-minogue-sienna-spiro-and-more-34676/"
+    "l": "Shortlist",
+    "u": "https://www.shortlist.com/news/best-london-gigs-july-2026-403485"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Out London",
+     "copy": "London Stadium is about to get LOUD! Metallica kick off their two-night stand tonight. Who's ready for some heavy metal thunder?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#Metallica"
+     ]
+    },
+    {
+     "name": "No Repeat Weekend",
+     "copy": "Two nights, two different setlists! Metallica bring their epic 'No Repeat Weekend' to London Stadium. Which songs are you hoping to hear?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#M72WorldTour"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "harry-styles-wembley",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Harry Styles Continues Wembley Residency",
+   "blurb": "Harry Styles performs at Wembley Stadium tonight, continuing his 'Together, Together' residency in London.",
+   "source": {
+    "l": "Time Out",
+    "u": "https://www.timeout.com/london/music/best-london-concerts-and-gigs-in-july"
    },
    "fits": [
     {
@@ -277,53 +272,52 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Fresh Tracks",
-     "copy": "New Music Friday is here! What's first on your playlist? We're diving into Deep Purple, Becky Hill, and mary in the junkyard.",
+     "name": "Wembley Wonderland",
+     "copy": "Another night, another incredible show from Harry Styles at Wembley! Who's heading there tonight to catch the 'Together, Together' magic?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "tiktok",
+      "threads"
      ],
-     "time": "09:30",
+     "time": "18:00",
      "tags": [
-      "#NewMusicFriday"
+      "#HarryStyles"
      ]
     },
     {
-     "name": "Album Drops",
-     "copy": "Deep Purple just dropped 'Splat!' and mary in the junkyard released their debut 'Role Model Hermit'. Get listening!",
+     "name": "London Loves Harry",
+     "copy": "The Harry Styles takeover of Wembley continues! What's your favourite moment from his 'Together, Together' residency so far?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "threads"
      ],
-     "time": "14:30",
+     "time": "20:00",
      "tags": [
-      "#AlbumRelease"
+      "#LoveOnTour"
      ]
     }
    ]
   },
   {
-   "id": "shane-lynch-50th",
+   "id": "boyzone-shane-lynch-bday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Shane Lynch turns 50",
-   "blurb": "Shane Lynch, a key member of the iconic 90s Irish boyband Boyzone, celebrates his 50th birthday today.",
+   "title": "Shane Lynch Turns 50",
+   "blurb": "Boyzone's Shane Lynch celebrates his 50th birthday today!",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/shane-lynch.html"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/3"
    },
    "fits": [
     {
@@ -332,48 +326,47 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Boyzone at 50",
-     "copy": "Happy 50th birthday to Boyzone's Shane Lynch! What's your favourite Boyzone track to celebrate?",
+     "name": "Boyzone Birthday",
+     "copy": "Happy 50th Birthday to Boyzone legend Shane Lynch! What's your favourite Boyzone track to celebrate with today?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
-      "#Boyzone"
+      "#ShaneLynch"
      ]
     },
     {
-     "name": "90s Pop Icon",
-     "copy": "Celebrating Shane Lynch turning 50 today! He brought us so many hits with Boyzone. Rewind to the 90s with us!",
+     "name": "Pop Icon",
+     "copy": "Wishing a very happy 50th birthday to Shane Lynch! From Boyzone heartthrob to racing driver, what an incredible career!",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "threads"
      ],
-     "time": "17:00",
+     "time": "13:00",
      "tags": [
-      "#90sMusic"
+      "#Boyzone"
      ]
     }
    ]
   },
   {
-   "id": "vince-clarke-66th",
+   "id": "vince-clarke-bday",
    "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Vince Clarke's 66th Birthday",
-   "blurb": "Synth-pop pioneer Vince Clarke, known for his foundational work with Depeche Mode, Yazoo, and Erasure, turns 66 today.",
+   "blurb": "Synth-pop pioneer Vince Clarke, known for his work with Depeche Mode, Yazoo, and Erasure, turns 66 today.",
    "source": {
     "l": "Songfacts",
     "u": "https://www.songfacts.com/birthdays/july/3"
@@ -395,149 +388,54 @@
    "angles": [
     {
      "name": "Synth Legend",
-     "copy": "Wishing a very happy 66th birthday to the incredible Vince Clarke! From Depeche Mode to Erasure, his influence is undeniable.",
+     "copy": "Happy 66th Birthday to the incredible Vince Clarke! A true synth-pop legend from Depeche Mode to Erasure. What's your favourite track he's produced?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "11:30",
+     "time": "10:30",
      "tags": [
       "#VinceClarke"
      ]
     },
     {
-     "name": "80s Icon",
-     "copy": "Celebrate Vince Clarke's 66th today by cranking up some Yazoo or Erasure! What's your favourite track he's produced?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ringo-starr-86th",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Ringo Starr turns 86",
-   "blurb": "Legendary Beatles drummer Ringo Starr will celebrate his 86th birthday on July 7th, continuing his annual 'Peace & Love' tradition.",
-   "source": {
-    "l": "Everett Post",
-    "u": "https://everettpost.com/2026/07/02/ringo-starr-announces-annual-peace-love-birthday-celebration/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Peace & Love for Ringo",
-     "copy": "Get ready to spread some Peace & Love! Ringo Starr turns 86 on July 7th. What's your favourite Beatles track featuring Ringo?",
+     "name": "Erasure Icon",
+     "copy": "Celebrating Vince Clarke's 66th birthday today! The man behind some of the most iconic electronic hits. Time to crank up some Erasure!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RingoStarr"
-     ]
-    },
-    {
-     "name": "Beatles Legend",
-     "copy": "The one and only Ringo Starr celebrates his 86th birthday next week. An absolute icon of music history!",
-     "channels": [
       "x",
-      "facebook"
+      "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#TheBeatles"
+      "#Erasure"
      ]
     }
    ]
   },
   {
-   "id": "suzanne-vega-67th",
-   "off": 8,
-   "type": "birthday",
-   "hot": false,
-   "title": "Suzanne Vega's 67th Birthday",
-   "blurb": "American singer-songwriter Suzanne Vega, known for her distinctive folk-inspired sound and hits like 'Luka' and 'Tom's Diner,' celebrates her 67th birthday on July 11th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Suzanne_Vega"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Folk Icon",
-     "copy": "Wishing a happy 67th birthday to the brilliant Suzanne Vega on July 11th! 'Luka' or 'Tom's Diner' – which is your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#SuzanneVega"
-     ]
-    },
-    {
-     "name": "Distinctive Sound",
-     "copy": "Suzanne Vega's unique voice has graced our airwaves for decades. Celebrate her 67th birthday next week with her timeless tracks.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#SingerSongwriter"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "goodwood-festival-of-speed",
-   "off": 6,
-   "type": "sport",
+   "id": "the-light-in-the-hall-finale",
+   "off": 0,
+   "type": "tv",
    "hot": true,
-   "title": "Goodwood Festival of Speed",
-   "blurb": "The Goodwood Festival of Speed, a world-renowned celebration of motorsport and car culture, takes place from July 9th to 12th.",
+   "title": "Welsh Drama 'The Light in the Hall' Finale",
+   "blurb": "The second season of the gripping Welsh drama 'The Light in the Hall: Still Waters' concludes tonight on Channel 4.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.org/business-events/key-sporting-moments-2026"
+    "l": "The Guardian",
+    "u": "https://www.theguardian.com/tv-and-radio/2026/jul/01/tv-tonight-the-season-finale-of-a-gloomily-gripping-welsh-drama"
    },
    "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
     {
      "g": "nation-network",
      "sub": ""
@@ -545,156 +443,46 @@
    ],
    "angles": [
     {
-     "name": "Petrolhead Paradise",
-     "copy": "Start your engines! Goodwood Festival of Speed kicks off next week – a must for any car enthusiast.",
+     "name": "Welsh TV Must-Watch",
+     "copy": "Tonight's the night! The tense finale of the Welsh drama 'The Light in the Hall: Still Waters' airs on Channel 4. Have you been following the mystery?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "19:00",
      "tags": [
-      "#FoS"
+      "#TheLightInTheHall"
      ]
     },
     {
-     "name": "Speed Thrills",
-     "copy": "From classic cars to future tech, Goodwood Festival of Speed has it all. Get ready for some serious speed from July 9-12!",
+     "name": "Local Drama Buzz",
+     "for": "Bridge FM",
+     "copy": "The gripping Welsh drama 'The Light in the Hall' wraps up its second season tonight! Perfect for a Friday night in. What are your predictions?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "threads"
      ],
-     "time": "16:00",
+     "time": "20:30",
      "tags": [
-      "#Goodwood"
+      "#WelshDrama"
      ]
     }
    ]
   },
   {
-   "id": "lytham-festival-finale",
-   "off": 2,
-   "type": "gig",
+   "id": "pride-in-london",
+   "off": 1,
+   "type": "seasonal",
    "hot": true,
-   "title": "Lytham Festival Final Weekend",
-   "blurb": "Lytham Festival, five days of live music on the Lancashire coast, draws to a close this weekend with its final performances on Sunday, July 5th.",
+   "title": "Pride in London Tomorrow",
+   "blurb": "London will celebrate its LGBTQ+ communities with the annual Pride in London parade and festivities taking place tomorrow, Saturday July 4th.",
    "source": {
-    "l": "Skiddle",
-    "u": "https://www.skiddle.com/festivals/july-festivals/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Farewell",
-     "copy": "It's the last chance to catch Lytham Festival this weekend! Who's heading to the Lancashire coast for the final acts?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#LythamFestival"
-     ]
-    },
-    {
-     "name": "Weekend Vibes",
-     "copy": "Closing out a fantastic week of music! Lytham Festival wraps up Sunday – what's been your highlight?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#LiveMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mostly-jazz-funk-soul-birmingham",
-   "off": 7,
-   "type": "gig",
-   "hot": false,
-   "title": "Mostly Jazz Funk & Soul Festival",
-   "blurb": "Birmingham's Mostly Jazz Funk & Soul Festival brings a diverse lineup of groundbreaking UK and international acts to Moseley Park from July 10th to 12th.",
-   "source": {
-    "l": "Mostly Jazz Funk & Soul Festival",
-    "u": "https://mostlyjazz.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Birmingham"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birmingham Beats",
-     "copy": "Get ready, Birmingham! The Mostly Jazz Funk & Soul Festival hits Moseley Park next weekend. Who are you excited to see?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BrumEvents"
-     ]
-    },
-    {
-     "name": "Funk & Soul Weekend",
-     "copy": "Bringing the best of jazz, funk, and soul to Birmingham from July 10-12. Grab your tickets for a weekend of incredible music!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#JazzFunkSoul"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kaleidoscope-festival-london",
-   "off": 8,
-   "type": "gig",
-   "hot": false,
-   "title": "Kaleidoscope Festival London",
-   "blurb": "The Kaleidoscope Festival returns to Alexandra Palace in London on July 11th, promising a day of music, comedy, and arts with a stunning view over the city.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/july-festivals"
+    "l": "Time Out London",
+    "u": "https://www.timeout.com/london/things-to-do/pride-in-london"
    },
    "fits": [
     {
@@ -702,38 +490,302 @@
      "sub": "Nation Radio London"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Ally Pally Festival",
-     "copy": "Londoners, mark your calendars! Kaleidoscope Festival is back at Alexandra Palace on July 11th. Music, comedy, and views for days!",
+     "name": "Get Ready for Pride",
+     "copy": "London is getting ready to celebrate! Pride in London takes over the capital tomorrow. Are you joining the celebrations?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "16:00",
      "tags": [
-      "#LondonEvents"
+      "#PrideInLondon"
      ]
     },
     {
-     "name": "Summer Festival Fun",
-     "copy": "One day, endless entertainment! Kaleidoscope Festival at Ally Pally is shaping up to be a summer highlight. Who's in?",
+     "name": "Celebrate Diversity",
+     "copy": "Tomorrow, London shines bright for Pride! A day of celebration, unity, and visibility for the LGBTQ+ community. Let's make some noise!",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Pride2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bts-london-gig",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "BTS Tottenham Hotspur Stadium",
+   "blurb": "Global superstars BTS are set to perform at Tottenham Hotspur Stadium on Monday, July 6th, promising an immersive show for ARMY.",
+   "source": {
+    "l": "Time Out",
+    "u": "https://www.timeout.com/london/music/best-london-concerts-and-gigs-in-july"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "ARMY Assemble!",
+     "copy": "Get ready, ARMY! BTS are bringing their incredible show to Tottenham Hotspur Stadium on Monday. Who's got tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BTSLondon"
+     ]
+    },
+    {
+     "name": "Global Phenomenon",
+     "copy": "BTS is coming to London! Tottenham Hotspur Stadium will be electric on Monday for one of the biggest pop phenomena on Earth.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#BTS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ashton-irwin-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Ashton Irwin Turns 32",
+   "blurb": "Ashton Irwin, drummer for 5 Seconds of Summer, celebrates his 32nd birthday on Tuesday, July 7th.",
+   "source": {
+    "l": "idobi",
+    "u": "https://idobi.com/features/12-alternative-musicians-celebrating-their-birthdays-in-july/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "5SOS Birthday",
+     "copy": "Wishing a very Happy 32nd Birthday to 5 Seconds of Summer's Ashton Irwin on Tuesday! What's your favourite 5SOS anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#AshtonIrwin"
+     ]
+    },
+    {
+     "name": "Drummer Boy",
+     "copy": "Get ready to celebrate! Ashton Irwin from 5 Seconds of Summer turns 32 on July 7th. Send him your birthday wishes!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#5SOS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "courtney-love-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Courtney Love Turns 62",
+   "blurb": "Singer-songwriter and Hole frontwoman Courtney Love celebrates her 62nd birthday on Thursday, July 9th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/july/9.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Icon",
+     "copy": "Happy 62nd Birthday to the iconic Courtney Love on Thursday! What's your go-to Hole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#CourtneyLove"
+     ]
+    },
+    {
+     "name": "Grunge Queen",
+     "copy": "Celebrating the one and only Courtney Love, who turns 62 on July 9th! A true force in rock music.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Hole"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jack-white-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jack White Turns 51",
+   "blurb": "The White Stripes, The Raconteurs, and The Dead Weather frontman Jack White celebrates his 51st birthday on Thursday, July 9th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/july/9.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Architect",
+     "copy": "Happy 51st Birthday to the incredible Jack White on Thursday! From The White Stripes to his solo work, a true guitar hero. What's your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#JackWhite"
+     ]
+    },
+    {
+     "name": "White Stripes Legacy",
+     "copy": "Celebrating the prolific Jack White's 51st birthday this Thursday! What's your favourite era of his illustrious career?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#KaleidoscopeFestival"
+      "#TheWhiteStripes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mostly-jazz-funk-soul",
+   "off": 7,
+   "type": "gig",
+   "hot": true,
+   "title": "Mostly Jazz Funk & Soul Festival",
+   "blurb": "The Mostly Jazz Funk & Soul Festival takes place in Moseley Park, Birmingham from July 10th-12th, featuring innovative UK and international acts.",
+   "source": {
+    "l": "Mostly Jazz Funk & Soul Festival Official Site",
+    "u": "https://mostlyjazz.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Birmingham"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birmingham Groove",
+     "copy": "Get ready Birmingham! The Mostly Jazz Funk & Soul Festival kicks off this weekend in Moseley Park. Who are you excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#MostlyJazzFunkSoul"
+     ]
+    },
+    {
+     "name": "Festival Vibes",
+     "copy": "Bringing the best in jazz, funk, and soul to Birmingham! The festival runs from July 10th-12th. Perfect summer vibes!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#BirminghamFestivals"
      ]
     }
    ]
