@@ -1,68 +1,137 @@
 {
- "updated": "2026-07-03T01:27:05.689Z",
+ "updated": "2026-07-03T05:39:40.231Z",
  "moments": [
   {
-   "id": "britishgp",
-   "off": 2,
+   "id": "wimbledon-finals-week",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "British Grand Prix",
-   "blurb": "The British Grand Prix takes place at Silverstone, round 12 of the 2026 F1 season",
+   "title": "Wimbledon Finals Week",
+   "blurb": "The 2026 Wimbledon Championships are in their second week, with quarter-finals, semi-finals, and the highly anticipated Men's and Women's Singles Finals approaching by July 12.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "GP Preview",
+     "name": "Centre Court Buzz",
      "for": "",
-     "copy": "Get ready for the British Grand Prix at Silverstone",
+     "copy": "It's finals week at Wimbledon! Who are you backing to lift the trophies? Every serve, volley, and roar from Centre Court is making history.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "08:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "British Hopes",
+     "for": "nation-network",
+     "copy": "As Wimbledon heats up, are there any British contenders left to cheer on? The grass court drama is reaching its peak!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Wimbledon2026"
+     ]
+    },
+    {
+     "name": "Strawberries & Cream",
+     "for": "",
+     "copy": "Beyond the tennis, it's all about the iconic Wimbledon experience. Strawberries and cream, Pimm's, and pure sporting theatre. What's your favourite part?",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#WimbledonVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "british-grand-prix-silverstone",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "British Grand Prix at Silverstone",
+   "blurb": "The Formula 1 British Grand Prix is underway this weekend at Silverstone, with practice, sprint qualifying, the sprint race, qualifying, and the main race all happening between July 3-5.",
+   "source": {
+    "l": "Formula 1 Official Site",
+    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Race Weekend Kicks Off",
+     "for": "",
+     "copy": "Lights out and away we go! The British Grand Prix weekend is officially ON at Silverstone. Who's taking pole in sprint qualifying today?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BritishGP"
+     ]
+    },
+    {
+     "name": "Home Soil Advantage",
+     "for": "",
+     "copy": "British drivers on home turf! Expect electric atmosphere and high-speed drama at Silverstone. Who are you backing for the win?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
      "tags": [
       "#F1"
      ]
     },
     {
-     "name": "Racing History",
-     "for": "",
-     "copy": "The British Grand Prix has a rich history, with legendary drivers and iconic moments",
+     "name": "Silverstone Buzz",
+     "for": "nation-network",
+     "copy": "The roar of the engines, the smell of burnt rubber – Silverstone is alive! Are you trackside or watching from home this weekend?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
-     "tags": [
-      "#Motorsport"
-     ]
-    },
-    {
-     "name": "Silverstone Circuit",
-     "for": "",
-     "copy": "The British Grand Prix is held at the iconic Silverstone circuit, a favourite among drivers and fans",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
+     "time": "18:00",
      "tags": [
       "#Silverstone"
      ]
@@ -70,95 +139,75 @@
    ]
   },
   {
-   "id": "theopen",
-   "off": 13,
+   "id": "tour-de-france-starts",
+   "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship",
-   "blurb": "The 154th Open Championship is held at Royal Birkdale, 16–19 July 2026",
+   "title": "Tour de France Kicks Off",
+   "blurb": "The 113th edition of the Tour de France begins tomorrow, July 4th, in Barcelona, Spain, embarking on a three-week journey of intense cycling action.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Tour de France Official Site",
+    "u": "https://www.letour.fr/en/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Golf Preview",
+     "name": "Grand Départ",
      "for": "",
-     "copy": "The Open Championship is one of the most prestigious golf tournaments in the world",
+     "copy": "The greatest show on two wheels starts tomorrow! The Tour de France 2026 begins in Barcelona. Get ready for three weeks of epic climbs and thrilling sprints.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
-      "#Golf"
+      "#TDF2026"
      ]
     },
     {
-     "name": "Royal Birkdale",
+     "name": "Who's Your Pick?",
      "for": "",
-     "copy": "The Open Championship is held at the iconic Royal Birkdale course, a challenge for even the best golfers",
+     "copy": "The yellow jersey battle is about to begin! Who do you think will dominate the mountains and time trials to win the Tour de France this year?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#RoyalBirkdale"
-     ]
-    },
-    {
-     "name": "Golfing Greats",
-     "for": "",
-     "copy": "The Open Championship has seen some of the greatest golfers in history compete for the title",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "16:00",
      "tags": [
-      "#GolfLegends"
+      "#Cycling"
      ]
     }
    ]
   },
   {
-   "id": "glasgowcommonwealth",
-   "off": 20,
+   "id": "fifa-world-cup-knockouts",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Glasgow Commonwealth Games",
-   "blurb": "The Commonwealth Games come to Glasgow, 23 July–2 August 2026, a home Games for Scotland",
+   "title": "FIFA World Cup Knockout Stages",
+   "blurb": "The 2026 FIFA World Cup is in full swing, with teams battling it out in the high-stakes knockout stages as the tournament progresses towards its final on July 19.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "FIFA Official Site",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Games Preview",
+     "name": "World Cup Fever",
      "for": "",
-     "copy": "Get ready for the Glasgow Commonwealth Games, a celebration of sport and culture",
+     "copy": "World Cup knockout football is something else! Every game is do-or-die. Who's impressed you most so far?",
      "channels": [
       "instagram",
       "facebook",
@@ -166,135 +215,709 @@
       "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "11:00",
      "tags": [
-      "#CommonwealthGames"
+      "#WorldCup2026"
      ]
     },
     {
-     "name": "Scottish Pride",
+     "name": "Penalty Shootout Drama",
      "for": "",
-     "copy": "The Glasgow Commonwealth Games is a chance for Scotland to shine on the world stage",
+     "copy": "Are you ready for the tension of potential extra time and penalty shootouts? The World Cup knockouts are delivering pure drama!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "19:00",
      "tags": [
-      "#Scotland"
-     ]
-    },
-    {
-     "name": "Athlete Profiles",
-     "for": "",
-     "copy": "Meet the athletes competing in the Glasgow Commonwealth Games, each with their own unique story",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#CommonwealthGamesAthletes"
+      "#Football"
      ]
     }
    ]
   },
   {
-   "id": "royalwelshshow",
-   "off": 17,
-   "type": "culture",
+   "id": "metallica-london",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "Royal Welsh Show",
-   "blurb": "The Royal Welsh Show runs 20–23 July 2026 at Llanelwedd, Builth Wells, the biggest agricultural show in Europe",
+   "title": "Metallica Live in London",
+   "blurb": "Metal legends Metallica are playing two 'No Repeat Weekend' shows at London Stadium on July 3rd and 5th as part of their M72 World Tour.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "London Stadium",
+    "u": "https://www.london-stadium.com/events/2026/metallica"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal Mayhem",
+     "for": "Nation Rocks",
+     "copy": "Metallica are hitting London Stadium tonight and Sunday with their 'No Repeat Weekend'! Two nights, two totally different setlists. Who's ready to headbang?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Metallica"
+     ]
+    },
+    {
+     "name": "London Rocks",
+     "for": "Nation Radio London",
+     "copy": "The kings of metal, Metallica, are in London! If you're heading to the London Stadium, prepare for an epic night of classics and new tracks.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#LondonGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "westival-wales",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Westival in Tenby",
+   "blurb": "The Westival music festival is taking place in Tenby, Wales, from July 2nd to 5th, offering a diverse lineup in a beautiful rural setting.",
+   "source": {
+    "l": "Westival Official Site",
+    "u": "https://westival.org/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tenby Festival Vibes",
+     "for": "welsh-local",
+     "copy": "Westival is in full swing near Tenby! If you're looking for a weekend of great music and good vibes in West Wales, it's happening now!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Westival"
+     ]
+    },
+    {
+     "name": "Welsh Festival Fun",
+     "for": "dragon",
+     "copy": "Heading to Westival this weekend? Sun, music, and stunning Welsh scenery – sounds like the perfect start to July!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#WalesMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardiff-castle-gigs-bfs-ft",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Bowling For Soup & Frank Turner in Cardiff",
+   "blurb": "Bowling For Soup and Frank Turner & The Sleeping Souls play Cardiff Castle tomorrow, Saturday July 4th.",
+   "source": {
+    "l": "Cardiff Castle Official Site",
+    "u": "https://cardiffcastle.com/events/"
    },
    "fits": [
     {
      "g": "welsh-local",
      "sub": "Bridge FM"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Show Preview",
-     "for": "",
-     "copy": "The Royal Welsh Show is a celebration of agriculture, food, and rural life",
+     "name": "Cardiff Castle Rock",
+     "for": "Bridge FM",
+     "copy": "Get ready, Cardiff! Bowling For Soup AND Frank Turner & The Sleeping Souls are at Cardiff Castle tomorrow. Who's got their tickets?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#RoyalWelshShow"
-     ]
-    },
-    {
-     "name": "Agricultural Heritage",
-     "for": "",
-     "copy": "The Royal Welsh Show is a showcase for Wales' rich agricultural heritage",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Wales"
-     ]
-    },
-    {
-     "name": "Rural Community",
-     "for": "",
-     "copy": "The Royal Welsh Show is a chance for the rural community to come together and celebrate their way of life",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "16:00",
      "tags": [
-      "#RuralLife"
+      "#CardiffGigs"
+     ]
+    },
+    {
+     "name": "Pop-Punk & Folk-Punk",
+     "for": "Nation Rocks",
+     "copy": "A double dose of awesome rock at Cardiff Castle tomorrow! Bowling For Soup and Frank Turner. Get ready for singalongs!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BowlingForSoup"
      ]
     }
    ]
   },
   {
-   "id": "summer",
-   "off": 0,
-   "type": "seasonal",
+   "id": "monmouth-medieval-festival",
+   "off": 1,
+   "type": "culture",
    "hot": true,
-   "title": "Summer Solstice",
-   "blurb": "The summer solstice has passed, but the warm weather is here to stay",
+   "title": "Monmouth Medieval Festival",
+   "blurb": "The Monmouth Medieval Festival takes place this weekend, July 4-5, across multiple sites in Monmouth, offering historical reenactments and activities.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Visit Monmouth",
+    "u": "https://www.visitmonmouthshire.com/events/monmouth-medieval-festival-2026"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio"
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Summer Vibes",
+     "name": "Step Back in Time",
+     "for": "welsh-local",
+     "copy": "Hear ye, hear ye! The Monmouth Medieval Festival is on this weekend! Immerse yourself in history with reenactments, crafts, and more.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Monmouth"
+     ]
+    },
+    {
+     "name": "Family Fun in Monmouth",
+     "for": "dragon",
+     "copy": "Looking for something different this weekend? The Monmouth Medieval Festival promises thrilling displays and family-friendly activities, July 4-5.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#MedievalFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pride-caerffili",
+   "off": 1,
+   "type": "culture",
+   "hot": true,
+   "title": "Pride Caerffili",
+   "blurb": "Pride Caerffili is happening tomorrow, July 4th, with a day-long celebration including live entertainment and a Pride Parade.",
+   "source": {
+    "l": "Caerphilly County Borough Council",
+    "u": "https://www.caerphilly.gov.uk/Things-to-do/Events/Pride-Caerffili-2026"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Celebrating Pride",
+     "for": "Bridge FM",
+     "copy": "Pride Caerffili is tomorrow! Join the celebrations with a parade and live entertainment. Let's make it a fantastic day!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PrideCaerffili"
+     ]
+    },
+    {
+     "name": "Caerffili Love",
+     "for": "dragon",
+     "copy": "Get ready for a vibrant day of celebration at Pride Caerffili tomorrow, July 4th! Everyone welcome for a family-friendly event.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Caerffili"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "huey-lewis-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Huey Lewis's Birthday",
+   "blurb": "American singer-songwriter Huey Lewis, frontman of Huey Lewis and the News, turns 76 on July 5th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Huey_Lewis"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Power of Love",
+     "for": "Nation 80s",
+     "copy": "He's still got the power of love! Huey Lewis turns 76 on Sunday. What's your favourite Huey Lewis and the News track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#HueyLewis"
+     ]
+    },
+    {
+     "name": "Legendary Voice",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing a very happy 76th birthday to the legendary Huey Lewis this Sunday! His voice defined an era.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wolf-alice-london",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Wolf Alice at Finsbury Park",
+   "blurb": "Wolf Alice headline their biggest show to date at London's Finsbury Park on Sunday, July 5th, with special guests including The Last Dinner Party.",
+   "source": {
+    "l": "Time Out London",
+    "u": "https://www.timeout.com/london/music/london-concerts-and-gigs-in-july"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Indie Rock Takeover",
+     "for": "Nation Rocks",
+     "copy": "Wolf Alice are set to tear up Finsbury Park this Sunday for their biggest headline show yet! Who's joining them for an epic day?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#WolfAlice"
+     ]
+    },
+    {
+     "name": "London's Big Gig",
+     "for": "Nation Radio London",
+     "copy": "Finsbury Park is calling! Wolf Alice are headlining a massive outdoor show this Sunday. Get ready for some incredible live music.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#FinsburyPark"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ringo-starr-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Ringo Starr's Birthday",
+   "blurb": "The legendary drummer of The Beatles, Ringo Starr, celebrates his 86th birthday on July 7th.",
+   "source": {
+    "l": "Ringo Starr Official Site",
+    "u": "https://www.ringostarr.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Peace & Love",
+     "for": "Nation 60s",
+     "copy": "Peace and love! The one and only Ringo Starr turns 86 on Tuesday. What's your favourite Ringo moment, solo or with The Beatles?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#RingoStarr"
+     ]
+    },
+    {
+     "name": "Beatles Legend",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 86th birthday to the iconic Ringo Starr this Tuesday! A true legend of music history.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#TheBeatles"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "henley-festival",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Henley Festival Begins",
+   "blurb": "The Henley Festival, known for its eclectic mix of music, arts, and comedy, runs from July 8th to 12th, featuring acts like Boy George & Culture Club, Sugababes, and Ezra Collective.",
+   "source": {
+    "l": "Henley Festival Official Site",
+    "u": "https://henley-festival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival by the River",
+     "for": "Nation Radio London",
+     "copy": "Henley Festival kicks off next Wednesday! Five days of world-class music, comedy, and dining. Who are you excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#HenleyFestival"
+     ]
+    },
+    {
+     "name": "Star-Studded Lineup",
+     "for": "Nation 80s",
+     "copy": "Boy George & Culture Club, Sugababes, Lulu – the Henley Festival lineup is looking incredible! Starts July 8th.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#CultureClub"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "courtney-love-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Courtney Love's Birthday",
+   "blurb": "American singer, songwriter, and actress Courtney Love, known for her work with Hole, turns 62 on July 9th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Courtney_Love"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Grunge Icon",
+     "for": "Nation 90s",
+     "copy": "Happy 62nd birthday to the iconic Courtney Love this Thursday! What's your favourite Hole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#CourtneyLove"
+     ]
+    },
+    {
+     "name": "Rock Royalty",
+     "for": "Nation Rocks",
+     "copy": "Celebrating the fierce and unforgettable Courtney Love, who turns 62 on Thursday. A true rock force!",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Hole"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jessica-simpson-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jessica Simpson's Birthday",
+   "blurb": "American singer, actress, and businesswoman Jessica Simpson celebrates her 46th birthday on July 10th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jessica_Simpson"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess",
+     "for": "Nation 00s",
+     "copy": "Remember 'I Wanna Love You Forever'? Happy 46th birthday to the incredible Jessica Simpson this Friday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JessicaSimpson"
+     ]
+    },
+    {
+     "name": "Happy Birthday Jess",
+     "for": "Nation Hits",
+     "copy": "From pop hits to fashion empire, Jessica Simpson turns 46 on Friday! Send her some birthday love!",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "suzanne-vega-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Suzanne Vega's Birthday",
+   "blurb": "American singer-songwriter Suzanne Vega, known for hits like 'Luka' and 'Tom's Diner', turns 67 on July 11th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Suzanne_Vega"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Folk Icon",
+     "for": "Nation 80s",
+     "copy": "Happy 67th birthday to the distinctive voice of Suzanne Vega this Saturday! 'Luka' or 'Tom's Diner' – which is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#SuzanneVega"
+     ]
+    },
+    {
+     "name": "A Distinctive Sound",
+     "for": "Nation Classic Hits",
+     "copy": "Celebrating the birthday of the wonderfully unique Suzanne Vega, who turns 67 on Saturday. Her songs are timeless.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FolkMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-forecast",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Heatwave Forecast",
+   "blurb": "Heatwave conditions are forecast for parts of the UK, particularly the southeast, with temperatures expected to reach the low 30s Celsius by early next week.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Sun's Out",
      "for": "",
-     "copy": "Make the most of the warm weather with our summer playlist",
+     "copy": "Get ready for some serious sunshine! A heatwave is on the way for parts of the UK, with temperatures climbing towards the low 30s next week. Stay cool!",
      "channels": [
       "instagram",
       "facebook",
@@ -304,43 +927,73 @@
      ],
      "time": "08:00",
      "tags": [
-      "#Summer"
+      "#UKHeatwave"
      ]
     },
     {
-     "name": "Outdoor Activities",
+     "name": "Warm Weather Ahead",
      "for": "",
-     "copy": "Get outside and enjoy the sunshine with our top picks for outdoor activities",
+     "copy": "It's going to be a hot one! Remember to stay hydrated and look out for vulnerable friends and neighbours as the temperatures rise.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "12:00",
      "tags": [
-      "#OutdoorFun"
+      "#SummerVibes"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "the-open-championship-practice",
+   "off": 9,
+   "type": "sport",
+   "hot": false,
+   "title": "The Open Championship Practice Days",
+   "blurb": "The 154th Open Championship at Royal Birkdale begins its practice days on Sunday, July 12th, ahead of the main tournament play from July 16-19.",
+   "source": {
+    "l": "The Open Official Site",
+    "u": "https://www.theopen.com/"
+   },
+   "fits": [
     {
-     "name": "Summer Recipes",
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Golf's Greatest Returns",
      "for": "",
-     "copy": "Cool down with our refreshing summer recipes, perfect for hot days",
+     "copy": "The Claret Jug is almost back! Practice days for The Open Championship at Royal Birkdale start this Sunday. Who's your early favourite?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "16:00",
+     "time": "10:00",
      "tags": [
-      "#SummerFood"
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Royal Birkdale Beckons",
+     "for": "",
+     "copy": "The world's best golfers descend on Royal Birkdale for The Open practice days starting Sunday. Get ready for some links golf magic!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Golf"
      ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
