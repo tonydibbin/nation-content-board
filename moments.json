@@ -1,51 +1,92 @@
 {
- "updated": "2026-07-03T23:53:37.598Z",
+ "updated": "2026-07-04T01:26:42.985Z",
  "moments": [
   {
-   "id": "british-grand-prix-2026",
-   "off": 0,
+   "id": "wimbledon-finals-approaching",
+   "off": 8,
    "type": "sport",
    "hot": true,
-   "title": "British Grand Prix at Silverstone",
-   "blurb": "The Formula 1 Pirelli British Grand Prix 2026 is underway at Silverstone Circuit from July 3rd to 5th, with practice and sprint qualifying today, leading to the main race on Sunday.",
+   "title": "Wimbledon Finals Weekend",
+   "blurb": "The Wimbledon Championships, running from June 29 to July 12, are heading into their thrilling final weekend, with the Gentlemen's and Ladies' Singles Finals scheduled for July 11-12.",
    "source": {
-    "l": "Formula 1 Official Site",
-    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
+    "l": "Wimbledon Official",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Race Day Excitement",
-     "copy": "Silverstone is buzzing! The British Grand Prix is officially GO this weekend. Who are you backing for pole position and the win?",
+     "name": "Anticipation",
+     "copy": "Who's making history on the grass? Wimbledon's final weekend is almost here, get ready for some epic tennis! #Wimbledon",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "Weekend Plans",
+     "copy": "Strawberries & cream at the ready? The biggest matches at Wimbledon are just days away. Who are you rooting for in the finals?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Tennis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f1-british-grand-prix",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "F1 British Grand Prix",
+   "blurb": "The Formula 1 Pirelli British Grand Prix is taking place this weekend at Silverstone, with the main race scheduled for Sunday, July 5th.",
+   "source": {
+    "l": "Formula 1 Official",
+    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Race Day Excitement",
+     "copy": "Engines revving! The British Grand Prix is ON this weekend at Silverstone. Who's taking the chequered flag on Sunday?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "09:30",
      "tags": [
       "#BritishGP"
      ]
     },
     {
-     "name": "Weekend Plans",
-     "copy": "Rev your engines! The British Grand Prix is happening right now at Silverstone. Catch all the action live, or are you heading to the circuit?",
+     "name": "Local Buzz",
+     "for": "Nation Radio London",
+     "copy": "The roar of F1 is filling the air at Silverstone! It's Grand Prix weekend, and the UK is ready for some high-speed drama.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "12:00",
      "tags": [
       "#F1"
      ]
@@ -53,319 +94,62 @@
    ]
   },
   {
-   "id": "wimbledon-championships-2026",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Wimbledon Championships in Full Swing",
-   "blurb": "The 2026 Wimbledon Championships are well underway at the All England Club, running from June 29th to July 12th, with third-round matches taking place today and tomorrow.",
-   "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/index.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tennis Fever",
-     "copy": "It's Week 1 of Wimbledon and the tension is building on the grass courts! Who are your picks to make it to the finals?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Strawberries & Cream",
-     "copy": "Anyone else got Wimbledon fever? Matches are heating up at the All England Club – time for some strawberries and cream!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Wimbledon2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "elle-king-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Elle King",
-   "blurb": "American singer-songwriter Elle King, known for hits like 'Ex's & Oh's', turns 37 today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/elle-king.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Elle King's Big Day",
-     "copy": "Happy 37th Birthday to the incredible Elle King! What's your favourite track from her?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#ElleKing"
-     ]
-    },
-    {
-     "name": "Celebrating Elle",
-     "copy": "Raise a glass to Elle King, celebrating her 37th birthday today! From rock to country, she does it all.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Birthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "vince-clarke-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Vince Clarke",
-   "blurb": "Synth-pop pioneer Vince Clarke, co-founder of Erasure, Depeche Mode, and Yazoo, celebrates his 66th birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/vince-clarke.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Synth Legend's Birthday",
-     "copy": "Wishing a very Happy 66th Birthday to synth-pop icon Vince Clarke! Erasure, Depeche Mode, Yazoo – what's your favourite project?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#VinceClarke"
-     ]
-    },
-    {
-     "name": "80s Icon",
-     "copy": "Happy Birthday to the man behind so many 80s and 90s classics, Vince Clarke, turning 66 today!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Erasure"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shane-lynch-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Shane Lynch",
-   "blurb": "Boyzone member Shane Lynch celebrates his 50th birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/shane-lynch.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Boyzone's Shane at 50",
-     "copy": "Happy 50th Birthday to Boyzone's very own Shane Lynch! Still got your Boyzone posters up?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ShaneLynch"
-     ]
-    },
-    {
-     "name": "Celebrating Shane",
-     "copy": "Fifty and fabulous! Wishing a huge Happy Birthday to Shane Lynch of Boyzone fame.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Boyzone"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-update",
+   "id": "uk-singles-chart",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "Official UK Singles Chart Update",
-   "blurb": "The latest Official UK Singles Chart is out now, revealing the nation's biggest hits and new entries.",
+   "title": "Latest UK Singles Chart",
+   "blurb": "The Official UK Singles Chart was updated yesterday, showcasing the biggest tracks and new entries dominating the airwaves this week.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "New Chart Toppers",
-     "copy": "The Official UK Singles Chart is IN! Any surprises at the top spot this week? Who's your new favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Chart Battle",
-     "copy": "Another Friday, another chart battle! What's your prediction for this week's UK Number 1 single?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#UKChart"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "elle-prime-video",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Legally Blonde Prequel 'Elle' Streaming",
-   "blurb": "The highly anticipated 'Legally Blonde' prequel series, 'Elle', began streaming on Prime Video on July 1st.",
-   "source": {
-    "l": "Prime Video",
-    "u": "https://www.primevideo.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bend and Snap!",
-     "copy": "It's here! The 'Legally Blonde' prequel 'Elle' is now streaming on Prime Video. Are you ready for more fashion and legal fun?",
+     "name": "Chart Toppers",
+     "copy": "What's topping the Official UK Singles Chart this week? Tune in and find out which tracks are making waves!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#ElleWoods"
+      "#UKCharts"
      ]
     },
     {
-     "name": "New Series Alert",
-     "copy": "Need something new to binge? 'Elle', the 'Legally Blonde' prequel, dropped on Prime Video this week!",
+     "name": "New Music Friday Recap",
+     "copy": "Did you catch yesterday's new UK Singles Chart? Any surprises, or did your favourite hold strong at the top?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "18:00",
+     "time": "14:00",
      "tags": [
-      "#LegallyBlonde"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
    "id": "huey-lewis-birthday",
-   "off": 2,
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Huey Lewis",
-   "blurb": "Huey Lewis, frontman of Huey Lewis and the News, known for hits like 'The Power of Love', turns 76 on Sunday, July 5th.",
+   "title": "Happy 76th, Huey Lewis",
+   "blurb": "American singer Huey Lewis, known for his work with Huey Lewis and the News and hits like 'The Power of Love', turns 76 on July 5th.",
    "source": {
     "l": "Famous Birthdays",
     "u": "https://www.famousbirthdays.com/people/huey-lewis.html"
@@ -382,27 +166,26 @@
    ],
    "angles": [
     {
-     "name": "Power of Love for Huey",
-     "copy": "Getting ready to celebrate Huey Lewis's 76th birthday on Sunday! What's your favourite Huey Lewis and the News track?",
+     "name": "80s Icon",
+     "copy": "Happy 76th Birthday to the legendary Huey Lewis! What's your go-to Huey Lewis and the News track?",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "10:00",
+     "time": "07:00",
      "tags": [
       "#HueyLewis"
      ]
     },
     {
-     "name": "80s Legend",
-     "copy": "On Sunday, we're wishing a very Happy 76th Birthday to the one and only Huey Lewis!",
+     "name": "Power of Love",
+     "copy": "He's still got 'The Power of Love'! Sending birthday wishes to Huey Lewis, turning 76 tomorrow.",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "14:00",
+     "time": "16:00",
      "tags": [
       "#80sMusic"
      ]
@@ -410,58 +193,12 @@
    ]
   },
   {
-   "id": "john-keeble-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday John Keeble",
-   "blurb": "John Keeble, drummer for the iconic New Romantic band Spandau Ballet, turns 67 on Monday, July 6th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/john-keeble.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Spandau Ballet Beat",
-     "copy": "On Monday, we're celebrating Spandau Ballet's John Keeble turning 67! What's your go-to Spandau hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SpandauBallet"
-     ]
-    },
-    {
-     "name": "True Gold",
-     "copy": "Happy 67th Birthday loading for Spandau Ballet drummer John Keeble this Monday! Feeling the 80s vibes.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#NewRomantic"
-     ]
-    }
-   ]
-  },
-  {
    "id": "50-cent-birthday",
-   "off": 3,
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday 50 Cent",
-   "blurb": "Grammy-winning rapper, actor, and entrepreneur 50 Cent celebrates his 51st birthday on Monday, July 6th.",
+   "title": "50 Cent Turns 51",
+   "blurb": "Grammy-winning rapper, actor, and entrepreneur 50 Cent, born Curtis James Jackson III, celebrates his 51st birthday on July 6th.",
    "source": {
     "l": "Famous Birthdays",
     "u": "https://www.famousbirthdays.com/people/50-cent.html"
@@ -478,28 +215,27 @@
    ],
    "angles": [
     {
-     "name": "It's Your Birthday!",
-     "copy": "Get ready to wish 50 Cent a Happy 51st Birthday on Monday! What's your favourite track from the hip-hop legend?",
+     "name": "Hip Hop Legend",
+     "copy": "Go shorty, it's your birthday! Wishing a very Happy 51st Birthday to the one and only 50 Cent!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "09:00",
+     "time": "08:30",
      "tags": [
       "#50Cent"
      ]
     },
     {
-     "name": "G-Unit to Birthday Unit",
-     "copy": "Monday is 50 Cent's 51st birthday! Spin some of his classics to celebrate.",
+     "name": "In Da Club",
+     "copy": "From 'In Da Club' to TV screens, 50 Cent turns 51 on Monday. What's your favourite track from the rap mogul?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "15:00",
+     "time": "17:00",
      "tags": [
       "#HipHop"
      ]
@@ -508,14 +244,14 @@
   },
   {
    "id": "ringo-starr-birthday",
-   "off": 4,
+   "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Ringo Starr",
-   "blurb": "The legendary drummer of The Beatles, Ringo Starr, turns 86 on Tuesday, July 7th.",
+   "title": "Ringo Starr's 86th Birthday",
+   "blurb": "The legendary drummer for The Beatles, Ringo Starr, celebrates his 86th birthday on July 7th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/ringo-starr.html"
+    "l": "Ringo Starr Official",
+    "u": "https://www.ringostarr.com/news"
    },
    "fits": [
     {
@@ -533,27 +269,26 @@
    ],
    "angles": [
     {
-     "name": "Peace & Love for Ringo",
-     "copy": "Wishing a very Happy 86th Birthday to the iconic Ringo Starr this Tuesday! What's your favourite Beatles drum moment?",
+     "name": "Beatles Icon",
+     "copy": "Peace and Love! The iconic Ringo Starr turns 86 on Tuesday. What's your favourite Beatles track featuring Ringo on vocals?",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "08:30",
+     "time": "09:00",
      "tags": [
       "#RingoStarr"
      ]
     },
     {
-     "name": "Beatles Drummer",
-     "copy": "Tuesday marks the 86th birthday of rock legend Ringo Starr! Give some Beatles a spin to celebrate.",
+     "name": "Drumming Legend",
+     "copy": "Happy 86th Birthday to the one and only Ringo Starr! A true legend behind the drum kit.",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "13:30",
+     "time": "13:00",
      "tags": [
       "#TheBeatles"
      ]
@@ -561,62 +296,220 @@
    ]
   },
   {
-   "id": "little-house-on-the-prairie-netflix",
-   "off": 6,
-   "type": "tv",
+   "id": "courtney-love-birthday",
+   "off": 5,
+   "type": "birthday",
    "hot": true,
-   "title": "'Little House on the Prairie' on Netflix",
-   "blurb": "A new adaptation of the beloved classic 'Little House on the Prairie' is set to premiere on Netflix on July 9th.",
+   "title": "Courtney Love Turns 62",
+   "blurb": "American singer, songwriter, and actress Courtney Love, best known as the frontwoman of the alternative rock band Hole, celebrates her 62nd birthday on July 9th.",
    "source": {
-    "l": "Netflix",
-    "u": "https://www.netflix.com/"
+    "l": "National Today",
+    "u": "https://nationaltoday.com/courtney-love-birthday/"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Prairie Memories",
-     "copy": "Get ready for a trip down memory lane! A new 'Little House on the Prairie' adaptation lands on Netflix this Thursday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#LittleHouseOnThePrairie"
-     ]
-    },
-    {
-     "name": "Family Drama",
-     "copy": "New on Netflix this Thursday: a fresh take on 'Little House on the Prairie'! Perfect for a cosy night in.",
+     "name": "Grunge Queen",
+     "copy": "Happy 62nd Birthday to the unforgettable Courtney Love! What's your favourite Hole anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "19:00",
+     "time": "08:00",
      "tags": [
-      "#Netflix"
+      "#CourtneyLove"
+     ]
+    },
+    {
+     "name": "90s Icon",
+     "copy": "Celebrating the fierce and fearless Courtney Love, turning 62 on Thursday. A true rock icon.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Grunge"
      ]
     }
    ]
   },
   {
-   "id": "neil-tennant-birthday",
+   "id": "jack-white-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jack White Turns 51",
+   "blurb": "Grammy-winning musician, singer, and songwriter Jack White, known for The White Stripes, The Raconteurs, and his solo work, celebrates his 51st birthday on July 9th.",
+   "source": {
+    "l": "National Today",
+    "u": "https://nationaltoday.com/jack-white-birthday/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Innovator",
+     "copy": "Happy 51st Birthday to the incredible Jack White! What's your favourite project from the rock maestro?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JackWhite"
+     ]
+    },
+    {
+     "name": "Guitar Hero",
+     "copy": "From The White Stripes to solo brilliance, Happy Birthday to Jack White, turning 51 on Thursday!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#TheWhiteStripes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jessica-simpson-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jessica Simpson Turns 46",
+   "blurb": "American singer, actress, and fashion designer Jessica Simpson, known for pop hits like 'I Wanna Love You Forever', celebrates her 46th birthday on July 10th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/jessica-simpson.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess",
+     "copy": "Happy 46th Birthday to the multi-talented Jessica Simpson! What's your favourite track from her pop career?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#JessicaSimpson"
+     ]
+    },
+    {
+     "name": "Throwback Pop",
+     "copy": "Remember 'I Wanna Love You Forever'? Wishing Jessica Simpson a very Happy 46th Birthday this Friday!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lil-kim-birthday",
    "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Neil Tennant",
-   "blurb": "Neil Tennant, one half of the iconic Pet Shop Boys, celebrates his 72nd birthday on Thursday, July 10th.",
+   "title": "Lil' Kim Turns 52",
+   "blurb": "Grammy-winning rapper and icon Lil' Kim, known for her groundbreaking influence on hip-hop, celebrates her 52nd birthday on July 11th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/neil-tennant.html"
+    "l": "National Today",
+    "u": "https://nationaltoday.com/lil-kim-birthday/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen Bee",
+     "copy": "Happy 52nd Birthday to the legendary Queen Bee, Lil' Kim! What's your favourite track from the hip-hop icon?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#LilKim"
+     ]
+    },
+    {
+     "name": "Hip Hop Royalty",
+     "copy": "From 'Lady Marmalade' to 'Hard Core', wishing Lil' Kim a very Happy 52nd Birthday this Saturday!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#HipHop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "suzanne-vega-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Suzanne Vega Turns 67",
+   "blurb": "American singer-songwriter Suzanne Vega, known for her distinctive folk-inspired music and hits like 'Luka' and 'Tom's Diner', celebrates her 67th birthday on July 11th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Suzanne_Vega"
    },
    "fits": [
     {
@@ -625,214 +518,49 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "West End Star",
-     "copy": "It's a big one for Neil Tennant of the Pet Shop Boys, turning 72 this Thursday! What's your favourite PSB hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#PetShopBoys"
-     ]
-    },
-    {
-     "name": "Synth-Pop Icon",
-     "copy": "Happy 72nd Birthday to the legendary Neil Tennant this Thursday! Always been 'West End Girls' for us.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#NeilTennant"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "perrie-edwards-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Perrie Edwards",
-   "blurb": "Little Mix star Perrie Edwards celebrates her 33rd birthday on Thursday, July 10th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/perrie-edwards.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Little Mix Birthday",
-     "copy": "Wishing a fantastic 33rd Birthday to Little Mix's Perrie Edwards this Thursday! What's your favourite Little Mix anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PerrieEdwards"
-     ]
-    },
-    {
-     "name": "Pop Star Celebrations",
-     "copy": "Thursday is Perrie Edwards' 33rd birthday! Time to blast some Little Mix and celebrate.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LittleMix"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-dark-itvx",
-   "off": 9,
-   "type": "tv",
-   "hot": true,
-   "title": "New Thriller 'The Dark' on ITVX",
-   "blurb": "A new Scottish wilderness thriller, 'The Dark', starring Laura Donnelly and Helen Baxendale, premieres on ITVX on July 12th.",
-   "source": {
-    "l": "ITVX",
-    "u": "https://www.itv.com/itvx"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Scottish Thriller",
-     "copy": "Get ready for a chilling new thriller! 'The Dark', set in the Scottish wilderness, drops on ITVX this Sunday. Who's watching?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TheDark"
-     ]
-    },
-    {
-     "name": "New ITVX Drama",
-     "copy": "Sunday brings new drama to ITVX with 'The Dark'. Prepare for suspense and stunning Scottish scenery.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#ITVX"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "christine-mc-vie-birthday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Christine McVie",
-   "blurb": "The beloved Fleetwood Mac singer and keyboardist Christine McVie would have been 83 on Sunday, July 12th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Christine_McVie"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Remembering a Legend",
-     "copy": "On Sunday, we remember the incredible Christine McVie of Fleetwood Mac, who would have been 83. Her music lives on!",
+     "name": "Folk Icon",
+     "copy": "Happy 67th Birthday to the incredible Suzanne Vega! Her timeless songs still resonate today. What's your favourite?",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
-      "#ChristineMcVie"
+      "#SuzanneVega"
      ]
     },
     {
-     "name": "Fleetwood Mac Icon",
-     "copy": "Celebrating the enduring legacy of Christine McVie, who would have turned 83 this Sunday. What's your favourite Fleetwood Mac song she sang?",
+     "name": "Tom's Diner",
+     "copy": "Remember the iconic 'Tom's Diner'? Wishing a very Happy 67th Birthday to Suzanne Vega this Saturday!",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "14:00",
+     "time": "14:30",
      "tags": [
-      "#FleetwoodMac"
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "summer-holidays-scotland-ni",
-   "off": 0,
-   "type": "seasonal",
+   "id": "harrison-ford-birthday",
+   "off": 9,
+   "type": "culture",
    "hot": true,
-   "title": "Summer Holidays Begin for Some",
-   "blurb": "Summer school holidays have officially begun in Scotland (July 2nd) and Northern Ireland (July 1st).",
+   "title": "Harrison Ford's 84th Birthday",
+   "blurb": "Legendary American actor Harrison Ford, known for iconic roles as Han Solo and Indiana Jones, celebrates his 84th birthday on July 13th.",
    "source": {
-    "l": "Holiday Cottages",
-    "u": "https://www.holidaycottages.co.uk/blog/school-holiday-dates-uk"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/harrison-ford.html"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North East"
-    },
     {
      "g": "nation-network",
      "sub": ""
@@ -840,30 +568,73 @@
    ],
    "angles": [
     {
-     "name": "School's Out!",
-     "copy": "Summer holidays are officially here for schools in Scotland and Northern Ireland! What are your big plans?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#SummerHolidays"
-     ]
-    },
-    {
-     "name": "Holiday Mode On",
-     "copy": "Parents in Scotland and Northern Ireland, you've made it! Summer holidays have begun. Enjoy the break!",
+     "name": "Movie Legend",
+     "copy": "He's Han Solo, he's Indiana Jones! Happy 84th Birthday to the incomparable Harrison Ford this Monday!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "08:00",
      "tags": [
-      "#SchoolHolidays"
+      "#HarrisonFord"
+     ]
+    },
+    {
+     "name": "Iconic Roles",
+     "copy": "What's your favourite Harrison Ford movie? Celebrate his 84th birthday with us on July 13th!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#MovieStar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-summer-holidays",
+   "off": 14,
+   "type": "seasonal",
+   "hot": false,
+   "title": "Summer Holidays Approaching",
+   "blurb": "Schools across the UK are preparing to break up for the long-awaited summer holidays towards the end of July, marking the start of peak holiday season.",
+   "source": {
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/school-term-holiday-dates"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Holiday Countdown",
+     "copy": "The countdown is on! UK schools will soon be breaking up for the summer holidays. Where are you heading this year?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Summer Plans",
+     "copy": "Nearly time for school's out for summer! What are your plans for the upcoming UK summer holidays?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#SummerBreak"
      ]
     }
    ]
