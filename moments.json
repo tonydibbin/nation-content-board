@@ -1,60 +1,122 @@
 {
- "updated": "2026-07-04T21:45:34.177Z",
+ "updated": "2026-07-04T22:43:57.721Z",
  "moments": [
   {
-   "id": "independenceday",
+   "id": "f1-british-gp-silverstone",
    "off": 0,
-   "type": "seasonal",
+   "type": "sport",
    "hot": true,
-   "title": "US Independence Day",
-   "blurb": "The United States celebrates its Independence Day on 4 July every year, commemorating the adoption of the Declaration of Independence in 1776",
+   "title": "F1 British Grand Prix at Silverstone",
+   "blurb": "The Formula 1 Pirelli British Grand Prix is taking place this weekend at Silverstone, with qualifying and the main race happening from July 3rd to 5th, 2026.",
    "source": {
-    "l": "Historical records",
-    "u": ""
+    "l": "Formula 1 Official Site",
+    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "US Ties",
-     "for": "",
-     "copy": "As the US marks its Independence Day, we look at the special bond between the US and the UK",
+     "name": "Race Day Excitement",
+     "copy": "Engines roaring, the British Grand Prix is in full swing at Silverstone this weekend! Who are you backing for the podium?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#IndependenceDay"
+      "#BritishGP"
      ]
     },
     {
-     "name": "American Music",
-     "for": "Nation Classic Hits",
-     "copy": "Celebrate American music on the 4th of July, from Elvis to modern-day chart-toppers",
+     "name": "Local F1 Buzz",
+     "copy": "The roar of F1 is here! Silverstone is buzzing for the British Grand Prix this weekend. Are you trackside or watching from home?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
+      "tiktok"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#Silverstone"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wimbledon-2026-finals-week",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Wimbledon Finals Week",
+   "blurb": "The Wimbledon Championships 2026 are ongoing, running from June 29 to July 12, with the Gentlemen's and Ladies' Singles Finals scheduled for the final weekend.",
+   "source": {
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Centre Court Action",
+     "copy": "Strawberries and cream at the ready! Wimbledon is heating up as we head into the second week and towards the finals. Who's your pick for the trophy?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
       "threads"
      ],
      "time": "12:00",
      "tags": [
-      "#AmericanMusic"
+      "#Wimbledon"
      ]
     },
     {
-     "name": "Summer Vibes",
-     "for": "",
-     "copy": "It's Independence Day in the US, but for us, it's just a great excuse for a summer party",
+     "name": "Tennis Fever",
+     "copy": "The grass courts of Wimbledon are alive with incredible tennis! Catch all the action as the tournament builds to its thrilling conclusion.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Tennis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "world-cup-2026-quarter-finals",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "FIFA World Cup 2026 Quarter-Finals",
+   "blurb": "The FIFA World Cup 2026 is progressing, with Quarter-Final matches likely to be played this weekend and early next week, building towards the Final on July 19th.",
+   "source": {
+    "l": "FIFA Official Site",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "World Cup Showdown",
+     "copy": "It's do-or-die in the FIFA World Cup 2026! The Quarter-Finals are here – which teams are you desperate to see make it through?",
      "channels": [
       "instagram",
       "facebook",
@@ -64,283 +126,584 @@
      ],
      "time": "16:00",
      "tags": [
-      "#SummerVibes"
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "Football Fever",
+     "copy": "The tension is building! The World Cup Quarter-Finals are set to deliver some epic football clashes. Get your predictions in now!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Football"
      ]
     }
    ]
   },
   {
-   "id": "britishgp",
-   "off": 1,
-   "type": "sport",
+   "id": "uk-singles-chart-update-sam-fender-olivia-dean",
+   "off": 0,
+   "type": "culture",
    "hot": true,
-   "title": "British Grand Prix",
-   "blurb": "The British Grand Prix takes place at Silverstone on 5 July, round 12 of the 2026 F1 season",
+   "title": "Official UK Singles Chart Update",
+   "blurb": "Sam Fender & Olivia Dean hold the Number 1 spot on the Official UK Singles Chart for a remarkable 15th nonconsecutive week with 'Rein Me In,' as the new chart is announced today.",
    "source": {
-    "l": "F1 Official",
-    "u": ""
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Racing Action",
-     "for": "",
-     "copy": "Get ready for the British Grand Prix at Silverstone, one of the most iconic tracks in F1",
+     "name": "Chart Toppers",
+     "copy": "Still reigning supreme! Sam Fender & Olivia Dean's 'Rein Me In' is Number 1 on the Official UK Singles Chart for a massive 15th week. Have you streamed it today?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Chart Friday",
+     "copy": "New chart Friday! Sam Fender & Olivia Dean are still the ones to beat at Number 1. What else is new in the Official Singles Chart Top 40?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#UKChart"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "post-malone-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 31st Birthday, Post Malone!",
+   "blurb": "American singer, rapper, songwriter, and record producer Post Malone, known for hits like 'Circles' and 'Rockstar,' turns 31 today, July 4, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Post_Malone"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Posty's Birthday",
+     "copy": "Happy 31st Birthday to the one and only Post Malone! What's your favourite Posty track to get the weekend started?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
      ],
      "time": "09:00",
      "tags": [
-      "#BritishGP"
+      "#PostMalone"
      ]
     },
     {
-     "name": "UK Pride",
-     "for": "",
-     "copy": "The British Grand Prix is a proud moment for UK motorsport, with a rich history of producing talented drivers",
+     "name": "Cheers to Post Malone",
+     "copy": "Raise a glass! It's Post Malone's 31st birthday today. From 'White Iverson' to his latest, which song defines him for you?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "13:00",
      "tags": [
-      "#UKMotorsport"
-     ]
-    },
-    {
-     "name": "F1 Excitement",
-     "for": "",
-     "copy": "The British Grand Prix is set to be an exciting event, with top drivers competing for the top spot",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#F1"
+      "#HappyBirthdayPostMalone"
      ]
     }
    ]
   },
   {
-   "id": "theopen",
-   "off": 12,
-   "type": "sport",
+   "id": "50-cent-birthday",
+   "off": 2,
+   "type": "birthday",
    "hot": true,
-   "title": "The Open Championship",
-   "blurb": "The 154th Open Championship takes place at Royal Birkdale from 16 to 19 July 2026",
+   "title": "Happy 51st Birthday, 50 Cent!",
+   "blurb": "American rapper, actor, and businessman 50 Cent, famous for 'In Da Club' and 'Candy Shop,' celebrates his 51st birthday on July 6, 2026.",
    "source": {
-    "l": "The R&A",
-    "u": ""
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/50_Cent"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio"
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Golfing Greats",
-     "for": "",
-     "copy": "The Open Championship is one of the most prestigious golf tournaments in the world, with a long history of legendary winners",
+     "name": "G-Unit General's Birthday",
+     "copy": "Get ready to celebrate! 50 Cent turns 51 on Monday. What's the ultimate 50 Cent anthem you'll be blasting?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#50Cent"
+     ]
+    },
+    {
+     "name": "Birthday Shout-out",
+     "copy": "Monday marks 50 Cent's 51st birthday! From 'Get Rich or Die Tryin'' to TV mogul, what's his biggest impact?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#HappyBirthday50Cent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ringo-starr-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 86th Birthday, Ringo Starr!",
+   "blurb": "Legendary English musician, singer, songwriter, and actor Ringo Starr, best known as the drummer for The Beatles, celebrates his 86th birthday on July 7, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Peace & Love for Ringo",
+     "copy": "Tomorrow, July 7th, is Ringo Starr's 86th birthday! Send your 'Peace and Love' wishes to the iconic Beatles drummer.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
       "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#TheOpen"
+      "#RingoStarr"
      ]
     },
     {
-     "name": "Royal Birkdale",
-     "for": "",
-     "copy": "The Open Championship is being held at Royal Birkdale, a challenging course that demands skill and strategy from the world's top golfers",
+     "name": "Beatles Legend Birthday",
+     "copy": "He's got by with a little help from his friends, and on July 7th, Ringo Starr turns 86! What's your favourite Ringo vocal from The Beatles or his solo career?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#RoyalBirkdale"
-     ]
-    },
-    {
-     "name": "Golfing Heritage",
-     "for": "",
-     "copy": "The Open Championship is a celebration of golf's rich heritage, with a history dating back to 1860",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "15:00",
      "tags": [
-      "#GolfHeritage"
+      "#HappyBirthdayRingo"
      ]
     }
    ]
   },
   {
-   "id": "glasgowcommonwealth",
-   "off": 19,
-   "type": "sport",
+   "id": "beck-birthday",
+   "off": 4,
+   "type": "birthday",
    "hot": true,
-   "title": "Glasgow Commonwealth Games",
-   "blurb": "The Commonwealth Games come to Glasgow from 23 July to 2 August 2026, a home Games for Scotland",
+   "title": "Happy 56th Birthday, Beck!",
+   "blurb": "American musician, singer, songwriter, and record producer Beck, known for his experimental and genre-blending music, turns 56 on July 8, 2026.",
    "source": {
-    "l": "Commonwealth Games Federation",
-    "u": ""
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Beck"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Beck's Day",
+     "copy": "Happy 56th Birthday to the incredibly unique Beck on Wednesday! From 'Loser' to 'Odelay,' what's your favourite era of his music?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Beck"
+     ]
+    },
+    {
+     "name": "Genre-Bending Birthday",
+     "copy": "Celebrating the masterful Beck's 56th birthday this week! His sound is truly one-of-a-kind. What's the first Beck song that comes to mind?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#HappyBirthdayBeck"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "courtney-love-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 62nd Birthday, Courtney Love!",
+   "blurb": "American singer, guitarist, songwriter, and actress Courtney Love, iconic frontwoman of Hole, celebrates her 62nd birthday on July 9, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Courtney_Love"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Queen Birthday",
+     "copy": "Happy 62nd Birthday to the legendary Courtney Love on Thursday! What's your favourite Hole track or her most iconic moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CourtneyLove"
+     ]
+    },
+    {
+     "name": "Grunge Icon",
+     "copy": "Wishing a fierce 62nd birthday to Courtney Love this week! A true icon of grunge and alternative rock. What's your top pick from her incredible career?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Hole"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jessica-simpson-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 46th Birthday, Jessica Simpson!",
+   "blurb": "American singer, actress, and fashion designer Jessica Simpson, known for her pop hits and reality TV, turns 46 on July 10, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jessica_Simpson"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess Birthday",
+     "copy": "It's Jessica Simpson's 46th birthday on Friday! From 'I Wanna Love You Forever' to fashion mogul, what's her standout moment for you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JessicaSimpson"
+     ]
+    },
+    {
+     "name": "Celebrating Jessica",
+     "copy": "Wishing a very Happy 46th Birthday to Jessica Simpson this Friday! What's your favourite track from the pop superstar?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#HappyBirthdayJessica"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lil-kim-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 52nd Birthday, Lil' Kim!",
+   "blurb": "Grammy Award-winning American rapper, singer, songwriter, and model Lil' Kim, known as the 'Queen Bee,' celebrates her 52nd birthday on July 11, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Lil%27_Kim"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen Bee's B-Day",
+     "copy": "Saturday is Lil' Kim's 52nd birthday! Celebrate the Queen Bee by dropping your all-time favourite track from the hip-hop icon!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LilKim"
+     ]
+    },
+    {
+     "name": "Hip-Hop Royalty",
+     "copy": "Wishing a huge Happy 52nd Birthday to Lil' Kim this Saturday! A true pioneer who changed the game for female rappers. What's her most influential song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#HappyBirthdayLilKim"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roger-mcguinn-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 84th Birthday, Roger McGuinn!",
+   "blurb": "American musician Roger McGuinn, best known as the frontman and leader of The Byrds, celebrates his 84th birthday on July 13, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Roger_McGuinn"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Byrds Legend",
+     "copy": "Monday is Roger McGuinn's 84th birthday! The visionary behind The Byrds' iconic sound. What's your favourite Byrds track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RogerMcGuinn"
+     ]
+    },
+    {
+     "name": "Jingle-Jangle Genius",
+     "copy": "Happy 84th Birthday to Roger McGuinn this Monday! The man who brought the jingle-jangle to rock. Celebrate with a Byrds classic!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#TheByrds"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "school-summer-holidays-start",
+   "off": 18,
+   "type": "seasonal",
+   "hot": true,
+   "title": "School Summer Holidays Start",
+   "blurb": "School summer holidays for many in England and Wales are set to begin around July 22nd, with some schools in Scotland already breaking up or having recently done so.",
+   "source": {
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/school-term-dates-and-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
     {
      "g": "nation-network",
      "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
     }
    ],
    "angles": [
     {
-     "name": "Scottish Pride",
-     "for": "Nation Radio Scotland",
-     "copy": "The Glasgow Commonwealth Games is a proud moment for Scotland, showcasing the country's sporting talent and hospitality",
+     "name": "Summer Break Countdown",
+     "copy": "The countdown is on for summer holidays! Schools across England and Wales break up around July 22nd. What are your plans for the long break?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#GlasgowCommonwealth"
+      "#SummerHolidays"
      ]
     },
     {
-     "name": "Global Competition",
-     "for": "",
-     "copy": "The Commonwealth Games brings together athletes from around the world, competing in a variety of sports and events",
+     "name": "Freedom!",
+     "copy": "Freedom! For many, the school summer holidays are just around the corner, or have already begun in some parts of the UK. Best feeling ever?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CommonwealthGames"
-     ]
-    },
-    {
-     "name": "Glasgow Prepares",
-     "for": "Nation Radio Scotland",
-     "copy": "Glasgow is gearing up to host the Commonwealth Games, with final preparations underway to ensure a successful event",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Glasgow2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "royalwelshshow",
-   "off": 16,
-   "type": "culture",
-   "hot": true,
-   "title": "Royal Welsh Show",
-   "blurb": "The Royal Welsh Show takes place from 20 to 23 July 2026 at Llanelwedd, Builth Wells, the biggest agricultural show in Europe",
-   "source": {
-    "l": "Royal Welsh Agricultural Society",
-    "u": ""
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Agricultural Excellence",
-     "for": "Bridge FM",
-     "copy": "The Royal Welsh Show is a celebration of agricultural excellence, showcasing the best of Welsh farming and rural life",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RoyalWelshShow"
-     ]
-    },
-    {
-     "name": "Welsh Heritage",
-     "for": "Radio Carmarthenshire",
-     "copy": "The Royal Welsh Show is a proud reflection of Welsh heritage and culture, with a long history dating back to 1904",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
       "threads"
      ],
      "time": "12:00",
      "tags": [
-      "#WelshHeritage"
-     ]
-    },
-    {
-     "name": "Rural Community",
-     "for": "Swansea Bay Radio",
-     "copy": "The Royal Welsh Show is a vital event for the rural community, promoting agriculture, education, and entertainment",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#RuralCommunity"
+      "#SchoolHolidays"
      ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
