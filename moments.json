@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-05T20:05:49.522Z",
+ "updated": "2026-07-05T21:46:54.789Z",
  "moments": [
   {
-   "id": "f1-british-gp-final-day-0705",
-   "off": 0,
+   "id": "worldcup-qf-sf",
+   "off": 4,
    "type": "sport",
    "hot": true,
-   "title": "British Grand Prix Race Day",
-   "blurb": "The Formula 1 British Grand Prix concludes today at Silverstone, with the main race determining the winner of this iconic event.",
+   "title": "FIFA World Cup Quarterfinals & Semifinals",
+   "blurb": "The 2026 FIFA World Cup heats up with Quarterfinal matches from July 9-11 and Semifinals on July 14-15, as teams battle for a spot in the final.",
    "source": {
-    "l": "Silverstone",
-    "u": "https://www.silverstone.co.uk/events/formula-1-british-grand-prix"
+    "l": "FIFA.com / Sky Sports",
+    "u": "https://www.skysports.com/football/news/12026/12910793/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england"
    },
    "fits": [
     {
@@ -20,8 +20,21 @@
    ],
    "angles": [
     {
-     "name": "Race Day Excitement",
-     "copy": "It's race day at Silverstone! Who will take the chequered flag at the British Grand Prix today? All eyes on the final laps.",
+     "name": "Quarterfinal build-up",
+     "copy": "Who's making it to the final four? The FIFA World Cup Quarterfinals kick off this week, get ready for some nail-biting action!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#FIFAWorldCup"
+     ]
+    },
+    {
+     "name": "Semifinal anticipation",
+     "copy": "The World Cup Semifinals are just around the corner! Two titanic clashes, but who will earn their place in the biggest game of all?",
      "channels": [
       "instagram",
       "facebook",
@@ -29,12 +42,46 @@
      ],
      "time": "14:00",
      "tags": [
-      "#BritishGP"
+      "#WorldCup2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wimbledon-finals",
+   "off": 6,
+   "type": "sport",
+   "hot": true,
+   "title": "Wimbledon Finals Weekend",
+   "blurb": "The 139th Wimbledon Championships conclude this weekend, with the Ladies' and Gentlemen's Singles Finals scheduled for July 11-12.",
+   "source": {
+    "l": "Wimbledon.com",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Finals weekend build-up",
+     "copy": "It all comes down to this! The iconic Wimbledon finals weekend is here, who will lift the coveted trophies on Centre Court?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Wimbledon"
      ]
     },
     {
-     "name": "Silverstone Showdown",
-     "copy": "The roar is real! The British Grand Prix culminates today. Catch all the high-octane action as the F1 drivers battle for glory.",
+     "name": "London focus",
+     "for": "Nation Radio London",
+     "copy": "The eyes of the tennis world are on SW19 this weekend! London is buzzing for the Wimbledon finals – who are you backing?",
      "channels": [
       "instagram",
       "facebook",
@@ -42,376 +89,75 @@
      ],
      "time": "12:00",
      "tags": [
-      "#F1"
+      "#WimbledonFinals"
      ]
     }
    ]
   },
   {
-   "id": "wimbledon-finals-week-0705",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Wimbledon Finals Week",
-   "blurb": "The Wimbledon Championships are in their second week, building towards the Ladies' and Gentlemen's Singles Finals next weekend.",
-   "source": {
-    "l": "Wimbledon Official",
-    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tennis Fever",
-     "copy": "Centre Court calls! Wimbledon is in full swing for its second week. Who are you backing to reach the finals?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Grass Court Drama",
-     "copy": "The tension is building at SW19! We're into the crucial second week of Wimbledon with quarter-finals and semi-finals on the horizon.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Tennis"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tour-de-france-ongoing-0705",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Tour de France Underway",
-   "blurb": "The 113th edition of the Tour de France is underway, with cyclists battling through early stages in Spain and heading towards France.",
-   "source": {
-    "l": "Tour de France Official",
-    "u": "https://www.letour.fr/en/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cycling Grand Tour",
-     "copy": "The Tour de France has begun! Catch all the action as the peloton navigates the stunning, but challenging, early stages.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#TDF2026"
-     ]
-    },
-    {
-     "name": "Yellow Jersey Race",
-     "copy": "Who will claim the Yellow Jersey? The Tour de France is live, bringing daily drama from the world of professional cycling.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Cycling"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cardiff-food-drink-festival-ends-0705",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Cardiff Food & Drink Festival Closes",
-   "blurb": "The Cardiff Food and Drink Festival wraps up today in Roald Dahl Plass, having offered a weekend of local produce, international delicacies, and live music.",
-   "source": {
-    "l": "Visit Cardiff",
-    "u": "https://www.visitcardiff.com/events/cardiff-food-and-drink-festival-2026/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Last Bites in Cardiff",
-     "copy": "Final call for flavour! The Cardiff Food & Drink Festival finishes today. Don't miss your last chance to indulge in the best local and international treats!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#CardiffFood"
-     ]
-    },
-    {
-     "name": "Festival Farewell",
-     "copy": "It's been a delicious weekend! The Cardiff Food & Drink Festival concludes this evening. What was your favourite discovery?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#CardiffEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "glamorgan-cricket-vitality-blast-0705",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Glamorgan Cricket Double Header",
-   "blurb": "Glamorgan are playing a Vitality Blast double header today against Worcestershire Rapids at Sophia Gardens, Cardiff.",
-   "source": {
-    "l": "Visit Cardiff",
-    "u": "https://www.visitcardiff.com/events/vitality-blast-cricket-glamorgan-v-worcestershire-rapids-men-women-double-header/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cricket in Cardiff",
-     "copy": "Double the action in Cardiff today! Glamorgan take on Worcestershire Rapids in a Vitality Blast men's and women's double header.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#GlamorganCricket"
-     ]
-    },
-    {
-     "name": "Sophia Gardens Live",
-     "copy": "Sun's out, stumps are flying! It's a big day for cricket fans in Cardiff with Glamorgan in Vitality Blast action.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#CricketWales"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-island-uk-ongoing-0705",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Love Island UK Continues",
-   "blurb": "Love Island UK's 13th season continues nightly on ITV2 and ITVX, with fresh drama and couplings from the Mallorca villa.",
-   "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/loveisland"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Villa Drama",
-     "copy": "Another night, another dose of Love Island! What's got the villa talking tonight? Tune in for all the latest couplings and dumpings.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "21:00",
-     "tags": [
-      "#LoveIslandUK"
-     ]
-    },
-    {
-     "name": "Summer of Love (Island)",
-     "copy": "Still hooked on Love Island? We are too! Catch tonight's episode for more sun, scandal, and questionable decisions.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#LoveIsland"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wireless-festival-cancellation-0705",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Wireless Festival Cancellation Still Buzzing",
-   "blurb": "The cancellation of Wireless Festival 2026 in London, originally set for July 10-12, continues to be a talking point after headliner Ye was denied UK entry.",
-   "source": {
-    "l": "The Standard",
-    "u": "https://www.standard.co.uk/culture/music/wireless-festival-line-up-2026-dates-tickets-kanye-west-ye-b1147573.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Fallout",
-     "copy": "Wireless Festival's cancellation is still making waves. A major blow for London's summer music scene and a reminder of how quickly things can change.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WirelessFestival"
-     ]
-    },
-    {
-     "name": "Ye's UK Entry Saga",
-     "copy": "No Wireless this year. The decision to deny Ye entry to the UK sparked controversy and led to the festival's cancellation. What's your take?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#LondonMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "new-album-releases-july-10",
-   "off": 5,
+   "id": "reinmein-ukchart",
+   "off": -2,
    "type": "culture",
    "hot": true,
-   "title": "New Music Friday: Rolling Stones, Jack White & More",
-   "blurb": "This Friday sees a raft of new album releases, including fresh music from rock legends The Rolling Stones, Jack White, Bring Me The Horizon, and King Crimson.",
+   "title": "Sam Fender & Olivia Dean's Chart Domination",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' holds the UK Singles Chart No. 1 for a staggering 15th non-consecutive week, making chart history.",
    "source": {
-    "l": "Official Charts",
-    "u": "https://www.officialcharts.com/chart-news/new-album-releases-2026-dates-for-madonna-ariana-grande-the-rolling-stones-and-more__34614/"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
     }
    ],
    "angles": [
     {
-     "name": "Friday Drops",
-     "copy": "New Music Friday is coming! Get ready for fresh albums from The Rolling Stones, Jack White, Bring Me The Horizon and more.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#NewMusicFriday"
-     ]
-    },
-    {
-     "name": "Album Alert",
-     "copy": "What's on your playlist this Friday? Big releases from rock icons and modern heavyweights are dropping. Start planning your listening session!",
+     "name": "Chart record talk",
+     "copy": "Fifteen weeks at No. 1! Sam Fender & Olivia Dean are absolutely smashing it with 'Rein Me In'. Is this the biggest song of the year?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "10:00",
      "tags": [
-      "#AlbumRelease"
+      "#UKCharts"
+     ]
+    },
+    {
+     "name": "Sam Fender's success",
+     "for": "Nation Radio North East",
+     "copy": "Geordie hero Sam Fender and Olivia Dean are still reigning supreme at No. 1! 'Rein Me In' continues its incredible chart run. Buzzing!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#SamFender"
      ]
     }
    ]
   },
   {
-   "id": "the-open-championship-practice-0712",
+   "id": "theopen-practice",
    "off": 7,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship Practice Days Begin",
-   "blurb": "The 154th Open Championship at Royal Birkdale begins its practice days next Sunday, ahead of the main tournament starting July 16th.",
+   "title": "The Open Championship Practice Days",
+   "blurb": "The 154th Open Championship at Royal Birkdale begins its practice days from July 12-15, ahead of the main tournament.",
    "source": {
-    "l": "The Open Official",
+    "l": "TheOpen.com",
     "u": "https://www.theopen.com/royal-birkdale-2026"
    },
    "fits": [
@@ -422,27 +168,27 @@
    ],
    "angles": [
     {
-     "name": "Golf's Greatest Returns",
-     "copy": "Next Sunday, the world's best golfers head to Royal Birkdale as practice days for The Open Championship begin. Get ready for golf's original major!",
+     "name": "Golf excitement",
+     "copy": "The Open is almost here! Practice days begin this week at Royal Birkdale, as the world's best golfers get ready to tackle the links.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "11:00",
      "tags": [
       "#TheOpen"
      ]
     },
     {
-     "name": "Birkdale Calling",
-     "copy": "The countdown to The Open is on! Next week sees the start of practice days at Royal Birkdale. Who's your early pick for the Claret Jug?",
+     "name": "Birkdale buzz",
+     "copy": "Royal Birkdale is preparing to host The Open! The atmosphere will be building throughout the practice days, starting July 12.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "15:00",
      "tags": [
       "#Golf"
      ]
@@ -450,15 +196,107 @@
    ]
   },
   {
-   "id": "huey-lewis-birthday-0705",
+   "id": "tv-ann-droid",
+   "off": 12,
+   "type": "tv",
+   "hot": true,
+   "title": "Diane Morgan's 'Ann Droid' on BBC",
+   "blurb": "Diane Morgan stars in 'Ann Droid', a new BBC comedy set in 2029 about a robot companion, premiering in July.",
+   "source": {
+    "l": "BBC / Red Magazine",
+    "u": "https://www.redonline.co.uk/entertainment/g47895392/best-new-tv-july-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New comedy anticipation",
+     "copy": "Diane Morgan (aka Philomena Cunk) is back! Her new comedy 'Ann Droid' is coming to BBC One and iPlayer this July. Expect laughs.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#AnnDroid"
+     ]
+    },
+    {
+     "name": "Sci-fi comedy hook",
+     "copy": "A robot companion to help the elderly? What could possibly go wrong when Diane Morgan is involved? Catch 'Ann Droid' this month on BBC.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#BBCComedy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tv-littlehouse",
+   "off": 4,
+   "type": "tv",
+   "hot": true,
+   "title": "'Little House on the Prairie' Netflix Adaptation",
+   "blurb": "A new adaptation of 'Little House on the Prairie' based on Laura Ingalls Wilder's books premieres on Netflix on July 9.",
+   "source": {
+    "l": "Netflix / Red Magazine",
+    "u": "https://www.redonline.co.uk/entertainment/g47895392/best-new-tv-july-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Nostalgia hook",
+     "copy": "Get ready for a trip back to the American West! A new 'Little House on the Prairie' adaptation lands on Netflix July 9.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#LittleHouseOnThePrairie"
+     ]
+    },
+    {
+     "name": "Family viewing",
+     "copy": "Perfect for family viewing! The classic 'Little House on the Prairie' story gets a fresh take on Netflix from July 9.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#NetflixUK"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-hueylewis",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Huey Lewis",
-   "blurb": "Huey Lewis, the charismatic frontman of Huey Lewis and the News, turns 76 today, known for 80s hits like 'The Power of Love' and 'Heart and Soul'.",
+   "title": "Huey Lewis turns 76",
+   "blurb": "American singer-songwriter and actor Huey Lewis, known for his band Huey Lewis and the News, celebrates his 76th birthday today.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Huey_Lewis"
+    "l": "Bored Panda / WMGK",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-july-5-2026/"
    },
    "fits": [
     {
@@ -468,12 +306,16 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "80s Icon",
-     "copy": "Wishing a very happy 76th birthday to the one and only Huey Lewis! What's your favourite Huey Lewis and the News track?",
+     "name": "Happy birthday Huey",
+     "copy": "Happy 76th birthday to the legendary Huey Lewis! 'The Power of Love' and so many more timeless hits. What's your favourite?",
      "channels": [
       "instagram",
       "facebook",
@@ -485,14 +327,14 @@
      ]
     },
     {
-     "name": "Power of Love",
-     "copy": "Turning 76 today, it's Huey Lewis! Still feeling 'The Power of Love' for this 80s legend. Send him some birthday wishes!",
+     "name": "80s icon",
+     "copy": "An 80s icon celebrating his birthday today! Sending big wishes to Huey Lewis, still bringing that infectious pop-rock sound.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "12:00",
      "tags": [
       "#80sMusic"
      ]
@@ -500,84 +342,34 @@
    ]
   },
   {
-   "id": "marc-almond-birthday-0705",
+   "id": "bday-rza",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Marc Almond",
-   "blurb": "Marc Almond, the distinctive voice of Soft Cell and a celebrated solo artist, celebrates his 69th birthday today.",
+   "title": "RZA turns 57",
+   "blurb": "Rapper, producer, actor, and de facto leader of the Wu-Tang Clan, RZA, celebrates his 57th birthday today.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Marc_Almond"
+    "l": "Bored Panda / Songfacts",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-july-5-2026/"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Synth-Pop Star",
-     "copy": "Happy 69th Birthday to the iconic Marc Almond! From Soft Cell to his incredible solo career, his voice is unforgettable.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#MarcAlmond"
-     ]
-    },
-    {
-     "name": "Tainted Love Legend",
-     "copy": "Wishing a fantastic 69th birthday to Marc Almond! Still 'Tainted Love' after all these years? We definitely are!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#SoftCell"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "george-clinton-birthday-0706",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday George Clinton",
-   "blurb": "Funk legend George Clinton, the mastermind behind Parliament-Funkadelic, turns 85 tomorrow, continuing his incredible influence on music.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/George_Clinton_(musician)"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Funk Master",
-     "copy": "Tomorrow, the grand architect of funk, George Clinton, turns 85! Get ready to get down with some Parliament-Funkadelic tunes.",
+     "name": "Hip-hop legend",
+     "copy": "Happy 57th birthday to the one and only RZA! The mastermind behind Wu-Tang Clan's iconic sound. What's your favourite track?",
      "channels": [
       "instagram",
       "facebook",
@@ -585,85 +377,34 @@
      ],
      "time": "10:00",
      "tags": [
-      "#GeorgeClinton"
+      "#RZA"
      ]
     },
     {
-     "name": "P-Funk Power",
-     "copy": "Wishing a very funky early birthday to George Clinton! The 85-year-old icon is still 'Atomic Dog' in our hearts.",
+     "name": "Wu-Tang Forever",
+     "copy": "A true hip-hop legend is celebrating today! Big birthday wishes to RZA. Wu-Tang Clan ain't nothin' to mess with!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "14:00",
      "tags": [
-      "#Funk"
+      "#WuTangClan"
      ]
     }
    ]
   },
   {
-   "id": "50-cent-birthday-0706",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday 50 Cent",
-   "blurb": "Grammy-winning rapper and entrepreneur 50 Cent celebrates his 51st birthday tomorrow.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/50_Cent"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rap Royalty",
-     "copy": "Tomorrow, the one and only 50 Cent turns 51! Get ready to blast some 'In Da Club' in celebration.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#50Cent"
-     ]
-    },
-    {
-     "name": "Birthday Shoutout",
-     "copy": "Wishing a happy early 51st birthday to rapper, actor, and entrepreneur 50 Cent! What's your favourite track from his incredible career?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#HipHop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ringo-starr-birthday-0707",
+   "id": "bday-ringostarr",
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Ringo Starr",
-   "blurb": "The legendary drummer of The Beatles, Ringo Starr, turns 86 on Tuesday.",
+   "title": "Ringo Starr turns 86",
+   "blurb": "The legendary drummer for The Beatles, Ringo Starr, will celebrate his 86th birthday on July 7.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-5-11-c9183492589f2c3d596396e95b05593c"
    },
    "fits": [
     {
@@ -681,27 +422,27 @@
    ],
    "angles": [
     {
-     "name": "Beatles Legend",
-     "copy": "Peace and love! The iconic Ringo Starr celebrates his 86th birthday this Tuesday. What's your favourite Beatles track featuring his distinctive drumming?",
+     "name": "Beatles legend",
+     "copy": "Peace and love! The iconic Ringo Starr celebrates his 86th birthday on July 7. What's your favourite Beatles track featuring Ringo?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
       "#RingoStarr"
      ]
     },
     {
-     "name": "Drummer Boy",
-     "copy": "It's Ringo Starr's 86th birthday on Tuesday! Still one of the most recognisable drummers in music history. Give him some love!",
+     "name": "Drumming icon",
+     "copy": "An absolute drumming legend turns 86 this week! Huge birthday wishes going out to The Beatles' very own Ringo Starr.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "13:30",
      "tags": [
       "#TheBeatles"
      ]
@@ -709,193 +450,43 @@
    ]
   },
   {
-   "id": "beck-birthday-0708",
-   "off": 3,
+   "id": "bday-jackwhite",
+   "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Beck",
-   "blurb": "Multi-genre innovator Beck, known for hits like 'Loser' and 'Where It's At,' celebrates his 56th birthday on Wednesday.",
+   "title": "Jack White turns 51",
+   "blurb": "Rock musician, singer-songwriter, and producer Jack White, known for The White Stripes and his solo work, celebrates his 51st birthday on July 9.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Beck"
+    "l": "The Current / Famous Birthdays",
+    "u": "https://www.thecurrent.org/feature/2025/07/09/july-9-in-music-history-happy-birthday-to-isaac-brock-and-jack-white"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Genre-Bending Genius",
-     "copy": "Wishing a happy 56th birthday to the incredibly talented Beck on Wednesday! What's your favourite era of his music?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Beck"
-     ]
-    },
-    {
-     "name": "Alternative Icon",
-     "copy": "He's a 'Loser' baby, but a winner in our hearts! Happy 56th birthday to the ever-inventive Beck this Wednesday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#AlternativeMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "courtney-love-birthday-0709",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Courtney Love",
-   "blurb": "Hole frontwoman and rock icon Courtney Love turns 62 on Thursday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Courtney_Love"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Royalty",
-     "copy": "Happy 62nd birthday to the legendary Courtney Love this Thursday! A true force in rock music.",
+     "name": "Rock icon birthday",
+     "copy": "Happy 51st birthday to the incredible Jack White! From White Stripes to solo brilliance, a true rock 'n' roll force.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
      "time": "10:00",
-     "tags": [
-      "#CourtneyLove"
-     ]
-    },
-    {
-     "name": "Hole's Frontwoman",
-     "copy": "Sending birthday wishes to the one and only Courtney Love, turning 62 on Thursday! Celebrate with your favourite Hole track.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Grunge"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jack-white-birthday-0709",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Jack White",
-   "blurb": "The prolific and influential Jack White, known for The White Stripes and his solo work, celebrates his 51st birthday on Thursday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jack_White"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Innovator",
-     "copy": "Happy 51st Birthday to the incredible Jack White this Thursday! From The White Stripes to his solo projects, he's a true guitar hero.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
      "tags": [
       "#JackWhite"
      ]
     },
     {
-     "name": "White Stripes Legacy",
-     "copy": "Celebrating Jack White's 51st birthday on Thursday! What's your top track from this prolific artist?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#TheWhiteStripes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-bomba-live-petneeds-0712",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "PET NEEDS Live in Exeter",
-   "blurb": "Bomba Live in Exeter hosts punk rock band PET NEEDS next Friday, July 12th, for a high-energy gig.",
-   "source": {
-    "l": "WhatNightOut",
-    "u": "https://whatnightout.com/exeter-events/july-2026"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Exeter Gig Alert",
-     "copy": "Get ready, Exeter! PET NEEDS are bringing their punk rock energy to Bomba Live next Friday, July 12th. Don't miss it!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ExeterGigs"
-     ]
-    },
-    {
-     "name": "Live Music in Devon",
-     "copy": "Looking for live music next weekend? PET NEEDS hit Bomba Live in Exeter on Friday. Grab your tickets!",
+     "name": "White Stripes tribute",
+     "copy": "Celebrating Jack White's birthday on July 9! What's your go-to White Stripes anthem or favourite solo track?",
      "channels": [
       "instagram",
       "facebook",
@@ -903,32 +494,36 @@
      ],
      "time": "14:00",
      "tags": [
-      "#DevonMusic"
+      "#WhiteStripes"
      ]
     }
    ]
   },
   {
-   "id": "exeter-comedy-castle-0710",
-   "off": 5,
-   "type": "culture",
+   "id": "bday-courtneylove",
+   "off": 4,
+   "type": "birthday",
    "hot": true,
-   "title": "Comedy at Exeter Castle: Joanne McNally & Paul Smith",
-   "blurb": "Exeter Castle presents two nights of top comedy this weekend, featuring Joanne McNally on Friday and Paul Smith on Saturday.",
+   "title": "Courtney Love turns 62",
+   "blurb": "Singer, songwriter, and actress Courtney Love, frontwoman of the band Hole, celebrates her 62nd birthday on July 9.",
    "source": {
-    "l": "Skiddle",
-    "u": "https://www.skiddle.com/whats-on/Exeter/Exeter-Castle/"
+    "l": "AP News / Famous Birthdays",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-5-11-c9183492589f2c3d596396e95b05593c"
    },
    "fits": [
     {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Exeter Laughs",
-     "copy": "Comedy takes over Exeter Castle this Friday with Joanne McNally and Saturday with Paul Smith! Get ready for a weekend of laughs.",
+     "name": "Grunge legend",
+     "copy": "Happy 62nd birthday to the iconic Courtney Love! A true force in rock music. What's your favourite Hole song?",
      "channels": [
       "instagram",
       "facebook",
@@ -936,12 +531,322 @@
      ],
      "time": "11:00",
      "tags": [
-      "#ExeterComedy"
+      "#CourtneyLove"
      ]
     },
     {
-     "name": "Castle Stand-Up",
-     "copy": "Don't miss a fantastic double bill of comedy at Exeter Castle, with Joanne McNally (Friday) and Paul Smith (Saturday) on stage!",
+     "name": "90s rock queen",
+     "copy": "Celebrating the birthday of 90s rock queen Courtney Love on July 9! Her influence is undeniable.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#HoleBand"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-jimkerr",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jim Kerr turns 67",
+   "blurb": "Scottish singer-songwriter Jim Kerr, lead vocalist of the band Simple Minds, celebrates his 67th birthday on July 9.",
+   "source": {
+    "l": "AP News / The Current",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-5-11-c9183492589f2c3d596396e95b05593c"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Simple Minds frontman",
+     "copy": "Happy 67th birthday to Simple Minds frontman Jim Kerr! 'Don't You (Forget About Me)' and so many more anthems.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JimKerr"
+     ]
+    },
+    {
+     "name": "Scottish music icon",
+     "for": "Nation Radio Scotland",
+     "copy": "Celebrating the birthday of Scotland's own Jim Kerr from Simple Minds on July 9! A true legend of rock.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#SimpleMinds"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-marcalmond",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Marc Almond turns 69",
+   "blurb": "English singer-songwriter Marc Almond, best known as one half of the synth-pop duo Soft Cell, celebrates his 69th birthday on July 9.",
+   "source": {
+    "l": "AP News / The Current",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-5-11-c9183492589f2c3d596396e95b05593c"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Synth-pop legend",
+     "copy": "Happy 69th birthday to the brilliant Marc Almond! From Soft Cell's 'Tainted Love' to his solo career, a true icon.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MarcAlmond"
+     ]
+    },
+    {
+     "name": "80s throwback",
+     "copy": "Celebrating 80s synth-pop royalty today! Sending birthday wishes to Marc Almond on July 9. What's your favourite Soft Cell track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SoftCell"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-ollyalexander",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Olly Alexander turns 35",
+   "blurb": "English singer, songwriter, and actor Olly Alexander, known as the lead singer of Years & Years, celebrates his 35th birthday on July 15.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/olly-alexander.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop star birthday",
+     "copy": "Happy 35th birthday to the incredible Olly Alexander! From Years & Years hits to his acting roles, a multi-talented star.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#OllyAlexander"
+     ]
+    },
+    {
+     "name": "Years & Years favourite",
+     "copy": "Celebrating Olly Alexander's birthday on July 15! What's your favourite Years & Years track that always gets you dancing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#YearsAndYears"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-lindaronstadt",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Linda Ronstadt turns 79",
+   "blurb": "Grammy-winning American singer Linda Ronstadt, known for her versatile career spanning rock, country, and pop, celebrates her 79th birthday on July 15.",
+   "source": {
+    "l": "Songfacts / Famous Birthdays",
+    "u": "https://www.songfacts.com/birthdays/july/15"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Music legend",
+     "copy": "Happy 79th birthday to the legendary Linda Ronstadt! A voice that defined generations across rock, country, and pop.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LindaRonstadt"
+     ]
+    },
+    {
+     "name": "Timeless voice",
+     "copy": "Celebrating the birthday of the incredible Linda Ronstadt on July 15! Her timeless voice continues to captivate.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ClassicHits"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-school-hols-ni",
+   "off": -4,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Northern Ireland School Summer Holidays Begin",
+   "blurb": "School summer holidays in Northern Ireland officially began on July 1, running through to September 1.",
+   "source": {
+    "l": "Icelolly.com",
+    "u": "https://www.icelolly.com/blog/uk-school-holiday-dates"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "NI holidays start",
+     "for": "welsh-local",
+     "copy": "While some of us are still counting down, Northern Ireland schools are officially on summer holidays! Enjoy the break!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Summer vibes",
+     "copy": "Longer days and no school! Northern Ireland students are already enjoying their summer break. Who's ready for a getaway?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#SchoolHolidays"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tv-thedark",
+   "off": 7,
+   "type": "tv",
+   "hot": true,
+   "title": "ITV Thriller 'The Dark' Premieres",
+   "blurb": "A new ITV crime thriller, 'The Dark', starring Laura Donnelly and Helen Baxendale, premieres on ITV1 and ITVX on July 12.",
+   "source": {
+    "l": "ITV / Good Housekeeping",
+    "u": "https://www.goodhousekeeping.com/uk/entertainment/g47895392/best-new-tv-july-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New crime drama",
+     "copy": "Get ready for a gripping new crime thriller! ITV's 'The Dark' premieres July 12, set in the Scottish Highlands. Looks chilling!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheDark"
+     ]
+    },
+    {
+     "name": "Weekend watch",
+     "copy": "Your next 'hide behind the sofa' drama is coming! 'The Dark' hits ITV1 and ITVX on July 12. Perfect weekend viewing.",
      "channels": [
       "instagram",
       "facebook",
@@ -949,7 +854,100 @@
      ],
      "time": "16:00",
      "tags": [
-      "#ExeterEvents"
+      "#ITVX"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "genesis-scottish-open",
+   "off": 4,
+   "type": "sport",
+   "hot": true,
+   "title": "Genesis Scottish Open",
+   "blurb": "The Genesis Scottish Open, a major golf tournament, takes place at The Renaissance Club in North Berwick from July 9-12.",
+   "source": {
+    "l": "PGA Tour",
+    "u": "https://www.pgatour.com/tournaments/genesis-scottish-open/past-results"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish golf",
+     "for": "Nation Radio Scotland",
+     "copy": "Major golf action returns to Scotland this week! The Genesis Scottish Open kicks off at The Renaissance Club on July 9.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ScottishOpen"
+     ]
+    },
+    {
+     "name": "Links golf",
+     "copy": "Some of the world's best golfers are heading to North Berwick for the Genesis Scottish Open, starting July 9. Who's your pick?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Golf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tv-trying-s5",
+   "off": 3,
+   "type": "tv",
+   "hot": true,
+   "title": "'Trying' Season 5 on Apple TV+",
+   "blurb": "The acclaimed British comedy-drama 'Trying' returns for its fifth season on Apple TV+ on July 8.",
+   "source": {
+    "l": "Apple TV+ / GeekTown",
+    "u": "https://www.geektown.co.uk/tv-air-dates/uk-air-dates-for-new-tv-shows/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Comedy-drama return",
+     "copy": "'Trying' is back! The much-loved British comedy-drama returns for its fifth season on Apple TV+ this Wednesday, July 8.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Trying"
+     ]
+    },
+    {
+     "name": "Apple TV+ must-watch",
+     "copy": "Need a new binge? Season 5 of the heartwarming 'Trying' drops on Apple TV+ on July 8. Get ready for more laughs and tears!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#AppleTV"
      ]
     }
    ]
