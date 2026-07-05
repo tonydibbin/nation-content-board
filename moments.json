@@ -1,96 +1,149 @@
 {
- "updated": "2026-07-05T10:56:08.129Z",
+ "updated": "2026-07-05T12:08:15.550Z",
  "moments": [
   {
-   "id": "britishgp",
+   "id": "wimbledon-finals-week",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "British Grand Prix",
-   "blurb": "The British Grand Prix takes place at Silverstone, round 12 of the 2026 F1 season",
+   "title": "Wimbledon Finals Week Underway",
+   "blurb": "The second week of The Championships, Wimbledon, is in full swing, leading up to the Ladies' and Gentlemen's Singles Finals this coming weekend.",
    "source": {
-    "l": "Formula 1",
-    "u": "https://www.formula1.com/"
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio UK"
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Racing lines",
-     "for": "",
-     "copy": "The wait is over, the British Grand Prix is here, who will take the chequered flag at Silverstone",
+     "name": "General excitement",
+     "copy": "Centre Court drama, strawberries & cream... Wimbledon's second week is here! Who are you backing for the title?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "13:00",
      "tags": [
-      "#F1"
+      "#Wimbledon"
      ]
     },
     {
-     "name": "Pit stop",
-     "for": "",
-     "copy": "It's race day at Silverstone, get ready for a thrilling day of Formula 1 action",
+     "name": "London focus",
+     "for": "Nation Radio London",
+     "copy": "London is buzzing with Wimbledon fever as the finals approach! Are you heading to SW19 or watching from a screen?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "British hopes",
+     "copy": "As we enter the business end of Wimbledon, can any British players make a deep run for the trophies? Fingers crossed!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "british-grand-prix-race-day",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "British Grand Prix Race Day",
+   "blurb": "Today is race day for the Formula 1 Pirelli British Grand Prix at Silverstone, concluding an action-packed weekend of high-speed racing.",
+   "source": {
+    "l": "Formula 1 Official Site",
+    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Race excitement",
+     "copy": "It's lights out and away we go! The British Grand Prix is today at Silverstone. Who will take the chequered flag?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "11:00",
+     "time": "13:30",
      "tags": [
       "#BritishGP"
      ]
     },
     {
-     "name": "Chequered flag",
-     "for": "",
-     "copy": "The British Grand Prix is one of the most iconic races in the F1 calendar, don't miss it",
+     "name": "Silverstone atmosphere",
+     "copy": "The roar of the crowd, the smell of burnt rubber... British Grand Prix race day is always special. Are you trackside or watching from home?",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#Silverstone"
+      "#F1"
      ]
     }
    ]
   },
   {
-   "id": "royalwelsh",
-   "off": 15,
-   "type": "culture",
+   "id": "uk-heatwave-alert",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Royal Welsh Show",
-   "blurb": "The Royal Welsh Show, the biggest agricultural show in Europe, takes place at Llanelwedd, Builth Wells",
+   "title": "UK Heatwave Warning Issued",
+   "blurb": "A yellow heat health alert is in place for much of England from today until July 11, with temperatures expected to rise to 34C in the South East by Thursday or Friday.",
    "source": {
-    "l": "Royal Welsh Agricultural Society",
-    "u": "https://www.rwas.wales/"
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/"
    },
    "fits": [
     {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "radio-exe",
+     "sub": "Radio Exe"
+    },
+    {
      "g": "welsh-local",
-     "sub": "Bridge FM"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Agricultural pride",
-     "for": "Radio Carmarthenshire",
-     "copy": "The Royal Welsh Show is a celebration of Welsh farming and rural life, get ready for a fantastic four days",
+     "name": "General heat warning",
+     "copy": "Keep cool and stay hydrated! A heat health alert is in force for much of England this week, with temps set to climb. Look after yourselves!",
      "channels": [
       "instagram",
       "facebook",
@@ -98,57 +151,209 @@
       "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
-      "#RoyalWelshShow"
+      "#HeatwaveUK"
      ]
     },
     {
-     "name": "Rural delights",
-     "for": "Radio Pembrokeshire",
-     "copy": "From livestock to local produce, the Royal Welsh Show has something for everyone",
+     "name": "Southern England focus",
+     "for": "Nation Radio London",
+     "copy": "Temperatures are soaring in London and the South East this week, potentially hitting 34C! Remember to check on vulnerable neighbours.",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#LondonHeat"
+     ]
+    },
+    {
+     "name": "Devon specific",
+     "for": "Radio Exe",
+     "copy": "Devon, stay cool! With a heat health alert in place for the South West, remember to drink plenty of water and seek shade. Enjoy the sunshine safely!",
+     "channels": [
+      "facebook",
+      "x"
      ],
      "time": "12:00",
      "tags": [
-      "#Wales"
-     ]
-    },
-    {
-     "name": "Welsh countryside",
-     "for": "Swansea Bay Radio",
-     "copy": "The Royal Welsh Show is a showcase of the best of Welsh agriculture and rural culture",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#RoyalWelsh"
+      "#DevonHeat"
      ]
     }
    ]
   },
   {
-   "id": "theglasgowgames",
-   "off": 18,
-   "type": "sport",
+   "id": "wireless-festival-cancellation-news",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "Glasgow Commonwealth Games",
-   "blurb": "The Commonwealth Games come to Glasgow, a home Games for Scotland",
+   "title": "Wireless Festival Cancellation Still Buzzing",
+   "blurb": "The recent cancellation of Wireless Festival 2026, due to headliner Ye's Electronic Travel Authorisation being withdrawn, continues to be a major talking point in the UK music scene.",
    "source": {
-    "l": "Commonwealth Games Federation",
-    "u": "https://www.commonwealthgames.com/"
+    "l": "MNEEMO",
+    "u": "https://mneemo.com/wireless-festival-2026-cancelled-what-happened/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Music industry impact",
+     "copy": "Wireless Festival 2026 might be off, but the fallout from the cancellation is still huge. What does this mean for future UK festivals?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#WirelessFestival"
+     ]
+    },
+    {
+     "name": "Fan reaction",
+     "copy": "Still gutted about Wireless Festival being cancelled earlier this year? The debate around the decision and its impact on festival culture is still raging.",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#FestivalNews"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-open-championship-starts-soon",
+   "off": 7,
+   "type": "sport",
+   "hot": true,
+   "title": "The Open Championship Approaches",
+   "blurb": "The 154th Open Championship begins next week, July 12-19, at Royal Birkdale Golf Club in Southport, with practice days starting today.",
+   "source": {
+    "l": "The Open Official Site",
+    "u": "https://www.theopen.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Anticipation",
+     "copy": "Get ready for some world-class golf! The Open Championship tees off next week at Royal Birkdale. Who's your pick for the Claret Jug?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Practice days",
+     "copy": "The pros are already on the greens at Royal Birkdale for practice days ahead of The Open Championship next week. Who are you hoping to see shine?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Golf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-rein-me-in",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean Hold UK No.1",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' remains at number one on the Official UK Singles Chart (July 2-8), with Olivia Rodrigo, Michael Jackson, and Harry Styles also in the top 5.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart topper",
+     "copy": "Still reigning supreme! Sam Fender & Olivia Dean are holding tight to the UK Number 1 spot with 'Rein Me In'. Who else is loving this track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Top 5 breakdown",
+     "copy": "The new UK Singles Chart is in! Sam Fender & Olivia Dean, Olivia Rodrigo, Michael Jackson, Harry Styles, and Ariana Grande all in the Top 5. Thoughts?",
+     "channels": [
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#UKCharts"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tv-new-july-shows",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "New TV Shows for July",
+   "blurb": "July brings a fresh wave of new TV to UK screens, including the 'Legally Blonde' prequel 'Elle' on Prime Video, a new 'Little House on the Prairie' on Netflix, and Scottish crime drama 'The Dark' on ITV.",
+   "source": {
+    "l": "ELLE UK",
+    "u": "https://www.elle.com/uk/life-and-culture/what-to-watch/g40306161/best-new-tv-shows-july/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "nation-network",
      "sub": "Nation Radio Scotland"
@@ -156,9 +361,8 @@
    ],
    "angles": [
     {
-     "name": "Games fever",
-     "for": "",
-     "copy": "The wait is almost over, the Glasgow Commonwealth Games are just around the corner",
+     "name": "General TV buzz",
+     "copy": "New month, new shows! From 'Legally Blonde' prequel 'Elle' to a gritty Scottish crime drama, July's TV schedule is packed. What are you adding to your watchlist?",
      "channels": [
       "instagram",
       "facebook",
@@ -166,113 +370,487 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "12:30",
      "tags": [
-      "#GlasgowGames"
+      "#NewTV"
      ]
     },
     {
-     "name": "Scottish pride",
-     "for": "",
-     "copy": "The Commonwealth Games are a chance for Scotland to shine on the world stage",
+     "name": "Scottish drama focus",
+     "for": "Nation Radio Scotland",
+     "copy": "Get ready for some intense viewing! The new Scottish crime drama 'The Dark' is coming to ITV this month. Who's excited for a new mystery?",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "16:30",
      "tags": [
-      "#Scotland"
-     ]
-    },
-    {
-     "name": "Sporting spectacle",
-     "for": "",
-     "copy": "The Glasgow Commonwealth Games will feature some of the world's top athletes, don't miss it",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#CommonwealthGames"
+      "#ScottishDrama"
      ]
     }
    ]
   },
   {
-   "id": "theopen",
-   "off": 11,
-   "type": "sport",
-   "hot": true,
-   "title": "The Open Championship",
-   "blurb": "The 154th Open Championship takes place at Royal Birkdale",
+   "id": "huey-lewis-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 76th to Huey Lewis",
+   "blurb": "Huey Lewis, frontman of Huey Lewis and the News, celebrates his 76th birthday today, July 5.",
    "source": {
-    "l": "The R&A",
-    "u": "https://www.theopen.com/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/huey-lewis.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio UK"
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Golf's biggest stage",
-     "for": "",
-     "copy": "The Open Championship is one of the most prestigious golf tournaments in the world, who will lift the Claret Jug",
+     "name": "80s Icon",
+     "copy": "Wishing a very happy 76th birthday to the legendary Huey Lewis! What's your favourite Huey Lewis and the News hit?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "08:00",
      "tags": [
-      "#TheOpen"
+      "#HueyLewis"
      ]
+    }
+   ]
+  },
+  {
+   "id": "rza-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 57th to RZA",
+   "blurb": "RZA, the influential rapper and producer from Wu-Tang Clan, turns 57 today, July 5.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/rza.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     },
     {
-     "name": "Royal Birkdale",
-     "for": "",
-     "copy": "The 154th Open Championship takes place at the iconic Royal Birkdale course",
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip-Hop Legend",
+     "copy": "Happy 57th Birthday to the one and only RZA! Wu-Tang Clan forever. What's your favourite track he's produced?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#RZA"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "marc-cohn-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 67th to Marc Cohn",
+   "blurb": "Singer-songwriter Marc Cohn, known for his hit 'Walking in Memphis', celebrates his 67th birthday today, July 5.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/5"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Memphis man",
+     "copy": "Happy 67th Birthday to the voice behind 'Walking in Memphis', Marc Cohn! A true songwriting talent.",
+     "channels": [
+      "facebook",
+      "x"
      ],
      "time": "11:00",
      "tags": [
-      "#Golf"
+      "#MarcCohn"
      ]
+    }
+   ]
+  },
+  {
+   "id": "50-cent-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 51st to 50 Cent",
+   "blurb": "American rapper, actor, and entrepreneur 50 Cent (Curtis Jackson III) celebrates his 51st birthday tomorrow, July 6.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/50-cent.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
-     "name": "Links golf",
-     "for": "",
-     "copy": "The Open Championship is a true test of links golf, who will come out on top",
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Get Rich or Die Tryin'",
+     "copy": "Tomorrow, we're celebrating 50 Cent's 51st birthday! What's your favourite track from the hip-hop mogul?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
+      "tiktok"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#50Cent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-keeble-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 67th to John Keeble",
+   "blurb": "John Keeble, drummer for the iconic New Romantic band Spandau Ballet, turns 67 tomorrow, July 6.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/6"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "True Gold drummer",
+     "copy": "Tomorrow, a very happy 67th birthday to Spandau Ballet's brilliant drummer, John Keeble! What's your favourite Spandau hit?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#SpandauBallet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ringo-starr-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 86th to Ringo Starr",
+   "blurb": "The legendary drummer of The Beatles, Ringo Starr, celebrates his 86th birthday on Tuesday, July 7.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/7"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Beatles icon",
+     "copy": "Peace and love! On Tuesday, we're wishing a very happy 86th birthday to the one and only Ringo Starr!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:30",
+     "tags": [
+      "#RingoStarr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "courtney-love-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 62nd to Courtney Love",
+   "blurb": "Courtney Love, lead singer of Hole and an icon of 90s rock, celebrates her 62nd birthday on Thursday, July 9.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/courtney-love.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "90s rock queen",
+     "copy": "Wishing a very happy 62nd birthday to the unforgettable Courtney Love! What's your favourite Hole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
       "threads"
      ],
-     "time": "14:00",
+     "time": "19:30",
      "tags": [
-      "#RoyalBirkdale"
+      "#CourtneyLove"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jack-white-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 51st to Jack White",
+   "blurb": "Jack White, the prolific musician known for The White Stripes, The Raconteurs, and The Dead Weather, turns 51 on Thursday, July 9.",
+   "source": {
+    "l": "The Current",
+    "u": "https://www.thecurrent.org/feature/2025/07/09/july-9-in-music-history-happy-birthday-to-isaac-brock-and-jack-white"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock visionary",
+     "copy": "Happy 51st Birthday to rock's ultimate multi-instrumentalist, Jack White! From White Stripes to solo, his impact is huge.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "20:00",
+     "tags": [
+      "#JackWhite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neil-tennant-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 72nd to Neil Tennant",
+   "blurb": "Neil Tennant, lead singer of the iconic synth-pop duo Pet Shop Boys, celebrates his 72nd birthday on Friday, July 10.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/neil-tennant.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Synth-pop legend",
+     "copy": "It's a very happy 72nd birthday to Neil Tennant of Pet Shop Boys on Friday! What's your all-time favourite PSB track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#PetShopBoys"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "richie-sambora-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 67th to Richie Sambora",
+   "blurb": "Former Bon Jovi guitarist and co-songwriter, Richie Sambora, turns 67 on Saturday, July 11.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/11"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bon Jovi guitar hero",
+     "copy": "Wishing a rockin' 67th birthday to the incredible Richie Sambora this Saturday! What's your favourite Bon Jovi guitar solo?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#RichieSambora"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "peter-murphy-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 69th to Peter Murphy",
+   "blurb": "Peter Murphy, the iconic lead singer of Bauhaus and a pioneer of gothic rock, celebrates his 69th birthday on Saturday, July 11.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/11"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Gothic rock legend",
+     "copy": "Happy 69th Birthday to the 'Godfather of Goth', Peter Murphy! His influence on rock music is undeniable.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#PeterMurphy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gareth-gates-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 41st to Gareth Gates",
+   "blurb": "Pop Idol runner-up and chart-topping singer Gareth Gates celebrates his 41st birthday on Sunday, July 12.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/gareth-gates.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Idol favourite",
+     "copy": "Remember Gareth Gates? The Pop Idol sensation turns 41 this Sunday! What was your favourite of his hits?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#GarethGates"
      ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
