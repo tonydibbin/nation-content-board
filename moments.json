@@ -1,47 +1,60 @@
 {
- "updated": "2026-07-05T01:42:01.064Z",
+ "updated": "2026-07-05T05:50:59.367Z",
  "moments": [
   {
-   "id": "f1-british-gp-final",
+   "id": "britishgp",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "F1 British Grand Prix Race Day",
-   "blurb": "The Formula 1 Pirelli British Grand Prix concludes today at Silverstone with the main race, following practice and qualifying sessions over the weekend.",
+   "title": "British Grand Prix at Silverstone",
+   "blurb": "The British Grand Prix, round 12 of the 2026 F1 season, takes place at Silverstone today",
    "source": {
-    "l": "Formula 1 Official Site",
-    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
+    "l": "Official F1 Website",
+    "u": "https://www.formula1.com/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Radio UK"
     }
    ],
    "angles": [
     {
-     "name": "Race Day Excitement",
+     "name": "Racing Lines",
      "for": "",
-     "copy": "It's race day at Silverstone! Who are you backing for the win at the British Grand Prix today? #F1",
+     "copy": "Get ready for the ultimate test of speed and skill as the British Grand Prix kicks off at Silverstone",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "09:00",
+     "tags": [
+      "#F1"
+     ]
+    },
+    {
+     "name": "Pit Lane",
+     "for": "",
+     "copy": "The British Grand Prix is here, who will take the chequered flag at Silverstone?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
      "tags": [
       "#BritishGP"
      ]
     },
     {
-     "name": "Silverstone Atmosphere",
+     "name": "Chequered Flag",
      "for": "",
-     "copy": "The roar of the engines! The British Grand Prix is underway. Soak up the atmosphere, even if you're watching from home. #F1Silverstone",
+     "copy": "The wait is over, the British Grand Prix is underway at Silverstone, don't miss it",
      "channels": [
       "instagram",
       "facebook",
@@ -51,84 +64,33 @@
      ],
      "time": "14:00",
      "tags": [
-      "#F1"
+      "#Silverstone"
      ]
     }
    ]
   },
   {
-   "id": "wimbledon-week-two",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Wimbledon Enters Second Week",
-   "blurb": "The Wimbledon Championships continue today with the Gentlemen's and Ladies' Singles Fourth Round, as the tournament heads into its second week of action at the All England Club.",
-   "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/en_GB/schedule/index.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Big Matches Today",
-     "for": "",
-     "copy": "Centre Court is calling! Wimbledon moves into its second week with some huge Fourth Round clashes today. Who are you watching?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Road to the Finals",
-     "for": "",
-     "copy": "The grass court battle intensifies! The journey to the Wimbledon finals gets serious this week. Who's your pick for the trophy?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Wimbledon2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-heatwave-alert",
+   "id": "summer",
    "off": 0,
    "type": "seasonal",
    "hot": true,
-   "title": "Third UK Heatwave Forecast This Week",
-   "blurb": "A third heatwave is forecast for parts of the UK this week, with temperatures expected to reach up to 34C in the South East by Thursday or Friday, and yellow heat health alerts issued until July 11th.",
+   "title": "Summer Vibes",
+   "blurb": "Make the most of the summer sunshine with our top picks for outdoor activities",
    "source": {
-    "l": "Met Office / The Guardian",
-    "u": "https://www.theguardian.com/uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east"
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio UK"
     }
    ],
    "angles": [
     {
-     "name": "Stay Hydrated",
+     "name": "Sun's Out",
      "for": "",
-     "copy": "Another UK heatwave is on the way! Temperatures could hit 34C this week. Stay safe, stay cool, and drink plenty of water.",
+     "copy": "Summer is here, make the most of the sunshine with our guide to outdoor fun",
      "channels": [
       "instagram",
       "facebook",
@@ -136,99 +98,15 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#Heatwave"
+      "#SummerVibes"
      ]
     },
     {
-     "name": "Hosepipe Bans",
+     "name": "Warm Weather",
      "for": "",
-     "copy": "With the heatwave building, hosepipe bans are in effect in parts of Kent, Hampshire and the Isle of Wight. Every drop counts!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#UKWeather"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "icc-womens-t20-world-cup",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "ICC Women's T20 World Cup Continues",
-   "blurb": "England is currently hosting the ICC Women's T20 World Cup, which runs until July 15th, bringing top-tier international cricket action to home soil.",
-   "source": {
-    "l": "ECB Official Site",
-    "u": "https://www.ecb.co.uk/news/3760373/england-cricket-fixtures-for-2026-international-summer-announced"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "World Cup Action",
-     "for": "",
-     "copy": "The ICC Women's T20 World Cup is in full swing across England! Who are you cheering on?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#WT20WC"
-     ]
-    },
-    {
-     "name": "Home Soil Advantage",
-     "for": "",
-     "copy": "England is hosting the Women's T20 World Cup until July 15th. Let's show our support for the teams competing for glory!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Cricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "world-cup-knockouts",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "FIFA World Cup 2026 Knockout Stages",
-   "blurb": "The FIFA World Cup 2026 is now in its knockout stages, building towards the final on July 19th in New Jersey, USA.",
-   "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/news/12098/12995963/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "World Cup Fever",
-     "for": "",
-     "copy": "World Cup fever is building! We're deep into the knockout stages now. Which teams are looking like champions?",
+     "copy": "Stay cool and have fun in the sun with our top summer tips",
      "channels": [
       "instagram",
       "facebook",
@@ -236,830 +114,233 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
-     "tags": [
-      "#WorldCup2026"
-     ]
-    },
-    {
-     "name": "Final Countdown",
-     "for": "",
-     "copy": "The World Cup final is just two weeks away! Who do you think will make it to New Jersey on July 19th?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "huey-lewis-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 76th Birthday, Huey Lewis",
-   "blurb": "Huey Lewis, the charismatic frontman of Huey Lewis and The News, celebrates his 76th birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/huey-lewis.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "It's Huey's Day",
-     "for": "",
-     "copy": "Happy 76th Birthday to the one and only Huey Lewis! What's your favourite Huey Lewis and The News track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#HueyLewis"
-     ]
-    },
-    {
-     "name": "Power of Love",
-     "for": "",
-     "copy": "Wishing a very happy 76th birthday to Huey Lewis! Still 'The Power of Love' after all these years.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "marc-cohn-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 67th Birthday, Marc Cohn",
-   "blurb": "Grammy-winning singer-songwriter Marc Cohn, known for his hit 'Walking in Memphis', turns 67 today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/marc-cohn.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Walking in Memphis",
-     "for": "",
-     "copy": "Happy 67th Birthday to the incredible Marc Cohn! Still walking in Memphis with that timeless voice.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
      "time": "11:00",
      "tags": [
-      "#MarcCohn"
+      "#SummerFun"
      ]
     },
     {
-     "name": "Singer-Songwriter Legend",
+     "name": "School's Out",
      "for": "",
-     "copy": "Celebrating Marc Cohn's 67th birthday today! A true singer-songwriter legend. What's your favourite of his songs?",
+     "copy": "The summer holidays are here, keep the kids entertained with our guide to summer activities",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "15:00",
-     "tags": [
-      "#ClassicHits"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rza-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 57th Birthday, RZA",
-   "blurb": "RZA, the influential leader of the Wu-Tang Clan and accomplished producer, celebrates his 57th birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/rza.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wu-Tang Leader",
-     "for": "",
-     "copy": "Happy 57th Birthday to the legendary RZA! The mastermind behind the Wu-Tang Clan.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#RZA"
-     ]
-    },
-    {
-     "name": "Hip Hop Icon",
-     "for": "",
-     "copy": "Wishing a very happy 57th birthday to RZA, one of hip hop's most iconic figures! What's your favourite Wu-Tang track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#WuTang"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-supreme-jazz",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Love Supreme Jazz Festival Closes",
-   "blurb": "Europe's largest outdoor summer jazz festival, Love Supreme, concludes today at Glynde Place, East Sussex, after a weekend of music.",
-   "source": {
-    "l": "Love Supreme Jazz Festival",
-    "u": "https://lovesupremefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jazz Festival Vibes",
-     "for": "",
-     "copy": "The final day of Love Supreme Jazz Festival! Who caught some incredible sets in East Sussex this weekend?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LoveSupreme"
-     ]
-    },
-    {
-     "name": "Sunday Sounds",
-     "for": "",
-     "copy": "Sunday sounds at Love Supreme! Wrapping up a fantastic weekend of jazz, soul, and funk. What a vibe!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#JazzFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lytham-festival-closes",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Lytham Festival Ends Today",
-   "blurb": "Lytham Festival, a major music event on the Lancashire coast, concludes its 2026 run today after a week of headline acts.",
-   "source": {
-    "l": "Skiddle",
-    "u": "https://www.skiddle.com/festivals/lytham-festival/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Lytham Finale",
-     "for": "",
-     "copy": "It's the final day of Lytham Festival! Who's been there soaking up the atmosphere and incredible music this week?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#LythamFestival"
-     ]
-    },
-    {
-     "name": "Lancashire's Big Gig",
-     "for": "",
-     "copy": "Lytham Festival wraps up today! What were your highlights from Lancashire's biggest music event?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#FestivalSeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "england-india-t20",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "England Men's Cricket vs India (3rd T20I)",
-   "blurb": "England Men's cricket team will play India in the third Vitality IT20 match of their five-match series in Nottingham on Tuesday, July 7th.",
-   "source": {
-    "l": "Seat Unique",
-    "u": "https://www.seatunique.com/cricket-tickets/england-cricket-fixtures-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "T20 Battle",
-     "for": "",
-     "copy": "Next up for England Cricket: the 3rd Vitality IT20 against India in Nottingham on Tuesday! Who's ready for more action?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#EnglandCricket"
-     ]
-    },
-    {
-     "name": "Nottingham Cricket",
-     "for": "",
-     "copy": "Big game coming to Nottingham! England take on India in the T20 series this Tuesday. Get ready!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Cricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bst-hyde-park",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "BST Hyde Park Continues",
-   "blurb": "American Express presents BST Hyde Park is ongoing in London, featuring global headline artists and running until July 12th.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/july-festivals-uk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hyde Park Live",
-     "for": "Nation Radio London",
-     "copy": "BST Hyde Park is still bringing the biggest names to London! Who are you hoping to see live this week?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#BSTHydePark"
-     ]
-    },
-    {
-     "name": "Summer in the City",
-     "for": "",
-     "copy": "London is buzzing with BST Hyde Park! Fantastic music and summer vibes continuing until July 12th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LondonMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "trying-season-5",
-   "off": 3,
-   "type": "tv",
-   "hot": true,
-   "title": "Trying Season 5 Premieres",
-   "blurb": "The fifth season of the heartwarming British comedy-drama 'Trying' premieres globally on Apple TV+ on Wednesday, July 8th.",
-   "source": {
-    "l": "The British TV Place",
-    "u": "https://thebritishtvplace.com/2026/06/30/british-tv-premieres-in-july-2026-gone-inspector-ellis-trying-more/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Trying",
-     "for": "",
-     "copy": "Get ready for more laughs and tears! Trying Season 5 arrives on Apple TV+ this Wednesday. Who's excited?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Trying"
-     ]
-    },
-    {
-     "name": "British Comedy Back",
-     "for": "",
-     "copy": "The beloved British comedy-drama 'Trying' is back for its fifth season on July 8th. Time to get binging!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#AppleTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ringo-starr-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 86th Birthday, Ringo Starr",
-   "blurb": "Legendary Beatles drummer Ringo Starr will celebrate his 86th birthday on Tuesday, July 7th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/ringo-starr.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fab Four Drummer",
-     "for": "",
-     "copy": "A huge Happy 86th Birthday to the iconic Ringo Starr on Tuesday! What's your favourite Beatles track he sang on?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RingoStarr"
-     ]
-    },
-    {
-     "name": "Peace & Love",
-     "for": "",
-     "copy": "Wishing Ringo Starr a very happy 86th birthday this Tuesday! Peace and Love, always.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#TheBeatles"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-dark-itv",
-   "off": 7,
-   "type": "tv",
-   "hot": true,
-   "title": "The Dark Premieres on ITV",
-   "blurb": "The new Scottish-set murder drama 'The Dark', starring Laura Donnelly, is set to premiere on ITV and ITVX on July 12th.",
-   "source": {
-    "l": "Red Magazine",
-    "u": "https://www.redonline.co.uk/entertainment/tv-movies/a40231871/new-tv-shows-july/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Scottish Drama",
-     "for": "Nation Radio Scotland",
-     "copy": "A chilling new murder drama, 'The Dark', premieres on ITVX this Sunday, July 12th. Set in the Scottish wilderness – looks gripping!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TheDark"
-     ]
-    },
-    {
-     "name": "Must-Watch Thriller",
-     "for": "",
-     "copy": "Your next Sunday night obsession? 'The Dark' is a brand new thriller coming to ITV and ITVX on July 12th. Don't miss it!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#ITVX"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ann-droid-bbc",
-   "off": 6,
-   "type": "tv",
-   "hot": true,
-   "title": "Ann Droid Premieres on BBC",
-   "blurb": "Diane Morgan stars in the new quirky BBC comedy 'Ann Droid', which premieres on BBC One and iPlayer on July 11th.",
-   "source": {
-    "l": "Good Housekeeping",
-    "u": "https://www.goodhousekeeping.com/uk/entertainment/g40445350/best-new-tv-shows-july/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Comedy Alert",
-     "for": "",
-     "copy": "Diane Morgan's new comedy 'Ann Droid' lands on BBC One and iPlayer this Saturday, July 11th! Get ready for some laughs.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#AnnDroid"
-     ]
-    },
-    {
-     "name": "Quirky New Show",
-     "for": "",
-     "copy": "Looking for a new comedy? 'Ann Droid' promises witty, offbeat humour from Diane Morgan, starting July 11th on BBC.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#BBCComedy"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kaleidoscope-festival",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Kaleidoscope Festival at Alexandra Palace",
-   "blurb": "Alexandra Palace's Kaleidoscope Festival returns on Saturday, July 11th, promising a day of music, comedy, and arts.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/july-festivals-uk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Ally Pally Festival",
-     "for": "Nation Radio London",
-     "copy": "Kaleidoscope Festival is back at Alexandra Palace this Saturday, July 11th! Who's heading to Ally Pally for the music and views?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#KaleidoscopeFestival"
-     ]
-    },
-    {
-     "name": "Summer Festival Fun",
-     "for": "",
-     "copy": "Get ready for a day of festival fun! Kaleidoscope Festival brings music, comedy & more to Alexandra Palace this Saturday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#LondonEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "england-india-odi-cardiff",
-   "off": 11,
-   "type": "sport",
-   "hot": false,
-   "title": "England Men's Cricket vs India (2nd ODI in Cardiff)",
-   "blurb": "England Men's cricket team will face India in the second One Day International match of their series in Cardiff on Thursday, July 16th.",
-   "source": {
-    "l": "Seat Unique",
-    "u": "https://www.seatunique.com/cricket-tickets/england-cricket-fixtures-2026"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cricket in Cardiff",
-     "for": "welsh-local",
-     "copy": "Big cricket coming to Cardiff! England Men take on India in the 2nd ODI at Sophia Gardens on July 16th. Get your tickets!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#CardiffCricket"
-     ]
-    },
-    {
-     "name": "Wales Hosts England",
-     "for": "dragon",
-     "copy": "Wales hosts international cricket! England vs India in a One Day International in Cardiff on Thursday, July 16th. Don't miss out!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#CricketWales"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-light-in-the-hall-c4",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "The Light In The Hall: Still Waters on Channel 4",
-   "blurb": "The second series of the Welsh drama noir 'The Light In The Hall: Still Waters' is currently available to watch on Channel 4.",
-   "source": {
-    "l": "ELLE UK",
-    "u": "https://www.elle.com/uk/life-and-culture/what-to-watch/a44415891/best-new-tv-shows-july-2026/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Drama Noir",
-     "for": "welsh-local",
-     "copy": "Binged 'The Light In The Hall: Still Waters' yet? The gripping Welsh drama noir is on Channel 4 now!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#WelshDrama"
-     ]
-    },
-    {
-     "name": "Still Waters Run Deep",
-     "for": "dragon",
-     "copy": "Catch up on the second series of 'The Light In The Hall: Still Waters' on Channel 4 – a fantastic Welsh production!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#Channel4"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "scottish-school-holidays",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Scottish Schools on Summer Holidays",
-   "blurb": "Summer school holidays have begun in Scotland around July 2nd, with pupils now enjoying their break.",
-   "source": {
-    "l": "Holiday Cottages",
-    "u": "https://www.holidaycottages.co.uk/blog/uk-school-holiday-dates"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Schools Out Scotland",
-     "for": "Nation Radio Scotland",
-     "copy": "Summer holidays are officially here for Scottish schools! Enjoy the break, everyone!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ScottishSummer"
-     ]
-    },
-    {
-     "name": "Holiday Fun",
-     "for": "Nation Radio Scotland",
-     "copy": "What are your plans for the Scottish school summer holidays? Let us know what fun you're having!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
      "tags": [
       "#SummerHolidays"
      ]
     }
    ]
+  },
+  {
+   "id": "rws2026",
+   "off": 15,
+   "type": "culture",
+   "hot": true,
+   "title": "Royal Welsh Show",
+   "blurb": "The Royal Welsh Show, the biggest agricultural show in Europe, takes place at Llanelwedd, Builth Wells from 20-23 July 2026",
+   "source": {
+    "l": "Royal Welsh Show Website",
+    "u": "https://www.rwas.wales/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Agricultural Excellence",
+     "for": "Radio Carmarthenshire",
+     "copy": "The Royal Welsh Show is just around the corner, get ready for a celebration of agriculture and rural life",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RoyalWelshShow"
+     ]
+    },
+    {
+     "name": "Rural Delights",
+     "for": "Swansea Bay Radio",
+     "copy": "The Royal Welsh Show is a must-visit event for anyone who loves the countryside",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#RWS2026"
+     ]
+    },
+    {
+     "name": "Welsh Pride",
+     "for": "Radio Pembrokeshire",
+     "copy": "The Royal Welsh Show is a showcase of the best of Welsh agriculture and culture",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Wales"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thopen2026",
+   "off": 11,
+   "type": "sport",
+   "hot": true,
+   "title": "The Open at Royal Birkdale",
+   "blurb": "The 154th Open Championship takes place at Royal Birkdale from 16-19 July 2026",
+   "source": {
+    "l": "The Open Website",
+    "u": "https://www.theopen.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio UK"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Golf's Greatest Stage",
+     "for": "",
+     "copy": "The Open Championship is just around the corner, who will lift the Claret Jug at Royal Birkdale?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Links Golf",
+     "for": "",
+     "copy": "The Open Championship is a true test of golfing skill, don't miss it at Royal Birkdale",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#RoyalBirkdale"
+     ]
+    },
+    {
+     "name": "Major Moment",
+     "for": "",
+     "copy": "The Open Championship is one of golf's biggest events, get ready for the action at Royal Birkdale",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Golf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gcglasgow2026",
+   "off": 18,
+   "type": "sport",
+   "hot": true,
+   "title": "Glasgow Commonwealth Games",
+   "blurb": "The Commonwealth Games come to Glasgow from 23 July-2 August 2026, a home Games for Scotland",
+   "source": {
+    "l": "Commonwealth Games Website",
+    "u": "https://www.birmingham2022.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Global Gathering",
+     "for": "Nation Radio Scotland",
+     "copy": "The Commonwealth Games are coming to Glasgow, get ready for a festival of sport and culture",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Glasgow2026"
+     ]
+    },
+    {
+     "name": "Scottish Pride",
+     "for": "Nation Radio Scotland",
+     "copy": "The Commonwealth Games are a chance for Scotland to shine on the global stage",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Scotland"
+     ]
+    },
+    {
+     "name": "Sporting Showcase",
+     "for": "Nation Radio Scotland",
+     "copy": "The Commonwealth Games will feature a wide range of sports and athletes, don't miss it in Glasgow",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#CommonwealthGames"
+     ]
+    }
+   ]
   }
  ],
- "source": "gemini"
+ "source": "groq"
 }
