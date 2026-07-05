@@ -1,222 +1,419 @@
 {
- "updated": "2026-07-05T22:45:34.117Z",
+ "updated": "2026-07-05T23:52:59.592Z",
  "moments": [
   {
-   "id": "britishgp",
+   "id": "wimbledon-finals-week",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "British Grand Prix",
-   "blurb": "The British Grand Prix takes place at Silverstone, round 12 of the 2026 F1 season",
+   "title": "Wimbledon Finals Week Underway",
+   "blurb": "The 2026 Wimbledon Championships are in their second week, with the Gentlemen's and Ladies' Singles Fourth Round matches playing today and Quarter-finals coming up on July 7-8.",
    "source": {
-    "l": "Formula 1",
-    "u": "https://www.formula1.com"
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio UK"
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Race Day",
-     "for": "",
-     "copy": "The wait is over, it's race day at Silverstone for the British Grand Prix",
+     "name": "Centre Court Drama",
+     "copy": "Wimbledon's second week is serving up serious drama! Who are you backing for the Quarter-finals?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "12:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "British Hopes",
+     "copy": "Still got British players in contention at Wimbledon! The second week is always electric. Catch the action before the finals this weekend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#Wimbledon2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f1-british-gp-ends",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "British Grand Prix Concludes at Silverstone",
+   "blurb": "The Formula 1 British Grand Prix 2026 concluded today, July 5th, at the iconic Silverstone Circuit, wrapping up a weekend of high-speed racing.",
+   "source": {
+    "l": "Formula 1 Official Site",
+    "u": "https://www.formula1.com/en/racing/2026/Great_Britain.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Race Day Reaction",
+     "copy": "Chequered flag! The British Grand Prix at Silverstone has just finished. What a race! Who was your standout driver today?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
      "tags": [
       "#BritishGP"
      ]
     },
     {
-     "name": "F1 Season",
-     "for": "",
-     "copy": "The 2026 F1 season is in full swing, with the British Grand Prix at Silverstone today",
+     "name": "Silverstone Buzz",
+     "copy": "The roar of the engines fades as the British GP wraps up. Relive the best moments from Silverstone 2026!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "19:00",
      "tags": [
       "#F1"
      ]
-    },
-    {
-     "name": "Silverstone",
-     "for": "",
-     "copy": "One of the most iconic tracks in the world, Silverstone hosts the British Grand Prix today",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Silverstone"
-     ]
     }
    ]
   },
   {
-   "id": "julysummer",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Summer in July",
-   "blurb": "Summer is in full swing in the UK, with warm weather and long days",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio UK"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Summer Vibes",
-     "for": "",
-     "copy": "Make the most of the summer weather, with long days and warm nights",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SummerVibes"
-     ]
-    },
-    {
-     "name": "Outdoor Activities",
-     "for": "",
-     "copy": "Get outdoors and enjoy the summer weather, with hiking, biking, or a picnic in the park",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#OutdoorActivities"
-     ]
-    },
-    {
-     "name": "Summer Events",
-     "for": "",
-     "copy": "There are plenty of summer events to enjoy, from music festivals to outdoor concerts",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SummerEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "theopen",
-   "off": 11,
+   "id": "world-cup-round-of-16",
+   "off": 2,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship",
-   "blurb": "The 154th Open Championship takes place at Royal Birkdale from 16-19 July 2026",
+   "title": "FIFA World Cup Round of 16 Intensifies",
+   "blurb": "The FIFA World Cup 2026 continues with thrilling Round of 16 matches, including Argentina vs Egypt and Switzerland vs Colombia on Tuesday, July 7.",
    "source": {
-    "l": "The R&A",
-    "u": "https://www.theopen.com"
+    "l": "Sky Sports",
+    "u": "https://www.skysports.com/football/news/12098/12918883/world-cup-2026-fixture-schedule-and-uk-kick-off-times"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio UK"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Golf's Biggest Stage",
-     "for": "",
-     "copy": "The world's best golfers will gather at Royal Birkdale for The Open Championship",
+     "name": "Knockout Stage Heat",
+     "copy": "It's knockout football at the World Cup! Argentina take on Egypt on Tuesday. Who's making it to the Quarter-finals?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "09:00",
      "tags": [
-      "#TheOpen"
+      "#WorldCup2026"
      ]
     },
     {
-     "name": "Royal Birkdale",
-     "for": "",
-     "copy": "One of the most iconic golf courses in the world, Royal Birkdale hosts The Open Championship",
+     "name": "Big Match Build-up",
+     "copy": "Switzerland vs Colombia is another huge Round of 16 clash coming up on Tuesday. Get ready for some nail-biting action!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "11:00",
      "tags": [
-      "#RoyalBirkdale"
-     ]
-    },
-    {
-     "name": "Golfing Greats",
-     "for": "",
-     "copy": "The Open Championship has a rich history of golfing greats, from Nicklaus to Woods",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#GolfingGreats"
+      "#FIFAWorldCup"
      ]
     }
    ]
   },
   {
-   "id": "glasgowcommonwealthgames",
-   "off": 18,
+   "id": "tour-de-france-underway",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Glasgow Commonwealth Games",
-   "blurb": "The Commonwealth Games come to Glasgow from 23 July-2 August 2026",
+   "title": "Tour de France Stages Roll On",
+   "blurb": "The 113th Tour de France, which began yesterday in Barcelona, continues today with Stage 2 and moves into its mountain stages early next week.",
    "source": {
-    "l": "Commonwealth Games Federation",
-    "u": "https://www.commonwealthgames.com"
+    "l": "Tour de France Official Site",
+    "u": "https://www.letour.fr/en/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Yellow Jersey Chase",
+     "copy": "The Tour de France is well underway! Who's looking strong for the yellow jersey after the early stages?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#TDF2026"
+     ]
+    },
+    {
+     "name": "Mountain Challenges Ahead",
+     "copy": "Stage 3 of the Tour de France on Monday heads into the mountains. Expect some epic climbs and fierce competition!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#TourDeFrance"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mostly-jazz-funk-soul-fest",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Mostly Jazz Funk & Soul Festival",
+   "blurb": "The Mostly Jazz Funk & Soul Festival takes over Moseley Park, Birmingham, from July 10-12, featuring a diverse lineup of UK and international artists.",
+   "source": {
+    "l": "Mostly Jazz Funk & Soul Festival",
+    "u": "https://mostlyjazz.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birmingham Beats",
+     "copy": "Get ready for a soulful weekend! Mostly Jazz Funk & Soul Festival hits Birmingham next Friday. Who are you excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#MostlyJazz"
+     ]
+    },
+    {
+     "name": "Festival Vibes",
+     "copy": "Three days of incredible jazz, funk, and soul in Moseley Park. Grab your tickets for a weekend of pure vibes!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#BirminghamGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "henley-festival-starts",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Henley Festival Kicks Off",
+   "blurb": "Henley Festival, the UK's only black-tie music and arts festival, runs from July 8-12, featuring acts like Boy George & Culture Club, Ezra Collective, and Sugababes.",
+   "source": {
+    "l": "Henley Festival",
+    "u": "https://henley-festival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Glamour & Music",
+     "copy": "Dust off your black tie! Henley Festival starts next Wednesday with Boy George & Culture Club leading the lineup.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#HenleyFestival"
+     ]
+    },
+    {
+     "name": "Star-studded Nights",
+     "copy": "From Sugababes to Ezra Collective, Henley Festival promises five nights of incredible music and arts on the riverside. Who's on your must-see list?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FestivalSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kaleidoscope-festival",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Kaleidoscope Festival at Ally Pally",
+   "blurb": "The Kaleidoscope Festival returns to Alexandra Palace in London on Saturday, July 11th, offering a day of music, comedy, and arts.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/july-festivals-uk-and-abroad"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Ally Pally Fun",
+     "copy": "London! Kaleidoscope Festival is back at Alexandra Palace next Saturday. Get ready for a huge day of music and good times!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#KaleidoscopeFestival"
+     ]
+    },
+    {
+     "name": "One Day Wonder",
+     "copy": "A full day of festival fun without the camping? Yes please! Kaleidoscope Festival, Ally Pally, July 11th.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#LondonEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-island-drama",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Love Island UK Drama Continues",
+   "blurb": "Love Island UK Season 13 is in full swing, with recent Casa Amor recoupling causing major villa drama and new islanders shaking things up.",
+   "source": {
+    "l": "ITV2 / ITVX",
+    "u": "https://www.itv.com/loveisland"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Villa Fallout",
+     "copy": "The Casa Amor dust has barely settled on Love Island! Who's dealing with the fallout, and whose head has been completely turned?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "21:00",
+     "tags": [
+      "#LoveIslandUK"
+     ]
+    },
+    {
+     "name": "New Bombshells",
+     "copy": "Another week, another wave of drama in the Love Island villa. Are you keeping up with all the new arrivals and their connections?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-dark-itv",
+   "off": 7,
+   "type": "tv",
+   "hot": true,
+   "title": "New ITV Thriller 'The Dark' Premieres",
+   "blurb": "The new six-part murder drama 'The Dark', set in the Scottish Highlands and starring Laura Donnelly, is set to premiere on ITV and ITVX on July 12.",
+   "source": {
+    "l": "ITV Hub",
+    "u": "https://www.itv.com/hub/itvx"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "nation-network",
      "sub": "Nation Radio Scotland"
@@ -224,123 +421,537 @@
    ],
    "angles": [
     {
-     "name": "Glasgow 2026",
-     "for": "Nation Radio Scotland",
-     "copy": "The city of Glasgow is ready to host the Commonwealth Games, with athletes from around the world competing",
+     "name": "Scottish Crime",
+     "copy": "Chilling new murder drama 'The Dark' hits ITV next Monday. Get ready for twists and turns in the Scottish Highlands!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "18:00",
      "tags": [
-      "#Glasgow2026"
+      "#TheDark"
      ]
     },
     {
-     "name": "Commonwealth Spirit",
-     "for": "",
-     "copy": "The Commonwealth Games are a celebration of sport, culture, and friendship",
+     "name": "Next Must-Watch",
+     "copy": "Looking for your next binge-worthy thriller? 'The Dark' is set to be a gripping watch when it lands on ITVX.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "12:00",
+     "time": "14:00",
      "tags": [
-      "#CommonwealthGames"
-     ]
-    },
-    {
-     "name": "Glasgow's Finest",
-     "for": "Nation Radio Scotland",
-     "copy": "Glasgow will showcase its finest athletes, venues, and hospitality during the Commonwealth Games",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Glasgow"
+      "#ITVDrama"
      ]
     }
    ]
   },
   {
-   "id": "royalwelshshow",
-   "off": 15,
-   "type": "culture",
+   "id": "ann-droid-bbc",
+   "off": 6,
+   "type": "tv",
    "hot": true,
-   "title": "Royal Welsh Show",
-   "blurb": "The Royal Welsh Show takes place from 20-23 July 2026 at Llanelwedd, Builth Wells",
+   "title": "Diane Morgan's 'Ann Droid' on BBC",
+   "blurb": "Diane Morgan stars in the quirky new BBC comedy 'Ann Droid', which premieres on BBC One and BBC iPlayer on July 11th.",
    "source": {
-    "l": "Royal Welsh Agricultural Society",
-    "u": "https://www.rwas.wales"
+    "l": "BBC iPlayer",
+    "u": "https://www.bbc.co.uk/iplayer"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Agricultural Excellence",
-     "for": "Bridge FM",
-     "copy": "The Royal Welsh Show is a celebration of agriculture, food, and rural life in Wales",
+     "name": "New BBC Comedy",
+     "copy": "Diane Morgan is back! Her new comedy 'Ann Droid' lands on BBC One next Saturday. Expect dry wit and futuristic laughs.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#AnnDroid"
+     ]
+    },
+    {
+     "name": "Comedy Gold",
+     "copy": "If you love Diane Morgan, you'll want to tune into 'Ann Droid' on the BBC from July 11th. It's being called 'the new Motherland'!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#BBCComedy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "summer-holidays-begin",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "School Summer Holidays Start",
+   "blurb": "The school summer holidays have officially begun for many children across the UK, with some areas starting as early as July 1st.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/school-term-holiday-dates"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Freedom!",
+     "copy": "School's OUT! Summer holidays have officially started for many across the UK. What are your plans for the long break?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
      ],
      "time": "09:00",
      "tags": [
-      "#RoyalWelshShow"
+      "#SummerHolidays"
      ]
     },
     {
-     "name": "Wales' Biggest Show",
-     "for": "",
-     "copy": "The Royal Welsh Show is the biggest agricultural show in Europe, with something for everyone",
+     "name": "Family Fun",
+     "copy": "The kids are off! Wishing everyone a fantastic start to the summer holidays. Time for adventures!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#SchoolHolidays"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-incoming",
+   "off": 1,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Set for July Heatwave",
+   "blurb": "High pressure is building across the UK, bringing forecasts of rising temperatures into the high 20s and low 30s Celsius next week, with heatwave conditions likely in parts of the South East.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": "Exeter"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Sunshine Alert",
+     "copy": "Get ready to soak it up! A heatwave is on its way for parts of the UK next week, with temperatures set to climb.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#UKWeather"
+     ]
+    },
+    {
+     "name": "Summer Heat",
+     "copy": "Forecast update: high 20s and potentially low 30s for some areas next week! Time to find that paddling pool.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Heatwave"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "huey-lewis-bday-76",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 76th to Huey Lewis",
+   "blurb": "Huey Lewis, frontman of Huey Lewis and the News, celebrates his 76th birthday today, July 5th. He's known for hits like 'The Power of Love' and 'Workin' for a Livin'.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Huey_Lewis"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Power of Love",
+     "copy": "Happy 76th Birthday to the legendary Huey Lewis! What's your favourite Huey Lewis and the News track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#HueyLewis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-weller-bday-68",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Paul Weller Turns 68",
+   "blurb": "Paul Weller, 'The Modfather' and influential musician from The Jam and The Style Council, celebrates his 68th birthday today, July 5th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Paul_Weller"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Modfather's Birthday",
+     "copy": "Happy 68th Birthday to the iconic Paul Weller! From The Jam to The Style Council and his solo career, a true legend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#PaulWeller"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ringo-starr-bday-86",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Ringo Starr's 86th Birthday",
+   "blurb": "The legendary drummer for The Beatles, Ringo Starr, will celebrate his 86th birthday on Tuesday, July 7th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Beatles Legend",
+     "copy": "Peace and love! Ringo Starr turns 86 on Tuesday. What's your favourite Beatles track featuring his iconic drumming?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#RingoStarr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beck-bday-56",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "Beck Turns 56",
+   "blurb": "Multi-Grammy Award-winning musician Beck, known for his eclectic style and hits like 'Loser' and 'Where It's At', celebrates his 56th birthday on Wednesday, July 8th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Beck"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Alternative Icon",
+     "copy": "Happy 56th Birthday to the one and only Beck! Which of his genre-bending albums is your go-to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Beck"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "courtney-love-bday-62",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Courtney Love's 62nd Birthday",
+   "blurb": "Courtney Love, lead singer of Hole and cultural icon, celebrates her 62nd birthday on Thursday, July 9th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Courtney_Love"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Royalty",
+     "copy": "Happy 62nd Birthday to the fearless Courtney Love! What's your favourite Hole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#CourtneyLove"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jack-white-bday-51",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Jack White Turns 51",
+   "blurb": "Jack White, the acclaimed musician, singer, songwriter, and producer best known for his work with The White Stripes, turns 51 on Thursday, July 9th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jack_White"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Hero",
+     "copy": "Wishing a very Happy 51st Birthday to the incredible Jack White! What's your favourite White Stripes riff?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#JackWhite"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "perrie-edwards-bday-33",
+   "off": 5,
+   "type": "birthday",
+   "hot": false,
+   "title": "Perrie Edwards' 33rd Birthday",
+   "blurb": "Little Mix star Perrie Edwards will celebrate her 33rd birthday on Friday, July 10th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Perrie_Edwards"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess",
+     "copy": "Happy 33rd Birthday to Little Mix's very own Perrie Edwards! What's your favourite Little Mix hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#PerrieEdwards"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "richie-sambora-bday-67",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Richie Sambora Turns 67",
+   "blurb": "Former Bon Jovi guitarist and rock icon Richie Sambora celebrates his 67th birthday on Saturday, July 11th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Richie_Sambora"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bon Jovi Legend",
+     "copy": "Happy 67th Birthday to the incredible Richie Sambora! What's your favourite Bon Jovi anthem he helped create?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "12:00",
      "tags": [
-      "#AgriculturalShow"
+      "#RichieSambora"
      ]
+    }
+   ]
+  },
+  {
+   "id": "lil-kim-bday-52",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Lil' Kim's 52nd Birthday",
+   "blurb": "Grammy-winning rapper, model, and actress Lil' Kim, known as 'The Queen Bee', celebrates her 52nd birthday on Saturday, July 11th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Lil%27_Kim"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     },
     {
-     "name": "Welsh Heritage",
-     "for": "Bridge FM",
-     "copy": "The Royal Welsh Show is a showcase of Welsh heritage, culture, and traditions",
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen Bee",
+     "copy": "Happy 52nd Birthday to the one and only Queen Bee, Lil' Kim! Drop your favourite track in the comments!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#Wales"
+      "#LilKim"
      ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
