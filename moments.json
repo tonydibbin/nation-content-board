@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T01:46:20.788Z",
+ "updated": "2026-07-06T06:14:04.437Z",
  "moments": [
   {
    "id": "wimbledon-finals-week",
@@ -7,10 +7,64 @@
    "type": "sport",
    "hot": true,
    "title": "Wimbledon Finals Week",
-   "blurb": "The Wimbledon Tennis Championships are in their final week, with the men's and women's singles finals approaching at the All England Club.",
+   "blurb": "The second week of The Championships, Wimbledon, is underway, with the Gentlemen's and Ladies' Singles Fourth Round today, leading into the Quarter-finals tomorrow.",
    "source": {
-    "l": "VisitBritain / London & Partners",
-    "u": "https://www.visitbritain.com/en/things-do/events/july-events-britain"
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/schedule/index.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Centre Court Drama",
+     "for": "",
+     "copy": "Centre Court is calling! It's the second week of Wimbledon, and the tension is building for the Quarter-finals. Who are you backing for the title?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "British Hopes",
+     "for": "Nation Radio London",
+     "copy": "London's buzzing with Wimbledon fever! As we hit the Fourth Round, are any British players making a surprise run for glory?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fifa-world-cup-knockouts",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "FIFA World Cup Knockout Stages",
+   "blurb": "The FIFA World Cup 2026 is in full swing with the Round of 16 matches concluding today and tomorrow, before the Quarter-finals kick off on July 9th.",
+   "source": {
+    "l": "FIFA Official Site",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026/scores-fixtures"
    },
    "fits": [
     {
@@ -20,8 +74,148 @@
    ],
    "angles": [
     {
-     "name": "Classic Wimbledon",
-     "copy": "Centre Court drama intensifies! It's finals week at Wimbledon – who are you backing for the trophy?",
+     "name": "Crunch Time",
+     "for": "",
+     "copy": "World Cup knockouts are here! Every pass, every tackle, every goal is do or die. Who's making it through to the Quarter-finals?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "Football Fever",
+     "for": "",
+     "copy": "The World Cup drama continues! With the Round of 16 wrapping up, which teams have impressed you most so far?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FIFAWorldCup"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "henley-festival-2026",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Henley Festival Kicks Off",
+   "blurb": "The Henley Festival, known for its unique 'black tie' atmosphere blending music and arts, begins on Wednesday 8th July and runs until Sunday 12th July, featuring acts like Boy George & Culture Club and Sugababes.",
+   "source": {
+    "l": "Henley Festival Official Site",
+    "u": "https://henley-festival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Black Tie & Beats",
+     "for": "Nation Radio London",
+     "copy": "Get your tuxedos and ballgowns ready! Henley Festival starts Wednesday, bringing Boy George & Culture Club, Sugababes and more to the riverside. Who are you excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#HenleyFestival"
+     ]
+    },
+    {
+     "name": "Iconic Lineup",
+     "for": "Nation 80s",
+     "copy": "Boy George & Culture Club headlining Henley Festival this week! Ready for some classic 80s hits in a stunning setting?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#CultureClub"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-intensifies",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Heatwave Building",
+   "blurb": "A heatwave is building across England and Wales this week, with temperatures expected to peak at 34-35°C on Thursday and Friday in the South East, prompting yellow heat health alerts.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": "Exeter / Devon local"
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Stay Cool",
+     "for": "",
+     "copy": "Another heatwave is on the way for England and Wales this week, with temperatures soaring. Remember to stay hydrated and keep cool!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "07:00",
+     "tags": [
+      "#UKHeatwave"
+     ]
+    },
+    {
+     "name": "Devon Sunshine",
+     "for": "radio-exe",
+     "copy": "Devon is set for some serious sunshine this week as the heatwave builds! How are you planning to enjoy the warm weather in Exeter and beyond?",
      "channels": [
       "instagram",
       "facebook",
@@ -29,33 +223,21 @@
      ],
      "time": "09:00",
      "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "British Hopes",
-     "copy": "Strawberries and cream at the ready! Wimbledon is down to the wire. Can any British hopefuls make a late surge?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#WimbledonFinals"
+      "#DevonHeat"
      ]
     }
    ]
   },
   {
-   "id": "england-mexico-world-cup",
+   "id": "love-island-2026-villa-drama",
    "off": 0,
-   "type": "sport",
+   "type": "tv",
    "hot": true,
-   "title": "England vs. Mexico World Cup Knockout",
-   "blurb": "England faces Mexico in a crucial World Cup knockout match today, with fans eagerly anticipating the result.",
+   "title": "Love Island UK Drama Continues",
+   "blurb": "Love Island UK's 13th series, which started on June 1st, continues to bring daily villa drama, recouplings, and bombshells on ITV2 and ITVX.",
    "source": {
-    "l": "Official Charts / The Guardian",
-    "u": "https://www.officialcharts.com/chart-news/official-chart-first-look-july-5-2026__39703/"
+    "l": "ITV Hub",
+    "u": "https://www.itv.com/loveisland"
    },
    "fits": [
     {
@@ -65,176 +247,33 @@
    ],
    "angles": [
     {
-     "name": "Match Day Hype",
-     "copy": "It's World Cup knockout day! England takes on Mexico – get those shirts on, it's going to be a big one!",
+     "name": "Villa Vibes",
+     "for": "",
+     "copy": "Another week, more Love Island drama! Who's coupling up, who's cracking on, and who's getting pied off tonight? Catch up on all the villa action!",
      "channels": [
-      "x",
+      "instagram",
       "facebook",
-      "tiktok"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "18:00",
      "tags": [
-      "#England #WorldCup2026"
+      "#LoveIsland"
      ]
     },
     {
-     "name": "Pre-Match Thoughts",
-     "copy": "The tension is building for England vs. Mexico! What's your prediction for tonight's World Cup clash?",
+     "name": "Bombshell Alert",
+     "for": "",
+     "copy": "Did you see last night's Love Island? The bombshells keep dropping! What's your prediction for tonight's recoupling?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "12:00",
      "tags": [
-      "#ThreeLions"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bts-london-gigs",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "BTS in London",
-   "blurb": "K-Pop superstars BTS are playing two nights at Tottenham Hotspur Stadium in London, starting today, as part of their biggest tour yet.",
-   "source": {
-    "l": "Shortlist / Radio Times",
-    "u": "https://www.shortlist.com/london-gig-list-2026-best-shows-festivals-concerts"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "BTS Mania",
-     "copy": "ARMY assemble! BTS kick off their massive London shows tonight at Tottenham Hotspur Stadium. Who's got tickets?!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BTS #BTSinLondon"
-     ]
-    },
-    {
-     "name": "Global Phenomenon",
-     "copy": "BTS are bringing the K-Pop sensation to London for two nights! Expect incredible energy and huge hits.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#KPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "karol-g-london",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Karol G at Tottenham Hotspur Stadium",
-   "blurb": "Colombian reggaeton star Karol G performs a one-off UK show tonight at Tottenham Hotspur Stadium in London.",
-   "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/music/best-concerts-tours-uk-2026-tickets-news/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bichota Season",
-     "copy": "Karol G is taking over Tottenham Hotspur Stadium tonight for her only UK date! Who's ready for the 'Bichota' vibes?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#KarolG #London"
-     ]
-    },
-    {
-     "name": "Reggaeton Queen",
-     "copy": "The queen of reggaeton, Karol G, is live in London tonight! Get ready for a night of her biggest hits.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Reggaeton"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "def-leppard-extreme",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Def Leppard & Extreme UK Tour Finale",
-   "blurb": "Rock legends Def Leppard, with special guests Extreme, conclude their UK tour tonight in Manchester.",
-   "source": {
-    "l": "Radio Times / PhotoPitLive.com",
-    "u": "https://www.radiotimes.com/music/best-concerts-tours-uk-2026-tickets-news/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Out Manchester",
-     "copy": "Def Leppard and Extreme bring their UK tour to a thunderous close tonight in Manchester! Who's there to 'Pour Some Sugar On Me'?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DefLeppard #Extreme"
-     ]
-    },
-    {
-     "name": "Legends Live",
-     "copy": "Two iconic rock bands, one final UK show! Def Leppard and Extreme are ready to ignite Manchester tonight.",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RockLegends"
+      "#LoveIslandUK"
      ]
     }
    ]
@@ -244,11 +283,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 51st to 50 Cent",
-   "blurb": "American rapper, actor, and entrepreneur 50 Cent (Curtis James Jackson III) celebrates his 51st birthday today.",
+   "title": "Happy 51st Birthday, 50 Cent",
+   "blurb": "American rapper, actor, and businessman 50 Cent (Curtis Jackson) celebrates his 51st birthday today, July 6, 2026.",
    "source": {
-    "l": "Songfacts / Wikipedia",
-    "u": "https://www.songfacts.com/birthdays/july/6"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/50_Cent"
    },
    "fits": [
     {
@@ -257,52 +296,64 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Birthday Shoutout",
-     "copy": "Happy 51st Birthday to the one and only 50 Cent! What's your favourite track from the G-Unit general?",
+     "name": "Hip Hop Icon",
+     "for": "Nation Hits",
+     "copy": "Happy 51st Birthday to the one and only 50 Cent! What's your favourite track from the 'Get Rich or Die Tryin'' legend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#50Cent"
+     ]
+    },
+    {
+     "name": "Still Getting Rich",
+     "for": "Nation 00s",
+     "copy": "It's 50 Cent's 51st birthday today! From chart-topping hits to business ventures, he's still making moves. Throwback to your favourite 50 Cent anthem!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:00",
+     "time": "15:00",
      "tags": [
-      "#50Cent #HappyBirthday"
-     ]
-    },
-    {
-     "name": "In Da Club",
-     "copy": "Go shorty, it's your birthday! Wishing a very happy 51st to 50 Cent today. Still got 'In Da Club' on repeat!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#CurtisJackson"
+      "#HappyBirthday50Cent"
      ]
     }
    ]
   },
   {
-   "id": "john-keeble-birthday",
-   "off": 0,
+   "id": "ringo-starr-birthday",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "John Keeble of Spandau Ballet turns 67",
-   "blurb": "John Keeble, the drummer for iconic New Romantic band Spandau Ballet, celebrates his 67th birthday today.",
+   "title": "Ringo Starr Turns 86",
+   "blurb": "Legendary Beatles drummer Ringo Starr (Richard Starkey) celebrates his 86th birthday tomorrow, July 7, 2026.",
    "source": {
-    "l": "Songfacts / Wikipedia",
-    "u": "https://www.songfacts.com/birthdays/july/6"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
@@ -311,266 +362,89 @@
    ],
    "angles": [
     {
-     "name": "True Gold Birthday",
-     "copy": "Wishing a very Happy 67th Birthday to John Keeble, the powerhouse drummer of Spandau Ballet! What's your favourite track from the band?",
+     "name": "Peace & Love",
+     "for": "Nation 60s",
+     "copy": "Tomorrow, a true music legend turns 86! Happy (early) Birthday to Ringo Starr! What's your favourite Beatles track featuring his iconic drumming?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "09:30",
+     "time": "11:30",
      "tags": [
-      "#SpandauBallet #JohnKeeble"
+      "#RingoStarr"
      ]
     },
     {
-     "name": "80s Icon",
-     "copy": "Raise a glass to John Keeble of Spandau Ballet, celebrating his 67th today! Still 'True' to the 80s sound.",
+     "name": "Beatles Legend",
+     "for": "Nation Classic Hits",
+     "copy": "Sending early birthday wishes to the legendary Ringo Starr, who celebrates his 86th tomorrow! His impact on music is immeasurable. What's your go-to Ringo moment?",
      "channels": [
       "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#TheBeatles"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beck-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 56th Birthday, Beck",
+   "blurb": "American musician, singer, songwriter, and record producer Beck Hansen celebrates his 56th birthday on July 8, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Beck"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Alt-Rock Pioneer",
+     "for": "Nation Rocks",
+     "copy": "Happy 56th Birthday to the genre-bending genius, Beck, on Wednesday! What's your favourite track from his incredible catalogue?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Beck"
+     ]
+    },
+    {
+     "name": "Mellow Gold Memories",
+     "for": "Nation 90s",
+     "copy": "Wednesday marks Beck's 56th birthday! Still remember 'Loser' dominating the airwaves? Which Beck album defines the 90s for you?",
+     "channels": [
+      "instagram",
+      "facebook",
       "x"
      ],
      "time": "14:30",
      "tags": [
-      "#NewRomantic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kate-nash-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Kate Nash turns 39",
-   "blurb": "British indie-pop singer-songwriter Kate Nash, known for hits like 'Foundations,' celebrates her 39th birthday today.",
-   "source": {
-    "l": "Famous Birthdays / Wikipedia",
-    "u": "https://www.famousbirthdays.com/july/6.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Foundations of Pop",
-     "copy": "Happy 39th Birthday to the brilliant Kate Nash! Still love 'Foundations' as much as the first listen.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#KateNash #IndiePop"
-     ]
-    },
-    {
-     "name": "British Talent",
-     "copy": "Celebrating Kate Nash's 39th birthday today! A true British talent with a unique sound.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#Birthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "official-singles-chart-update",
-   "off": 0,
-   "type": "chart",
-   "hot": true,
-   "title": "Official Singles Chart First Look",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' is on track to break records for weeks at #1, while Madonna's 'Danceteria' is the highest new entry in the Official Singles Chart First Look.",
-   "source": {
-    "l": "Official Charts",
-    "u": "https://www.officialcharts.com/chart-news/official-chart-first-look-july-5-2026__39703/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Battle",
-     "copy": "History in the making on the Official Singles Chart! Can Sam Fender & Olivia Dean hold on for a record-breaking #1? Plus, a big new entry from Madonna!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#OfficialCharts #NewMusic"
-     ]
-    },
-    {
-     "name": "Madonna's Return",
-     "copy": "Madonna is back in a big way with 'Danceteria' as the highest new entry in the Official Singles Chart First Look! What do you think of her new track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#Madonna #ChartNews"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "llangollen-eisteddfod",
-   "off": 1,
-   "type": "culture",
-   "hot": true,
-   "title": "Llangollen International Musical Eisteddfod",
-   "blurb": "The Llangollen International Musical Eisteddfod, a major celebration of music and culture, begins tomorrow in North Wales and runs until July 12.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-do/events/july-events-britain"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Culture",
-     "copy": "Tomorrow, the Llangollen International Musical Eisteddfod kicks off in North Wales! A fantastic celebration of global music and culture.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Llangollen #Wales"
-     ]
-    },
-    {
-     "name": "International Flavour",
-     "copy": "Get ready for a week of incredible music from around the world as the Llangollen Eisteddfod begins tomorrow!",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Eisteddfod"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-open-royal-birkdale",
-   "off": 6,
-   "type": "sport",
-   "hot": true,
-   "title": "The 154th Open at Royal Birkdale",
-   "blurb": "The 154th Open Championship, one of golf's major tournaments, begins July 12th at Royal Birkdale in Southport, England.",
-   "source": {
-    "l": "VisitBritain / Travelodge",
-    "u": "https://www.visitbritain.com/en/business-advice/industry-news/looking-ahead-britains-sporting-highlights-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Golf Major",
-     "copy": "Tee off! The 154th Open Championship at Royal Birkdale starts next week. Who's your pick for the Claret Jug?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TheOpen #RoyalBirkdale"
-     ]
-    },
-    {
-     "name": "Links Golf",
-     "copy": "One of golf's most historic events is almost here! The Open returns to the challenging links of Royal Birkdale on July 12th.",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#MajorGolf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-is-blind-uk-altar",
-   "off": 6,
-   "type": "tv",
-   "hot": true,
-   "title": "Love is Blind: UK - After the Altar S2",
-   "blurb": "Season 2 of 'Love is Blind: UK – After the Altar' premieres globally on Netflix on Sunday, July 12, catching up with the cast.",
-   "source": {
-    "l": "The British TV Place",
-    "u": "https://thebritishtvplace.com/2026/06/30/british-tv-premieres-in-july-2026-gone-inspector-ellis-trying-more/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Reality TV Catch-up",
-     "copy": "Did they stay together? 'Love is Blind: UK – After the Altar' Season 2 drops on Netflix this Sunday! Get ready for the drama.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#LoveIsBlindUK #Netflix"
-     ]
-    },
-    {
-     "name": "Post-Pod Drama",
-     "copy": "The pods are a distant memory, but the drama isn't! 'Love is Blind: UK - After the Altar' S2 lands on Netflix this weekend.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#RealityTV"
+      "#Beck90s"
      ]
     }
    ]
@@ -580,11 +454,11 @@
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Courtney Love turns 62",
-   "blurb": "American singer-songwriter and actress Courtney Love, frontwoman of Hole, celebrates her 62nd birthday on July 9th.",
+   "title": "Happy 62nd Birthday, Courtney Love",
+   "blurb": "American singer, songwriter, and actress Courtney Love, frontwoman of Hole, celebrates her 62nd birthday on July 9, 2026.",
    "source": {
-    "l": "Associated Press / Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/july/9.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Courtney_Love"
    },
    "fits": [
     {
@@ -599,89 +473,155 @@
    "angles": [
     {
      "name": "Grunge Queen",
-     "copy": "Happy 62nd Birthday to the iconic Courtney Love! What's your favourite Hole track?",
+     "for": "Nation Rocks",
+     "copy": "Happy 62nd Birthday to the iconic Courtney Love on Thursday! From Hole's anthems to her fearless persona, she's a true rock legend. What's your favourite Hole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CourtneyLove"
+     ]
+    },
+    {
+     "name": "90s Powerhouse",
+     "for": "Nation 90s",
+     "copy": "Thursday is Courtney Love's 62nd birthday! Celebrating the fierce frontwoman who defined a generation. Which Hole song is still on your playlist?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
-     "tags": [
-      "#CourtneyLove #Hole"
-     ]
-    },
-    {
-     "name": "Alt-Rock Legend",
-     "copy": "Wishing a fierce 62nd Birthday to Courtney Love! A true alt-rock legend.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
      "time": "14:00",
      "tags": [
-      "#Grunge"
+      "#HoleBand"
      ]
     }
    ]
   },
   {
-   "id": "marc-almond-birthday",
+   "id": "jack-white-birthday",
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Marc Almond of Soft Cell turns 69",
-   "blurb": "Marc Almond, the distinctive voice of synth-pop duo Soft Cell, celebrates his 69th birthday on July 9th.",
+   "title": "Happy 51st Birthday, Jack White",
+   "blurb": "American musician, singer, songwriter, and record producer Jack White, known for The White Stripes, celebrates his 51st birthday on July 9, 2026.",
    "source": {
-    "l": "Associated Press",
-    "u": "https://apnews.com/article/celebrity-birthdays-87a1d13f382a3928e469e365113d6a2f"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jack_White"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Tainted Love Birthday",
-     "copy": "Happy 69th Birthday to the legendary Marc Almond of Soft Cell! Still got 'Tainted Love' on repeat?",
+     "name": "Guitar Hero",
+     "for": "Nation Rocks",
+     "copy": "Happy 51st Birthday to the incomparable Jack White on Thursday! From The White Stripes to his solo work, his guitar riffs are legendary. What's your favourite Jack White project?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "10:30",
+     "time": "11:00",
      "tags": [
-      "#MarcAlmond #SoftCell"
+      "#JackWhite"
      ]
     },
     {
-     "name": "Synth-Pop Icon",
-     "copy": "Celebrating the birthday of synth-pop icon Marc Almond today! His voice defined an era.",
+     "name": "White Stripes Era",
+     "for": "Nation 00s",
+     "copy": "Celebrating Jack White's 51st birthday on Thursday! 'Seven Nation Army' still gets everyone going. What's your ultimate White Stripes anthem?",
      "channels": [
       "instagram",
+      "facebook",
       "x"
      ],
      "time": "15:30",
      "tags": [
-      "#80sMusic"
+      "#TheWhiteStripes"
      ]
     }
    ]
   },
   {
-   "id": "jim-kerr-birthday",
-   "off": 3,
+   "id": "jessica-simpson-birthday",
+   "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Jim Kerr of Simple Minds turns 67",
-   "blurb": "Jim Kerr, the charismatic frontman of Scottish rock band Simple Minds, celebrates his 67th birthday on July 9th.",
+   "title": "Happy 46th Birthday, Jessica Simpson",
+   "blurb": "American singer, actress, and fashion designer Jessica Simpson celebrates her 46th birthday on July 10, 2026.",
    "source": {
-    "l": "Associated Press",
-    "u": "https://apnews.com/article/celebrity-birthdays-87a1d13f382a3928e469e365113d6a2f"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jessica_Simpson"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess",
+     "for": "Nation Hits",
+     "copy": "Happy 46th Birthday to Jessica Simpson on Friday! From pop anthems to fashion mogul, she's done it all. What's your favourite Jessica Simpson song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#JessicaSimpson"
+     ]
+    },
+    {
+     "name": "Early 00s Throwback",
+     "for": "Nation 00s",
+     "copy": "It's Jessica Simpson's 46th birthday on Friday! Reminiscing about the early 2000s pop era. Which of her hits takes you back?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#00sPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "richie-sambora-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 67th Birthday, Richie Sambora",
+   "blurb": "American rock guitarist, singer, and songwriter Richie Sambora, best known as the lead guitarist of Bon Jovi, celebrates his 67th birthday on July 11, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Richie_Sambora"
    },
    "fits": [
     {
@@ -693,263 +633,202 @@
      "sub": "Nation 80s"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Don't You Forget About Him",
-     "copy": "Happy 67th Birthday to Jim Kerr, the incredible voice of Simple Minds! What's your favourite stadium anthem?",
+     "name": "Bon Jovi Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 67th Birthday to Bon Jovi's iconic guitarist, Richie Sambora, on Saturday! Those riffs defined an era. What's your favourite Sambora guitar solo?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#JimKerr #SimpleMinds"
-     ]
-    },
-    {
-     "name": "Scottish Rock Legend",
-     "copy": "Celebrating the birthday of Scottish rock legend Jim Kerr today! Still delivering powerful performances.",
-     "channels": [
       "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ScottishMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "edinburgh-jazz-blues",
-   "off": 4,
-   "type": "culture",
-   "hot": true,
-   "title": "Edinburgh Jazz & Blues Festival",
-   "blurb": "The Edinburgh Jazz & Blues Festival kicks off on July 10th, bringing a diverse lineup of international talent to Scotland's capital until July 19th.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-do/events/july-events-britain"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jazz in Edinburgh",
-     "copy": "Get ready to groove! The Edinburgh Jazz & Blues Festival starts this Friday, bringing some incredible talent to Scotland's capital.",
-     "channels": [
-      "facebook",
-      "x"
+      "tiktok"
      ],
      "time": "10:00",
      "tags": [
-      "#EdinburghJazz #Blues"
+      "#RichieSambora"
      ]
     },
     {
-     "name": "Festival City",
-     "copy": "Edinburgh's festival season continues with the Jazz & Blues Festival starting July 10th! Who are you hoping to see?",
+     "name": "80s Rock Anthems",
+     "for": "Nation 80s",
+     "copy": "It's Richie Sambora's 67th birthday on Saturday! The man behind some of the biggest 80s rock anthems. Which Bon Jovi classic are you cranking up?",
      "channels": [
       "instagram",
+      "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "14:30",
      "tags": [
-      "#Edinburgh #MusicFestival"
+      "#BonJovi"
      ]
     }
    ]
   },
   {
-   "id": "little-house-on-the-prairie-netflix",
-   "off": 3,
-   "type": "tv",
+   "id": "suzanne-vega-birthday",
+   "off": 5,
+   "type": "birthday",
    "hot": true,
-   "title": "Little House on the Prairie on Netflix",
-   "blurb": "The beloved classic 'Little House on the Prairie' arrives on Netflix on July 9th, bringing the Ingalls family's story to new audiences.",
+   "title": "Happy 67th Birthday, Suzanne Vega",
+   "blurb": "American singer-songwriter Suzanne Vega celebrates her 67th birthday on July 11, 2026.",
    "source": {
-    "l": "Red magazine",
-    "u": "https://www.redonline.co.uk/entertainment/tv-and-film/a40348784/new-tv-july-bbc-netflix-itv/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Suzanne_Vega"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Nostalgic Comfort",
-     "copy": "Get ready for some classic comfort TV! 'Little House on the Prairie' arrives on Netflix this Thursday. Who's excited to revisit Walnut Grove?",
+     "name": "Queen of Cool",
+     "for": "Nation 80s",
+     "copy": "Happy 67th Birthday to the brilliant Suzanne Vega on Saturday! Her distinctive voice and poetic lyrics gave us so many timeless tracks. What's your favourite?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "11:30",
      "tags": [
-      "#LittleHouseOnThePrairie #Netflix"
+      "#SuzanneVega"
      ]
     },
     {
-     "name": "Family Viewing",
-     "copy": "A timeless story for a new generation! 'Little House on the Prairie' is coming to Netflix on July 9th – perfect for family viewing.",
+     "name": "Luka Memories",
+     "for": "Nation Classic Hits",
+     "copy": "Saturday marks Suzanne Vega's 67th birthday! 'Luka' is still as poignant today as it was then. What's the Suzanne Vega song that resonates most with you?",
      "channels": [
       "instagram",
+      "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "16:00",
      "tags": [
-      "#ClassicTV"
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "adam-lambert-solo-london",
-   "off": 15,
+   "id": "latitude-festival-preview",
+   "off": 17,
    "type": "gig",
    "hot": false,
-   "title": "Adam Lambert Solo London Show",
-   "blurb": "Adam Lambert is performing a rare solo show at the Roundhouse in London on July 21st, celebrating his new album 'ADAM'.",
+   "title": "Latitude Festival Approaching",
+   "blurb": "Latitude Festival, a multi-genre music and arts event, is set to take place at Henham Park, Suffolk, from July 23-26, 2026, featuring David Byrne, Teddy Swims, and Lewis Capaldi.",
    "source": {
-    "l": "The Mirror",
-    "u": "https://www.mirror.co.uk/3am/celebrity-news/adam-lambert-confirms-rare-one-32815714"
+    "l": "Latitude Festival Official Site",
+    "u": "https://www.latitudefestival.com/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Glambert Alert",
-     "copy": "Adam Lambert is bringing his new solo album to London's Roundhouse on July 21st! A rare chance to see him without Queen.",
+     "name": "Suffolk's Summer Festival",
+     "for": "Nation Radio Suffolk",
+     "copy": "Counting down to Latitude! Henham Park will be buzzing from July 23rd with David Byrne, Lewis Capaldi & more. Are you heading to Suffolk's biggest festival?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#AdamLambert #London"
-     ]
-    },
-    {
-     "name": "Solo Spotlight",
-     "copy": "Beyond Queen, Adam Lambert shines in his own right. Catch his solo show in London later this month!",
-     "channels": [
       "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "glastonbury-fallow-year",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Glastonbury on Fallow Year",
-   "blurb": "Glastonbury Festival is taking a planned fallow year in 2026 to allow Worthy Farm to recover, meaning no festival this year.",
-   "source": {
-    "l": "Glastonbury Festivals / Jetpac",
-    "u": "https://www.glastonburyfestivals.co.uk/info/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "No Glasto This Year",
-     "copy": "Just a reminder for those planning their summer: Glastonbury is on a fallow year in 2026. Worthy Farm is taking a well-deserved break!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#Glastonbury #FallowYear"
-     ]
-    },
-    {
-     "name": "Planning for 2027",
-     "copy": "Missing Glastonbury this year? The good news is it'll be back in 2027! Time to start planning for the next one.",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#Glastonbury2027"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "icc-womens-t20-world-cup-ends",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "ICC Women's T20 World Cup Concludes",
-   "blurb": "The ICC Women's T20 World Cup in England concluded yesterday, July 5th, after weeks of thrilling cricket.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/business-advice/industry-news/key-sporting-moments-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Women's Cricket Recap",
-     "copy": "What a tournament! The ICC Women's T20 World Cup wrapped up yesterday in England. Who were your standout players?",
-     "channels": [
-      "x",
-      "facebook"
+      "threads"
      ],
      "time": "09:00",
      "tags": [
-      "#T20WorldCup #WomensCricket"
+      "#LatitudeFestival"
      ]
     },
     {
-     "name": "Tournament Highlights",
-     "copy": "Still buzzing from the ICC Women's T20 World Cup! Congratulations to the winners and all the teams for an incredible competition.",
+     "name": "Festival Lineup",
+     "for": "Nation Hits",
+     "copy": "Latitude Festival is just around the corner! David Byrne, Teddy Swims, Lewis Capaldi... that's a lineup! Who are you most excited to see?",
      "channels": [
       "instagram",
+      "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "13:30",
      "tags": [
-      "#Cricket"
+      "#SummerFestivals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f1-british-gp-recap",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "British Grand Prix Aftermath",
+   "blurb": "The Formula 1 British Grand Prix at Silverstone concluded yesterday, July 5th, with Charles Leclerc taking the win amidst high-speed drama.",
+   "source": {
+    "l": "Formula 1 Official Site",
+    "u": "https://www.formula1.com/en/latest/article.2026-british-grand-prix-report.514434241680.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Silverstone Review",
+     "for": "",
+     "copy": "What a race at Silverstone yesterday! Charles Leclerc took the chequered flag at the British Grand Prix. What was your highlight from the weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#BritishGP"
+     ]
+    },
+    {
+     "name": "F1 Debate",
+     "for": "",
+     "copy": "Still buzzing from the British Grand Prix? Share your thoughts on the race, the overtakes, and that incredible finish!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#F1"
      ]
     }
    ]
