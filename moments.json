@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T17:15:44.834Z",
+ "updated": "2026-07-08T19:01:02.797Z",
  "moments": [
   {
    "id": "wimbledon-finals-week",
@@ -7,14 +7,140 @@
    "type": "sport",
    "hot": true,
    "title": "Wimbledon Finals Week",
-   "blurb": "The 2026 Wimbledon Championships are in their final week, with the Ladies' and Gentlemen's Singles Finals scheduled for July 12th.",
+   "blurb": "The 139th Wimbledon Championships continue at the All England Club, with the singles finals approaching this weekend on July 11th and 12th.",
    "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/"
+    "l": "Wimbledon Official",
+    "u": "https://www.wimbledon.com/en_GB/index.html"
    },
    "fits": [
     {
      "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Men's & Ladies' Finals",
+     "copy": "It's Finals Week at Wimbledon! Who will lift the coveted trophies this weekend? Tune in for all the drama on the grass. #Wimbledon",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "Quarter-finals today",
+     "copy": "The tension is building at Wimbledon as the Quarter-finals unfold today! Every serve, every volley, every point counts. #Wimbledon2026",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Wimbledon2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "world-cup-quarter-finals",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "FIFA World Cup Quarter-Finals Kick Off",
+   "blurb": "The FIFA World Cup 2026 enters the Quarter-finals stage from Thursday, July 9th, with major clashes including France vs. Morocco and England vs. Norway.",
+   "source": {
+    "l": "FIFA Official",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Quarter-finals preview",
+     "copy": "The World Cup Quarter-finals begin tomorrow! France, England, and other giants battle it out for a spot in the semis. Who are you backing? #WorldCup2026",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "England in the Quarters",
+     "copy": "England are in the World Cup Quarter-finals! Get ready for Saturday's massive clash against Norway. It's coming home? #England #ThreeLions",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#England",
+      "#ThreeLions"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-incoming",
+   "off": 2,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Set for Another Heatwave",
+   "blurb": "Forecasters predict a new heatwave for the UK, with temperatures set to rise across England and Wales from this weekend, potentially reaching 35C+ in some southern areas.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
      "sub": ""
     },
     {
@@ -24,58 +150,443 @@
    ],
    "angles": [
     {
-     "name": "Centre Court Drama",
-     "for": "",
-     "copy": "Who's making it to Centre Court this weekend? The Wimbledon finals are just days away! #Wimbledon",
+     "name": "Heatwave warnings",
+     "copy": "Another UK heatwave is on the way! Temperatures could soar to 35C+ this weekend. Stay hydrated and safe in the sun. #UKHeatwave",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#UKHeatwave"
+     ]
+    },
+    {
+     "name": "Summer vibes",
+     "copy": "Sun's out, fun's out! Get ready for a scorching weekend as a new heatwave hits the UK. Who's heading to the beach or firing up the BBQ? #SummerVibes",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#SummerVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2000trees-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "2000trees Festival Underway",
+   "blurb": "The 2000trees Festival, a multi-award-winning rock and indie music festival, is happening now in Gloucestershire from July 8-11.",
+   "source": {
+    "l": "2000trees Festival",
+    "u": "https://www.twothousandtreesfestival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Westcountry"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival kicks off",
+     "copy": "It's kicking off at 2000trees! The rock and indie festival is live in Gloucestershire this week. Who's there and who are you seeing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#2000trees"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-update",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "New UK Singles Chart Revealed",
+   "blurb": "The Official UK Singles Chart for July 2nd - July 8th has been released, featuring new entries from sombr, HUGEL, Ultra Nate & Imael Angel, Gracie Abrams, and Aitch.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart rundown",
+     "copy": "Fresh music alert! The new UK Singles Chart is out now. What's your favourite new entry from sombr, Gracie Abrams, or Aitch?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#UKChart"
+     ]
+    },
+    {
+     "name": "New chart hits",
+     "copy": "From dance anthems to pop bangers, the latest UK Singles Chart is packed with fresh tunes. What's on repeat for you this week? #NewMusic",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beck-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday, Beck!",
+   "blurb": "American indie rock icon Beck, known for hits like 'Loser' and 'Where It's At', turns 56 today.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/8"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Beck's 56th",
+     "copy": "Happy 56th Birthday to the genre-bending genius, Beck! What's your go-to track from his incredible catalogue?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "07:00",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "sky-ferreira-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday, Sky Ferreira!",
+   "blurb": "American singer, songwriter, model, and actress Sky Ferreira celebrates her 34th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/sky-ferreira.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Sky's 34th",
+     "copy": "Wishing a very Happy 34th Birthday to the brilliant Sky Ferreira! Which of her tracks is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "joan-osborne-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday, Joan Osborne!",
+   "blurb": "Grammy-nominated American singer-songwriter Joan Osborne, known for 'One of Us', turns 64 today.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joan_Osborne"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Joan's 64th",
+     "copy": "Happy 64th Birthday to the incredible Joan Osborne! Still singing 'One of Us' at the top of your lungs? We are! #JoanOsborne",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#JoanOsborne"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-dark-itv",
+   "off": 4,
+   "type": "tv",
+   "hot": true,
+   "title": "New Thriller 'The Dark' on ITV",
+   "blurb": "A new six-part murder drama, 'The Dark', set in the Scottish countryside and starring Laura Donnelly and Helen Baxendale, premieres on ITV and ITVX on July 12.",
+   "source": {
+    "l": "Red Magazine",
+    "u": "https://www.redonline.co.uk/entertainment/tv-and-film/a40409403/best-new-tv-july-2026-bbc-netflix-itv/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish thriller",
+     "copy": "Get ready for a chilling new drama! 'The Dark', a murder mystery set in the Scottish wilderness, starts this Sunday on ITV and ITVX. #TheDark",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "08:30",
+     "time": "18:00",
      "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "British Hopes",
-     "for": "",
-     "copy": "As Wimbledon 2026 reaches its climax, are British hopes still alive in the singles draws? Tune in!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": []
-    },
-    {
-     "name": "Finals Weekend Buzz",
-     "for": "",
-     "copy": "The biggest weekend in tennis is almost here! Who are you backing for the Wimbledon titles?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#WimbledonFinals"
+      "#TheDark"
      ]
     }
    ]
   },
   {
-   "id": "the-open-championship-build-up",
+   "id": "love-is-blind-uk-altar",
    "off": 4,
+   "type": "tv",
+   "hot": true,
+   "title": "Love is Blind: UK – After the Altar S2",
+   "blurb": "The second season of 'Love is Blind: UK – After the Altar' premieres globally on Netflix this Sunday, July 12th, catching up with the cast.",
+   "source": {
+    "l": "The British TV Place",
+    "u": "https://thebritishtvplace.com/2026/06/30/british-tv-premieres-in-july-2026-gone-inspector-ellis-trying-more/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Reality TV catch-up",
+     "copy": "Did they say 'I do'? Find out what happened next for the couples of Love is Blind: UK as 'After the Altar' Season 2 drops on Netflix this Sunday! #LoveIsBlindUK",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LoveIsBlindUK"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ann-droid-bbc",
+   "off": 3,
+   "type": "tv",
+   "hot": true,
+   "title": "Diane Morgan's 'Ann Droid' on BBC",
+   "blurb": "Diane Morgan stars in the quirky new BBC comedy 'Ann Droid', which premieres on July 11th.",
+   "source": {
+    "l": "Red Magazine",
+    "u": "https://www.redonline.co.uk/entertainment/tv-and-film/a40409403/best-new-tv-july-2026-bbc-netflix-itv/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New BBC comedy",
+     "copy": "Diane Morgan is back! Her new comedy 'Ann Droid' hits the BBC this Saturday. Get ready for some dry wit and laughs. #AnnDroid",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#AnnDroid"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kaleidoscope-festival",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Kaleidoscope Festival in London",
+   "blurb": "Alexandra Palace Park in London hosts the Kaleidoscope Festival on Saturday, July 11th, featuring music, comedy, and arts.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/top-july-festivals-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London festival vibes",
+     "copy": "London! Kaleidoscope Festival takes over Alexandra Palace Park this Saturday for a day of music, laughs, and good times. Who's in?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#KaleidoscopeFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lost-minds-festival",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Lost Minds Festival in Newcastle",
+   "blurb": "Lost Minds Festival brings its unique electronic music experience to Newcastle this Saturday, July 11th.",
+   "source": {
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/lost-minds-festival-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Newcastle dance",
+     "copy": "Newcastle, get ready! Lost Minds Festival is happening this Saturday, bringing the biggest beats and the best vibes. #LostMinds",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#LostMinds"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-open-championship",
+   "off": 8,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship Tees Off",
-   "blurb": "The 154th Open Championship begins its practice days at Royal Birkdale on July 12th, with the main tournament running from July 16-19.",
+   "title": "The Open Championship Begins",
+   "blurb": "The 154th Open Championship, golf's oldest major, officially begins its tournament play on Thursday, July 16th, at Royal Birkdale Golf Club, with practice days starting July 12th.",
    "source": {
-    "l": "The Open Official Site",
-    "u": "https://www.theopen.com/"
+    "l": "The Open Official",
+    "u": "https://www.theopen.com/royal-birkdale-2026"
    },
    "fits": [
     {
@@ -89,9 +600,8 @@
    ],
    "angles": [
     {
-     "name": "Golf's Greatest Stage",
-     "for": "",
-     "copy": "The world's best golfers are gathering at Royal Birkdale as The Open Championship officially begins its practice days this Sunday. Who's your pick for the Claret Jug?",
+     "name": "Golf's biggest major",
+     "copy": "The Claret Jug is on the line! The Open Championship practice days start this Sunday, with tournament play kicking off at Royal Birkdale next Thursday. #TheOpen",
      "channels": [
       "instagram",
       "facebook",
@@ -102,481 +612,6 @@
      "tags": [
       "#TheOpen"
      ]
-    },
-    {
-     "name": "Birkdale Ready",
-     "for": "",
-     "copy": "Royal Birkdale is primed and ready! The Open Championship practice days start July 12th. Any dark horses you're watching?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "mostly-jazz-funk-soul-festival",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Mostly Jazz Funk & Soul Festival",
-   "blurb": "Birmingham's Mostly Jazz Funk & Soul Festival kicks off this Friday, July 10th, running until July 12th in Moseley Park.",
-   "source": {
-    "l": "Mostly Jazz Funk & Soul Festival",
-    "u": "https://mostlyjazz.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio West Midlands"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birmingham Beats",
-     "for": "",
-     "copy": "Moseley Park is about to get soulful! The Mostly Jazz Funk & Soul Festival starts this Friday in Birmingham.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MostlyJazz"
-     ]
-    },
-    {
-     "name": "Weekend Grooves",
-     "for": "",
-     "copy": "Your weekend soundtrack sorted! Mostly Jazz Funk & Soul Festival brings the vibes to Birmingham from July 10-12.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#BirminghamGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hebridean-celtic-festival",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "Hebridean Celtic Festival",
-   "blurb": "The Hebridean Celtic Festival takes place in Stornoway, Outer Hebrides, Scotland, from July 15-18, featuring a diverse lineup of music and culture.",
-   "source": {
-    "l": "HebCelt Official Site",
-    "u": "https://www.hebceltfest.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Island Festival",
-     "for": "Nation Radio Scotland",
-     "copy": "Heading to the Outer Hebrides? The Hebridean Celtic Festival kicks off next Wednesday with four days of incredible music and culture! #HebCelt",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#HebCelt"
-     ]
-    },
-    {
-     "name": "Celtic Sounds",
-     "for": "",
-     "copy": "Get ready for some amazing Celtic vibes! The Hebridean Celtic Festival is just around the corner, starting July 15th.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "kaleidoscope-festival-london",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Kaleidoscope Festival",
-   "blurb": "Alexandra Palace's Kaleidoscope Festival returns for a day of music, comedy, and arts on July 11th.",
-   "source": {
-    "l": "Kaleidoscope Festival",
-    "u": "https://kaleidoscopefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Ally Pally Fun",
-     "for": "Nation Radio London",
-     "copy": "Alexandra Palace is hosting Kaleidoscope Festival this Saturday! A huge day of music, comedy, and more. Who's going?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#KaleidoscopeFestival"
-     ]
-    },
-    {
-     "name": "London Calling",
-     "for": "Nation Radio London",
-     "copy": "One day, all the fun! Kaleidoscope Festival lands at Ally Pally this weekend. Get your tickets!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#LondonEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-rein-me-in",
-   "off": 0,
-   "type": "chart",
-   "hot": true,
-   "title": "Official Singles Chart #1",
-   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' is currently the UK's Official Singles Chart Number 1, as of the week ending July 9, 2026.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper",
-     "for": "",
-     "copy": "Big news on the Official Singles Chart! Sam Fender & Olivia Dean are still holding strong at Number 1 with 'Rein Me In'. Deserved?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Tune of the Week",
-     "for": "",
-     "copy": "Still can't get enough of 'Rein Me In'? Sam Fender & Olivia Dean are this week's UK Number 1! What's your favourite track on the chart?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "netflix-little-house-prairie",
-   "off": 1,
-   "type": "tv",
-   "hot": true,
-   "title": "Little House on the Prairie Reboot",
-   "blurb": "A new adaptation of 'Little House on the Prairie' arrives on Netflix on July 9th.",
-   "source": {
-    "l": "Netflix",
-    "u": "https://www.netflix.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Nostalgia Watch",
-     "for": "",
-     "copy": "Get ready to revisit the Ingalls family! A new 'Little House on the Prairie' adaptation drops on Netflix tomorrow. Will you be watching?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#Netflix"
-     ]
-    },
-    {
-     "name": "Family Drama",
-     "for": "",
-     "copy": "New on Netflix from July 9th: 'Little House on the Prairie'. Perfect for some cosy family viewing.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#NewTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "itv-the-dark-thriller",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "ITV Thriller 'The Dark'",
-   "blurb": "The new ITV thriller 'The Dark', starring Laura Donnelly and Helen Baxendale, is airing this July.",
-   "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/hub/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Crime Drama",
-     "for": "",
-     "copy": "Looking for a new series to get stuck into? ITV's moody thriller 'The Dark' is on this month. Anyone hooked yet?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#TheDark"
-     ]
-    },
-    {
-     "name": "Scottish Mystery",
-     "for": "Nation Radio Scotland",
-     "copy": "A new thriller set in the Scottish wilderness is on ITV this July. 'The Dark' promises plenty of suspense!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#ITV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "beck-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 56th to Beck",
-   "blurb": "American singer-songwriter Beck, known for his genre-bending sound, turns 56 today, July 8th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/today.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Modern Rock Icon",
-     "for": "",
-     "copy": "Happy 56th birthday to the one and only Beck! What's your favourite track from the 'Loser' hitmaker?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "07:30",
-     "tags": [
-      "#Beck"
-     ]
-    },
-    {
-     "name": "Genre Bender",
-     "for": "",
-     "copy": "He's 56 today! Celebrate Beck's birthday with us – a true innovator in music.",
-     "channels": [
-      "x"
-     ],
-     "time": "12:30",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "jaden-smith-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Jaden Smith Turns 28",
-   "blurb": "Actor and rapper Jaden Smith celebrates his 28th birthday today, July 8th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/today.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday Shoutout",
-     "for": "",
-     "copy": "Wishing a very happy 28th birthday to Jaden Smith! What's your favourite of his tracks?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#JadenSmith"
-     ]
-    },
-    {
-     "name": "Artist & Activist",
-     "for": "",
-     "copy": "Jaden Smith turns 28 today! From film to music to activism, a multi-talented force.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "jack-white-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Jack White is 51",
-   "blurb": "Jack White, known for The White Stripes and his solo work, celebrates his 51st birthday tomorrow, July 9th.",
-   "source": {
-    "l": "The Current",
-    "u": "https://www.thecurrent.org/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Garage Rock Legend",
-     "for": "",
-     "copy": "Tomorrow, July 9th, we celebrate the 51st birthday of rock legend Jack White! What's your favourite White Stripes track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#JackWhite"
-     ]
-    },
-    {
-     "name": "Happy Birthday Jack",
-     "for": "",
-     "copy": "From The White Stripes to solo stardom, Jack White turns 51 tomorrow! Send him some birthday love!",
-     "channels": [
-      "x"
-     ],
-     "time": "18:00",
-     "tags": []
     }
    ]
   },
@@ -585,11 +620,11 @@
    "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Courtney Love's 62nd",
-   "blurb": "Hole frontwoman Courtney Love celebrates her 62nd birthday tomorrow, July 9th.",
+   "title": "Happy Birthday, Courtney Love!",
+   "blurb": "American singer, songwriter, and actress Courtney Love, frontwoman of Hole, turns 62 tomorrow.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
+    "u": "https://www.famousbirthdays.com/people/courtney-love.html"
    },
    "fits": [
     {
@@ -603,323 +638,14 @@
    ],
    "angles": [
     {
-     "name": "Grunge Queen",
-     "for": "",
-     "copy": "Happy 62nd birthday to the iconic Courtney Love tomorrow! What's your favourite Hole anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#CourtneyLove"
-     ]
-    },
-    {
-     "name": "Rock Royalty",
-     "for": "",
-     "copy": "Celebrating Courtney Love's 62nd birthday tomorrow! A true force in rock music.",
-     "channels": [
-      "x"
-     ],
-     "time": "19:30",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "neil-tennant-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Neil Tennant Turns 71",
-   "blurb": "Neil Tennant, lead vocalist of the Pet Shop Boys, will celebrate his 71st birthday on July 10th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Synth-Pop Pioneer",
-     "for": "",
-     "copy": "West End Girls and beyond! Wishing a very happy 71st birthday to Pet Shop Boys' Neil Tennant on Thursday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#PetShopBoys"
-     ]
-    },
-    {
-     "name": "Pop Icon",
-     "for": "",
-     "copy": "Thursday is Neil Tennant's 71st birthday! What's your go-to Pet Shop Boys classic?",
-     "channels": [
-      "x"
-     ],
-     "time": "13:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "perrie-edwards-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Perrie Edwards is 32",
-   "blurb": "Little Mix star Perrie Edwards celebrates her 32nd birthday on July 10th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 10s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Princess",
-     "for": "",
-     "copy": "Happy 32nd birthday to the incredible Perrie Edwards on Thursday! What's your favourite Little Mix track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PerrieEdwards"
-     ]
-    },
-    {
-     "name": "Birthday Wishes",
-     "for": "",
-     "copy": "Thursday is Perrie Edwards' 32nd birthday! Send your best wishes to the Little Mix star.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "peter-murphy-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Peter Murphy Turns 69",
-   "blurb": "Bauhaus frontman Peter Murphy, known as the 'Godfather of Goth', celebrates his 69th birthday on July 11th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Goth Legend",
-     "for": "",
-     "copy": "Happy 69th birthday to the iconic Peter Murphy from Bauhaus on Friday! What's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#Bauhaus"
-     ]
-    },
-    {
-     "name": "Birthday Rock",
-     "for": "",
-     "copy": "Celebrating Peter Murphy's 69th on Friday! Still inspiring generations of artists.",
-     "channels": [
-      "x"
-     ],
-     "time": "14:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "richie-sambora-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Richie Sambora is 67",
-   "blurb": "Former Bon Jovi guitarist and songwriter Richie Sambora celebrates his 67th birthday on July 11th.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar Hero",
-     "for": "",
-     "copy": "Wishing a very happy 67th birthday to the legendary Richie Sambora on Friday! What's your favourite Bon Jovi guitar solo?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#RichieSambora"
-     ]
-    },
-    {
-     "name": "Bon Jovi Birthday",
-     "for": "",
-     "copy": "Friday is Richie Sambora's 67th birthday! An essential part of Bon Jovi's classic sound.",
-     "channels": [
-      "x"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "roger-mcguinn-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Roger McGuinn Turns 84",
-   "blurb": "Roger McGuinn, co-founder of The Byrds, celebrates his 84th birthday on July 13th.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Folk Rock Pioneer",
-     "for": "",
-     "copy": "Happy 84th birthday to the legendary Roger McGuinn from The Byrds on Monday! What's your favourite Byrds track?",
+     "name": "Courtney's 62nd",
+     "copy": "Wishing a fierce Happy 62nd Birthday to the iconic Courtney Love tomorrow! What's your favourite Hole track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
      "time": "07:00",
-     "tags": [
-      "#TheByrds"
-     ]
-    },
-    {
-     "name": "Jingle Jangle",
-     "for": "",
-     "copy": "Celebrating Roger McGuinn's 84th on Monday! A true innovator of folk-rock.",
-     "channels": [
-      "x"
-     ],
-     "time": "11:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "dan-reynolds-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Dan Reynolds is 39",
-   "blurb": "Imagine Dragons frontman Dan Reynolds celebrates his 39th birthday on July 14th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Imagine Dragons Frontman",
-     "for": "",
-     "copy": "Happy 39th birthday to Imagine Dragons' Dan Reynolds on Tuesday! What's your favourite stadium anthem from the band?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#ImagineDragons"
-     ]
-    },
-    {
-     "name": "Birthday Rocker",
-     "for": "",
-     "copy": "Celebrating Dan Reynolds' 39th birthday on Tuesday! The voice behind so many massive hits.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
      "tags": []
     }
    ]
@@ -929,11 +655,11 @@
    "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Linda Ronstadt Turns 80",
-   "blurb": "Grammy-winning singer Linda Ronstadt, a versatile artist across multiple genres, celebrates her 80th birthday on July 15th.",
+   "title": "Happy Birthday, Linda Ronstadt!",
+   "blurb": "Grammy-winning American singer Linda Ronstadt, known for her versatile voice across multiple genres, turns 80 on July 15th.",
    "source": {
-    "l": "National Day Calendar",
-    "u": "https://nationaldaycalendar.com/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/linda-ronstadt.html"
    },
    "fits": [
     {
@@ -942,151 +668,137 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Music Legend",
-     "for": "",
-     "copy": "Happy 80th birthday to the incredible Linda Ronstadt next Wednesday! What's your favourite track from her amazing career?",
+     "name": "Linda's 80th",
+     "copy": "A huge Happy 80th Birthday to the legendary Linda Ronstadt on July 15th! Celebrate her incredible career with your favourite song.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "07:30",
-     "tags": [
-      "#LindaRonstadt"
-     ]
-    },
-    {
-     "name": "Eight Decades of Talent",
-     "for": "",
-     "copy": "Next Wednesday, we celebrate Linda Ronstadt's 80th birthday! A true musical icon.",
-     "channels": [
       "x"
      ],
-     "time": "12:00",
+     "time": "14:00",
      "tags": []
     }
    ]
   },
   {
-   "id": "olly-alexander-birthday",
-   "off": 7,
+   "id": "mia-birthday",
+   "off": 10,
    "type": "birthday",
    "hot": true,
-   "title": "Olly Alexander is 35",
-   "blurb": "Years & Years frontman and solo artist Olly Alexander celebrates his 35th birthday on July 15th.",
+   "title": "Happy Birthday, M.I.A.!",
+   "blurb": "British rapper, singer, songwriter, and record producer M.I.A. (Mathangi Arulpragasam), famous for 'Paper Planes', turns 51 on July 18th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/18"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 10s"
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Pop Dynamo",
-     "for": "",
-     "copy": "Happy 35th birthday to the fantastic Olly Alexander next Wednesday! What's your favourite Years & Years hit?",
+     "name": "M.I.A.'s 51st",
+     "copy": "Wishing a very Happy 51st Birthday to the groundbreaking M.I.A. on July 18th! Still blasting 'Paper Planes'?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
-     "tags": [
-      "#OllyAlexander"
-     ]
-    },
-    {
-     "name": "Birthday Beats",
-     "for": "",
-     "copy": "Next Wednesday is Olly Alexander's 35th birthday! Send your best wishes to the pop superstar.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:30",
+     "time": "10:00",
      "tags": []
     }
    ]
   },
   {
-   "id": "summer-school-holidays-start",
-   "off": 0,
-   "type": "seasonal",
+   "id": "daron-malakian-birthday",
+   "off": 10,
+   "type": "birthday",
    "hot": true,
-   "title": "Summer Holidays Begin",
-   "blurb": "School summer holidays have started or are beginning this week across much of the UK.",
+   "title": "Happy Birthday, Daron Malakian!",
+   "blurb": "System Of A Down guitarist and vocalist Daron Malakian turns 51 on July 18th.",
    "source": {
-    "l": "GOV.UK",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/18"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "School's Out!",
-     "for": "",
-     "copy": "It's official: summer holidays are here for many! Wishing everyone a fantastic break. What are your plans?",
+     "name": "Daron's 51st",
+     "copy": "Happy 51st Birthday to System Of A Down's Daron Malakian on July 18th! What's your favourite SOAD riff?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#SummerHolidays"
-     ]
-    },
-    {
-     "name": "Family Fun",
-     "for": "",
-     "copy": "School's out for summer! If you're looking for ideas to keep the kids entertained, we've got you covered.",
-     "channels": [
-      "facebook",
-      "tiktok"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#FamilyFun"
-     ]
-    },
-    {
-     "name": "Travel Time",
-     "for": "",
-     "copy": "Hit the road! Summer holidays are officially underway. Where are you heading for your break?",
-     "channels": [
       "x"
      ],
-     "time": "15:00",
-     "tags": [
-      "#UKSummer"
-     ]
+     "time": "16:00",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "jack-irons-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday, Jack Irons!",
+   "blurb": "Former Red Hot Chili Peppers and Pearl Jam drummer Jack Irons celebrates his 64th birthday on July 18th.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/18"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jack's 64th",
+     "copy": "A big Happy 64th Birthday to the incredible Jack Irons on July 18th! From RHCP to Pearl Jam, a true drumming legend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": []
     }
    ]
   }
