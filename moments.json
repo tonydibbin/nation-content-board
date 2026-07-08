@@ -1,13 +1,61 @@
 {
- "updated": "2026-07-07T23:43:19.489Z",
+ "updated": "2026-07-08T01:18:12.913Z",
  "moments": [
   {
-   "id": "wimbledon-finals-week",
+   "id": "world-cup-qf",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "World Cup Quarter-Finals Kick Off",
+   "blurb": "The FIFA World Cup 2026 knockout stage continues with the Quarter-Finals starting on July 9, leading up to the final on July 19.",
+   "source": {
+    "l": "FIFA / FOX Sports",
+    "u": "https://www.foxsports.com/soccer/fifa-world-cup/schedule"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Quarter-Final Hype",
+     "copy": "Who makes the final four? The World Cup Quarter-Finals kick off tomorrow, and the tension is palpable. What's your prediction?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "Tournament Buzz",
+     "copy": "Still buzzing from the Round of 16? Get ready for more drama as the World Cup Quarter-Finals are just around the corner.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#FIFAWorldCup"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wimbledon-qf",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon Finals Week",
-   "blurb": "The 2026 Wimbledon Championships continue through to the Men's and Ladies' Singles Finals this weekend, running from June 29 to July 12.",
+   "title": "Wimbledon Quarter-Finals Day 2",
+   "blurb": "The Wimbledon Championships run until July 12, with today, July 8, featuring the second day of Gentlemen's and Ladies' Singles Quarter-finals.",
    "source": {
     "l": "Wimbledon Official",
     "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
@@ -16,52 +64,47 @@
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Centre Court Drama",
-     "for": "",
-     "copy": "It's finals week at Wimbledon! Who are you backing to lift the trophies on Centre Court this weekend?",
+     "name": "Centre Court Action",
+     "copy": "It's Quarter-Finals day at Wimbledon! Who are you backing for a spot in the semis on the grass today?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "08:00",
+     "time": "11:00",
      "tags": [
       "#Wimbledon"
      ]
     },
     {
      "name": "British Hopes",
-     "for": "",
-     "copy": "Are British hopes still alive at Wimbledon? Catch all the action as the tournament heads into its thrilling conclusion.",
+     "copy": "The tension is mounting at SW19. Can any British players make it through today's Quarter-Finals?",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "11:00",
+     "time": "14:00",
      "tags": [
-      "#WimbledonFinals"
+      "#Wimbledon2026"
      ]
     }
    ]
   },
   {
-   "id": "tour-de-france-ongoing",
+   "id": "tour-de-france-stage5",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Tour de France Battle",
-   "blurb": "The 113th edition of the Tour de France is well underway, having started on July 4th in Barcelona and continuing until July 26th.",
+   "title": "Tour de France Stage 5",
+   "blurb": "The Tour de France 2026, running until July 26, is currently in Stage 5 today, a flat 158.3km ride from Lannemezan to Pau.",
    "source": {
-    "l": "Tour de France Official",
-    "u": "https://www.letour.fr/en/"
+    "l": "Tour de France Official / Red Bull",
+    "u": "https://www.redbull.com/gb-en/tour-de-france-2026-route-stages-climbs-key-days"
    },
    "fits": [
     {
@@ -71,10 +114,10 @@
    ],
    "angles": [
     {
-     "name": "Cycling Thrills",
-     "for": "",
-     "copy": "The Tour de France peloton is battling through the mountains! Who's looking strong for the yellow jersey?",
+     "name": "Peloton Update",
+     "copy": "Another day, another stage! The Tour de France peloton is tackling Stage 5 today. Who's in the yellow jersey?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
@@ -84,13 +127,13 @@
      ]
     },
     {
-     "name": "Stage by Stage",
-     "for": "",
-     "copy": "Another day, another gruelling stage in the Tour de France. Keep up with all the twists and turns from France!",
+     "name": "Sprint Finish?",
+     "copy": "Stage 5 of the Tour de France is a flat one today – perfect for the sprinters! Get ready for a thrilling finish.",
      "channels": [
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
       "#TourDeFrance"
      ]
@@ -98,69 +141,849 @@
    ]
   },
   {
-   "id": "wireless-festival",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Wireless Festival Takes Over London",
-   "blurb": "Wireless Festival returns to Finsbury Park, London from July 10-12, with Ye (Kanye West) headlining all three days.",
+   "id": "the-open-birkdale",
+   "off": 8,
+   "type": "sport",
+   "hot": false,
+   "title": "The Open Championship at Royal Birkdale",
+   "blurb": "The 154th Open Championship will be played at Royal Birkdale from July 16-19, with practice days starting July 12.",
    "source": {
-    "l": "Wireless Festival",
-    "u": "https://wirelessfestival.co.uk/"
+    "l": "The Open Official",
+    "u": "https://www.theopen.com/royal-birkdale-2026"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Countdown to The Open",
+     "copy": "Less than 10 days until The Open Championship returns to Royal Birkdale! Who are you tipping for the Claret Jug?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheOpen"
+     ]
     },
+    {
+     "name": "Golf's Greatest",
+     "copy": "The world's best golfers head to Merseyside next week for The Open. Get ready for four days of unforgettable links golf!",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RoyalBirkdale"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2000trees-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "2000trees Festival Kicks Off",
+   "blurb": "The 2000trees Festival in Gloucestershire starts today, July 8, and runs until July 11, featuring a lineup of indie, punk, and rock acts.",
+   "source": {
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/2000trees-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Gates Open",
+     "copy": "Let the good times roll! 2000trees Festival starts today in Gloucestershire. Who's heading down?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#2000trees"
+     ]
+    },
+    {
+     "name": "Rocking Out",
+     "copy": "Four days of incredible music kicks off today at 2000trees! Get ready to discover your new favourite band.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#UKFestivals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "henley-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Henley Festival Begins",
+   "blurb": "The Henley Festival, known for its unique blend of music and arts, starts today, July 8, and runs until July 12 in Henley-on-Thames.",
+   "source": {
+    "l": "Henley Festival Official",
+    "u": "https://henley-festival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Culture by the Thames",
+     "copy": "Henley Festival opens its doors today! Five days of world-class music, comedy, and art by the river. Who's got their tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#HenleyFestival"
+     ]
+    },
+    {
+     "name": "Ready for the Glamour",
+     "copy": "Black tie and brilliant music – Henley Festival is back! What acts are you most excited to see this week?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SummerFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-island-uk",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Love Island UK Continues",
+   "blurb": "Love Island UK Season 13, which started June 1, continues nightly on ITV2 and ITVX, with the final expected around late July.",
+   "source": {
+    "l": "ITVX / Radio Times",
+    "u": "https://www.radiotimes.com/tv/reality-tv/love-island-2026-release-date/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Villa Drama Tonight",
+     "copy": "Another night, another dose of Love Island drama! What's got the villa talking tonight?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "21:00",
+     "tags": [
+      "#LoveIslandUK"
+     ]
+    },
+    {
+     "name": "Grafting Season",
+     "copy": "Who's coupling up and who's getting pied? Catch all the latest from the Love Island villa tonight.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "elle-legally-blonde",
+   "off": 0,
+   "type": "tv",
+   "hot": false,
+   "title": "Elle (Legally Blonde Prequel) Streaming",
+   "blurb": "The 'Legally Blonde' prequel series, 'Elle', which follows a teenage Elle Woods, premiered on Prime Video on July 1 and is available to stream.",
+   "source": {
+    "l": "Prime Video / Red Magazine",
+    "u": "https://www.redonline.co.uk/entertainment/g55990264/best-tv-shows-july-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Series Alert",
+     "copy": "If you loved Legally Blonde, you need to check out 'Elle' on Prime Video! Get your pink ready for some serious teen drama.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ElleSeries"
+     ]
+    },
+    {
+     "name": "What's Your Verdict?",
+     "copy": "Have you started watching 'Elle' yet? The Legally Blonde prequel is streaming now – what do you think of teenage Elle Woods?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LegallyBlonde"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-is-blind-uk-after-the-altar",
+   "off": 4,
+   "type": "tv",
+   "hot": false,
+   "title": "Love is Blind: UK – After the Altar S2",
+   "blurb": "The second season of 'Love is Blind: UK – After the Altar' premieres globally on Netflix on Sunday, July 12.",
+   "source": {
+    "l": "Netflix / The British TV Place",
+    "u": "https://thebritishtvplace.com/2026/06/30/british-tv-premieres-in-july-2026-gone-inspector-ellis-trying-more/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Post-Pod Drama",
+     "copy": "The pods are closed, but the drama continues! 'Love is Blind: UK – After the Altar' Season 2 lands on Netflix this Sunday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LoveIsBlindUK"
+     ]
+    },
+    {
+     "name": "Catching Up with Couples",
+     "copy": "Ready to see who's still together (and who's definitely not)? 'Love is Blind: UK – After the Altar' S2 is coming soon!",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#RealityTV"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dan-reynolds-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Dan Reynolds turns 39",
+   "blurb": "Imagine Dragons frontman Dan Reynolds celebrates his 39th birthday on July 14.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/dan-reynolds.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Imagine Dragons Leader",
+     "copy": "Believer! Imagine Dragons' Dan Reynolds turns 39 this Sunday. What's your favourite track from the band?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ImagineDragons"
+     ]
+    },
+    {
+     "name": "Rock Star Birthday",
+     "copy": "Wishing a happy 39th birthday to Imagine Dragons' incredible frontman, Dan Reynolds, this Sunday!",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#DanReynolds"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taboo-bep-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Taboo (Black Eyed Peas) turns 51",
+   "blurb": "Black Eyed Peas member Taboo celebrates his 51st birthday on July 14.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/taboo.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Black Eyed Peas Star",
+     "copy": "Where is the love? It's coming this Sunday for Taboo from Black Eyed Peas, who turns 51!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BlackEyedPeas"
+     ]
+    },
+    {
+     "name": "Hip-Hop Icon",
+     "copy": "Happy 51st birthday on Sunday to the one and only Taboo from Black Eyed Peas! What's your favourite BEP hit?",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Taboo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chris-cross-ultravox-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Chris Cross (Ultravox) turns 74",
+   "blurb": "Ultravox bassist Chris Cross celebrates his 74th birthday on July 14.",
+   "source": {
+    "l": "This Day In Music / Wikipedia",
+    "u": "https://www.thisdayinmusic.com/birthdays/chris-cross/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s Synth Legend",
+     "copy": "Wishing a very happy 74th birthday this Sunday to Chris Cross, the legendary bassist from Ultravox!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Ultravox"
+     ]
+    },
+    {
+     "name": "New Wave Pioneer",
+     "copy": "Vienna calling! Chris Cross of Ultravox fame turns 74 on Sunday. What's your favourite Ultravox track?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ChrisCross"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "linda-ronstadt-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Linda Ronstadt turns 80",
+   "blurb": "Iconic singer Linda Ronstadt celebrates her 80th birthday on July 15.",
+   "source": {
+    "l": "Famous Birthdays / SoulTracks",
+    "u": "https://www.famousbirthdays.com/people/linda-ronstadt.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Vocal Legend",
+     "copy": "Happy 80th birthday this Monday to the incredible Linda Ronstadt! Her voice has graced so many timeless hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#LindaRonstadt"
+     ]
+    },
+    {
+     "name": "Music Icon",
+     "copy": "80 years young! Celebrate Linda Ronstadt's birthday this Monday by listening to some of her greatest songs.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#ClassicHits"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joe-satriani-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Joe Satriani turns 70",
+   "blurb": "Master instrumental rock guitarist Joe Satriani celebrates his 70th birthday on July 15.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/joe-satriani.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar God",
+     "copy": "Shredding into his 70s! Happy birthday this Monday to the legendary guitarist Joe Satriani.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#JoeSatriani"
+     ]
+    },
+    {
+     "name": "Instrumental Genius",
+     "copy": "A true guitar hero turns 70 on Monday! Celebrate Joe Satriani's birthday with some epic instrumental rock.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#GuitarLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "millie-jackson-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Millie Jackson turns 82",
+   "blurb": "Soul and R&B singer-songwriter Millie Jackson celebrates her 82nd birthday on July 15.",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/birthdays-july"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Soulful Birthday",
+     "copy": "Happy 82nd birthday this Monday to the incredible Millie Jackson, a true icon of soul and R&B!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#MillieJackson"
+     ]
+    },
+    {
+     "name": "R&B Queen",
+     "copy": "Celebrating 82 years of soulful music! Wishing a very happy birthday to Millie Jackson this Monday.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#SoulMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "olly-alexander-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Olly Alexander turns 36",
+   "blurb": "Years & Years frontman Olly Alexander celebrates his 36th birthday on July 15.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/olly-alexander.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star Birthday",
+     "copy": "It's a King's birthday this Monday! Olly Alexander from Years & Years turns 36. What's your favourite track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#OllyAlexander"
+     ]
+    },
+    {
+     "name": "Years & Years Celebration",
+     "copy": "Happy 36th birthday to the brilliant Olly Alexander this Monday! What's your top Years & Years tune?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#YearsAndYears"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tom-fletcher-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Tom Fletcher (McFly) turns 41",
+   "blurb": "McFly singer and guitarist Tom Fletcher celebrates his 41st birthday on July 17.",
+   "source": {
+    "l": "Famous Birthdays / This Day In Music",
+    "u": "https://www.famousbirthdays.com/people/tom-fletcher.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "McFly's Main Man",
+     "copy": "It's all about you! Happy 41st birthday this Wednesday to McFly's very own Tom Fletcher. What's your favourite McFly song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#TomFletcher"
+     ]
+    },
+    {
+     "name": "Pop-Rock Birthday",
+     "copy": "Wishing a massive happy 41st birthday to McFly legend Tom Fletcher this Wednesday! Time for a pop-punk playlist.",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#McFly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geezer-butler-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Geezer Butler (Black Sabbath) turns 77",
+   "blurb": "Black Sabbath bassist and primary lyricist Geezer Butler celebrates his 77th birthday on July 17.",
+   "source": {
+    "l": "This Day In Music / Famous Birthdays",
+    "u": "https://www.thisdayinmusic.com/birthdays/geezer-butler/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal Icon",
+     "copy": "Happy 77th birthday this Wednesday to the legendary Geezer Butler, the lyrical mastermind behind Black Sabbath!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BlackSabbath"
+     ]
+    },
+    {
+     "name": "Heavy Metal Pioneer",
+     "copy": "The riff master turns 77 this Wednesday! Celebrate Geezer Butler's birthday with some classic Black Sabbath.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#GeezerButler"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wolfgang-flur-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Wolfgang Flur (Kraftwerk) turns 79",
+   "blurb": "Former Kraftwerk percussionist and electronic music pioneer Wolfgang Flur celebrates his 79th birthday on July 17.",
+   "source": {
+    "l": "This Day In Music",
+    "u": "https://www.thisdayinmusic.com/birthdays/wolfgang-flur/"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Wireless Weekend",
-     "for": "Nation Radio London",
-     "copy": "Wireless Festival is almost here! Finsbury Park is about to go off with Ye headlining three nights. Who's got tickets?",
+     "name": "Electronic Music Pioneer",
+     "copy": "Happy 79th birthday this Wednesday to Wolfgang Flur of Kraftwerk! A true innovator of electronic music.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "11:00",
      "tags": [
-      "#WirelessFestival"
+      "#Kraftwerk"
      ]
     },
     {
-     "name": "Ye's Return",
-     "for": "Nation Hits",
-     "copy": "Ye is set to dominate Wireless Festival this weekend, headlining all three days. What tracks are you hoping to hear?",
+     "name": "Synth Wizard",
+     "copy": "Celebrating Wolfgang Flur's 79th birthday this Wednesday! What's your favourite Kraftwerk track that still sounds futuristic today?",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "18:00",
+     "time": "15:00",
      "tags": [
-      "#Wireless2026"
+      "#ElectronicMusic"
      ]
     }
    ]
   },
   {
-   "id": "latitude-festival",
-   "off": 16,
-   "type": "gig",
-   "hot": true,
-   "title": "Latitude Festival Approaching",
-   "blurb": "Latitude Festival celebrates its 20th anniversary at Henham Park, Suffolk from July 23-26, featuring headliners David Byrne, Teddy Swims, and Lewis Capaldi.",
+   "id": "regina-belle-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Regina Belle turns 63",
+   "blurb": "Grammy-winning R&B and soul singer Regina Belle celebrates her 63rd birthday on July 17.",
    "source": {
-    "l": "Latitude Festival",
+    "l": "Famous Birthdays / SoulTracks",
+    "u": "https://www.famousbirthdays.com/people/regina-belle.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Soulful Diva",
+     "copy": "Happy 63rd birthday this Wednesday to the incredible R&B and soul diva, Regina Belle! What's your favourite song of hers?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ReginaBelle"
+     ]
+    },
+    {
+     "name": "Powerhouse Voice",
+     "copy": "Celebrating the amazing Regina Belle's 63rd birthday this Wednesday! Her voice is pure magic.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SoulMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "latitude-festival-coming-up",
+   "off": 15,
+   "type": "gig",
+   "hot": false,
+   "title": "Latitude Festival Approaches",
+   "blurb": "Latitude Festival returns to Henham Park, Suffolk from July 23-26, celebrating 20 years with a diverse lineup of music, arts, and comedy.",
+   "source": {
+    "l": "Latitude Festival Official",
     "u": "https://www.latitudefestival.com/"
    },
    "fits": [
@@ -169,23 +992,14 @@
      "sub": "Nation Radio Suffolk"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "20 Years of Latitude",
-     "for": "Nation Radio Suffolk",
-     "copy": "Celebrating 20 years of Latitude! Henham Park is gearing up for David Byrne, Teddy Swims, and Lewis Capaldi from July 23-26. Who's joining the party?",
+     "name": "Suffolk's Big One",
+     "copy": "Get ready, Suffolk! Latitude Festival is just over two weeks away. Who are you excited to see at Henham Park?",
      "channels": [
       "instagram",
       "facebook",
@@ -197,607 +1011,15 @@
      ]
     },
     {
-     "name": "Diverse Lineup",
-     "for": "Nation Hits",
-     "copy": "From Talking Heads legend David Byrne to pop sensation Lewis Capaldi, Latitude Festival has a stacked lineup for its 20th anniversary. What artists are on your must-see list?",
+     "name": "Festival Countdown",
+     "copy": "The countdown is on for Latitude Festival! Celebrating 20 years of music, arts, and discovery. Are you going?",
      "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Latitude2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-island-2026",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Love Island Continues",
-   "blurb": "The 13th series of Love Island UK, which began on June 1st, continues nightly on ITV2 and ITVX, bringing daily drama from the Mallorca villa.",
-   "source": {
-    "l": "ITVX",
-    "u": "https://www.itv.com/itvx/series/love-island"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Villa Drama",
-     "for": "",
-     "copy": "Another night, another dose of Love Island drama! Who's coupled up and who's on the rocks?",
-     "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "21:00",
-     "tags": [
-      "#LoveIsland"
-     ]
-    },
-    {
-     "name": "Catch Up on Love Island",
-     "for": "",
-     "copy": "Missed last night's Love Island? Catch up on all the villa action on ITVX before tonight's episode!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#LoveIslandUK"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ringo-starr-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Ringo Starr Turns 86",
-   "blurb": "Today, July 7th, is the 86th birthday of legendary Beatles drummer Ringo Starr, born in 1940.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Ringo_Starr"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Ringo",
-     "for": "Nation 60s",
-     "copy": "Peace and love! Wishing a very happy 86th birthday to the one and only Ringo Starr. What's your favourite Beatles track featuring Ringo?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RingoStarr"
-     ]
-    },
-    {
-     "name": "Beatles Legend",
-     "for": "Nation Classic Hits",
-     "copy": "From Liverpool to global superstardom, Ringo Starr celebrates his 86th birthday today. A true legend of rock and roll!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TheBeatles"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kevin-bacon-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Kevin Bacon's 68th Birthday",
-   "blurb": "Actor and musician Kevin Bacon, known for his roles and as part of The Bacon Brothers, turns 68 on July 8th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Kevin_Bacon"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Six Degrees of Bacon",
-     "for": "",
-     "copy": "Tomorrow, Kevin Bacon turns 68! Celebrate by connecting him to your favourite song in six degrees or less.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#KevinBacon"
-     ]
-    },
-    {
-     "name": "Musical Talent",
-     "for": "Nation Rocks",
-     "copy": "Beyond the silver screen, Kevin Bacon is a talented musician with The Bacon Brothers. Wishing him a happy 68th birthday tomorrow!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#TheBaconBrothers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jack-white-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Jack White Turns 51",
-   "blurb": "Influential rock musician Jack White, frontman of The White Stripes and The Raconteurs, celebrates his 51st birthday on July 9th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jack_White"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Icon",
-     "for": "Nation Rocks",
-     "copy": "Happy 51st birthday to the incomparable Jack White! What's your favourite White Stripes or Raconteurs track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JackWhite"
-     ]
-    },
-    {
-     "name": "Modern Rock Legend",
-     "for": "Nation 00s",
-     "copy": "From 'Seven Nation Army' to his solo work, Jack White has shaped modern rock. Wishing him a fantastic 51st birthday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
      "time": "14:00",
      "tags": [
-      "#TheWhiteStripes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "courtney-love-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Courtney Love's 62nd Birthday",
-   "blurb": "Hole frontwoman and rock icon Courtney Love celebrates her 62nd birthday on July 9th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Courtney_Love"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Grunge Queen",
-     "for": "Nation Rocks",
-     "copy": "Happy 62nd birthday to the fierce and iconic Courtney Love! What's your favourite Hole anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CourtneyLove"
-     ]
-    },
-    {
-     "name": "90s Icon",
-     "for": "Nation 90s",
-     "copy": "Celebrating the birthday of grunge legend Courtney Love. Her impact on 90s rock is undeniable!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Hole"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "liz-mitchell-boney-m-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Liz Mitchell (Boney M.) Turns 74",
-   "blurb": "Liz Mitchell, the lead singer of the iconic disco group Boney M., turns 74 on July 12th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Liz_Mitchell"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Boney M. Legend",
-     "for": "Nation 70s",
-     "copy": "On July 12th, we're wishing a very happy 74th birthday to Liz Mitchell, the voice of Boney M.! What's your favourite track from them?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BoneyM"
-     ]
-    },
-    {
-     "name": "Disco Icon",
-     "for": "Nation Dance",
-     "copy": "Get ready to dance! Liz Mitchell of Boney M. celebrates her 74th birthday this Friday. 'Rivers of Babylon' or 'Daddy Cool'?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Disco"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gareth-gates-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Gareth Gates Turns 42",
-   "blurb": "Pop Idol runner-up and chart-topping singer Gareth Gates celebrates his 42nd birthday on July 12th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Gareth_Gates"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Idol Flashback",
-     "for": "Nation Hits",
-     "copy": "Remember 'Unchained Melody'? Gareth Gates turns 42 on Friday! What was your favourite song from his Pop Idol days?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#GarethGates"
-     ]
-    },
-    {
-     "name": "00s Pop Star",
-     "for": "Nation 00s",
-     "copy": "From reality TV to musical theatre, Gareth Gates has had an amazing career. Happy 42nd birthday to the 00s pop favourite!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#PopIdol"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "linda-ronstadt-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Linda Ronstadt's 80th Birthday",
-   "blurb": "Grammy-winning singer Linda Ronstadt, a versatile artist across rock, country, and folk, turns 80 on July 15th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Linda_Ronstadt"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Music Legend",
-     "for": "Nation Classic Hits",
-     "copy": "Wishing a very happy 80th birthday to the incredible Linda Ronstadt on July 15th! Her voice is timeless.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LindaRonstadt"
-     ]
-    },
-    {
-     "name": "Versatile Voice",
-     "for": "Nation 70s",
-     "copy": "From rock to country, Linda Ronstadt mastered every genre. Celebrate her 80th birthday with a listen to her greatest hits!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MusicIcon"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fatboy-slim-birthday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Fatboy Slim Turns 63",
-   "blurb": "Norman Cook, better known as DJ Fatboy Slim, the pioneer of big beat music, celebrates his 63rd birthday on July 16th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Fatboy_Slim"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Big Beat Birthday",
-     "for": "Nation Dance",
-     "copy": "Right here, right now! Happy 63rd birthday to the legendary Fatboy Slim on July 16th. What's your favourite track to get you moving?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#FatboySlim"
-     ]
-    },
-    {
-     "name": "90s Dance Icon",
-     "for": "Nation 90s",
-     "copy": "From Brighton Beach to global stages, Fatboy Slim defined a sound. Wishing Norman Cook a massive happy 63rd birthday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NormanCook"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "natasha-hamilton-birthday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Natasha Hamilton (Atomic Kitten) Turns 44",
-   "blurb": "Atomic Kitten singer Natasha Hamilton celebrates her 44th birthday on July 17th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Natasha_Hamilton"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Atomic Birthday",
-     "for": "Nation 00s",
-     "copy": "It's gonna be alright! Wishing a very happy 44th birthday to Atomic Kitten's Natasha Hamilton on July 17th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#AtomicKitten"
-     ]
-    },
-    {
-     "name": "Pop Princess",
-     "for": "Nation Hits",
-     "copy": "From 'Whole Again' to her solo career, Natasha Hamilton has been a pop staple. Happy 44th birthday next Friday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#NatashaHamilton"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "summer-holidays-begin",
-   "off": 13,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Summer School Holidays Start",
-   "blurb": "Summer school holidays are either already underway in Scotland and Northern Ireland, or about to begin in England and Wales from July 20th.",
-   "source": {
-    "l": "Holiday Extras",
-    "u": "https://www.holidayextras.com/uk-school-holidays.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "School's Out!",
-     "for": "",
-     "copy": "The summer holidays are here (or almost here!) for schools across the UK! What are your plans for the long break?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SummerHolidays"
-     ]
-    },
-    {
-     "name": "Family Fun Time",
-     "for": "welsh-local",
-     "copy": "School's out for summer in Wales! Time for family adventures and making memories. What local spots are you visiting?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WalesSummer"
+      "#UKFestivals"
      ]
     }
    ]
