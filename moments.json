@@ -1,15 +1,65 @@
 {
- "updated": "2026-07-09T13:40:22.378Z",
+ "updated": "2026-07-09T16:18:57.297Z",
  "moments": [
   {
-   "id": "wimbledon-finals-weekend",
-   "off": 3,
+   "id": "fifa-world-cup-qf",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon Finals Weekend",
-   "blurb": "The 2026 Wimbledon Championships conclude this weekend with the men's and women's singles finals on Saturday and Sunday.",
+   "title": "FIFA World Cup Quarter-Finals Begin",
+   "blurb": "The 2026 FIFA World Cup, hosted across North America, enters the high-stakes Quarter-Finals stage today, running until July 11, with teams battling for a spot in the Semi-Finals.",
    "source": {
-    "l": "Wimbledon Official Site",
+    "l": "FIFA.com",
+    "u": "https://www.fifa.com/fifa-world-cup/2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Quarter-Finals Kick Off",
+     "for": "",
+     "copy": "It's Quarter-Finals day at the FIFA World Cup! Who are you backing to make it through to the semis?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#FIFAWorldCup"
+     ]
+    },
+    {
+     "name": "Road to the Semis",
+     "for": "",
+     "copy": "The biggest football tournament on the planet is down to the final eight. Every game is now a final. Who's got the nerves to go all the way?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wimbledon-semis",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Wimbledon Singles Semi-Finals",
+   "blurb": "Wimbledon 2026 continues today with the Gentlemen's and Ladies' Singles Semi-Finals, setting the stage for the weekend's finals.",
+   "source": {
+    "l": "Wimbledon.com",
     "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
    },
    "fits": [
@@ -20,24 +70,74 @@
    ],
    "angles": [
     {
-     "name": "Anticipation",
+     "name": "Centre Court Drama",
      "for": "",
-     "copy": "Strawberries and cream at the ready! Wimbledon 2026 reaches its climax this weekend. Who are you backing for the singles titles? #Wimbledon",
+     "copy": "It's Semi-Finals day at Wimbledon! Who will secure their spot in the coveted singles finals this weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "Almost Finals",
+     "for": "",
+     "copy": "The grass court glory is almost within reach. Today, we find out who makes it to the final dance at Wimbledon.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "10:00",
+     "time": "15:30",
      "tags": [
-      "#Wimbledon"
+      "#Wimbledon2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-peak",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Heatwave Continues, Peaks This Week",
+   "blurb": "The UK is experiencing its third heatwave of 2026, with temperatures expected to peak at 35-36°C in parts of England today and tomorrow, prompting health warnings.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Staying Cool",
+     "for": "",
+     "copy": "Another scorcher today! Temperatures are set to peak at 35-36°C in some areas. Remember to stay hydrated and keep cool.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#UKHeatwave"
      ]
     },
     {
-     "name": "Finals Buzz",
+     "name": "Heatwave Advice",
      "for": "",
-     "copy": "The grass courts are set for a thrilling finish! It's finals weekend at Wimbledon and history is waiting to be made.",
+     "copy": "It's the third heatwave of the year, and health warnings are in place. Check on vulnerable friends and family, and stay safe in the sun.",
      "channels": [
       "instagram",
       "facebook",
@@ -45,56 +145,51 @@
      ],
      "time": "14:00",
      "tags": [
-      "#Wimbledon"
+      "#StaySafeInTheHeat"
      ]
     }
    ]
   },
   {
-   "id": "wireless-festival-london",
-   "off": 1,
+   "id": "llangollen-eisteddfod",
+   "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Wireless Festival Takes Over London",
-   "blurb": "Wireless Festival kicks off tomorrow in London's Finsbury Park, with Ye headlining all three days of the urban music event.",
+   "title": "Llangollen International Musical Eisteddfod",
+   "blurb": "The Llangollen International Musical Eisteddfod continues in North Wales until July 12, featuring a diverse program of music and culture, including performances by Emeli Sandé and Michael Ball.",
    "source": {
-    "l": "Wireless Festival",
-    "u": "https://www.wirelessfestival.co.uk/"
+    "l": "Llangollen Eisteddfod",
+    "u": "https://llangollen.net/"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Festival Kicks Off",
-     "for": "Nation Radio London",
-     "copy": "London, are you ready? Wireless Festival opens its gates tomorrow with a huge weekend of urban music. Who are you most hyped to see?",
+     "name": "Eisteddfod Spirit",
+     "for": "welsh-local",
+     "copy": "The Llangollen International Musical Eisteddfod is in full swing! Celebrating music and culture from around the world right here in Wales.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#WirelessFestival"
+      "#LlangollenEisteddfod"
      ]
     },
     {
-     "name": "Ye Headlines",
-     "for": "Nation Hits",
-     "copy": "Ye is set to headline all three nights of Wireless Festival this weekend! Expect big crowds and even bigger tracks in Finsbury Park.",
+     "name": "Emeli Sandé Live",
+     "for": "welsh-local",
+     "copy": "Emeli Sandé takes to the stage at Llangollen Eisteddfod tomorrow, followed by Michael Ball on Saturday! Who's excited?",
      "channels": [
       "instagram",
       "facebook",
@@ -102,7 +197,56 @@
      ],
      "time": "15:00",
      "tags": [
-      "#WirelessFestival"
+      "#WelshMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exmouth-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Exmouth Festival Kicks Off",
+   "blurb": "The free family-focused Exmouth Festival runs from July 9-12, bringing live music, theatre, circus, and art to various outdoor locations in Exmouth, Devon.",
+   "source": {
+    "l": "Exmouth Festival",
+    "u": "https://www.exmouthfestival.org.uk/"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Fun in Exmouth",
+     "for": "radio-exe",
+     "copy": "Exmouth Festival is ON! Get ready for four days of free music, theatre, and family fun across town. What are you checking out first?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#ExmouthFestival"
+     ]
+    },
+    {
+     "name": "Wild Things in Devon",
+     "for": "radio-exe",
+     "copy": "This year's Exmouth Festival theme is 'Wild Things'! Expect incredible local talent and plenty of surprises by the sea. Don't miss it!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#DevonEvents"
      ]
     }
    ]
@@ -113,7 +257,7 @@
    "type": "gig",
    "hot": true,
    "title": "Mostly Jazz Funk & Soul Festival",
-   "blurb": "The Mostly Jazz Funk & Soul Festival returns to Moseley Park in Birmingham this weekend, running from July 10-12.",
+   "blurb": "Birmingham's Mostly Jazz Funk & Soul Festival kicks off tomorrow, July 10, running until July 12 in Moseley Park, featuring a diverse lineup of groundbreaking UK and international acts.",
    "source": {
     "l": "Mostly Jazz Funk & Soul Festival",
     "u": "https://mostlyjazz.co.uk/"
@@ -125,7 +269,7 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
@@ -134,44 +278,45 @@
    ],
    "angles": [
     {
-     "name": "Birmingham Festival",
+     "name": "Birmingham's Groove",
      "for": "",
-     "copy": "Get ready for a soulful weekend! Mostly Jazz Funk & Soul Festival lights up Moseley Park in Birmingham from tomorrow. Good vibes guaranteed.",
+     "copy": "Getting ready to groove? The Mostly Jazz Funk & Soul Festival starts tomorrow in Birmingham! Who are you excited to see?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "16:00",
      "tags": [
-      "#MostlyJazz"
+      "#JazzFunkSoul"
      ]
     },
     {
-     "name": "Funk & Soul Vibes",
-     "for": "Nation Easy",
-     "copy": "Birmingham is about to get funky! The Mostly Jazz Funk & Soul Festival is back, bringing incredible artists and a fantastic atmosphere.",
+     "name": "Weekend Vibes",
+     "for": "",
+     "copy": "Three days of groundbreaking music in Moseley Park. Mostly Jazz Funk & Soul Festival is bringing the vibes this weekend!",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x"
      ],
-     "time": "16:00",
+     "time": "18:00",
      "tags": [
-      "#FunkSoul"
+      "#BirminghamMusic"
      ]
     }
    ]
   },
   {
-   "id": "love-island-dumping",
+   "id": "little-house-netflix",
    "off": 0,
    "type": "tv",
    "hot": true,
-   "title": "Love Island Recoupling Drama",
-   "blurb": "The latest dramatic recoupling in the Love Island UK villa saw Mara and Charleen dumped, leaving the remaining islanders reeling.",
+   "title": "Little House on the Prairie Drops on Netflix",
+   "blurb": "A new adaptation of the beloved classic 'Little House on the Prairie', based on Laura Ingalls Wilder's books, premieres globally on Netflix today.",
    "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/loveisland"
+    "l": "Netflix",
+    "u": "https://www.netflix.com/"
    },
    "fits": [
     {
@@ -181,63 +326,62 @@
    ],
    "angles": [
     {
-     "name": "Recoupling Fallout",
+     "name": "New Prairie Adventures",
      "for": "",
-     "copy": "Last night's Love Island recoupling was a shocker! Mara and Charleen are out. Who saw that coming?",
+     "copy": "Travel back to the American West! 'Little House on the Prairie' gets a brand new adaptation on Netflix today. Perfect for family viewing!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "09:00",
      "tags": [
-      "#LoveIslandUK"
+      "#LittleHouse"
      ]
     },
     {
-     "name": "Villa Drama",
+     "name": "Nostalgia Watch",
      "for": "",
-     "copy": "The Love Island villa is still buzzing after that brutal dumping. Who do you think is safe, and who's on thin ice?",
+     "copy": "Who grew up with 'Little House on the Prairie'? The timeless story is back with a fresh take, streaming now on Netflix.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "12:00",
      "tags": [
-      "#LoveIsland"
+      "#NetflixUK"
      ]
     }
    ]
   },
   {
-   "id": "courtney-love-bday",
+   "id": "rnli-wales-warning",
    "off": 0,
-   "type": "birthday",
+   "type": "seasonal",
    "hot": true,
-   "title": "Courtney Love Turns 62",
-   "blurb": "Iconic rock musician and Hole frontwoman Courtney Love celebrates her 62nd birthday today.",
+   "title": "RNLI Issues Wales Beach Safety Warning",
+   "blurb": "The RNLI is warning beachgoers in Wales to be cautious this week due to warm weather and offshore winds, advising against using inflatables at westerly-facing coastlines.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/courtney-love.html"
+    "l": "RNLI",
+    "u": "https://rnli.org/news-and-media/2026/july/09/rnli-issue-warning-as-forecast-of-hot-weather-and-offshore-winds-in-wales"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Rock Icon Birthday",
-     "for": "Nation Rocks",
-     "copy": "Happy birthday to the legendary Courtney Love! Still rocking hard at 62.",
+     "name": "Stay Safe on Welsh Beaches",
+     "for": "welsh-local",
+     "copy": "Planning a trip to the Welsh coast? The RNLI is urging caution due to offshore winds and warm weather. Head to a lifeguarded beach!",
      "channels": [
       "instagram",
       "facebook",
@@ -245,159 +389,105 @@
      ],
      "time": "10:30",
      "tags": [
-      "#CourtneyLove"
+      "#WalesBeaches"
      ]
     },
     {
-     "name": "90s Flashback",
-     "for": "Nation 90s",
-     "copy": "Celebrating Courtney Love's birthday today! What's your favourite Hole track?",
+     "name": "Paddleboarders Beware",
+     "for": "dragon",
+     "copy": "RNLI warning for paddleboarders in Wales: offshore winds can quickly sweep you out to sea. Check conditions or ask a lifeguard before you go.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "14:30",
+     "time": "13:00",
      "tags": [
-      "#Hole"
+      "#WelshCoast"
      ]
     }
    ]
   },
   {
-   "id": "jim-kerr-bday",
+   "id": "courtney-love-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Jim Kerr Turns 67",
-   "blurb": "Jim Kerr, the charismatic frontman of Scottish rock band Simple Minds, is 67 today.",
+   "title": "Happy Birthday Courtney Love",
+   "blurb": "Iconic Hole frontwoman and rock legend Courtney Love turns 62 today.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244243b71941e7228834927b2b638"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Courtney_Love"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Simple Minds Leader",
-     "for": "Nation 80s",
-     "copy": "Don't You (Forget About Him)! Happy 67th birthday to Simple Minds' brilliant frontman, Jim Kerr.",
+     "name": "Rock Icon's Birthday",
+     "for": "Nation Rocks",
+     "copy": "Happy 62nd Birthday to the one and only Courtney Love! What's your favourite Hole track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#SimpleMinds"
+      "#CourtneyLove"
      ]
     },
     {
-     "name": "Scottish Icon",
-     "for": "Nation Radio Scotland",
-     "copy": "Sending birthday wishes across Scotland to Jim Kerr of Simple Minds, turning 67 today!",
+     "name": "90s Legend",
+     "for": "Nation 90s",
+     "copy": "Celebrating the birthday of a true 90s icon, Courtney Love! Sending love to the Hole frontwoman on her 62nd.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#JimKerr"
+      "#90sRock"
      ]
     }
    ]
   },
   {
-   "id": "marc-almond-bday",
+   "id": "jack-white-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Marc Almond is 67",
-   "blurb": "The distinctive voice of Soft Cell, Marc Almond, celebrates his 67th birthday today.",
+   "title": "Happy Birthday Jack White",
+   "blurb": "Grammy-winning musician, producer, and White Stripes founder Jack White celebrates his 51st birthday today.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-fe3244243b71941e7228834927b2b638"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jack_White"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Soft Cell Birthday",
-     "for": "Nation 80s",
-     "copy": "Tainted Love, indeed! Happy 67th birthday to the one and only Marc Almond of Soft Cell.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#MarcAlmond"
-     ]
-    },
-    {
-     "name": "Synth-pop Legend",
-     "for": "Nation Dance",
-     "copy": "Wishing a very happy 67th birthday to synth-pop icon Marc Almond! What's your favourite Soft Cell track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SoftCell"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tour-de-france-ongoing",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Tour de France Continues",
-   "blurb": "The 113th edition of the Tour de France is currently underway, having started on July 4th and continuing until July 26th.",
-   "source": {
-    "l": "Tour de France Official Site",
-    "u": "https://www.letour.fr/en/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cycling Action",
-     "for": "",
-     "copy": "The peloton is still battling it out! The Tour de France is in full swing, with gruelling stages ahead. Who's your pick for the yellow jersey?",
+     "name": "Guitar Hero Birthday",
+     "for": "Nation Rocks",
+     "copy": "Happy 51st Birthday to the incredible Jack White! From The White Stripes to his solo work, a true guitar hero.",
      "channels": [
       "instagram",
       "facebook",
@@ -405,45 +495,52 @@
      ],
      "time": "10:00",
      "tags": [
-      "#TDF2026"
+      "#JackWhite"
      ]
     },
     {
-     "name": "Mountain Stages",
-     "for": "",
-     "copy": "The mountains are calling! Expect some incredible climbs and descents as the Tour de France continues its challenging route.",
+     "name": "Rock Genius",
+     "for": "Nation 00s",
+     "copy": "Celebrating the birthday of rock genius Jack White! What's your go-to White Stripes anthem?",
      "channels": [
-      "x"
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#TourDeFrance"
+      "#TheWhiteStripes"
      ]
     }
    ]
   },
   {
-   "id": "genesis-scottish-open",
+   "id": "transport-for-wales-heat",
    "off": 0,
-   "type": "sport",
+   "type": "seasonal",
    "hot": true,
-   "title": "Genesis Scottish Open Underway",
-   "blurb": "The Genesis Scottish Open golf tournament is taking place this week at The Renaissance Club in North Berwick, Scotland.",
+   "title": "Transport for Wales Heatwave Travel Advice",
+   "blurb": "Transport for Wales has issued travel advice and ticket easements for July 10-11 due to the ongoing heatwave and planned industrial action affecting services between Shrewsbury and Birmingham.",
    "source": {
-    "l": "PGA Tour",
-    "u": "https://www.pgatour.com/tournaments/genesis-scottish-open"
+    "l": "Transport for Wales",
+    "u": "https://tfw.wales/disruption-and-service-changes"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Golf in Scotland",
-     "for": "Nation Radio Scotland",
-     "copy": "Fore! The Genesis Scottish Open is happening right now in North Berwick. Who's leading the charge on the links?",
+     "name": "TfW Travel Alert",
+     "for": "welsh-local",
+     "copy": "Travelling with Transport for Wales this weekend? Be aware of heatwave advice and service changes, especially between Shrewsbury and Birmingham. Check before you travel!",
      "channels": [
       "instagram",
       "facebook",
@@ -451,95 +548,47 @@
      ],
      "time": "11:30",
      "tags": [
-      "#ScottishOpen"
+      "#TfW"
      ]
     },
     {
-     "name": "UK Golf",
-     "for": "nation-network",
-     "copy": "Major golf action this week at the Genesis Scottish Open! Catch all the swings and putts from The Renaissance Club.",
-     "channels": [
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#Golf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-open-championship-preview",
-   "off": 7,
-   "type": "sport",
-   "hot": true,
-   "title": "The Open Championship Approaches",
-   "blurb": "The 154th Open Championship begins next week, July 16-19, at Royal Birkdale Golf Club in Southport, England, with practice days starting on July 12.",
-   "source": {
-    "l": "The Open Official Site",
-    "u": "https://www.theopen.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Major Golf Preview",
-     "for": "",
-     "copy": "The countdown to The Open Championship is on! Royal Birkdale is ready to host the world's best golfers from next week.",
+     "name": "Stay Hydrated on Trains",
+     "for": "dragon",
+     "copy": "With the heatwave peaking, Transport for Wales advises carrying water and allowing extra time if travelling on their network. Stay safe out there.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "16:00",
      "tags": [
-      "#TheOpen"
-     ]
-    },
-    {
-     "name": "Birkdale Ready",
-     "for": "",
-     "copy": "Practice days start Sunday for The Open at Royal Birkdale! Get ready for some incredible golf as the Claret Jug is up for grabs.",
-     "channels": [
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#RoyalBirkdale"
+      "#WalesTravel"
      ]
     }
    ]
   },
   {
-   "id": "mavis-staples-bday",
-   "off": 1,
-   "type": "birthday",
+   "id": "exeter-craft-festival",
+   "off": 0,
+   "type": "culture",
    "hot": true,
-   "title": "Mavis Staples Turns 87",
-   "blurb": "Legendary gospel and R&B singer Mavis Staples, known for her work with The Staple Singers and her solo career, celebrates her 87th birthday tomorrow.",
+   "title": "Exeter Craft Festival on Cathedral Green",
+   "blurb": "The 2026 Exeter Craft Festival takes place from July 9-11 on Cathedral Green, showcasing a variety of crafts, art, and entertainment.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/mavis-staples.html"
+    "l": "Exeter Craft Festival",
+    "u": "https://www.exetercraftfestival.co.uk/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Soul Legend Birthday",
-     "for": "Nation Easy",
-     "copy": "Wishing a very happy 87th birthday to the incredible Mavis Staples tomorrow! A true icon of soul and gospel music.",
+     "name": "Crafts on the Green",
+     "for": "radio-exe",
+     "copy": "The Exeter Craft Festival is back on Cathedral Green today through Saturday! Discover unique art and crafts from local makers.",
      "channels": [
       "instagram",
       "facebook",
@@ -547,40 +596,93 @@
      ],
      "time": "10:00",
      "tags": [
-      "#MavisStaples"
+      "#ExeterCrafts"
      ]
     },
     {
-     "name": "Staple Singers Tribute",
-     "for": "Nation Classic Hits",
-     "copy": "Tomorrow, we celebrate the 87th birthday of the legendary Mavis Staples. What's your favourite track from The Staple Singers?",
+     "name": "Support Local Artists",
+     "for": "radio-exe",
+     "copy": "Fancy a browse? The Exeter Craft Festival is a fantastic opportunity to see and buy work from talented local artists and artisans. Go check it out!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "13:30",
      "tags": [
-      "#TheStapleSingers"
+      "#DevonArt"
      ]
     }
    ]
   },
   {
-   "id": "neil-tennant-bday",
-   "off": 1,
-   "type": "birthday",
+   "id": "sir-bryn-terfel-debut",
+   "off": 0,
+   "type": "culture",
    "hot": true,
-   "title": "Neil Tennant Turns 72",
-   "blurb": "Neil Tennant, the lead singer of the iconic synth-pop duo Pet Shop Boys, celebrates his 72nd birthday tomorrow.",
+   "title": "Sir Bryn Terfel Debuts at Llangollen Eisteddfod",
+   "blurb": "Global opera star Sir Bryn Terfel is making his festival debut at the Llangollen International Musical Eisteddfod, currently running until July 12.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/neil-tennant.html"
+    "l": "Welsh News Extra",
+    "u": "https://www.welshnewsextra.com/tag/july-2026/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Opera Star in Wales",
+     "for": "welsh-local",
+     "copy": "A major musical coup for Wales! Sir Bryn Terfel is making his debut at the Llangollen International Musical Eisteddfod this week. Don't miss this historic moment!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BrynTerfel"
+     ]
+    },
+    {
+     "name": "Cultural Highlight",
+     "for": "dragon",
+     "copy": "One of the world's greatest opera singers, Sir Bryn Terfel, is performing at the Llangollen Eisteddfod. A true highlight for Welsh culture.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#WelshCulture"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "missy-elliott-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Missy Elliott",
+   "blurb": "Groundbreaking rapper, singer, and producer Missy Elliott turns 55 on July 14.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Missy_Elliott"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -588,18 +690,71 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Pet Shop Boys Icon",
-     "for": "Nation 80s",
-     "copy": "It's a sin not to celebrate! Happy 72nd birthday to Neil Tennant of Pet Shop Boys tomorrow!",
+     "name": "Queen of Hip-Hop",
+     "for": "Nation Hits",
+     "copy": "Get ready to 'Work It'! The legendary Missy Elliott celebrates her 55th birthday on July 14. What's your favourite Missy track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MissyElliott"
+     ]
+    },
+    {
+     "name": "Birthday Shoutout",
+     "for": "Nation 90s",
+     "copy": "A huge early birthday shoutout to the iconic Missy Elliott, turning 55 on Sunday! Her influence on music is undeniable.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#HipHopLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "brian-may-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday Brian May",
+   "blurb": "Queen's legendary guitarist and songwriter, Brian May, celebrates his 79th birthday on July 19.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Brian_May"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen Guitar Legend",
+     "for": "Nation Rocks",
+     "copy": "Rock royalty alert! The incomparable Brian May of Queen celebrates his 79th birthday on July 19. What's your favourite May guitar solo?",
      "channels": [
       "instagram",
       "facebook",
@@ -607,114 +762,22 @@
      ],
      "time": "11:00",
      "tags": [
-      "#PetShopBoys"
+      "#BrianMay"
      ]
     },
     {
-     "name": "Synth-Pop Master",
-     "for": "Nation Dance",
-     "copy": "Tomorrow, we raise a glass to Neil Tennant, turning 72! The voice behind so many Pet Shop Boys classics.",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NeilTennant"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ann-droid-bbc",
-   "off": 2,
-   "type": "tv",
-   "hot": true,
-   "title": "New BBC Comedy 'Ann Droid'",
-   "blurb": "A new quirky BBC comedy, 'Ann Droid', starring Diane Morgan, premieres on July 11th.",
-   "source": {
-    "l": "Red Magazine",
-    "u": "https://www.redonline.co.uk/entertainment/tv-and-films/g47738753/new-tv-shows-movies-july-2026/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Comedy Alert",
-     "for": "",
-     "copy": "Diane Morgan in a new BBC comedy? Yes please! 'Ann Droid' lands on July 11th. Get ready for some laughs!",
+     "name": "Bohemian Rhapsody's Architect",
+     "for": "Nation 70s",
+     "copy": "An early cheers to Brian May, turning 79 next Friday! The man behind some of Queen's greatest riffs and anthems.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#AnnDroid"
-     ]
-    },
-    {
-     "name": "Quirky New Show",
-     "for": "",
-     "copy": "Mark your calendars for July 11th! 'Ann Droid' is the new quirky comedy coming to the BBC, starring the brilliant Diane Morgan.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#BBCComedy"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-dark-itv",
-   "off": 3,
-   "type": "tv",
-   "hot": true,
-   "title": "ITV Thriller 'The Dark' Premieres",
-   "blurb": "New moody thriller 'The Dark', starring Laura Donnelly and Helen Baxendale, premieres on ITV and ITVX on July 12th.",
-   "source": {
-    "l": "Red Magazine",
-    "u": "https://www.redonline.co.uk/entertainment/tv-and-films/g47738753/new-tv-shows-movies-july-2026/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New UK Drama",
-     "for": "",
-     "copy": "If you love a good thriller, get ready for 'The Dark' arriving on ITV and ITVX this Sunday. Looks intense!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#TheDark"
-     ]
-    },
-    {
-     "name": "Weekend Watch",
-     "for": "",
-     "copy": "Your Sunday night sorted! New thriller 'The Dark' premieres on ITV and ITVX on July 12th. Who's watching?",
-     "channels": [
       "x",
       "threads"
      ],
-     "time": "17:30",
+     "time": "16:00",
      "tags": [
-      "#ITV"
+      "#Queen"
      ]
     }
    ]
