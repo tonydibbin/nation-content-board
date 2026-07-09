@@ -1,55 +1,79 @@
 {
- "updated": "2026-07-09T20:30:57.536Z",
+ "updated": "2026-07-09T22:10:47.629Z",
  "moments": [
   {
-   "id": "fifa-world-cup-qf",
-   "off": 0,
+   "id": "fifa-world-cup-final-2026",
+   "off": 10,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Quarter-Finals Kick Off",
-   "blurb": "The FIFA World Cup 2026 reaches the Quarter-final stage today, with France facing Morocco, as teams battle for a spot in the semi-finals.",
+   "title": "FIFA World Cup 2026 Final",
+   "blurb": "The climax of the biggest football tournament on the planet, the FIFA World Cup 2026 final, takes place on July 19th in New York/New Jersey.",
    "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/news/12026/13045618/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-16-and-route-to-final"
+    "l": "FIFA",
+    "u": "https://www.fifa.com/worldcup/2026/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Today's Big Game",
-     "for": "nation-network",
-     "copy": "World Cup Quarter-Finals start tonight! Who are you backing: France or Morocco? Kick-off 9pm.",
+     "name": "Final Countdown",
+     "for": "",
+     "copy": "Who's making it to the biggest game in football? The FIFA World Cup 2026 Final is just over a week away! Sunday 19th July, get it in your diary.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "Global Showpiece",
+     "for": "",
+     "copy": "It's been a month of incredible action, but only two teams can reach the FIFA World Cup 2026 Final. Who are you backing for glory?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "18:00",
+     "time": "12:00",
      "tags": [
-      "#WorldCup2026"
+      "#Football"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "wimbledon-finals-2026",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "Wimbledon Finals Weekend",
+   "blurb": "The prestigious Wimbledon Championships conclude this weekend with the Ladies' Singles Final on Saturday, July 11th, and the Gentlemen's Singles Final on Sunday, July 12th.",
+   "source": {
+    "l": "Wimbledon",
+    "u": "https://www.wimbledon.com/"
+   },
+   "fits": [
     {
-     "name": "England's Next Challenge",
-     "for": "nation-network",
-     "copy": "England are in the World Cup Quarter-Finals this weekend! They face Norway on Saturday at 10pm. Can the Three Lions roar into the semis? #England #WorldCup",
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tennis Grand Finale",
+     "for": "",
+     "copy": "Strawberries and cream at the ready! It's Wimbledon Finals Weekend! Who will lift the trophies on Centre Court? Ladies' Final Saturday, Men's Final Sunday.",
      "channels": [
       "instagram",
       "facebook",
@@ -59,80 +83,90 @@
      ],
      "time": "09:00",
      "tags": [
-      "#ThreeLions"
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "Centre Court Drama",
+     "for": "",
+     "copy": "The tension is building! All eyes are on Centre Court this weekend for the Wimbledon Ladies' and Gentlemen's Singles Finals. Expect drama!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Tennis"
      ]
     }
    ]
   },
   {
-   "id": "wimbledon-finals-weekend",
-   "off": 2,
+   "id": "the-open-championship-2026",
+   "off": 7,
    "type": "sport",
    "hot": true,
-   "title": "Wimbledon Finals Weekend",
-   "blurb": "The Wimbledon Championships 2026 will conclude this weekend, with the Ladies' and Gentlemen's Singles Finals taking place on Saturday and Sunday.",
+   "title": "The Open Championship 2026",
+   "blurb": "The 154th Open Championship, golf's oldest major, begins at Royal Birkdale Golf Club in Southport, England, running from July 16th to 19th.",
    "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
+    "l": "The Open",
+    "u": "https://www.theopen.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Tennis Showdown",
-     "for": "nation-network",
-     "copy": "It's Finals Weekend at Wimbledon! Who will lift the trophies on Centre Court? Get ready for some epic tennis action. #Wimbledon",
+     "name": "Golf's Greatest",
+     "for": "",
+     "copy": "Fore! The Open Championship returns to Royal Birkdale next week! Who's your pick to lift the coveted Claret Jug?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "12:00",
+     "time": "10:00",
      "tags": [
-      "#Tennis"
+      "#TheOpen"
      ]
     },
     {
-     "name": "London's Grand Slam",
-     "for": "Nation Radio London",
-     "copy": "The eyes of the tennis world are on SW19 this weekend! Wimbledon reaches its thrilling climax – who's your pick for the champions?",
+     "name": "Birkdale Beckons",
+     "for": "",
+     "copy": "Get ready for links golf at its finest! The 154th Open Championship at Royal Birkdale teeing off next Thursday.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:30",
+     "time": "15:00",
      "tags": [
-      "#London"
+      "#Golf"
      ]
     }
    ]
   },
   {
-   "id": "latitude-festival-promo",
-   "off": 14,
+   "id": "wireless-festival-2026",
+   "off": 1,
    "type": "gig",
    "hot": true,
-   "title": "Latitude Festival Nears",
-   "blurb": "Latitude Festival 2026 is just two weeks away, taking place from July 23-26 at Henham Park, Suffolk, featuring headliners David Byrne, Teddy Swims, and Lewis Capaldi.",
+   "title": "Wireless Festival 2026",
+   "blurb": "Wireless Festival, one of the UK's biggest urban music festivals, kicks off at Finsbury Park, London, from July 10th to 12th, featuring major hip-hop, rap, and R&B artists.",
    "source": {
-    "l": "Latitude Festival",
-    "u": "https://www.latitudefestival.com/"
+    "l": "Wireless Festival",
+    "u": "https://wirelessfestival.co.uk/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Suffolk"
+     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
@@ -140,14 +174,14 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Counting Down to Latitude",
-     "for": "Nation Radio Suffolk",
-     "copy": "Two weeks until Latitude Festival takes over Henham Park! Who are you most excited to see – David Byrne, Lewis Capaldi, or Teddy Swims? #Latitude2026 #Suffolk",
+     "name": "Wireless Weekend",
+     "for": "Nation Radio London",
+     "copy": "London, are you ready? Wireless Festival takes over Finsbury Park this weekend! Who are you buzzing to see live?",
      "channels": [
       "instagram",
       "facebook",
@@ -157,67 +191,13 @@
      ],
      "time": "11:00",
      "tags": [
-      "#FestivalSeason"
+      "#WirelessFestival"
      ]
     },
     {
-     "name": "Festival Vibes Coming",
+     "name": "Festival Vibes",
      "for": "Nation Hits",
-     "copy": "Get ready for Latitude! Lewis Capaldi and Teddy Swims are set to headline later this month. Who's got their tickets ready?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MusicFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "New UK No.1 Single",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' is the current UK Official Singles Chart Number 1, holding the top spot for the week of July 2-8, 2026.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper",
-     "for": "Nation Hits",
-     "copy": "New UK Number 1! Huge congrats to Sam Fender & Olivia Dean for 'Rein Me In' topping the Official Singles Chart. Playing it loud now! #OfficialCharts",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#NewMusic"
-     ]
-    },
-    {
-     "name": "Sam Fender's Success",
-     "for": "Nation Rocks",
-     "copy": "Sam Fender and Olivia Dean are at Number 1 on the UK Singles Chart with 'Rein Me In'! Massive track, well deserved. #SamFender",
+     "copy": "Big beats and massive acts! Wireless Festival is ON this weekend. Expect huge performances from the biggest names in urban music.",
      "channels": [
       "instagram",
       "facebook",
@@ -226,23 +206,27 @@
      ],
      "time": "16:00",
      "tags": [
-      "#RockMusic"
+      "#Wireless2026"
      ]
     }
    ]
   },
   {
-   "id": "little-house-on-prairie-netflix",
-   "off": 0,
-   "type": "tv",
+   "id": "uk-singles-chart-update",
+   "off": 2,
+   "type": "culture",
    "hot": true,
-   "title": "Little House on the Prairie Remake",
-   "blurb": "A new adaptation of the beloved classic 'Little House on the Prairie' premieres today, July 9, on Netflix.",
+   "title": "Official UK Singles Chart Update",
+   "blurb": "The Official UK Singles Chart gets its weekly update this Friday, July 11th, revealing the latest top-selling tracks and new entries across the country.",
    "source": {
-    "l": "Red Magazine",
-    "u": "https://www.redonline.co.uk/entertainment/g55173748/best-new-tv-july-2026/"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
     {
      "g": "nation-network",
      "sub": ""
@@ -250,24 +234,9 @@
    ],
    "angles": [
     {
-     "name": "Prairie Debut",
-     "for": "nation-network",
-     "copy": "The classic 'Little House on the Prairie' gets a modern refresh! The new adaptation drops on Netflix today. Will you be tuning in? #LittleHouseOnThePrairie",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#NetflixUK"
-     ]
-    },
-    {
-     "name": "Family TV",
-     "for": "nation-network",
-     "copy": "Nostalgia alert! The new 'Little House on the Prairie' series is available on Netflix from today. Perfect for some family viewing!",
+     "name": "Chart Race Friday",
+     "for": "Nation Hits",
+     "copy": "Who's going to number one? The Official UK Singles Chart is updated this Friday! Any predictions for the top spot?",
      "channels": [
       "instagram",
       "facebook",
@@ -275,39 +244,15 @@
       "tiktok",
       "threads"
      ],
-     "time": "17:00",
+     "time": "09:30",
      "tags": [
-      "#NewTV"
+      "#OfficialCharts"
      ]
-    }
-   ]
-  },
-  {
-   "id": "the-dark-itv",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "New Scottish Thriller 'The Dark'",
-   "blurb": "ITV is set to release 'The Dark', a new six-part Scottish crime drama starring Laura Donnelly and Helen Baxendale, later this month.",
-   "source": {
-    "l": "ELLE UK",
-    "u": "https://www.elle.com/uk/life-at-work/culture/g61439247/best-thrillers-july-netflix-channel-4-itv-apple-tv/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New ITV Drama",
-     "for": "nation-network",
-     "copy": "Looking for your next TV obsession? ITV's new Scottish crime thriller 'The Dark' is coming later this month! Who's excited? #TheDark #ITV",
+     "name": "New Music Friday",
+     "for": "Nation Hits",
+     "copy": "New music dropping and the charts updating! What tunes are you hoping to see climb the Official UK Singles Chart this Friday?",
      "channels": [
       "instagram",
       "facebook",
@@ -316,38 +261,27 @@
      ],
      "time": "13:00",
      "tags": [
-      "#CrimeDrama"
-     ]
-    },
-    {
-     "name": "Scottish Scandi-Noir",
-     "for": "Nation Radio Scotland",
-     "copy": "A new Scottish crime drama is on its way to ITV! 'The Dark' promises moody thrills set in the stunning Scottish wilderness. Perfect for a rainy night in! #ScottishTV",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#Scotland"
+      "#NewMusicFriday"
      ]
     }
    ]
   },
   {
-   "id": "jack-white-bday",
+   "id": "birthday-courtney-love",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Jack White",
-   "blurb": "Jack White, the influential musician known for The White Stripes, The Raconteurs, and The Dead Weather, turns 51 today.",
+   "title": "Happy 62nd Birthday, Courtney Love",
+   "blurb": "Courtney Love, the iconic frontwoman of Hole and a defining voice of '90s grunge, turns 62 today, July 9th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/jack-white.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Courtney_Love"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
@@ -355,9 +289,62 @@
    ],
    "angles": [
     {
-     "name": "Rock Icon's Birthday",
+     "name": "Grunge Queen's Day",
+     "for": "Nation 90s",
+     "copy": "Happy 62nd Birthday to the one and only Courtney Love! From Hole to Hollywood, a true icon of the 90s.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "07:00",
+     "tags": [
+      "#CourtneyLove"
+     ]
+    },
+    {
+     "name": "Rock Royalty",
      "for": "Nation Rocks",
-     "copy": "Happy 51st Birthday to the one and only Jack White! From The White Stripes to his solo work, a true rock innovator. What's your favourite Jack White track?",
+     "copy": "Wishing a very Happy 62nd Birthday to rock royalty, Courtney Love! What's your favourite Hole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Hole"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-marc-almond",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 69th Birthday, Marc Almond",
+   "blurb": "Synth-pop legend Marc Almond, best known as the lead vocalist of Soft Cell, celebrates his 69th birthday today, July 9th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Marc_Almond"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tainted Love Legend",
+     "for": "Nation 80s",
+     "copy": "Wishing a very Happy 69th Birthday to the incredible Marc Almond! Still 'Tainted Love' after all these years.",
      "channels": [
       "instagram",
       "facebook",
@@ -366,268 +353,32 @@
      ],
      "time": "08:00",
      "tags": [
-      "#JackWhite #Rock"
+      "#MarcAlmond"
      ]
-    }
-   ]
-  },
-  {
-   "id": "courtney-love-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Courtney Love",
-   "blurb": "Singer, songwriter, and actress Courtney Love, frontwoman of Hole, celebrates her 62nd birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/courtney-love.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Grunge Queen's Day",
-     "for": "Nation Rocks",
-     "copy": "Wishing a very Happy 62nd Birthday to the iconic Courtney Love! The Hole legend still commands attention. What's your top Hole song?",
+     "name": "Soft Cell Icon",
+     "for": "Nation Classic Hits",
+     "copy": "Happy Birthday to Soft Cell's iconic frontman, Marc Almond, who turns 69 today! What's your favourite Soft Cell hit?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "12:00",
      "tags": [
-      "#CourtneyLove #Grunge"
+      "#SoftCell"
      ]
     }
    ]
   },
   {
-   "id": "marc-almond-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Marc Almond",
-   "blurb": "Marc Almond, the distinctive voice of Soft Cell and a successful solo artist, turns 69 today.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-this-week-jim-gaffigan-mavis-staples-a53b47f439e60249c5e3f4356499318b"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Synth-Pop Legend",
-     "for": "Nation 80s",
-     "copy": "Happy 69th Birthday to the legendary Marc Almond! From 'Tainted Love' to his incredible solo career, a true pioneer. What's your favourite Soft Cell classic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MarcAlmond #SoftCell"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "neil-tennant-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Neil Tennant",
-   "blurb": "Neil Tennant, lead singer of the iconic synth-pop duo Pet Shop Boys, celebrates his 72nd birthday tomorrow.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-this-week-jim-gaffigan-mavis-staples-a53b47f439e60249c5e3f4356499318b"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pet Shop Boy's Birthday",
-     "for": "Nation 80s",
-     "copy": "Tomorrow, we celebrate the 72nd Birthday of Neil Tennant from Pet Shop Boys! Get ready for some classic synth-pop. What's your go-to Pet Shop Boys track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#PetShopBoys #NeilTennant"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "perrie-edwards-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Perrie Edwards",
-   "blurb": "Little Mix star Perrie Edwards will be celebrating her 33rd birthday tomorrow.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/perrie-edwards.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star's Birthday",
-     "for": "Nation Hits",
-     "copy": "Tomorrow's a big one for Perrie Edwards! Wishing the Little Mix star a very Happy 33rd Birthday. What's your favourite Little Mix hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#PerrieEdwards #LittleMix"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mavis-staples-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Mavis Staples",
-   "blurb": "The legendary soul and gospel singer Mavis Staples, known for her work with The Staple Singers and her powerful solo career, turns 87 tomorrow.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-this-week-jim-gaffigan-mavis-staples-a53b47f439e60249c5e3f4356499318b"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Soul Legend Turns 87",
-     "for": "Nation Classic Hits",
-     "copy": "Wishing a very Happy 87th Birthday to the incredible Mavis Staples tomorrow! A true icon of soul and gospel music. What's your favourite Staple Singers song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MavisStaples #SoulMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "suzanne-vega-bday",
+   "id": "birthday-richie-sambora",
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Suzanne Vega",
-   "blurb": "Acclaimed singer-songwriter Suzanne Vega, known for hits like 'Luka' and 'Tom's Diner', turns 67 on Saturday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Suzanne_Vega"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Folk-Pop Birthday",
-     "for": "Nation 80s",
-     "copy": "Happy 67th Birthday to the wonderful Suzanne Vega this Saturday! Her unique storytelling has captivated us for decades. What's your favourite Suzanne Vega track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#SuzanneVega #FolkPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "richie-sambora-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Richie Sambora",
-   "blurb": "Former Bon Jovi guitarist and rock icon Richie Sambora celebrates his 67th birthday on Saturday.",
+   "title": "Happy 67th Birthday, Richie Sambora",
+   "blurb": "Richie Sambora, the legendary guitarist and songwriter for Bon Jovi, celebrates his 67th birthday on Sunday, July 11th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Richie_Sambora"
@@ -643,43 +394,163 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rock Guitar Legend",
+     "name": "Bon Jovi Guitar Hero",
      "for": "Nation Rocks",
-     "copy": "Wishing a rocking Happy 67th Birthday to Richie Sambora this Saturday! The Bon Jovi legend's guitar riffs are iconic. What's your favourite Bon Jovi anthem?",
+     "copy": "Get your air guitars ready! Wishing a huge Happy 67th Birthday to Bon Jovi legend, Richie Sambora, this Sunday!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#RichieSambora #BonJovi"
+      "#RichieSambora"
+     ]
+    },
+    {
+     "name": "Livin' on a Prayer Birthday",
+     "for": "Nation 80s",
+     "copy": "This Sunday, we're celebrating Richie Sambora's 67th Birthday! The man behind some of Bon Jovi's biggest hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#BonJovi"
      ]
     }
    ]
   },
   {
-   "id": "brian-may-bday",
-   "off": 10,
+   "id": "birthday-matt-bellamy",
+   "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Brian May",
-   "blurb": "Queen's legendary guitarist Brian May will celebrate his 79th birthday on July 19.",
+   "title": "Happy 48th Birthday, Matt Bellamy",
+   "blurb": "Matt Bellamy, the dynamic lead singer and guitarist of Muse, will turn 48 on July 14th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Brian_May"
+    "u": "https://en.wikipedia.org/wiki/Matt_Bellamy"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Muse Mastermind",
+     "for": "Nation Rocks",
+     "copy": "Next Tuesday, we're celebrating Matt Bellamy's 48th Birthday! The incredible frontman of Muse. What's your favourite Muse anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MattBellamy"
+     ]
+    },
+    {
+     "name": "Rock Star Birthday",
+     "for": "Nation 00s",
+     "copy": "Wishing a future Happy 48th Birthday to Muse's Matt Bellamy on July 14th! An absolute legend on guitar and vocals.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Muse"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-willie-nelson",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 93rd Birthday, Willie Nelson",
+   "blurb": "Country music icon Willie Nelson, known for his prolific songwriting and distinctive style, will celebrate his 93rd birthday on July 15th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Willie_Nelson"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Country Legend's Day",
+     "for": "Nation Easy",
+     "copy": "On Wednesday, we're celebrating the incredible Willie Nelson's 93rd Birthday! A true living legend of country music.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#WillieNelson"
+     ]
+    },
+    {
+     "name": "Iconic Outlaw",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 93rd Birthday next Wednesday to the Red Headed Stranger, Willie Nelson! What's your go-to Willie track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#CountryMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-stewart-copeland",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 74th Birthday, Stewart Copeland",
+   "blurb": "Stewart Copeland, the influential drummer and co-founder of The Police, will celebrate his 74th birthday on July 16th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Stewart_Copeland"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
@@ -690,6 +561,71 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Police Drummer's Day",
+     "for": "Nation 70s",
+     "copy": "Next Thursday, we're wishing a huge Happy 74th Birthday to the legendary Stewart Copeland of The Police!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#StewartCopeland"
+     ]
+    },
+    {
+     "name": "Rhythm King",
+     "for": "Nation Rocks",
+     "copy": "From 'Roxanne' to movie scores, Stewart Copeland turns 74 next Thursday! Celebrate the incredible drummer of The Police.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ThePolice"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-brian-may",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 79th Birthday, Brian May",
+   "blurb": "Sir Brian May, the iconic guitarist and songwriter for Queen, will celebrate his 79th birthday on July 19th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Brian_May"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Classic Hits"
     }
    ],
@@ -697,16 +633,95 @@
     {
      "name": "Queen's Guitar God",
      "for": "Nation Rocks",
-     "copy": "Get ready to celebrate a rock legend! Brian May of Queen turns 79 on July 19th. His guitar work is simply iconic. What's your favourite Queen song with a Brian May solo?",
+     "copy": "Get ready to rock! This Sunday, we're celebrating the legendary Sir Brian May's 79th Birthday! What's your favourite Queen guitar solo?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "07:30",
+     "tags": [
+      "#BrianMay"
+     ]
+    },
+    {
+     "name": "A Kind of Magic Birthday",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 79th Birthday to the one and only Brian May on Sunday! A true musical icon and astrophysicist.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "15:00",
+     "time": "12:30",
      "tags": [
-      "#BrianMay #Queen"
+      "#Queen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "school-summer-holidays-approaching",
+   "off": 14,
+   "type": "seasonal",
+   "hot": true,
+   "title": "School Summer Holidays Approaching",
+   "blurb": "Families across the UK are looking forward to the start of the main school summer holidays, with many schools breaking up in the final weeks of July.",
+   "source": {
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/school-term-holiday-dates"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Summer Countdown",
+     "for": "",
+     "copy": "The countdown is ON! Who's excited for the school summer holidays to finally begin? What are your plans? #SummerHolidays",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Freedom Feels",
+     "for": "",
+     "copy": "That feeling when you know summer holidays are just around the corner! Teachers, parents, kids - almost there! #SchoolHolidays",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#SchoolHolidays"
      ]
     }
    ]
