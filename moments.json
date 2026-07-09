@@ -1,98 +1,31 @@
 {
- "updated": "2026-07-09T06:05:56.079Z",
+ "updated": "2026-07-09T10:21:03.571Z",
  "moments": [
   {
-   "id": "julysummer",
+   "id": "wimbledon-finals-week",
    "off": 0,
-   "type": "seasonal",
+   "type": "sport",
    "hot": true,
-   "title": "Summer Vibes",
-   "blurb": "The summer season is in full swing, and the warm weather is here to stay for a while.",
+   "title": "Wimbledon Finals Week",
+   "blurb": "The 2026 Wimbledon Championships are in their final days, with semi-finals and finals taking place this week, concluding on July 12th.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Summer Fun",
-     "for": "",
-     "copy": "School's out, and the sun is shining - what are your favorite summer activities?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": []
-    },
-    {
-     "name": "Staycation",
-     "for": "",
-     "copy": "With the summer weather here, why not plan a staycation and explore what the UK has to offer?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": []
-    },
-    {
-     "name": "Festival Season",
-     "for": "",
-     "copy": "The summer months mean one thing - festival season is here - which one will you be attending?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "tomjonesbirthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Sir Tom Jones 86th Birthday",
-   "blurb": "Sir Tom Jones, the legendary Welsh singer, would have been 86 on July 13.",
-   "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Music Icon",
-     "for": "Nation 60s",
-     "copy": "Sir Tom Jones, a music icon, would have been 86 on July 13 - which of his songs is your favorite?",
+     "name": "Men's Semis/Finals",
+     "copy": "Centre Court drama unfolding at Wimbledon! Who are you backing for the Gentlemen's Singles title this weekend?",
      "channels": [
       "instagram",
       "facebook",
@@ -101,12 +34,96 @@
       "threads"
      ],
      "time": "12:00",
-     "tags": []
+     "tags": [
+      "#Wimbledon"
+     ]
     },
     {
-     "name": "Welsh Legend",
-     "for": "Bridge FM",
-     "copy": "We are celebrating the life and music of Sir Tom Jones, a true Welsh legend - tune in for some of his greatest hits.",
+     "name": "Ladies' Semis/Finals",
+     "copy": "The Ladies' Singles final is almost here! Who will lift the Venus Rosewater Dish at Wimbledon 2026?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#Wimbledon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-open-championship-starts",
+   "off": 3,
+   "type": "sport",
+   "hot": true,
+   "title": "The Open Championship Begins",
+   "blurb": "The 154th Open Championship begins its practice days on July 12th, with tournament play starting July 16th at Royal Birkdale Golf Club.",
+   "source": {
+    "l": "The Open Official Site",
+    "u": "https://www.theopen.com/future-venues/royal-birkdale-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Anticipation",
+     "copy": "Golf's biggest major is almost here! The Open Championship practice days kick off this Sunday at Royal Birkdale. Who's your pick for the Claret Jug?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Royal Birkdale",
+     "copy": "Royal Birkdale is ready to host The 154th Open. The world's best golfers arrive this weekend for practice ahead of next week's main event.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#OpenChampionship"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fifa-world-cup-knockouts",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "World Cup Knockout Stages",
+   "blurb": "The FIFA World Cup 2026 is in its thrilling knockout stages this week, with nations battling for a place in the semi-finals and final.",
+   "source": {
+    "l": "FIFA Official Site",
+    "u": "https://www.fifa.com/worldcup/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Football Fever",
+     "copy": "World Cup fever is building! Who's making it through to the semi-finals? Every match is do-or-die now!",
      "channels": [
       "instagram",
       "facebook",
@@ -115,214 +132,595 @@
       "threads"
      ],
      "time": "16:00",
-     "tags": []
+     "tags": [
+      "#WorldCup2026"
+     ]
     },
     {
-     "name": "Timeless Voice",
-     "for": "Nation Easy",
-     "copy": "Sir Tom Jones' voice is truly timeless - which of his songs do you think has stood the test of time?",
+     "name": "Team Support",
+     "copy": "Which nation are you roaring on in the World Cup knockout stages? The tension is immense!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "20:00",
-     "tags": []
+     "time": "18:30",
+     "tags": [
+      "#Football"
+     ]
     }
    ]
   },
   {
-   "id": "theopen",
-   "off": 7,
-   "type": "sport",
+   "id": "2000trees-festival",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "The 154th Open Championship",
-   "blurb": "The 154th Open Championship is being held at Royal Birkdale from July 16-19.",
+   "title": "2000trees Festival Underway",
+   "blurb": "The 2000trees Festival, celebrating rock and alternative music, is currently taking place in Gloucestershire until July 11th.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "2000trees Festival",
+    "u": "https://www.2000treesfestival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South West"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Vibes",
+     "copy": "Who's at 2000trees Festival right now? Catching all the best rock and alternative acts in Gloucestershire!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#2000trees"
+     ]
+    },
+    {
+     "name": "Weekend Plans",
+     "copy": "If you're not at 2000trees, where's the best place to catch some live rock music this weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RockMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kaleidoscope-festival-london",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Kaleidoscope Festival",
+   "blurb": "Kaleidoscope Festival returns to Alexandra Palace Park in London on July 11th, featuring a diverse lineup of music and arts.",
+   "source": {
+    "l": "Kaleidoscope Festival",
+    "u": "https://kaleidoscopefestival.com/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Golf's Biggest Stage",
-     "for": "",
-     "copy": "The Open Championship is one of the most prestigious golf tournaments in the world - who do you think will take home the trophy?",
+     "name": "London Festival",
+     "copy": "London! Kaleidoscope Festival is back at Ally Pally this Saturday. Who are you excited to see?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "08:00",
-     "tags": []
-    },
-    {
-     "name": "Royal Birkdale",
-     "for": "",
-     "copy": "Royal Birkdale is one of the most challenging golf courses in the world - what makes it so unique?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Golfing Greats",
-     "for": "",
-     "copy": "The Open Championship has seen some of the greatest golfers of all time compete - who is your favorite golfer of all time?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": []
+     "time": "17:00",
+     "tags": [
+      "#KaleidoscopeFestival"
+     ]
     }
    ]
   },
   {
-   "id": "royalwelshshow",
-   "off": 11,
-   "type": "culture",
+   "id": "lost-minds-festival-newcastle",
+   "off": 2,
+   "type": "gig",
    "hot": true,
-   "title": "The Royal Welsh Show",
-   "blurb": "The Royal Welsh Show, one of the largest agricultural shows in Europe, is being held from July 20-23.",
+   "title": "Lost Minds Festival",
+   "blurb": "Lost Minds Festival brings dance and electronic music to Newcastle on July 11th.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Lost Minds Festival",
+    "u": "https://lostminds.co.uk/"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     },
     {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
     }
    ],
    "angles": [
     {
-     "name": "Agricultural Heritage",
-     "for": "Radio Carmarthenshire",
-     "copy": "The Royal Welsh Show is a celebration of Wales' rich agricultural heritage - what are you most looking forward to seeing?",
+     "name": "North East Dance",
+     "copy": "Newcastle, get ready! Lost Minds Festival is this Saturday, bringing huge dance acts to the North East. Who's on your must-see list?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
-     "tags": []
-    },
-    {
-     "name": "Rural Wales",
-     "for": "Radio Pembrokeshire",
-     "copy": "The Royal Welsh Show is a showcase of rural Wales at its best - what do you love most about the Welsh countryside?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": []
-    },
-    {
-     "name": "Family Fun",
-     "for": "",
-     "copy": "The Royal Welsh Show is a fun day out for all the family - what are your favorite memories of the show?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": []
+     "time": "19:00",
+     "tags": [
+      "#LostMinds"
+     ]
     }
    ]
   },
   {
-   "id": "glasgowcommonwealthgames",
-   "off": 14,
-   "type": "sport",
+   "id": "hebridean-celtic-festival",
+   "off": 6,
+   "type": "gig",
    "hot": true,
-   "title": "Glasgow Commonwealth Games",
-   "blurb": "The Commonwealth Games are coming to Glasgow from July 23 to August 2.",
+   "title": "Hebridean Celtic Festival",
+   "blurb": "The Hebridean Celtic Festival takes place in Stornoway, Outer Hebrides, Scotland from July 15th to 18th, celebrating traditional and contemporary Celtic music.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "HebCelt Festival",
+    "u": "https://www.hebceltfest.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Global Sporting Event",
-     "for": "Nation Radio Scotland",
-     "copy": "The Commonwealth Games are a global sporting event that brings together athletes from around the world - which sports are you most looking forward to watching?",
+     "name": "Celtic Sounds",
+     "copy": "Heading to the Outer Hebrides next week for the Hebridean Celtic Festival? Get ready for some incredible music and island vibes!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#HebCelt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "courtney-love-62",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Courtney Love turns 62",
+   "blurb": "American singer-songwriter and actress Courtney Love, known for fronting Hole, turns 62 today (born July 9, 1964).",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/courtney-love.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Grunge Icon",
+     "copy": "Happy 62nd to the one and only Courtney Love! What's your favourite Hole track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "08:00",
-     "tags": []
+     "tags": [
+      "#CourtneyLove"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debbie-sledge-72",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Debbie Sledge turns 72",
+   "blurb": "American singer Debbie Sledge, best known as a member of Sister Sledge, turns 72 today (born July 9, 1954).",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/birthdays-july"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     },
     {
-     "name": "Glasgow Pride",
-     "for": "Nation Radio Scotland",
-     "copy": "The Commonwealth Games are a source of pride for Glasgow and Scotland - what do you think will be the highlight of the games?",
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Sister Sledge",
+     "copy": "Wishing a very happy 72nd birthday to Debbie Sledge! You can't listen to 'We Are Family' without smiling.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SisterSledge"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mavis-staples-87",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Mavis Staples turns 87",
+   "blurb": "American gospel and R&B singer Mavis Staples, a member of The Staple Singers, turns 87 tomorrow (born July 10, 1939).",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/birthdays-july"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Soul Legend",
+     "copy": "An absolute legend turns 87 tomorrow! Happy Birthday to the incredible Mavis Staples, voice of The Staple Singers.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#MavisStaples"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "suzanne-vega-67",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Suzanne Vega turns 67",
+   "blurb": "American singer-songwriter Suzanne Vega, known for hits like 'Luka' and 'Tom's Diner', turns 67 on July 11th (born July 11, 1959).",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/birthdays-july"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s Icon",
+     "copy": "Wishing a very happy 67th birthday to the brilliant Suzanne Vega on Saturday! 'Luka' is still a masterpiece.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#SuzanneVega"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "liz-mitchell-74",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "Liz Mitchell turns 74",
+   "blurb": "Jamaican-born British singer Liz Mitchell, the lead vocalist of disco group Boney M., turns 74 on July 12th (born July 12, 1952).",
+   "source": {
+    "l": "Musicians born on July 12",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfsGp15_4HgEi_0lMzhqWrtKk4E07VMKesk4VljKQtHHb-aW_42W5pQO6vHS2RC-ynE_ncLE7S0NCucJWDH2m0KBHg8LfnplP74QMFjjSXAb3yWohq-z7_ig7JqCTTOneEgopKdET4y6GgN0mwcwi_nMWiDRwjnQ=="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Disco Queen",
+     "copy": "Happy 74th Birthday to the iconic voice of Boney M., Liz Mitchell, this Sunday! Get ready to 'Rasputin'!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#BoneyM"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-petrucci-59",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "John Petrucci turns 59",
+   "blurb": "American guitarist John Petrucci, best known as a founding member of the progressive metal band Dream Theater, turns 59 on July 12th (born July 12, 1967).",
+   "source": {
+    "l": "Musicians born on July 12",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfsGp15_4HgEi_0lMzhqWrtKk4E07VMKesk4VljKQtHHb-aW_42W5pQO6vHS2RC-ynE_ncLE7S0NCucJWDH2m0KBHg8LfnplP74QMFjjSXAb3yWohq-z7_ig7JqCTTOneEgopKdET4y6GgN0mwcwi_nMWiDRwjnQ=="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar God",
+     "copy": "Shredding into 59! Happy Birthday this Sunday to the incredible John Petrucci of Dream Theater. What's your favourite Petrucci riff?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#DreamTheater"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "linda-ronstadt-80",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Linda Ronstadt turns 80",
+   "blurb": "American singer Linda Ronstadt, known for her diverse career in rock, folk, pop, and country, turns 80 on July 15th (born July 15, 1946).",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Linda_Ronstadt"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Music Icon",
+     "copy": "An incredible 80 years young! Happy Birthday to the legendary Linda Ronstadt on Monday. Her voice is timeless.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#LindaRonstadt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joe-satriani-70",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Joe Satriani turns 70",
+   "blurb": "American instrumental rock guitarist Joe Satriani, known for his technical prowess and influential albums, turns 70 on July 15th (born July 15, 1956).",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joe_Satriani"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Hero",
+     "copy": "Celebrating 70 years of pure guitar genius! Happy Birthday to Joe Satriani on Monday. What's your favourite Satch track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#JoeSatriani"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "olly-alexander-36",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Olly Alexander turns 36",
+   "blurb": "British singer, songwriter, and actor Olly Alexander, known as the frontman of Years & Years and recent Eurovision representative, turns 36 on July 15th (born July 15, 1990).",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/olly-alexander.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star",
+     "copy": "Happy 36th Birthday to the charismatic Olly Alexander on Monday! From Years & Years to Eurovision, he always delivers.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok",
       "threads"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#OllyAlexander"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "summer-holidays-start",
+   "off": 11,
+   "type": "seasonal",
+   "hot": false,
+   "title": "Summer Holidays Begin",
+   "blurb": "Many schools across England and Wales begin their summer holidays from July 20th, with Scottish and Northern Irish schools already broken up.",
+   "source": {
+    "l": "UK School Holiday Dates",
+    "u": "https://www.gov.uk/school-term-holiday-dates"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "School's Out Soon",
+     "copy": "The countdown is on for summer holidays in England and Wales! School's out from July 20th for many. What are your big plans?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Family Fun",
+     "copy": "Summer holidays are officially here for some, and just around the corner for others! Time for family fun and sunshine.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Athletic Achievement",
-     "for": "",
-     "copy": "The Commonwealth Games are a celebration of athletic achievement - who do you think will be the star of the games?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": []
+     "tags": [
+      "#Summer2026"
+     ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
