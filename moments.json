@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T17:44:25.888Z",
+ "updated": "2026-07-11T18:41:20.827Z",
  "moments": [
   {
    "id": "wimbledon-finals-2026",
@@ -7,34 +7,35 @@
    "type": "sport",
    "hot": true,
    "title": "Wimbledon Finals Weekend",
-   "blurb": "The Wimbledon Championships conclude this weekend, with the Men's Singles Final set for Sunday, July 12.",
+   "blurb": "The Wimbledon Championships conclude this weekend, with the Ladies' and Gentlemen's Singles finals set for Sunday, July 12.",
    "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/"
+    "l": "Wimbledon Official",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Men's Final Anticipation",
-     "for": "",
-     "copy": "Who will lift the Gentlemen's Singles trophy tomorrow? All eyes on Centre Court for the Wimbledon final.",
+     "name": "Anticipation",
+     "copy": "Who's lifting the trophy? It's Wimbledon finals weekend, with all eyes on Centre Court for the climactic matches.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "British Hopes",
+     "copy": "Can a Brit make history today or tomorrow? The tension is building as Wimbledon draws to a close.",
      "channels": [
       "instagram",
       "facebook",
@@ -42,80 +43,80 @@
      ],
      "time": "10:00",
      "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Weekend of Tennis",
-     "for": "",
-     "copy": "It's finals weekend at Wimbledon! Get ready for epic volleys and championship points.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
       "#WimbledonFinals"
      ]
-    }
-   ]
-  },
-  {
-   "id": "world-cup-2026-build-up",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "World Cup Semi-Finals Build-Up",
-   "blurb": "The FIFA World Cup 2026 is heading into its thrilling final stages, with semi-final matches taking place this week ahead of the final on July 19.",
-   "source": {
-    "l": "FIFA Official Site",
-    "u": "https://www.fifa.com/worldcup/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
     },
     {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Semi-Final Excitement",
-     "for": "",
-     "copy": "The World Cup semi-finals are here! Who are you backing to reach the final next Sunday?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#WorldCup2026"
-     ]
-    },
-    {
-     "name": "Final Countdown",
-     "for": "",
-     "copy": "Just over a week until the World Cup final! The tension is building as teams fight for a spot.",
+     "name": "Sunday Showdown",
+     "copy": "Get ready for Grand Slam glory! The Wimbledon finals are upon us, promising a thrilling end to two weeks of tennis.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "15:00",
+     "time": "12:00",
+     "tags": [
+      "#Tennis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fifa-world-cup-final-2026",
+   "off": 8,
+   "type": "sport",
+   "hot": true,
+   "title": "FIFA World Cup Final Looms",
+   "blurb": "The FIFA World Cup 2026 in North America culminates next Sunday, July 19, with the final match in New York/New Jersey.",
+   "source": {
+    "l": "FIFA World Cup 2026",
+    "u": "https://www.fifa.com/fifa-world-cup/2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Countdown",
+     "copy": "Just one week to go until the FIFA World Cup 2026 final! Who do you predict will be battling for glory?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "Global Showdown",
+     "copy": "The biggest game in football is almost here! The World Cup final is next Sunday. Which nations are you rooting for?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Football"
+     ]
+    },
+    {
+     "name": "Finals Fever",
+     "copy": "World Cup fever is building! The 2026 final is next Sunday, July 19th. Get ready for an epic showdown.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
      "tags": [
       "#FIFAWorldCup"
      ]
@@ -127,27 +128,22 @@
    "off": 5,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship Begins",
-   "blurb": "The 154th Open Championship, golf's oldest major, tees off at Royal Birkdale in England from July 16-19.",
+   "title": "The Open Championship at Royal Birkdale",
+   "blurb": "The 154th Open Championship, golf's oldest major, begins Thursday, July 16, at Royal Birkdale Golf Club in Southport, England.",
    "source": {
-    "l": "The Open Official Site",
+    "l": "The Open",
     "u": "https://www.theopen.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Major Golf Week",
-     "for": "",
-     "copy": "Get ready for the Claret Jug! The Open Championship begins Thursday at Royal Birkdale.",
+     "name": "Major Golf",
+     "copy": "The Open Championship is back! Royal Birkdale hosts golf's oldest major from Thursday. Who's your pick for the Claret Jug?",
      "channels": [
       "instagram",
       "facebook",
@@ -159,9 +155,55 @@
      ]
     },
     {
-     "name": "Royal Birkdale Host",
-     "for": "",
-     "copy": "Royal Birkdale hosts The Open for the 11th time this week. Who will master the links?",
+     "name": "Royal Birkdale",
+     "copy": "All eyes on Royal Birkdale this week as The Open Championship gets underway. The world's best golfers descend on Southport.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Golf"
+     ]
+    },
+    {
+     "name": "British Golf",
+     "copy": "It's Open Championship week! The iconic Royal Birkdale is set to host a thrilling four days of golf starting Thursday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#BritishOpen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tour-de-france-ongoing-2026",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Tour de France Continues",
+   "blurb": "The 113th edition of the Tour de France is currently underway, having started on July 4 in Barcelona and running until July 26.",
+   "source": {
+    "l": "Tour de France Official",
+    "u": "https://www.letour.fr/en/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cycling Action",
+     "copy": "The peloton is battling it out! The Tour de France is in full swing, with exciting stages happening daily.",
      "channels": [
       "instagram",
       "facebook",
@@ -169,18 +211,337 @@
      ],
      "time": "13:00",
      "tags": [
-      "#Golf"
+      "#TourDeFrance"
+     ]
+    },
+    {
+     "name": "Yellow Jersey Watch",
+     "copy": "Who's wearing yellow today? Catch all the drama and breathtaking scenery as the Tour de France continues.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#TDF2026"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-new",
+   "id": "wireless-festival-cancellation-2026",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "New UK Official Singles Chart",
-   "blurb": "The Official UK Singles Chart has been newly updated with the biggest tracks of the week.",
+   "title": "Wireless Festival Cancelled",
+   "blurb": "Wireless Festival 2026, scheduled for July 10-12 in London, has been cancelled due to headliner Ye being denied entry to the UK.",
+   "source": {
+    "l": "Evening Standard",
+    "u": "https://www.standard.co.uk/culture/music/wireless-festival-lineup-2026-dates-tickets-kanye-west-b1147814.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Fallout",
+     "copy": "Major news for music fans: Wireless Festival 2026 has been cancelled. What are your thoughts on this year's festival season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#WirelessFestival"
+     ]
+    },
+    {
+     "name": "London Gigs",
+     "copy": "Huge disappointment for London festival-goers as Wireless Festival is off. Were you planning to go?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#LondonGigs"
+     ]
+    },
+    {
+     "name": "Cancellation Impact",
+     "copy": "The cancellation of Wireless Festival is making waves. How does this affect your summer plans?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#FestivalNews"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "latitude-festival-2026",
+   "off": 12,
+   "type": "gig",
+   "hot": true,
+   "title": "Latitude Festival Next Week",
+   "blurb": "Latitude Festival, a major UK music and arts event, returns to Henham Park, Suffolk from July 23-26, celebrating its 20th anniversary.",
+   "source": {
+    "l": "Latitude Festival",
+    "u": "https://www.latitudefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Suffolk Festival",
+     "copy": "Latitude Festival is just around the corner! Henham Park in Suffolk will be buzzing with music, comedy, and arts from July 23-26.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LatitudeFestival"
+     ]
+    },
+    {
+     "name": "20 Years of Latitude",
+     "copy": "Celebrating two decades of discovery! Latitude Festival returns next week. Who are you excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Latitude2026"
+     ]
+    },
+    {
+     "name": "Festival Countdown",
+     "copy": "The countdown is on for Latitude! Four days of incredible music and culture awaits in Suffolk. Are you going?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#UKFestivals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edinburgh-jazz-blues-fest-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Edinburgh Jazz & Blues Festival Underway",
+   "blurb": "The Edinburgh Jazz & Blues Festival is currently in full swing, running from July 10-19, showcasing a diverse range of talent across Scotland's capital.",
+   "source": {
+    "l": "Edinburgh Jazz & Blues Festival",
+    "u": "https://www.edinburghjazzfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jazz in Edinburgh",
+     "copy": "Live music fills the air in Edinburgh! The Jazz & Blues Festival is happening now until July 19. Catch some incredible performances.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#EdinburghJazz"
+     ]
+    },
+    {
+     "name": "Scottish Culture",
+     "copy": "Experience the best of jazz and blues at Edinburgh's vibrant festival, ongoing this week. Who's your favourite jazz artist?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ScottishEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bristol-harbour-festival-2026",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Bristol Harbour Festival Returns",
+   "blurb": "The free Bristol Harbour Festival brings a weekend of music, markets, and maritime fun to Bristol's historic harbourside from July 17-19.",
+   "source": {
+    "l": "Bristol Harbour Festival",
+    "u": "https://www.bristolharbourfestival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bristol Event",
+     "copy": "Get ready for a fantastic weekend in Bristol! The Harbour Festival kicks off next Friday, July 17, with free music and fun.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#BristolHarbourFest"
+     ]
+    },
+    {
+     "name": "Free Festival",
+     "copy": "Bristol Harbour Festival is back! Three days of music, markets, and maritime celebrations starting next Friday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#BristolEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hebridean-celtic-festival-2026",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Hebridean Celtic Festival",
+   "blurb": "The Hebridean Celtic Festival brings a celebration of Celtic, folk, and traditional music to Stornoway, Outer Hebrides, from July 15-18.",
+   "source": {
+    "l": "HebCeltFest",
+    "u": "https://www.hebceltfest.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Celtic Music",
+     "copy": "Immerse yourself in Celtic culture! The Hebridean Celtic Festival starts next Wednesday in Stornoway. Who's heading to the Isles?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#HebCeltFest"
+     ]
+    },
+    {
+     "name": "Island Festival",
+     "copy": "Experience incredible folk and traditional music at the Hebridean Celtic Festival from July 15-18. A unique island event!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#OuterHebrides"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-update",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Official UK Singles Chart Latest",
+   "blurb": "The Official UK Singles Chart updated yesterday, Friday, July 10, revealing the latest top tracks and new entries.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
@@ -198,22 +559,21 @@
    "angles": [
     {
      "name": "Chart Toppers",
-     "for": "Nation Hits",
-     "copy": "What's hitting number one this week? Tune in for the latest Official UK Singles Chart action!",
+     "copy": "The latest Official UK Singles Chart is in! What's at number one this week? Any big new entries catching your ear?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#UKChart"
+      "#UKCharts"
      ]
     },
     {
-     "name": "New Entries",
-     "for": "Nation Hits",
-     "copy": "Any new entries making a splash on the UK Singles Chart? Find out which tracks are climbing fast.",
+     "name": "New Music Friday Aftermath",
+     "copy": "Chart update! The UK Singles Chart just dropped yesterday. Which new tracks are climbing the ranks and which hits are holding strong?",
      "channels": [
       "instagram",
       "facebook",
@@ -227,20 +587,62 @@
    ]
   },
   {
-   "id": "love-island-uk-ongoing",
+   "id": "alessia-cara-birthday",
    "off": 0,
-   "type": "tv",
+   "type": "birthday",
    "hot": true,
-   "title": "Love Island UK Drama",
-   "blurb": "The latest series of Love Island UK continues to bring daily drama, romance, and unexpected twists from the villa.",
+   "title": "Happy 30th to Alessia Cara",
+   "blurb": "Canadian singer-songwriter Alessia Cara, known for hits like 'Here' and 'Scars to Your Beautiful,' turns 30 today.",
    "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/loveisland"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/alessia-cara.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star Milestone",
+     "copy": "Sending big birthday wishes to Alessia Cara, who turns 30 today! What's your favourite track from the Canadian hitmaker?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#AlessiaCara"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lil-kim-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 51st to Lil' Kim",
+   "blurb": "Grammy-winning rapper and fashion icon Lil' Kim, a pioneer in hip-hop, celebrates her 51st birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/lil-kim.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     },
     {
      "g": "decades-genres",
@@ -249,104 +651,31 @@
    ],
    "angles": [
     {
-     "name": "Villa Latest",
-     "for": "",
-     "copy": "What's the latest in the Love Island villa? Expect fireworks and shock recouplings tonight!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#LoveIsland"
-     ]
-    },
-    {
-     "name": "Fan Reactions",
-     "for": "",
-     "copy": "Who's your favourite couple in Love Island right now? The drama is heating up!",
+     "name": "Hip Hop Royalty",
+     "copy": "Happy birthday to the Queen Bee herself, Lil' Kim, turning 51 today! Celebrate with your favourite track from the legend.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "20:00",
+     "time": "11:00",
      "tags": [
-      "#LoveIslandUK"
+      "#LilKim"
      ]
     }
    ]
   },
   {
-   "id": "bday-suzanne-vega-67",
+   "id": "richie-sambora-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Suzanne Vega is 67 Today",
-   "blurb": "American singer-songwriter Suzanne Vega, known for hits like 'Luka' and 'Tom's Diner', celebrates her 67th birthday today.",
+   "title": "Happy 67th to Richie Sambora",
+   "blurb": "Legendary Bon Jovi guitarist and songwriter Richie Sambora celebrates his 67th birthday today.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Suzanne_Vega"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Suzanne",
-     "for": "Nation 80s",
-     "copy": "Happy 67th Birthday to the iconic Suzanne Vega! Still loving 'Luka' all these years later.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SuzanneVega"
-     ]
-    },
-    {
-     "name": "Tom's Diner Legend",
-     "for": "Nation Easy",
-     "copy": "From folk-pop to dance classic with 'Tom's Diner', happy birthday to the incredible Suzanne Vega, turning 67 today!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TomsDiner"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-richie-sambora-67",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Richie Sambora is 67 Today",
-   "blurb": "Founding Bon Jovi guitarist and rock icon Richie Sambora celebrates his 67th birthday today.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Richie_Sambora"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/richie-sambora.html"
    },
    "fits": [
     {
@@ -356,49 +685,154 @@
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Rock Legend Birthday",
-     "for": "Nation Rocks",
-     "copy": "Happy 67th Birthday to Bon Jovi legend Richie Sambora! What's your favourite riff he played?",
+     "name": "Rock Icon",
+     "copy": "Wishing a very happy 67th birthday to Bon Jovi's iconic guitarist, Richie Sambora! What's your favourite Bon Jovi anthem?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RichieSambora"
-     ]
-    },
-    {
-     "name": "Bon Jovi Guitarist",
-     "for": "Nation 80s",
-     "copy": "Wishing a very happy 67th birthday to the one and only Richie Sambora! Rock on!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "13:00",
      "tags": [
-      "#BonJovi"
+      "#RichieSambora"
      ]
     }
    ]
   },
   {
-   "id": "bday-roger-mcguinn-84",
+   "id": "suzanne-vega-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 67th to Suzanne Vega",
+   "blurb": "Singer-songwriter Suzanne Vega, known for her distinctive folk-inspired sound and hits like 'Luka' and 'Tom's Diner,' turns 67 today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/suzanne-vega.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Folk Pop Legend",
+     "copy": "Happy 67th birthday to the incredible Suzanne Vega! Her timeless songs continue to captivate. Which one is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#SuzanneVega"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gareth-gates-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 42nd to Gareth Gates",
+   "blurb": "Pop singer Gareth Gates, who rose to fame on Pop Idol, celebrates his 42nd birthday tomorrow, July 12.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/gareth-gates.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Idol Star",
+     "copy": "Get ready to sing 'Anyone of Us'! Happy 42nd birthday tomorrow to Gareth Gates, the Pop Idol runner-up who stole hearts.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#GarethGates"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "liz-mitchell-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 74th to Liz Mitchell",
+   "blurb": "Liz Mitchell, the lead singer of iconic disco group Boney M., turns 74 tomorrow, July 12.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/liz-mitchell.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Disco Queen",
+     "copy": "Rasputin! Daddy Cool! Happy 74th birthday tomorrow to Boney M.'s incredible lead vocalist, Liz Mitchell. What's your favourite Boney M. hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#BoneyM"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roger-mcguinn-birthday",
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Roger McGuinn is 84 on Monday",
-   "blurb": "Roger McGuinn, co-founder and lead singer of the influential folk-rock band The Byrds, turns 84 on Monday.",
+   "title": "Happy 84th to Roger McGuinn",
+   "blurb": "Roger McGuinn, the legendary singer-songwriter and guitarist for The Byrds, celebrates his 84th birthday on Monday, July 13.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Roger_McGuinn"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/roger-mcguinn.html"
    },
    "fits": [
     {
@@ -407,14 +841,17 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Byrds Legend",
-     "for": "Nation 60s",
-     "copy": "Monday marks the 84th birthday of folk-rock pioneer Roger McGuinn of The Byrds! What's your favourite track?",
+     "name": "Folk Rock Pioneer",
+     "copy": "Turn! Turn! Turn! Wishing a very happy 84th birthday to The Byrds' visionary, Roger McGuinn, on Monday. A true legend.",
      "channels": [
       "instagram",
       "facebook",
@@ -424,137 +861,57 @@
      "tags": [
       "#RogerMcGuinn"
      ]
-    },
-    {
-     "name": "Timeless Voice",
-     "for": "Nation Classic Hits",
-     "copy": "Happy 84th birthday for Monday to the legendary Roger McGuinn. His influence on music is immeasurable.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#TheByrds"
-     ]
     }
    ]
   },
   {
-   "id": "bday-deborah-cox-52",
-   "off": 2,
+   "id": "dan-reynolds-birthday",
+   "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Deborah Cox is 52 on Monday",
-   "blurb": "Canadian R&B superstar Deborah Cox, known for her powerful vocals and hits like 'Nobody's Supposed to Be Here', celebrates her 52nd birthday on Monday.",
+   "title": "Happy 39th to Dan Reynolds",
+   "blurb": "Dan Reynolds, the charismatic frontman of multi-platinum rock band Imagine Dragons, turns 39 on Tuesday, July 14.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Deborah_Cox"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "R&B Queen",
-     "for": "Nation Hits",
-     "copy": "Wishing a very happy 52nd birthday to the incredible Deborah Cox on Monday! Still loving 'Nobody's Supposed to Be Here'.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#DeborahCox"
-     ]
-    },
-    {
-     "name": "Timeless Ballads",
-     "for": "Nation Love",
-     "copy": "Celebrate Deborah Cox's 52nd birthday this Monday! Her ballads still give us all the feels.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#RNB"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-joe-satriani-70",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Joe Satriani is 70 on Wednesday",
-   "blurb": "Legendary instrumental rock guitarist Joe Satriani, celebrated for his virtuosic playing, turns 70 on Wednesday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Joe_Satriani"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/dan-reynolds.html"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Guitar God",
-     "for": "Nation Rocks",
-     "copy": "Happy 70th Birthday for Wednesday to the unparalleled guitar maestro, Joe Satriani! What's your favourite instrumental track?",
+     "name": "Imagine Dragons Frontman",
+     "copy": "Thunder! Feel the thunder! Happy 39th birthday on Tuesday to Imagine Dragons' dynamic lead singer, Dan Reynolds. What's your favourite track?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "12:00",
      "tags": [
-      "#JoeSatriani"
-     ]
-    },
-    {
-     "name": "Satch Turns 70",
-     "for": "Nation Rocks",
-     "copy": "Seven decades of shredding! Celebrate Joe Satriani's 70th birthday this Wednesday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#GuitarLegend"
+      "#DanReynolds"
      ]
     }
    ]
   },
   {
-   "id": "bday-linda-ronstadt-80",
+   "id": "linda-ronstadt-birthday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Linda Ronstadt is 80 on Wednesday",
-   "blurb": "Award-winning American singer Linda Ronstadt, known for her versatile voice across rock, folk, and country, celebrates her 80th birthday on Wednesday.",
+   "title": "Happy 80th to Linda Ronstadt",
+   "blurb": "The iconic singer Linda Ronstadt, known for her versatile voice across rock, country, and pop, celebrates her 80th birthday on Wednesday, July 15.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Linda_Ronstadt"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/linda-ronstadt.html"
    },
    "fits": [
     {
@@ -563,7 +920,7 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -572,45 +929,69 @@
    ],
    "angles": [
     {
-     "name": "Vocal Icon",
-     "for": "Nation 70s",
-     "copy": "Happy 80th Birthday to the incredible Linda Ronstadt this Wednesday! A voice that defined generations.",
+     "name": "Music Legend",
+     "copy": "Happy 80th birthday to the legendary Linda Ronstadt on Wednesday! Her voice defined generations. Which song is your favourite?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LindaRonstadt"
-     ]
-    },
-    {
-     "name": "80 Years of Music",
-     "for": "Nation Classic Hits",
-     "copy": "From rock to country, celebrate 80 years of the legendary Linda Ronstadt's music this Wednesday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#MusicLegend"
+      "#LindaRonstadt"
      ]
     }
    ]
   },
   {
-   "id": "bday-stewart-copeland-74",
+   "id": "olly-alexander-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 36th to Olly Alexander",
+   "blurb": "Olly Alexander, the lead singer of Years & Years and recent Eurovision star, turns 36 on Wednesday, July 15.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/olly-alexander.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star Birthday",
+     "copy": "Happy 36th birthday to the fabulous Olly Alexander on Wednesday! From Years & Years to Eurovision, he's a true pop force.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#OllyAlexander"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stewart-copeland-birthday",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Stewart Copeland is 74 on Thursday",
-   "blurb": "Stewart Copeland, the acclaimed drummer and co-founder of The Police, turns 74 on Thursday.",
+   "title": "Happy 74th to Stewart Copeland",
+   "blurb": "Stewart Copeland, the influential drummer and co-founder of The Police, celebrates his 74th birthday on Thursday, July 16.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Stewart_Copeland"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/stewart-copeland.html"
    },
    "fits": [
     {
@@ -628,45 +1009,30 @@
    ],
    "angles": [
     {
-     "name": "Drumming Dynamo",
-     "for": "Nation Rocks",
-     "copy": "Happy 74th Birthday for Thursday to The Police's drumming powerhouse, Stewart Copeland! What's your favourite Police track?",
+     "name": "Drumming Legend",
+     "copy": "Don't Stand So Close to Me! Happy 74th birthday on Thursday to The Police's drumming maestro, Stewart Copeland. Rock legend!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "11:00",
      "tags": [
       "#StewartCopeland"
-     ]
-    },
-    {
-     "name": "Police Legend",
-     "for": "Nation 80s",
-     "copy": "Wishing a very happy 74th birthday to the one and only Stewart Copeland this Thursday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ThePolice"
      ]
     }
    ]
   },
   {
-   "id": "bday-mia-51",
-   "off": 7,
+   "id": "luke-bryan-birthday",
+   "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "M.I.A. is 51 on Saturday",
-   "blurb": "British rapper, singer, songwriter, and activist M.I.A., known for her unique blend of electronic, dance, and world music, celebrates her 51st birthday next Saturday.",
+   "title": "Happy 50th to Luke Bryan",
+   "blurb": "Country superstar Luke Bryan, known for his chart-topping hits and electrifying live shows, turns 50 on Friday, July 17.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/M.I.A._(rapper)"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/luke-bryan.html"
    },
    "fits": [
     {
@@ -675,80 +1041,55 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Boundary-Pushing Artist",
-     "for": "Nation Hits",
-     "copy": "Happy 51st Birthday next Saturday to the groundbreaking M.I.A.! What's your favourite track?",
+     "name": "Country Milestone",
+     "copy": "Happy 50th birthday to country music icon Luke Bryan on Friday! Raise a glass to the 'Country Girl' hitmaker.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "13:00",
      "tags": [
-      "#MIA"
-     ]
-    },
-    {
-     "name": "Dance Floor Filler",
-     "for": "Nation Dance",
-     "copy": "Get ready to celebrate M.I.A.'s 51st birthday next Saturday! Her beats still get us moving.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PaperPlanes"
+      "#LukeBryan"
      ]
     }
    ]
   },
   {
-   "id": "bday-daron-malakian-51",
+   "id": "martha-reeves-birthday",
    "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Daron Malakian is 51 on Saturday",
-   "blurb": "Daron Malakian, guitarist and songwriter for System of a Down and Scars on Broadway, turns 51 next Saturday.",
+   "title": "Happy 85th to Martha Reeves",
+   "blurb": "Motown legend Martha Reeves, lead singer of Martha Reeves & The Vandellas, celebrates her 85th birthday on Saturday, July 18.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Daron_Malakian"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/martha-reeves.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Metal Guitarist Birthday",
-     "for": "Nation Rocks",
-     "copy": "Happy 51st Birthday next Saturday to System of a Down's Daron Malakian! What's your favourite riff?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#DaronMalakian"
-     ]
-    },
-    {
-     "name": "SOAD Legend",
-     "for": "Nation Rocks",
-     "copy": "Celebrate 51 years of Daron Malakian's incredible guitar work next Saturday!",
+     "name": "Motown Queen",
+     "copy": "Dancing in the Street! Happy 85th birthday on Saturday to the magnificent Martha Reeves, a true Motown icon.",
      "channels": [
       "instagram",
       "facebook",
@@ -756,7 +1097,243 @@
      ],
      "time": "15:00",
      "tags": [
-      "#SystemOfADown"
+      "#MarthaReeves"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "brian-may-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 79th to Brian May",
+   "blurb": "Queen's legendary guitarist and astrophysicist, Brian May, turns 79 on Sunday, July 19.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/brian-may.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock God",
+     "copy": "We Will Rock You! A very happy 79th birthday on Sunday to Queen's incomparable guitarist, Brian May. What's your favourite Queen riff?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#BrianMay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fred-again-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 33rd to Fred again..",
+   "blurb": "Grammy-winning DJ and producer Fred again.. celebrates his 33rd birthday on Sunday, July 19.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/fred-again.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Music Star",
+     "copy": "Happy 33rd birthday on Sunday to the incredible Fred again..! Whose set are you hoping to catch him play next?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#FredAgain"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "carlos-santana-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 79th to Carlos Santana",
+   "blurb": "Legendary guitarist Carlos Santana, known for his pioneering fusion of rock and Latin music, turns 79 on Monday, July 20.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/carlos-santana.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Legend",
+     "copy": "Smooth! Happy 79th birthday on Monday to the one and only Carlos Santana. What's your favourite Santana track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CarlosSantana"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paloma-faith-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 45th to Paloma Faith",
+   "blurb": "British singer-songwriter Paloma Faith, known for her distinctive retro-soul sound, celebrates her 45th birthday on Tuesday, July 21.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/paloma-faith.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Soulful Star",
+     "copy": "Happy 45th birthday on Tuesday to the incredible Paloma Faith! Which of her powerful ballads is your go-to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#PalomaFaith"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-school-holidays-start",
+   "off": 9,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Summer School Holidays Begin",
+   "blurb": "Summer school holidays for many regions across the UK, including England and Wales, officially begin around Monday, July 20.",
+   "source": {
+    "l": "Holiday Extras",
+    "u": "https://www.holidayextras.com/travel-blog/school-holidays-uk.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "School's Out",
+     "copy": "Hooray for no more school runs! Summer holidays begin for many UK schools from Monday. What are your big plans?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Freedom!",
+     "copy": "The summer holidays are almost here for UK students! Time for fun, sun, and adventures. What are you looking forward to most?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#SchoolHolidays"
+     ]
+    },
+    {
+     "name": "Local Holiday Vibes",
+     "copy": "The long-awaited summer break starts next week for many local schools! Let the good times roll!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#LocalSummer"
      ]
     }
    ]
