@@ -1,64 +1,16 @@
 {
- "updated": "2026-07-11T14:16:06.715Z",
+ "updated": "2026-07-11T15:42:15.979Z",
  "moments": [
   {
-   "id": "england-world-cup-qf",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "England in World Cup Quarter-Final",
-   "blurb": "England faces Norway in a highly anticipated FIFA World Cup 2026 quarter-final match tonight.",
-   "source": {
-    "l": "Sky Sports Football",
-    "u": "https://www.skysports.com/football/news/12026/12918805/world-cup-2026-england-bonuses-for-lifting-the-trophy-revealed-paper-talk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Match Build-up",
-     "copy": "It's Quarter-Final day! England take on Norway in the FIFA World Cup 2026 tonight. Are you ready? #FIFAWorldCup",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#England"
-     ]
-    },
-    {
-     "name": "Team Spirit",
-     "copy": "The Lionesses are geared up for their World Cup Quarter-Final against Norway. Send your good luck messages! 🏴󠁧󠁢󠁥󠁮󠁧󠁿 #WorldCup2026",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#Lionesses"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wimbledon-finals-weekend",
+   "id": "wimbledon-finals",
    "off": 0,
    "type": "sport",
    "hot": true,
    "title": "Wimbledon Finals Weekend",
-   "blurb": "The penultimate day of the Wimbledon Championships 2026 is today, leading into the highly anticipated men's and women's singles finals this weekend.",
+   "blurb": "The final matches of the 2026 Wimbledon Championships are taking place this weekend at the All England Club in London.",
    "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
+    "l": "Wimbledon Official",
+    "u": "https://www.wimbledon.com/"
    },
    "fits": [
     {
@@ -72,8 +24,74 @@
    ],
    "angles": [
     {
-     "name": "Today's Action",
-     "copy": "Centre Court is buzzing! It's the penultimate day of Wimbledon 2026. Who are you backing for the finals? 🎾",
+     "name": "Men's Final Anticipation",
+     "for": "",
+     "copy": "Who will lift the Gentlemen's Singles trophy tomorrow? The Wimbledon final is set to be a classic! #Wimbledon",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "Women's Final Today",
+     "for": "",
+     "copy": "It's Women's Singles Final day at Wimbledon! Who are you backing for glory on Centre Court? #WimbledonFinal",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#WimbledonFinal"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fifa-world-cup-final",
+   "off": 8,
+   "type": "sport",
+   "hot": true,
+   "title": "FIFA World Cup 2026 Final",
+   "blurb": "The FIFA World Cup 2026 tournament, co-hosted by USA, Canada, and Mexico, culminates with the final match on Sunday, July 19th.",
+   "source": {
+    "l": "FIFA Official",
+    "u": "https://www.fifa.com/fifa-world-cup/2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Final Countdown",
+     "for": "",
+     "copy": "Only 8 days until the FIFA World Cup 2026 Final! Who are you hoping to see battle it out for football's biggest prize?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "World Cup Buzz",
+     "for": "",
+     "copy": "The excitement is building for the World Cup final next Sunday. Has your team made it to the last two?",
      "channels": [
       "instagram",
       "facebook",
@@ -81,35 +99,21 @@
      ],
      "time": "14:00",
      "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Finals Anticipation",
-     "copy": "Strawberries and cream at the ready! The Wimbledon 2026 finals weekend is here. Who will lift the trophies?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Tennis"
+      "#Football"
      ]
     }
    ]
   },
   {
-   "id": "rein-me-in-chart-record",
-   "off": 0,
-   "type": "culture",
+   "id": "the-open-championship",
+   "off": 5,
+   "type": "sport",
    "hot": true,
-   "title": "'Rein Me In' makes chart history",
-   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' has made Official Singles Chart history, becoming the longest-running Number 1 single by a British act with 16 non-consecutive weeks at the top.",
+   "title": "The Open Championship Begins",
+   "blurb": "The 154th Open Championship, golf's oldest major, takes place at Royal Birkdale Golf Club from July 16-19, with practice days starting July 12.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/news/2026/sam-fender-and-olivia-deans-rein-me-in-is-officially-the-longest-running-number-1-single-by-a-british-act-of-all-time/"
+    "l": "The Open Official",
+    "u": "https://www.theopen.com/"
    },
    "fits": [
     {
@@ -117,103 +121,158 @@
      "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Record",
-     "copy": "History made! Sam Fender & Olivia Dean's 'Rein Me In' is now the longest-running British No.1 single ever with 16 weeks! What a track!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Long Reign",
-     "copy": "Still at the top! 'Rein Me In' by Sam Fender and Olivia Dean marks its 16th week at Number 1. Are you still loving it?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#SamFender"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bristol-pride",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Bristol Pride Day",
-   "blurb": "Bristol Pride culminates today with a vibrant parade and outdoor celebration, promoting love and equality for the LGBTQIA+ community.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.org/events-and-things-to-do-britain-july"
-   },
-   "fits": [
-    {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio North West"
     }
    ],
    "angles": [
     {
-     "name": "Pride Parade",
-     "copy": "Happy Bristol Pride Day! The city is celebrating with a colourful parade and festivities for the LGBTQIA+ community. 🎉",
+     "name": "Golf Major Alert",
+     "for": "",
+     "copy": "Get ready for some world-class golf! The Open Championship kicks off next week at Royal Birkdale. Who's your pick for the Claret Jug?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "11:00",
      "tags": [
-      "#BristolPride"
+      "#TheOpen"
      ]
     },
     {
-     "name": "Weekend Vibe",
-     "copy": "Soaking up the positive vibes at Bristol Pride today. What an amazing celebration of love and diversity! #Pride2026",
+     "name": "Royal Birkdale Hosts",
+     "for": "Nation Radio North West",
+     "copy": "The eyes of the golf world turn to Southport next week as Royal Birkdale hosts The Open Championship. Are you heading down to see the action?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "15:00",
      "tags": [
-      "#Bristol"
+      "#RoyalBirkdale"
      ]
     }
    ]
   },
   {
-   "id": "kaleidoscope-festival-london",
+   "id": "kaleidoscope-festival",
    "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Kaleidoscope Festival",
-   "blurb": "Alexandra Palace Park in London hosts the Kaleidoscope Festival today, featuring a diverse lineup of music and arts.",
+   "title": "Kaleidoscope Festival Today",
+   "blurb": "Kaleidoscope Festival is happening today, July 11th, at Alexandra Palace Park in London, featuring a diverse lineup of music and arts.",
    "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/july-festivals-uk"
+    "l": "Kaleidoscope Festival",
+    "u": "https://kaleidoscopefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Live in London",
+     "for": "Nation Radio London",
+     "copy": "If you're in London, Kaleidoscope Festival is ON today at Ally Pally! Who are you excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#KaleidoscopeFestival"
+     ]
+    },
+    {
+     "name": "Festival Vibes",
+     "for": "",
+     "copy": "Sunshine and live music! Kaleidoscope Festival is bringing the good vibes to Alexandra Palace Park today.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#FestivalSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lost-minds-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Lost Minds Festival Kicks Off",
+   "blurb": "Lost Minds Festival is taking place today, July 11th, in Newcastle, promising a day of electronic music and immersive experiences.",
+   "source": {
+    "l": "Lost Minds Festival",
+    "u": "https://lostminds.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Newcastle Party",
+     "for": "Nation Radio North East",
+     "copy": "Lost Minds Festival is happening today in Newcastle! Get ready for an epic day of beats and good times.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#LostMinds"
+     ]
+    },
+    {
+     "name": "Dance Music Alert",
+     "for": "Nation Dance",
+     "copy": "Calling all ravers! Lost Minds Festival is delivering the biggest dance anthems today. What tracks are you hoping to hear?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#DanceMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "boogietown-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Boogietown Festival Today",
+   "blurb": "Boogietown Festival is live today, July 11th, in London, offering a lineup of disco, funk, and house music.",
+   "source": {
+    "l": "Boogietown Festival",
+    "u": "https://boogietown.co.uk/"
    },
    "fits": [
     {
@@ -222,112 +281,64 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Day",
-     "copy": "Who's at Kaleidoscope Festival in Alexandra Palace Park today? What an incredible lineup for a Saturday! 🎶",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#KaleidoscopeFest"
-     ]
-    },
-    {
-     "name": "London Gigs",
-     "copy": "If you're in London, Kaleidoscope Festival is happening today at Ally Pally! Enjoy the music and sunshine! #LondonGigs",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#AllyPally"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "llangollen-eisteddfod-finale",
-   "off": 1,
-   "type": "culture",
-   "hot": true,
-   "title": "Llangollen Eisteddfod Finale",
-   "blurb": "The Llangollen International Musical Eisteddfod concludes tomorrow, celebrating music and culture with competitors from around the world.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.org/events-and-things-to-do-britain-july"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Culture",
-     "copy": "It's the final day of the Llangollen International Musical Eisteddfod tomorrow! A fantastic celebration of Welsh and global culture. #Llangollen",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#Wales"
-     ]
-    },
-    {
-     "name": "International Music",
-     "copy": "Bringing the world to North Wales! The Llangollen Eisteddfod wraps up tomorrow after a week of incredible international music and dance. #Eisteddfod",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#NorthWales"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cat-stevens-birthday",
-   "off": 10,
-   "type": "birthday",
-   "hot": false,
-   "title": "Yusuf Islam (Cat Stevens) turns 78",
-   "blurb": "Legendary British singer-songwriter Yusuf Islam, known as Cat Stevens, celebrates his 78th birthday on July 21.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Yusuf_Islam"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London Groove",
+     "for": "Nation Radio London",
+     "copy": "Get your groove on! Boogietown Festival is bringing the funk and disco to London today. Who's there?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Boogietown"
+     ]
+    },
+    {
+     "name": "Retro Dance Party",
+     "for": "Nation Dance",
+     "copy": "Boogietown Festival is serving up classic disco and house vibes today! Time to hit the dance floor.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#DiscoFunk"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hebridean-celtic-festival",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Hebridean Celtic Festival Approaches",
+   "blurb": "The Hebridean Celtic Festival, celebrating Celtic and folk music, returns to Stornoway in the Outer Hebrides, Scotland, from July 15-18.",
+   "source": {
+    "l": "HebCelt Official",
+    "u": "https://www.hebceltfest.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     },
     {
      "g": "decades-genres",
@@ -336,76 +347,24 @@
    ],
    "angles": [
     {
-     "name": "Birthday Shoutout",
-     "copy": "Happy 78th Birthday to the iconic Yusuf Islam, also known as Cat Stevens! What's your favourite song from the legend? #CatStevens #YusufIslam",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#FolkMusic"
-     ]
-    },
-    {
-     "name": "Music Legend",
-     "copy": "Celebrating 78 years of timeless music! Happy Birthday to the incredible Cat Stevens (Yusuf Islam). #Legend",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SingerSongwriter"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "brian-may-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": false,
-   "title": "Brian May turns 79",
-   "blurb": "Queen's legendary guitarist Brian May celebrates his 79th birthday on July 19.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-week-of-july-16-22-b911c471c0800b6567554900a0614a9a"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar Hero",
-     "copy": "Happy 79th Birthday to the one and only Brian May! The Queen legend continues to inspire generations of guitarists. #BrianMay #Queen",
+     "name": "Scottish Festival Fun",
+     "for": "Nation Radio Scotland",
+     "copy": "Ready for a trip to the Outer Hebrides? The Hebridean Celtic Festival kicks off next week! What artists are you hoping to catch?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "09:00",
+     "time": "10:30",
      "tags": [
-      "#GuitarLegend"
+      "#HebCelt"
      ]
     },
     {
-     "name": "Rock Icon",
-     "copy": "Sending birthday wishes to Queen's magnificent guitarist, Brian May, turning 79 on July 19! What's your favourite Queen riff? #RockMusic",
+     "name": "Celtic Music Vibes",
+     "for": "Nation Easy",
+     "copy": "The Hebridean Celtic Festival brings beautiful folk and traditional music to Scotland next week. Perfect for some relaxed summer listening.",
      "channels": [
       "instagram",
       "facebook",
@@ -413,81 +372,156 @@
      ],
      "time": "15:00",
      "tags": [
-      "#QueenBand"
+      "#CelticMusic"
      ]
     }
    ]
   },
   {
-   "id": "carlos-santana-birthday",
-   "off": 9,
-   "type": "birthday",
-   "hot": false,
-   "title": "Carlos Santana turns 79",
-   "blurb": "Guitar icon Carlos Santana celebrates his 79th birthday on July 20.",
+   "id": "love-island-uk-ongoing",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Love Island UK Continues",
+   "blurb": "The 13th season of Love Island UK premiered on June 1st and continues to air nightly (Sunday-Friday) at 9pm on ITV2 and ITVX.",
    "source": {
-    "l": "This Day In Music",
-    "u": "https://www.thisdayinmusic.com/artists/carlos-santana/"
+    "l": "ITVX",
+    "u": "https://www.itv.com/itvx/love-island"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Birthday Groove",
-     "copy": "Happy 79th Birthday to the legendary Carlos Santana! Get your groove on with some classic Santana tunes today. #CarlosSantana",
+     "name": "Villa Drama",
+     "for": "",
+     "copy": "Another week, another dose of Love Island drama! What's been your favourite moment from the villa so far this season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "21:00",
+     "tags": [
+      "#LoveIslandUK"
+     ]
+    },
+    {
+     "name": "Who's Your Favourite Couple?",
+     "for": "",
+     "copy": "Love Island is heating up! Who are you rooting for to go all the way and win that £50k?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "19:00",
      "tags": [
-      "#Santana"
-     ]
-    },
-    {
-     "name": "Guitar Master",
-     "copy": "Wishing a very Happy 79th Birthday to the incomparable Carlos Santana! A true master of the guitar. #GuitarGod",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LatinRock"
+      "#LoveIsland"
      ]
     }
    ]
   },
   {
-   "id": "tom-fletcher-birthday",
-   "off": 6,
+   "id": "suzanne-vega-bday",
+   "off": 0,
    "type": "birthday",
    "hot": false,
-   "title": "Tom Fletcher turns 41",
-   "blurb": "McFly frontman and popular author Tom Fletcher celebrates his 41st birthday on July 17.",
+   "title": "Suzanne Vega's Birthday",
+   "blurb": "American singer-songwriter Suzanne Vega, known for hits like 'Luka' and 'Tom's Diner', turns 67 today.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/tom-fletcher.html"
+    "u": "https://www.famousbirthdays.com/"
    },
    "fits": [
     {
      "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Suzanne",
+     "for": "",
+     "copy": "Happy 67th Birthday to the iconic Suzanne Vega! What's your favourite track from her incredible discography?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#SuzanneVega"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lil-kim-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Lil' Kim's Birthday",
+   "blurb": "Influential American rapper Lil' Kim celebrates her 51st birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Queen Bee",
+     "for": "",
+     "copy": "Wishing a very Happy 51st Birthday to the legendary Queen Bee herself, Lil' Kim! What's your favourite track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#LilKim"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "derek-sanders-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Derek Sanders' Birthday",
+   "blurb": "Derek Sanders, lead singer of American rock band Mayday Parade, turns 40 today.",
+   "source": {
+    "l": "idobi",
+    "u": "https://idobi.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -496,44 +530,347 @@
    ],
    "angles": [
     {
-     "name": "McFly Birthday",
-     "copy": "Happy 41st Birthday to McFly's very own Tom Fletcher! Still rocking and writing amazing books. #TomFletcher #McFly",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#PopPunk"
-     ]
-    },
-    {
-     "name": "Celebration",
-     "copy": "Sending birthday love to Tom Fletcher, who turns 41 on July 17! What's your favourite McFly song? #HappyBirthdayTom",
+     "name": "Mayday Parade Frontman",
+     "for": "Nation Rocks",
+     "copy": "Happy 40th Birthday to Mayday Parade's frontman, Derek Sanders! What's your go-to Mayday Parade anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "10:00",
      "tags": [
-      "#McFlyFan"
+      "#MaydayParade"
      ]
     }
    ]
   },
   {
-   "id": "stewart-copeland-birthday",
+   "id": "deborah-cox-bday",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Deborah Cox's Birthday",
+   "blurb": "Canadian R&B singer Deborah Cox, known for her powerful vocals and hits like 'Nobody's Supposed to Be Here', celebrates her 52nd birthday on July 13th.",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "R&B Diva Birthday",
+     "for": "Nation Love",
+     "copy": "Get ready to celebrate Deborah Cox's 52nd birthday on Monday! Her voice is pure R&B gold. What's your favourite of her ballads?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DeborahCox"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "benny-benassi-bday",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Benny Benassi's Birthday",
+   "blurb": "Italian DJ and producer Benny Benassi, famous for the global hit 'Satisfaction', turns 59 on July 13th.",
+   "source": {
+    "l": "Birthday Buddies",
+    "u": "https://birthdaybuddies.net/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "DJ Legend's Birthday",
+     "for": "Nation Dance",
+     "copy": "Monday is Benny Benassi's 59th birthday! Still can't get enough of 'Satisfaction'. What's your favourite Benassi banger?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BennyBenassi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chris-cross-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "Chris Cross' Birthday",
+   "blurb": "Chris Cross, the bass guitarist for the iconic British new wave band Ultravox, celebrates his 74th birthday on July 14th.",
+   "source": {
+    "l": "WWCF Radio",
+    "u": "https://wwcfradio.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Ultravox Bassist",
+     "for": "Nation 80s",
+     "copy": "Happy 74th Birthday to Ultravox's Chris Cross on Tuesday! What's your favourite synth-pop classic from the band?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Ultravox"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dan-reynolds-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "Dan Reynolds' Birthday",
+   "blurb": "Dan Reynolds, the charismatic lead singer of the American rock band Imagine Dragons, turns 39 on July 14th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Imagine Dragons Frontman",
+     "for": "Nation Rocks",
+     "copy": "Wishing a very Happy 39th Birthday to Imagine Dragons' incredible frontman, Dan Reynolds, on Tuesday! What's your favourite anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ImagineDragons"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "linda-ronstadt-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Linda Ronstadt's Birthday",
+   "blurb": "American singer Linda Ronstadt, a versatile artist across rock, country, and pop, celebrates her 80th birthday on July 15th.",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Singing Legend",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 80th Birthday to the legendary Linda Ronstadt on Wednesday! Her voice is timeless. What's your favourite Linda track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#LindaRonstadt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ray-toro-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Ray Toro's Birthday",
+   "blurb": "Ray Toro, the lead guitarist of the influential American rock band My Chemical Romance, turns 49 on July 15th.",
+   "source": {
+    "l": "idobi",
+    "u": "https://idobi.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "MCR Guitarist",
+     "for": "Nation Rocks",
+     "copy": "Wednesday marks Ray Toro's 49th Birthday! The My Chemical Romance guitarist is a rock icon. What's your favourite MCR song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#MyChemicalRomance"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "luke-hemmings-bday",
    "off": 5,
    "type": "birthday",
    "hot": false,
-   "title": "Stewart Copeland turns 74",
-   "blurb": "The Police drummer and rock legend Stewart Copeland celebrates his 74th birthday on July 16.",
+   "title": "Luke Hemmings' Birthday",
+   "blurb": "Luke Hemmings, the lead vocalist and rhythm guitarist of the Australian pop-rock band 5 Seconds of Summer, turns 30 on July 16th.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-week-of-july-16-22-b911c471c0800b6567554900a0614a9a"
+    "l": "idobi",
+    "u": "https://idobi.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "5SOS Frontman",
+     "for": "Nation Hits",
+     "copy": "Happy 30th Birthday to 5 Seconds of Summer's Luke Hemmings on Thursday! What's your favourite 5SOS track to sing along to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LukeHemmings"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fatboy-slim-bday",
+   "off": 5,
+   "type": "birthday",
+   "hot": false,
+   "title": "Fatboy Slim's Birthday",
+   "blurb": "Norman Cook, better known as the pioneering British DJ and producer Fatboy Slim, celebrates his 63rd birthday on July 16th.",
+   "source": {
+    "l": "Birthday Buddies",
+    "u": "https://birthdaybuddies.net/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Big Beat Birthday",
+     "for": "Nation Dance",
+     "copy": "Thursday is Fatboy Slim's 63rd Birthday! The Brighton legend still knows how to rock a party. What's your favourite of his tracks?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FatboySlim"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geezer-butler-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Geezer Butler's Birthday",
+   "blurb": "Terence 'Geezer' Butler, the legendary bassist and primary lyricist for Black Sabbath, turns 77 on July 17th.",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/"
    },
    "fits": [
     {
@@ -546,48 +883,158 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Drumming Legend",
-     "copy": "Happy 74th Birthday to the incredible Stewart Copeland of The Police! Still one of the most distinctive drummers in rock. #StewartCopeland",
+     "name": "Heavy Metal Icon",
+     "for": "Nation Rocks",
+     "copy": "Happy 77th Birthday to Black Sabbath's Geezer Butler on Friday! A true pioneer of heavy metal bass. What's your favourite Sabbath riff?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "09:00",
      "tags": [
-      "#ThePolice"
-     ]
-    },
-    {
-     "name": "Iconic Beat",
-     "copy": "Wishing a fantastic 74th Birthday to Stewart Copeland on July 16! Those Police beats are still legendary. #Drummer",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RockLegend"
+      "#GeezerButler"
      ]
     }
    ]
   },
   {
-   "id": "olly-alexander-birthday",
-   "off": 4,
+   "id": "tom-fletcher-bday",
+   "off": 6,
    "type": "birthday",
    "hot": false,
-   "title": "Olly Alexander turns 36",
-   "blurb": "Years & Years frontman and Eurovision star Olly Alexander celebrates his 36th birthday on July 15.",
+   "title": "Tom Fletcher's Birthday",
+   "blurb": "Tom Fletcher, the lead vocalist and guitarist for the popular British pop-rock band McFly, celebrates his 41st birthday on July 17th.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/olly-alexander.html"
+    "u": "https://www.famousbirthdays.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "McFly Star",
+     "for": "Nation Hits",
+     "copy": "Friday is McFly's Tom Fletcher's 41st Birthday! What's your go-to McFly singalong track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TomFletcher"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "martha-reeves-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Martha Reeves' Birthday",
+   "blurb": "Martha Reeves, the iconic lead singer of the Motown group Martha Reeves and the Vandellas, turns 85 on July 18th.",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Motown Legend",
+     "for": "Nation 60s",
+     "copy": "Happy 85th Birthday to the legendary Martha Reeves on Saturday! 'Dancing In The Street' never gets old. What's your favourite Vandellas hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#MarthaReeves"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dion-dimucci-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Dion DiMucci's Birthday",
+   "blurb": "American rock and roll pioneer Dion DiMucci, known for hits like 'Runaround Sue' and 'The Wanderer', turns 87 on July 18th.",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 50s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock 'n' Roll Pioneer",
+     "for": "Nation 60s",
+     "copy": "Wishing a very Happy 87th Birthday to the incredible Dion DiMucci on Saturday! A true rock 'n' roll legend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DionDiMucci"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mia-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "M.I.A.'s Birthday",
+   "blurb": "British rapper, singer, and songwriter M.I.A. (Mathangi Arulpragasam), known for her genre-bending music, turns 51 on July 18th.",
+   "source": {
+    "l": "Musicians Born on July 18",
+    "u": "https://www.thisdayinmusic.com/birthdays/july-18/"
    },
    "fits": [
     {
@@ -597,26 +1044,17 @@
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Pop Star Birthday",
-     "copy": "Happy 36th Birthday to the brilliant Olly Alexander of Years & Years! Hope it's a fantastic day for our Eurovision king. #OllyAlexander",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#YearsAndYears"
-     ]
-    },
-    {
-     "name": "Eurovision Favourite",
-     "copy": "Sending birthday wishes to Olly Alexander, turning 36 on July 15! Still obsessed with his Eurovision performance. #PopMusic",
+     "name": "Innovative Artist",
+     "for": "Nation Hits",
+     "copy": "Happy 51st Birthday to the incredible M.I.A. on Saturday! Her music always pushes boundaries. What's your favourite track?",
      "channels": [
       "instagram",
       "facebook",
@@ -624,95 +1062,37 @@
      ],
      "time": "12:00",
      "tags": [
-      "#Eurovision"
+      "#MIA"
      ]
     }
    ]
   },
   {
-   "id": "roger-mcguinn-birthday",
-   "off": 2,
+   "id": "julianne-hough-bday",
+   "off": 9,
    "type": "birthday",
    "hot": false,
-   "title": "Roger McGuinn turns 84",
-   "blurb": "The Byrds co-founder and folk-rock pioneer Roger McGuinn celebrates his 84th birthday on July 13.",
+   "title": "Julianne Hough's Birthday",
+   "blurb": "American dancer, singer, and actress Julianne Hough, known from 'Dancing with the Stars' and her country music career, turns 38 on July 20th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/roger-mcguinn.html"
+    "l": "Famous Musicians' Birthdays",
+    "u": "https://www.famousbirthdays.com/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Folk-Rock Pioneer",
-     "copy": "Happy 84th Birthday to the legendary Roger McGuinn of The Byrds! Still sounds incredible. #RogerMcGuinn #TheByrds",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#FolkRock"
-     ]
-    },
-    {
-     "name": "Timeless Tunes",
-     "copy": "Wishing a very Happy 84th Birthday to Roger McGuinn on July 13! His music with The Byrds is timeless. #MusicLegend",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#60sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-open-golf-starts",
-   "off": 1,
-   "type": "sport",
-   "hot": false,
-   "title": "The Open Championship Practice Days Begin",
-   "blurb": "The Open Championship 2026 officially begins its practice days at Royal Birkdale Golf Club tomorrow, ahead of the tournament proper later next week.",
-   "source": {
-    "l": "The Open Official Site",
-    "u": "https://www.theopen.com/latest/2026-open-championship-dates-and-venue"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Golf Excitement",
-     "copy": "Get ready, golf fans! Practice days for The Open Championship begin tomorrow at Royal Birkdale. Who's your pick for the Claret Jug? #TheOpen",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Golf"
-     ]
-    },
-    {
-     "name": "Road to Birkdale",
-     "copy": "The world's best golfers are heading to Royal Birkdale! Practice for The Open 2026 starts tomorrow. #RoyalBirkdale",
+     "name": "Dancing Queen's Birthday",
+     "for": "Nation Hits",
+     "copy": "Wishing a very Happy 38th Birthday to the multi-talented Julianne Hough on Monday! What's your favourite of her songs or dances?",
      "channels": [
       "instagram",
       "facebook",
@@ -720,45 +1100,79 @@
      ],
      "time": "10:00",
      "tags": [
-      "#MajorGolf"
+      "#JulianneHough"
      ]
     }
    ]
   },
   {
-   "id": "icc-womens-t20-world-cup-final",
-   "off": 1,
-   "type": "sport",
+   "id": "cat-stevens-bday",
+   "off": 10,
+   "type": "birthday",
    "hot": false,
-   "title": "ICC Women's T20 World Cup Final",
-   "blurb": "The final of the ICC Women's T20 World Cup 2026 takes place tomorrow, concluding the tournament hosted across England.",
+   "title": "Cat Stevens (Yusuf Islam) Birthday",
+   "blurb": "British singer-songwriter Cat Stevens, also known as Yusuf Islam, celebrates his 78th birthday on July 21st.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.org/events-and-things-to-do-britain-july"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Cricket Final",
-     "copy": "It's the ICC Women's T20 World Cup Final tomorrow! Who are you hoping to see lift the trophy? #T20WorldCup",
+     "name": "Timeless Troubadour",
+     "for": "Nation 70s",
+     "copy": "Happy 78th Birthday to the iconic Cat Stevens (Yusuf Islam) on Tuesday! His songs are truly timeless. What's your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:30",
+     "time": "09:00",
      "tags": [
-      "#WomensCricket"
+      "#CatStevens"
      ]
+    }
+   ]
+  },
+  {
+   "id": "paloma-faith-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Paloma Faith's Birthday",
+   "blurb": "British singer-songwriter and actress Paloma Faith turns 41 on July 21st.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
-     "name": "Home Tournament",
-     "copy": "After a fantastic tournament across England, the ICC Women's T20 World Cup culminates in the final tomorrow! #Cricket",
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "British Soul Star",
+     "for": "Nation Hits",
+     "copy": "Wishing a very Happy 41st Birthday to the fabulous Paloma Faith on Tuesday! What's your favourite track from her?",
      "channels": [
       "instagram",
       "facebook",
@@ -766,7 +1180,45 @@
      ],
      "time": "11:00",
      "tags": [
-      "#EnglandCricket"
+      "#PalomaFaith"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rebecca-ferguson-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Rebecca Ferguson's Birthday",
+   "blurb": "British singer-songwriter Rebecca Ferguson, who rose to fame on The X Factor, turns 40 on July 21st.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "X Factor Star",
+     "for": "Nation Hits",
+     "copy": "Happy 40th Birthday to the amazing Rebecca Ferguson on Tuesday! What's your favourite song from her soulful voice?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#RebeccaFerguson"
      ]
     }
    ]
