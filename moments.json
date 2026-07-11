@@ -1,75 +1,53 @@
 {
- "updated": "2026-07-11T09:13:31.593Z",
+ "updated": "2026-07-11T10:50:26.306Z",
  "moments": [
   {
-   "id": "fifa-world-cup-semis",
+   "id": "world-cup-semi-finals",
    "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Semi-Finals",
-   "blurb": "The FIFA World Cup 2026 reaches its penultimate stage with the semi-final matches kicking off next week.",
+   "title": "World Cup Semi-Finals Kick Off",
+   "blurb": "The FIFA World Cup 2026 semi-finals are set to take place on July 14th and 15th, building up to the final on July 19th.",
    "source": {
-    "l": "FIFA World Cup Official Site",
-    "u": "https://www.fifa.com/worldcup/"
+    "l": "FIFA Official Website / Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Semi-final anticipation",
-     "copy": "The FIFA World Cup 2026 semi-finals are set! Who makes it to the final? Get ready for two massive clashes.",
+     "name": "Football Fever",
+     "copy": "Who are you backing for the World Cup final? The semi-finals are this Tuesday and Wednesday! Get ready for some nail-biting football.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#WorldCup2026"
      ]
     },
     {
-     "name": "Road to the final",
-     "copy": "Just two games stand between the semi-finalists and a spot in the World Cup final. The tension is real!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#FIFAWorldCup"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wimbledon-mens-final",
-   "off": 1,
-   "type": "sport",
-   "hot": true,
-   "title": "Wimbledon Men's Singles Final",
-   "blurb": "The Gentlemen's Singles Final at Wimbledon wraps up the prestigious tennis tournament tomorrow.",
-   "source": {
-    "l": "Wimbledon Official Site",
-    "u": "https://www.wimbledon.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Final countdown",
-     "copy": "Centre Court awaits! Who will lift the Wimbledon Gentlemen's Singles trophy tomorrow? Don't miss the final.",
+     "name": "Midweek Thrills",
+     "copy": "Your midweek just got a serious upgrade! The FIFA World Cup semi-finals are happening July 14th & 15th. Where will you be watching?",
      "channels": [
       "instagram",
       "facebook",
@@ -77,22 +55,9 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:30",
+     "time": "12:00",
      "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Tennis drama",
-     "copy": "All eyes on SW19 for the biggest match in men's tennis. Who's your pick for Wimbledon champion?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#Tennis"
+      "#FIFAWorldCup"
      ]
     }
    ]
@@ -102,172 +67,82 @@
    "off": 5,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship at Royal Birkdale",
-   "blurb": "The 154th Open Championship, golf's oldest major, tees off next week at Royal Birkdale.",
+   "title": "The Open Championship Tees Off",
+   "blurb": "The 154th Open Championship, golf's oldest major, begins its tournament days on July 16th at Royal Birkdale Golf Club in Southport, England, following practice days starting July 12th.",
    "source": {
-    "l": "The Open Official Site",
+    "l": "The Open Official Website",
     "u": "https://www.theopen.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Golf Major",
-     "copy": "Get ready for links golf at its finest! The Open Championship begins next week at Royal Birkdale. Who's your favourite for the Claret Jug?",
+     "name": "Golf's Greatest Stage",
+     "copy": "It's Major week! The Open Championship returns to Royal Birkdale from July 16th. Who's your pick for the Claret Jug this year?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
       "#TheOpen"
      ]
     },
     {
-     "name": "Birkdale beckons",
-     "copy": "The world's best golfers head to Royal Birkdale for The Open 2026. Expect drama, wind, and incredible shots.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Golf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "latitude-festival-2026",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Latitude Festival Kicks Off",
-   "blurb": "Latitude Festival returns to Henham Park, Suffolk next weekend, featuring a diverse lineup of music, comedy, and arts.",
-   "source": {
-    "l": "Latitude Festival Official Site",
-    "u": "https://www.latitudefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Suffolk"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Latitude vibes",
-     "copy": "It's almost time for Latitude! Henham Park is gearing up for a weekend of brilliant music, comedy, and culture. Who are you excited to see?",
+     "name": "Royal Birkdale Calling",
+     "copy": "The world's best golfers descend on Royal Birkdale this week for The 154th Open Championship. Get ready for some links magic!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "10:30",
+     "time": "14:00",
      "tags": [
-      "#LatitudeFestival"
-     ]
-    },
-    {
-     "name": "Suffolk's big weekend",
-     "copy": "Latitude Festival is bringing the party to Suffolk next week! Get ready for an unforgettable experience.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Suffolk"
+      "#RoyalBirkdale"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-july10",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Official UK Singles Chart Top 40",
-   "blurb": "The Official UK Singles Chart was announced yesterday, revealing the biggest tracks in the country right now.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart topper",
-     "copy": "The new Official UK Singles Chart is in! Who's at Number 1 this week? Tune in and find out what's hot right now.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#UKChart"
-     ]
-    },
-    {
-     "name": "New music",
-     "copy": "What tracks are dominating the UK charts this week? We've got the lowdown on the biggest hits and rising stars.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-island-heating-up",
+   "id": "love-island-uk",
    "off": 0,
    "type": "tv",
    "hot": true,
-   "title": "Love Island UK Drama",
-   "blurb": "Love Island UK continues to deliver daily drama as the islanders navigate relationships and challenges in the villa.",
+   "title": "Love Island UK Drama Continues",
+   "blurb": "Love Island UK Season 13, which premiered on June 1st, continues nightly on ITV2 and ITVX, bringing daily villa drama to the nation.",
    "source": {
-    "l": "ITV Hub",
+    "l": "ITV Hub / Radio Times",
     "u": "https://www.itv.com/loveisland"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Love Island update",
-     "copy": "Is your head turned by the latest Love Island drama? The villa is heating up and no one is safe!",
+     "name": "Villa Latest",
+     "copy": "Another day, another dose of Love Island drama! What's got the villa buzzing tonight? Tune in for the latest island antics.",
      "channels": [
       "instagram",
       "facebook",
@@ -275,33 +150,34 @@
       "tiktok",
       "threads"
      ],
-     "time": "16:00",
+     "time": "19:00",
      "tags": [
-      "#LoveIsland"
+      "#LoveIslandUK"
      ]
     },
     {
-     "name": "Who's coupled up?",
-     "copy": "Another day, another dose of Love Island. Who's found love, and who's on the rocks? Catch up on all the gossip.",
+     "name": "Summer of Love (Island)",
+     "copy": "We're deep into Love Island UK Season 13! Who's your favourite couple, and who do you think is heading for a 're-coupling' shock?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "19:00",
+     "time": "17:00",
      "tags": [
-      "#ITV"
+      "#LoveIsland"
      ]
     }
    ]
   },
   {
-   "id": "suzanne-vega-67",
+   "id": "suzanne-vega-bday",
    "off": 0,
    "type": "birthday",
    "hot": false,
-   "title": "Suzanne Vega's 67th Birthday",
-   "blurb": "American singer-songwriter Suzanne Vega, known for hits like 'Luka' and 'Tom's Diner', turns 67 today.",
+   "title": "Suzanne Vega Turns 67",
+   "blurb": "American singer-songwriter Suzanne Vega, known for hits like 'Luka' and 'Tom's Diner', celebrates her 67th birthday today.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Suzanne_Vega"
@@ -313,23 +189,24 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Suzanne",
-     "copy": "Happy 67th Birthday to the iconic Suzanne Vega! Still love 'Luka' and 'Tom's Diner'?",
+     "name": "Luka's Legacy",
+     "copy": "Happy 67th Birthday to the iconic Suzanne Vega! Still listening to 'Luka' and 'Tom's Diner' on repeat? We are!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#SuzanneVega"
      ]
@@ -337,12 +214,12 @@
    ]
   },
   {
-   "id": "richie-sambora-67",
+   "id": "richie-sambora-bday",
    "off": 0,
    "type": "birthday",
    "hot": false,
-   "title": "Richie Sambora Turns 67",
-   "blurb": "Former Bon Jovi guitarist and co-songwriter Richie Sambora celebrates his 67th birthday today.",
+   "title": "Richie Sambora is 67",
+   "blurb": "Richie Sambora, legendary lead guitarist and co-songwriter for Bon Jovi, celebrates his 67th birthday today.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Richie_Sambora"
@@ -363,14 +240,15 @@
    ],
    "angles": [
     {
-     "name": "Rock Legend Birthday",
-     "copy": "Happy 67th Birthday to rock legend Richie Sambora! What's your favourite Bon Jovi track featuring his iconic guitar work?",
+     "name": "Bon Jovi Legend",
+     "copy": "Raise a glass to Richie Sambora, Bon Jovi's iconic guitarist, who turns 67 today! What's your favourite Bon Jovi riff he created?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
       "#RichieSambora"
      ]
@@ -378,12 +256,12 @@
    ]
   },
   {
-   "id": "roger-mcguinn-84",
+   "id": "roger-mcguinn-bday",
    "off": 2,
    "type": "birthday",
    "hot": false,
-   "title": "Roger McGuinn's 84th Birthday",
-   "blurb": "Roger McGuinn, co-founder of the influential folk-rock band The Byrds, turns 84 on Monday.",
+   "title": "Roger McGuinn Turns 84",
+   "blurb": "Roger McGuinn, influential singer-songwriter and co-founder of the pioneering folk-rock band The Byrds, celebrates his 84th birthday on July 13th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Roger_McGuinn"
@@ -400,64 +278,28 @@
    ],
    "angles": [
     {
-     "name": "Byrds Legend Birthday",
-     "copy": "Monday marks the 84th birthday of Roger McGuinn from The Byrds! A true pioneer of folk-rock. What's your favourite Byrds song?",
+     "name": "Byrds Legend",
+     "copy": "Happy 84th Birthday on Monday to the legendary Roger McGuinn of The Byrds! What's your favourite Byrds track to spin?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "09:30",
      "tags": [
-      "#TheByrds"
+      "#RogerMcGuinn"
      ]
     }
    ]
   },
   {
-   "id": "louise-redknapp-52",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Louise Redknapp Turns 52",
-   "blurb": "Singer, presenter, and former Eternal member Louise Redknapp celebrates her 52nd birthday on Monday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Louise_Redknapp"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Louise",
-     "copy": "Wishing a very Happy 52nd Birthday to Louise Redknapp on Monday! From Eternal to solo hits, what's your top track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#LouiseRedknapp"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "linda-ronstadt-80",
+   "id": "linda-ronstadt-bday",
    "off": 4,
    "type": "birthday",
    "hot": false,
    "title": "Linda Ronstadt's 80th Birthday",
-   "blurb": "Grammy-winning singer Linda Ronstadt, known for her versatile voice across genres, turns 80 on Wednesday.",
+   "blurb": "The acclaimed American singer Linda Ronstadt, known for her versatile voice across rock, folk, and country, turns 80 on July 15th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Linda_Ronstadt"
@@ -469,23 +311,28 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Birthday for Linda",
-     "copy": "Happy 80th Birthday to the incredible Linda Ronstadt on Wednesday! A true music icon. What's your favourite song from her?",
+     "name": "Rock & Roll Royalty",
+     "copy": "Wishing a very Happy 80th Birthday to the incredible Linda Ronstadt on Wednesday! What's the Linda song that always gets you?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "13:00",
+     "time": "10:00",
      "tags": [
       "#LindaRonstadt"
      ]
@@ -493,216 +340,133 @@
    ]
   },
   {
-   "id": "stewart-copeland-74",
-   "off": 5,
+   "id": "luke-bryan-bday",
+   "off": 6,
    "type": "birthday",
    "hot": false,
-   "title": "Stewart Copeland Turns 74",
-   "blurb": "The Police drummer and co-founder Stewart Copeland celebrates his 74th birthday next Thursday.",
+   "title": "Luke Bryan Turns 50",
+   "blurb": "Grammy-nominated American country music superstar and American Idol judge Luke Bryan celebrates his 50th birthday on July 17th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Stewart_Copeland"
+    "u": "https://en.wikipedia.org/wiki/Luke_Bryan"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Police Drummer Birthday",
-     "copy": "Next Thursday, the legendary Stewart Copeland of The Police turns 74! Get your air drums ready for some classic tracks.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#StewartCopeland"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "brian-may-79",
-   "off": 8,
-   "type": "birthday",
-   "hot": false,
-   "title": "Brian May's 79th Birthday",
-   "blurb": "Queen guitarist and rock icon Brian May celebrates his 79th birthday next Friday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Brian_May"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen Legend Birthday",
-     "copy": "Happy 79th Birthday to the one and only Brian May next Friday! What's your favourite Queen guitar solo?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#BrianMay"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "carlos-santana-79",
-   "off": 9,
-   "type": "birthday",
-   "hot": false,
-   "title": "Carlos Santana Turns 79",
-   "blurb": "Guitar virtuoso Carlos Santana, known for his unique blend of rock, Latin, and blues, celebrates his 79th birthday next Saturday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Carlos_Santana"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Santana Birthday",
-     "copy": "Next Saturday, the legendary Carlos Santana turns 79! Get ready to groove to some of his timeless tracks.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#CarlosSantana"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kim-carnes-81",
-   "off": 9,
-   "type": "birthday",
-   "hot": false,
-   "title": "Kim Carnes' 81st Birthday",
-   "blurb": "Singer-songwriter Kim Carnes, famous for her husky voice and the hit 'Bette Davis Eyes', turns 81 next Saturday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Kim_Carnes"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bette Davis Eyes Birthday",
-     "copy": "Happy 81st Birthday to Kim Carnes next Saturday! Still love 'Bette Davis Eyes'? We do!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#KimCarnes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cat-stevens-78",
-   "off": 10,
-   "type": "birthday",
-   "hot": false,
-   "title": "Cat Stevens (Yusuf Islam) Turns 78",
-   "blurb": "Legendary singer-songwriter Cat Stevens, also known as Yusuf Islam, celebrates his 78th birthday next Sunday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Cat_Stevens"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Cat Stevens Birthday",
-     "copy": "Next Sunday, the incredible Cat Stevens (Yusuf Islam) turns 78! What's your favourite folk-rock classic from him?",
+     "name": "Country Star's Milestone",
+     "copy": "Happy 50th Birthday to country king Luke Bryan this Friday! What's your favourite track from the 'American Idol' judge?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "18:00",
+     "time": "12:00",
      "tags": [
-      "#CatStevens"
+      "#LukeBryan"
      ]
     }
    ]
   },
   {
-   "id": "summer-holidays-kickoff",
+   "id": "geezer-butler-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Geezer Butler is 77",
+   "blurb": "Terence 'Geezer' Butler, the iconic bassist and primary lyricist for heavy metal pioneers Black Sabbath, turns 77 on July 17th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Geezer_Butler"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal Legend",
+     "copy": "Wishing a thunderous Happy 77th Birthday to Black Sabbath's Geezer Butler this Friday! What's your favourite Sabbath classic featuring his legendary basslines?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#GeezerButler"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mia-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "M.I.A. Turns 51",
+   "blurb": "British rapper, singer, songwriter, and producer M.I.A. (Mathangi Arulpragasam), known for her genre-bending hits, celebrates her 51st birthday on July 18th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/M.I.A."
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Paper Planes & Beyond",
+     "copy": "Happy 51st Birthday to the incredible M.I.A. this Saturday! What's your go-to track from the innovative artist?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#MIA"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-summer-holidays",
    "off": 0,
    "type": "seasonal",
    "hot": true,
    "title": "Summer Holidays Are Here!",
-   "blurb": "For many across the UK, the summer school holidays are officially kicking off or are just around the corner.",
+   "blurb": "Many schools across the UK are now on or entering their summer holidays, with dates varying by region but generally running through July and August.",
    "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
+    "l": "Gov.uk / Local Councils",
+    "u": "https://www.gov.uk/school-term-dates-and-holidays"
    },
    "fits": [
     {
@@ -714,18 +478,18 @@
      "sub": ""
     },
     {
-     "g": "dragon",
+     "g": "radio-exe",
      "sub": ""
     },
     {
-     "g": "radio-exe",
+     "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "School's Out",
-     "copy": "School's out for summer! Or nearly! What are your plans for the long-awaited summer holidays?",
+     "name": "School's Out!",
+     "copy": "For many, the summer holidays are officially HERE! Kids across the UK are now free for weeks of fun. What are your plans?",
      "channels": [
       "instagram",
       "facebook",
@@ -733,22 +497,87 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "07:00",
      "tags": [
       "#SummerHolidays"
      ]
     },
     {
-     "name": "Holiday vibe",
-     "copy": "The summer holidays are officially here for many! Time for sunshine, fun, and maybe a staycation or two.",
+     "name": "Holiday Mode Activated",
+     "copy": "Whether you're off on an adventure or enjoying a staycation, the UK summer holidays are in full swing for many! How are you making the most of it?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
       "#SummerVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "latitude-festival",
+   "off": 12,
+   "type": "gig",
+   "hot": true,
+   "title": "Latitude Festival Approaching",
+   "blurb": "Latitude Festival 2026, featuring headliners David Byrne, Teddy Swims, and Lewis Capaldi, takes place from July 23rd-26th at Henham Park, Suffolk.",
+   "source": {
+    "l": "Latitude Festival Official Site",
+    "u": "https://www.latitudefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "copy": "Just over a week until Latitude Festival kicks off! Who are you most excited to see – David Byrne, Teddy Swims, or Lewis Capaldi?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#LatitudeFestival"
+     ]
+    },
+    {
+     "name": "Suffolk's Summer Festival",
+     "copy": "The countdown to Latitude is on! Henham Park is about to come alive with music, comedy, and arts from July 23rd. Grab those last-minute tickets!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#SuffolkEvents"
      ]
     }
    ]
