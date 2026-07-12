@@ -1,15 +1,120 @@
 {
- "updated": "2026-07-11T23:40:39.641Z",
+ "updated": "2026-07-12T01:18:42.774Z",
  "moments": [
   {
-   "id": "worldcup-qfs-england",
+   "id": "wimbledon-final-day",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Quarter-Finals: England in Action",
-   "blurb": "The FIFA World Cup 2026 quarter-finals are underway, with England facing Norway today for a place in the semi-finals.",
+   "title": "Wimbledon Finals Day",
+   "blurb": "The Championships, Wimbledon, one of tennis's four Grand Slams, concludes today, Sunday, July 12, 2026, with the men's singles final at the All England Club in London.",
    "source": {
-    "l": "FIFA",
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Last chance to watch",
+     "for": "",
+     "copy": "Centre Court calls! It's finals day at Wimbledon 2026 – who are you backing to lift the trophy? #WimbledonFinal",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WimbledonFinal"
+     ]
+    },
+    {
+     "name": "Summer tradition",
+     "for": "",
+     "copy": "Strawberries and cream at the ready! Wimbledon wraps up today, marking the end of another glorious British summer tradition. What a fortnight it's been.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Wimbledon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "open-championship-practice",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "The Open Championship practice days begin",
+   "blurb": "The 154th Open Championship, a major golf tournament, begins its practice days today, July 12, 2026, at Royal Birkdale Golf Club in Southport, Merseyside, with the tournament proper running from July 16-19.",
+   "source": {
+    "l": "The Open Official Site",
+    "u": "https://www.theopen.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North West"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Golf action starts",
+     "for": "",
+     "copy": "From Centre Court to the green! The Open Championship practice days kick off today at Royal Birkdale. Who's your pick for the Claret Jug? #TheOpen",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Major golf week ahead",
+     "for": "",
+     "copy": "It's a huge week for golf fans as the 154th Open Championship gets underway with practice rounds today. Get ready for some world-class swings!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#RoyalBirkdale"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fifa-world-cup-semis",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "FIFA World Cup 2026 Semi-Finals",
+   "blurb": "The FIFA World Cup 2026 moves into its semi-final stage this week, with matches scheduled for July 14-15, leading to the final on July 19.",
+   "source": {
+    "l": "FIFA Official Site",
     "u": "https://www.fifa.com/worldcup/2026/matches"
    },
    "fits": [
@@ -20,30 +125,29 @@
    ],
    "angles": [
     {
-     "name": "England's Big Match",
-     "copy": "It's a huge day for England as they battle Norway in the World Cup Quarter-Finals today! Can they book their spot in the semis?",
+     "name": "Semi-final anticipation",
+     "for": "",
+     "copy": "The World Cup semi-finals are just around the corner! Who will battle it out for a place in the biggest match in football? Get ready for drama!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "14:00",
+     "time": "11:00",
      "tags": [
       "#FIFAWorldCup"
      ]
     },
     {
-     "name": "Quarter-Finals Heat Up",
-     "copy": "The FIFA World Cup Quarter-Finals are delivering all the drama! France and Spain are already through, who joins them today?",
+     "name": "Road to the final",
+     "for": "",
+     "copy": "Only four teams left standing! The FIFA World Cup 2026 semi-finals are set to deliver unmissable football this week. Who's going all the way?",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "16:00",
      "tags": [
       "#WorldCup2026"
      ]
@@ -51,65 +155,141 @@
    ]
   },
   {
-   "id": "wimbledon-final-mens",
-   "off": 1,
-   "type": "sport",
+   "id": "uk-heatwave-continues",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Wimbledon Men's Singles Final",
-   "blurb": "The 2026 Wimbledon Championships conclude tomorrow, July 12th, with the highly anticipated Men's Singles Final at the All England Club.",
+   "title": "UK heatwave continues, set to ease mid-week",
+   "blurb": "A heatwave continues across much of the UK, particularly Southern England and Wales, with temperatures expected to remain high over the weekend before easing slightly by mid-week, with some thunderstorms possible.",
    "source": {
-    "l": "Wimbledon",
-    "u": "https://www.wimbledon.com/en_GB/scores/schedule/index.html"
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
    },
    "fits": [
     {
      "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
      "sub": "Nation Radio London"
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Centre Court Showdown",
-     "copy": "It all comes down to this! The Wimbledon Men's Singles Final is tomorrow. Who are you backing to lift the trophy?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Wimbledon"
-     ]
-    },
-    {
-     "name": "Last Day of Wimbledon",
-     "copy": "Don't miss the final day of Wimbledon tomorrow! The grass court season culminates with the Men's Singles champion crowned.",
+     "name": "Beat the heat",
+     "for": "",
+     "copy": "Another hot one across the UK this weekend! Stay hydrated, seek shade, and keep cool as the heatwave continues.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "16:00",
+     "time": "09:00",
      "tags": [
-      "#Wimbledon2026"
+      "#HeatwaveUK"
+     ]
+    },
+    {
+     "name": "Weather update",
+     "for": "",
+     "copy": "High temperatures persist across parts of the UK today, with forecasts suggesting a slight easing and potential thunderstorms later in the week. Keep an eye on the forecast!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#UKWeather"
      ]
     }
    ]
   },
   {
-   "id": "open-championship-golf",
-   "off": 5,
-   "type": "sport",
+   "id": "school-summer-holidays",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "The 154th Open Championship Begins",
-   "blurb": "The Open Championship, golf's oldest major, tees off from July 16-19, 2026, at Royal Birkdale Golf Club in Southport.",
+   "title": "Summer school holidays in full swing",
+   "blurb": "Summer school holidays are now underway or beginning this week across many parts of the UK, bringing longer breaks for students and families.",
    "source": {
-    "l": "The Open",
-    "u": "https://www.theopen.com/"
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/school-term-dates-and-holidays"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Holiday vibes",
+     "for": "",
+     "copy": "School's out for summer! Many across the UK are now officially on their summer break. What are your plans for the long holidays?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Family fun planning",
+     "for": "",
+     "copy": "With summer holidays starting for many, it's time for family adventures! What hidden gems are you planning to explore in the UK this summer?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#SchoolHolidays"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "latitude-festival-countdown",
+   "off": 11,
+   "type": "gig",
+   "hot": true,
+   "title": "Latitude Festival just around the corner",
+   "blurb": "Latitude Festival 2026, celebrating its 20th anniversary, takes place from July 23-26 at Henham Park in Suffolk, featuring headliners David Byrne, Teddy Swims, and Lewis Capaldi.",
+   "source": {
+    "l": "Latitude Festival",
+    "u": "https://www.latitudefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
+    },
     {
      "g": "nation-network",
      "sub": ""
@@ -117,22 +297,211 @@
    ],
    "angles": [
     {
-     "name": "Golf's Major Moment",
-     "copy": "The Claret Jug is up for grabs! The 154th Open Championship begins next week at Royal Birkdale. Who's your pick for glory?",
+     "name": "Festival excitement builds",
+     "for": "",
+     "copy": "Only 11 days until Latitude Festival kicks off in Suffolk! Who are you most excited to see at Henham Park?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#LatitudeFestival"
+     ]
+    },
+    {
+     "name": "20 years of Latitude",
+     "for": "",
+     "copy": "Celebrating 20 years of music, arts, and culture! Latitude Festival is almost here, bringing David Byrne, Teddy Swims, and Lewis Capaldi to Suffolk.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Latitude2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "richard-ashcroft-cardiff",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Richard Ashcroft plays Cardiff Castle",
+   "blurb": "Former The Verve frontman Richard Ashcroft will perform a headline show at Cardiff Castle on Thursday, July 16, supported by Tom Meighan and Apollo Junction.",
+   "source": {
+    "l": "Depot Live",
+    "u": "https://depotlive.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Ashcroft in Cardiff",
+     "for": "Nation Radio Wales",
+     "copy": "Richard Ashcroft takes over Cardiff Castle this Thursday! Get ready for a night of classic hits and new material.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CardiffCastle"
+     ]
+    },
+    {
+     "name": "The Verve legend live",
+     "for": "Nation Rocks",
+     "copy": "From The Verve to solo stardom, Richard Ashcroft brings his iconic sound to Cardiff Castle on July 16th. Who's going?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#RichardAshcroft"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sammy-virji-cardiff",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Sammy Virji hits Cardiff Castle",
+   "blurb": "Garage and bassline sensation Sammy Virji will play Cardiff Castle on Saturday, July 18, as part of the DEPOT Live series.",
+   "source": {
+    "l": "Depot Live",
+    "u": "https://depotlive.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance night in Cardiff",
+     "for": "Nation Dance",
+     "copy": "Get ready to move! Sammy Virji is bringing the bassline to Cardiff Castle this Saturday, July 18th. Who's joining the party?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "13:00",
+     "time": "11:30",
      "tags": [
-      "#TheOpen"
+      "#SammyVirji"
      ]
     },
     {
-     "name": "Royal Birkdale Hosts",
-     "copy": "Golf fans, get ready! Royal Birkdale hosts The Open Championship from Thursday. Expect drama on the links!",
+     "name": "Weekend plans in Wales",
+     "for": "Nation Radio Wales",
+     "copy": "Your weekend just got better! Sammy Virji live at Cardiff Castle this Saturday. Expect big tunes and an even bigger atmosphere.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#CardiffGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pet-needs-exeter-cavern",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "PET NEEDS play Exeter Cavern",
+   "blurb": "Punk rock band PET NEEDS are performing live tonight, July 12, at Bomba Exeter.",
+   "source": {
+    "l": "Exeter Cavern",
+    "u": "https://www.exetercavern.com/latest-shows/"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Live music tonight Exeter",
+     "for": "radio-exe",
+     "copy": "Kick off your Sunday night with some live punk rock! PET NEEDS are at Bomba Exeter tonight. Don't miss out!",
      "channels": [
       "instagram",
       "facebook",
@@ -140,323 +509,43 @@
      ],
      "time": "17:00",
      "tags": [
-      "#Golf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kaleidoscope-festival",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Kaleidoscope Festival Live in London",
-   "blurb": "Kaleidoscope Festival is happening today, July 11th, at Alexandra Palace Park in London, featuring a diverse lineup of music and arts.",
-   "source": {
-    "l": "Kaleidoscope Festival",
-    "u": "https://kaleidoscopefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Ally Pally Vibes",
-     "copy": "The sun is shining, the music is playing! Kaleidoscope Festival takes over Alexandra Palace Park today. Who's there?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#KaleidoscopeFestival"
+      "#ExeterGigs"
      ]
     },
     {
-     "name": "London's Festival Fun",
-     "copy": "Live music and good times today in London as Kaleidoscope Festival brings a lineup of acts to Ally Pally. Get involved!",
+     "name": "Punk rock Sunday",
+     "for": "Nation Rocks",
+     "copy": "PET NEEDS are tearing up Exeter Cavern tonight! If you're in Devon, get down there for a dose of raw energy.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "19:00",
      "tags": [
-      "#LondonGigs"
+      "#PetNeeds"
      ]
     }
    ]
   },
   {
-   "id": "mostly-jazz-funk-soul",
-   "off": 0,
-   "type": "gig",
+   "id": "mia-birthday",
+   "off": 6,
+   "type": "birthday",
    "hot": true,
-   "title": "Mostly Jazz Funk & Soul Festival Continues",
-   "blurb": "The Mostly Jazz Funk & Soul Festival continues today and tomorrow, July 10-12, in Birmingham's Moseley Park.",
+   "title": "Happy 51st Birthday M.I.A.",
+   "blurb": "British rapper, singer, songwriter, and activist M.I.A. (Mathangi Arulpragasam) will celebrate her 51st birthday on July 18, 2026.",
    "source": {
-    "l": "Mostly Jazz Funk & Soul Festival",
-    "u": "https://mostlyjazz.co.uk/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/M.I.A."
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birmingham's Groove",
-     "copy": "Birmingham is grooving! The Mostly Jazz Funk & Soul Festival is on all weekend in Moseley Park. Who's catching some smooth tunes?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#MostlyJazz"
-     ]
-    },
-    {
-     "name": "Festival Finale Tomorrow",
-     "copy": "Don't miss the final day of Mostly Jazz Funk & Soul Festival tomorrow! Get your fix of incredible live music in Birmingham.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#BirminghamMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hebridean-celtic-festival",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "Hebridean Celtic Festival Kicks Off",
-   "blurb": "The Hebridean Celtic Festival begins on July 15th, bringing four days of traditional and contemporary music to Stornoway, Outer Hebrides, Scotland.",
-   "source": {
-    "l": "HebCelt",
-    "u": "https://www.hebceltfest.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Island Festival Vibes",
-     "copy": "Heading to the Outer Hebrides? The Hebridean Celtic Festival kicks off Wednesday with a fantastic lineup of music and culture!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#HebCelt"
-     ]
-    },
-    {
-     "name": "Scottish Sounds",
-     "copy": "Get ready for a celebration of Scottish music and culture! HebCelt starts next week in Stornoway.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ScottishMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tv-ann-droid",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "New BBC Comedy 'Ann Droid' Premieres",
-   "blurb": "Diane Morgan stars in the quirky new BBC comedy 'Ann Droid', which premieres today, July 11th.",
-   "source": {
-    "l": "BBC",
-    "u": "https://www.bbc.co.uk/programmes/p0d1d2d3"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Diane Morgan's New Show",
-     "copy": "Diane Morgan is back! Catch her in the brand new BBC comedy 'Ann Droid' premiering tonight. Get ready for some laughs.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#AnnDroid"
-     ]
-    },
-    {
-     "name": "New TV Alert",
-     "copy": "Looking for something new to watch tonight? 'Ann Droid' is the quirky new BBC comedy you didn't know you needed.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#NewTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tv-the-dark-itv",
-   "off": 1,
-   "type": "tv",
-   "hot": true,
-   "title": "ITV's 'The Dark' Thriller Starts",
-   "blurb": "The gripping new serial killer drama 'The Dark', set in the Scottish countryside, premieres on ITV and ITVX tomorrow, July 12th.",
-   "source": {
-    "l": "ITV",
-    "u": "https://www.itv.com/watch/the-dark/10a1000"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Scottish Thriller",
-     "copy": "A moody new serial killer drama is coming! ITV's 'The Dark', set in the Scottish wilderness, starts tomorrow night.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:30",
-     "tags": [
-      "#TheDark"
-     ]
-    },
-    {
-     "name": "New Sunday Night Drama",
-     "copy": "Your Sunday night TV just got a lot more gripping! Don't miss the premiere of 'The Dark' tomorrow on ITV.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#ITV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tv-loveisblind-uk",
-   "off": 1,
-   "type": "tv",
-   "hot": true,
-   "title": "Love is Blind: UK - After the Altar S2",
-   "blurb": "Season 2 of 'Love is Blind: UK – After the Altar' premieres globally on Netflix tomorrow, July 12th.",
-   "source": {
-    "l": "Netflix",
-    "u": "https://www.netflix.com/title/81690558"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pods Reunion Drama",
-     "copy": "The 'Love is Blind: UK' drama isn't over! 'After the Altar' Season 2 drops on Netflix tomorrow. What's happened since the pods?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LoveIsBlindUK"
-     ]
-    },
-    {
-     "name": "Netflix Binge Alert",
-     "copy": "Your Sunday binge is sorted! 'Love is Blind: UK – After the Altar' Season 2 lands on Netflix tomorrow. Who are you catching up with?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#NetflixUK"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-dereksanders",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 40th to Derek Sanders",
-   "blurb": "Derek Sanders, frontman of American rock band Mayday Parade, turns 40 today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/derek-sanders.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -465,31 +554,206 @@
    ],
    "angles": [
     {
-     "name": "Mayday Parade Frontman",
-     "copy": "Wishing a very happy 40th birthday to Derek Sanders, the incredible voice of Mayday Parade! What's your favourite MP track?",
+     "name": "M.I.A. turns 51",
+     "for": "Nation Hits",
+     "copy": "Paper Planes, anyone? The incredible M.I.A. celebrates her 51st birthday on July 18th! What's your favourite track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
      "time": "09:00",
      "tags": [
-      "#MaydayParade"
+      "#MIA"
+     ]
+    },
+    {
+     "name": "Birthday shout-out",
+     "for": "Nation Dance",
+     "copy": "Wishing a very Happy 51st Birthday to the pioneering artist M.I.A. this Friday! Still bringing the heat.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#ArtistBirthday"
      ]
     }
    ]
   },
   {
-   "id": "bday-lindaronstadt",
-   "off": 4,
+   "id": "brian-may-birthday",
+   "off": 7,
    "type": "birthday",
-   "hot": false,
-   "title": "Linda Ronstadt Turns 80",
-   "blurb": "Grammy-winning rock, country, and pop icon Linda Ronstadt celebrates her 80th birthday on July 15th.",
+   "hot": true,
+   "title": "Happy 79th Birthday Brian May",
+   "blurb": "Queen's legendary guitarist Brian May will celebrate his 79th birthday on July 19, 2026.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/linda-ronstadt.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Brian_May"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen legend's birthday",
+     "for": "Nation Rocks",
+     "copy": "A very Happy 79th Birthday to the one and only Brian May of Queen on July 19th! What's your favourite Queen guitar solo?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#BrianMay"
+     ]
+    },
+    {
+     "name": "Guitar icon",
+     "for": "Nation 70s",
+     "copy": "From 'Bohemian Rhapsody' to 'We Will Rock You', Brian May's guitar work is iconic. Wishing him a fantastic 79th birthday this Sunday!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Queen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "carlos-santana-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 79th Birthday Carlos Santana",
+   "blurb": "Grammy Award-winning guitarist Carlos Santana will celebrate his 79th birthday on July 20, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Carlos_Santana"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar legend's day",
+     "for": "Nation Classic Hits",
+     "copy": "Smooth sounds and legendary licks! Happy 79th Birthday to the incredible Carlos Santana on Monday, July 20th.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#CarlosSantana"
+     ]
+    },
+    {
+     "name": "Musical icon",
+     "for": "Nation Rocks",
+     "copy": "79 years young and still a guitar hero! Wishing a very happy birthday to Carlos Santana this Monday.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Santana"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-cook-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 70th Birthday Paul Cook",
+   "blurb": "Paul Cook, drummer for the iconic punk band Sex Pistols, will celebrate his 70th birthday on July 20, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Paul_Cook"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Punk rock pioneer",
+     "for": "Nation Rocks",
+     "copy": "Anarchy in the UK! Happy 70th Birthday to Sex Pistols drummer Paul Cook on July 20th. Still a punk icon.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#SexPistols"
+     ]
+    },
+    {
+     "name": "70 and still rocking",
+     "for": "Nation 70s",
+     "copy": "Wishing a very Happy 70th Birthday to Paul Cook, the man who provided the beat for the Sex Pistols! Have a good one!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#PaulCook"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cat-stevens-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 78th Birthday Cat Stevens / Yusuf Islam",
+   "blurb": "British singer-songwriter Cat Stevens, also known as Yusuf Islam, will celebrate his 78th birthday on July 21, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Cat_Stevens"
    },
    "fits": [
     {
@@ -507,314 +771,89 @@
    ],
    "angles": [
     {
-     "name": "Music Legend's Milestone",
-     "copy": "Happy 80th birthday on Wednesday to the legendary Linda Ronstadt! Her incredible voice defined eras. What's your favourite song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#LindaRonstadt"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-ollyalexander",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Olly Alexander Turns 35",
-   "blurb": "Years & Years frontman and Eurovision star Olly Alexander celebrates his 35th birthday on July 15th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/olly-alexander.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Years & Years Star",
-     "copy": "Wishing a very happy 35th birthday to the one and only Olly Alexander on Wednesday! What's your favourite Years & Years hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#OllyAlexander"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-raytoro",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Ray Toro Celebrates 49th",
-   "blurb": "My Chemical Romance guitarist and co-founder Ray Toro turns 49 on July 15th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/ray-toro.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "MCR Guitar Hero",
-     "copy": "Happy 49th birthday on Wednesday to My Chemical Romance's incredible guitarist, Ray Toro! What's your favourite MCR riff?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MyChemicalRomance"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-stewartcopeland",
-   "off": 5,
-   "type": "birthday",
-   "hot": false,
-   "title": "Stewart Copeland Turns 74",
-   "blurb": "Drummer and co-founder of The Police, Stewart Copeland, celebrates his 74th birthday on July 16th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/stewart-copeland.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Police Legend's Birthday",
-     "copy": "Happy 74th birthday to the iconic Stewart Copeland, drumming legend of The Police, on Thursday! What's your favourite Police track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ThePolice"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-natashahamilton",
-   "off": 6,
-   "type": "birthday",
-   "hot": false,
-   "title": "Natasha Hamilton Turns 44",
-   "blurb": "Atomic Kitten singer Natasha Hamilton celebrates her 44th birthday on July 17th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/natasha-hamilton.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Atomic Kitten Pop Star",
-     "copy": "Wishing a very happy 44th birthday to Atomic Kitten's Natasha Hamilton on Friday! What's your favourite AK memory?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#AtomicKitten"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-geezerbutler",
-   "off": 6,
-   "type": "birthday",
-   "hot": false,
-   "title": "Geezer Butler Turns 77",
-   "blurb": "Black Sabbath bassist and lyricist Geezer Butler, a heavy metal pioneer, celebrates his 77th birthday on July 17th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/geezer-butler.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal Icon's Birthday",
-     "copy": "Happy 77th birthday to the legendary Geezer Butler of Black Sabbath on Friday! What's your favourite Sabbath track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#BlackSabbath"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bristol-pride-parade",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Bristol Pride Parade Today",
-   "blurb": "Bristol Pride culminates today, July 11th, with the colourful Pride Parade through the city, celebrating the LGBTQIA+ community.",
-   "source": {
-    "l": "Bristol Pride",
-    "u": "https://bristolpride.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Celebrating Pride in Bristol",
-     "copy": "Bristol is vibrant with colour today as the Pride Parade takes over the city! Celebrating love and equality for all.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BristolPride"
-     ]
-    },
-    {
-     "name": "Pride Parade Energy",
-     "copy": "The energy is incredible at the Bristol Pride Parade today! Share your favourite moments from the celebrations.",
+     "name": "Folk legend's birthday",
+     "for": "Nation Classic Hits",
+     "copy": "From 'Wild World' to 'Father and Son', the timeless music of Cat Stevens (Yusuf Islam) continues to resonate. Happy 78th Birthday on July 21st!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "10:00",
      "tags": [
-      "#Pride2026"
+      "#CatStevens"
+     ]
+    },
+    {
+     "name": "78 years of music",
+     "for": "Nation 70s",
+     "copy": "Wishing a very Happy 78th Birthday to the iconic singer-songwriter Cat Stevens / Yusuf Islam this Tuesday! What's your favourite of his tracks?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#YusufIslam"
      ]
     }
    ]
   },
   {
-   "id": "bristol-harbour-festival",
-   "off": 6,
-   "type": "seasonal",
+   "id": "don-henley-birthday",
+   "off": 9,
+   "type": "birthday",
    "hot": true,
-   "title": "Bristol Harbour Festival Returns",
-   "blurb": "The free Bristol Harbour Festival brings a weekend of music, markets, and maritime fun to Bristol's historic harbourside from July 17-19.",
+   "title": "Happy 79th Birthday Don Henley",
+   "blurb": "Don Henley, co-founder, drummer, and vocalist of the Eagles, will celebrate his 79th birthday on July 22, 2026.",
    "source": {
-    "l": "Bristol Harbour Festival",
-    "u": "https://www.bristolharbourfestival.co.uk/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Don_Henley"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Harbourside Fun",
-     "copy": "Bristol Harbour Festival is back next weekend! Get ready for a free weekend of music, markets, and maritime magic.",
+     "name": "Eagles legend's birthday",
+     "for": "Nation Classic Hits",
+     "copy": "Take it easy! Happy 79th Birthday to the legendary Don Henley of the Eagles on July 22nd! What's your top Eagles song?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "13:00",
+     "time": "11:00",
      "tags": [
-      "#BristolHarbourFestival"
+      "#DonHenley"
      ]
     },
     {
-     "name": "Summer in Bristol",
-     "copy": "Planning your weekend? Bristol Harbour Festival kicks off next Friday with something for everyone by the water!",
+     "name": "79 years of hits",
+     "for": "Nation 70s",
+     "copy": "Wishing a very Happy 79th Birthday to Don Henley, the voice behind so many iconic Eagles tracks. Still got that lyrical magic!",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "17:30",
+     "time": "15:00",
      "tags": [
-      "#BristolEvents"
+      "#Eagles"
      ]
     }
    ]
