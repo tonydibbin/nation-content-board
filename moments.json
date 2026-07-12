@@ -1,28 +1,32 @@
 {
- "updated": "2026-07-12T21:37:28.748Z",
+ "updated": "2026-07-12T22:35:19.123Z",
  "moments": [
   {
-   "id": "world-cup-final-build",
-   "off": 7,
+   "id": "wimbledon-finals-2026",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Final Countdown",
-   "blurb": "The FIFA World Cup 2026 final is just one week away, scheduled for July 19th, 2026, marking the climax of the tournament co-hosted by the USA, Mexico, and Canada.",
+   "title": "Wimbledon Finals Day",
+   "blurb": "The final day of The Championships, Wimbledon, sees the men's and women's singles champions crowned at SW19 today.",
    "source": {
-    "l": "FIFA World Cup 2026",
-    "u": "https://www.fifa.com/fifa-world-cup/2026"
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Final Hype",
+     "name": "Finals excitement",
      "for": "",
-     "copy": "Seven days. That's all that stands between us and the FIFA World Cup 2026 final! Who are you backing to lift the trophy?",
+     "copy": "Game, set, match! It's Finals Day at Wimbledon, with new champions set to be crowned on Centre Court. Who are you backing?",
      "channels": [
       "instagram",
       "facebook",
@@ -32,59 +36,138 @@
      ],
      "time": "09:00",
      "tags": [
-      "#WorldCup2026"
+      "#Wimbledon"
      ]
     },
     {
-     "name": "Looking Back, Looking Forward",
-     "for": "",
-     "copy": "It's been an incredible tournament so far, and the biggest game is almost here. What's been your highlight of the World Cup 2026?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#FootballFever"
-     ]
-    },
-    {
-     "name": "Sunday Showdown",
-     "for": "",
-     "copy": "Clear your diary! Next Sunday, July 19th, the world stops for the World Cup final. Where will you be watching?",
+     "name": "London buzz",
+     "for": "Nation Radio London",
+     "copy": "The eyes of the tennis world are on SW19 today as Wimbledon concludes. The atmosphere in London is electric!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "11:00",
      "tags": [
-      "#WorldCupFinal"
+      "#WimbledonFinals"
      ]
     }
    ]
   },
   {
-   "id": "latitude-festival-weekend",
-   "off": 5,
-   "type": "gig",
+   "id": "goodwood-fos-close",
+   "off": 0,
+   "type": "sport",
    "hot": true,
-   "title": "Latitude Festival Kicks Off",
-   "blurb": "Latitude Festival 2026 is set to take place from July 17-20 in Henham Park, Suffolk, bringing a packed lineup of music, comedy, and arts.",
+   "title": "Goodwood Festival of Speed Closes",
+   "blurb": "The iconic Goodwood Festival of Speed concludes today, wrapping up four days of motorsport, celebrity appearances, and automotive showcases.",
    "source": {
-    "l": "Latitude Festival",
-    "u": "https://www.latitudefestival.com/"
+    "l": "Goodwood Festival of Speed",
+    "u": "https://www.goodwood.com/motorsport/festival-of-speed/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Suffolk"
+     "sub": "Nation Radio South"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Final day action",
+     "for": "",
+     "copy": "Engines revving for the last time! It's the final day of Goodwood Festival of Speed. What's been your highlight?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#FOS"
+     ]
+    },
+    {
+     "name": "Southern style",
+     "for": "Nation Radio South",
+     "copy": "The South East has been buzzing with the sound of speed all weekend! Goodwood Festival of Speed wraps up today.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Goodwood"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-open-starts-2026",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "The Open Championship Begins",
+   "blurb": "The 154th Open Championship begins today at Royal Birkdale, with the world's best golfers competing for the Claret Jug.",
+   "source": {
+    "l": "The Open",
+    "u": "https://www.theopen.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tee off time",
+     "for": "",
+     "copy": "Fore! Golf's oldest major, The Open Championship, tees off today at Royal Birkdale. Who's your pick to lift the Claret Jug?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Lancashire links",
+     "for": "nation-network",
+     "copy": "All eyes on the links of Royal Birkdale as the 154th Open Championship gets underway. A week of world-class golf awaits!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Golf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lewis-capaldi-bst-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Lewis Capaldi Headlines BST Hyde Park",
+   "blurb": "Scottish sensation Lewis Capaldi headlines American Express presents BST Hyde Park today, performing his biggest UK festival show.",
+   "source": {
+    "l": "BST Hyde Park",
+    "u": "https://www.bst-hydepark.com/events/lewis-capaldi/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
@@ -93,9 +176,58 @@
    ],
    "angles": [
     {
-     "name": "Festival Gates Open",
-     "for": "Nation Radio Suffolk",
-     "copy": "Latitude Festival is almost here! Henham Park is gearing up for an incredible weekend. Who's heading to Suffolk?",
+     "name": "Live in London",
+     "for": "Nation Radio London",
+     "copy": "Lewis Capaldi brings his incredible voice and chart-topping hits to Hyde Park tonight! Who's ready for an unforgettable show?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#BSTHydePark"
+     ]
+    },
+    {
+     "name": "Capaldi hits",
+     "for": "Nation Hits",
+     "copy": "From 'Someone You Loved' to 'Wish You The Best', Lewis Capaldi is owning Hyde Park tonight! What's your favourite Capaldi track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#LewisCapaldi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fifa-world-cup-final-2026",
+   "off": 7,
+   "type": "sport",
+   "hot": true,
+   "title": "FIFA World Cup 2026 Final",
+   "blurb": "The FIFA World Cup 2026 concludes next Sunday, July 19th, with the final match to be played in the USA.",
+   "source": {
+    "l": "FIFA World Cup 2026",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/fifa-world-cup-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Countdown to final",
+     "for": "",
+     "copy": "Only one week until the FIFA World Cup 2026 Final! Who do you predict will be lifting the trophy next Sunday?",
      "channels": [
       "instagram",
       "facebook",
@@ -104,212 +236,130 @@
      ],
      "time": "10:00",
      "tags": [
-      "#LatitudeFestival"
+      "#FIFAWorldCup"
      ]
     },
     {
-     "name": "Weekend Vibes",
-     "for": "Nation Rocks",
-     "copy": "From main stage headliners to hidden gems, Latitude always delivers. What acts are you most excited to catch this weekend?",
+     "name": "World Cup fever",
+     "for": "",
+     "copy": "The biggest prize in football is up for grabs next weekend! Get ready for the FIFA World Cup 2026 Final.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#FestivalSeason"
-     ]
-    },
-    {
-     "name": "Beyond the Music",
-     "for": "nation-network",
-     "copy": "More than just music, Latitude brings comedy, theatre, and arts to Suffolk. What's your favourite non-music festival experience?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#Latitude2026"
+      "#WorldCup2026"
      ]
     }
    ]
   },
   {
-   "id": "natalie-maines-bday",
-   "off": 0,
-   "type": "birthday",
+   "id": "bbc-proms-starts-2026",
+   "off": 5,
+   "type": "culture",
    "hot": true,
-   "title": "Happy Birthday Natalie Maines",
-   "blurb": "Natalie Maines, lead vocalist of The Chicks, turns 52 today, July 12, 2026.",
+   "title": "BBC Proms 2026 Begins",
+   "blurb": "The world's largest classical music festival, the BBC Proms, begins its eight-week season at the Royal Albert Hall on Friday, July 17th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Natalie_Maines"
+    "l": "BBC Proms",
+    "u": "https://www.bbc.co.uk/proms"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Chicks Lead Singer",
-     "for": "Nation 90s",
-     "copy": "Sending big birthday wishes to Natalie Maines of The Chicks, turning 52 today! What's your favourite Chicks anthem?",
+     "name": "Classical summer",
+     "for": "",
+     "copy": "The BBC Proms returns this Friday, bringing eight weeks of magnificent classical music to the Royal Albert Hall and beyond!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "11:00",
      "tags": [
-      "#NatalieMaines"
+      "#BBCProms"
      ]
     },
     {
-     "name": "Country Rock Icon",
-     "for": "Nation Rocks",
-     "copy": "Happy 52nd Birthday to the powerhouse voice of The Chicks, Natalie Maines! From 'Wide Open Spaces' to 'Gaslighter', she's always delivered.",
+     "name": "London culture",
+     "for": "Nation Radio London",
+     "copy": "A highlight of London's summer calendar: The Proms kicks off this week! What's your favourite classical piece?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "13:00",
      "tags": [
-      "#TheChicks"
+      "#Proms"
      ]
     }
    ]
   },
   {
-   "id": "cheech-marin-bday",
-   "off": 1,
-   "type": "birthday",
+   "id": "summer-holidays-start",
+   "off": 9,
+   "type": "seasonal",
    "hot": true,
-   "title": "Happy 80th Cheech Marin",
-   "blurb": "Richard 'Cheech' Marin, known for Cheech & Chong and his acting career, celebrates his 80th birthday tomorrow, July 13, 2026.",
+   "title": "Summer School Holidays Begin",
+   "blurb": "Summer school holidays for many children in England and Scotland are set to begin next week, bringing a long break from school.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Cheech_Marin"
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/school-term-dates-and-holidays"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Comedy Legend",
-     "for": "Nation 70s",
-     "copy": "Get ready to celebrate a comedy legend! Cheech Marin turns 80 tomorrow. What's your favourite Cheech & Chong moment?",
+     "name": "Holiday countdown",
+     "for": "",
+     "copy": "The countdown to summer holidays is almost over for many! School's out for summer for children in England and Scotland next week.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "10:30",
+     "time": "08:00",
      "tags": [
-      "#CheechMarin"
+      "#SummerHolidays"
      ]
     },
     {
-     "name": "Happy 80th",
-     "for": "Nation Classic Hits",
-     "copy": "Tomorrow, we're wishing a very happy 80th birthday to the one and only Cheech Marin! What a career.",
+     "name": "Family fun",
+     "for": "",
+     "copy": "Get ready for weeks of family fun! Summer school holidays kick off for many next week. What are your plans?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#CheechAndChong"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "louise-redknapp-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Louise Redknapp",
-   "blurb": "English singer and media personality Louise Redknapp, formerly of Eternal, turns 52 tomorrow, July 13, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Louise_Redknapp"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Eternal Star",
-     "for": "Nation 90s",
-     "copy": "Sending early birthday wishes to the fabulous Louise Redknapp, who turns 52 tomorrow! What's your favourite track from her Eternal days?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
      ],
      "time": "12:00",
      "tags": [
-      "#LouiseRedknapp"
-     ]
-    },
-    {
-     "name": "90s Pop Icon",
-     "for": "Nation 90s",
-     "copy": "Tomorrow we celebrate the birthday of a true 90s pop icon, Louise Redknapp! Still 'Naked' on the dancefloor? 😉",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#90sPop"
+      "#SchoolHolidays"
      ]
     }
    ]
   },
   {
-   "id": "linda-ronstadt-bday",
+   "id": "linda-ronstadt-80",
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 80th Linda Ronstadt",
-   "blurb": "Legendary American singer Linda Ronstadt, known for her diverse music genres, celebrates her 80th birthday on July 15, 2026.",
+   "title": "Linda Ronstadt's 80th Birthday",
+   "blurb": "Legendary singer Linda Ronstadt, known for hits like 'You're No Good' and 'Blue Bayou', turns 80 on Wednesday, July 15th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Linda_Ronstadt"
@@ -317,39 +367,41 @@
    "fits": [
     {
      "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Music Icon",
+     "name": "Happy 80th",
      "for": "Nation Classic Hits",
-     "copy": "In just a few days, we'll be wishing a huge Happy 80th Birthday to the incredible Linda Ronstadt! A voice that defined generations. What's your favourite song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#LindaRonstadt"
-     ]
-    },
-    {
-     "name": "First Lady of Rock",
-     "for": "Nation 70s",
-     "copy": "The 'First Lady of Rock', Linda Ronstadt, turns 80 this Wednesday! Her impact on music is immeasurable. Which of her hits is on your playlist?",
+     "copy": "Happy 80th Birthday to the iconic Linda Ronstadt this Wednesday! A true voice of a generation.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "09:00",
+     "tags": [
+      "#LindaRonstadt"
+     ]
+    },
+    {
+     "name": "Queen of Rock",
+     "for": "Nation 70s",
+     "copy": "Celebrating 80 years of the incredible Linda Ronstadt this week! Her voice defined an era. What's your favourite track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
      "tags": [
       "#70sMusic"
      ]
@@ -357,69 +409,163 @@
    ]
   },
   {
-   "id": "millie-jackson-bday",
+   "id": "ray-toro-49",
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 82nd Millie Jackson",
-   "blurb": "American R&B and soul recording artist Millie Jackson, famous for her outspoken vocal performances, turns 82 on July 15, 2026.",
+   "title": "Ray Toro (My Chemical Romance) 49th Birthday",
+   "blurb": "My Chemical Romance guitarist Ray Toro celebrates his 49th birthday on Wednesday, July 15th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Millie_Jackson"
+    "u": "https://en.wikipedia.org/wiki/Ray_Toro"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Soul Legend",
-     "for": "Nation Easy",
-     "copy": "Wishing a very Happy 82nd Birthday to the unique and iconic Millie Jackson this Wednesday! Her soulful voice and personality are legendary.",
+     "name": "MCR Guitar Hero",
+     "for": "Nation Rocks",
+     "copy": "Happy 49th Birthday this Wednesday to My Chemical Romance's guitar hero, Ray Toro! What's your favourite MCR riff?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "12:30",
+     "time": "10:00",
      "tags": [
-      "#MillieJackson"
+      "#MyChemicalRomance"
      ]
     },
     {
-     "name": "R&B Queen",
-     "for": "Nation 70s",
-     "copy": "Millie Jackson, the 'Mother of Hip Hop' and an R&B queen, celebrates 82 years this week! What's your go-to Millie track?",
+     "name": "00s icon",
+     "for": "Nation 00s",
+     "copy": "Celebrating the incredible talent of Ray Toro, who turns 49 on Wednesday! Still rocking hard with My Chemical Romance.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:30",
+     "time": "14:00",
      "tags": [
-      "#SoulMusic"
+      "#00sRock"
      ]
     }
    ]
   },
   {
-   "id": "stewart-copeland-bday",
+   "id": "joe-satriani-70",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Joe Satriani's 70th Birthday",
+   "blurb": "Guitar virtuoso Joe Satriani, known for his instrumental rock prowess, turns 70 on Wednesday, July 15th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joe_Satriani"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar God",
+     "for": "Nation Rocks",
+     "copy": "Happy 70th Birthday to the one and only Joe Satriani this Wednesday! The guitar legend continues to inspire.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#JoeSatriani"
+     ]
+    },
+    {
+     "name": "Satch turns 70",
+     "for": "Nation Rocks",
+     "copy": "Celebrating 70 years of shredding with Joe Satriani on Wednesday! What's your favourite instrumental track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#GuitarLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "olly-alexander-36",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Olly Alexander (Years & Years) 36th Birthday",
+   "blurb": "Years & Years frontman and pop star Olly Alexander celebrates his 36th birthday on Wednesday, July 15th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Olly_Alexander"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop star birthday",
+     "for": "Nation Hits",
+     "copy": "Happy 36th Birthday to the brilliant Olly Alexander this Wednesday! From Years & Years to solo stardom, he always delivers.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#OllyAlexander"
+     ]
+    },
+    {
+     "name": "Dance Floor King",
+     "for": "Nation Dance",
+     "copy": "Wishing Olly Alexander a fantastic 36th birthday on Wednesday! His tracks always get the party started. What's your favourite?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#YearsAndYears"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stewart-copeland-74",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 74th Stewart Copeland",
-   "blurb": "Stewart Copeland, the acclaimed drummer for The Police, will celebrate his 74th birthday on July 16, 2026.",
+   "title": "Stewart Copeland (The Police) 74th Birthday",
+   "blurb": "The Police drummer and co-founder Stewart Copeland turns 74 on Thursday, July 16th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Stewart_Copeland"
@@ -427,11 +573,15 @@
    "fits": [
     {
      "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
@@ -440,43 +590,140 @@
    ],
    "angles": [
     {
-     "name": "Police Drummer",
+     "name": "Drumming legend",
      "for": "Nation 80s",
-     "copy": "Get ready to hit play on some Police classics! Stewart Copeland turns 74 this Thursday. What's your favourite Police song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#StewartCopeland"
-     ]
-    },
-    {
-     "name": "Rhythmic Genius",
-     "for": "Nation Rocks",
-     "copy": "Happy 74th to the rhythmic genius, Stewart Copeland! His distinctive drumming shaped The Police's iconic sound.",
+     "copy": "Happy 74th Birthday to the legendary Stewart Copeland of The Police this Thursday! Those drum beats are iconic.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "09:30",
      "tags": [
       "#ThePolice"
+     ]
+    },
+    {
+     "name": "Music architect",
+     "for": "Nation Rocks",
+     "copy": "Stewart Copeland, the rhythmic powerhouse behind The Police, celebrates his 74th birthday on Thursday! What's your favourite Police track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#StewartCopeland"
      ]
     }
    ]
   },
   {
-   "id": "geezer-butler-bday",
+   "id": "ed-kowalczyk-55",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Ed Kowalczyk (Live) 55th Birthday",
+   "blurb": "Lead singer of the band Live, Ed Kowalczyk, celebrates his 55th birthday on Thursday, July 16th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ed_Kowalczyk"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Live frontman",
+     "for": "Nation Rocks",
+     "copy": "Happy 55th Birthday to Ed Kowalczyk of Live this Thursday! Still belting out those anthems. What's your go-to Live song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#BandLive"
+     ]
+    },
+    {
+     "name": "90s rock legend",
+     "for": "Nation 90s",
+     "copy": "Celebrating 55 years of Ed Kowalczyk on Thursday! The voice behind 'I Alone' and 'Lightning Crashes'.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#90sRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "luke-hemmings-30",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Luke Hemmings (5 Seconds of Summer) 30th Birthday",
+   "blurb": "Luke Hemmings, lead singer of the pop-rock band 5 Seconds of Summer, turns 30 on Thursday, July 16th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Luke_Hemmings"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop-rock at 30",
+     "for": "Nation Hits",
+     "copy": "Happy 30th Birthday to Luke Hemmings from 5 Seconds of Summer this Thursday! Feeling young, Dumb, and Twenty-Something?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#5SOS"
+     ]
+    },
+    {
+     "name": "Aussie star",
+     "for": "Nation Hits",
+     "copy": "Celebrating Luke Hemmings' 30th on Thursday! What's your favourite 5SOS hit to crank up?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#LukeHemmings"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geezer-butler-77",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 77th Geezer Butler",
-   "blurb": "Terence 'Geezer' Butler, the bassist and primary lyricist for Black Sabbath, will turn 77 on July 17, 2026.",
+   "title": "Geezer Butler (Black Sabbath) 77th Birthday",
+   "blurb": "Black Sabbath bassist and lyricist Geezer Butler, a pioneer of heavy metal, turns 77 on Friday, July 17th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Geezer_Butler"
@@ -493,46 +740,96 @@
    ],
    "angles": [
     {
-     "name": "Metal Icon",
+     "name": "Metal icon",
      "for": "Nation Rocks",
-     "copy": "Wishing a very Happy 77th Birthday to the legendary Geezer Butler this Friday! The man behind Black Sabbath's thunderous basslines and dark lyrics.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#GeezerButler"
-     ]
-    },
-    {
-     "name": "Sabbath Bassist",
-     "for": "Nation 70s",
-     "copy": "From 'Paranoid' to 'Iron Man', Geezer Butler's bass defined heavy metal. Happy 77th to the Black Sabbath icon this Friday!",
+     "copy": "Happy 77th Birthday this Friday to the legendary Geezer Butler of Black Sabbath! The riff master still reigns supreme.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "09:00",
      "tags": [
       "#BlackSabbath"
+     ]
+    },
+    {
+     "name": "Bass legend",
+     "for": "Nation 70s",
+     "copy": "Celebrating 77 years of Geezer Butler on Friday! His bass lines laid the foundation for heavy metal. What's your favourite Sabbath track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#GeezerButler"
      ]
     }
    ]
   },
   {
-   "id": "mia-bday",
-   "off": 6,
+   "id": "tom-fletcher-41",
+   "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 51st M.I.A.",
-   "blurb": "British rapper, singer, and songwriter M.I.A. (Mathangi Arulpragasam) will celebrate her 51st birthday on July 18, 2026.",
+   "title": "Tom Fletcher (McFly) 41st Birthday",
+   "blurb": "McFly frontman, guitarist, and author Tom Fletcher celebrates his 41st birthday on Friday, July 17th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/M.I.A._(rapper)"
+    "u": "https://en.wikipedia.org/wiki/Tom_Fletcher"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "McFly star",
+     "for": "Nation Hits",
+     "copy": "Happy 41st Birthday this Friday to the multi-talented Tom Fletcher! From McFly hits to best-selling books, he does it all.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#McFly"
+     ]
+    },
+    {
+     "name": "00s pop-rock",
+     "for": "Nation 00s",
+     "copy": "Wishing a very Happy 41st Birthday to Tom Fletcher on Friday! Still got those 'All About You' vibes?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#TomFletcher"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kali-uchis-32",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Kali Uchis 32nd Birthday",
+   "blurb": "Grammy-winning singer and songwriter Kali Uchis celebrates her 32nd birthday on Friday, July 17th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Kali_Uchis"
    },
    "fits": [
     {
@@ -542,215 +839,35 @@
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Boundary Pusher",
-     "for": "Nation Dance",
-     "copy": "Get ready to move! M.I.A. turns 51 this Saturday. From 'Paper Planes' to 'Bad Girls', her sound is unforgettable.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#MIA"
-     ]
-    },
-    {
-     "name": "Global Artist",
+     "name": "R&B sensation",
      "for": "Nation Hits",
-     "copy": "Happy 51st Birthday to the incredible M.I.A. this Saturday! A true global artist who consistently pushes boundaries.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#MathangiArulpragasam"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "royal-welsh-show-prep",
-   "off": 8,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Royal Welsh Show Approaches",
-   "blurb": "The Royal Welsh Show, a highlight of the agricultural calendar, is just around the corner, running from July 20th to 23rd, 2026, in Llanelwedd.",
-   "source": {
-    "l": "Royal Welsh Show",
-    "u": "https://www.rwas.wales/royal-welsh-show/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Show Excitement",
-     "for": "welsh-local",
-     "copy": "The Royal Welsh Show is nearly here! Who's excited for four days of livestock, crafts, and Welsh culture in Llanelwedd? Starts July 20th!",
+     "copy": "Happy 32nd Birthday this Friday to the incredible Kali Uchis! Her unique sound always stands out.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#RoyalWelshShow"
-     ]
-    },
-    {
-     "name": "Countdown is On",
-     "for": "dragon",
-     "copy": "Just over a week until the Royal Welsh Show kicks off! Get ready for a fantastic celebration of rural Wales.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#SioeFawr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "summer-holiday-travel",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK Summer Holiday Rush",
-   "blurb": "With schools breaking up and good weather expected, many across the UK are embarking on or planning their summer holidays this week.",
-   "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Travel Chaos or Bliss?",
-     "for": "nation-network",
-     "copy": "Summer holidays are officially here for many! Are you battling the traffic or already sipping a cold drink by the sea? Tell us your travel plans!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#SummerHolidays"
-     ]
-    },
-    {
-     "name": "Devon Getaways",
-     "for": "radio-exe",
-     "copy": "From Dartmoor hikes to sandy beaches, Devon is the perfect summer escape. Where are you enjoying your local summer break?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#DevonSummer"
-     ]
-    },
-    {
-     "name": "Welsh Staycation",
-     "for": "welsh-local",
-     "copy": "Exploring the best of Wales this summer? Share your favourite Welsh hidden gems for a perfect staycation!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#WalesAdventures"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-summer-events",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Exeter Summer Culture",
-   "blurb": "Exeter is hosting various summer events this month, including 'Jazz on the Quay' every Sunday and the 'Exeter Craft Festival' from July 9-11.",
-   "source": {
-    "l": "Visit Exeter",
-    "u": "https://www.visitexeter.com/whats-on/events"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jazz on the Quay",
-     "for": "radio-exe",
-     "copy": "It's Sunday, which means 'Jazz on the Quay' is bringing the perfect soundtrack to Exeter's waterfront today! Soak up the vibes.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "tiktok"
      ],
      "time": "11:00",
      "tags": [
-      "#ExeterEvents"
+      "#KaliUchis"
      ]
     },
     {
-     "name": "Craft Festival",
-     "for": "radio-exe",
-     "copy": "The Exeter Craft Festival wraps up today on Cathedral Green! Last chance to explore unique handmade goods and support local makers.",
+     "name": "Good vibes",
+     "for": "Nation Dance",
+     "copy": "Celebrating Kali Uchis' 32nd birthday on Friday! Her tracks bring all the good vibes. What's your favourite?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#ExeterCraft"
+      "#PopMusic"
      ]
     }
    ]
