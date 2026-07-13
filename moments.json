@@ -1,41 +1,108 @@
 {
- "updated": "2026-07-13T16:17:34.765Z",
+ "updated": "2026-07-13T18:24:46.877Z",
  "moments": [
   {
-   "id": "world-cup-final-2026",
-   "off": 6,
+   "id": "world-cup-semis",
+   "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Final Countdown",
-   "blurb": "The FIFA World Cup 2026 in North America culminates this Sunday with the final match in New York/New Jersey.",
+   "title": "World Cup Semifinals Kick Off",
+   "blurb": "The FIFA World Cup 2026 reaches its penultimate stage with the semifinals featuring France vs Spain and Argentina vs England on July 14th and 15th, ahead of the final on July 19th.",
    "source": {
-    "l": "FIFA",
-    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    "l": "LA Times / FIFA",
+    "u": "https://www.latimes.com/sports/soccer/story/2026-07-13/world-cup-semifinals-schedule-start-times-how-to-watch"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Final Hype",
-     "copy": "Seven days to go until the FIFA World Cup 2026 Champion is crowned! Who are you backing to lift the trophy this Sunday?",
+     "name": "England Hopes",
+     "for": "nation-network",
+     "copy": "England in a World Cup semi-final? You love to see it! Will the Three Lions roar into the final this week?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#WorldCup2026"
      ]
     },
     {
-     "name": "Tournament Recap",
-     "copy": "What a tournament it's been! As the #WorldCup2026 final approaches, what's been your favourite moment so far?",
+     "name": "Global Showdown",
+     "for": "nation-network",
+     "copy": "France, Spain, Argentina, England – who lifts the World Cup trophy this Sunday? The semi-finals are here!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FIFAWorldCup"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-open-championship",
+   "off": 3,
+   "type": "sport",
+   "hot": true,
+   "title": "The Open Championship Tees Off",
+   "blurb": "The 154th Open Championship, golf's final men's major of 2026, begins its tournament days from July 16-19 at Royal Birkdale Golf Club in Southport, England.",
+   "source": {
+    "l": "Forbes / The R&A",
+    "u": "https://www.forbes.com/sites/timcasey/2026/07/13/2026-open-championship-how-to-watch-tv-and-streaming-schedule/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Major Golf",
+     "for": "nation-network",
+     "copy": "It's Claret Jug time! The Open Championship gets underway at Royal Birkdale this Thursday. Who's your pick for glory?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Royal Birkdale",
+     "for": "nation-network",
+     "copy": "Royal Birkdale hosts the 154th Open Championship this week. Expect drama, incredible shots, and maybe a few surprises.",
      "channels": [
       "instagram",
       "facebook",
@@ -43,251 +110,27 @@
      ],
      "time": "12:00",
      "tags": [
-      "#Football"
-     ]
-    },
-    {
-     "name": "Final Host City",
-     "copy": "The biggest game in football heads to New York/New Jersey this Sunday. Imagine the atmosphere! #WorldCupFinal",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NYC"
+      "#Golf"
      ]
     }
    ]
   },
   {
-   "id": "the-open-championship-2026",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "The Open Championship Begins",
-   "blurb": "The 154th Open Championship officially begins on Thursday, July 16, at Royal Birkdale Golf Club in Southport, England.",
-   "source": {
-    "l": "The Open",
-    "u": "https://www.theopen.com/future-venues/royal-birkdale-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North West"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tee Off",
-     "copy": "Golf's biggest major is almost here! The 154th Open Championship tees off this Thursday at Royal Birkdale. Who's your pick for the Claret Jug?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#TheOpen"
-     ]
-    },
-    {
-     "name": "Royal Birkdale",
-     "copy": "Royal Birkdale hosts The Open for the 11th time this week. This iconic course always delivers drama! #Golf #RoyalBirkdale",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#MajorGolf"
-     ]
-    },
-    {
-     "name": "Local Excitement",
-     "copy": "Excitement is building in Southport as Royal Birkdale prepares to welcome the world's best golfers for The Open from Thursday! #NorthWest #Golf",
-     "channels": [
-      "facebook",
-      "instagram"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Merseyside"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wimbledon-recap-2026",
-   "off": -1,
-   "type": "sport",
-   "hot": false,
-   "title": "Wimbledon 2026 Wraps Up",
-   "blurb": "The Wimbledon Championships 2026 concluded yesterday, July 12, with Jannik Sinner winning the Gentlemen's Singles title.",
-   "source": {
-    "l": "Wimbledon",
-    "u": "https://www.wimbledon.com/en_GB/scores/results/2026/index.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wimbledon Review",
-     "copy": "Another incredible Wimbledon comes to a close! What was your highlight from two weeks of grass-court glory? #Wimbledon2026",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Tennis"
-     ]
-    },
-    {
-     "name": "Sinner's Victory",
-     "copy": "Jannik Sinner lifts the Wimbledon trophy again! A dominant performance to take the Gentlemen's Singles title. #Champion",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Sinner"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hebridean-celtic-festival-2026",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Hebridean Celtic Festival",
-   "blurb": "The Hebridean Celtic Festival kicks off on Wednesday, July 15, in Stornoway, Outer Hebrides, Scotland, running until July 18.",
-   "source": {
-    "l": "HebCelt",
-    "u": "https://www.hebceltfest.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Start",
-     "copy": "Get ready for a fantastic blend of music and culture! The Hebridean Celtic Festival starts this Wednesday in Stornoway. #HebCelt",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ScottishFestival"
-     ]
-    },
-    {
-     "name": "Island Vibes",
-     "copy": "Heading to the Outer Hebrides this week? The Hebridean Celtic Festival promises four days of incredible music and island magic!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Stornoway"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "splendour-festival-2026",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Splendour Festival This Weekend",
-   "blurb": "Nottingham's Wollaton Hall & Deer Park hosts Splendour Festival this weekend, July 18-19, with a line-up spanning multiple genres.",
-   "source": {
-    "l": "Splendour Festival",
-    "u": "https://www.splendourfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio East Midlands"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Nottingham Calling",
-     "copy": "Splendour Festival takes over Wollaton Park this weekend! Who are you excited to see in Nottingham? #SplendourFestival",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#Nottingham"
-     ]
-    },
-    {
-     "name": "Weekend Plans",
-     "copy": "Two days of music, comedy, and good vibes at Splendour Festival, starting Saturday! Perfect summer weekend plans. #FestivalSeason",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LiveMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "latitude-festival-2026",
+   "id": "latitude-festival-leadup",
    "off": 10,
    "type": "gig",
-   "hot": false,
-   "title": "Latitude Festival Nears",
-   "blurb": "Klarna presents Latitude Festival celebrates its 20th anniversary next weekend, July 23-26, at Henham Park, Suffolk.",
+   "hot": true,
+   "title": "Latitude Festival Approaches",
+   "blurb": "Latitude Festival, celebrating its 20th anniversary with headliners David Byrne, Teddy Swims, and Lewis Capaldi, takes place at Henham Park, Suffolk from July 23-26.",
    "source": {
-    "l": "Latitude Festival",
-    "u": "https://www.latitudefestival.com/"
+    "l": "eFestivals / Latitude Festival",
+    "u": "https://www.efestivals.co.uk/festivals/latitude/2026/lineup.shtml"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "nation-network",
      "sub": "Nation Radio Suffolk"
@@ -299,12 +142,208 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Festival Prep",
-     "copy": "Only 10 days until Latitude Festival opens its gates for its 20th anniversary! Are your tents packed and ready for Henham Park? #Latitude2026",
+     "name": "Latitude Buzz",
+     "for": "nation-network",
+     "copy": "Pink sheep incoming! Latitude Festival is just days away. Who are you most excited to see at Henham Park?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Latitude2026"
+     ]
+    },
+    {
+     "name": "Suffolk's Big One",
+     "for": "Nation Radio Suffolk",
+     "copy": "Suffolk is gearing up for Latitude! David Byrne, Lewis Capaldi, Teddy Swims and more are heading to Henham Park this week.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#LatitudeFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "splendour-festival",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Splendour Festival Hits Nottingham",
+   "blurb": "Nottingham's biggest music event, Splendour Festival, returns to Wollaton Hall & Deer Park from July 18-19, featuring five stages of diverse music.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/july-festivals-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Nottingham's Festival",
+     "for": "nation-network",
+     "copy": "Splendour Festival brings the noise to Nottingham this weekend! Who's ready for two days of music at Wollaton Hall?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#SplendourFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hebridean-celtic-festival",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Hebridean Celtic Festival Begins",
+   "blurb": "The Hebridean Celtic Festival, a celebration of Celtic, folk, and traditional music, takes place in Stornoway, Outer Hebrides, Scotland from July 15-18.",
+   "source": {
+    "l": "eFestivals",
+    "u": "https://www.efestivals.co.uk/festivals/hebcelt/2026/lineup.shtml"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Celtic Sounds",
+     "for": "Nation Radio Scotland",
+     "copy": "The Hebridean Celtic Festival kicks off this Wednesday! Get ready for four days of incredible music in Stornoway.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#HebCelt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-rein-me-in",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "'Rein Me In' Makes Chart History",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' holds at #1 on the Official Singles Chart (week ending July 16, 2026), becoming the longest-running UK number-one single by a British act with 16 non-consecutive weeks.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Record Breaker",
+     "for": "Nation Hits",
+     "copy": "History made! Sam Fender & Olivia Dean's 'Rein Me In' is officially the longest-running British #1 single ever. What a tune!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Sam & Olivia Reign",
+     "for": "Nation Hits",
+     "copy": "16 weeks at #1 for Sam Fender & Olivia Dean! 'Rein Me In' is still dominating the UK Singles Chart. Are you still playing it on repeat?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#SamFender #OliviaDean"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-tv-the-dark-itv",
+   "off": -1,
+   "type": "tv",
+   "hot": true,
+   "title": "New Thriller 'The Dark' on ITV",
+   "blurb": "The moody thriller 'The Dark', starring Laura Donnelly and Helen Baxendale, premiered on ITV and ITVX on July 12, exploring a serial killer in the Scottish wilderness.",
+   "source": {
+    "l": "Red Magazine",
+    "u": "https://www.redonline.co.uk/red-women/red-hotties/a40292524/best-new-tv-july/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish Thriller",
+     "for": "nation-network",
+     "copy": "Chills in the Highlands! New thriller 'The Dark' just dropped on ITVX, set in the stunning (and spooky) Scottish wilderness. Binge-watching plans, anyone?",
      "channels": [
       "instagram",
       "facebook",
@@ -312,292 +351,21 @@
      ],
      "time": "10:30",
      "tags": [
-      "#Suffolk"
-     ]
-    },
-    {
-     "name": "20 Years of Latitude",
-     "copy": "Celebrating two decades of music, arts, and culture! Latitude Festival is almost here, July 23-26. #FestivalVibes",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#HenhamPark"
+      "#TheDark"
      ]
     }
    ]
   },
   {
-   "id": "roger-mcguinn-84",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Roger McGuinn Turns 84",
-   "blurb": "Roger McGuinn, co-founder and lead singer of The Byrds, celebrates his 84th birthday today.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Roger_McGuinn"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Folk Rock Legend",
-     "copy": "Happy 84th Birthday to the legendary Roger McGuinn of The Byrds! Still pioneering that distinctive jingle-jangle sound. #RogerMcGuinn #TheByrds",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#FolkRock"
-     ]
-    },
-    {
-     "name": "Timeless Tunes",
-     "copy": "From 'Mr. Tambourine Man' to 'Turn! Turn! Turn!', Roger McGuinn's influence on music is immense. Celebrating his 84th today! #MusicLegend",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#60sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "olly-alexander-35",
+   "id": "new-tv-lucky-apple-tv",
    "off": 2,
-   "type": "birthday",
+   "type": "tv",
    "hot": true,
-   "title": "Olly Alexander Turns 35",
-   "blurb": "Olly Alexander, frontman of Years & Years and recent UK Eurovision representative, turns 35 on Wednesday, July 15.",
+   "title": "Anya Taylor-Joy in 'Lucky'",
+   "blurb": "Anya Taylor-Joy stars in 'Lucky', a new drama blending suspense and crime as a reformed criminal is forced into one last job, premiering on Apple TV+ on July 15.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/olly-alexander.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 10s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Icon",
-     "copy": "Wishing a very Happy 35th Birthday to the incredible Olly Alexander this Wednesday! What's your favourite Years & Years track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#OllyAlexander #YearsAndYears"
-     ]
-    },
-    {
-     "name": "Eurovision Star",
-     "copy": "From chart-topping hits to the Eurovision stage, Olly Alexander continues to shine. Celebrating his birthday on July 15!",
-     "channels": [
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "stewart-copeland-74",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Stewart Copeland Turns 74",
-   "blurb": "Stewart Copeland, the influential drummer and co-founder of The Police, celebrates his 74th birthday on Thursday, July 16.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Stewart_Copeland"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Drumming Legend",
-     "copy": "Sending big birthday wishes to The Police's iconic drummer, Stewart Copeland, turning 74 this Thursday! What's your favourite Police track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#StewartCopeland #ThePolice"
-     ]
-    },
-    {
-     "name": "Rhythm Master",
-     "copy": "From reggae-infused rock to film scores, Stewart Copeland's unique drumming style is unmistakable. Happy Birthday on July 16!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#Drummer"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "geezer-butler-77",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Geezer Butler Turns 77",
-   "blurb": "Terence 'Geezer' Butler, the legendary bassist and lyricist for Black Sabbath, turns 77 on Friday, July 17.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Geezer_Butler"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal Pioneer",
-     "copy": "Happy 77th Birthday to the godfather of heavy metal bass, Geezer Butler of Black Sabbath! His riffs and lyrics shaped a genre. #GeezerButler #BlackSabbath",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#HeavyMetal"
-     ]
-    },
-    {
-     "name": "Iconic Bassist",
-     "copy": "Celebrating the man behind some of rock's most enduring lyrics and heaviest basslines. Happy Birthday, Geezer Butler, this Friday!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#RockLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "natasha-hamilton-44",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Natasha Hamilton Turns 44",
-   "blurb": "Natasha Hamilton, singer from the hugely successful British girl group Atomic Kitten, celebrates her 44th birthday on Friday, July 17.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/natasha-hamilton.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Princess",
-     "copy": "Wishing a very Happy 44th Birthday to Atomic Kitten's Natasha Hamilton this Friday! What's your favourite hit from the pop trio?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#NatashaHamilton #AtomicKitten"
-     ]
-    },
-    {
-     "name": "Girl Group Power",
-     "copy": "From 'Whole Again' to 'The Tide Is High', Natasha Hamilton helped define 00s pop. Celebrating her birthday on July 17!",
-     "channels": [
-      "x",
-      "tiktok",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#00sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-summer-heatwave",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK Heatwave Continues",
-   "blurb": "The UK is experiencing a warm spell this week, with temperatures across England and Wales forecast to reach up to 34°C in places.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/weather/forecast/uk"
+    "l": "Red Magazine / Stuff",
+    "u": "https://www.redonline.co.uk/red-women/red-hotties/a40292524/best-new-tv-july/"
    },
    "fits": [
     {
@@ -607,8 +375,82 @@
    ],
    "angles": [
     {
-     "name": "Stay Cool",
-     "copy": "Another hot one today! Remember to stay hydrated and seek shade as the UK heatwave continues. How are you keeping cool? #UKWeather #Heatwave",
+     "name": "Anya's New Role",
+     "for": "nation-network",
+     "copy": "Get ready for some high-stakes drama! Anya Taylor-Joy's new series 'Lucky' hits Apple TV+ this Wednesday. Who's watching?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#LuckySeries"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-tv-ann-droid-bbc",
+   "off": -2,
+   "type": "tv",
+   "hot": true,
+   "title": "Diane Morgan's 'Ann Droid' on BBC",
+   "blurb": "Diane Morgan stars in 'Ann Droid', a quirky new BBC comedy about a grieving widow and her socially awkward eldercare robot, which premiered on July 11.",
+   "source": {
+    "l": "Red Magazine",
+    "u": "https://www.redonline.co.uk/red-women/red-hotties/a40292524/best-new-tv-july/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Comedy Gold",
+     "for": "nation-network",
+     "copy": "Diane Morgan + robot sidekick = comedy gold! Her new BBC series 'Ann Droid' is out now. Have you tuned in yet?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#AnnDroid"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-luke-hemmings",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Luke Hemmings Turns 30",
+   "blurb": "Luke Hemmings, lead singer of 5 Seconds of Summer, celebrates his 30th birthday on July 16, 2026.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/luke-hemmings.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy 30th Luke",
+     "for": "Nation Hits",
+     "copy": "Wishing a very Happy 30th Birthday to 5 Seconds of Summer frontman, Luke Hemmings! What's your favourite 5SOS track?",
      "channels": [
       "instagram",
       "facebook",
@@ -616,21 +458,151 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#Summer"
+      "#LukeHemmings"
      ]
+    }
+   ]
+  },
+  {
+   "id": "bday-ed-kowalczyk",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Ed Kowalczyk is 55",
+   "blurb": "Ed Kowalczyk, the lead singer of the rock band Live, celebrates his 55th birthday on July 16, 2026.",
+   "source": {
+    "l": "Musicians Born on July 16",
+    "u": "https://www.musicianbirthdays.com/july/16"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
-     "name": "Sunshine & Showers",
-     "copy": "Sunshine and high temperatures for much of the UK this week, with some patchy rain in the north. Perfect summer vibes! #BritishSummer",
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Live Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 55th Birthday to Ed Kowalczyk, the powerful voice of Live! 'I Alone' or 'Lightning Crashes' – which is your anthem?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "10:00",
      "tags": [
-      "#WarmWeather"
+      "#EdKowalczyk #LiveBand"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-stewart-copeland",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Stewart Copeland Turns 74",
+   "blurb": "Stewart Copeland, legendary drummer for The Police, celebrates his 74th birthday on July 16, 2026.",
+   "source": {
+    "l": "Musicians Born on July 16",
+    "u": "https://www.musicianbirthdays.com/july/16"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Drumming Icon",
+     "for": "Nation Rocks",
+     "copy": "Happy 74th Birthday to The Police's drumming maestro, Stewart Copeland! His beats are still iconic. What's your favourite Police song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#StewartCopeland #ThePolice"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-school-holidays",
+   "off": 7,
+   "type": "seasonal",
+   "hot": true,
+   "title": "School Summer Holidays Begin",
+   "blurb": "Many schools across the UK begin their summer holidays this week, with some starting as early as July 20th or 23rd, marking the official start of the long break.",
+   "source": {
+    "l": "Durham County Council / Expatica",
+    "u": "https://www.durham.gov.uk/article/21927/School-holiday-and-term-dates"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "School's Out!",
+     "for": "nation-network",
+     "copy": "The school gates are closing for summer for many this week! Long holidays, here we come! What are your plans?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Local School Break",
+     "for": "welsh-local",
+     "copy": "School's out for summer! Many local schools are breaking up this week. Have a fantastic, fun-filled summer holiday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SummerBreak"
      ]
     }
    ]
