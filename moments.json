@@ -1,16 +1,63 @@
 {
- "updated": "2026-07-13T20:05:12.079Z",
+ "updated": "2026-07-13T21:41:56.653Z",
  "moments": [
   {
-   "id": "world-cup-semis",
-   "off": 1,
+   "id": "the-open-championship-royal-birkdale",
+   "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Semi-Finals Kick Off",
-   "blurb": "The FIFA World Cup 2026 semi-finals begin this week, with France taking on Spain, and England facing Argentina for a place in the final.",
+   "title": "The Open Championship Tees Off",
+   "blurb": "The 154th Open Championship begins this Thursday at Royal Birkdale Golf Club in Southport, England, running until Sunday.",
    "source": {
-    "l": "NBC Sports",
-    "u": "https://www.nbcsports.com/soccer/fifa-world-cup/2026-fifa-world-cup-schedule-bracket-matches-dates-locations-group-tables-results-how-to-watch"
+    "l": "The Open Official Site",
+    "u": "https://www.theopen.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "General Excitement",
+     "copy": "Golf's oldest major is back! The 154th Open Championship begins this Thursday at the iconic Royal Birkdale. Who are you backing for the Claret Jug?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "UK Host City Angle",
+     "copy": "All eyes on Southport! Royal Birkdale hosts The Open Championship from Thursday. Ready for some world-class golf on home soil?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RoyalBirkdale"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hundred-2026-start",
+   "off": 8,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred Returns",
+   "blurb": "The Hundred 2026 season kicks off on Tuesday, July 21st, with a double-header at the Kia Oval, featuring MI London vs Sunrisers Leeds.",
+   "source": {
+    "l": "The Hundred Official Site",
+    "u": "https://www.thehundred.com/"
    },
    "fits": [
     {
@@ -19,144 +66,44 @@
     },
     {
      "g": "welsh-local",
-     "sub": ""
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
     },
     {
      "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "France vs Spain build-up",
-     "copy": "World Cup Semi-Finals are HERE! First up, it's France vs Spain in what promises to be an epic clash. Who are you backing?",
+     "name": "General Kick-off",
+     "copy": "Get ready for 100-ball action! The Hundred 2026 bursts into life next Tuesday with a double-header. Who are you supporting this season?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok",
       "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#WorldCup2026"
-     ]
-    },
-    {
-     "name": "England vs Argentina hype",
-     "copy": "It's the one we've all been waiting for! England take on Argentina in the World Cup Semi-Finals on Wednesday. Can the Three Lions roar into the final?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#England"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-open-championship",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "The Open Championship Begins",
-   "blurb": "The 154th Open Championship, golf's final major of the year, tees off from Thursday at Royal Birkdale Golf Club in Southport, England.",
-   "source": {
-    "l": "The Open Championship",
-    "u": "https://www.theopen.com/tickets/2026-royal-birkdale"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Major golf starts",
-     "copy": "It's Major Championship week! The Open gets underway from Thursday at Royal Birkdale. Who's lifting the Claret Jug this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#TheOpen"
-     ]
-    },
-    {
-     "name": "Local favourite angle (if applicable)",
-     "copy": "Royal Birkdale is ready! Keep an eye on local favourite Tommy Fleetwood as The Open Championship begins in Southport this Thursday. Could it be his year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
      ],
      "time": "10:00",
      "tags": [
-      "#Golf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "sam-fender-olivia-dean-chart",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean UK No.1",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' holds the UK Singles Chart No. 1 spot for a 16th nonconsecutive week, a new record for a song not hitting the US Top 10.",
-   "source": {
-    "l": "Official Charts",
-    "u": "https://www.officialcharts.com/charts/singles-chart/20260710/7501/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart record broken",
-     "copy": "History made! Sam Fender & Olivia Dean's 'Rein Me In' is Number 1 for a staggering 16th week on the UK Singles Chart. What a run!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#UKChart"
+      "#TheHundred"
      ]
     },
     {
-     "name": "Longest running No.1",
-     "copy": "Still at the top! 'Rein Me In' by Sam Fender & Olivia Dean continues its incredible reign on the UK Singles Chart. Are you still listening?",
+     "name": "Welsh Fire Angle",
+     "copy": "The Welsh Fire are back! The Hundred 2026 starts next week, with our team in action against Southern Brave on Wednesday. Time to bring the heat!",
      "channels": [
       "instagram",
       "facebook",
@@ -164,90 +111,44 @@
      ],
      "time": "14:00",
      "tags": [
-      "#MusicNews"
+      "#WelshFire"
      ]
     }
    ]
   },
   {
-   "id": "system-of-a-down-london",
-   "off": 0,
+   "id": "latitude-festival-2026",
+   "off": 10,
    "type": "gig",
    "hot": true,
-   "title": "System Of A Down in London",
-   "blurb": "System Of A Down play their first London show in over a decade tonight, with a second date on Wednesday.",
+   "title": "Latitude Festival Celebrates 20 Years",
+   "blurb": "Latitude Festival returns to Henham Park, Suffolk, from July 23-26, 2026, celebrating its 20th year with headliners David Byrne, Teddy Swims, and Lewis Capaldi.",
    "source": {
-    "l": "Time Out",
-    "u": "https://www.timeout.com/london/music/best-london-concerts-gigs-july-2026"
+    "l": "Latitude Festival",
+    "u": "https://www.latitudefestival.com/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": ""
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "SOAD live tonight",
-     "copy": "System Of A Down are back in London tonight for their first show in over 10 years! Who's heading to Wembley?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#SOAD"
-     ]
+     "sub": "Nation Radio Suffolk"
     },
-    {
-     "name": "Rock legends return",
-     "copy": "Rock legends System Of A Down hit London for two massive shows this week! Expect a huge comeback.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#RockMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bruno-mars-london",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Bruno Mars London Residency",
-   "blurb": "Bruno Mars kicks off a five-night London residency this Friday, marking his first UK shows in eight years.",
-   "source": {
-    "l": "Time Out",
-    "u": "https://www.timeout.com/london/music/best-london-concerts-gigs-july-2026"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Bruno Mars is back",
-     "copy": "He's back! Bruno Mars starts his five-night London residency this Friday. Get ready for some 24K Magic!",
+     "name": "General Festival Buzz",
+     "copy": "Latitude Festival is almost here! Celebrating 20 years of music, arts, and good vibes at Henham Park from July 23rd. Who are you excited to see?",
      "channels": [
       "instagram",
       "facebook",
@@ -255,14 +156,51 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:30",
+     "time": "09:30",
      "tags": [
-      "#BrunoMars"
+      "#Latitude20"
      ]
     },
     {
-     "name": "Big weekend gigs",
-     "copy": "London is heating up! Bruno Mars brings his incredible live show to the capital for multiple dates starting this weekend.",
+     "name": "Headliner Focus",
+     "copy": "David Byrne, Teddy Swims, Lewis Capaldi – what a lineup! Latitude Festival kicks off next Thursday. Get ready for an unforgettable weekend in Suffolk.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#LatitudeFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "womad-festival-2026",
+   "off": 10,
+   "type": "gig",
+   "hot": true,
+   "title": "WOMAD Festival Begins",
+   "blurb": "The World of Music, Arts and Dance (WOMAD) Festival returns to Neston Park, Wiltshire, from July 23-26, 2026, celebrating global culture.",
+   "source": {
+    "l": "WOMAD Festival",
+    "u": "https://womad.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Global Culture Celebration",
+     "copy": "WOMAD Festival is almost here! From Thursday, Neston Park transforms into a global village of music, dance, and art. Discover something new!",
      "channels": [
       "instagram",
       "facebook",
@@ -270,64 +208,155 @@
      ],
      "time": "13:00",
      "tags": [
-      "#LondonGigs"
+      "#WOMAD"
      ]
     }
    ]
   },
   {
-   "id": "f1-belgian-gp",
-   "off": 4,
+   "id": "commonwealth-games-glasgow-2026",
+   "off": 10,
    "type": "sport",
    "hot": true,
-   "title": "F1 Belgian Grand Prix",
-   "blurb": "Formula 1 heads to Spa-Francorchamps this weekend for the Belgian Grand Prix, running from July 17-19.",
+   "title": "Glasgow Commonwealth Games Start",
+   "blurb": "The Commonwealth Games 2026 officially begin in Glasgow, Scotland, on Thursday, July 23rd, running until August 2nd.",
    "source": {
-    "l": "Formula 1",
-    "u": "https://www.formula1.com/en/racing/2026/Belgium.html"
+    "l": "Commonwealth Games Federation",
+    "u": "https://www.commonwealthgames.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "F1 weekend",
-     "copy": "Start your engines! It's Grand Prix weekend, with F1 heading to the iconic Spa-Francorchamps for the Belgian GP. Who's taking the win?",
+     "name": "General Excitement",
+     "copy": "The Commonwealth Games are coming home! Glasgow kicks off the 2026 Games this Thursday. Get ready for incredible sporting moments!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "09:30",
+     "time": "09:00",
      "tags": [
-      "#F1"
+      "#CommonwealthGames"
      ]
     },
     {
-     "name": "Spa-Francorchamps challenge",
-     "copy": "The ultimate test for drivers and cars! The Belgian Grand Prix at Spa-Francorchamps is almost here. Get ready for high-speed drama.",
+     "name": "Scottish Pride",
+     "copy": "Glasgow's ready! The Commonwealth Games 2026 begin this Thursday in Scotland. Who are you cheering on for Team Scotland?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "15:00",
      "tags": [
-      "#BelgianGP"
+      "#Glasgow2026"
      ]
     }
    ]
   },
   {
-   "id": "roger-mcguinn-bday",
+   "id": "leon-bridges-birthday",
    "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "Roger McGuinn is 84",
-   "blurb": "Roger McGuinn, co-founder of The Byrds and pioneer of folk-rock, turns 84 today.",
+   "hot": true,
+   "title": "Happy Birthday Leon Bridges",
+   "blurb": "Grammy-winning soul singer Leon Bridges turns 37 today.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/13"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Shoutout",
+     "copy": "Sending big birthday wishes to the incredibly smooth Leon Bridges, turning 37 today! What's your favourite track from the soul sensation?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#LeonBridges"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deborah-cox-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Deborah Cox",
+   "blurb": "Canadian R&B and dance music icon Deborah Cox celebrates her 52nd birthday today.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/13"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation R&B"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Shoutout",
+     "copy": "Happy 52nd Birthday to the powerhouse vocalist Deborah Cox! Still 'Nobody's Supposed to Be Here' without her incredible talent.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#DeborahCox"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roger-mcguinn-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Roger McGuinn",
+   "blurb": "Roger McGuinn, co-founder of the legendary folk-rock band The Byrds, turns 84 today.",
    "source": {
     "l": "Songfacts",
     "u": "https://www.songfacts.com/birthdays/july/13"
@@ -348,14 +377,14 @@
    ],
    "angles": [
     {
-     "name": "Byrds legend's birthday",
-     "copy": "Happy 84th to the legendary Roger McGuinn of The Byrds! His distinctive Rickenbacker sound defined an era. What's your favourite Byrds track?",
+     "name": "Birthday Shoutout",
+     "copy": "Wishing a very happy 84th birthday to the iconic Roger McGuinn of The Byrds! That Rickenbacker jangle is timeless.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:00",
+     "time": "10:30",
      "tags": [
       "#RogerMcGuinn"
      ]
@@ -363,34 +392,109 @@
    ]
   },
   {
-   "id": "deborah-cox-bday",
+   "id": "gary-levox-birthday",
    "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "Deborah Cox is 52",
-   "blurb": "Canadian R&B singer Deborah Cox, known for hits like 'Nobody's Supposed to Be Here', celebrates her 52nd birthday today.",
+   "hot": true,
+   "title": "Happy Birthday Gary LeVox",
+   "blurb": "Gary LeVox, lead singer of the hugely successful country group Rascal Flatts, celebrates his 56th birthday today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/deborah-cox.html"
+    "l": "Your Halifax Now",
+    "u": "https://yourhalifaxnow.ca/2026/07/13/celebrity-birthdays-what-happened-in-history-july-13th/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Country"
     }
    ],
    "angles": [
     {
-     "name": "R&B diva's birthday",
-     "copy": "Wishing a very happy 52nd birthday to the incredible R&B powerhouse Deborah Cox! Turn up 'Nobody's Supposed to Be Here' today.",
+     "name": "Country Birthday",
+     "copy": "Happy 56th Birthday to Gary LeVox of Rascal Flatts! What's your favourite country anthem from him?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#GaryLeVox"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beat-herder-festival-2026",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Beat-Herder Festival Kicks Off",
+   "blurb": "The quirky and eclectic Beat-Herder Festival begins on Thursday, July 16th, in the Ribble Valley, featuring acts like Faithless, Wilkinson, and Groove Armada.",
+   "source": {
+    "l": "Resident Advisor",
+    "u": "https://ra.co/festivals/uk/july"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Vibe",
+     "copy": "Beat-Herder Festival is back this Thursday for a wild weekend in the Ribble Valley! Ready for Faithless, Groove Armada and more?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#BeatHerder"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hebridean-celtic-festival-2026",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Hebridean Celtic Festival",
+   "blurb": "The Hebridean Celtic Festival takes place in Stornoway, Outer Hebrides, Scotland, from July 15-18, 2026, celebrating traditional and contemporary Celtic music.",
+   "source": {
+    "l": "eFestivals",
+    "u": "https://www.efestivals.co.uk/festivals/hebcel/2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish Festival",
+     "copy": "The beautiful Outer Hebrides are calling! The Hebridean Celtic Festival kicks off Wednesday in Stornoway. A true celebration of Scottish culture and music!",
      "channels": [
       "instagram",
       "facebook",
@@ -398,72 +502,72 @@
      ],
      "time": "10:00",
      "tags": [
-      "#DeborahCox"
+      "#HebCelt"
      ]
     }
    ]
   },
   {
-   "id": "linda-ronstadt-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Linda Ronstadt is 80",
-   "blurb": "The iconic singer Linda Ronstadt, known for her versatile voice and genre-spanning career, celebrates her 80th birthday on Wednesday. (Note: No direct citation for Ronstadt's birthday on July 15, but it's a widely known fact. Will use general birthday source from previous searches if I cannot find a specific one for 2026. Famous Birthdays lists her as July 15, 1946).",
+   "id": "new-saints-champions-league",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "The New Saints in Champions League Qualifier",
+   "blurb": "Cymru Premier champions The New Saints play their first leg Champions League qualifier in Azerbaijan tomorrow evening.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/linda-ronstadt.html"
+    "l": "Morning Star",
+    "u": "https://morningstaronline.co.uk/article/s/sport-brief-july-6-2026"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "welsh-local",
+     "sub": "Bridge FM"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Love"
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Music legend's milestone",
-     "copy": "A very happy 80th birthday to the legendary Linda Ronstadt on Wednesday! What an incredible career and voice. What's your favourite song?",
+     "name": "Welsh Football Pride",
+     "copy": "Good luck to The New Saints! Our Cymru Premier champions begin their Champions League qualifying campaign in Azerbaijan tomorrow. Bring it home!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "16:00",
      "tags": [
-      "#LindaRonstadt"
+      "#TNSFC"
      ]
     }
    ]
   },
   {
-   "id": "stewart-copeland-bday",
+   "id": "stewart-copeland-birthday",
    "off": 3,
    "type": "birthday",
-   "hot": false,
-   "title": "Stewart Copeland is 74",
-   "blurb": "Stewart Copeland, the dynamic drummer and founder of The Police, turns 74 this Thursday. (Note: No direct citation for Copeland's birthday on July 16, but it's a widely known fact. Famous Birthdays lists him as July 16, 1952).",
+   "hot": true,
+   "title": "Happy Birthday Stewart Copeland",
+   "blurb": "Stewart Copeland, the legendary drummer of The Police, turns 74 this Thursday.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/stewart-copeland.html"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/july/16"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
@@ -471,12 +575,16 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Police drummer's birthday",
-     "copy": "Happy 74th birthday to the incredible Stewart Copeland of The Police on Thursday! What a powerhouse behind the kit. What's your favourite Police track?",
+     "name": "Drummer Birthday",
+     "copy": "Sending a massive happy 74th birthday to the one and only Stewart Copeland of The Police! What's your favourite Police track to drum along to?",
      "channels": [
       "instagram",
       "facebook",
@@ -490,24 +598,99 @@
    ]
   },
   {
-   "id": "brian-may-bday",
-   "off": 6,
+   "id": "luke-hemmings-birthday",
+   "off": 3,
    "type": "birthday",
-   "hot": false,
-   "title": "Brian May is 79",
-   "blurb": "Queen's legendary guitarist Brian May celebrates his 79th birthday this Saturday. (Note: No direct citation for May's birthday on July 19, but it's a widely known fact. Famous Birthdays lists him as July 19, 1947).",
+   "hot": true,
+   "title": "Happy Birthday Luke Hemmings",
+   "blurb": "Luke Hemmings, lead singer of 5 Seconds of Summer, celebrates his 30th birthday this Thursday.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/brian-may.html"
+    "l": "idobi Radio",
+    "u": "https://idobi.com/features/12-alternative-musicians-celebrating-their-birthdays-in-july/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop-Punk Birthday",
+     "copy": "Big 3-0 for Luke Hemmings this Thursday! Happy Birthday to the 5 Seconds of Summer frontman. What's your favourite 5SOS hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#LukeHemmings"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "london-athletics-meet-2026",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "London Athletics Meet",
+   "blurb": "The London Athletics Meet, a highlight of the 2026 athletics season, takes place at the London Stadium on Saturday, July 18th.",
+   "source": {
+    "l": "VisitBritain.org",
+    "u": "https://www.visitbritain.org/news-and-events/looking-ahead-britains-sporting-highlights-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Athletics Event",
+     "copy": "World-class athletics comes to London this Saturday! The London Stadium hosts the London Athletics Meet. Who are you hoping to see on the track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LondonAthletics"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "splendour-festival-2026",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Splendour Festival in Nottingham",
+   "blurb": "Splendour Festival, Nottinghamshire's biggest festival, takes place in Wollaton Hall & Deer Park from July 18-19, 2026.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/feature/july-festivals"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -516,68 +699,8 @@
    ],
    "angles": [
     {
-     "name": "Queen's guitar hero",
-     "copy": "A huge happy 79th birthday to the one and only Brian May from Queen this Saturday! What an absolute guitar legend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BrianMay"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-school-holidays",
-   "off": 7,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Summer School Holidays Begin",
-   "blurb": "Schools across the UK are starting to break up for the summer holidays this week, with many closing their doors from July 20th and 23rd.",
-   "source": {
-    "l": "Durham County Council",
-    "u": "https://www.durham.gov.uk/article/2196/School-holiday-and-term-dates"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "School's out for summer",
-     "copy": "The summer holidays are officially beginning for many schools across the UK this week! Sun's out, fun's out!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#SummerHolidays"
-     ]
-    },
-    {
-     "name": "What are your plans?",
-     "copy": "No more school runs for a while! Many schools are breaking up this week. What exciting plans do you have for the summer?",
+     "name": "Nottingham Festival",
+     "copy": "Nottingham, get ready! Splendour Festival is this weekend at Wollaton Hall. Two days of great music in a stunning setting!",
      "channels": [
       "instagram",
       "facebook",
@@ -585,36 +708,88 @@
      ],
      "time": "14:00",
      "tags": [
-      "#SchoolHolidays"
+      "#SplendourFestival"
      ]
     }
    ]
   },
   {
-   "id": "latitude-festival",
-   "off": 10,
-   "type": "gig",
+   "id": "uk-school-summer-holidays",
+   "off": 7,
+   "type": "seasonal",
    "hot": true,
-   "title": "Latitude Festival Next Week",
-   "blurb": "Latitude Festival returns to Henham Park, Suffolk next week, running from July 23-26, celebrating its 20th anniversary.",
+   "title": "School Summer Holidays Begin",
+   "blurb": "The main UK school summer holidays are set to begin for many students and families around the week of July 20-23, 2026.",
    "source": {
-    "l": "Latitude Festival",
-    "u": "https://www.latitudefestival.com/"
+    "l": "Gov.uk / Local Councils",
+    "u": "https://www.gov.uk/school-term-holiday-dates"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Suffolk"
     }
    ],
    "angles": [
     {
-     "name": "Festival countdown",
-     "copy": "The countdown is on for Latitude Festival! Celebrating 20 years, it kicks off next week in Suffolk. Who's got their tickets?",
+     "name": "Summer Break Excitement",
+     "copy": "Freedom! School's out for summer for many across the UK this week. What are your plans for the long-awaited break?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Family Fun Prep",
+     "copy": "The summer holidays are almost here! Time to plan those family adventures and make some unforgettable memories.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#FamilyFun"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "carlos-santana-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Carlos Santana",
+   "blurb": "Legendary guitarist Carlos Santana, known for his unique blend of rock, blues, and Latin music, celebrates his 79th birthday on Monday.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-week-of-july-20-26-809623832c66d2f392945d7a6411706f"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Legend Birthday",
+     "copy": "Happy 79th Birthday to the one and only Carlos Santana on Monday! Still making guitars sing like no other. What's your favourite Santana track?",
      "channels": [
       "instagram",
       "facebook",
@@ -622,90 +797,134 @@
      ],
      "time": "11:00",
      "tags": [
-      "#LatitudeFestival"
+      "#CarlosSantana"
      ]
+    }
+   ]
+  },
+  {
+   "id": "kim-carnes-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Kim Carnes",
+   "blurb": "Grammy-winning singer-songwriter Kim Carnes, famous for her hit 'Bette Davis Eyes', turns 81 on Monday.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-week-of-july-20-26-809623832c66d2f392945d7a6411706f"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
-     "name": "Suffolk's big weekend",
-     "copy": "Henham Park is getting ready! Latitude Festival brings music, comedy, and arts to Suffolk from July 23-26. It's going to be huge!",
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Iconic Voice Birthday",
+     "copy": "She's got Bette Davis Eyes, and it's her birthday! Happy 81st to the distinctive Kim Carnes on Monday. Still a classic!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#Suffolk"
+      "#KimCarnes"
      ]
     }
    ]
   },
   {
-   "id": "ann-droid-bbc",
-   "off": 0,
-   "type": "tv",
+   "id": "yusuf-islam-cat-stevens-birthday",
+   "off": 8,
+   "type": "birthday",
    "hot": true,
-   "title": "Ann Droid on BBC",
-   "blurb": "Diane Morgan's new comedy series, 'Ann Droid', where she stars as a robot companion, is airing on BBC One and BBC iPlayer this July.",
+   "title": "Happy Birthday Yusuf / Cat Stevens",
+   "blurb": "Iconic folk-rock singer-songwriter Yusuf Islam, widely known as Cat Stevens, celebrates his 78th birthday on Tuesday.",
    "source": {
-    "l": "Good Housekeeping",
-    "u": "https://www.goodhousekeeping.com/uk/entertainment/g44400508/new-tv-shows-july-2026/"
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo-809623832c66d2f392945d7a6411706f"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "New comedy to watch",
-     "copy": "Diane Morgan as a robot? Yes please! Her new comedy 'Ann Droid' is on BBC One and iPlayer this month. Have you watched it yet?",
+     "name": "Folk Legend Birthday",
+     "copy": "Wishing a very happy 78th birthday to the legendary Yusuf Islam, also known as Cat Stevens, on Tuesday! His music is truly 'Wild World' class.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "18:00",
+     "time": "10:00",
      "tags": [
-      "#AnnDroid"
+      "#CatStevens"
      ]
     }
    ]
   },
   {
-   "id": "little-house-netflix",
-   "off": 0,
-   "type": "tv",
+   "id": "damian-marley-birthday",
+   "off": 8,
+   "type": "birthday",
    "hot": true,
-   "title": "Little House on the Prairie Reboot",
-   "blurb": "A new adaptation of 'Little House on the Prairie' premiered on Netflix on July 9, bringing the classic stories to a new generation.",
+   "title": "Happy Birthday Damian Marley",
+   "blurb": "Grammy-winning reggae artist Damian 'Jr. Gong' Marley, Bob Marley's youngest son, turns 48 on Tuesday.",
    "source": {
-    "l": "Red Magazine",
-    "u": "https://www.redonline.co.uk/reviews/tv-and-film/a40498305/new-tv-shows-july-2026/"
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo-809623832c66d2f392945d7a6411706f"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Nostalgic TV reboot",
-     "copy": "'Little House on the Prairie' is back! The new adaptation landed on Netflix last week. Are you tuning in for some classic storytelling?",
+     "name": "Reggae Royalty Birthday",
+     "copy": "Happy 48th Birthday to reggae royalty, Damian 'Jr. Gong' Marley, on Tuesday! Keeping the legacy alive with his incredible music.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "19:00",
+     "time": "14:00",
      "tags": [
-      "#LittleHouse"
+      "#DamianMarley"
      ]
     }
    ]
