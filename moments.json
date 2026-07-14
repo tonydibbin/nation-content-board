@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-14T09:05:40.378Z",
+ "updated": "2026-07-14T11:15:50.985Z",
  "moments": [
   {
-   "id": "the-open-championship-2026",
-   "off": 2,
+   "id": "world-cup-final-2026",
+   "off": 5,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship Tees Off",
-   "blurb": "The 154th Open Championship begins at Royal Birkdale Golf Club in Southport, England, running from Thursday, July 16th to Sunday, July 19th.",
+   "title": "World Cup Final Looms",
+   "blurb": "The FIFA World Cup 2026 final is set for Sunday, July 19, with the ultimate football champions to be crowned in New York/New Jersey.",
    "source": {
-    "l": "The Open Official Site",
-    "u": "https://www.theopen.com/"
+    "l": "FIFA",
+    "u": "https://www.fifa.com/worldcup/"
    },
    "fits": [
     {
@@ -18,81 +18,90 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Main Event Kick-off",
-     "copy": "Golf's biggest major is almost here! The 154th Open Championship kicks off this Thursday at Royal Birkdale. Who are you backing for the Claret Jug?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TheOpen"
-     ]
+     "g": "dragon",
+     "sub": ""
     },
     {
-     "name": "Local Buzz",
-     "for": "Nation Radio Yorkshire",
-     "copy": "Royal Birkdale in Southport is set to host The Open Championship from Thursday! Get ready for some world-class golf right here in the North West. Anyone heading down?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#RoyalBirkdale"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tour-de-france-mid-race",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Tour de France Continues",
-   "blurb": "The 113th edition of the Tour de France is well underway, having started on July 4th in Barcelona and continuing until July 26th.",
-   "source": {
-    "l": "Tour de France Official Site",
-    "u": "https://www.letour.fr/en/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
+     "g": "radio-exe",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Daily Update",
-     "copy": "The Tour de France keeps rolling! Who's impressing you in the peloton so far? Catch up on all the action from today's stage.",
+     "name": "Final Countdown",
+     "for": "",
+     "copy": "Sunday. The World Cup final. Who do you think will lift the trophy this weekend? The tension is building!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "09:00",
      "tags": [
-      "#TDF2026"
+      "#WorldCup2026"
      ]
     },
     {
-     "name": "General Interest",
-     "copy": "Beyond the cycling, the Tour de France is a stunning tour of Europe! What's been your favourite scenery shot from this year's race?",
+     "name": "Big Game Buzz",
+     "for": "",
+     "copy": "Just days until the biggest game in football! The World Cup final is almost here. Where are you watching the action?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Football"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wimbledon-2026-ends",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Wimbledon Crowns Champions",
+   "blurb": "The Wimbledon Championships 2026 concluded on Sunday, July 12, after two weeks of thrilling tennis at the All England Club.",
+   "source": {
+    "l": "Wimbledon Official Site",
+    "u": "https://www.wimbledon.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wimbledon Wrap-up",
+     "for": "",
+     "copy": "Another year, another iconic Wimbledon. Who was your standout player from the Championships that wrapped up on Sunday?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#Wimbledon"
+     ]
+    },
+    {
+     "name": "Tennis Talk",
+     "for": "",
+     "copy": "The grass courts have fallen silent for another year. What a fortnight of tennis at Wimbledon 2026!",
      "channels": [
       "instagram",
       "facebook",
@@ -101,18 +110,125 @@
      ],
      "time": "16:00",
      "tags": [
-      "#TourDeFrance"
+      "#Tennis"
      ]
     }
    ]
   },
   {
-   "id": "hebridean-celtic-festival",
+   "id": "the-open-2026-starts",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "The Open Championship Tees Off",
+   "blurb": "The 154th Open Championship, golf's oldest major, begins on Thursday, July 16, at Royal Birkdale Golf Club in Southport, England.",
+   "source": {
+    "l": "The Open Official Site",
+    "u": "https://www.theopen.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Golf Major Begins",
+     "for": "",
+     "copy": "Fore! The Open Championship is back this week. Royal Birkdale is ready for the world's best golfers from Thursday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Claret Jug Hunt",
+     "for": "",
+     "copy": "Golf fans, get ready! The Open tees off on Thursday. Who are you backing to lift the coveted Claret Jug?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Golf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "coldplay-wembley-2026",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Coldplay's Wembley Residency",
+   "blurb": "Coldplay bring their 'Music of the Spheres' tour to Wembley Stadium for multiple nights this week, starting Thursday, July 16.",
+   "source": {
+    "l": "Wembley Stadium",
+    "u": "https://www.wembleystadium.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wembley Lights Up",
+     "for": "",
+     "copy": "Ready for some 'Yellow'? Coldplay hit Wembley Stadium this week for a string of massive shows. Who's got tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ColdplayWembley"
+     ]
+    },
+    {
+     "name": "Music of the Spheres",
+     "for": "",
+     "copy": "Chris Martin and co. are lighting up Wembley from Thursday! Coldplay's 'Music of the Spheres' tour is set to be spectacular.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Coldplay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hebridean-celtic-festival-2026",
    "off": 1,
    "type": "gig",
    "hot": true,
-   "title": "Hebridean Celtic Festival Underway",
-   "blurb": "The Hebridean Celtic Festival runs from July 15th to 18th in Stornoway, Outer Hebrides, Scotland, celebrating traditional and contemporary Celtic music.",
+   "title": "Hebridean Celtic Festival Kicks Off",
+   "blurb": "The Hebridean Celtic Festival, celebrating traditional and contemporary Celtic music, begins on Wednesday, July 15, on the Isle of Lewis.",
    "source": {
     "l": "HebCelt Official Site",
     "u": "https://www.hebceltfest.com/"
@@ -125,29 +241,30 @@
    ],
    "angles": [
     {
-     "name": "Festival Start",
-     "copy": "Get ready for some incredible music! The Hebridean Celtic Festival kicks off tomorrow in Stornoway. Who are you excited to see?",
+     "name": "Celtic Sounds",
+     "for": "Nation Radio Scotland",
+     "copy": "Get ready for some fantastic tunes! The Hebridean Celtic Festival kicks off on Wednesday on the Isle of Lewis.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "12:00",
      "tags": [
       "#HebCelt"
      ]
     },
     {
-     "name": "Scottish Culture",
-     "copy": "It's all about the music and culture in the Outer Hebrides this week! The Hebridean Celtic Festival brings together the best in traditional and modern Celtic sounds. Slàinte Mhath!",
+     "name": "Island Festival",
+     "for": "Nation Radio Scotland",
+     "copy": "Traditional and contemporary Celtic music unite! The Hebridean Celtic Festival starts tomorrow. Who's heading to the Outer Hebrides?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "14:00",
+     "time": "18:00",
      "tags": [
       "#ScottishMusic"
      ]
@@ -155,32 +272,39 @@
    ]
   },
   {
-   "id": "splendour-festival-nottingham",
+   "id": "splendour-festival-2026",
    "off": 4,
    "type": "gig",
    "hot": true,
-   "title": "Splendour Festival in Nottingham",
-   "blurb": "Splendour Festival, Nottinghamshire's biggest festival, takes place from July 18th to 19th at Wollaton Hall & Deer Park.",
+   "title": "Splendour Festival This Weekend",
+   "blurb": "Splendour Festival, Nottinghamshire's biggest festival, takes place this weekend, July 18-19, at Wollaton Hall & Deer Park.",
    "source": {
-    "l": "Splendour Festival Official Site",
+    "l": "Splendour Festival",
     "u": "https://www.splendourfestival.com/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Weekend Festival",
-     "copy": "Nottingham, get ready! Splendour Festival is happening this weekend at Wollaton Hall & Deer Park. Who's on your must-see list?",
+     "name": "Nottingham Festival",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Splendour Festival is this weekend in Nottingham! Get ready for two days of great music at Wollaton Hall.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "10:00",
      "tags": [
@@ -188,68 +312,18 @@
      ]
     },
     {
-     "name": "Music & Location",
-     "copy": "Live music in a deer park? Yes please! Splendour Festival kicks off Saturday in Nottingham. Perfect summer vibes guaranteed.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NottinghamEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bbc-proms-starts",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "BBC Proms Season Begins",
-   "blurb": "The world's biggest classical music festival, The BBC Proms, returns to the Royal Albert Hall in London from July 17th, running until September 12th.",
-   "source": {
-    "l": "BBC Proms Official Site",
-    "u": "https://www.bbc.co.uk/proms"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Classical Season",
-     "copy": "The iconic BBC Proms season begins this Thursday at the Royal Albert Hall! Eight weeks of incredible classical music await. Will you be Promenade-ing?",
+     "name": "Weekend Plans",
+     "for": "",
+     "copy": "If you're in Nottinghamshire, your weekend plans are sorted! Splendour Festival brings big names and good vibes.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "12:00",
+     "time": "15:00",
      "tags": [
-      "#BBcProlms"
-     ]
-    },
-    {
-     "name": "London Culture",
-     "for": "Nation Radio London",
-     "copy": "London's summer of culture continues as the BBC Proms kicks off this week. Immerse yourself in the world of classical music at the Royal Albert Hall!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#LondonCulture"
+      "#FestivalSeason"
      ]
     }
    ]
@@ -259,10 +333,10 @@
    "off": 9,
    "type": "gig",
    "hot": true,
-   "title": "Latitude Festival Celebrates 20 Years",
-   "blurb": "Latitude Festival, celebrating its 20th anniversary, takes place at Henham Park, Southwold, Suffolk from July 23rd to 26th.",
+   "title": "Latitude Festival Approaching",
+   "blurb": "Latitude Festival returns to Henham Park, Suffolk, from July 23-26, featuring a diverse lineup of music, arts, and comedy.",
    "source": {
-    "l": "Latitude Festival Official Site",
+    "l": "Latitude Festival",
     "u": "https://www.latitudefestival.com/"
    },
    "fits": [
@@ -281,146 +355,43 @@
    ],
    "angles": [
     {
-     "name": "20th Anniversary",
-     "copy": "Happy 20th Anniversary, Latitude! The festival returns to Henham Park next week, July 23-26. Who's heading to Suffolk for the celebrations?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#Latitude20"
-     ]
-    },
-    {
-     "name": "Suffolk Festival",
+     "name": "Suffolk Summer",
      "for": "Nation Radio Suffolk",
-     "copy": "It's almost time! Latitude Festival is back at Henham Park next week for its 20th year. Get ready for a weekend of music, arts, and good times in Suffolk!",
+     "copy": "It's almost time for Latitude! Henham Park is gearing up for a huge weekend of music and arts from July 23rd.",
      "channels": [
       "instagram",
       "facebook",
       "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#LatitudeFestival"
+     ]
+    },
+    {
+     "name": "Festival Prep",
+     "for": "",
+     "copy": "Planning your Latitude Festival trip? It's just over a week away! Who are you most excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
      ],
      "time": "14:30",
      "tags": [
-      "#SuffolkEvents"
+      "#FestivalVibes"
      ]
     }
    ]
   },
   {
-   "id": "truck-festival-2026",
-   "off": 9,
-   "type": "gig",
-   "hot": true,
-   "title": "Truck Festival Returns",
-   "blurb": "Truck Festival brings its indie-fueled spirit to Hill Farm, Steventon, Oxfordshire from July 23rd to 26th.",
-   "source": {
-    "l": "Truck Festival Official Site",
-    "u": "https://truckfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Indie Festival",
-     "copy": "Truck Festival is almost here! Next week, Hill Farm in Oxfordshire lights up with indie music from July 23-26. Who's got their tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TruckFestival"
-     ]
-    },
-    {
-     "name": "Summer Vibes",
-     "copy": "Ready for a weekend in the fields? Truck Festival promises a massive lineup and great vibes in Oxfordshire next week!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#FestivalSeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "together-again-festival-cheshire",
-   "off": 10,
-   "type": "gig",
-   "hot": true,
-   "title": "Together Again Festival at Bolesworth Castle",
-   "blurb": "Together Again Festival returns to Bolesworth Castle in Cheshire from July 24th to 26th, offering music, arts, and a family-friendly atmosphere.",
-   "source": {
-    "l": "Together Again Festival Official Site",
-    "u": "https://togetheragainfestival.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cheshire Festival",
-     "copy": "Cheshire, get ready! Together Again Festival is back at Bolesworth Castle next weekend, July 24-26. Fun for the whole family!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#TogetherAgain"
-     ]
-    },
-    {
-     "name": "Family Fun",
-     "copy": "Looking for a family festival? Together Again at Bolesworth Castle next weekend has world-class music, vibrant arenas, and free entry for kids! Who's coming?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#FestivalFamily"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-update",
-   "off": 2,
+   "id": "sabrina-carpenter-espresso",
+   "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "Official UK Singles Chart Update",
-   "blurb": "The Official UK Singles Chart is typically updated on Fridays, with the latest chart reflecting the most popular tracks in the country.",
+   "title": "Sabrina Carpenter's 'Espresso' Still Hot",
+   "blurb": "Sabrina Carpenter's massive hit 'Espresso' continues to be a staple on the airwaves and flying high in the UK charts.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/"
@@ -433,98 +404,106 @@
    ],
    "angles": [
     {
-     "name": "New Chart Friday",
-     "copy": "It's almost Friday, which means a new Official UK Singles Chart is on its way! What tracks do you think will be climbing the Top 40 this week?",
+     "name": "Espresso Power",
+     "for": "",
+     "copy": "Still sipping that 'Espresso'? Sabrina Carpenter's huge track is still everywhere and flying high in the charts!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "11:00",
+     "time": "11:30",
      "tags": [
-      "#OfficialCharts"
+      "#Espresso"
      ]
     },
     {
-     "name": "Chart Toppers Discussion",
-     "copy": "Who's dominating the airwaves and streams right now? Let us know your favourite tracks from the current Official UK Singles Chart!",
+     "name": "Chart Staple",
+     "for": "",
+     "copy": "It's the song of the summer, and it's still going strong! Sabrina Carpenter's 'Espresso' is a bonafide hit.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "16:30",
      "tags": [
-      "#UKChart"
+      "#SabrinaCarpenter"
      ]
     }
    ]
   },
   {
-   "id": "new-streaming-july",
+   "id": "billie-eilish-birds-of-a-feather",
    "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Billie Eilish's 'Birds of a Feather' Soaring",
+   "blurb": "Billie Eilish's acclaimed track 'Birds of a Feather' continues its impressive run, remaining a popular choice on the UK charts.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Billie's Hit",
+     "for": "",
+     "copy": "Still got 'Birds of a Feather' on repeat? Billie Eilish's beautiful track is a huge hit and still soaring in the charts.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#BillieEilish"
+     ]
+    },
+    {
+     "name": "Chart Success",
+     "for": "",
+     "copy": "Billie Eilish is a chart force to be reckoned with! 'Birds of a Feather' is still a massive tune.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#BirdsOfAFeather"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "love-island-2026-final-approaches",
+   "off": 13,
    "type": "tv",
    "hot": true,
-   "title": "New TV & Streaming Hits This July",
-   "blurb": "July brings a wave of new shows and films to UK streaming platforms, including 'Elle', 'Little House on the Prairie', 'The Dark', and 'Ann Droid'.",
+   "title": "Love Island Final Countdown",
+   "blurb": "The drama in the villa intensifies as Love Island UK 2026 builds towards its grand final, expected on Monday, July 27.",
    "source": {
-    "l": "Red Magazine / GeekTown",
-    "u": "https://www.redonline.co.uk/entertainment/tv-movies/a60427814/new-tv-shows-july-2026/ https://www.geektown.co.uk/tv-air-dates/uk-tv-premiere-dates/"
+    "l": "ITV2 / ITVX",
+    "u": "https://www.itv.com/loveisland"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "What To Watch",
-     "copy": "Struggling to pick your next binge-watch? July's streaming lineup is packed! From 'Elle' to 'Little House on the Prairie' and 'The Dark', what's caught your eye?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#NewOnStreaming"
-     ]
-    },
-    {
-     "name": "Weekend Watchlist",
-     "copy": "Your weekend watchlist just got longer! New shows like 'Ann Droid' and 'Dan Brown's The Lost Symbol' are out now. What are you diving into?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#TVHighlights"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-dan-reynolds",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 39th Birthday, Dan Reynolds!",
-   "blurb": "Dan Reynolds, the frontman of Imagine Dragons, turns 39 today, July 14th.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-19-25-july-13-2026-67a3b3a3a41e9d1e4e6d4c0b4c8d5a1b"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -533,206 +512,290 @@
    ],
    "angles": [
     {
-     "name": "Birthday Shoutout",
-     "copy": "Sending big birthday wishes to Imagine Dragons frontman, Dan Reynolds, who turns 39 today! What's your favourite Imagine Dragons track?",
+     "name": "Villa Drama",
+     "for": "",
+     "copy": "Who's coupled up and who's getting dumped? Love Island is delivering all the drama as the final approaches!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
+      "tiktok"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    },
+    {
+     "name": "Final Prediction",
+     "for": "",
+     "copy": "The Love Island final is just around the corner! Which couple do you think will go all the way and win?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
       "threads"
+     ],
+     "time": "21:00",
+     "tags": [
+      "#LoveIslandUK"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-summer-holidays-start",
+   "off": 3,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Summer Holidays Begin for Many",
+   "blurb": "Schools across England and Wales begin to break up for the long-awaited summer holidays this week and next, typically from July 17-24.",
+   "source": {
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/school-term-dates-and-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "School's Out!",
+     "for": "",
+     "copy": "Freedom! The school summer holidays are starting for many this week. What are your big plans for the break?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Holiday Mode",
+     "for": "",
+     "copy": "No more school runs for a while! Summer holidays are officially here for a lot of families. Enjoy the well-deserved break!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#SchoolHolidays"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-continues",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Heatwave Continues",
+   "blurb": "Heatwave conditions are set to continue across England and Wales this week, with temperatures exceeding 30°C and an ongoing risk of wildfires.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Staying Cool",
+     "for": "",
+     "copy": "Another hot one! The heatwave continues across parts of the UK. Remember to stay hydrated and keep cool!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "09:00",
      "tags": [
-      "#DanReynolds"
+      "#UKHeatwave"
      ]
     },
     {
-     "name": "Artist Focus",
-     "copy": "From 'Radioactive' to 'Believer', Dan Reynolds has given us some massive anthems. Happy 39th Birthday to the voice of Imagine Dragons!",
+     "name": "Summer Sun Safety",
+     "for": "",
+     "copy": "With temperatures soaring past 30°C, it's crucial to stay safe in the sun. Stay hydrated and watch out for wildfire risks.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#SummerSafety"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stewart-copeland-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Stewart Copeland",
+   "blurb": "Legendary drummer Stewart Copeland of The Police celebrates his 74th birthday on Thursday, July 16.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Stewart_Copeland"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Police Drummer",
+     "for": "",
+     "copy": "The rhythmic backbone of The Police! Happy 74th birthday to the incredible Stewart Copeland this Thursday!",
      "channels": [
       "instagram",
       "facebook",
       "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#StewartCopeland"
+     ]
+    },
+    {
+     "name": "Rock Icon",
+     "for": "",
+     "copy": "Sending birthday wishes to legendary drummer Stewart Copeland, who turns 74 on Thursday! What's your favourite Police track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#ImagineDragons"
+      "#ThePolice"
      ]
     }
    ]
   },
   {
-   "id": "bday-kyle-gass",
-   "off": 0,
+   "id": "brian-may-birthday",
+   "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 66th Birthday, Kyle Gass!",
-   "blurb": "Kyle Gass, co-founder of the comedy rock band Tenacious D, celebrates his 66th birthday today, July 14th.",
+   "title": "Happy Birthday Brian May",
+   "blurb": "Legendary Queen guitarist and astrophysicist Brian May celebrates his 79th birthday on Friday, July 19.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-19-25-july-13-2026-67a3b3a3a41e9d1e4e6d4c0b4c8d5a1b"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Brian_May"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Birthday",
-     "copy": "Raise your horns! It's Kyle Gass's 66th birthday today! What's your favourite Tenacious D moment or song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#KyleGass"
-     ]
-    },
-    {
-     "name": "Tenacious D Tribute",
-     "copy": "Happy 66th Birthday to the other half of Tenacious D, Kyle Gass! Get your air guitar ready to celebrate!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#TenaciousD"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-dan-smith",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 40th Birthday, Dan Smith!",
-   "blurb": "Dan Smith, lead singer of the British band Bastille, turns 40 today, July 14th.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-19-25-july-13-2026-67a3b3a3a41e9d1e4e6d4c0b4c8d5a1b"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 10s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bastille Birthday",
-     "copy": "Celebrating 40 years of Dan Smith today! Happy Birthday to the voice behind Bastille's biggest hits like 'Pompeii'. What's your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#DanSmith"
-     ]
-    },
-    {
-     "name": "British Music",
-     "copy": "A huge Happy 40th Birthday to Bastille's very own Dan Smith! What's the Bastille song that always gets you singing along?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#Bastille"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-linda-ronstadt",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 80th Birthday, Linda Ronstadt!",
-   "blurb": "Legendary singer Linda Ronstadt celebrates her 80th birthday tomorrow, July 15th.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-19-25-july-13-2026-67a3b3a3a41e9d1e4e6d4c0b4c8d5a1b"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Music Icon Birthday",
-     "copy": "Wishing a very Happy 80th Birthday to the incredible Linda Ronstadt tomorrow! What's your favourite song from her amazing career?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#LindaRonstadt"
-     ]
-    },
-    {
-     "name": "Timeless Voice",
-     "copy": "Tomorrow, we celebrate the 80th Birthday of the iconic Linda Ronstadt. Her voice is truly timeless! Which of her hits do you love most?",
+     "name": "Queen Legend",
+     "for": "",
+     "copy": "A very happy 79th birthday to the one and only Brian May from Queen this Friday! What's your favourite Queen riff?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "10:00",
      "tags": [
-      "#MusicLegend"
+      "#BrianMay"
+     ]
+    },
+    {
+     "name": "Rock & Roll Hall of Famer",
+     "for": "",
+     "copy": "He's a rock legend, an astrophysicist, and a knight! Wishing Brian May a fantastic 79th birthday on Friday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Queen"
      ]
     }
    ]
   },
   {
-   "id": "bday-carlos-santana",
+   "id": "carlos-santana-birthday",
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 79th Birthday, Carlos Santana!",
-   "blurb": "Legendary guitarist Carlos Santana turns 79 on Monday, July 20th.",
+   "title": "Happy Birthday Carlos Santana",
+   "blurb": "Iconic guitarist and Rock and Roll Hall of Famer Carlos Santana celebrates his 79th birthday on Saturday, July 20.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-19-25-july-13-2026-67a3b3a3a41e9d1e4e6d4c0b4c8d5a1b"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Carlos_Santana"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
@@ -740,37 +803,34 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Legend",
-     "copy": "Get ready to celebrate a true guitar legend! Carlos Santana turns 79 on Monday. What's your go-to Santana track?",
+     "name": "Guitar Master",
+     "for": "",
+     "copy": "The master of the guitar, Carlos Santana, turns 79 this Saturday! Which of his tracks always gets you moving?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "09:30",
      "tags": [
       "#CarlosSantana"
      ]
     },
     {
-     "name": "Rock Icon",
-     "copy": "From Woodstock to world stages, Carlos Santana's guitar has defined generations. Happy 79th Birthday to an icon on Monday!",
+     "name": "Still Rocking",
+     "for": "",
+     "copy": "Still rocking after all these years! Happy 79th birthday to the legendary Carlos Santana this Saturday.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "17:00",
+     "time": "14:30",
      "tags": [
       "#Santana"
      ]
@@ -778,125 +838,187 @@
    ]
   },
   {
-   "id": "bday-yusuf-islam",
-   "off": 7,
+   "id": "don-henley-birthday",
+   "off": 8,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 78th Birthday, Yusuf Islam (Cat Stevens)!",
-   "blurb": "Singer-songwriter Yusuf Islam, widely known as Cat Stevens, celebrates his 78th birthday on Tuesday, July 21st.",
+   "title": "Happy Birthday Don Henley",
+   "blurb": "Eagles drummer and vocalist Don Henley celebrates his 79th birthday on Monday, July 22.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-19-25-july-13-2026-67a3b3a3a41e9d1e4e6d4c0b4c8d5a1b"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Don_Henley"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Folk Legend Birthday",
-     "copy": "Wishing a very Happy 78th Birthday to the incomparable Yusuf Islam, also known as Cat Stevens, on Tuesday! Which of his songs holds a special place for you?",
+     "name": "Eagles Legend",
+     "for": "",
+     "copy": "From 'Hotel California' to 'Boys of Summer', Don Henley turns 79 on Monday! What's your favourite Eagles track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#DonHenley"
+     ]
+    },
+    {
+     "name": "Vocal Icon",
+     "for": "",
+     "copy": "Wishing a very happy 79th birthday to the incredible Don Henley of The Eagles this Monday!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "13:00",
+     "time": "15:30",
      "tags": [
-      "#CatStevens"
-     ]
-    },
-    {
-     "name": "Timeless Tunes",
-     "copy": "From 'Wild World' to 'Father and Son', Cat Stevens' music is truly timeless. Happy 78th Birthday to Yusuf Islam this Tuesday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#YusufIslam"
+      "#Eagles"
      ]
     }
    ]
   },
   {
-   "id": "bday-don-henley",
+   "id": "danny-jones-birthday",
    "off": 8,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 79th Birthday, Don Henley!",
-   "blurb": "Don Henley, co-founder, drummer, and lead vocalist of the Eagles, turns 79 on Wednesday, July 22nd.",
+   "title": "Happy 40th Danny Jones",
+   "blurb": "McFly guitarist and singer Danny Jones celebrates his 40th birthday on Monday, July 22.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-19-25-july-13-2026-67a3b3a3a41e9d1e4e6d4c0b4c8d5a1b"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Danny_Jones"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 00s"
     },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "McFly Turns 40",
+     "for": "",
+     "copy": "It's a big one! Happy 40th birthday to McFly's Danny Jones this Monday! What's your favourite McFly tune?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#DannyJones"
+     ]
+    },
+    {
+     "name": "Pop-Punk Star",
+     "for": "",
+     "copy": "From pop-punk sensation to The Voice coach, wishing a huge happy 40th to Danny Jones this Monday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#McFly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "slash-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Slash",
+   "blurb": "Guns N' Roses guitar icon Slash celebrates his 61st birthday on Friday, July 23.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Slash_(musician)"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Rock Royalty Birthday",
-     "copy": "A huge Happy 79th Birthday to Eagles legend Don Henley this Wednesday! What's your favourite song featuring his iconic voice?",
+     "name": "Guitar God",
+     "for": "",
+     "copy": "The top hat, the Gibson, the riffs! Happy 61st birthday to the legendary Slash this Friday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Slash"
+     ]
+    },
+    {
+     "name": "Guns N' Roses Icon",
+     "for": "",
+     "copy": "No one quite like him. Wishing a huge happy 61st birthday to Guns N' Roses' guitar hero, Slash, this Friday!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "10:00",
+     "time": "17:00",
      "tags": [
-      "#DonHenley"
-     ]
-    },
-    {
-     "name": "Eagles Drummer",
-     "copy": "From 'Hotel California' to his solo hits, Don Henley is a true music titan. Celebrate his 79th Birthday this Wednesday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TheEagles"
+      "#GunsNRoses"
      ]
     }
    ]
   },
   {
-   "id": "bday-selena-gomez",
-   "off": 8,
+   "id": "jennifer-lopez-birthday",
+   "off": 10,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 34th Birthday, Selena Gomez!",
-   "blurb": "Singer and actress Selena Gomez celebrates her 34th birthday on Wednesday, July 22nd.",
+   "title": "Happy Birthday Jennifer Lopez",
+   "blurb": "Global superstar Jennifer Lopez celebrates her 57th birthday on Saturday, July 24.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-19-25-july-13-2026-67a3b3a3a41e9d1e4e6d4c0b4c8d5a1b"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
    },
    "fits": [
     {
@@ -905,139 +1027,42 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 10s"
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Pop Star Birthday",
-     "copy": "Wishing a very Happy 34th Birthday to the brilliant Selena Gomez this Wednesday! What's your favourite track from her?",
+     "name": "J.Lo Turns 57",
+     "for": "",
+     "copy": "From the block to the world stage! Wishing a very happy 57th birthday to the one and only J.Lo this Saturday!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "11:30",
+     "time": "13:00",
      "tags": [
-      "#SelenaGomez"
+      "#JenniferLopez"
      ]
     },
     {
-     "name": "Music & Screen",
-     "copy": "From chart-topping hits to acclaimed acting roles, Selena Gomez truly does it all. Happy 34th Birthday this Wednesday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-david-essex",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 79th Birthday, David Essex!",
-   "blurb": "British singer, songwriter, and actor David Essex turns 79 on Thursday, July 23rd.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-19-25-july-13-2026-67a3b3a3a41e9d1e4e6d4c0b4c8d5a1b"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "British Legend",
-     "copy": "Happy 79th Birthday to the legendary David Essex this Thursday! Which of his classic hits is your favourite?",
+     "name": "Pop Icon",
+     "for": "",
+     "copy": "Still dancing, still singing, still iconic. Happy 57th birthday to Jennifer Lopez this Saturday!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "12:00",
+     "time": "18:00",
      "tags": [
-      "#DavidEssex"
-     ]
-    },
-    {
-     "name": "Iconic Voice",
-     "copy": "From 'Gonna Make You A Star' to 'Hold Me Close', David Essex has given us so many unforgettable songs. Celebrate his 79th Birthday on Thursday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#70sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-school-summer-holidays",
-   "off": 4,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK School Summer Holidays Begin",
-   "blurb": "The summer holidays for most schools in England and Wales begin between July 18th and 25th, while Scottish and Northern Irish schools have already broken up.",
-   "source": {
-    "l": "Save My Exams",
-    "u": "https://www.savemyexams.co.uk/blog/when-do-the-summer-holidays-start-in-the-uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Holiday Kick-off",
-     "copy": "The school summer holidays are officially starting for many in England and Wales this week! What are your plans for the long break?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#SummerHolidays"
-     ]
-    },
-    {
-     "name": "Family Fun",
-     "copy": "School's out for summer! If you're in England or Wales, the summer holidays are kicking off this week. Time for family adventures!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SchoolHolidays"
+      "#JLo"
      ]
     }
    ]
