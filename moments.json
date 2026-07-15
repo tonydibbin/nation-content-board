@@ -1,16 +1,68 @@
 {
- "updated": "2026-07-15T13:03:08.887Z",
+ "updated": "2026-07-15T15:15:41.536Z",
  "moments": [
   {
-   "id": "fifa-world-cup-semi-final",
+   "id": "worldcup-semifinal-final",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Semi-Final Day",
-   "blurb": "Today sees the second 2026 FIFA World Cup semi-final, with England or Argentina vying for a spot in Sunday's final against Spain.",
+   "title": "World Cup Semi-Finals & Final",
+   "blurb": "The FIFA World Cup 2026 semi-finals are being played today, with England facing Argentina, leading up to the grand final on Sunday, July 19th.",
    "source": {
-    "l": "FIFA",
-    "u": "https://www.fifa.com/worldcup/2026"
+    "l": "Mashable / FOX Sports",
+    "u": "https://mashable.com/article/fifa-world-cup-schedule-today-july-15-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Semi-final hype",
+     "for": "",
+     "copy": "It's Semi-Final day! England vs Argentina for a spot in the World Cup Final. Who are you backing to make it through? #WorldCup2026",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "Final countdown",
+     "for": "",
+     "copy": "Just days until the World Cup Final! Will it be England, or will a new champion be crowned? Get ready for Sunday's showdown. #FIFAWorldCup",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FIFAWorldCup"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "commonwealth-games-glasgow",
+   "off": 8,
+   "type": "sport",
+   "hot": true,
+   "title": "Glasgow 2026 Commonwealth Games",
+   "blurb": "The Commonwealth Games officially kick off in Glasgow on July 23rd, bringing 11 days of world-class sporting action to Scotland.",
+   "source": {
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.org/looking-ahead-britains-sporting-highlights-2026"
    },
    "fits": [
     {
@@ -18,54 +70,101 @@
      "sub": ""
     },
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Match Day Hype",
-     "copy": "It's Semi-Final Day at the FIFA World Cup! England or Argentina? Who joins Spain in Sunday's final? Get ready for a huge one!",
+     "name": "Games countdown",
+     "for": "",
+     "copy": "The countdown is on! Glasgow is set to host the Commonwealth Games from July 23rd. Who's excited for 11 days of incredible sport?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "12:00",
      "tags": [
-      "#WorldCup2026"
+      "#Glasgow2026"
      ]
     },
     {
-     "name": "Local Excitement",
-     "for": "welsh-local",
-     "copy": "Who are you backing in today's World Cup semi-final? The tension is building across Wales as we await the clash that decides Sunday's finalist!",
+     "name": "Scottish spotlight",
+     "for": "Nation Radio Scotland",
+     "copy": "Glasgow, are you ready? The Commonwealth Games begin next week, putting our city on the global sporting stage! What events are you looking forward to?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:30",
+     "time": "14:00",
      "tags": [
-      "#WorldCupWales"
+      "#CommonwealthGames"
      ]
     }
    ]
   },
   {
-   "id": "the-open-championship-starts",
-   "off": 1,
+   "id": "the-open-birkdale",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship Tees Off",
-   "blurb": "The 154th Open Championship begins tomorrow, July 16th, at Royal Birkdale Golf Club in Southport, England, running until Sunday.",
+   "title": "The Open Championship",
+   "blurb": "The 154th Open Championship continues at Royal Birkdale in Southport, with the final rounds taking place this weekend.",
    "source": {
-    "l": "The Open",
-    "u": "https://www.theopen.com/"
+    "l": "VisitBritain.org",
+    "u": "https://www.visitbritain.org/looking-ahead-britains-sporting-highlights-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Golf action",
+     "for": "",
+     "copy": "It's moving day at The Open! Who's going to make a charge up the leaderboard at Royal Birkdale this weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Major golf weekend",
+     "for": "",
+     "copy": "The Open Championship is in full swing at Royal Birkdale. Tune in this weekend to see who lifts the Claret Jug!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Golf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "london-athletics-meet",
+   "off": 3,
+   "type": "sport",
+   "hot": true,
+   "title": "London Athletics Meet",
+   "blurb": "The Novuna London Athletics Meet, one of the biggest one-day athletics events, returns to the London Stadium on July 18th.",
+   "source": {
+    "l": "British Athletics",
+    "u": "https://www.britishathletics.org.uk/events-and-results/event-listings/novuna-london-athletics-meet-2026/"
    },
    "fits": [
     {
@@ -79,143 +178,23 @@
    ],
    "angles": [
     {
-     "name": "Golf Major Kicks Off",
-     "copy": "Major golf action returns! The Open Championship tees off tomorrow at Royal Birkdale. Who's your pick for the Claret Jug?",
+     "name": "Track & Field hype",
+     "for": "Nation Radio London",
+     "copy": "World-class athletics comes to London this Saturday! The London Stadium hosts the Novuna London Athletics Meet. Who's got tickets?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:00",
+     "time": "09:00",
      "tags": [
-      "#TheOpen"
+      "#LondonAthletics"
      ]
     },
     {
-     "name": "UK Golf Focus",
-     "for": "nation-network",
-     "copy": "All eyes on Royal Birkdale from tomorrow as The Open Championship gets underway. The biggest names in golf are in England for the 154th Open!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RoyalBirkdale"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hebridean-celtic-festival",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Hebridean Celtic Festival",
-   "blurb": "The Hebridean Celtic Festival kicks off today in Stornoway, Outer Hebrides, Scotland, running until July 18th.",
-   "source": {
-    "l": "HebCelt",
-    "u": "https://www.hebceltfest.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Kicks Off",
-     "copy": "HebCelt is ON! The Hebridean Celtic Festival starts today in Stornoway – four days of incredible music and culture in the Outer Hebrides!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#HebCelt"
-     ]
-    },
-    {
-     "name": "Scottish Festival Vibe",
-     "for": "Nation Radio Scotland",
-     "copy": "Stornoway is buzzing! The Hebridean Celtic Festival brings its unique blend of music and atmosphere to the Outer Hebrides from today. Are you there?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#HebCelt2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "buddhafield-festival",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Buddhafield Festival Underway",
-   "blurb": "Buddhafield Festival, a celebration of community and connection, starts today and runs until July 19th.",
-   "source": {
-    "l": "Buddhafield",
-    "u": "https://buddhafield.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Mindful Festival Start",
-     "copy": "Buddhafield Festival begins today! If you're looking for community, connection, and good vibes, it's all happening until Sunday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Buddhafield"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "luke-combs-tribute-swansea",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Luke Combs Tribute in Swansea",
-   "blurb": "A Luke Combs UK tribute act is performing in Swansea on Friday, July 17th.",
-   "source": {
-    "l": "Skiddle",
-    "u": "https://www.skiddle.com/whats-on/Swansea/--/Luke-Combs-UK-tribute-in-SWANSEA-/39097985/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country Night Swansea",
-     "copy": "Calling all country fans in Swansea! A Luke Combs UK tribute is hitting the stage this Friday. Get ready to sing along!",
+     "name": "One-day spectacular",
+     "for": "",
+     "copy": "Get ready for a day of incredible track and field! The London Athletics Meet brings global superstars to the capital this weekend.",
      "channels": [
       "instagram",
       "facebook",
@@ -223,95 +202,26 @@
      ],
      "time": "16:00",
      "tags": [
-      "#SwanseaGigs"
-     ]
-    },
-    {
-     "name": "Local Tribute Act",
-     "for": "welsh-local",
-     "copy": "Yee-haw! Catch the Luke Combs UK tribute act in Swansea this Friday, July 17th. Perfect for a country-themed night out!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#LukeCombsUK"
+      "#Athletics"
      ]
     }
    ]
   },
   {
-   "id": "bingo-lingo-cardiff",
-   "off": 2,
+   "id": "hebridean-celtic-fest",
+   "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "BINGO LINGO in Cardiff",
-   "blurb": "Popular event BINGO LINGO is happening at Tiger Yard in Cardiff on Friday, July 17th.",
+   "title": "Hebridean Celtic Festival",
+   "blurb": "The Hebridean Celtic Festival is underway in Stornoway, Outer Hebrides, celebrating music and culture until July 18th.",
    "source": {
-    "l": "Skiddle",
-    "u": "https://www.skiddle.com/whats-on/Cardiff/Tiger-Yard/BINGO-LINGO---Tiger-Yard---LIVE/39097992/"
+    "l": "UK Festivals Guide",
+    "u": "https://www.festivalsguide.co.uk/july-festivals-a-full-list-of-uk-and-europe-events/"
    },
    "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
     {
      "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cardiff Night Out",
-     "copy": "Cardiff! BINGO LINGO is back at Tiger Yard this Friday. Expect wild fun, big prizes, and a night of pure entertainment!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#BingoLingoCardiff"
-     ]
-    },
-    {
-     "name": "Weekend Plans",
-     "for": "welsh-local",
-     "copy": "Looking for weekend plans in Cardiff? BINGO LINGO is hitting Tiger Yard on Friday, July 17th. Who's ready to shout 'House!'?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#CardiffEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-update",
-   "off": 2,
-   "type": "culture",
-   "hot": true,
-   "title": "New UK Singles Chart",
-   "blurb": "The Official UK Singles Chart will be updated with the latest Top 40 on Friday, July 17th.",
-   "source": {
-    "l": "Official Charts",
-    "u": "https://www.officialcharts.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Radio Scotland"
     },
     {
      "g": "nation-network",
@@ -320,8 +230,9 @@
    ],
    "angles": [
     {
-     "name": "Chart Countdown Anticipation",
-     "copy": "New music Friday means a new Official UK Singles Chart! Who do you think will be at Number 1 this week? Find out Friday!",
+     "name": "Celtic vibes",
+     "for": "Nation Radio Scotland",
+     "copy": "Live from the Outer Hebrides! The Hebridean Celtic Festival is bringing incredible music and culture to Stornoway all weekend. Who's there?",
      "channels": [
       "instagram",
       "facebook",
@@ -329,21 +240,21 @@
      ],
      "time": "10:00",
      "tags": [
-      "#UKChart"
+      "#HebCelt"
      ]
     },
     {
-     "name": "Weekend Playlist Prep",
-     "for": "Nation Hits",
-     "copy": "Get ready to update your playlists! The new UK Singles Chart drops on Friday. Any predictions for the biggest tracks?",
+     "name": "Festival fun",
+     "for": "",
+     "copy": "If you're looking for a unique festival experience, the Hebridean Celtic Festival is happening right now in Scotland!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "14:00",
      "tags": [
-      "#NewMusicFriday"
+      "#FestivalSeason"
      ]
     }
    ]
@@ -354,10 +265,259 @@
    "type": "gig",
    "hot": true,
    "title": "Splendour Festival Nottingham",
-   "blurb": "Splendour Festival, Nottinghamshire's biggest festival, takes place this weekend, July 18-19, at Wollaton Hall & Deer Park.",
+   "blurb": "Nottingham's biggest music festival, Splendour, takes place this weekend (July 18-19) at Wollaton Hall & Deer Park, featuring Snow Patrol and The Wombats.",
    "source": {
-    "l": "Splendour Festival",
-    "u": "https://www.splendourfestival.com/"
+    "l": "We're Going On An Adventure",
+    "u": "https://weregoingonanadventure.co.uk/uk-festivals-this-july-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Nottingham festival",
+     "for": "",
+     "copy": "Splendour Festival is back this weekend in Nottingham! Who's excited to see Snow Patrol and The Wombats at Wollaton Hall?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#SplendourFestival"
+     ]
+    },
+    {
+     "name": "Weekend music",
+     "for": "Nation Rocks",
+     "copy": "Got your Splendour tickets? Snow Patrol and The Wombats are headlining Nottingham's biggest festival this Saturday and Sunday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#LiveMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glasgow-caribou-numan",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Caribou & Gary Numan in Glasgow",
+   "blurb": "Electronic artist Caribou plays The Galvanizers Yard at SWG3 and synth-rock icon Gary Numan performs at Queen's Park Arena in Glasgow on Friday, July 17th.",
+   "source": {
+    "l": "Ticketle / JamBase",
+    "u": "https://www.ticketle.com/concerts/glasgow/july-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Glasgow music night",
+     "for": "Nation Radio Scotland",
+     "copy": "Big night for music in Glasgow this Friday! Caribou at SWG3 and the legendary Gary Numan at Queen's Park Arena. Where are you heading?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#GlasgowGigs"
+     ]
+    },
+    {
+     "name": "Electronic & Synth",
+     "for": "Nation Dance",
+     "copy": "Caribou brings the beats to Glasgow this Friday! Get ready for an electrifying night at SWG3.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Caribou"
+     ]
+    },
+    {
+     "name": "Numan in Scotland",
+     "for": "Nation 80s",
+     "copy": "The iconic Gary Numan live in Glasgow this Friday! Don't miss the synth-rock pioneer at Queen's Park Arena.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#GaryNuman"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exeter-britallica",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Britallica - Britney Spears Metal Tribute",
+   "blurb": "Britallica, a Britney Spears metal tribute band, performs at Exeter Phoenix on Saturday, July 18th, offering a unique musical mash-up.",
+   "source": {
+    "l": "Exeter Gigs & Concerts",
+    "u": "https://www.exetergigs.com/exeter-gigs"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Exeter's unique gig",
+     "for": "radio-exe",
+     "copy": "This Saturday, prepare for something different! Britallica brings their Britney Spears metal tribute to Exeter Phoenix. Ready to rock?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#ExeterGigs"
+     ]
+    },
+    {
+     "name": "Unexpected tribute",
+     "for": "Nation Rocks",
+     "copy": "Britney Spears meets metal? Britallica is playing Exeter Phoenix this Saturday for a tribute night you won't forget!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#TributeBand"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "UK Official Singles Chart Update",
+   "blurb": "The latest UK Official Singles Chart (July 10, 2026) sees World Cup anthems 'Dai Dai' by Shakira & Burna Boy and 'Three Lions' climbing, alongside new hits from Olivia Rodrigo and Harry Styles.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.youtube.com/watch?v=sK9n5y_zK3E"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart climbers",
+     "for": "Nation Hits",
+     "copy": "The World Cup effect! Shakira & Burna Boy's 'Dai Dai' and 'Three Lions' are soaring up the UK Singles Chart. What's your current favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#UKChart"
+     ]
+    },
+    {
+     "name": "New chart entries",
+     "for": "Nation Hits",
+     "copy": "Olivia Rodrigo and Harry Styles are dominating the latest UK Singles Chart. What tracks are you streaming on repeat right now?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ann-droid-bbc",
+   "off": 2,
+   "type": "tv",
+   "hot": true,
+   "title": "Ann Droid on BBC One",
+   "blurb": "Diane Morgan stars in 'Ann Droid', a new BBC One comedy about a robot companion for the elderly, premiering Friday, July 17th.",
+   "source": {
+    "l": "TV Zone",
+    "u": "https://www.tvzoneuk.com/post/schedules-confirmed-11-17-july-2026-new-and-returning-titles-revealed"
    },
    "fits": [
     {
@@ -367,30 +527,148 @@
    ],
    "angles": [
     {
-     "name": "Nottingham Festival Hype",
-     "copy": "Nottingham, are you ready? Splendour Festival is this weekend, bringing five stages of music to Wollaton Hall! Who are you seeing?",
+     "name": "New comedy alert",
+     "for": "",
+     "copy": "Diane Morgan as a robot companion? Sign us up! New comedy 'Ann Droid' starts this Friday on BBC One. Get ready to laugh!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#AnnDroid"
+     ]
+    },
+    {
+     "name": "Friday night TV",
+     "for": "",
+     "copy": "Your Friday night TV just got funnier! Diane Morgan's new show 'Ann Droid' premieres this week on BBC One. Will you be watching?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "17:00",
      "tags": [
-      "#SplendourFestival"
+      "#BBCOne"
      ]
     }
    ]
   },
   {
-   "id": "fifa-world-cup-final",
-   "off": 4,
-   "type": "sport",
+   "id": "the-dark-itv",
+   "off": -3,
+   "type": "tv",
    "hot": true,
-   "title": "FIFA World Cup Final",
-   "blurb": "The 2026 FIFA World Cup culminates this Sunday, July 19th, with the final match held at MetLife Stadium in New Jersey.",
+   "title": "The Dark on ITV",
+   "blurb": "The new six-part murder drama 'The Dark', set in the Scottish countryside and starring Laura Donnelly, is currently airing on ITV.",
    "source": {
-    "l": "FIFA",
-    "u": "https://www.fifa.com/worldcup/2026"
+    "l": "ELLE UK",
+    "u": "https://www.elle.com/uk/life-and-culture/what-to-watch/a61048695/best-thrillers-july-netflix-itv-apple-tv/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Gripping drama",
+     "for": "",
+     "copy": "If you're hooked on 'The Dark' on ITV, you're not alone! This Scottish murder drama is keeping everyone on the edge of their seats.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#TheDark"
+     ]
+    },
+    {
+     "name": "Scottish thriller",
+     "for": "Nation Radio Scotland",
+     "copy": "Set in the stunning (and sometimes sinister) Scottish countryside, 'The Dark' on ITV is the crime thriller everyone's talking about. Are you watching?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ITVDrama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "heartstopper-forever-netflix",
+   "off": 2,
+   "type": "tv",
+   "hot": true,
+   "title": "Heartstopper Forever on Netflix",
+   "blurb": "The highly anticipated new drama 'Heartstopper Forever' is set to premiere globally on Netflix this Friday, July 17th.",
+   "source": {
+    "l": "TV Zone",
+    "u": "https://www.tvzoneuk.com/post/schedules-confirmed-11-17-july-2026-new-and-returning-titles-revealed"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Heartstopper returns",
+     "for": "",
+     "copy": "Get ready, Heartstopper fans! 'Heartstopper Forever' drops this Friday on Netflix. Who's clearing their schedule for a binge-watch?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Heartstopper"
+     ]
+    },
+    {
+     "name": "New Netflix drama",
+     "for": "",
+     "copy": "The wait is almost over! 'Heartstopper Forever' arrives on Netflix this Friday. Prepare for all the feels!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Netflix"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-crow-girl-s2",
+   "off": 5,
+   "type": "tv",
+   "hot": true,
+   "title": "The Crow Girl Season 2",
+   "blurb": "Season 2 of the mystery thriller 'The Crow Girl', starring Welsh actress Eve Myles, premieres on Paramount+ on Monday, July 20th.",
+   "source": {
+    "l": "Good Housekeeping",
+    "u": "https://www.goodhousekeeping.com/uk/entertainment/g40369806/best-new-tv-shows-july-2026-bbc-itv-netflix/"
    },
    "fits": [
     {
@@ -404,74 +682,13 @@
     {
      "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "World Cup Final Countdown",
-     "copy": "The biggest game in football is just days away! The FIFA World Cup Final kicks off this Sunday. Who will lift the trophy?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#WorldCupFinal"
-     ]
-    },
-    {
-     "name": "Sunday Showdown",
-     "copy": "Get ready for the ultimate football showdown! This Sunday is the FIFA World Cup Final. Make your predictions now!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "brian-may-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Brian May's 79th Birthday",
-   "blurb": "Queen guitarist and rock icon Brian May turns 79 on Sunday, July 19th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Brian_May"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend Birthday",
-     "copy": "Happy 79th Birthday to the legendary Queen guitarist, Brian May, this Sunday! What's your favourite Queen track?",
+     "name": "Welsh talent on screen",
+     "for": "welsh-local",
+     "copy": "Our very own Eve Myles returns in 'The Crow Girl' Season 2, hitting Paramount+ this Monday! Who's ready for more gripping mystery?",
      "channels": [
       "instagram",
       "facebook",
@@ -479,64 +696,13 @@
      ],
      "time": "10:00",
      "tags": [
-      "#BrianMay"
+      "#TheCrowGirl"
      ]
     },
     {
-     "name": "Guitar Icon",
-     "for": "Nation Rocks",
-     "copy": "Sending birthday wishes to the one and only Brian May, who turns 79 on Sunday! A true guitar icon.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Queen"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fred-again-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Fred again..'s 33rd Birthday",
-   "blurb": "Award-winning UK producer and DJ Fred again.. celebrates his 33rd birthday on Sunday, July 19th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Fred_Again"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dance Star Birthday",
-     "copy": "Massive Happy 33rd Birthday to the incredible Fred again.. this Sunday! What's your favourite track from him?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#FredAgain"
-     ]
-    },
-    {
-     "name": "UK Producer",
-     "for": "Nation Dance",
-     "copy": "Celebrating Fred again..'s 33rd birthday on Sunday! The UK's hottest producer and DJ continues to dominate the dance scene.",
+     "name": "Mystery thriller returns",
+     "for": "",
+     "copy": "Mark your calendars! The acclaimed thriller 'The Crow Girl' is back for Season 2 on Paramount+ this Monday. Don't miss it!",
      "channels": [
       "instagram",
       "facebook",
@@ -544,18 +710,18 @@
      ],
      "time": "14:00",
      "tags": [
-      "#ElectronicMusic"
+      "#ParamountPlus"
      ]
     }
    ]
   },
   {
-   "id": "carlos-santana-birthday",
+   "id": "carlos-santana-bday",
    "off": 5,
    "type": "birthday",
-   "hot": true,
-   "title": "Carlos Santana's 79th Birthday",
-   "blurb": "Legendary guitarist Carlos Santana turns 79 on Monday, July 20th.",
+   "hot": false,
+   "title": "Carlos Santana turns 79",
+   "blurb": "Legendary guitarist Carlos Santana celebrates his 79th birthday on July 20th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Carlos_Santana"
@@ -563,45 +729,8 @@
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Classic Hits"
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar God Birthday",
-     "copy": "Happy 79th Birthday to the iconic Carlos Santana on Monday! His guitar riffs are timeless. What's your favourite Santana song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Santana"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "yusuf-islam-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Yusuf Islam (Cat Stevens) 78th Birthday",
-   "blurb": "Singer-songwriter Yusuf Islam, formerly known as Cat Stevens, celebrates his 78th birthday on Tuesday, July 21st.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Cat_Stevens"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 60s"
@@ -612,17 +741,14 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Folk Icon Birthday",
-     "copy": "Wishing a very Happy 78th Birthday to the brilliant Yusuf Islam (Cat Stevens) on Tuesday! His music still resonates with so many.",
+     "name": "Guitar legend",
+     "for": "Nation Classic Hits",
+     "copy": "Celebrating the enduring brilliance of Carlos Santana, who turns 79 on Monday! What's your favourite Santana track?",
      "channels": [
       "instagram",
       "facebook",
@@ -630,18 +756,32 @@
      ],
      "time": "10:00",
      "tags": [
-      "#CatStevens"
+      "#CarlosSantana"
+     ]
+    },
+    {
+     "name": "Rock icon",
+     "for": "Nation Rocks",
+     "copy": "Happy almost-birthday to the incredible Carlos Santana, turning 79 this Monday! His guitar work is timeless. #Santana",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#GuitarHero"
      ]
     }
    ]
   },
   {
-   "id": "don-henley-birthday",
+   "id": "don-henley-bday",
    "off": 7,
    "type": "birthday",
-   "hot": true,
-   "title": "Don Henley's 79th Birthday",
-   "blurb": "Eagles co-founder and singer-songwriter Don Henley turns 79 on Wednesday, July 22nd.",
+   "hot": false,
+   "title": "Don Henley turns 79",
+   "blurb": "Eagles co-founder and drumming legend Don Henley celebrates his 79th birthday on July 22nd.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Don_Henley"
@@ -662,156 +802,9 @@
    ],
    "angles": [
     {
-     "name": "Eagles Legend Birthday",
-     "copy": "Happy 79th Birthday to the legendary Don Henley this Wednesday! What's your favourite Eagles track featuring his iconic vocals?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DonHenley"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "latitude-festival",
-   "off": 8,
-   "type": "gig",
-   "hot": true,
-   "title": "Latitude Festival Next Week",
-   "blurb": "Latitude Festival returns to Henham Park, Suffolk, from July 23rd to 26th, celebrating its 20th anniversary.",
-   "source": {
-    "l": "Latitude Festival",
-    "u": "https://www.latitudefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Suffolk"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Countdown",
-     "copy": "Only a week until Latitude Festival kicks off in Suffolk! Who's heading to Henham Park for the 20th anniversary celebrations?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#LatitudeFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "womad-festival",
-   "off": 8,
-   "type": "gig",
-   "hot": true,
-   "title": "WOMAD Festival Approaches",
-   "blurb": "The World's Festival, WOMAD, takes place from July 23rd to 26th at Neston Park, Wiltshire, celebrating global arts, dance, food, and culture.",
-   "source": {
-    "l": "WOMAD",
-    "u": "https://womad.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Global Culture Festival",
-     "copy": "WOMAD Festival is just around the corner! Get ready for a world of music, dance, and culture at Neston Park, Wiltshire, from July 23-26.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#WOMAD"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "slash-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Slash's 61st Birthday",
-   "blurb": "Guns N' Roses guitar legend Slash celebrates his 61st birthday on Thursday, July 23rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Slash"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Guitar Hero Birthday",
-     "copy": "Happy 61st Birthday to the one and only Slash this Thursday! What's your favourite riff from the Guns N' Roses icon?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Slash"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wales-airshow-swansea",
-   "off": 10,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Wales Airshow Swansea",
-   "blurb": "The spectacular Wales Airshow returns to Swansea Bay on July 25th and 26th, featuring thrilling aerial displays.",
-   "source": {
-    "l": "Wales Airshow",
-    "u": "https://www.walesairshow.com/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Airshow Excitement",
-     "copy": "Get ready to look up, Swansea! The Wales Airshow is just days away, bringing incredible aerial displays to Swansea Bay this weekend, July 25-26!",
+     "name": "Eagles legend",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing a very happy 79th birthday to the iconic Don Henley, drummer and vocalist for the Eagles, this Wednesday! What's your favourite Eagles song?",
      "channels": [
       "instagram",
       "facebook",
@@ -819,13 +812,124 @@
      ],
      "time": "11:00",
      "tags": [
-      "#WalesAirshow"
+      "#DonHenley"
      ]
     },
     {
-     "name": "Weekend Plans Wales",
-     "for": "welsh-local",
-     "copy": "Planning your weekend in Wales? The Wales Airshow lands in Swansea Bay this Saturday and Sunday! Don't miss the breathtaking displays.",
+     "name": "Classic rock voice",
+     "for": "Nation Rocks",
+     "copy": "Don Henley of the Eagles turns 79 this Wednesday! A true voice of classic rock. Celebrate with his greatest hits!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#TheEagles"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jennifer-lopez-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Jennifer Lopez turns 57",
+   "blurb": "Global superstar Jennifer Lopez celebrates her 57th birthday on July 24th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop icon",
+     "for": "Nation Hits",
+     "copy": "Happy 57th birthday to the one and only J.Lo this Friday! Celebrate with her incredible career of hits. What's your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JenniferLopez"
+     ]
+    },
+    {
+     "name": "Dance floor diva",
+     "for": "Nation Dance",
+     "copy": "Get ready to dance! Jennifer Lopez turns 57 this Friday. We're blasting her biggest bangers to celebrate!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#JLo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "summer-heatwave",
+   "off": 0,
+   "type": "seasonal",
+   "hot": false,
+   "title": "UK Summer Weather",
+   "blurb": "The UK is experiencing warm summer weather, perfect for outdoor activities and enjoying the long evenings.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Enjoying summer",
+     "for": "",
+     "copy": "Sunshine and long evenings! How are you making the most of this beautiful summer weather across the UK?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#SummerVibes"
+     ]
+    },
+    {
+     "name": "Cool down",
+     "for": "",
+     "copy": "It's a warm one today! Remember to stay hydrated and find ways to keep cool while enjoying the UK summer.",
      "channels": [
       "instagram",
       "facebook",
@@ -833,7 +937,7 @@
      ],
      "time": "13:00",
      "tags": [
-      "#SwanseaEvents"
+      "#UKSummer"
      ]
     }
    ]
