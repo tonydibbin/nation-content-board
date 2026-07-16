@@ -1,28 +1,95 @@
 {
- "updated": "2026-07-16T11:24:27.665Z",
+ "updated": "2026-07-16T13:11:02.765Z",
  "moments": [
   {
-   "id": "world-cup-final",
-   "off": 3,
+   "id": "open-championship-2026",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Final Showdown",
-   "blurb": "The FIFA World Cup 2026 culminates this Sunday with the final between Spain and Argentina, following England's third-place play-off match on Saturday.",
+   "title": "The Open Championship Underway",
+   "blurb": "The 154th Open Championship, golf's oldest major, is underway at Royal Birkdale, with the final round set for Sunday.",
    "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/news/12026/13165270/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england"
+    "l": "The Open",
+    "u": "https://www.theopen.com/future-venues/2026-royal-birkdale"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North West"
     }
    ],
    "angles": [
     {
-     "name": "Final Countdown",
+     "name": "Prestige & History",
      "for": "",
-     "copy": "It all comes down to this! Spain face Argentina in the World Cup Final on Sunday. Who are you backing to lift the trophy?",
+     "copy": "The Open Championship is happening right now! Golf's most historic major unfolds at Royal Birkdale, with the Claret Jug on the line this weekend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Weekend Climax",
+     "for": "",
+     "copy": "Who will be crowned Champion Golfer of the Year? The Open Championship culminates on Sunday. Tune in for all the drama from Royal Birkdale.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RoyalBirkdale"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "world-cup-final-2026",
+   "off": 3,
+   "type": "sport",
+   "hot": true,
+   "title": "FIFA World Cup Final Approaches",
+   "blurb": "The FIFA World Cup 2026 culminates this Sunday, July 19th, with Spain facing Argentina in the highly anticipated final in New Jersey.",
+   "source": {
+    "l": "FIFA",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/men/worldcup/canadamexicousa2026/articles/world-cup-final-2026-all-you-need-to-know"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Anticipation",
+     "for": "",
+     "copy": "It all comes down to this! The FIFA World Cup Final is just days away. Will Spain or Argentina lift the trophy on Sunday?",
      "channels": [
       "instagram",
       "facebook",
@@ -36,582 +103,142 @@
      ]
     },
     {
-     "name": "England's Battle",
-     "for": "",
-     "copy": "England might not be in the final, but they're still battling for bronze in the third-place play-off against France on Saturday. Can they finish strong?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#EnglandFootball"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-open-championship",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "The Open Championship Live",
-   "blurb": "The 154th Open Championship is underway at Royal Birkdale Golf Club in Southport, England, running from July 16-19, 2026.",
-   "source": {
-    "l": "GOLF.com",
-    "u": "https://golf.com/news/2026-open-championship-schedule-tv-times-channel-streaming-dates/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Major Golf",
-     "for": "",
-     "copy": "Golf's final major of the year is LIVE! The Open Championship is happening now at Royal Birkdale. Who will claim the Claret Jug?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TheOpen"
-     ]
-    },
-    {
-     "name": "Local Hero Watch",
-     "for": "Nation Radio London",
-     "copy": "All eyes on Royal Birkdale this weekend as The Open Championship takes over. Is there a local hero ready to make their mark?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RoyalBirkdale"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "beat-herder-festival",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Beat-Herder Festival Kicks Off",
-   "blurb": "Beat-Herder Festival, celebrating diverse music genres and immersive experiences, takes place in Lancashire from July 16-19, 2026.",
-   "source": {
-    "l": "Festival Calendar UK",
-    "u": "https://www.festivalcalendar.uk/festivals/beat-herder-festival"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Vibes",
-     "for": "",
-     "copy": "Beat-Herder Festival is officially ON! Kicking off today in Lancashire with four days of diverse music, art, and good vibes. Who's there?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#BeatHerder"
-     ]
-    },
-    {
-     "name": "Lancashire Party",
-     "for": "Nation Radio North East",
-     "copy": "Lancashire is buzzing! Beat-Herder Festival brings its unique blend of music and art to the region this weekend. Get ready to lose yourself!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Lancashire"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "big-love-festival",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Big Love Festival in Wales",
-   "blurb": "The Big Love Festival, a music and arts event with over 130 acts, is happening in the Welsh countryside from July 16-19, 2026.",
-   "source": {
-    "l": "Music Festival Wizard",
-    "u": "https://www.musicfestivalwizard.com/festivals/big-love-festival-2026/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Festival Fun",
+     "name": "National Buzz",
      "for": "welsh-local",
-     "copy": "Big Love Festival is bringing the music and arts to the beautiful Welsh countryside this weekend! Who's heading down?",
+     "copy": "Football fever is peaking! Even though it's not our boys, the World Cup Final on Sunday is going to be HUGE. Where will you be watching?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BigLoveFestival"
-     ]
-    },
-    {
-     "name": "Music & Arts in Wales",
-     "for": "dragon",
-     "copy": "Over 130 acts across 6 stages! Big Love Festival has kicked off, offering a fantastic weekend of music, circus, and family fun in Wales.",
-     "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "16:00",
      "tags": [
-      "#WalesMusic"
+      "#WorldCupFinal"
      ]
     }
    ]
   },
   {
-   "id": "maid-of-stone-festival",
-   "off": 1,
+   "id": "latitude-festival-2026",
+   "off": 7,
    "type": "gig",
    "hot": true,
-   "title": "Maid Of Stone Festival Rocks Kent",
-   "blurb": "The Maid Of Stone Festival, an independent rock music festival, takes place in Kent from July 17-19, 2026.",
+   "title": "Latitude Festival Kicks Off",
+   "blurb": "Latitude Festival returns to Henham Park in Suffolk from July 23rd-26th, promising a weekend packed with music, comedy, and arts.",
    "source": {
-    "l": "Skiddle",
-    "u": "https://www.skiddle.com/festivals/maid-of-stone-2026/"
+    "l": "Latitude Festival",
+    "u": "https://www.latitudefestival.com/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rock Weekend",
-     "for": "",
-     "copy": "Calling all rock fans! Maid Of Stone Festival kicks off tomorrow in Kent for a weekend of live bands and grassroots community vibes. Who's in?",
+     "name": "Festival Excitement",
+     "for": "Nation Radio Suffolk",
+     "copy": "Get ready, Suffolk! Latitude Festival kicks off next Thursday, bringing an incredible lineup of music, comedy, and more to Henham Park. Who are you excited to see?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#LatitudeFestival"
+     ]
+    },
+    {
+     "name": "Music & Arts Weekend",
+     "for": "",
+     "copy": "Beyond the headliners, Latitude is a feast for the senses! Comedy, theatre, and discovery await from July 23rd.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Latitude2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-update",
+   "off": 1,
+   "type": "culture",
+   "hot": true,
+   "title": "New UK Singles Chart Tomorrow",
+   "blurb": "The UK's Official Singles Chart is updated every Friday, revealing the new number one and biggest tracks of the week.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Anticipation",
+     "for": "",
+     "copy": "Who's going to hit number one? The brand new Official UK Singles Chart is announced tomorrow! Any predictions for the top spot?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "17:00",
      "tags": [
-      "#MaidOfStone"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Kent Rockers",
-     "for": "Nation Radio London",
-     "copy": "Kent is about to get loud! Maid Of Stone Festival brings independent rock to the county this weekend. Get ready to headbang!",
+     "name": "Current Chart Buzz",
+     "for": "Nation Hits",
+     "copy": "We're counting down the hours until the new chart! What tracks are you hoping to see climb or debut on tomorrow's Official Singles Chart?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#KentEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bruno-mars-wembley",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Bruno Mars at Wembley",
-   "blurb": "Bruno Mars brings 'The Romantic Tour' to Wembley Stadium in London for two nights, July 18-19, 2026.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/bruno-mars-tickets/artist/1544460"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wembley Weekend",
-     "for": "",
-     "copy": "Get ready, London! Bruno Mars takes over Wembley Stadium this weekend for 'The Romantic Tour'. Two nights of pure gold!",
-     "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BrunoMars"
-     ]
-    },
-    {
-     "name": "Uptown Funk Live",
-     "for": "Nation Radio London",
-     "copy": "Bruno Mars is bringing the funk to Wembley Stadium for two massive nights starting Saturday! Who's got tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Wembley"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "en-vogue-london",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "En Vogue Live in London",
-   "blurb": "R&B legends En Vogue are performing at O2 Forum Kentish Town in London on July 22-23, 2026.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/en-vogue-tickets/artist/773323"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Funky Divas",
-     "for": "",
-     "copy": "Don't miss En Vogue live in London next week! The R&B icons are bringing their hits to O2 Forum Kentish Town. Get your tickets!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "facebook"
      ],
      "time": "10:00",
      "tags": [
-      "#EnVogue"
-     ]
-    },
-    {
-     "name": "London R&B",
-     "for": "Nation Radio London",
-     "copy": "Still 'Free Your Mind'? En Vogue are in London next Wednesday and Thursday! A chance to see the legends live.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#LondonGigs"
+      "#UKChart"
      ]
     }
    ]
   },
   {
-   "id": "heartstopper-forever",
-   "off": 1,
-   "type": "tv",
-   "hot": true,
-   "title": "Heartstopper Forever on Netflix",
-   "blurb": "The final season/film of the popular series 'Heartstopper Forever' premieres globally on Netflix tomorrow, July 17, 2026.",
-   "source": {
-    "l": "GeekTown",
-    "u": "https://www.geektown.co.uk/tv-air-dates/heartstopper-forever-season-film-final-netflix-air-date/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Heartstopper Returns",
-     "for": "",
-     "copy": "Get ready, Heartstopper fans! The final chapter, 'Heartstopper Forever', drops on Netflix tomorrow. Are you prepared for the feels?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Heartstopper"
-     ]
-    },
-    {
-     "name": "Netflix Binge",
-     "for": "",
-     "copy": "Your weekend binge is sorted! 'Heartstopper Forever' premieres on Netflix Friday. Who's staying up late to watch?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#NetflixUK"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ann-droid-bbc",
-   "off": 1,
-   "type": "tv",
-   "hot": true,
-   "title": "Ann Droid Debuts on BBC One",
-   "blurb": "Diane Morgan stars in the new quirky BBC comedy 'Ann Droid', premiering on BBC One tomorrow, July 17, 2026.",
-   "source": {
-    "l": "Red magazine",
-    "u": "https://www.redonline.co.uk/culture/tv-films/a40237746/new-tv-july-bbc-netflix-itv/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New BBC Comedy",
-     "for": "",
-     "copy": "Diane Morgan is back with a brand new comedy, 'Ann Droid', on BBC One tomorrow! Expect witty observations and an unlikely friendship.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#AnnDroid"
-     ]
-    },
-    {
-     "name": "TV Must-Watch",
-     "for": "",
-     "copy": "Fancy a laugh? The highly anticipated comedy 'Ann Droid' starring Diane Morgan premieres on BBC One Friday. Add it to your watchlist!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BBCComedy"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "stewart-copeland-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 74th to Stewart Copeland",
-   "blurb": "Stewart Copeland, legendary drummer for The Police, turns 74 today, July 16, 2026. He was born in 1952.",
-   "source": {
-    "l": "Google Search",
-    "u": "https://www.google.com/search?q=Stewart+Copeland+born"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Drumming Legend",
-     "for": "",
-     "copy": "Happy 74th Birthday to the incredible Stewart Copeland! The legendary drummer of The Police still bringing the rhythm.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#StewartCopeland"
-     ]
-    },
-    {
-     "name": "Police Beat",
-     "for": "Nation 80s",
-     "copy": "Sending birthday wishes to The Police's very own Stewart Copeland, turning 74 today! What's your favourite Police track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ThePolice"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "geezer-butler-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 77th to Geezer Butler",
-   "blurb": "Geezer Butler, the iconic bassist and lyricist for Black Sabbath, celebrates his 77th birthday tomorrow, July 17, 2026. He was born in 1949.",
-   "source": {
-    "l": "Google Search",
-    "u": "https://www.google.com/search?q=Geezer+Butler+born"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal Icon",
-     "for": "",
-     "copy": "Tomorrow, Black Sabbath's legendary bassist Geezer Butler turns 77! Wishing a very happy birthday to a true metal icon.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#GeezerButler"
-     ]
-    },
-    {
-     "name": "Sabbath Legend",
-     "for": "Nation Rocks",
-     "copy": "Happy 77th birthday to the incredible Geezer Butler! The man behind so many iconic Black Sabbath lyrics. What's your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#BlackSabbath"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "brian-may-bday",
+   "id": "brian-may-birthday",
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 79th to Brian May",
-   "blurb": "Brian May, the legendary guitarist of Queen, celebrates his 79th birthday on Saturday, July 19, 2026. He was born in 1947.",
+   "title": "Brian May's 79th Birthday",
+   "blurb": "Queen legend and iconic guitarist Brian May celebrates his 79th birthday this Sunday, July 19th.",
    "source": {
-    "l": "Google Search",
-    "u": "https://www.google.com/search?q=Brian+May+born"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Brian_May"
    },
    "fits": [
     {
@@ -621,34 +248,37 @@
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Queen Guitar God",
-     "for": "",
-     "copy": "Happy 79th Birthday to the one and only Brian May! The Queen legend celebrates on Saturday. What's your favourite guitar solo?",
+     "name": "Guitar Hero",
+     "for": "Nation Rocks",
+     "copy": "Happy 79th Birthday to the one and only Brian May! The Queen guitar wizard has given us some of rock's most unforgettable riffs. What's your favourite May solo?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
       "#BrianMay"
      ]
     },
     {
-     "name": "Rock Royalty",
-     "for": "Nation Rocks",
-     "copy": "Wishing a very happy 79th birthday to Queen's iconic guitarist, Brian May, this Saturday! Still rocking the world.",
+     "name": "Queen's Sound",
+     "for": "Nation 70s",
+     "copy": "From 'Bohemian Rhapsody' to 'We Will Rock You', Brian May's guitar is unmistakable. Celebrating his 79th birthday this Sunday!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
       "#Queen"
      ]
@@ -656,15 +286,15 @@
    ]
   },
   {
-   "id": "paul-cook-bday",
+   "id": "carlos-santana-birthday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 70th to Paul Cook",
-   "blurb": "Paul Cook, drummer for the iconic punk band Sex Pistols, turns 70 on Sunday, July 20, 2026. He was born in 1956.",
+   "title": "Carlos Santana's 79th Birthday",
+   "blurb": "Rock and Latin music fusion pioneer Carlos Santana turns 79 on Monday, July 20th.",
    "source": {
-    "l": "Google Search",
-    "u": "https://www.google.com/search?q=Paul+Cook+born"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Carlos_Santana"
    },
    "fits": [
     {
@@ -678,46 +308,44 @@
    ],
    "angles": [
     {
-     "name": "Punk Pioneer",
-     "for": "",
-     "copy": "Happy 70th Birthday to Paul Cook, the legendary drummer of the Sex Pistols, this Sunday! A true punk pioneer.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#PaulCook"
-     ]
-    },
-    {
-     "name": "Anarchy in the UK",
+     "name": "Guitar Legend",
      "for": "Nation Rocks",
-     "copy": "Wishing a loud 70th birthday to Sex Pistols drummer Paul Cook on Sunday! Still influencing generations of rock.",
+     "copy": "Happy 79th Birthday to the legendary Carlos Santana this Monday! His guitar has blessed us with countless timeless tracks and incredible live performances.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "10:00",
      "tags": [
-      "#SexPistols"
+      "#CarlosSantana"
+     ]
+    },
+    {
+     "name": "Timeless Sound",
+     "for": "Nation 70s",
+     "copy": "From Woodstock to 'Smooth', Carlos Santana's sound is truly iconic. Wishing him a very happy 79th birthday on Monday!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Santana"
      ]
     }
    ]
   },
   {
-   "id": "don-henley-bday",
+   "id": "cat-stevens-birthday",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 79th to Don Henley",
-   "blurb": "Don Henley, co-founder, drummer, and vocalist of the Eagles, celebrates his 79th birthday on Monday, July 21, 2026. He was born in 1947.",
+   "title": "Cat Stevens' 78th Birthday",
+   "blurb": "Influential British singer-songwriter Cat Stevens, also known as Yusuf Islam, will be 78 on Tuesday, July 21st.",
    "source": {
-    "l": "Google Search",
-    "u": "https://www.google.com/search?q=Don+Henley+born"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Cat_Stevens"
    },
    "fits": [
     {
@@ -730,51 +358,104 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Eagles Legend",
-     "for": "",
-     "copy": "Happy 79th Birthday to the iconic Don Henley! The voice and rhythm behind so many Eagles classics. Celebrate with his greatest hits!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#DonHenley"
-     ]
-    },
-    {
-     "name": "Hotel California Star",
-     "for": "Nation Classic Hits",
-     "copy": "Wishing a very happy 79th birthday to Don Henley of the Eagles on Monday! What's your favourite song featuring his distinctive vocals?",
+     "name": "Folk Icon",
+     "for": "Nation 70s",
+     "copy": "Happy 78th Birthday to the incredible Cat Stevens (Yusuf Islam) this Tuesday! His thoughtful lyrics and beautiful melodies continue to resonate.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "11:00",
      "tags": [
-      "#TheEagles"
+      "#CatStevens"
+     ]
+    },
+    {
+     "name": "Timeless Tunes",
+     "for": "Nation Classic Hits",
+     "copy": "From 'Wild World' to 'Father and Son', Cat Stevens has given us so many classic songs. Wishing him a very happy 78th birthday!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#YusufIslam"
      ]
     }
    ]
   },
   {
-   "id": "slash-bday",
+   "id": "don-henley-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Don Henley's 79th Birthday",
+   "blurb": "Eagles co-founder, drummer, and vocalist Don Henley celebrates his 79th birthday on Wednesday, July 22nd.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Don_Henley"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Eagles Legend",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 79th Birthday to the iconic Don Henley this Wednesday! Whether with the Eagles or solo, his voice is simply unforgettable.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#DonHenley"
+     ]
+    },
+    {
+     "name": "Classic Rock Voice",
+     "for": "Nation 70s",
+     "copy": "From 'Hotel California' to 'Boys of Summer', Don Henley's impact on rock is immense. Celebrating his 79th birthday next week!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#Eagles"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "slash-birthday",
    "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 61st to Slash",
-   "blurb": "Slash, the legendary lead guitarist of Guns N' Roses, turns 61 on Wednesday, July 23, 2026. He was born in 1965.",
+   "title": "Slash's 61st Birthday",
+   "blurb": "Guns N' Roses' iconic top-hatted guitarist Slash (Saul Hudson) turns 61 this Thursday, July 23rd.",
    "source": {
-    "l": "Google Search",
-    "u": "https://www.google.com/search?q=Slash+born"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Slash"
    },
    "fits": [
     {
@@ -784,19 +465,22 @@
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Hero",
-     "for": "",
-     "copy": "Happy 61st Birthday to the one and only Slash! The Guns N' Roses guitar legend celebrates on Wednesday. What's your favourite GNR riff?",
+     "name": "Rock God",
+     "for": "Nation Rocks",
+     "copy": "Happy 61st Birthday to the legendary Slash! The GNR guitar god has delivered some of the most recognisable riffs in rock history. What's your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
      "time": "10:00",
      "tags": [
@@ -804,15 +488,14 @@
      ]
     },
     {
-     "name": "Sweet Child O' Mine",
-     "for": "Nation Rocks",
-     "copy": "Wishing a huge 61st birthday to the iconic Slash next Wednesday! Still shredding and inspiring generations.",
+     "name": "GNR Anthems",
+     "for": "Nation 80s",
+     "copy": "From 'Sweet Child o' Mine' to 'November Rain', Slash's guitar work defined a generation. Celebrating his 61st birthday this Thursday!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
       "#GunsNRoses"
      ]
@@ -820,77 +503,35 @@
    ]
   },
   {
-   "id": "summer-holidays-begin",
-   "off": 0,
-   "type": "seasonal",
+   "id": "jennifer-lopez-birthday",
+   "off": 8,
+   "type": "birthday",
    "hot": true,
-   "title": "School Summer Holidays Start",
-   "blurb": "Many schools across the UK are breaking up for summer holidays this week, with dates varying by region but broadly falling between early and mid-July.",
+   "title": "Jennifer Lopez's 57th Birthday",
+   "blurb": "Global superstar, singer, actress, and dancer Jennifer Lopez celebrates her 57th birthday this Friday, July 24th.",
    "source": {
-    "l": "Holiday Extras",
-    "u": "https://www.holidayextras.com/uk-school-holidays.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Schools Out!",
-     "for": "",
-     "copy": "The school summer holidays are officially underway for many across the UK! Wishing everyone a fantastic break. What are your plans?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SummerHolidays"
-     ]
-    },
-    {
-     "name": "Summer Fun Begins",
-     "for": "",
-     "copy": "No more school runs for a while! Summer holidays are kicking off for schools nationwide. Bring on the sunshine and fun!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#SchoolHolidays"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "official-singles-chart",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "New UK Singles Chart Revealed",
-   "blurb": "The Official Singles Chart Top 40 is refreshed weekly, reflecting the most popular tracks in the UK right now.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Chart Toppers",
-     "for": "",
-     "copy": "What's hitting #1 on the Official Singles Chart this week? Tune in to Nation Hits to hear the biggest tracks right now!",
+     "name": "Pop Diva",
+     "for": "Nation Hits",
+     "copy": "Happy 57th Birthday to the one and only J.Lo this Friday! A true icon of music, film, and dance. What's your favourite J.Lo hit?",
      "channels": [
       "instagram",
       "facebook",
@@ -898,23 +539,133 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#OfficialCharts"
+      "#JenniferLopez"
      ]
     },
     {
-     "name": "New Music Friday",
-     "for": "",
-     "copy": "The battle for the top spot is always fierce! Who do you think deserves to be number one on the UK Singles Chart this week?",
+     "name": "Multi-talented Icon",
+     "for": "Nation 00s",
+     "copy": "From 'Jenny from the Block' to Hollywood blockbusters, Jennifer Lopez is a force of nature. Wishing her a fabulous 57th birthday on Friday!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#JLo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mick-jagger-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Mick Jagger's 83rd Birthday",
+   "blurb": "The legendary frontman of The Rolling Stones, Mick Jagger, turns 83 this Sunday, July 26th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mick_Jagger"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Icon",
+     "for": "Nation Rocks",
+     "copy": "Happy 83rd Birthday to the incomparable Mick Jagger! The Rolling Stones frontman is still rocking stages and defying expectations. What's your favourite Stones track?",
      "channels": [
       "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#MickJagger"
+     ]
+    },
+    {
+     "name": "Stones Legacy",
+     "for": "Nation 60s",
+     "copy": "83 years young! Mick Jagger, the voice and energy behind The Rolling Stones, celebrates his birthday this Sunday. A true legend of rock and roll.",
+     "channels": [
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#NewMusic"
+      "#RollingStones"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roger-taylor-queen-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Roger Taylor's 77th Birthday",
+   "blurb": "Queen's powerhouse drummer and songwriter Roger Taylor celebrates his 77th birthday this Sunday, July 26th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Roger_Taylor_(Queen_drummer)"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Drumming Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 77th Birthday to the incredible Roger Taylor! The man who laid down the beat for Queen's greatest anthems. What's your favourite Roger Taylor moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RogerTaylor"
+     ]
+    },
+    {
+     "name": "Queen's Rhythm",
+     "for": "Nation 80s",
+     "copy": "Beyond the drums, Roger Taylor also penned some fantastic Queen songs. Celebrating his 77th birthday this Sunday!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#QueenDrummer"
      ]
     }
    ]
