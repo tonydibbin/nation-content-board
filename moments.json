@@ -1,43 +1,33 @@
 {
- "updated": "2026-07-17T11:12:10.341Z",
+ "updated": "2026-07-17T12:55:54.488Z",
  "moments": [
   {
-   "id": "world-cup-final-2026",
+   "id": "fifa-world-cup-2026-final",
    "off": 2,
    "type": "sport",
    "hot": true,
-   "title": "World Cup Final Showdown!",
-   "blurb": "The FIFA World Cup 2026 culminates this Sunday with a highly anticipated final between Spain and Argentina in New York.",
+   "title": "World Cup Final: Spain vs. Argentina",
+   "blurb": "The FIFA World Cup 2026 culminates on Sunday with European champions Spain facing defending South American champions Argentina in the final in New York/New Jersey.",
    "source": {
     "l": "FIFA.com",
-    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026/articles/final-spain-argentina-date-time-stadium-preview"
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaIzldf4bOYOa0gOTsxR4TS-ehafBinUnuOGnPvkOjK-ceFTCcz1VV6yKhnCiFoVnD0hE9kmLb09Ea14sfJ8lr_lynSXVlNgAmzsHI8-1V3sqFQFFfT7AorEqkGQROmt1pz7viYH8VUAq3XGbfM1Yk2TfEhY_ciM95L3DDUjH76fLV55gQMw=="
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Match Build-up",
-     "copy": "It all comes down to this! Spain vs. Argentina for the FIFA World Cup trophy on Sunday. Who are you backing to lift the cup? #WorldCup2026",
+     "name": "Final Showdown",
+     "for": "",
+     "copy": "It all comes down to this! Spain face Argentina in the FIFA World Cup 2026 Final on Sunday. Who are you backing for glory?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "09:00",
@@ -46,139 +36,114 @@
      ]
     },
     {
-     "name": "Fan Excitement",
-     "copy": "Only two days until the biggest game in football! The World Cup final is set for Sunday – get ready for a nail-biting clash!",
+     "name": "Messi's Last Dance?",
+     "for": "",
+     "copy": "Lionel Messi's Argentina take on Spain in a heavyweight World Cup final. Could this be his last chance to lift the trophy again?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "14:00",
+     "time": "12:00",
      "tags": [
-      "#FootballFever"
+      "#Messi"
      ]
     },
     {
-     "name": "Team Focus",
-     "copy": "Spain's flair meets Argentina's grit in Sunday's World Cup final. Will Messi add another star, or will Spain claim their second title?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#SpainVsArgentina"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-summer-holidays",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Summer Holidays Begin!",
-   "blurb": "Schools across England and Wales are breaking up this week, marking the official start of the long summer holidays for many families.",
-   "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-dates-and-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Holiday Kick-off",
-     "copy": "SCHOOL'S OUT FOR SUMMER! ☀️ The long-awaited summer holidays are officially underway for many across the UK. What are your big plans?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SummerHolidays"
-     ]
-    },
-    {
-     "name": "Travel Buzz",
-     "copy": "The great summer getaway is HERE! Roads, rails, and airports are set to be busy as families head off on their adventures. Where are you off to?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#SchoolHolidays"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "official-singles-chart",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "New Official Singles Chart",
-   "blurb": "The brand new UK Official Singles Chart is out today, revealing the nation's biggest tracks and a potential new No.1.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Friday",
-     "copy": "It's Chart Friday! The Official Singles Chart has just dropped. Who's gone to No.1 this week? Tune in to find out! #OfficialCharts",
+     "name": "Closing Ceremony",
+     "for": "",
+     "copy": "Post Malone is set to headline the FIFA World Cup 2026 closing ceremony on Sunday, just before kick-off! Get ready for the party.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "15:00",
      "tags": [
-      "#OfficialCharts"
+      "#PostMalone"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "world-cup-3rd-place",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "England vs. France 3rd Place Play-off",
+   "blurb": "After semi-final defeats, England will play France in the FIFA World Cup 2026 third-place match on Saturday.",
+   "source": {
+    "l": "WFIN",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQuuwgiosyfFmSA_tEAAX5-EHDUtrC3O21D5qdCRCLCl_7MNlgLFTG5RUAz1wLeoCxh2TmFhxavuF-I7Og9QR0mMym4VFMI4JizmdpIlh6a8JuX4pzot-JlcSkt8iPMogz0MetE0mZPZkn6GjJOJUo7K2PQuPjkCs="
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bronze Medal Match",
+     "for": "",
+     "copy": "It's the battle for bronze! England face France in the World Cup 3rd place play-off this Saturday. Can the Three Lions bounce back?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#England"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-open-championship-2026",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "The Open Championship 2026 Underway",
+   "blurb": "The 154th Open Championship is being played from July 16-19, 2026, at Royal Birkdale Golf Club in Southport, Merseyside.",
+   "source": {
+    "l": "Olympics.com",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx4kaFlzfARCiOilJz6HQEXCaR8uwMdMWstzNOEEQivIsoKyM_PZCyzr-fSXXQYj41a5b29DkBZA88ArPj1ovREh1IHkHS3aQ1LkPJVYoNH0Gmhs_Np_iYQBhzDb7qnqdaRktzny9CWuPVkT6VaWU04-l5tnvtNFLGqyBLHO2fwXi7qOcF1m_U8Z76UrFI0q5UvUy-iXjURgeW563A1LADXAsd"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Golf Major",
+     "for": "",
+     "copy": "The 154th Open Championship is live from Royal Birkdale! Who are you rooting for to lift the Claret Jug this weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#TheOpen"
      ]
     },
     {
-     "name": "New Music Focus",
-     "copy": "A new week, a new chart! Is your favourite track climbing the ranks or has a fresh hit soared to the top spot? Let us know what you're listening to!",
+     "name": "Merseyside Host",
+     "for": "Nation Radio North West",
+     "copy": "Golf's biggest stars are in Southport! The Open Championship is taking place at Royal Birkdale, putting Merseyside on the global stage.",
      "channels": [
-      "x",
-      "tiktok",
-      "threads"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "18:00",
+     "time": "11:00",
      "tags": [
-      "#NewMusic"
+      "#RoyalBirkdale"
      ]
     }
    ]
@@ -188,38 +153,32 @@
    "off": 6,
    "type": "gig",
    "hot": true,
-   "title": "Latitude Festival Returns",
-   "blurb": "Latitude Festival celebrates its 20th anniversary next week, bringing music, comedy, and arts to Henham Park, Suffolk, from July 23-26.",
+   "title": "Latitude Festival returns next week",
+   "blurb": "Latitude Festival will take place from July 23-26, 2026, at Henham Park in Suffolk, celebrating its 20th anniversary with a diverse lineup.",
    "source": {
-    "l": "Latitude Festival Official",
-    "u": "https://www.latitudefestival.com/"
+    "l": "Latitude Festival Official Site",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9bOsZE3kARDr-MiSiOIYjiumgLcZ6DkfLrJYylequXAnRHsf76_oADOeW-6PRqoCskFLGVS7qPmSKycChQwxCpj_Qbvu-0NHtuteHgUH7-Kq-pKQK9q_6kmz6BpXYAOOSOuHeGTExxyoZpy7tHzs0fU5i0aOJeX__RfQ="
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Suffolk"
-    },
     {
      "g": "nation-network",
      "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
     }
    ],
    "angles": [
     {
      "name": "Festival Countdown",
-     "copy": "Only a week until Latitude Festival kicks off its 20th anniversary celebrations in Suffolk! Who's ready for four days of incredible music and arts?",
+     "for": "",
+     "copy": "The countdown is on for Latitude Festival! Henham Park is gearing up for a huge weekend of music, comedy, and arts from July 23-26.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
      "time": "10:00",
      "tags": [
@@ -227,136 +186,9 @@
      ]
     },
     {
-     "name": "Lineup Hype",
-     "copy": "David Byrne, Teddy Swims, and Lewis Capaldi are headlining Latitude 2026! Plus loads more music, comedy & theatre. Who are you excited to see?",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FestivalVibes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-island-nearing-final",
-   "off": 7,
-   "type": "tv",
-   "hot": true,
-   "title": "Love Island Finale Approaches",
-   "blurb": "The latest series of Love Island UK is entering its final stages, with the grand finale expected next week as couples battle for the prize.",
-   "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/loveisland"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Love Island Buzz",
-     "copy": "The Love Island villa drama is heating up as the final looms! Who do you think will be crowned the winning couple this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#LoveIslandUK"
-     ]
-    },
-    {
-     "name": "Finale Predictions",
-     "copy": "With the Love Island final just around the corner, which couple has stolen your heart and deserves to win? Get your votes ready!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "21:00",
-     "tags": [
-      "#LoveIsland"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "luke-bryan-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 49th, Luke Bryan!",
-   "blurb": "American country superstar Luke Bryan celebrates his 49th birthday today, July 17.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Luke_Bryan"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country Star Birthday",
-     "copy": "Wishing a very happy 49th birthday to the one and only country icon, Luke Bryan! What's your favourite Luke Bryan track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#LukeBryan"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mia-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 51st, M.I.A.!",
-   "blurb": "British rapper, singer, and activist M.I.A. turns 51 tomorrow, July 18.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/M.I.A._(rapper)"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "M.I.A. Celebration",
-     "copy": "Tomorrow, we're celebrating the incredible M.I.A. as she turns 51! Get ready to move to her iconic beats. #MIA",
+     "name": "Suffolk's Big Weekend",
+     "for": "Nation Radio Suffolk",
+     "copy": "Who's ready for Latitude? Suffolk is about to host one of the UK's best festivals, with David Byrne, Teddy Swims, and Lewis Capaldi headlining!",
      "channels": [
       "instagram",
       "facebook",
@@ -364,52 +196,82 @@
      ],
      "time": "14:00",
      "tags": [
-      "#MIA"
+      "#Suffolk"
      ]
     }
    ]
   },
   {
-   "id": "ricky-martin-birthday",
-   "off": 1,
-   "type": "birthday",
+   "id": "uk-heatwave-continues",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Happy 55th, Ricky Martin!",
-   "blurb": "The King of Latin Pop, Ricky Martin, celebrates his 55th birthday tomorrow, July 18.",
+   "title": "UK Heatwave Persists",
+   "blurb": "England and Wales continue to experience significant heatwave conditions, with temperatures exceeding 30°C and hosepipe bans in effect in several areas.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Ricky_Martin"
+    "l": "Met Office",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaaZkxG0_Au8rau2OoejDKMbYF73xXge1lEDLWMrHv60AWDyqFpha80HvodTTESuxN3nM1aIodE1RDubJHgXgnfa1Qq5R8UOk8_h8l4uwU1IHGEvt-XuRRKdGZ7QIL40lCuLrOceZCvgop0DoNqkQFalCvQy0S5OaDiBWa-XHJiOTOFzRg5uGV-BWKK_4ByGfdp2PFHS1QlEfEMqf07xo="
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "nation-network",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "g": "radio-exe",
+     "sub": "Radio Exe"
     }
    ],
    "angles": [
     {
-     "name": "Latin Pop Legend",
-     "copy": "Livin' La Vida Loca! Wishing a very happy 55th birthday to the one and only Ricky Martin tomorrow! What's your favourite hit?",
+     "name": "Stay Cool",
+     "for": "",
+     "copy": "Another hot one today! The heatwave across England and Wales is set to continue. Remember to stay hydrated and keep cool.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "07:00",
+     "tags": [
+      "#UKHeatwave"
+     ]
+    },
+    {
+     "name": "Hosepipe Bans",
+     "for": "nation-network",
+     "copy": "With the heatwave persisting, hosepipe bans are now in effect for millions across parts of England. Remember to conserve water!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WaterConservation"
+     ]
+    },
+    {
+     "name": "Devon Temperatures",
+     "for": "radio-exe",
+     "copy": "Devon is feeling the heat! Temperatures hit 33C in Yelverton recently, and the scorching weather is set to continue. Stay safe out there, Exe-ter!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#RickyMartin"
+      "#DevonHeat"
      ]
     }
    ]
@@ -419,11 +281,11 @@
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 79th, Brian May!",
-   "blurb": "Queen's legendary guitarist, Brian May, celebrates his 79th birthday this Sunday, July 19.",
+   "title": "Happy 79th Birthday Brian May",
+   "blurb": "Queen's legendary guitarist Brian May celebrates his 79th birthday on Sunday, July 19.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Brian_May"
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqs0oll9_btR-f4T98MxQRvz8lEd2UZdGPeSf4-bbPuPuIwoR7njChs5rJ7ESsMxnq5Zl4l1Pt-LX-JJEDVXJk0e4s7j4FbuDOmgdWbyRNk2gBY1BW04eXw1vLE2xpZWwiWQ=="
    },
    "fits": [
     {
@@ -432,29 +294,99 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rock Royalty",
-     "copy": "Happy 79th Birthday to the iconic Queen guitarist, Sir Brian May, this Sunday! What's your favourite May guitar solo?",
+     "name": "Rock Legend",
+     "for": "Nation Rocks",
+     "copy": "Wishing a very Happy 79th Birthday to Queen's iconic guitarist, the one and only Brian May! What's your favourite Queen riff?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#BrianMay"
+     ]
+    },
+    {
+     "name": "Queen's Sound",
+     "for": "Nation Classic Hits",
+     "copy": "The man behind some of the greatest guitar solos ever! Happy 79th Birthday to Queen legend Brian May!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Queen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fred-again-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 33rd Birthday Fred again..",
+   "blurb": "Grammy-winning DJ and producer Fred again.. celebrates his 33rd birthday on Sunday, July 19.",
+   "source": {
+    "l": "This Day In Music",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpUEJJfghhfcAY4gAlSQbMz4jZAxm1TuCNHWu__D3EInDczv28qm5MZyBvMQtgJzwCP1ZmZVhMa7OY_PoZXFrLLZuoagBvvBe7cIva8Ppk95nXzhmFCBjP0wyaVx4lnOM3dqthEoPLuceShsGtlTbV01yxahQfQ=="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Floor King",
+     "for": "Nation Dance",
+     "copy": "Big beats and happy vibes! Wishing a fantastic 33rd Birthday to the incredible Fred again..! What's your top track from him?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FredAgain"
+     ]
+    },
+    {
+     "name": "Hit Producer",
+     "for": "Nation Hits",
+     "copy": "Happy 33rd Birthday to producer extraordinaire, Fred again..! From huge collaborations to his own anthems, he keeps the hits coming.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Producer"
      ]
     }
    ]
@@ -464,11 +396,11 @@
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 79th, Carlos Santana!",
-   "blurb": "The legendary guitarist Carlos Santana, known for his fusion of rock and Latin American jazz, turns 79 on Monday, July 20.",
+   "title": "Happy 79th Birthday Carlos Santana",
+   "blurb": "Legendary guitarist Carlos Santana, known for his distinctive blend of rock, Latin, and blues, turns 79 on Monday, July 20.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Carlos_Santana"
+    "l": "94.7 WCSX",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhA2Av9lKqzCvvsYqJOrzIFsiQcLG5Iu-VlxFbjYtbHIoBstEqWn5UNRYCiEnsgVqHMDYQtVEO6VED-zHCxmB1E-9hFrF7O67PTP28GqmQts3rCR2MiPHFxBMejTepTBT738lOeSOXqXA9-98v_lFxa9c9p"
    },
    "fits": [
     {
@@ -477,25 +409,98 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Legend",
-     "copy": "Wishing a very happy 79th birthday to the incredible Carlos Santana on Monday! Which Santana track gets you grooving?",
+     "name": "Guitar Icon",
+     "for": "Nation Rocks",
+     "copy": "Happy 79th Birthday to the legendary Carlos Santana! That iconic guitar tone is unmistakable. What's your favourite Santana track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "09:00",
      "tags": [
       "#CarlosSantana"
+     ]
+    },
+    {
+     "name": "Smooth Sounds",
+     "for": "Nation Classic Hits",
+     "copy": "Celebrating the incredible Carlos Santana, who turns 79 today! His music continues to inspire generations.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Santana"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "don-henley-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 79th Birthday Don Henley",
+   "blurb": "Don Henley, co-founder, drummer, and vocalist of The Eagles, celebrates his 79th birthday on Wednesday, July 22.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhXsvd-1SrEOAobA3qPSwgsBKcm-IfTjniq9rOlRwdanwK1Pa7n5CfCeO9aksLaOGMRJIv8a5p47aT_VfCibGhu2BU5wqKWR9FMsh6zG-C_F0uFsvdkvHw3jcCD9d6pmWF2TQ="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Eagles Drummer",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 79th Birthday to the voice behind so many Eagles hits, Don Henley! What's your favourite track he sang lead on?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#DonHenley"
+     ]
+    },
+    {
+     "name": "Solo Success",
+     "for": "Nation 80s",
+     "copy": "From 'Hotel California' to 'The Boys of Summer', Happy 79th Birthday to Don Henley, a true rock icon!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#TheEagles"
      ]
     }
    ]
@@ -505,11 +510,11 @@
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 34th, Selena Gomez!",
-   "blurb": "Actress and pop superstar Selena Gomez celebrates her 34th birthday on Wednesday, July 22.",
+   "title": "Happy 34th Birthday Selena Gomez",
+   "blurb": "Singer, actress, and businesswoman Selena Gomez celebrates her 34th birthday on Wednesday, July 22.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    "l": "DigitalDreamDoor",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlU-R2rfbRX1EMxzvrjuqKP73D4VveBv6fvQ2enn5ty5fCxRPJGLWszl_S4WQfq_ERHoKX2HJ2G2LHCaS5IsNcER_mqhBiqMfIZnG6bj4okpDr2kFlVBptcpTKAlm7XJUeyYP2aiwi3U76P7STA9oPwe1u4Fc6CYI="
    },
    "fits": [
     {
@@ -523,18 +528,31 @@
    ],
    "angles": [
     {
-     "name": "Pop Star Celebration",
-     "copy": "Get ready to celebrate Selena Gomez's 34th birthday this Wednesday! What's your all-time favourite Selena hit?",
+     "name": "Pop Star",
+     "for": "Nation Hits",
+     "copy": "Happy 34th Birthday to the multi-talented Selena Gomez! From Disney star to pop sensation, she's done it all.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
       "#SelenaGomez"
+     ]
+    },
+    {
+     "name": "Actress & Singer",
+     "for": "Nation 00s",
+     "copy": "Celebrating Selena Gomez's 34th birthday today! Which of her tracks or roles is your favourite?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PopCulture"
      ]
     }
    ]
@@ -544,11 +562,11 @@
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 61st, Slash!",
-   "blurb": "Guns N' Roses' iconic lead guitarist, Slash, celebrates his 61st birthday next Thursday, July 23.",
+   "title": "Happy 61st Birthday Slash",
+   "blurb": "Guns N' Roses' iconic lead guitarist, Slash, born Saul Hudson, turns 61 on Thursday, July 23.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Slash_(musician)"
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJcq1YEhnGIkalLcrIbdWpZQtqo2bww7U7PTOw-Uk7o-y0CoUR33dbjs9_Q2tTcvEf0ZaeHMxq7cHSSnXcZxKX74MSUaImjOY4yM50m43AhJcbW5sv0j2mMC_lhqcT-ii7MU5BXz7jMFM="
    },
    "fits": [
     {
@@ -566,16 +584,81 @@
    ],
    "angles": [
     {
-     "name": "Rock Legend Birthday",
-     "copy": "Next Thursday, we're saluting the guitar hero, Slash, as he turns 61! What's your most memorable Guns N' Roses riff?",
+     "name": "Guitar Hero",
+     "for": "Nation Rocks",
+     "copy": "That top hat and those riffs! Happy 61st Birthday to the one and only Slash from Guns N' Roses!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "09:00",
      "tags": [
       "#Slash"
+     ]
+    },
+    {
+     "name": "Rock Icon",
+     "for": "Nation 80s",
+     "copy": "Wishing a very Happy Birthday to the legendary Slash! His guitar work defined a generation of rock.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#GunsNRoses"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alison-krauss-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 55th Birthday Alison Krauss",
+   "blurb": "Grammy-winning bluegrass and country singer Alison Krauss celebrates her 55th birthday on Thursday, July 23.",
+   "source": {
+    "l": "Playback.fm",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWz-FouOSLvD34Vp582u-5Oodp9-g7pebwAyM1jQe5k5xLykoMVTi-3j_tEBBRdV_MK-tgX6eYMPJXh1FXiyo-cSWv4Jj3s5gMEpPbHPKoLxN4kRlS0rJ1QFegjYyLCF9G2u0Vxa8="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bluegrass Queen",
+     "for": "Nation Easy",
+     "copy": "Happy 55th Birthday to the incredibly talented Alison Krauss! Her voice is pure magic.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#AlisonKrauss"
+     ]
+    },
+    {
+     "name": "Country Star",
+     "for": "Nation Classic Hits",
+     "copy": "Celebrating the amazing Alison Krauss on her 55th birthday! A true treasure in music.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#CountryMusic"
      ]
     }
    ]
@@ -585,11 +668,11 @@
    "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 57th, Jennifer Lopez!",
-   "blurb": "Global superstar Jennifer Lopez celebrates her 57th birthday next Friday, July 24.",
+   "title": "Happy 57th Birthday Jennifer Lopez",
+   "blurb": "Global superstar Jennifer Lopez, known as J.Lo, celebrates her 57th birthday on Friday, July 24.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmizQ1EQyY6GbPHvKsK_mf-80anyvyny5vi5AsOjOnq19MwYUfmTKtZTRiUhEvyVDu-1c0pyuM4-aswdbdGamobSwoIYUaPqL1s9JsC6mu9b8r1AnIzb_Y3aZlJunZgZuKz5NfwWZO"
    },
    "fits": [
     {
@@ -598,21 +681,22 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "J.Lo's Birthday Bash",
-     "copy": "Get ready to celebrate the incredible Jennifer Lopez's 57th birthday next Friday! What's your favourite J.Lo anthem?",
+     "name": "J.Lo's Day",
+     "for": "Nation Hits",
+     "copy": "Happy 57th Birthday to the one and only J.Lo! Still ruling the dance floor and the big screen.",
      "channels": [
       "instagram",
       "facebook",
@@ -620,9 +704,81 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#JLo"
+     ]
+    },
+    {
+     "name": "Pop Icon",
+     "for": "Nation 00s",
+     "copy": "Celebrating the incredible Jennifer Lopez on her 57th birthday! From 'Jenny from the Block' to global icon.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#JenniferLopez"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stewart-copeland-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 74th Birthday Stewart Copeland",
+   "blurb": "The Police drummer and co-founder Stewart Copeland turns 74 on Friday, July 24.",
+   "source": {
+    "l": "This Day In Music",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHWTfkQjEd2xO6iKJ9cLDn-rWo-eOMyx_spKMAYXHKBsLV2M308Z6QIoXIs0x73qWBeH10hQEgHM8g5Po_h2RfIbNmp5Xugro0N-eVc8_qYsZ3P60NRYQI9xsvY1XI04HiJey2DnbYDXAZGQ=="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rhythmic Genius",
+     "for": "Nation Rocks",
+     "copy": "Happy 74th Birthday to the rhythmic genius, Stewart Copeland of The Police! What's your favourite drum beat from him?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#StewartCopeland"
+     ]
+    },
+    {
+     "name": "The Police Legend",
+     "for": "Nation 80s",
+     "copy": "Celebrating the incredible Stewart Copeland on his 74th birthday! A founding member of The Police and a drumming icon.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#ThePolice"
      ]
     }
    ]
