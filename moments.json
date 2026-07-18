@@ -1,380 +1,983 @@
 {
- "updated": "2026-07-18T20:38:13.444Z",
+ "updated": "2026-07-18T21:39:00.208Z",
  "moments": [
   {
-   "id": "glasgowcommonwealthgames",
-   "off": 5,
+   "id": "fifa-world-cup-final",
+   "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "Glasgow Commonwealth Games",
-   "blurb": "The Commonwealth Games come to Glasgow from 23 July to 2 August 2026",
+   "title": "FIFA World Cup Final",
+   "blurb": "The 2026 FIFA World Cup concludes tomorrow with the final match in the United States, marking the end of the first 48-team tournament hosted by three nations.",
    "source": {
-    "l": "Glasgow Commonwealth Games",
-    "u": ""
+    "l": "FIFA.com",
+    "u": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/2026"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Glasgow Prepares",
+     "name": "Final Countdown",
      "for": "",
-     "copy": "The countdown is on: Glasgow welcomes the Commonwealth Games in just a few days",
+     "copy": "One more sleep! The FIFA World Cup 2026 final is tomorrow. Who are you backing to lift the trophy?",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
+      "facebook",
+      "instagram",
       "threads"
      ],
      "time": "08:00",
      "tags": [
-      "#Glasgow2026"
+      "#FIFAWorldCup2026"
      ]
     },
     {
-     "name": "Scottish Pride",
+     "name": "Tournament Recap",
      "for": "",
-     "copy": "Scotland is ready to shine on the world stage as the Commonwealth Games arrive in Glasgow",
+     "copy": "It's been a World Cup of firsts: 48 teams, three host nations, and a tournament that's flown by! What's been your highlight ahead of tomorrow's final?",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
+      "facebook",
+      "instagram",
       "threads"
      ],
      "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Athletic Action",
-     "for": "",
-     "copy": "Get ready for thrilling competition as the Commonwealth Games kick off in Glasgow",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
+     "tags": [
+      "#WorldCupFinal"
+     ]
     }
    ]
   },
   {
-   "id": "sqaresultsday",
-   "off": 17,
-   "type": "education",
+   "id": "london-athletics-meet",
+   "off": 0,
+   "type": "sport",
    "hot": true,
-   "title": "SQA Results Day",
-   "blurb": "Scottish students receive their exam results on 4 August 2026",
+   "title": "London Athletics Meet",
+   "blurb": "The London Athletics Meet, a key event in the 2026 athletics season featuring world-class track and field, is happening today at the London Stadium.",
    "source": {
-    "l": "SQA",
-    "u": ""
+    "l": "UK Sport",
+    "u": "https://www.uksport.gov.uk/events"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Live Athletics",
+     "for": "",
+     "copy": "World-class action hits London today! The London Athletics Meet is live at the Olympic Stadium. Who are you watching out for?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LondonAthletics"
+     ]
+    },
+    {
+     "name": "London Calling",
+     "for": "Nation Radio London",
+     "copy": "Right here in London, the capital is buzzing with the Athletics Meet! Get down to the London Stadium or tune in for the best of track and field.",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#LondonSport"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aquatics-next-gen",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Aquatics GB Next Gen Championships",
+   "blurb": "The Aquatics GB Next Gen Championships continue today at Ponds Forge in Sheffield, showcasing future swimming and para-swimming talent until July 22nd.",
+   "source": {
+    "l": "Aquatics GB",
+    "u": "https://www.aquaticsgb.org/events/aquatics-gb-next-gen-championships-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Future Stars",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Sheffield is hosting the Aquatics GB Next Gen Championships! Catch the UK's rising swimming and para-swimming stars in action all weekend at Ponds Forge.",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#NextGenAquatics"
+     ]
+    },
+    {
+     "name": "Poolside Action",
+     "for": "",
+     "copy": "Dive into the Aquatics GB Next Gen Championships! Seven days of intense swimming and para-swimming continue in Sheffield. Who's making a splash?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#BritishSwimming"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "commonwealth-games-glasgow",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "Glasgow 2026 Commonwealth Games Start",
+   "blurb": "The 2026 Commonwealth Games kick off in Glasgow on July 23rd, bringing over 3,000 athletes from 74 nations to Scotland for 11 days of competition.",
+   "source": {
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.org/business-events/looking-ahead-britains-sporting-highlights-2026"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Results Day Looms",
-     "for": "",
-     "copy": "The wait is almost over for Scottish students as SQA results day approaches",
+     "name": "Glasgow Ready",
+     "for": "Nation Radio Scotland",
+     "copy": "Glasgow, are you ready? The Commonwealth Games begin on Thursday! 11 days of incredible sport are about to take over the city. #Glasgow2026",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
+      "facebook",
+      "instagram",
       "threads"
      ],
-     "time": "08:00",
-     "tags": []
+     "time": "10:00",
+     "tags": [
+      "#CommonwealthGames"
+     ]
     },
     {
-     "name": "Next Steps",
+     "name": "Games Countdown",
      "for": "",
-     "copy": "What's next for Scottish students after SQA results day?",
+     "copy": "The countdown is on! The Commonwealth Games start in Glasgow this week. Who's excited to see the best of the Commonwealth compete?",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
+      "facebook",
+      "instagram",
       "threads"
      ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Results Day Advice",
-     "for": "",
-     "copy": "Expert advice for Scottish students on how to navigate SQA results day",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
+     "time": "14:00",
+     "tags": [
+      "#CommonwealthGames2026"
+     ]
     }
    ]
   },
   {
-   "id": "royalwelshshow",
+   "id": "uk-singles-chart-rein-me-in",
+   "off": 0,
+   "type": "chart",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean hold UK #1",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' remains at number one on the Official UK Singles Chart for an incredible 57th week, setting a new record for a British act.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/20260717/7501/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Record Breakers",
+     "for": "Nation Hits",
+     "copy": "57 weeks at #1! Sam Fender & Olivia Dean are still dominating the UK Singles Chart with 'Rein Me In'. A massive achievement!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Chart Reign",
+     "for": "",
+     "copy": "No stopping them! 'Rein Me In' by Sam Fender & Olivia Dean continues its historic run at UK #1. What's your favourite lyric from the track?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SamFender #OliviaDean"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-wonderwall",
+   "off": 0,
+   "type": "chart",
+   "hot": true,
+   "title": "Oasis' 'Wonderwall' back in UK Top 2",
+   "blurb": "Oasis' iconic track 'Wonderwall' has made a huge climb to number two on the Official UK Singles Chart this week, proving its enduring popularity.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/20260717/7501/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Nineties Anthem",
+     "for": "Nation 90s",
+     "copy": "It's back! Oasis' 'Wonderwall' has shot up to #2 on the Official UK Singles Chart. Proof that some songs just never fade. What a tune!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Wonderwall #Oasis"
+     ]
+    },
+    {
+     "name": "Timeless Rock",
+     "for": "Nation Rocks",
+     "copy": "From the 90s to now, 'Wonderwall' is still a force! Oasis climbing to #2 on the singles chart is incredible. What's your favourite Oasis track?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#RockAnthem"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-three-lions",
+   "off": 0,
+   "type": "chart",
+   "hot": true,
+   "title": "'Three Lions' surges up UK Chart",
+   "blurb": "Baddiel, Skinner & Lightning Seeds' 'Three Lions' has seen a massive surge on the Official UK Singles Chart, climbing to number three amid World Cup fever.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/20260717/7501/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Football's Coming Home",
+     "for": "",
+     "copy": "It's coming home! 'Three Lions' is back in the UK Top 3 on the Official Singles Chart. Can it make it all the way to #1?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ThreeLions #FootballAnthem"
+     ]
+    },
+    {
+     "name": "Chart Climber",
+     "for": "",
+     "copy": "The World Cup might be ending, but 'Three Lions' is still climbing! What a classic track to hear everywhere right now.",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Euro96"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "brian-may-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Brian May turns 79",
+   "blurb": "Legendary Queen guitarist Brian May celebrates his 79th birthday tomorrow, July 19th.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-3d92257d0792036c8411b0e9f1a0e1c3"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar God",
+     "for": "Nation Rocks",
+     "copy": "Happy 79th Birthday tomorrow to the iconic Brian May! What's your favourite Queen guitar solo?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BrianMay #Queen"
+     ]
+    },
+    {
+     "name": "Queen's Legacy",
+     "for": "Nation 70s",
+     "copy": "Tomorrow, we celebrate the birthday of Queen's legendary guitarist, Brian May, turning 79! Send him your well wishes!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#QueenBand"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "carlos-santana-birthday",
    "off": 2,
-   "type": "agriculture",
+   "type": "birthday",
    "hot": true,
-   "title": "Royal Welsh Show",
-   "blurb": "The Royal Welsh Show takes place from 20 to 23 July 2026 at Llanelwedd, Builth Wells",
+   "title": "Carlos Santana turns 79",
+   "blurb": "The legendary guitarist Carlos Santana celebrates his 79th birthday on July 20th.",
    "source": {
-    "l": "Royal Welsh Show",
-    "u": ""
+    "l": "National Day Calendar",
+    "u": "https://nationaldaycalendar.com/july-20-birthdays-and-events-july-20-2026/"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Showtime in Wales",
-     "for": "",
-     "copy": "The Royal Welsh Show is just around the corner, celebrating the best of Welsh agriculture",
+     "name": "Smooth Sounds",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 79th Birthday to the incredible Carlos Santana on Monday! What's your go-to Santana track?",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
+      "facebook",
+      "instagram",
       "threads"
      ],
-     "time": "08:00",
-     "tags": []
+     "time": "09:00",
+     "tags": [
+      "#Santana"
+     ]
     },
     {
-     "name": "Rural Delight",
-     "for": "",
-     "copy": "Get ready for a fun-filled few days at the Royal Welsh Show in Builth Wells",
+     "name": "Guitar Icon",
+     "for": "Nation Rocks",
+     "copy": "Celebrating 79 years of rock and roll magic! Carlos Santana's birthday is Monday. What an absolute legend!",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
+      "facebook",
+      "instagram",
       "threads"
      ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Welsh Farming Pride",
-     "for": "",
-     "copy": "The Royal Welsh Show showcases the best of Welsh farming and rural life",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
+     "time": "13:00",
+     "tags": [
+      "#CarlosSantana"
+     ]
     }
    ]
   },
   {
-   "id": "edinburghfestivalfringe",
-   "off": 20,
-   "type": "arts",
+   "id": "don-henley-birthday",
+   "off": 4,
+   "type": "birthday",
    "hot": true,
-   "title": "Edinburgh Festival Fringe",
-   "blurb": "The Edinburgh Festival Fringe takes place from 7 to 31 August 2026",
+   "title": "Don Henley turns 79",
+   "blurb": "Eagles co-founder and singer Don Henley celebrates his 79th birthday on July 22nd.",
    "source": {
-    "l": "Edinburgh Festival Fringe",
-    "u": ""
+    "l": "National Day Calendar",
+    "u": "https://nationaldaycalendar.com/july-22-birthdays-and-events-july-22-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Eagles Legend",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing a very Happy 79th Birthday to Don Henley of The Eagles on Wednesday! Which Eagles song is your favourite?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DonHenley #TheEagles"
+     ]
+    },
+    {
+     "name": "Hotel California Hitmaker",
+     "for": "Nation Rocks",
+     "copy": "The voice behind so many classics! Don Henley turns 79 on Wednesday. What an incredible career.",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ClassicRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "selena-gomez-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Selena Gomez turns 34",
+   "blurb": "Pop superstar Selena Gomez celebrates her 34th birthday on July 22nd.",
+   "source": {
+    "l": "National Day Calendar",
+    "u": "https://nationaldaycalendar.com/july-22-birthdays-and-events-july-22-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess",
+     "for": "Nation Hits",
+     "copy": "Happy 34th Birthday to the amazing Selena Gomez on Wednesday! What's your favourite Selena track?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#SelenaGomez"
+     ]
+    },
+    {
+     "name": "Birthday Wishes",
+     "for": "",
+     "copy": "From Disney star to global sensation, Selena Gomez celebrates her 34th birthday this Wednesday! Send your love!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#HappyBirthdaySelena"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jennifer-lopez-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jennifer Lopez turns 56",
+   "blurb": "Global icon Jennifer Lopez celebrates her 56th birthday on July 24th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/july24.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "J-Lo's Day",
+     "for": "Nation Hits",
+     "copy": "Happy 56th Birthday to the one and only Jennifer Lopez on Thursday! Get ready to celebrate with her biggest hits!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JLo #JenniferLopez"
+     ]
+    },
+    {
+     "name": "Dance Floor Queen",
+     "for": "Nation Dance",
+     "copy": "Celebrating the enduring career of Jennifer Lopez, turning 56 this Thursday! What's your favourite J-Lo banger to get you moving?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PopIcon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mick-jagger-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Mick Jagger turns 83",
+   "blurb": "The legendary frontman of The Rolling Stones, Mick Jagger, celebrates his 83rd birthday on July 26th.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-3d92257d0792036c8411b0e9f1a0e1c3"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Royalty",
+     "for": "Nation Rocks",
+     "copy": "Still got the moves! Mick Jagger turns 83 this Sunday. What's your favourite Rolling Stones track?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MickJagger #RollingStones"
+     ]
+    },
+    {
+     "name": "Ageless Icon",
+     "for": "Nation 60s",
+     "copy": "83 years young and still a rock icon! Happy Birthday on Sunday to the incredible Mick Jagger.",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Legend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roger-taylor-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Roger Taylor turns 77",
+   "blurb": "Queen drummer Roger Taylor celebrates his 77th birthday on July 26th.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-3d92257d0792036c8411b0e9f1a0e1c3"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Drumming Legend",
+     "for": "Nation Rocks",
+     "copy": "Another Queen legend celebrating this week! Roger Taylor turns 77 on Sunday. What's your favourite Queen drum beat?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RogerTaylor #Queen"
+     ]
+    },
+    {
+     "name": "Happy Birthday Roger",
+     "for": "Nation 70s",
+     "copy": "Sending birthday wishes to Queen's phenomenal drummer, Roger Taylor, who turns 77 this Sunday!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#QueenBand"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jacoby-shaddix-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jacoby Shaddix turns 50",
+   "blurb": "Papa Roach frontman Jacoby Shaddix celebrates his 50th birthday on July 28th.",
+   "source": {
+    "l": "idobi Radio",
+    "u": "https://idobi.com/features/12-alternative-musicians-celebrating-their-birthdays-in-july/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Nu-Metal Milestone",
+     "for": "Nation Rocks",
+     "copy": "Cut my life into pieces, it's Jacoby Shaddix's 50th birthday on Tuesday! Happy Birthday to the Papa Roach legend!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#JacobyShaddix #PapaRoach"
+     ]
+    },
+    {
+     "name": "50 Years of Rock",
+     "for": "Nation 00s",
+     "copy": "Can you believe Papa Roach's Jacoby Shaddix turns 50 on Tuesday? Time flies when you're making iconic rock anthems!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#RockBirthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "school-summer-holidays",
+   "off": 5,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Summer School Holidays Begin",
+   "blurb": "Summer school holidays begin for many children in England this week (July 23rd-28th), with Scotland and Wales already enjoying their break.",
+   "source": {
+    "l": "Holiday Extras",
+    "u": "https://www.holidayextras.com/travel-blog/uk-school-holiday-dates-2026.html"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fringe Countdown",
-     "for": "",
-     "copy": "The world's biggest arts festival is coming to Edinburgh in just a few weeks",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": []
+     "sub": ""
     },
-    {
-     "name": "Arts Explosion",
-     "for": "",
-     "copy": "Get ready for a month of incredible performances and events at the Edinburgh Festival Fringe",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Fringe Highlights",
-     "for": "",
-     "copy": "What to expect from this year's Edinburgh Festival Fringe",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "nationaleisteddfodofwales",
-   "off": 14,
-   "type": "culture",
-   "hot": true,
-   "title": "National Eisteddfod of Wales",
-   "blurb": "The National Eisteddfod of Wales takes place from 1 to 8 August 2026 in North Pembrokeshire",
-   "source": {
-    "l": "National Eisteddfod of Wales",
-    "u": ""
-   },
-   "fits": [
     {
      "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Eisteddfod Excitement",
-     "for": "",
-     "copy": "The National Eisteddfod of Wales is just around the corner, celebrating Welsh language and culture",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": []
+     "sub": ""
     },
     {
-     "name": "Welsh Heritage",
-     "for": "",
-     "copy": "The National Eisteddfod of Wales is a celebration of Wales' rich cultural heritage",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
+     "g": "dragon",
+     "sub": ""
     },
-    {
-     "name": "Pembrokeshire Pride",
-     "for": "",
-     "copy": "North Pembrokeshire gets ready to host the National Eisteddfod of Wales",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "sidmouthfolkfestival",
-   "off": 13,
-   "type": "music",
-   "hot": true,
-   "title": "Sidmouth Folk Festival",
-   "blurb": "The Sidmouth Folk Festival takes place from 31 July to 7 August 2026 in Devon",
-   "source": {
-    "l": "Sidmouth Folk Festival",
-    "u": ""
-   },
-   "fits": [
     {
      "g": "radio-exe",
-     "sub": "Exeter"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Folk Festival Frenzy",
+     "name": "School's Out!",
      "for": "",
-     "copy": "The Sidmouth Folk Festival is just around the corner, bringing folk music to Devon",
+     "copy": "It's official! Summer holidays are here for many across the UK this week. What are your plans for the long break?",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
+      "facebook",
+      "instagram",
       "threads"
      ],
-     "time": "08:00",
-     "tags": []
+     "time": "09:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
     },
     {
-     "name": "Devon Delight",
-     "for": "",
-     "copy": "Get ready for a week of fantastic folk music at the Sidmouth Folk Festival",
+     "name": "Welsh Summer Starts",
+     "for": "welsh-local",
+     "copy": "The summer holidays are in full swing across Wales! Wishing all our listeners a fantastic break. What adventures are you having?",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
+      "facebook",
+      "instagram",
       "threads"
      ],
      "time": "12:00",
-     "tags": []
+     "tags": [
+      "#WalesSummer"
+     ]
     },
     {
-     "name": "Folk Festival Highlights",
-     "for": "",
-     "copy": "What to expect from this year's Sidmouth Folk Festival",
+     "name": "Devon Summer Fun",
+     "for": "radio-exe",
+     "copy": "School's out for summer in Devon! Whether you're staying local or heading away, have an amazing summer holiday.",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
+      "facebook",
+      "instagram",
       "threads"
      ],
-     "time": "16:00",
-     "tags": []
+     "time": "13:00",
+     "tags": [
+      "#DevonSummer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-lineup",
+   "off": 40,
+   "type": "gig",
+   "hot": false,
+   "title": "Reading & Leeds Festival Line-up Buzz",
+   "blurb": "Reading & Leeds Festivals (August 27-30) are generating buzz with their 2026 line-up featuring headliners like Charli XCX, Dave, Florence + The Machine, and Fontaines D.C., with tickets on sale.",
+   "source": {
+    "l": "Reading Festival",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Planning",
+     "for": "Nation Hits",
+     "copy": "Already planning your August Bank Holiday? Reading & Leeds Festivals have dropped their huge line-up, with Charli XCX, Dave, Florence + The Machine heading up the stages!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Who's Going?",
+     "for": "Nation Rocks",
+     "copy": "Reading & Leeds Festivals are on the horizon! With rock giants and new talent, which acts are you most excited to see?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#FestivalSeason"
+     ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
