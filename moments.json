@@ -1,16 +1,66 @@
 {
- "updated": "2026-07-18T14:13:39.181Z",
+ "updated": "2026-07-18T15:42:18.457Z",
  "moments": [
   {
-   "id": "open-championship-2026",
+   "id": "open-championship-final-rounds",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship concludes",
-   "blurb": "The world's best golfers compete in the final rounds of the 154th Open Championship at Royal Birkdale, with the winner crowned on Sunday.",
+   "title": "The Open Championship Heats Up",
+   "blurb": "The 154th Open Championship continues its final rounds this weekend at Royal Birkdale Golf Club in Southport, Merseyside.",
    "source": {
-    "l": "Olympics.com",
-    "u": "https://olympics.com/en/news/the-open-championship-2026-schedule-scores-royal-birkdale"
+    "l": "The Open",
+    "u": "https://www.theopen.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Golf Action",
+     "for": "",
+     "copy": "It's moving day at Royal Birkdale! Who's making a charge for the Claret Jug at The Open Championship this weekend? #TheOpen",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Sunday Showdown",
+     "for": "",
+     "copy": "All eyes on Royal Birkdale for the final day of The Open Championship tomorrow. Who do you think will be lifting the Claret Jug?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#TheOpen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "london-athletics-meet",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "London Athletics Meet Today",
+   "blurb": "The Wanda Diamond League brings world-class athletics to the London Stadium today for the London Athletics Meet.",
+   "source": {
+    "l": "British Athletics",
+    "u": "https://www.britishathletics.org.uk/"
    },
    "fits": [
     {
@@ -20,111 +70,28 @@
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Moving Day",
-     "for": "",
-     "copy": "It's moving day at Royal Birkdale! Who's making a charge on the leaderboard at The Open today?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TheOpen"
-     ]
-    },
-    {
-     "name": "Final Day Anticipation",
-     "for": "",
-     "copy": "The Claret Jug is within touching distance for some. Who do you want to see lift The Open trophy tomorrow?",
+     "name": "Track & Field Thrills",
+     "for": "Nation Radio London",
+     "copy": "The London Athletics Meet is happening at London Stadium today! Who are you cheering on for gold in the Diamond League? #LondonAthletics",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "16:00",
+     "time": "13:30",
      "tags": [
-      "#RoyalBirkdale"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "splendour-festival-final-year",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Splendour Festival's final year",
-   "blurb": "Nottingham's Splendour Festival is celebrating its 18th and final year today and tomorrow at Wollaton Hall & Deer Park.",
-   "source": {
-    "l": "Splendour Festival",
-    "u": "https://www.splendourfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Final Year Sadness",
-     "for": "",
-     "copy": "Sad news for Nottingham's festival scene as Splendour wraps up its final ever edition this weekend. What's your favourite Splendour memory?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#SplendourFestival"
+      "#LondonAthletics"
      ]
     },
     {
-     "name": "Live from Splendour",
+     "name": "Best of British",
      "for": "",
-     "copy": "The last dance at Splendour Festival is happening right now in Nottingham! Who's there sending it off in style?",
+     "copy": "World-class athletes are competing in London today for the Diamond League. Expect some incredible performances!",
      "channels": [
       "instagram",
       "facebook",
@@ -134,21 +101,72 @@
      ],
      "time": "15:00",
      "tags": [
+      "#DiamondLeague"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "splendour-festival-final",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Splendour Festival's Last Dance",
+   "blurb": "Nottingham's Splendour Festival is taking place this weekend (July 18-19) at Wollaton Hall & Deer Park, marking its final ever edition after 18 years.",
+   "source": {
+    "l": "Splendour Festival",
+    "u": "https://www.splendourfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Farewell",
+     "for": "",
+     "copy": "It's the FINAL EVER Splendour Festival in Nottingham this weekend! Who's there sending it off in style? #SplendourFestival",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SplendourFestival"
+     ]
+    },
+    {
+     "name": "Nottingham's Party",
+     "for": "",
+     "copy": "Two days of music and memories as Splendour Festival closes its gates for the last time at Wollaton Hall. What's been your favourite Splendour moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
       "#Nottingham"
      ]
     }
    ]
   },
   {
-   "id": "love-island-uk-s13",
+   "id": "official-singles-chart",
    "off": 0,
-   "type": "tv",
+   "type": "culture",
    "hot": true,
-   "title": "Love Island UK continues",
-   "blurb": "The 13th series of Love Island UK continues nightly, with new islanders entering the villa and relationships constantly shifting.",
+   "title": "New UK Singles Chart Number 1",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' is the current Official UK Singles Chart Number 1, making it the longest-running British act's number one ever. Oasis's 'Wonderwall' has re-entered at Number 2.",
    "source": {
-    "l": "ITV",
-    "u": "https://www.itv.com/loveisland"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
    },
    "fits": [
     {
@@ -158,13 +176,25 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Recoupling Drama",
-     "for": "",
-     "copy": "Another day, another recoupling drama in the Love Island villa. Who are you rooting for to go the distance?",
+     "name": "Chart Topper",
+     "for": "Nation Hits",
+     "copy": "Sam Fender & Olivia Dean are still holding strong at UK Number 1 with 'Rein Me In'! An incredible achievement for the British duo.",
      "channels": [
       "instagram",
       "facebook",
@@ -172,51 +202,15 @@
       "tiktok",
       "threads"
      ],
-     "time": "19:00",
+     "time": "10:00",
      "tags": [
-      "#LoveIslandUK"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "New Bombshells",
-     "for": "",
-     "copy": "Has Love Island found its most dramatic bombshells yet this series? Catch up on all the villa antics.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ITV2"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ann-droid-diane-morgan",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Diane Morgan's 'Ann Droid'",
-   "blurb": "Diane Morgan's new comedy series 'Ann Droid', set in 2029 and featuring her as a robot companion, premiered this week on BBC One and iPlayer.",
-   "source": {
-    "l": "BBC",
-    "u": "https://www.bbc.co.uk/iplayer/episodes/m001w09y/ann-droid"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Comedy Gold",
-     "for": "",
-     "copy": "Diane Morgan as a robot? Yes please! 'Ann Droid' is the new comedy everyone's talking about on BBC iPlayer.",
+     "name": "Wonderwall's Return",
+     "for": "Nation 90s",
+     "copy": "What a comeback! Oasis's 'Wonderwall' is back in the UK Top 3 this week. Still sounds as good as it did in '95!",
      "channels": [
       "instagram",
       "facebook",
@@ -225,13 +219,60 @@
      ],
      "time": "12:00",
      "tags": [
-      "#AnnDroid"
+      "#Oasis #Wonderwall"
      ]
     },
     {
-     "name": "Must-Watch TV",
-     "for": "",
-     "copy": "New TV alert! If you loved 'Motherland', Diane Morgan's 'Ann Droid' is your next must-watch on the BBC.",
+     "name": "Football Anthems",
+     "for": "nation-network",
+     "copy": "'Three Lions' is climbing the charts again! Is it ever truly out of the Top 40 in summer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#ThreeLions"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "brian-may-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Brian May's 79th Birthday",
+   "blurb": "Queen's legendary guitarist Brian May turns 79 tomorrow, July 19th. He is known for his iconic guitar work and songwriting for the band.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Brian_May"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 79th Birthday to the one and only Brian May of Queen tomorrow! What's your favourite Queen guitar solo? #BrianMay #Queen",
      "channels": [
       "instagram",
       "facebook",
@@ -240,186 +281,56 @@
      ],
      "time": "17:00",
      "tags": [
-      "#BBCiPlayer"
+      "#BrianMay"
      ]
-    }
-   ]
-  },
-  {
-   "id": "commonwealth-games-glasgow-2026",
-   "off": 5,
-   "type": "sport",
-   "hot": true,
-   "title": "Glasgow hosts Commonwealth Games",
-   "blurb": "The 2026 Commonwealth Games open in Glasgow next week, with the opening ceremony on July 23rd and athletics starting on July 27th.",
-   "source": {
-    "l": "Glasgow 2026",
-    "u": "https://www.glasgow2026.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Games Countdown",
-     "for": "",
-     "copy": "Glasgow is gearing up to host the Commonwealth Games! The opening ceremony kicks off next Thursday, bringing the world to Scotland.",
+     "name": "Queen's Sound",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing a very happy 79th birthday to Queen's legendary guitarist Brian May tomorrow! His riffs are timeless. #Queen",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "09:00",
+     "time": "19:00",
      "tags": [
-      "#Glasgow2026"
-     ]
-    },
-    {
-     "name": "Athletics Excitement",
-     "for": "",
-     "copy": "Get ready for world-class sport! The Commonwealth Games begin in Glasgow next week, with athletics hitting the track from July 27th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#CommonwealthGames"
+      "#Queen"
      ]
     }
    ]
   },
   {
-   "id": "latitude-festival-2026",
-   "off": 5,
-   "type": "gig",
+   "id": "carlos-santana-birthday",
+   "off": 2,
+   "type": "birthday",
    "hot": true,
-   "title": "Latitude Festival returns",
-   "blurb": "Latitude Festival takes over Henham Park in Suffolk from July 23rd-26th, featuring headliners David Byrne, Teddy Swims, and Lewis Capaldi.",
+   "title": "Carlos Santana's 79th Birthday",
+   "blurb": "Iconic guitarist Carlos Santana celebrates his 79th birthday on Monday, July 20th. His career spans decades with a unique blend of rock, Latin, and blues.",
    "source": {
-    "l": "Latitude Festival",
-    "u": "https://www.latitudefestival.com/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Carlos_Santana"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Suffolk"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Festival Lineup",
-     "for": "",
-     "copy": "Who's heading to Latitude next week? David Byrne, Teddy Swims & Lewis Capaldi are set to headline in Suffolk!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LatitudeFestival"
-     ]
-    },
-    {
-     "name": "Festival Vibes",
-     "for": "",
-     "copy": "Festival vibes incoming! Latitude is back in Henham Park from Thursday. What acts are you most excited to see?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Suffolk"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "together-again-festival-2026",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Together Again Festival",
-   "blurb": "The Together Again Festival runs from July 24th-26th at Bolesworth Castle, Cheshire, promising a mix of dance, pop anthems and UK garage.",
-   "source": {
-    "l": "Together Again Festival",
-    "u": "https://togetheragainfestival.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Throwback Party",
-     "for": "",
-     "copy": "Ready for a throwback? Together Again Festival in Cheshire has your dose of dance, pop anthems & UK garage next weekend!",
+     "name": "Smooth Guitar",
+     "for": "Nation Rocks",
+     "copy": "A very happy 79th birthday to the legendary Carlos Santana on Monday! Which Santana track gets you grooving? #Santana",
      "channels": [
       "instagram",
       "facebook",
@@ -428,39 +339,42 @@
      ],
      "time": "11:00",
      "tags": [
-      "#TogetherAgain"
+      "#Santana"
      ]
     },
     {
-     "name": "Cheshire Festival",
-     "for": "",
-     "copy": "Bolesworth Castle is about to get lively! Together Again Festival brings the party next weekend. Who's in?",
+     "name": "Timeless Sound",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing Carlos Santana a fantastic 79th birthday this Monday! His guitar has graced some truly classic hits. #CarlosSantana",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "15:00",
+     "time": "15:30",
      "tags": [
-      "#CheshireEvents"
+      "#CarlosSantana"
      ]
     }
    ]
   },
   {
-   "id": "big-love-festival-wales",
-   "off": 0,
-   "type": "gig",
+   "id": "the-hundred-starts",
+   "off": 3,
+   "type": "sport",
    "hot": true,
-   "title": "Big Love Festival in South Wales",
-   "blurb": "South Wales is celebrating 10 years of Big Love, a small music festival set in the countryside this July.",
+   "title": "The Hundred Cricket Season Begins",
+   "blurb": "The Hundred, the fast-paced 100-ball cricket competition, kicks off its 2026 season on Tuesday, July 21st, with MI London facing Sunrisers Leeds at the Kia Oval.",
    "source": {
-    "l": "Big Love Festival",
-    "u": "https://biglovefestival.co.uk/"
+    "l": "The Hundred",
+    "u": "https://www.thehundred.com/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "welsh-local",
      "sub": ""
@@ -468,25 +382,29 @@
     {
      "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "10th Anniversary",
+     "name": "Cricket is Back",
      "for": "",
-     "copy": "Happy 10th Birthday to Big Love Festival in South Wales! Who's enjoying the celebrations this month?",
+     "copy": "The Hundred returns this Tuesday! Get ready for fast-paced cricket action as the season gets underway. Which team are you backing? #TheHundred",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#TheHundred"
+     ]
+    },
+    {
+     "name": "Welsh Fire",
+     "for": "welsh-local",
+     "copy": "Get ready for The Hundred! Our very own Welsh Fire are in action this week. Who's excited for some 100-ball cricket? #WelshFire",
      "channels": [
       "instagram",
       "facebook",
@@ -495,39 +413,31 @@
      ],
      "time": "13:00",
      "tags": [
-      "#BigLoveFestival"
-     ]
-    },
-    {
-     "name": "Welsh Festival Fun",
-     "for": "",
-     "copy": "Small festival, big heart! Big Love Festival is bringing the tunes to the Welsh countryside this July. Are you there?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#WalesMusic"
+      "#WelshFire"
      ]
     }
    ]
   },
   {
-   "id": "george-clinton-85th-birthday",
+   "id": "don-henley-birthday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 85th to George Clinton",
-   "blurb": "Funk legend George Clinton, leader of Parliament-Funkadelic, celebrates his 85th birthday on July 22nd.",
+   "title": "Don Henley's 79th Birthday",
+   "blurb": "Eagles co-founder and legendary drummer/vocalist Don Henley turns 79 on Wednesday, July 22nd. He's known for hits like 'Hotel California' and 'Boys of Summer'.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-benedict-cumberbatch-john-leguizamo-a11354044b7f830c24237199186419d1"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Don_Henley"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
@@ -535,79 +445,13 @@
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Funk Godfather",
-     "for": "",
-     "copy": "Get ready to funk it up! The legendary George Clinton turns 85 this Wednesday. What's your favourite P-Funk track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#GeorgeClinton"
-     ]
-    },
-    {
-     "name": "Music Icon",
-     "for": "",
-     "copy": "Happy 85th birthday to the Godfather of Funk, George Clinton! His influence is still massive.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ParliamentFunkadelic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "don-henley-79th-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 79th to Don Henley",
-   "blurb": "Eagles co-founder and drumming legend Don Henley celebrates his 79th birthday on July 22nd.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-benedict-cumberbatch-john-leguizamo-a11354044b7f830c24237199186419d1"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
      "name": "Eagles Legend",
-     "for": "",
-     "copy": "Hotel California and so much more! Happy 79th birthday to Eagles icon Don Henley this Wednesday.",
+     "for": "Nation Rocks",
+     "copy": "Wishing a very happy 79th birthday to Don Henley of The Eagles this Wednesday! What's your favourite Eagles track? #DonHenley #Eagles",
      "channels": [
       "instagram",
       "facebook",
@@ -620,67 +464,9 @@
      ]
     },
     {
-     "name": "Vocalist & Drummer",
-     "for": "",
-     "copy": "Celebrating Don Henley's 79th this week! What's your go-to Eagles track featuring his incredible vocals?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TheEagles"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "carlos-santana-79th-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 79th to Carlos Santana",
-   "blurb": "Guitar icon Carlos Santana celebrates his 79th birthday on July 20th.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-benedict-cumberbatch-john-leguizamo-a11354044b7f830c24237199186419d1"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar Legend",
-     "for": "",
-     "copy": "Smooth guitar and timeless riffs! Carlos Santana turns 79 on Monday. What's your favourite Santana classic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#CarlosSantana"
-     ]
-    },
-    {
-     "name": "Still Rocking",
-     "for": "",
-     "copy": "Happy birthday to the legendary Carlos Santana, turning 79 this Monday. Still rocking after all these years!",
+     "name": "Voice of a Generation",
+     "for": "Nation Easy",
+     "copy": "Happy 79th Birthday to the iconic voice of Don Henley this Wednesday! From The Eagles to his solo hits, his music is timeless. #ClassicHits",
      "channels": [
       "instagram",
       "facebook",
@@ -689,80 +475,93 @@
      ],
      "time": "14:00",
      "tags": [
-      "#Santana"
+      "#ClassicHits"
      ]
     }
    ]
   },
   {
-   "id": "paul-cook-70th-birthday",
-   "off": 2,
-   "type": "birthday",
+   "id": "latitude-festival",
+   "off": 5,
+   "type": "gig",
    "hot": true,
-   "title": "Happy 70th to Paul Cook",
-   "blurb": "Sex Pistols drummer Paul Cook, a punk rock icon, celebrates his 70th birthday on July 20th.",
+   "title": "Latitude Festival Kicks Off",
+   "blurb": "Latitude Festival returns to Henham Park, Suffolk from July 23-26, celebrating its 20th anniversary with headliners David Byrne, Teddy Swims, and Lewis Capaldi.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-benedict-cumberbatch-john-leguizamo-a11354044b7f830c24237199186419d1"
+    "l": "Latitude Festival",
+    "u": "https://www.latitudefestival.com/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Punk Icon",
-     "for": "",
-     "copy": "God Save The Queen! Sex Pistols drummer Paul Cook turns 70 on Monday. What's your favourite punk anthem?",
+     "name": "Suffolk Festival",
+     "for": "Nation Radio Suffolk",
+     "copy": "Latitude Festival is back in Henham Park this week! Who's heading to Suffolk for the 20th anniversary celebrations? #LatitudeFestival",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "08:30",
      "tags": [
-      "#PaulCook"
+      "#LatitudeFestival"
      ]
     },
     {
-     "name": "Influential Drummer",
-     "for": "",
-     "copy": "Happy 70th birthday to punk legend Paul Cook! Still influencing bands today.",
+     "name": "Big Names at Latitude",
+     "for": "Nation Hits",
+     "copy": "David Byrne, Teddy Swims, Lewis Capaldi and more are all heading to Latitude Festival from Thursday! Who are you most excited to see?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "15:00",
+     "time": "12:30",
      "tags": [
-      "#SexPistols"
+      "#Latitude"
      ]
     }
    ]
   },
   {
-   "id": "stone-gossard-60th-birthday",
-   "off": 2,
+   "id": "slash-birthday",
+   "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 60th to Stone Gossard",
-   "blurb": "Pearl Jam guitarist and co-founder Stone Gossard celebrates his 60th birthday on July 20th.",
+   "title": "Slash's 61st Birthday",
+   "blurb": "Guns N' Roses' iconic guitarist Slash (Saul Hudson) celebrates his 61st birthday on Thursday, July 23rd. He's a rock legend known for his distinctive top hat and incredible riffs.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-benedict-cumberbatch-john-leguizamo-a11354044b7f830c24237199186419d1"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Slash"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
@@ -771,24 +570,9 @@
    ],
    "angles": [
     {
-     "name": "Grunge Pioneer",
-     "for": "",
-     "copy": "From grunge pioneers to rock legends! Happy 60th birthday to Pearl Jam's Stone Gossard this Monday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#StoneGossard"
-     ]
-    },
-    {
-     "name": "Pearl Jam Tracks",
-     "for": "",
-     "copy": "Celebrating Stone Gossard's 60th! What's your all-time favourite Pearl Jam track?",
+     "name": "Guitar Hero",
+     "for": "Nation Rocks",
+     "copy": "Happy 61st Birthday to the one and only Slash from Guns N' Roses this Thursday! What's your favourite GNR track he shredded on? #Slash #GunsNRoses",
      "channels": [
       "instagram",
       "facebook",
@@ -797,56 +581,185 @@
      ],
      "time": "16:00",
      "tags": [
-      "#PearlJam"
+      "#Slash"
      ]
-    }
-   ]
-  },
-  {
-   "id": "david-essex-79th-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 79th to David Essex",
-   "blurb": "British singer, songwriter and actor David Essex, known for hits like \"Gonna Make You A Star\", turns 79 on July 23rd.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-benedict-cumberbatch-john-leguizamo-a11354044b7f830c24237199186419d1"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "British Icon",
-     "for": "",
-     "copy": "Gonna make you a star! Happy 79th birthday to the fantastic David Essex this Thursday.",
+     "name": "Rock Icon",
+     "for": "Nation 80s",
+     "copy": "Wishing a rockin' 61st birthday to the legendary Slash on Thursday! From 'Sweet Child o' Mine' to 'November Rain', his guitar work is unforgettable. #GunsNRoses",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "09:00",
+     "time": "18:00",
      "tags": [
-      "#DavidEssex"
+      "#GunsNRoses"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jennifer-lopez-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jennifer Lopez's 57th Birthday",
+   "blurb": "Global superstar Jennifer Lopez celebrates her 57th birthday on Friday, July 24th. The singer, actress, and dancer has had a massive influence on pop and R&B music.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "J.Lo Day",
+     "for": "Nation Hits",
+     "copy": "Happy 57th Birthday to the one and only J.Lo this Friday! What's your favourite Jennifer Lopez hit? #JenniferLopez #JLo",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#JLo"
      ]
     },
     {
-     "name": "Classic Hits",
+     "name": "Pop Icon",
+     "for": "Nation 00s",
+     "copy": "Wishing a fabulous 57th birthday to Jennifer Lopez on Friday! From 'Jenny from the Block' to 'On the Floor', her career is full of anthems. #PopIcon",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#JenniferLopez"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "together-again-festival",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Together Again Festival",
+   "blurb": "The Together Again Festival takes place from July 24-26, 2026, at Bolesworth Castle in Cheshire, promising a celebration of music, arts, and culture.",
+   "source": {
+    "l": "Together Again Festival",
+    "u": "https://www.togetheragainfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cheshire Festival",
      "for": "",
-     "copy": "Celebrating the career of David Essex, who turns 79 this week. What's your favourite song by the British icon?",
+     "copy": "Together Again Festival kicks off this Thursday at Bolesworth Castle! Get ready for a weekend of music, arts and good vibes in Cheshire. #TogetherAgainFestival",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#TogetherAgainFestival"
+     ]
+    },
+    {
+     "name": "Dance & Rewind",
+     "for": "Nation Dance",
+     "copy": "From tech house to disco and UK garage classics, Together Again Festival has got the Rewind Arena calling your name this weekend!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#DanceMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "festival-of-sport",
+   "off": 6,
+   "type": "sport",
+   "hot": true,
+   "title": "Festival of Sport Weekend",
+   "blurb": "The Festival of Sport takes place from July 24-27, 2026, at Packington Estate, offering families a chance to try various sports with legends.",
+   "source": {
+    "l": "Festival of Sport",
+    "u": "https://festivalofsport.org/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Family Sport Fun",
+     "for": "",
+     "copy": "The Festival of Sport starts this Thursday! A fantastic weekend for families to try new activities and learn from sporting legends. #FestivalOfSport",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#FestivalOfSport"
+     ]
+    },
+    {
+     "name": "Sporting Legends",
+     "for": "",
+     "copy": "Ever wanted to learn hockey from Olympians or rugby from international stars? The Festival of Sport this weekend is your chance!",
      "channels": [
       "instagram",
       "facebook",
@@ -855,41 +768,37 @@
      ],
      "time": "14:00",
      "tags": [
-      "#70sMusic"
+      "#FamilyFun"
      ]
     }
    ]
   },
   {
-   "id": "martin-gore-65th-birthday",
-   "off": 5,
-   "type": "birthday",
+   "id": "t100-triathlon-london",
+   "off": 7,
+   "type": "sport",
    "hot": true,
-   "title": "Happy 65th to Martin Gore",
-   "blurb": "Depeche Mode co-founder and primary songwriter Martin Gore celebrates his 65th birthday on July 23rd.",
+   "title": "T100 Triathlon London",
+   "blurb": "The T100 Triathlon series comes to London on July 25-26, 2026, bringing elite triathlon action to the capital.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-benedict-cumberbatch-john-leguizamo-a11354044b7f830c24237199186419d1"
+    "l": "T100 Triathlon",
+    "u": "https://t100triathlon.com/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
+     "g": "nation-network",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Depeche Mode Mastermind",
-     "for": "",
-     "copy": "Just Can't Get Enough of Depeche Mode? Happy 65th birthday to the brilliant Martin Gore this Thursday!",
+     "name": "Triathlon Challenge",
+     "for": "Nation Radio London",
+     "copy": "The T100 Triathlon is in London this weekend! Witness incredible endurance as the world's best triathletes compete. #T100Triathlon",
      "channels": [
       "instagram",
       "facebook",
@@ -898,100 +807,42 @@
      ],
      "time": "10:00",
      "tags": [
-      "#MartinGore"
+      "#LondonSport"
      ]
     },
     {
-     "name": "Synth Pop Legend",
+     "name": "Elite Athletes",
      "for": "",
-     "copy": "Celebrating Martin Gore's 65th! The man behind so many Depeche Mode classics.",
+     "copy": "Swim, bike, run! The T100 Triathlon series hits London this Saturday and Sunday. Who will conquer the course?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "15:00",
+     "time": "13:00",
      "tags": [
-      "#DepecheMode"
+      "#Triathlon"
      ]
     }
    ]
   },
   {
-   "id": "verdine-white-75th-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 75th to Verdine White",
-   "blurb": "Earth, Wind & Fire bassist Verdine White, known for his energetic stage presence, celebrates his 75th birthday on July 25th.",
-   "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-benedict-cumberbatch-john-leguizamo-a11354044b7f830c24237199186419d1"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Funk Powerhouse",
-     "for": "",
-     "copy": "Shining Star! Earth, Wind & Fire's incredible bassist Verdine White turns 75 this Saturday. What's your favourite EWF jam?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#VerdineWhite"
-     ]
-    },
-    {
-     "name": "EWF Energy",
-     "for": "",
-     "copy": "Happy 75th birthday to the one and only Verdine White! Still bringing the funk and energy.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#EarthWindAndFire"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mick-jagger-83rd-birthday",
+   "id": "mick-jagger-birthday",
    "off": 8,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 83rd to Mick Jagger",
-   "blurb": "Rolling Stones frontman and rock icon Mick Jagger celebrates his 83rd birthday on July 26th.",
+   "title": "Mick Jagger's 83rd Birthday",
+   "blurb": "The Rolling Stones' legendary frontman Mick Jagger turns 83 on Sunday, July 26th. He remains one of rock's most enduring and energetic performers.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/born/07/26"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mick_Jagger"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 60s"
@@ -1003,17 +854,13 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Rock Legend",
-     "for": "",
-     "copy": "Still got the moves like Jagger! The legendary Mick Jagger turns 83 this Sunday. What's your favourite Stones track?",
+     "name": "Rock'n'Roll Icon",
+     "for": "Nation Rocks",
+     "copy": "Happy 83rd Birthday to the one and only Mick Jagger this Sunday! Still got the moves like Jagger. What's your favourite Stones hit? #MickJagger #RollingStones",
      "channels": [
       "instagram",
       "facebook",
@@ -1021,15 +868,15 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
       "#MickJagger"
      ]
     },
     {
-     "name": "Ageless Icon",
-     "for": "",
-     "copy": "Happy 83rd birthday to the incomparable Mick Jagger! A true rock and roll survivor.",
+     "name": "Timeless Performer",
+     "for": "Nation 60s",
+     "copy": "Wishing a very happy 83rd birthday to the legendary Mick Jagger on Sunday! Decades of incredible music and performances. #RollingStones",
      "channels": [
       "instagram",
       "facebook",
@@ -1044,193 +891,15 @@
    ]
   },
   {
-   "id": "roger-taylor-77th-birthday",
-   "off": 8,
+   "id": "soulja-boy-birthday",
+   "off": 10,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 77th to Roger Taylor",
-   "blurb": "Queen drummer and songwriter Roger Taylor celebrates his 77th birthday on July 26th.",
+   "title": "Soulja Boy's 36th Birthday",
+   "blurb": "Rapper and producer Soulja Boy (DeAndre Cortez Way) celebrates his 36th birthday on Tuesday, July 28th. He rose to fame with his viral hit 'Crank That (Soulja Boy)'.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/born/07/26"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen Drummer",
-     "for": "",
-     "copy": "We Will Rock You! Happy 77th birthday to Queen's legendary drummer Roger Taylor this Sunday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#RogerTaylor"
-     ]
-    },
-    {
-     "name": "Songwriter Talent",
-     "for": "",
-     "copy": "Celebrating the powerhouse behind Queen, Roger Taylor, who turns 77 this weekend. What's your favourite Queen song he wrote or sang lead on?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#QueenBand"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "darlene-love-85th-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 85th to Darlene Love",
-   "blurb": "Legendary singer Darlene Love, known for her powerful vocals and Christmas classic \"Christmas (Baby Please Come Home)\", turns 85 on July 26th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/born/07/26"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Xmas"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Powerful Vocals",
-     "for": "",
-     "copy": "A voice that truly shines! Happy 85th birthday to the incredible Darlene Love this Sunday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#DarleneLove"
-     ]
-    },
-    {
-     "name": "Timeless Icon",
-     "for": "",
-     "copy": "Beyond the Christmas classic, Darlene Love is a true icon. Celebrating her 85th this weekend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#SoulSinger"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "taylor-momsen-33rd-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 33rd to Taylor Momsen",
-   "blurb": "The Pretty Reckless frontwoman Taylor Momsen celebrates her 33rd birthday on July 26th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/born/07/26"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Frontwoman",
-     "for": "",
-     "copy": "Make Me Wanna Die! Happy 33rd birthday to The Pretty Reckless's fierce frontwoman Taylor Momsen this Sunday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#TaylorMomsen"
-     ]
-    },
-    {
-     "name": "The Pretty Reckless",
-     "for": "",
-     "copy": "Celebrating Taylor Momsen's 33rd this weekend! What's your favourite track from The Pretty Reckless?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#ThePrettyReckless"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "stormzy-33rd-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 33rd to Stormzy",
-   "blurb": "Grime superstar Stormzy celebrates his 33rd birthday on July 26th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/born/07/26"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Soulja_Boy"
    },
    "fits": [
     {
@@ -1239,14 +908,14 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Grime King",
-     "for": "",
-     "copy": "Big Mike is 33! Happy birthday to the one and only Stormzy this Sunday. What's your favourite track from the grime king?",
+     "name": "Crank That",
+     "for": "Nation Hits",
+     "copy": "Happy 36th Birthday to Soulja Boy this Tuesday! Remember when 'Crank That' took over the world? #SouljaBoy #CrankThat",
      "channels": [
       "instagram",
       "facebook",
@@ -1254,24 +923,24 @@
       "tiktok",
       "threads"
      ],
-     "time": "14:00",
+     "time": "12:00",
      "tags": [
-      "#Stormzy"
+      "#SouljaBoy"
      ]
     },
     {
-     "name": "Music Scene Impact",
-     "for": "",
-     "copy": "Celebrating Stormzy's 33rd this weekend! Still making waves across the music scene.",
+     "name": "Viral Pioneer",
+     "for": "Nation 00s",
+     "copy": "Wishing Soulja Boy a happy 36th birthday on Tuesday! He changed the game with his early viral success. What's your favourite of his tracks? #00sHipHop",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "19:00",
+     "time": "15:00",
      "tags": [
-      "#GrimeMusic"
+      "#00sMusic"
      ]
     }
    ]
