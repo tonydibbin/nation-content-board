@@ -1,64 +1,112 @@
 {
- "updated": "2026-07-19T15:43:29.804Z",
+ "updated": "2026-07-19T16:41:10.824Z",
  "moments": [
   {
-   "id": "the-open-final",
+   "id": "the-open-final-day",
    "off": 0,
    "type": "sport",
    "hot": true,
    "title": "The Open Championship Final Day",
-   "blurb": "The final round of the 154th Open Championship is underway today at Royal Birkdale, with golf's biggest prize up for grabs.",
+   "blurb": "The 154th Open Championship concludes today at Royal Birkdale, with golfers battling for the coveted Claret Jug in the final round.",
    "source": {
-    "l": "The Open",
-    "u": "https://www.theopen.com/"
+    "l": "Olympics.com / The R&A",
+    "u": "https://olympics.com/en/news/the-open-championship-2026-schedule-results-royal-birkdale"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": "Radio Exe"
     }
    ],
    "angles": [
     {
-     "name": "Final Day Drama",
-     "copy": "It all comes down to this! The final day of The Open Championship from Royal Birkdale. Who will lift the Claret Jug?",
+     "name": "Live updates",
+     "copy": "It's the final day of The Open Championship at Royal Birkdale! Who are you backing to lift the Claret Jug? Catch all the drama as it unfolds.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "15:00",
+     "time": "11:00",
      "tags": [
       "#TheOpen"
      ]
     },
     {
-     "name": "Golfing Glory",
-     "copy": "History in the making today at Royal Birkdale. The 154th Open Champion will be crowned. Catch the drama as it unfolds!",
+     "name": "Local interest",
+     "copy": "Golf's biggest major, The Open, wraps up today at Royal Birkdale. Are you tuning in from Devon to see who triumphs?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#Golf"
+      "#TheOpen #RoyalBirkdale"
      ]
     }
    ]
   },
   {
-   "id": "love-island-peak",
+   "id": "f1-belgian-gp-final",
    "off": 0,
-   "type": "tv",
+   "type": "sport",
    "hot": true,
-   "title": "Love Island UK Heating Up",
-   "blurb": "Love Island UK is in full swing, with the drama intensifying as islanders navigate new couplings, dumpings, and bombshell arrivals. The series typically runs through July and August, making this a peak week for action.",
+   "title": "F1 Belgian Grand Prix Race Day",
+   "blurb": "The Formula 1 Belgian Grand Prix culminates today at Spa-Francorchamps, marking another thrilling race in the 2026 season.",
    "source": {
-    "l": "ITV",
-    "u": "https://www.itv.com/loveisland"
+    "l": "Formula1.com",
+    "u": "https://www.formula1.com/en/racing/2026/Belgium.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Race day excitement",
+     "copy": "Lights out and away we go! It's race day at the Belgian Grand Prix. Who's taking the win at Spa today?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#F1 #BelgianGP"
+     ]
+    },
+    {
+     "name": "Post-race reaction",
+     "copy": "What a race at Spa! Share your thoughts on all the drama from the Belgian Grand Prix. Did your driver deliver?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#F1 #BelgianGP"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "splendour-festival-final",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Splendour Festival Final Day",
+   "blurb": "Nottingham's Splendour Festival concludes today at Wollaton Hall & Deer Park, featuring five stages of diverse music.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/splendour-festival"
    },
    "fits": [
     {
@@ -68,73 +116,16 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Daily Dose of Drama",
-     "copy": "Another day, another dose of Love Island drama! Who's coupling up and who's heading home tonight? You won't want to miss it.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#LoveIslandUK"
-     ]
     },
-    {
-     "name": "Bombshell Alert",
-     "copy": "It's getting spicy in the villa! Are we due for another bombshell to shake things up on Love Island? Tune in tonight!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#LoveIsland"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chart-battle",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "UK Singles Chart Update",
-   "blurb": "The latest Official UK Singles Chart was announced on Friday, with [Artist Name] holding strong at Number 1 for another week, fending off fierce competition from [Another Artist].",
-   "source": {
-    "l": "Official Charts",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Chart Topper Reign",
-     "copy": "Still reigning supreme! [Artist Name] holds onto the UK Number 1 spot. Who did they beat to stay on top?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "New Music Vibes",
-     "copy": "Did your favourite track make it into the Top 40 this week? The Official Singles Chart is in, packed with the biggest hits!",
+     "name": "Festival vibes",
+     "copy": "Last chance for Splendour Festival vibes! Who caught the best acts at Wollaton Hall today?",
      "channels": [
       "instagram",
       "facebook",
@@ -144,21 +135,138 @@
      ],
      "time": "12:00",
      "tags": [
-      "#NewMusic"
+      "#SplendourFestival"
+     ]
+    },
+    {
+     "name": "Festival highlights",
+     "copy": "What were your Splendour Festival highlights this weekend? So many stages, so many great artists!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Splendour2026"
      ]
     }
    ]
   },
   {
-   "id": "summer-holidays",
+   "id": "brian-may-birthday",
    "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Brian May turns 79",
+   "blurb": "Queen guitarist and rock icon Brian May celebrates his 79th birthday today.",
+   "source": {
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-july-19-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar legend",
+     "copy": "Happy 79th Birthday to the legendary Queen guitarist, Brian May! What's your favourite May solo?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BrianMay #Queen"
+     ]
+    },
+    {
+     "name": "Rock royalty",
+     "copy": "Sending birthday wishes to rock royalty Brian May, celebrating 79 today! An absolute icon.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#RockLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fred-again-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Fred again.. turns 33",
+   "blurb": "Acclaimed electronic music producer and DJ, Fred again.., celebrates his 33rd birthday today.",
+   "source": {
+    "l": "Monstercat",
+    "u": "https://www.reddit.com/r/Monstercat/comments/162p404/2026_719_monstercat_releases_birthdays/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Electronic star",
+     "copy": "Happy 33rd Birthday to the incredible Fred again..! What's the track of his that always gets you moving?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FredAgain #ElectronicMusic"
+     ]
+    },
+    {
+     "name": "Producer power",
+     "copy": "The man behind some of the biggest tracks and remixes, Fred again.. is 33 today! Let's celebrate his genius.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#DJLife"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-summer-holidays",
+   "off": 1,
    "type": "seasonal",
    "hot": true,
-   "title": "School's Out for Summer!",
-   "blurb": "Many schools across the UK are now officially on summer holidays, marking the start of weeks of fun for families and kids.",
+   "title": "UK Summer School Holidays Begin",
+   "blurb": "Summer school holidays officially begin for many pupils in England and Scotland this week, joining Wales and Northern Ireland already on break.",
    "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
+    "l": "School Holidays UK",
+    "u": "https://www.schoolholidays.org.uk/2026/"
    },
    "fits": [
     {
@@ -175,13 +283,295 @@
     },
     {
      "g": "radio-exe",
-     "sub": ""
+     "sub": "Radio Exe"
     }
    ],
    "angles": [
     {
-     "name": "Holiday Mode On",
-     "copy": "It's official! School's out for summer across much of the UK. Who's already planning their great escape?",
+     "name": "Holiday kick-off",
+     "copy": "And just like that, summer holidays are here for many across the UK! What are your plans for the long break?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#SummerHolidays #SchoolOut"
+     ]
+    },
+    {
+     "name": "Local summer fun",
+     "copy": "School's out for summer! Wishing all the pupils in Wales a fantastic break. What exciting things are you getting up to?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WelshSummer #LocalFun"
+     ]
+    },
+    {
+     "name": "Devon summer plans",
+     "copy": "It's the start of summer holidays for many in Devon! Time for beaches, ice cream, and sunshine (hopefully!). What's on your summer bucket list?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#DevonSummer #SummerBreak"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "carlos-santana-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Carlos Santana turns 79",
+   "blurb": "Legendary guitarist Carlos Santana, known for his unique blend of rock, Latin, and blues, celebrates his 79th birthday tomorrow.",
+   "source": {
+    "l": "CityNews Halifax",
+    "u": "https://halifax.citynews.ca/2026/07/13/celebrity-birthdays-for-the-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar god",
+     "copy": "Tomorrow, the incredible Carlos Santana turns 79! Get ready to crank up some of his timeless tracks.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#CarlosSantana #GuitarLegend"
+     ]
+    },
+    {
+     "name": "Timeless tracks",
+     "copy": "Celebrating the enduring magic of Carlos Santana, who hits 79 tomorrow. What's your go-to Santana song?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Santana #ClassicRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kim-carnes-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Kim Carnes turns 81",
+   "blurb": "Grammy-winning singer-songwriter Kim Carnes, famous for her hit 'Bette Davis Eyes', celebrates her 81st birthday tomorrow.",
+   "source": {
+    "l": "CityNews Halifax",
+    "u": "https://halifax.citynews.ca/2026/07/13/celebrity-birthdays-for-the-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s icon",
+     "copy": "Wishing a very happy 81st birthday to the iconic voice behind 'Bette Davis Eyes', Kim Carnes, tomorrow!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#KimCarnes #80sMusic"
+     ]
+    },
+    {
+     "name": "Timeless vocals",
+     "copy": "Tomorrow we celebrate Kim Carnes' 81st birthday! Her distinctive voice remains a classic.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#BetteDavisEyes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "don-henley-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Don Henley turns 79",
+   "blurb": "Eagles co-founder, singer, songwriter, and drummer Don Henley celebrates his 79th birthday on Wednesday.",
+   "source": {
+    "l": "SFGATE",
+    "u": "https://www.sfgate.com/entertainment/article/Celebrity-birthdays-for-the-week-of-July-19-25-19569202.php"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Eagles legend",
+     "copy": "On Wednesday, the legendary Don Henley of The Eagles turns 79! Get ready for some classic rock anthems.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DonHenley #TheEagles"
+     ]
+    },
+    {
+     "name": "Voice of an era",
+     "copy": "Celebrating Don Henley's 79th birthday on Wednesday. His voice is synonymous with some of rock's greatest hits.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ClassicRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "george-clinton-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "George Clinton turns 85",
+   "blurb": "Funk music pioneer and Parliament-Funkadelic mastermind George Clinton celebrates his 85th birthday on Wednesday.",
+   "source": {
+    "l": "SFGATE",
+    "u": "https://www.sfgate.com/entertainment/article/Celebrity-birthdays-for-the-week-of-July-19-25-19569202.php"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Funkadelic fun",
+     "copy": "Get ready to get down! The undisputed King of Funk, George Clinton, turns 85 on Wednesday. What's your favourite P-Funk track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#GeorgeClinton #Funk"
+     ]
+    },
+    {
+     "name": "Music legend",
+     "copy": "Happy 85th birthday to the visionary George Clinton on Wednesday! His influence on music is immeasurable.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#PFunk #MusicIcon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "latitude-festival-begins",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Latitude Festival Begins",
+   "blurb": "The multi-award-winning Latitude Festival kicks off on Thursday at Henham Park, Suffolk, offering music, comedy, arts, and more until Sunday.",
+   "source": {
+    "l": "Latitude Festival",
+    "u": "https://www.latitudefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival gates open",
+     "copy": "Latitude Festival opens its gates on Thursday! Who's heading to Henham Park for a weekend of music and arts?",
      "channels": [
       "instagram",
       "facebook",
@@ -191,62 +581,52 @@
      ],
      "time": "09:00",
      "tags": [
-      "#SummerHolidays"
+      "#LatitudeFestival #Suffolk"
      ]
     },
     {
-     "name": "Summer Fun Begins",
-     "copy": "No more school runs for a while! The summer holidays are here. What are your plans for soaking up the sun?",
+     "name": "Suffolk's big weekend",
+     "copy": "It's almost time for Latitude Festival in Suffolk! Get ready for four days of incredible live performances and entertainment.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "14:00",
      "tags": [
-      "#SummerVibes"
+      "#Latitude2026"
      ]
     }
    ]
   },
   {
-   "id": "brian-may-bday",
-   "off": 0,
-   "type": "birthday",
+   "id": "truck-festival-begins",
+   "off": 4,
+   "type": "gig",
    "hot": true,
-   "title": "Brian May turns 79",
-   "blurb": "Queen's legendary guitarist, Brian May, celebrates his 79th birthday today.",
+   "title": "Truck Festival Begins",
+   "blurb": "The independent Truck Festival returns to Hill Farm, Oxfordshire, on Thursday for a weekend of indie, rock, and alternative music.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Brian_May"
+    "l": "July Festivals Guide",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETi0vS6PoizY22-YzO4JSBT1IeNfZ4mysXAD8ttzr8RKAZ8DFtSwT3hL6DMZ4HVQewaL8URB_SxkVbEWKiZhgVwWFMf6ns_gomiiEuoegFIVhL6rUIV_511KI_FpmRlrgNOS97"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Legend",
-     "copy": "Happy 79th Birthday to the iconic Queen guitarist, Brian May! His riffs have rocked generations. What's your favourite Queen track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#BrianMay"
-     ]
-    },
-    {
-     "name": "Queen's Maestro",
-     "copy": "Sending birthday wishes to the one and only Brian May! 79 years young and still a rock 'n' roll legend. Play us out, Brian!",
+     "name": "Indie festival kick-off",
+     "copy": "Truck Festival is back! The 'UK's best small festival' opens its doors on Thursday. Who's got their tickets for Hill Farm?",
      "channels": [
       "instagram",
       "facebook",
@@ -254,228 +634,35 @@
       "tiktok",
       "threads"
      ],
-     "time": "13:00",
-     "tags": [
-      "#Queen"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "carlos-santana-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Carlos Santana turns 79",
-   "blurb": "The legendary Mexican-American guitarist Carlos Santana celebrates his 79th birthday tomorrow, July 20th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Carlos_Santana"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Smooth Guitar",
-     "copy": "Happy 79th Birthday tomorrow to the incredible Carlos Santana! His guitar work is instantly recognisable. Which Santana track is your go-to?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Santana"
-     ]
-    },
-    {
-     "name": "Rock & Latin Fusion",
-     "copy": "Celebrating Carlos Santana's 79th birthday tomorrow! A true pioneer of rock and Latin fusion. Get ready to feel the rhythm!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
      "time": "10:00",
      "tags": [
-      "#CarlosSantana"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "don-henley-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Don Henley turns 79",
-   "blurb": "Eagles co-founder and drummer, Don Henley, will be 79 years old on July 21st.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Don_Henley"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Eagles Drummer's Day",
-     "copy": "Wishing a very Happy 79th Birthday to Don Henley of The Eagles on July 21st! An absolute rock legend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#DonHenley"
+      "#TruckFestival #IndieMusic"
      ]
     },
     {
-     "name": "Voice of a Generation",
-     "copy": "From 'Hotel California' to his solo hits, Don Henley's voice is iconic. Happy 79th for Tuesday!",
+     "name": "Oxfordshire's big weekend",
+     "copy": "Get ready, Oxfordshire! Truck Festival starts Thursday, bringing a fantastic lineup of indie and rock to Hill Farm.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#TheEagles"
+      "#TruckFest2026"
      ]
     }
    ]
   },
   {
-   "id": "david-essex-bday",
+   "id": "slash-birthday",
    "off": 4,
    "type": "birthday",
-   "hot": false,
-   "title": "David Essex turns 79",
-   "blurb": "British singer and actor David Essex celebrates his 79th birthday on July 23rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/David_Essex"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock On Legend",
-     "copy": "Happy 79th Birthday to the 'Rock On' legend, David Essex, this Thursday! What's your favourite track from him?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#DavidEssex"
-     ]
-    },
-    {
-     "name": "British Icon",
-     "copy": "Wishing a fantastic 79th to British singing and acting icon, David Essex, on July 23rd!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#70sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "alison-krauss-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Alison Krauss turns 55",
-   "blurb": "American bluegrass-country singer and fiddler Alison Krauss will celebrate her 55th birthday on July 23rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Alison_Krauss"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bluegrass Queen",
-     "copy": "Happy 55th Birthday to the incredible Alison Krauss on July 23rd! Her voice is pure magic. ✨",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#AlisonKrauss"
-     ]
-    },
-    {
-     "name": "Grammy Winner",
-     "copy": "Wishing a wonderful 55th birthday to the multi-Grammy-winning Alison Krauss this Thursday! What's your favourite song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#CountryMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "slash-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
+   "hot": true,
    "title": "Slash turns 61",
-   "blurb": "Guns N' Roses' iconic lead guitarist, Slash, celebrates his 61st birthday on July 23rd.",
+   "blurb": "Guns N' Roses and Velvet Revolver guitar icon Slash celebrates his 61st birthday on Thursday.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Slash"
+    "l": "SFGATE",
+    "u": "https://www.sfgate.com/entertainment/article/Celebrity-birthdays-for-the-week-of-July-19-25-19569202.php"
    },
    "fits": [
     {
@@ -493,165 +680,98 @@
    ],
    "angles": [
     {
-     "name": "Guitar Hero",
-     "copy": "Happy 61st Birthday to the top-hatted guitar hero, Slash, this Thursday! Those riffs are legendary.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Slash"
-     ]
-    },
-    {
-     "name": "Guns N' Roses Legend",
-     "copy": "Wishing a rockin' 61st to Guns N' Roses' very own Slash for July 23rd! What's your favourite GNR track?",
+     "name": "Guitar hero",
+     "copy": "Happy 61st Birthday to the one and only Slash on Thursday! That top hat and those riffs are legendary.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Slash #GunsNRoses"
+     ]
+    },
+    {
+     "name": "Rock legend",
+     "copy": "Thursday marks the 61st birthday of guitar legend Slash! What's your favourite GNR track featuring his iconic solos?",
+     "channels": [
+      "facebook",
+      "x"
      ],
      "time": "17:00",
      "tags": [
-      "#GunsNRoses"
+      "#RockGod"
      ]
     }
    ]
   },
   {
-   "id": "jennifer-lopez-bday",
+   "id": "f1-hungarian-gp-practice",
    "off": 5,
+   "type": "sport",
+   "hot": false,
+   "title": "F1 Hungarian Grand Prix Practice",
+   "blurb": "Practice sessions for the Formula 1 Hungarian Grand Prix kick off on Friday at the Hungaroring in Budapest, leading up to Sunday's race.",
+   "source": {
+    "l": "Formula1.com",
+    "u": "https://www.formula1.com/en/racing/2026/Hungary.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "F1 weekend starts",
+     "copy": "The F1 action continues this weekend in Hungary! Practice sessions begin on Friday at the Hungaroring. Who are you tipping for pole?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#F1 #HungarianGP"
+     ]
+    },
+    {
+     "name": "Track analysis",
+     "copy": "First look at the Hungaroring on Friday as practice for the Hungarian Grand Prix gets underway. What are the key talking points from FP1 and FP2?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Formula1"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "verdine-white-birthday",
+   "off": 6,
    "type": "birthday",
    "hot": false,
-   "title": "Jennifer Lopez turns 57",
-   "blurb": "Global superstar Jennifer Lopez celebrates her 57th birthday on July 24th.",
+   "title": "Verdine White turns 75",
+   "blurb": "Earth, Wind & Fire bassist Verdine White celebrates his 75th birthday on Saturday, a founding member of the legendary funk band.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    "l": "SFGATE",
+    "u": "https://www.sfgate.com/entertainment/article/Celebrity-birthdays-for-the-week-of-July-19-25-19569202.php"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "J.Lo's Birthday Bash",
-     "copy": "Happy 57th Birthday to the one and only J.Lo on Friday! Still lighting up stages and screens worldwide.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#JenniferLopez"
-     ]
-    },
-    {
-     "name": "Pop Icon",
-     "copy": "Celebrating the incredible Jennifer Lopez's 57th birthday this Friday! What's your favourite J.Lo hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#JLo"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mick-jagger-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": false,
-   "title": "Mick Jagger turns 83",
-   "blurb": "The Rolling Stones' legendary frontman, Mick Jagger, will celebrate his 83rd birthday on July 26th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mick_Jagger"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock 'n' Roll Royalty",
-     "copy": "Happy 83rd Birthday to Sir Mick Jagger on Sunday! The ultimate rock 'n' roll frontman. What's your favourite Stones track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MickJagger"
-     ]
-    },
-    {
-     "name": "Still Got The Moves",
-     "copy": "83 years young and still moving like Jagger! Wishing an incredible birthday to Mick Jagger this Sunday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RollingStones"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kate-bush-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": false,
-   "title": "Kate Bush turns 68",
-   "blurb": "Iconic British singer-songwriter Kate Bush will celebrate her 68th birthday on July 26th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Kate_Bush"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
@@ -660,396 +780,29 @@
    ],
    "angles": [
     {
-     "name": "Wuthering Heights Star",
-     "copy": "Happy 68th Birthday to the enigmatic and brilliant Kate Bush this Sunday! Which of her songs is your favourite?",
+     "name": "Funk legend",
+     "copy": "On Saturday, the incredible Verdine White of Earth, Wind & Fire turns 75! His basslines are pure magic.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#KateBush"
+      "#VerdineWhite #EarthWindAndFire"
      ]
     },
     {
-     "name": "Musical Visionary",
-     "copy": "Wishing a magical 68th birthday to the incredible Kate Bush on July 26th! A true musical visionary.",
+     "name": "Music icon",
+     "copy": "Happy 75th birthday to funk icon Verdine White on Saturday! Get ready to groove to some Earth, Wind & Fire this weekend.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#RunningUpThatHill"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "maureen-mcgovern-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": false,
-   "title": "Maureen McGovern turns 77",
-   "blurb": "American singer and Broadway actress Maureen McGovern, known for 'The Morning After', celebrates her 77th birthday on July 27th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Maureen_McGovern"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Morning After Star",
-     "copy": "Happy 77th Birthday to the lovely Maureen McGovern on July 27th! Her voice is timeless.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MaureenMcGovern"
-     ]
-    },
-    {
-     "name": "Broadway & Film Voice",
-     "copy": "Wishing a wonderful 77th birthday to Maureen McGovern this Monday, the voice behind classic film themes and Broadway hits!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#EasyListening"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "geddy-lee-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": false,
-   "title": "Geddy Lee turns 73",
-   "blurb": "Rush frontman and bassist, Geddy Lee, will celebrate his 73rd birthday on July 27th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Geddy_Lee"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rush Legend's Day",
-     "copy": "Happy 73rd Birthday to the incredible Geddy Lee of Rush on July 27th! His basslines are legendary.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#GeddyLee"
-     ]
-    },
-    {
-     "name": "Prog Rock Icon",
-     "copy": "Wishing a rockin' 73rd to Rush's iconic frontman, Geddy Lee, this Monday! What's your favourite Rush track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Rush"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cher-lloyd-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": false,
-   "title": "Cher Lloyd turns 33",
-   "blurb": "British singer Cher Lloyd, who rose to fame on The X Factor, celebrates her 33rd birthday on July 28th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Cher_Lloyd"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "X Factor Star",
-     "copy": "Happy 33rd Birthday to Cher Lloyd on Tuesday! From X Factor to chart success, she's had quite the journey.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#CherLloyd"
-     ]
-    },
-    {
-     "name": "Swagger Jagger",
-     "copy": "Wishing a fantastic 33rd to Cher Lloyd for July 28th! Get ready to 'Swagger Jagger' in celebration!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "martina-mcbride-bday",
-   "off": 10,
-   "type": "birthday",
-   "hot": false,
-   "title": "Martina McBride turns 60",
-   "blurb": "Grammy-nominated American country music singer Martina McBride celebrates her 60th birthday on July 29th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Martina_McBride"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country Queen",
-     "copy": "Happy 60th Birthday to the incredible Martina McBride on July 29th! A true voice of country music.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#MartinaMcBride"
-     ]
-    },
-    {
-     "name": "Timeless Voice",
-     "copy": "Wishing a wonderful 60th to Martina McBride this Wednesday! Her powerful voice has graced the charts for decades.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#CountryMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "neal-doughty-bday",
-   "off": 10,
-   "type": "birthday",
-   "hot": false,
-   "title": "Neal Doughty turns 80",
-   "blurb": "Neal Doughty, founding member and keyboardist of REO Speedwagon, celebrates his 80th birthday on July 29th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Neal_Doughty"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "REO Speedwagon Keyboardist",
-     "copy": "Happy 80th Birthday to REO Speedwagon's Neal Doughty on July 29th! Still 'Ridin' the Storm Out' at 80!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#NealDoughty"
-     ]
-    },
-    {
-     "name": "Rock & Roll Milestone",
-     "copy": "Wishing a huge 80th birthday to Neal Doughty this Wednesday! A founding member of a legendary rock band.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#REOSpeedwagon"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "welsh-summer-escapes",
-   "off": 0,
-   "type": "seasonal",
-   "hot": false,
-   "title": "Summer Escapes in Wales",
-   "blurb": "With summer holidays officially here, Wales is gearing up for a busy period with tourists flocking to its stunning beaches and scenic attractions.",
-   "source": {
-    "l": "Visit Wales",
-    "u": "https://www.visitwales.com/things-to-do/beaches-coast/top-beaches"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Best of Welsh Summer",
-     "copy": "Sun's out, schools are out! Where are you heading for your Welsh summer escape? Tag your favourite spot!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WalesSummer"
-     ]
-    },
-    {
-     "name": "Explore Local Gems",
-     "copy": "From hidden coves to mountain hikes, Wales has it all this summer. What local gems are you planning to explore?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#VisitWales"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "devon-summer-adventures",
-   "off": 0,
-   "type": "seasonal",
-   "hot": false,
-   "title": "Devon Summer Adventures",
-   "blurb": "Devon is buzzing with activity as summer holidays begin, offering a wide array of attractions from coastal walks to local festivals.",
-   "source": {
-    "l": "Visit Devon",
-    "u": "https://www.visitdevon.co.uk/things-to-do"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Devon's Delights",
-     "copy": "Summer is officially here in Devon! What's your go-to spot for a sunny day out in Exeter or beyond?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DevonSummer"
-     ]
-    },
-    {
-     "name": "Local Summer Fun",
-     "copy": "Schools are out, sun is shining! Get out and enjoy everything Devon has to offer this summer. Share your adventures!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RadioExe"
+      "#FunkMusic"
      ]
     }
    ]
