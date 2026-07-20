@@ -1,27 +1,46 @@
 {
- "updated": "2026-07-19T23:43:52.066Z",
+ "updated": "2026-07-20T01:20:18.420Z",
  "moments": [
   {
-   "id": "the-open-2026-final",
+   "id": "open-championship-conclusion",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "The Open Championship Final Day",
-   "blurb": "The 154th Open Championship at Royal Portrush concludes today, with the final rounds determining who lifts the Claret Jug.",
+   "title": "The Open Championship Concludes",
+   "blurb": "The 154th Open Championship at Royal Birkdale concluded yesterday, July 19th, with New Zealander Ryan Fox lifting the Claret Jug.",
    "source": {
-    "l": "The Open",
-    "u": "https://www.theopen.com/"
+    "l": "Olympics.com",
+    "u": "https://olympics.com/en/news/the-open-championship-2026-schedule-scores-royal-birkdale"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Final Day Drama",
-     "copy": "It all comes down to this! The final day of The Open Championship from Royal Portrush is underway. Who are you backing to make history and claim the Claret Jug?",
+     "name": "Winner Shoutout",
+     "for": "",
+     "copy": "What a weekend of golf! Huge congrats to Ryan Fox on winning The 154th Open Championship at Royal Birkdale yesterday. The Claret Jug is heading to New Zealand!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#TheOpen"
+     ]
+    },
+    {
+     "name": "Post-event chat",
+     "for": "",
+     "copy": "The dust is settling on a thrilling Open Championship. Who was your standout player from Royal Birkdale this year?",
      "channels": [
       "instagram",
       "facebook",
@@ -29,39 +48,77 @@
      ],
      "time": "12:00",
      "tags": [
-      "#TheOpen"
+      "#RoyalBirkdale"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glasgow-commonwealth-games-2026",
+   "off": 3,
+   "type": "sport",
+   "hot": true,
+   "title": "Commonwealth Games Start in Glasgow",
+   "blurb": "The Glasgow 2026 Commonwealth Games kick off on Thursday, July 23rd, bringing over 3,000 athletes from 74 nations to Scotland for 11 days of competition.",
+   "source": {
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.org/looking-ahead-britains-sporting-highlights-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Anticipation",
+     "for": "",
+     "copy": "Ready for some world-class sport? The Commonwealth Games begin in Glasgow this Thursday! Who are you cheering on?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#CommonwealthGames"
      ]
     },
     {
-     "name": "Golf Glory",
-     "copy": "After a week of incredible golf, The Open Championship reaches its thrilling conclusion today. Every shot counts as the world's best battle for glory.",
+     "name": "Local Excitement",
+     "for": "Nation Radio Scotland",
+     "copy": "Glasgow is about to host the Commonwealth Games! Get ready for 11 days of incredible athletic feats, starting July 23rd.",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#RoyalPortrush"
+      "#Glasgow2026"
      ]
     }
    ]
   },
   {
    "id": "latitude-festival-2026",
-   "off": 0,
+   "off": 3,
    "type": "gig",
    "hot": true,
-   "title": "Latitude Festival Wraps Up",
-   "blurb": "Latitude Festival 2026, featuring headliners like David Byrne, Teddy Swims, and Lewis Capaldi, is in full swing at Henham Park, Suffolk, concluding tomorrow, July 20th.",
+   "title": "Latitude Festival Kicks Off",
+   "blurb": "Latitude Festival takes over Henham Park in Suffolk from July 23rd-26th, featuring headliners David Byrne, Teddy Swims, and Lewis Capaldi.",
    "source": {
-    "l": "Latitude Festival",
+    "l": "Latitude Festival Official",
     "u": "https://www.latitudefestival.com/"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
     {
      "g": "nation-network",
      "sub": "Nation Radio Suffolk"
@@ -77,114 +134,79 @@
    ],
    "angles": [
     {
-     "name": "Latitude Live",
-     "copy": "The fields of Henham Park are buzzing! Latitude Festival is delivering an incredible weekend of music, comedy and arts. Who have you caught so far?",
+     "name": "Festival Countdown",
+     "for": "",
+     "copy": "Latitude Festival is almost here! Henham Park, Suffolk is about to come alive with David Byrne, Teddy Swims, Lewis Capaldi and more from Thursday.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "13:00",
+     "time": "10:00",
      "tags": [
       "#LatitudeFestival"
      ]
     },
     {
-     "name": "Festival Vibes",
-     "copy": "Latitude Festival is wrapping up its 20th edition this weekend. From David Byrne to Lewis Capaldi, it's been a celebration of music and culture.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#FestivalSeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "brian-may-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Brian May turns 79",
-   "blurb": "Queen's legendary guitarist, songwriter, and astrophysicist Sir Brian May celebrates his 79th birthday today, July 19th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Brian_May"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend Birthday",
-     "copy": "Happy 79th Birthday to the one and only Sir Brian May! Guitar icon, astrophysicist, and rock legend. What's your favourite Queen riff?",
+     "name": "Who's Going?",
+     "for": "",
+     "copy": "Who's heading to Latitude this weekend? Get ready for four days of music, comedy, and arts in the Suffolk sunshine!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "16:00",
      "tags": [
-      "#BrianMay"
-     ]
-    },
-    {
-     "name": "Queen's Guitar God",
-     "copy": "Celebrating the incredible Brian May today as he turns 79! The man behind so many iconic Queen anthems. Send him your best!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Queen"
+      "#Suffolk"
      ]
     }
    ]
   },
   {
-   "id": "carlos-santana-birthday",
-   "off": 1,
-   "type": "birthday",
+   "id": "love-island-2026-final",
+   "off": 7,
+   "type": "tv",
    "hot": true,
-   "title": "Carlos Santana turns 79",
-   "blurb": "Mexican-American guitar virtuoso Carlos Santana, known for pioneering Latin-infused rock, celebrates his 79th birthday tomorrow, July 20th.",
+   "title": "Love Island 2026 Final Week",
+   "blurb": "The Love Island 2026 final is set to air on Monday, July 27th, bringing another season of villa drama to a close.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Carlos_Santana"
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/tv/reality-tv/love-island-final-date-2026-newsupdate/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": ""
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Icon Birthday",
-     "copy": "Wishing a very Happy 79th Birthday to the legendary Carlos Santana tomorrow! The man whose guitar makes magic. What's your favourite Santana track?",
+     "name": "Final Prediction",
+     "for": "",
+     "copy": "It's the final week of Love Island! Who do you think will be crowned the winners on Monday 27th July?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    },
+    {
+     "name": "Wrap-up Excitement",
+     "for": "",
+     "copy": "The Love Island final is just days away! Get your popcorn ready for Monday 27th as we find out who wins the £50k.",
      "channels": [
       "instagram",
       "facebook",
@@ -192,83 +214,67 @@
      ],
      "time": "18:00",
      "tags": [
-      "#CarlosSantana"
-     ]
-    },
-    {
-     "name": "Santana's Sound",
-     "copy": "Tomorrow, the incredible Carlos Santana celebrates his 79th birthday. His unique blend of rock, Latin, and jazz has influenced generations.",
-     "channels": [
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#GuitarLegend"
+      "#LoveIslandFinal"
      ]
     }
    ]
   },
   {
-   "id": "royal-welsh-show-2026",
-   "off": 1,
+   "id": "uk-summer-school-holidays",
+   "off": 0,
    "type": "seasonal",
    "hot": true,
-   "title": "Royal Welsh Show Opens",
-   "blurb": "The Royal Welsh Show, a pinnacle event in the British agricultural calendar, opens tomorrow, July 20th, running until July 23rd at the showground in Llanelwedd.",
+   "title": "Summer School Holidays Begin",
+   "blurb": "School summer holidays are officially underway across much of the UK, with many families now enjoying their break.",
    "source": {
-    "l": "Royal Welsh Show",
-    "u": "https://www.rwas.wales/royal-welsh-show/"
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/school-term-dates-and-holidays"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
+     "g": "nation-network",
+     "sub": ""
     },
     {
      "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
+     "sub": ""
     },
     {
      "g": "dragon",
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Welsh Show Excitement",
+     "name": "Happy Holidays",
+     "for": "",
+     "copy": "Happy Summer Holidays! Schools are out across the UK. What are your plans for the long break?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "07:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Local Plans",
      "for": "welsh-local",
-     "copy": "It's almost time! The Royal Welsh Show kicks off tomorrow, bringing four days of agriculture, entertainment, and Welsh culture to Llanelwedd. Who's heading there?",
+     "copy": "The school summer holidays have begun in Wales! Whether you're staying local or heading off, enjoy the break!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
-     "tags": [
-      "#RoyalWelshShow"
-     ]
-    },
-    {
-     "name": "Highlight of the Calendar",
-     "for": "dragon",
-     "copy": "The biggest event in the Welsh agricultural calendar, the Royal Welsh Show, opens its gates tomorrow! Get ready for livestock, crafts, food, and fun.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
+     "time": "09:00",
      "tags": [
       "#Wales"
      ]
@@ -276,20 +282,129 @@
    ]
   },
   {
-   "id": "cat-stevens-birthday",
-   "off": 2,
+   "id": "uk-weather-heat-drought",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Weather: Warm Spells & Drought Concerns",
+   "blurb": "Parts of the UK are experiencing warmer than average temperatures and ongoing dry conditions, with drought measures in place in some areas of England.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/government/publications/dry-weather-and-drought-in-england-situation-report"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Weather Update",
+     "for": "",
+     "copy": "It's a mixed bag of summer weather across the UK this week – warm in the south, but with a chance of showers. Don't forget to stay hydrated!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#UKWeather"
+     ]
+    },
+    {
+     "name": "Water Conservation",
+     "for": "nation-network",
+     "copy": "Drought conditions continue in parts of England. Remember to use water wisely and look out for local updates.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#WaterWisely"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "carlos-santana-birthday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Cat Stevens (Yusuf Islam) turns 78",
-   "blurb": "British singer-songwriter Cat Stevens, also known as Yusuf Islam, famous for hits like 'Wild World' and 'Father and Son', celebrates his 78th birthday on Tuesday, July 21st.",
+   "title": "Happy Birthday Carlos Santana",
+   "blurb": "Legendary guitarist Carlos Santana turns 79 today.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Cat_Stevens"
+    "l": "CityNews Halifax",
+    "u": "https://halifax.citynews.ca/national-news/celebrity-birthdays-for-the-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo-9133405"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Wish",
+     "for": "",
+     "copy": "Happy 79th Birthday to the one and only Carlos Santana! What's your favourite Santana track to get lost in?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CarlosSantana"
+     ]
+    },
+    {
+     "name": "Musical Icon",
+     "for": "",
+     "copy": "Turning 79 today, the iconic Carlos Santana! Still making magic on the guitar. Celebrate with a classic from the legend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#GuitarLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kim-carnes-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Kim Carnes",
+   "blurb": "Singer Kim Carnes, known for her hit 'Bette Davis Eyes', celebrates her 81st birthday today.",
+   "source": {
+    "l": "CityNews Halifax",
+    "u": "https://halifax.citynews.ca/national-news/celebrity-birthdays-for-the-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo-9133405"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
@@ -302,42 +417,45 @@
    ],
    "angles": [
     {
-     "name": "Folk Icon Birthday",
-     "copy": "Sending Happy 78th Birthday wishes to the iconic Cat Stevens (Yusuf Islam) for Tuesday! His timeless songs continue to resonate. What's your top pick?",
+     "name": "Birthday Wish",
+     "for": "",
+     "copy": "Wishing a very Happy 81st Birthday to Kim Carnes! Still got 'Bette Davis Eyes' stuck in your head?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#CatStevens"
+      "#KimCarnes"
      ]
     },
     {
-     "name": "Timeless Tunes",
-     "copy": "On Tuesday, we celebrate the 78th birthday of Cat Stevens, a true master of songwriting. His music is pure poetry.",
+     "name": "80s Icon",
+     "for": "",
+     "copy": "Kim Carnes is 81 today! The voice behind one of the biggest 80s hits. What a legend!",
      "channels": [
-      "x",
-      "threads"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#YusufIslam"
+      "#BetteDavisEyes"
      ]
     }
    ]
   },
   {
-   "id": "don-henley-birthday",
-   "off": 3,
+   "id": "paul-cook-birthday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Don Henley turns 79",
-   "blurb": "Don Henley, drummer and co-lead vocalist for the Eagles and a successful solo artist, will celebrate his 79th birthday on Wednesday, July 22nd.",
+   "title": "Happy Birthday Paul Cook",
+   "blurb": "Sex Pistols drummer Paul Cook celebrates his 70th birthday today.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Don_Henley"
+    "l": "CityNews Halifax",
+    "u": "https://halifax.citynews.ca/national-news/celebrity-birthdays-for-the-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo-9133405"
    },
    "fits": [
     {
@@ -347,16 +465,229 @@
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Eagles Legend Birthday",
-     "copy": "On Wednesday, we're celebrating the 79th birthday of the legendary Don Henley! From the Eagles to his solo career, his voice is unmistakable.",
+     "name": "Punk Legend",
+     "for": "",
+     "copy": "Happy 70th Birthday to punk icon Paul Cook of the Sex Pistols! Still sounds as fresh as ever.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#PaulCook"
+     ]
+    },
+    {
+     "name": "70s Rock",
+     "for": "",
+     "copy": "Raise a glass to Paul Cook from the Sex Pistols, turning 70 today! What's your favourite punk anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#SexPistols"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stone-gossard-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Stone Gossard",
+   "blurb": "Pearl Jam guitarist Stone Gossard turns 60 today.",
+   "source": {
+    "l": "CityNews Halifax",
+    "u": "https://halifax.citynews.ca/national-news/celebrity-birthdays-for-the-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo-9133405"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Grunge Icon",
+     "for": "",
+     "copy": "Happy 60th Birthday to Pearl Jam's amazing guitarist, Stone Gossard! What's your go-to Pearl Jam track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#StoneGossard"
+     ]
+    },
+    {
+     "name": "90s Rock",
+     "for": "",
+     "copy": "Celebrating Stone Gossard of Pearl Jam, who is 60 today! Still rocking out after all these years.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#PearlJam"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "damian-marley-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Damian Marley",
+   "blurb": "Reggae artist Damian Marley, son of Bob Marley, celebrates his 48th birthday tomorrow, July 21st.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-for-the-week-of-july-20-26-9d2a23e20e1d4d0e8b2a1a8f9d3b4e7e"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Reggae Star",
+     "for": "",
+     "copy": "Tomorrow is Damian Marley's 48th birthday! What's your favourite track from 'Jr. Gong'?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DamianMarley"
+     ]
+    },
+    {
+     "name": "Birthday Countdown",
+     "for": "",
+     "copy": "Get ready to celebrate Damian Marley's birthday tomorrow! The reggae star turns 48.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Reggae"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "george-clinton-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday George Clinton",
+   "blurb": "Funk legend George Clinton, leader of Parliament-Funkadelic, will be 85 on Wednesday, July 22nd.",
+   "source": {
+    "l": "CityNews Halifax",
+    "u": "https://halifax.citynews.ca/national-news/celebrity-birthdays-for-the-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo-9133405"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Funk Godfather",
+     "for": "",
+     "copy": "Get on the good foot! George Clinton turns 85 on Wednesday! What's your favourite Parliament-Funkadelic jam?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#GeorgeClinton"
+     ]
+    },
+    {
+     "name": "P-Funk Power",
+     "for": "",
+     "copy": "Happy 85th Birthday to the Godfather of Funk, George Clinton, on July 22nd! Still tearing up the stage.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Funk"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "don-henley-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Don Henley",
+   "blurb": "Eagles co-founder and singer Don Henley celebrates his 79th birthday on Wednesday, July 22nd.",
+   "source": {
+    "l": "CityNews Halifax",
+    "u": "https://halifax.citynews.ca/national-news/celebrity-birthdays-for-the-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo-9133405"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Eagles Legend",
+     "for": "",
+     "copy": "Wishing a very Happy 79th Birthday to Don Henley of The Eagles on Wednesday! What's your favourite track from the legend?",
      "channels": [
       "instagram",
       "facebook",
@@ -368,94 +699,40 @@
      ]
     },
     {
-     "name": "Voice of a Generation",
-     "copy": "Happy 79th Birthday to Don Henley this Wednesday! The man behind 'Hotel California' and 'Boys of Summer'. What's your favourite?",
-     "channels": [
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Eagles"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "slash-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Slash turns 61",
-   "blurb": "Guns N' Roses' iconic lead guitarist, Slash (Saul Hudson), known for his distinctive top hat and bluesy riffs, celebrates his 61st birthday on Thursday, July 23rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Slash_(musician)"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar God Birthday",
-     "copy": "Get ready to shred! This Thursday, the one and only Slash turns 61. What's your absolute favourite Guns N' Roses solo?",
+     "name": "Classic Rock Voice",
+     "for": "",
+     "copy": "It's Don Henley's 79th birthday on July 22nd! The voice behind so many classic rock anthems.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "16:00",
      "tags": [
-      "#Slash"
-     ]
-    },
-    {
-     "name": "Top Hat & Riffs",
-     "copy": "Happy 61st Birthday to rock icon Slash on Thursday! That signature sound and legendary stage presence. What song instantly makes you think of him?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#GunsNRoses"
+      "#TheEagles"
      ]
     }
    ]
   },
   {
-   "id": "womad-festival-2026",
-   "off": 4,
-   "type": "gig",
+   "id": "keith-sweat-birthday",
+   "off": 2,
+   "type": "birthday",
    "hot": true,
-   "title": "WOMAD Festival Begins",
-   "blurb": "The World of Music, Arts and Dance (WOMAD) festival kicks off on Thursday, July 23rd, running until July 26th at its new Neston Park Estate home in Wiltshire.",
+   "title": "Happy Birthday Keith Sweat",
+   "blurb": "R&B singer Keith Sweat, known for hits like 'Twisted' and 'Nobody', turns 65 on Wednesday, July 22nd.",
    "source": {
-    "l": "WOMAD Festival",
-    "u": "https://womad.co.uk/"
+    "l": "CityNews Halifax",
+    "u": "https://halifax.citynews.ca/national-news/celebrity-birthdays-for-the-week-of-july-19-25-includes-benedict-cumberbatch-and-john-leguizamo-9133405"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Love"
     },
     {
      "g": "decades-genres",
@@ -464,240 +741,9 @@
    ],
    "angles": [
     {
-     "name": "World of WOMAD",
-     "copy": "WOMAD Festival opens its doors on Thursday! Get ready for a global journey of music, arts, and dance at its new Wiltshire home. Who's excited?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WOMAD"
-     ]
-    },
-    {
-     "name": "Festival Discovery",
-     "copy": "Beyond the headlines: WOMAD Festival brings incredible artists from around the world to Wiltshire starting Thursday. Discover your new favourite act!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#WorldMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jennifer-lopez-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Jennifer Lopez turns 57",
-   "blurb": "Global superstar Jennifer Lopez, known for her chart-topping music and acting career, celebrates her 57th birthday on Friday, July 24th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "J.Lo's Birthday Bash",
-     "copy": "It's a party for J.Lo! Jennifer Lopez turns 57 this Friday. What's your go-to track from the multi-talented superstar?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#JenniferLopez"
-     ]
-    },
-    {
-     "name": "Still Jenny From The Block",
-     "copy": "Celebrating the incredible Jennifer Lopez on her 57th birthday this Friday! A true icon in music, film, and fashion.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#JLo"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "camp-bestival-dorset-2026",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Camp Bestival Dorset Starts",
-   "blurb": "The family-friendly Camp Bestival Dorset kicks off on Friday, July 24th, running until July 27th, promising a weekend of music, arts, and fun at Lulworth Castle.",
-   "source": {
-    "l": "Camp Bestival",
-    "u": "https://dorset.campbestival.net/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Family Festival Fun",
-     "copy": "Who's ready for Camp Bestival Dorset? The ultimate family festival begins this Friday at Lulworth Castle! Get set for a weekend of pure joy.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CampBestival"
-     ]
-    },
-    {
-     "name": "Dorset Delights",
-     "copy": "Camp Bestival Dorset starts Friday! More than just music, it's an adventure for all ages. What are you most looking forward to?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LulworthCastle"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kendal-calling-2026",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Kendal Calling Begins",
-   "blurb": "Kendal Calling, the award-winning festival in the Lake District, starts on Friday, July 24th, bringing a diverse lineup of music and arts to Cumbria until July 27th.",
-   "source": {
-    "l": "Kendal Calling",
-    "u": "https://www.kendalcalling.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North East"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Lakeside Festival",
-     "copy": "Kendal Calling kicks off this Friday in the stunning Lake District! Four days of incredible music and good times await. Who are you seeing? ",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#KendalCalling"
-     ]
-    },
-    {
-     "name": "Cumbrian Calling",
-     "copy": "The fields of Cumbria are about to come alive! Kendal Calling starts Friday with a fantastic lineup. Get ready for an unforgettable weekend.",
-     "channels": [
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#LakeDistrict"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "steelhouse-festival-2026",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Steelhouse Festival Kicks Off",
-   "blurb": "Wales's biggest rock festival, Steelhouse, takes over the Brecon Beacons from Saturday, July 25th to July 27th, featuring a lineup of classic and modern rock acts.",
-   "source": {
-    "l": "Steelhouse Festival",
-    "u": "https://www.steelhousefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Rock Weekend",
-     "for": "welsh-local",
-     "copy": "The mountains will be rocking! Steelhouse Festival, Wales's premier rock event, starts this Saturday in the Brecon Beacons. Are you ready? ",
+     "name": "R&B Icon",
+     "for": "",
+     "copy": "Happy 65th Birthday to R&B icon Keith Sweat on Wednesday! What's your favourite slow jam from him?",
      "channels": [
       "instagram",
       "facebook",
@@ -705,42 +751,40 @@
      ],
      "time": "12:00",
      "tags": [
-      "#SteelhouseFestival"
+      "#KeithSweat"
      ]
     },
     {
-     "name": "Heavy Metal Hills",
-     "for": "nation-network",
-     "copy": "Steelhouse Festival brings the noise to the Brecon Beacons this Saturday! Get ready for a weekend of pure rock energy. ",
+     "name": "90s R&B",
+     "for": "",
+     "copy": "Keith Sweat is 65 on July 22nd! Get ready to get 'Twisted' with some classic R&B.",
      "channels": [
+      "instagram",
+      "facebook",
       "x"
      ],
      "time": "17:00",
      "tags": [
-      "#WelshRock"
+      "#RhythmAndBlues"
      ]
     }
    ]
   },
   {
-   "id": "mick-jagger-birthday",
-   "off": 7,
+   "id": "verdine-white-birthday",
+   "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Mick Jagger turns 83",
-   "blurb": "Sir Mick Jagger, the iconic frontman of The Rolling Stones, known for his electrifying stage presence, will celebrate his 83rd birthday on Sunday, July 26th.",
+   "title": "Happy Birthday Verdine White",
+   "blurb": "Earth, Wind & Fire bassist Verdine White celebrates his 75th birthday on Friday, July 25th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mick_Jagger"
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-for-the-week-of-july-20-26-9d2a23e20e1d4d0e8b2a1a8f9d3b4e7e"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
@@ -753,8 +797,9 @@
    ],
    "angles": [
     {
-     "name": "Rock & Roll Royalty",
-     "copy": "Still got the moves! Wishing a very Happy 83rd Birthday to the legendary Sir Mick Jagger this Sunday! What's your favourite Stones classic?",
+     "name": "Funk Master",
+     "for": "",
+     "copy": "Boogie Wonderland! Verdine White from Earth, Wind & Fire turns 75 on Friday! What's your favourite EWF anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -762,57 +807,51 @@
      ],
      "time": "10:00",
      "tags": [
-      "#MickJagger"
+      "#VerdineWhite"
      ]
     },
     {
-     "name": "Ageless Performer",
-     "copy": "On Sunday, we celebrate the 83rd birthday of the one and only Mick Jagger. His energy is unmatched!",
+     "name": "EWF Celebration",
+     "for": "",
+     "copy": "Happy 75th Birthday to Verdine White of Earth, Wind & Fire on July 25th! The legendary bassist still brings the funk.",
      "channels": [
-      "x",
-      "threads"
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "15:00",
      "tags": [
-      "#RollingStones"
+      "#EarthWindAndFire"
      ]
     }
    ]
   },
   {
-   "id": "sidmouth-folk-festival-2026",
-   "off": 9,
-   "type": "gig",
+   "id": "thurston-moore-birthday",
+   "off": 5,
+   "type": "birthday",
    "hot": true,
-   "title": "Sidmouth Folk Festival Starts",
-   "blurb": "The acclaimed Sidmouth Folk Festival begins on Tuesday, July 28th, bringing a week of traditional and contemporary folk music to the Devon coast until August 4th.",
+   "title": "Happy Birthday Thurston Moore",
+   "blurb": "Sonic Youth co-founder and guitarist Thurston Moore celebrates his 68th birthday on Friday, July 25th.",
    "source": {
-    "l": "Sidmouth Folk Festival",
-    "u": "https://www.sidmouthfolkfestival.co.uk/"
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-for-the-week-of-july-20-26-9d2a23e20e1d4d0e8b2a1a8f9d3b4e7e"
    },
    "fits": [
     {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Devon Folk Fun",
-     "for": "radio-exe",
-     "copy": "Sidmouth Folk Festival kicks off this Tuesday! Get ready for a week of incredible music, dance, and culture on the beautiful Devon coast. Who's heading down? ",
+     "name": "Alt-Rock Pioneer",
+     "for": "",
+     "copy": "Happy 68th Birthday to indie rock pioneer Thurston Moore from Sonic Youth on Friday! What's your favourite track from the alt-rock legends?",
      "channels": [
       "instagram",
       "facebook",
@@ -820,69 +859,21 @@
      ],
      "time": "11:00",
      "tags": [
-      "#SidmouthFolkFestival"
+      "#ThurstonMoore"
      ]
     },
     {
-     "name": "Coastal Melodies",
-     "for": "nation-network",
-     "copy": "The sounds of folk music will fill the air as Sidmouth Folk Festival begins on Tuesday! A fantastic week of tradition and talent awaits in Devon. ",
+     "name": "Sonic Youth Shoutout",
+     "for": "",
+     "copy": "Celebrating Thurston Moore of Sonic Youth, who turns 68 on July 25th! Still pushing boundaries in music.",
      "channels": [
+      "instagram",
+      "facebook",
       "x"
      ],
      "time": "16:00",
      "tags": [
-      "#FolkMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-island-2026-uk",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Love Island UK - Mid-Season Drama",
-   "blurb": "Love Island UK is in full swing, with daily drama, recouplings, and bombshells keeping viewers hooked as the islanders search for love in the villa.",
-   "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/loveisland"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Islander Antics",
-     "copy": "The Love Island villa is delivering daily! Who's making moves, who's in trouble, and who's about to be dumped? Catch up on all the drama!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#LoveIslandUK"
-     ]
-    },
-    {
-     "name": "Villa Gossip",
-     "copy": "Another day, another dose of Love Island drama! What are your predictions for tonight's episode? Who's your favourite couple (or least favourite)?",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#LoveIsland"
+      "#SonicYouth"
      ]
     }
    ]
