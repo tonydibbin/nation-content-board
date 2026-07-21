@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-21T07:26:21.365Z",
+ "updated": "2026-07-21T10:11:24.384Z",
  "moments": [
   {
-   "id": "world-cup-final-2026",
-   "off": -2,
-   "type": "sport",
+   "id": "uk-summer-holidays-start",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "FIFA World Cup 2026 concludes",
-   "blurb": "The FIFA World Cup 2026 concluded on Sunday, July 19th, with a thrilling final at MetLife Stadium in New Jersey, crowning a new world champion.",
+   "title": "UK Summer Holidays Kick Off",
+   "blurb": "School summer holidays are starting across the UK this week, with England and Scotland joining Wales in their annual break.",
    "source": {
-    "l": "FIFA Official",
-    "u": "https://www.fifa.com/worldcup/2026/"
+    "l": "UK School Holiday Dates",
+    "u": "https://www.gov.uk/school-term-holiday-dates"
    },
    "fits": [
     {
@@ -20,9 +20,25 @@
    ],
    "angles": [
     {
-     "name": "Final Recap",
+     "name": "Main Network Take",
      "for": "",
-     "copy": "Still buzzing from the World Cup final? The biggest tournament in football wrapped up on Sunday night with an incredible showpiece event. What a tournament!",
+     "copy": "School's out for summer! The long-awaited summer holidays are officially kicking off across the UK this week. Where are you heading for your break?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Welsh Local Angle",
+     "for": "welsh-local",
+     "copy": "With the Welsh school summer holidays already underway since late June, who's making the most of the sun and sand? Share your best holiday plans!",
      "channels": [
       "instagram",
       "facebook",
@@ -30,99 +46,98 @@
      ],
      "time": "09:00",
      "tags": [
-      "#WorldCup2026"
-     ]
-    },
-    {
-     "name": "Tournament Wrap",
-     "for": "",
-     "copy": "The FIFA World Cup 2026 is over! From stunning upsets to incredible goals, what was your favourite moment from this year's tournament across the US, Canada and Mexico?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Football"
+      "#WalesSummer"
      ]
     }
    ]
   },
   {
-   "id": "wimbledon-finals-2026",
-   "off": -9,
-   "type": "sport",
+   "id": "guilfest-2026",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "Wimbledon 2026 crowns new champions",
-   "blurb": "The Wimbledon Championships 2026 concluded on Sunday, July 12th, with new champions crowned in both the Men's and Women's Singles events.",
+   "title": "GuilFest Returns This Week",
+   "blurb": "GuilFest, the independent two-day music and arts festival, returns to Stoke Park this week, featuring Sophie Ellis-Bextor, Rudimental, ABC, and more.",
    "source": {
-    "l": "Wimbledon Official",
-    "u": "https://www.wimbledon.com"
+    "l": "GuilFest 2026 Lineup",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx1SFlpJHWmBcn1ZB5gjE_gxzzbk7OmN4jpt_nYY6tb0PHhL7rXAZjtPL5NZxFsraPoQNYHcM15YdURZQjz_lALHeQ7ycTOyMKIW-YImVwkhhT4BRtFvmtNWEKjD07ax4rIJqp"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Tennis Grand Slam",
+     "name": "Festival Buzz",
      "for": "",
-     "copy": "Wimbledon 2026 is done and dusted! New champions have been crowned on Centre Court. Who impressed you most at this year's tournament?",
+     "copy": "GuilFest is back in Stoke Park this week! Ready for a weekend of Sophie Ellis-Bextor, Rudimental and some classic ABC? Let's hear your festival anthems!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "11:00",
      "tags": [
-      "#Wimbledon"
+      "#GuilFest"
      ]
     },
     {
-     "name": "Best of Wimbledon",
-     "for": "",
-     "copy": "Strawberries and cream, epic rallies, and new champions! Wimbledon 2026 delivered. What was your favourite moment from the last two weeks?",
+     "name": "Artist Spotlight",
+     "for": "decades-genres",
+     "copy": "Sophie Ellis-Bextor is headlining GuilFest this week! From 'Groovejet' to 'Murder on the Dancefloor', what's your favourite track to get the party started?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "12:30",
+     "time": "13:00",
      "tags": [
-      "#Tennis"
+      "#SophieEllisBextor"
      ]
     }
    ]
   },
   {
-   "id": "the-open-championship-2026",
-   "off": -2,
-   "type": "sport",
+   "id": "latitude-festival-2026",
+   "off": 2,
+   "type": "gig",
    "hot": true,
-   "title": "The Open Championship concludes at Royal Birkdale",
-   "blurb": "The 154th Open Championship at Royal Birkdale Golf Club in Southport, England, concluded on Sunday, July 19th, with a new Champion Golfer of the Year lifting the Claret Jug.",
+   "title": "Latitude Festival Kicks Off Thursday",
+   "blurb": "Latitude Festival returns to Henham Park, Suffolk from Thursday, July 23rd to Sunday, July 26th, celebrating its 20th anniversary with a diverse lineup of music, arts, and comedy.",
    "source": {
-    "l": "The Open Official",
-    "u": "https://www.theopen.com"
+    "l": "Latitude Festival Website",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZu80BnKcnhw3BhDiRMQdOR-vO-p3legjxnP9Zs5TOld7pA_XkqwvbqNsvOYRZqmPGu3B-q17O89Tk2RaSC3eKnMjgprp2T0J8a81zWNZ5qAfERVH-8l_k-eUgw=="
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio Suffolk"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Golf Major Wrap",
-     "for": "",
-     "copy": "The Claret Jug has been lifted! The Open Championship wrapped up at Royal Birkdale on Sunday, delivering another fantastic major. Did you catch the action?",
+     "name": "Local Excitement",
+     "for": "nation-network",
+     "copy": "Suffolk, get ready! Latitude Festival kicks off on Thursday for its 20th anniversary. Who are you most excited to see at Henham Park?",
      "channels": [
       "instagram",
       "facebook",
@@ -130,35 +145,93 @@
      ],
      "time": "10:00",
      "tags": [
-      "#TheOpen"
+      "#LatitudeFestival"
      ]
     },
     {
-     "name": "Birkdale Review",
-     "for": "",
-     "copy": "Royal Birkdale once again proved a magnificent, challenging host for The Open. What a setting for a major championship!",
+     "name": "Festival Vibe",
+     "for": "decades-genres",
+     "copy": "Three days to go until Latitude! Beyond the music, what's your favourite part of the Latitude experience – the comedy, the arts, or something else entirely?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "13:00",
+     "time": "14:00",
      "tags": [
-      "#Golf"
+      "#Latitude2026"
      ]
     }
    ]
   },
   {
-   "id": "royal-welsh-show-2026",
-   "off": 0,
-   "type": "seasonal",
+   "id": "truck-festival-2026",
+   "off": 2,
+   "type": "gig",
    "hot": true,
-   "title": "Royal Welsh Show kicks off today",
-   "blurb": "The Royal Welsh Show, Wales's largest agricultural event and celebration of rural life, opens its gates today in Llanelwedd, Builth Wells, running until Thursday, July 23rd.",
+   "title": "Truck Festival Starts Thursday",
+   "blurb": "Oxfordshire's Truck Festival takes place from July 23rd to 26th at Hill Farm, promising another weekend of indie, rock, and alternative music.",
    "source": {
-    "l": "Royal Welsh Show",
-    "u": "https://www.rwas.wales/royal-welsh-show/"
+    "l": "Truck Festival 2026",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx1SFlpJHWmBcn1ZB5gjE_gxzzbk7OmN4jpt_nYY6tb0PHhL7rXAZjtPL5NZxFsraPoQNYHcM15YdURZQjz_lALHeQ7ycTOyMKIW-YImVwkhhT4BRtFvmtNWEKjD07ax4rIJqp"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Indie"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "for": "",
+     "copy": "The countdown is on for Truck Festival! Starting Thursday, it's set to be a massive weekend at Hill Farm. Who's making the trip to Oxfordshire?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#TruckFestival"
+     ]
+    },
+    {
+     "name": "Indie Anthems",
+     "for": "decades-genres",
+     "copy": "Dreaming of denim and dirt? Truck Festival is almost here! What indie anthem are you hoping to hear live this weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#IndieMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "depot-in-the-castle-2026",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Depot In The Castle in Cardiff",
+   "blurb": "Depot In The Castle, a popular one-day festival, takes place in Cardiff, Wales on Saturday, July 25th.",
+   "source": {
+    "l": "Music Festival Wizard",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Xp7ElVekXJ-MfFy2niCC4NLJeYT-5LnpFGcm8-10UFsjzqDBOhjgCI_Uy15c4-hSWw_vzeG40FsXNuDAL840AqELcMcIdS5SSy425xte2AT60snmIbi5fpDGXDgIQTPL-MKYjLniyqdOAW5Y_e-rKM2W05ssjxVNqJM="
    },
    "fits": [
     {
@@ -168,112 +241,96 @@
     {
      "g": "dragon",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Show Opening",
-     "for": "welsh-local",
-     "copy": "It's here! The Royal Welsh Show 2026 officially opens its doors today! Who's heading to Llanelwedd for a fantastic day out?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#RoyalWelshShow"
-     ]
     },
-    {
-     "name": "What's On",
-     "for": "dragon",
-     "copy": "From livestock competitions to food halls and crafts, the Royal Welsh Show is packed with things to see and do all week. What are you most looking forward to?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Wales"
-     ]
-    },
-    {
-     "name": "Local Buzz",
-     "for": "welsh-local",
-     "copy": "The Royal Welsh Show brings thousands to Mid Wales this week! Expect a great atmosphere and a true celebration of Welsh rural life.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Llanelwedd"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-island-uk-2026",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Love Island UK continues to heat up",
-   "blurb": "ITV2's hit reality show Love Island UK is in full swing, with new arrivals, recouplings, and drama keeping viewers gripped as the final approaches.",
-   "source": {
-    "l": "ITV2",
-    "u": "https://www.itv.com/loveisland"
-   },
-   "fits": [
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio Wales"
     }
    ],
    "angles": [
     {
-     "name": "Daily Dose",
-     "for": "",
-     "copy": "Another night, another dose of Love Island drama! Who's your favourite couple right now, and who do you think is on thin ice?",
+     "name": "Cardiff Festival",
+     "for": "welsh-local",
+     "copy": "Cardiff! Depot In The Castle is happening this Saturday, July 25th. Who are you looking forward to seeing at the castle grounds?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#DepotInTheCastle"
+     ]
+    },
+    {
+     "name": "Welsh Music Scene",
+     "for": "dragon",
+     "copy": "Celebrating the Welsh music scene and beyond! Depot In The Castle brings a fantastic lineup to Cardiff this weekend. What's your favourite festival memory from the city?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "21:00",
+     "time": "12:30",
      "tags": [
-      "#LoveIsland"
-     ]
-    },
-    {
-     "name": "Final Countdown",
-     "for": "",
-     "copy": "With the Love Island final getting closer, the pressure is on! What's been the most shocking moment of the series so far?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#LoveIslandUK"
+      "#CardiffMusic"
      ]
     }
    ]
   },
   {
-   "id": "new-uk-singles-chart-incoming",
-   "off": 3,
-   "type": "culture",
-   "hot": true,
-   "title": "New UK Official Singles Chart this Friday",
-   "blurb": "The new Official Singles Chart Top 40 will be announced this Friday, July 24th, with speculation mounting over who will claim the coveted number one spot.",
+   "id": "bd-cat-stevens-78",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Cat Stevens Turns 78",
+   "blurb": "British singer-songwriter Cat Stevens (Yusuf Islam), known for hits like 'Wild World' and 'Father and Son,' celebrates his 78th birthday today.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com"
+    "l": "Wikipedia / Songfacts",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj5ifLuvIRZJKICkuobkwA8NFsEZKG9e0-5XhUdUdcJGunuKB0zdXVeMPpKfI_Lc2w1vMTI-BfnageWSg_yHvPZZ7Ht1mcG6qjHE8smJx3risHA8uplfntbIcLWjtmyjbkZhIbY7tGjK2YlX940b-cV5S0nJx5ow=="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Classic Artist",
+     "for": "decades-genres",
+     "copy": "Happy 78th Birthday to the legendary Cat Stevens! Which of his timeless tracks is your all-time favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#CatStevens"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bd-paloma-faith-45",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Paloma Faith Turns 45",
+   "blurb": "Award-winning British singer Paloma Faith, known for her soulful voice and chart-topping albums, celebrates her 45th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHicoQQYO9FIzSubvHYkdrE3X_K8_uvVggzGRfFMW7z6m-CYYeiTFTma4gXvJ6eTzvLDB5p1Z674gXJCBVSNAeOHQ_dRO2Bn-oRCqoxuUq_3owCz316U5IXVHXxB0UOlDqlHgv9pdWNE7_4pmckVmK5qoQ=="
    },
    "fits": [
     {
@@ -281,171 +338,42 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Prediction",
-     "for": "Nation Hits",
-     "copy": "Who's going to be the new UK Number 1 this Friday? Is there a new banger about to take the top spot, or will a current favourite hold on?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Weekend Listen",
-     "for": "nation-network",
-     "copy": "Get ready for new music! The Official Singles Chart gets a refresh this Friday – perfect for your weekend playlist. What tracks are you hoping to see climb?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cat-stevens-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Cat Stevens (Yusuf Islam) is 78 today",
-   "blurb": "British singer-songwriter Cat Stevens, also known as Yusuf Islam, celebrates his 78th birthday today, July 21st.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Cat_Stevens"
-   },
-   "fits": [
-    {
      "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Love"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Birthday Tribute",
-     "for": "Nation 60s",
-     "copy": "Wishing a very happy 78th birthday to the legendary Cat Stevens, aka Yusuf Islam! What's your favourite track from the folk-rock icon?",
+     "name": "UK Pop Icon",
+     "for": "decades-genres",
+     "copy": "Wishing a very Happy 45th Birthday to the incredible Paloma Faith! What's the Paloma track that always gets you singing?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#CatStevens"
-     ]
-    },
-    {
-     "name": "Music Memories",
-     "for": "Nation Classic Hits",
-     "copy": "From 'Father and Son' to 'Wild World', Cat Stevens has given us so many timeless songs. Celebrating his 78th birthday today!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#YusufIslam"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "don-henley-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Don Henley turns 79 tomorrow",
-   "blurb": "Don Henley, co-founder of the Eagles and successful solo artist, will celebrate his 79th birthday tomorrow, July 22nd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Don_Henley"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Eagles Legend",
-     "for": "Nation Rocks",
-     "copy": "Tomorrow, we're celebrating the 79th birthday of Eagles legend Don Henley! From 'Hotel California' to 'Boys of Summer', his voice is iconic.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
      "time": "12:00",
      "tags": [
-      "#DonHenley"
-     ]
-    },
-    {
-     "name": "Solo Hits",
-     "for": "Nation 80s",
-     "copy": "Get ready to wish Don Henley a happy 79th birthday tomorrow! What's your favourite solo hit from the Eagles frontman?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Eagles"
+      "#PalomaFaith"
      ]
     }
    ]
   },
   {
-   "id": "selena-gomez-birthday",
+   "id": "bd-selena-gomez-34",
    "off": 1,
    "type": "birthday",
-   "hot": true,
-   "title": "Selena Gomez is 34 tomorrow",
-   "blurb": "Actress and pop superstar Selena Gomez will turn 34 tomorrow, July 22nd.",
+   "hot": false,
+   "title": "Selena Gomez Turns 34",
+   "blurb": "American singer, actress, and producer Selena Gomez, a global pop superstar, celebrates her 34th birthday tomorrow.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Selena_Gomez"
+    "l": "Famous Birthdays",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExRCJYr6dl-gHwS1dLYA0dC2xekxFP0fxeG6vhnsY9Eav-wSH4zC0ntX7THMzVzxBI9yKDxs_8uRfr-WMoGhYJmhH5OebTa0Vah6MVS5HNPLwtlI3HsVhagYDEwH3F3jeExo6NyIYUpiSFR8TZPBpBO-bMw1mkZw=="
    },
    "fits": [
     {
@@ -459,45 +387,74 @@
    ],
    "angles": [
     {
-     "name": "Pop Queen",
-     "for": "Nation Hits",
-     "copy": "Tomorrow, Selena Gomez turns 34! From Disney star to pop sensation, she's had an incredible career. What's your go-to Selena track?",
+     "name": "Pop Star Birthday",
+     "for": "decades-genres",
+     "copy": "Tomorrow, Selena Gomez turns 34! From Disney star to global pop sensation, what's your favourite Selena era?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "10:00",
+     "time": "16:00",
      "tags": [
       "#SelenaGomez"
-     ]
-    },
-    {
-     "name": "Birthday Vibes",
-     "for": "Nation 00s",
-     "copy": "Wishing a very happy 34th birthday to Selena Gomez tomorrow! Let's celebrate with some of her biggest hits.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#PopMusic"
      ]
     }
    ]
   },
   {
-   "id": "slash-birthday",
+   "id": "bd-don-henley-79",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Don Henley Turns 79",
+   "blurb": "Don Henley, co-founder, singer, and drummer of the iconic band The Eagles, celebrates his 79th birthday tomorrow.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsbcNMIVZLVGb9983FFwVWJUH5awBT3fChK8ukkcgEnza4pi0FkeRNrBLMnQLzRTrGdT2aPiv3vfN-y9WAHtefaR1eBw_UTJAEaoj7RBML14dvwueztURN1m_T1lORDA-p0C7aKReE0bZngZ7vnguLA7WCC4liYw=="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Legend",
+     "for": "decades-genres",
+     "copy": "Tomorrow, the legendary Don Henley turns 79! From 'Hotel California' to 'The Boys of Summer,' what's your favourite Don Henley moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#DonHenley"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bd-slash-61",
    "off": 2,
    "type": "birthday",
-   "hot": true,
-   "title": "Guns N' Roses' Slash turns 61 on Thursday",
-   "blurb": "Legendary Guns N' Roses guitarist Slash (Saul Hudson) will celebrate his 61st birthday on Thursday, July 23rd.",
+   "hot": false,
+   "title": "Slash Turns 61",
+   "blurb": "Guns N' Roses lead guitarist Slash, one of rock's most iconic figures, celebrates his 61st birthday on Thursday.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Slash_(musician)"
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0QpkoSthlq-WanyaxtHdIo2Dt5YYf-osquUh71P67fD6mDVZxT_Y0hB7wWvftmifJJCoCkiS5lM748fHiStWEHUiGXROj6FPVlh8ZsocQzwsL0VvF44Zm8MFsYybp1k4BTUynMl1NSiNYffPthgvO0CG-5qSebw=="
    },
    "fits": [
     {
@@ -507,62 +464,79 @@
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Guitar God",
-     "for": "Nation Rocks",
-     "copy": "Get ready to salute a guitar icon! Slash turns 61 on Thursday. What's your favourite GNR riff or solo from the man in the top hat?",
+     "name": "Guitar Hero",
+     "for": "decades-genres",
+     "copy": "Happy 61st Birthday to the one and only Slash on Thursday! That top hat, those riffs... what's your favourite Slash guitar solo?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "11:00",
+     "time": "14:30",
      "tags": [
       "#Slash"
-     ]
-    },
-    {
-     "name": "Rock Legend",
-     "for": "Nation 80s",
-     "copy": "He's the riff master! Wishing a very happy 61st birthday to the one and only Slash this Thursday. What's your ultimate Guns N' Roses anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#GunsNRoses"
      ]
     }
    ]
   },
   {
-   "id": "jennifer-lopez-birthday",
-   "off": 3,
+   "id": "bd-martin-gore-65",
+   "off": 2,
    "type": "birthday",
-   "hot": true,
-   "title": "Jennifer Lopez celebrates 57th birthday Friday",
-   "blurb": "Global superstar Jennifer Lopez will celebrate her 57th birthday on Friday, July 24th.",
+   "hot": false,
+   "title": "Martin Gore Turns 65",
+   "blurb": "Martin Gore, co-founder, songwriter, and guitarist for synth-pop legends Depeche Mode, celebrates his 65th birthday on Thursday.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0QpkoSthlq-WanyaxtHdIo2Dt5YYf-osquUh71P67fD6mDVZxT_Y0hB7wWvftmifJJCoCkiS5lM748fHiStWEHUiGXROj6FPVlh8ZsocQzwsL0VvF44Zm8MFsYybp1k4BTUynMl1NSiNYffPthgvO0CG-5qSebw=="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Synth-Pop Mastermind",
+     "for": "decades-genres",
+     "copy": "Happy 65th Birthday to Depeche Mode's Martin Gore this Thursday! His songwriting shaped a generation. What's your ultimate Depeche Mode track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MartinGore"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bd-jennifer-lopez-57",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "Jennifer Lopez Turns 57",
+   "blurb": "Global superstar Jennifer Lopez, known for her chart-topping music, acting career, and iconic style, celebrates her 57th birthday on Friday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrUdpV5fU1Zp3W7DHsOQq4hQzK_9JoO1qmRJc78vu-WN3v7NePhhHoU133kRjlGmdlM-tt_Cj7Fq2aqZUJTQ8aRySUxPI3yc1lbICYPQgkXVlx3RCXfmccWYjxVKFrLLXprOVbWWVq5bswqPFjeUhNi0="
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -575,51 +549,76 @@
    ],
    "angles": [
     {
-     "name": "JLo Day",
-     "for": "Nation Hits",
-     "copy": "Get ready to celebrate Jenny from the Block! Jennifer Lopez turns 57 this Friday. What's your favourite J.Lo dance track?",
+     "name": "JLo Celebration",
+     "for": "decades-genres",
+     "copy": "Get ready to celebrate! Jennifer Lopez turns 57 on Friday. From 'Jenny from the Block' to her latest hits, what's your favourite JLo moment?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "tiktok",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "13:00",
      "tags": [
       "#JLo"
-     ]
-    },
-    {
-     "name": "Ageless Icon",
-     "for": "Nation 00s",
-     "copy": "Still got it! Jennifer Lopez celebrates her 57th birthday on Friday. An incredible career spanning music, film, and fashion.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#JenniferLopez"
      ]
     }
    ]
   },
   {
-   "id": "mick-jagger-birthday",
-   "off": 5,
+   "id": "bd-simon-kirke-77",
+   "off": 7,
    "type": "birthday",
-   "hot": true,
-   "title": "Mick Jagger turns 83 on Sunday",
-   "blurb": "The legendary frontman of The Rolling Stones, Mick Jagger, will celebrate his 83rd birthday on Sunday, July 26th.",
+   "hot": false,
+   "title": "Simon Kirke Turns 77",
+   "blurb": "Simon Kirke, drummer for legendary rock bands Free and Bad Company, celebrates his 77th birthday on Monday, July 28th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mick_Jagger"
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAhn6SzBWjaKAznCfLOxXiaXGFg9c_LCVptfr1ZkrwyF93M95iT1GxPDlwkWv8ANHl9PaIV2NCnZisMrU5BoI6WTzaHaGv2BO0JU2gtBt0U33ZapXWX_Hnkce6w_115r_6Mf-R97_k4hOr1c_jjHYGeSLaDLlDHg=="
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Drummer Birthday",
+     "for": "decades-genres",
+     "copy": "Next Monday, a true rock legend turns 77! Happy Birthday to Simon Kirke of Free and Bad Company. What's your favourite track featuring his iconic drumming?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#SimonKirke"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bd-geddy-lee-73",
+   "off": 8,
+   "type": "birthday",
+   "hot": false,
+   "title": "Geddy Lee Turns 73",
+   "blurb": "Geddy Lee, the iconic bassist, vocalist, and keyboardist for Canadian rock legends Rush, celebrates his 73rd birthday on Tuesday, July 29th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOFso7Z3ato4Uml7ES9nj_tz38I3U0Tx0X7VH05LBUZFGaPa5aIsUe-tS4UeHxCzkKCqs-880LpNJqJ4CNo9vvZ6USR5ab8l0-TgI2dk4qp166QwrCO0aqxGqucGpwrLon0Qlw1smK7GkeJMWJw3Rd0QI43b9NaH17"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -627,18 +626,14 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Rock Royalty",
-     "for": "Nation Rocks",
-     "copy": "Still rolling! The incomparable Mick Jagger celebrates his 83rd birthday this Sunday. What's your all-time favourite Stones track?",
+     "name": "Rush Legend",
+     "for": "decades-genres",
+     "copy": "Wishing a very Happy 73rd Birthday to Rush frontman Geddy Lee next Tuesday! A true innovator in rock. What's your favourite Rush epic?",
      "channels": [
       "instagram",
       "facebook",
@@ -646,32 +641,18 @@
      ],
      "time": "09:00",
      "tags": [
-      "#MickJagger"
-     ]
-    },
-    {
-     "name": "Ageless Performer",
-     "for": "Nation 60s",
-     "copy": "Eighty-three years young and still commanding the stage! Happy birthday to the one and only Mick Jagger this Sunday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RollingStones"
+      "#GeddyLee"
      ]
     }
    ]
   },
   {
-   "id": "kate-bush-birthday",
+   "id": "bd-kate-bush-68",
    "off": 9,
    "type": "birthday",
-   "hot": true,
-   "title": "Kate Bush is 68 next Thursday",
-   "blurb": "Iconic and influential British singer-songwriter Kate Bush will celebrate her 68th birthday next Thursday, July 30th.",
+   "hot": false,
+   "title": "Kate Bush Turns 68",
+   "blurb": "Iconic and influential British singer-songwriter Kate Bush, celebrated for her unique artistic vision, celebrates her 68th birthday on Wednesday, July 30th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Kate_Bush"
@@ -692,9 +673,209 @@
    ],
    "angles": [
     {
-     "name": "Music Genius",
-     "for": "Nation 80s",
-     "copy": "Next Thursday, we're celebrating the 68th birthday of the incredible Kate Bush! A true visionary in music. What's your favourite track?",
+     "name": "British Icon",
+     "for": "decades-genres",
+     "copy": "Next Wednesday, the incomparable Kate Bush turns 68! From 'Wuthering Heights' to 'Running Up That Hill', her impact is undeniable. What's your favourite Kate Bush track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#KateBush"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "belladrum-tartan-heart-2026",
+   "off": 9,
+   "type": "gig",
+   "hot": true,
+   "title": "Belladrum Tartan Heart Festival",
+   "blurb": "The Belladrum Tartan Heart Festival takes place in the Scottish Highlands from July 30th to August 1st, featuring James and The Human League.",
+   "source": {
+    "l": "Belladrum Festival Guide",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx1SFlpJHWmBcn1ZB5gjE_gxzzbk7OmN4jpt_nYY6tb0PHhL7rXAZjtPL5NZxFsraPoQNYHcM15YdURZQjz_lALHeQ7ycTOyMKIW-YImVwkhhT4BRtFvmtNWEKjD07ax4rIJqp"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish Festival",
+     "for": "nation-network",
+     "copy": "Highlands, get ready! Belladrum Tartan Heart Festival kicks off next Thursday with James and The Human League. Who's heading to 'Bella'?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Belladrum"
+     ]
+    },
+    {
+     "name": "Lineup Hype",
+     "for": "decades-genres",
+     "copy": "James and The Human League at Belladrum next week! Two legendary bands on one stage. Which era of music are you most excited to relive?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#TartanHeart"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "y-not-festival-2026",
+   "off": 9,
+   "type": "gig",
+   "hot": true,
+   "title": "Y-Not Festival in Derbyshire",
+   "blurb": "Y-Not Festival returns to Pikehall, Derbyshire from July 30th to August 2nd, with headliners including The Libertines, Reytons, Two Door Cinema Club, and The Streets.",
+   "source": {
+    "l": "Y-Not Festival Info",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx1SFlpJHWmBcn1ZB5gjE_gxzzbk7OmN4jpt_nYY6tb0PHhL7rXAZjtPL5NZxFsraPoQNYHcM15YdURZQjz_lALHeQ7ycTOyMKIW-YImVwkhhT4BRtFvmtNWEKjD07ax4rIJqp"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Indie"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Derbyshire Festival",
+     "for": "",
+     "copy": "Derbyshire's ready to rock! Y-Not Festival kicks off next Thursday with The Libertines, The Streets and more. Who's got their tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#YNotFestival"
+     ]
+    },
+    {
+     "name": "Indie Rock Lineup",
+     "for": "decades-genres",
+     "copy": "The Libertines, Reytons, Two Door Cinema Club, The Streets – what a lineup for Y-Not next week! Which band are you most hyped to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "20:00",
+     "tags": [
+      "#YNot2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bd-fatboy-slim-63",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Fatboy Slim Turns 63",
+   "blurb": "Norman Cook, better known as DJ and producer Fatboy Slim, the big beat pioneer, celebrates his 63rd birthday on Friday, July 31st.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE02sHFWdGBoeVPla9m6ozhGCVOpqwpIlMtO9RflKqGvHWJmekVhX75ua07LQZavtkxSB8k4B4_dI3XZf2YuiRbeU61O_A3axsdBuuwHzn7ipzUL496L1tPrZWITGsSLsKITHQ5xPanGRRTgh2aFrtQPxp-DTTzpjIN"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Music Legend",
+     "for": "decades-genres",
+     "copy": "Next Friday, the legendary Fatboy Slim turns 63! What's your favourite track from the big beat maestro that always gets you moving?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#FatboySlim"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bd-will-champion-48",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Will Champion Turns 48",
+   "blurb": "Will Champion, the drummer for global stadium rock giants Coldplay, celebrates his 48th birthday on Friday, July 31st.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE02sHFWdGBoeVPla9m6ozhGCVOpqwpIlMtO9RflKqGvHWJmekVhX75ua07LQZavtkxSB8k4B4_dI3XZf2YuiRbeU61O_A3axsdBuuwHzn7ipzUL496L1tPrZWITGsSLsKITHQ5xPanGRRTgh2aFrtQPxp-DTTzpjIN"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Coldplay Drummer",
+     "for": "decades-genres",
+     "copy": "Next Friday, Coldplay's Will Champion turns 48! A vital part of one of the world's biggest bands. What's your go-to Coldplay anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -702,21 +883,41 @@
      ],
      "time": "10:00",
      "tags": [
-      "#KateBush"
+      "#Coldplay"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "manchester-3v3-football",
+   "off": 4,
+   "type": "sport",
+   "hot": false,
+   "title": "3v3 Football in Manchester",
+   "blurb": "A 3v3 UK football tournament is being held in Manchester on Saturday, July 25th, offering fast-paced fun for youth teams.",
+   "source": {
+    "l": "3v3 UK Football Tournaments",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCduBqf9wnST3agQQmYUWmNJ_Ik42SfVYL4bEIEx2voX_0LBabtlhZna_0SQLCLka1IoGg5mDw3AMgjALGiR4AW2y7D4erqnb39H7RGnNtnBwQ7DdcQxeOmRIHZhziQ=="
+   },
+   "fits": [
     {
-     "name": "Wuthering Heights",
-     "for": "Nation 70s",
-     "copy": "From 'Wuthering Heights' to 'Running Up That Hill', Kate Bush's impact is undeniable. Wishing her a very happy 68th birthday next Thursday!",
+     "g": "nation-network",
+     "sub": "Nation Radio Manchester"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Local Football",
+     "for": "nation-network",
+     "copy": "Manchester! Get ready for some #FastFeetFun as the 3v3 UK football tournament comes to the city this Saturday. Who's playing or watching?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "09:00",
      "tags": [
-      "#MusicIcon"
+      "#YouthFootball"
      ]
     }
    ]
