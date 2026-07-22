@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-22T17:59:55.476Z",
+ "updated": "2026-07-22T19:12:23.331Z",
  "moments": [
   {
-   "id": "fifa-world-cup-2026-recap",
-   "off": -3,
-   "type": "sport",
+   "id": "love-island-finale",
+   "off": 5,
+   "type": "tv",
    "hot": true,
-   "title": "Spain lifts World Cup 2026 trophy",
-   "blurb": "Spain defeated Argentina 1-0 in the final of the FIFA World Cup 2026, which concluded on Sunday, July 19th.",
+   "title": "Love Island Grand Finale",
+   "blurb": "The dramatic 2026 series of Love Island concludes on Monday, July 27th, live on ITV2 and ITVX, as the remaining couples battle for the £50,000 prize.",
    "source": {
-    "l": "FIFA World Cup 2026 NYNJ",
-    "u": "https://www.fifaworldcup2026nynj.com/schedule/"
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/tv/reality-tv/love-island-final-date-confirmed-newsupdate/"
    },
    "fits": [
     {
@@ -20,9 +20,181 @@
    ],
    "angles": [
     {
-     "name": "Winner Buzz",
+     "name": "Final Four Build-up",
      "for": "",
-     "copy": "Still buzzing from the World Cup final? Spain made history, taking the trophy home this weekend after beating Argentina!",
+     "copy": "Who's making it to the final four? It's been a wild ride in the Love Island villa, and the grand finale is just days away! Who are you rooting for?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    },
+    {
+     "name": "Countdown to Winners",
+     "for": "",
+     "copy": "The countdown is ON for the Love Island 2026 final! Expect drama, declarations, and a whole lot of 'I've got a text!' Who do you think will be crowned the winners?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    },
+    {
+     "name": "Monday Night Finale",
+     "for": "",
+     "copy": "Monday night means one thing: the Love Island final! Grab your snacks, settle in, and get ready to see who takes home the cash and maybe, just maybe, true love.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-continues",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Heatwave Continues",
+   "blurb": "England and Wales are currently experiencing a prolonged heatwave with temperatures exceeding 30°C, and forecasters anticipate hot conditions could continue into early August, leading to hosepipe bans in several regions.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-outlook"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "General Heatwave Check-in",
+     "for": "",
+     "copy": "Another day, another scorcher! The UK heatwave rolls on with temps well over 30°C. How are you staying cool today?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#UKHeatwave"
+     ]
+    },
+    {
+     "name": "Hosepipe Bans Reminder",
+     "for": "",
+     "copy": "Sun's out, but so are the hosepipe bans! With the heatwave set to continue, water restrictions are in place across parts of the UK. Are you affected?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#HosepipeBan"
+     ]
+    },
+    {
+     "name": "Devon Local Heat",
+     "for": "radio-exe",
+     "copy": "Devon is sizzling! With temperatures hitting 33°C last weekend, the heatwave is making itself felt across the South West. Stay hydrated!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#DevonHeat"
+     ]
+    },
+    {
+     "name": "Wales Local Heat",
+     "for": "welsh-local",
+     "copy": "Wales is feeling the heat! As the heatwave continues, remember to look after yourselves and check on vulnerable neighbours.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#WalesHeat"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart",
+   "off": 2,
+   "type": "culture",
+   "hot": true,
+   "title": "Official Singles Chart #1",
+   "blurb": "Sam Fender & Olivia Dean hold the top spot with \"Rein Me In\" on the Official Singles Chart, while Oasis's \"Wonderwall\" makes a massive return to number 2. The new chart is revealed this Friday.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Overview",
+     "for": "",
+     "copy": "Sam Fender & Olivia Dean still reigning supreme at #1 on the singles chart! But who saw Oasis's 'Wonderwall' back at #2?! What a comeback!",
      "channels": [
       "instagram",
       "facebook",
@@ -32,36 +204,109 @@
      ],
      "time": "09:00",
      "tags": [
-      "#WorldCup2026"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Post-Match Discussion",
-     "for": "",
-     "copy": "The dust has settled on the FIFA World Cup 2026! Spain are champions. What was your favourite moment from the tournament?",
+     "name": "Oasis Comeback",
+     "for": "Nation 90s",
+     "copy": "It's 2026 and Oasis are back in the Top 3! 'Wonderwall' is currently sitting pretty at #2 on the Official Singles Chart. Still got it!",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "12:00",
+     "time": "11:00",
      "tags": [
-      "#Football"
+      "#Oasis"
+     ]
+    },
+    {
+     "name": "New Chart Anticipation",
+     "for": "Nation Hits",
+     "copy": "New chart day is Friday! Can Sam Fender & Olivia Dean hold onto #1, or will Oasis climb even higher? Who are you backing for the top spot?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#NewMusicFriday"
      ]
     }
    ]
   },
   {
-   "id": "latitude-festival-2026",
+   "id": "truck-festival",
    "off": 1,
    "type": "gig",
    "hot": true,
-   "title": "Latitude Festival kicks off",
-   "blurb": "Latitude Festival 2026 runs from Thursday, July 23rd to Sunday, July 26th in Henham Park, Suffolk, featuring headliners David Byrne, Teddy Swims, and Lewis Capaldi.",
+   "title": "Truck Festival Kicks Off",
+   "blurb": "Oxfordshire's Truck Festival, one of the UK's longest-running small music festivals, starts tomorrow, running until Sunday with The Maccabees, Two Door Cinema Club, and The Wombats headlining.",
    "source": {
-    "l": "Eastern Daily Press",
-    "u": "https://www.edp24.co.uk/things-to-do/2026-latitude-festival-suffolk-9140416/"
+    "l": "Truck Festival",
+    "u": "https://truckfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Excitement",
+     "for": "",
+     "copy": "Ready for a weekend of live music? Truck Festival kicks off tomorrow in Oxfordshire with a huge indie lineup! Who's heading to Hill Farm?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TruckFestival"
+     ]
+    },
+    {
+     "name": "Headliners Highlight",
+     "for": "Nation Rocks",
+     "copy": "The Maccabees, Two Door Cinema Club, The Wombats... Truck Festival is bringing the indie anthems this weekend! What's your must-see act?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#IndieMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "latitude-festival",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Latitude Festival Begins",
+   "blurb": "Latitude Festival returns to Henham Park in Suffolk from tomorrow until Sunday, featuring a diverse lineup of music, comedy, and arts.",
+   "source": {
+    "l": "Latitude Festival",
+    "u": "https://www.latitudefestival.com/"
    },
    "fits": [
     {
@@ -74,434 +319,18 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Festival Excitement",
+     "name": "Suffolk Local Focus",
      "for": "Nation Radio Suffolk",
-     "copy": "Suffolk is buzzing! Latitude Festival opens its gates tomorrow with a massive lineup across music, comedy, and arts. Who are you most excited to see?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#LatitudeFestival"
-     ]
-    },
-    {
-     "name": "Headliner Focus",
-     "for": "",
-     "copy": "Latitude Festival is ON! David Byrne, Teddy Swims, Lewis Capaldi all headlining this weekend at Henham Park. Get ready for some incredible live music!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#LiveMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "womad-festival-2026",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "WOMAD Festival brings world music to Wiltshire",
-   "blurb": "The World of Music, Arts and Dance (WOMAD) Festival is taking place from Thursday, July 23rd to Sunday, July 26th at its new home in Neston Park, Wiltshire.",
-   "source": {
-    "l": "1883 Magazine",
-    "u": "https://1883magazine.com/womad-festival-2026-at-neston-park/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Global Music",
-     "for": "",
-     "copy": "Ready for a world of music? WOMAD Festival kicks off tomorrow in Wiltshire, bringing incredible artists and cultures together for four days!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#WOMAD"
-     ]
-    },
-    {
-     "name": "Festival Discovery",
-     "for": "",
-     "copy": "Beyond the mainstream! WOMAD Festival is back from Thursday to Sunday at Neston Park. Discover new sounds and global legends all weekend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#WorldMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jennifer-lopez-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "J.Lo turns 56",
-   "blurb": "Global superstar Jennifer Lopez celebrates her 56th birthday on Friday, July 24th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "J.Lo Celebration",
-     "for": "",
-     "copy": "Jenny from the block is 56! Wishing a very happy birthday to the multi-talented Jennifer Lopez this Friday. What's your go-to J.Lo anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#JLo"
-     ]
-    },
-    {
-     "name": "Happy Birthday J.Lo",
-     "for": "",
-     "copy": "Still on the dancefloor! Celebrate J.Lo's 56th birthday with us on Friday. From music to movies, she does it all!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HappyBirthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "slash-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Slash celebrates 61st birthday",
-   "blurb": "Guns N' Roses guitarist Slash (Saul Hudson) turns 61 on Thursday, July 23rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Slash"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend Birthday",
-     "for": "",
-     "copy": "Welcome to the Jungle! Happy 61st birthday to the legendary Guns N' Roses guitarist, Slash, this Thursday. Those riffs are timeless!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Slash"
-     ]
-    },
-    {
-     "name": "Guitar Icon",
-     "for": "Nation Rocks",
-     "copy": "That top hat and those iconic riffs! Wishing a rockin' 61st birthday to the one and only Slash. What's your favourite GNR solo?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#GunsNRoses"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "selena-gomez-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Selena Gomez celebrates 34th birthday",
-   "blurb": "Actress and singer Selena Gomez celebrates her 34th birthday today, July 22nd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Selena_Gomez"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star Birthday",
-     "for": "",
-     "copy": "Happy Birthday to the amazing Selena Gomez, who turns 34 today! What's your favourite Selena track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SelenaGomez"
-     ]
-    },
-    {
-     "name": "From Disney to Global Star",
-     "for": "",
-     "copy": "From Disney to global pop sensation! Wishing Selena Gomez a very happy 34th birthday today. What a career!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#HappyBirthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "don-henley-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Don Henley turns 79",
-   "blurb": "Eagles co-founder, drummer, and vocalist Don Henley celebrates his 79th birthday today, July 22nd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Don_Henley"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Eagles Legend",
-     "for": "",
-     "copy": "Take it Easy! Wishing a very happy 79th birthday to Eagles legend Don Henley today. What's your favourite Henley-penned hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DonHenley"
-     ]
-    },
-    {
-     "name": "Voice of Classics",
-     "for": "Nation Classic Hits",
-     "copy": "The distinctive voice behind so many classics! Happy 79th birthday to the iconic Don Henley of The Eagles.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#TheEagles"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "george-clinton-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Funk icon George Clinton turns 85",
-   "blurb": "Parliament-Funkadelic leader and funk pioneer George Clinton celebrates his 85th birthday today, July 22nd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/George_Clinton"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Funk Master",
-     "for": "Nation Dance",
-     "copy": "Get up for the downstroke! Happy 85th birthday to the legendary funk mastermind George Clinton today. What a career!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#GeorgeClinton"
-     ]
-    },
-    {
-     "name": "P-Funk Icon",
-     "for": "Nation 70s",
-     "copy": "A true pioneer of funk! Wishing a very happy 85th birthday to the one and only George Clinton. Ready to get funked up?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#Funk"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-preseason",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League pre-season in full swing",
-   "blurb": "Premier League clubs are continuing their pre-season preparations with a host of friendlies this week, ahead of the new season starting August 21st.",
-   "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/news/11661/13168285/premier-league-pre-season-friendlies-2026-27-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Football Countdown",
-     "for": "",
-     "copy": "The countdown to the Premier League season is on! Pre-season games are happening all week – who are you excited to see in action?",
+     "copy": "Suffolk, are you ready for Latitude? The festival gates open tomorrow for a weekend of incredible music, comedy, and arts. Who are you excited to see?",
      "channels": [
       "instagram",
       "facebook",
@@ -511,60 +340,13 @@
      ],
      "time": "10:30",
      "tags": [
-      "#PremierLeague"
+      "#LatitudeFestival"
      ]
     },
     {
-     "name": "New Season Hype",
+     "name": "Diverse Lineup",
      "for": "",
-     "copy": "Football's almost back! Premier League teams are warming up with friendlies this week. Any early predictions for the new season?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#FootballIsBack"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "together-again-festival",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Together Again Festival in Cheshire",
-   "blurb": "The Together Again Festival takes place from Friday, July 24th to Sunday, July 26th at Bolesworth Castle in Cheshire, featuring a mix of music, arts, and culture.",
-   "source": {
-    "l": "Together Again Festival",
-    "u": "https://togetheragainfestival.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cheshire Festival",
-     "for": "",
-     "copy": "Cheshire is calling! Together Again Festival starts Friday at Bolesworth Castle for a weekend of music and good vibes. Who's going?",
+     "copy": "Latitude Festival is back! From tomorrow, Henham Park will be buzzing with a fantastic mix of artists. What's on your Latitude agenda?",
      "channels": [
       "instagram",
       "facebook",
@@ -572,22 +354,7 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
-     "tags": [
-      "#TogetherAgainFestival"
-     ]
-    },
-    {
-     "name": "Weekend Plans",
-     "for": "",
-     "copy": "Looking for festival fun this weekend? Together Again Festival brings a diverse lineup to Cheshire, running Friday to Sunday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:30",
+     "time": "15:00",
      "tags": [
       "#FestivalSeason"
      ]
@@ -595,35 +362,31 @@
    ]
   },
   {
-   "id": "truck-festival",
-   "off": 1,
+   "id": "depot-in-the-castle",
+   "off": 3,
    "type": "gig",
    "hot": true,
-   "title": "Truck Festival in Oxfordshire",
-   "blurb": "Truck Festival, known for its indie-fueled spirit, runs from Thursday, July 23rd to Sunday, July 26th at Hill Farm, Steventon, Oxfordshire.",
+   "title": "Depot In The Castle, Cardiff",
+   "blurb": "Depot In The Castle brings a day of live music to Cardiff Castle this Saturday, July 25th.",
    "source": {
-    "l": "Skiddle",
-    "u": "https://www.skiddle.com/festivals/truck-festival/"
+    "l": "Depot In The Castle",
+    "u": "https://depotinthecastle.com/"
    },
    "fits": [
     {
-     "g": "nation-network",
+     "g": "welsh-local",
      "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Indie Festival",
-     "for": "Nation Rocks",
-     "copy": "Ready to get your indie fix? Truck Festival kicks off tomorrow in Oxfordshire for a weekend of great music! Who's on your must-see list?",
+     "name": "Cardiff Local Call",
+     "for": "welsh-local",
+     "copy": "Cardiff! Your castle awaits! Depot In The Castle is this Saturday with a full day of live music. Who's joining the party?",
      "channels": [
       "instagram",
       "facebook",
@@ -633,42 +396,39 @@
      ],
      "time": "12:00",
      "tags": [
-      "#TruckFestival"
+      "#DepotInTheCastle"
      ]
     },
     {
-     "name": "Oxfordshire Fun",
-     "for": "",
-     "copy": "Another big festival weekend ahead! Truck Festival brings its unique vibe to Hill Farm from Thursday. Sun's out, tunes are on!",
+     "name": "Iconic Venue",
+     "for": "dragon",
+     "copy": "This weekend, Cardiff Castle is the place to be for Depot In The Castle! Get ready for some epic tunes in an iconic setting.",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "16:30",
+     "time": "16:00",
      "tags": [
-      "#FestivalVibes"
+      "#CardiffMusic"
      ]
     }
    ]
   },
   {
-   "id": "mick-jagger-bday",
+   "id": "mick-jagger-birthday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Mick Jagger turns 83",
-   "blurb": "The legendary Rolling Stones frontman Mick Jagger celebrates his 83rd birthday on Sunday, July 26th.",
+   "title": "Mick Jagger Turns 83",
+   "blurb": "The legendary frontman of The Rolling Stones, Mick Jagger, celebrates his 83rd birthday on Sunday, July 26th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mick_Jagger"
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-this-week-july-26-aug-1-b924294191c49646b539423c72195f4e"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 60s"
@@ -680,13 +440,17 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Rock Icon",
-     "for": "Nation Rocks",
-     "copy": "Still got the moves like Jagger! The iconic Mick Jagger celebrates his 83rd birthday this Sunday. What's your favourite Stones track?",
+     "name": "Rock Legend Birthday",
+     "for": "",
+     "copy": "Happy 83rd Birthday to the one and only Mick Jagger! The Rolling Stones icon is still rocking harder than anyone. What's your favourite Stones track?",
      "channels": [
       "instagram",
       "facebook",
@@ -700,16 +464,17 @@
      ]
     },
     {
-     "name": "Birthday Legend",
-     "for": "Nation 60s",
-     "copy": "Happy 83rd to rock and roll royalty, Mick Jagger! From the 60s to today, he's still a legend. What an incredible career!",
+     "name": "Age is Just a Number",
+     "for": "Nation Rocks",
+     "copy": "Still got the moves! Mick Jagger celebrates his 83rd birthday this Sunday. From 'Satisfaction' to stadium tours, what a career!",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
       "#RollingStones"
      ]
@@ -717,21 +482,129 @@
    ]
   },
   {
-   "id": "roger-taylor-bday",
+   "id": "stormzy-birthday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Queen's Roger Taylor turns 77",
-   "blurb": "Queen drummer Roger Taylor celebrates his 77th birthday on Sunday, July 26th.",
+   "title": "Happy Birthday, Stormzy!",
+   "blurb": "Grime superstar Stormzy celebrates his 33rd birthday on Sunday, July 26th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Roger_Taylor_(Queen_drummer)"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/july26.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Grime King Birthday",
+     "for": "",
+     "copy": "Big Mike turns 33! Happy Birthday to the incredible Stormzy this Sunday. What's your favourite track from the South London don?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Stormzy"
+     ]
     },
+    {
+     "name": "Impactful Artist",
+     "for": "",
+     "copy": "Wishing a massive Happy Birthday to Stormzy on Sunday! The trailblazing grime artist is 33. What an impact he's made!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#GrimeMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jennifer-lopez-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday J.Lo!",
+   "blurb": "Global superstar Jennifer Lopez celebrates her 57th birthday on Thursday, July 24th.",
+   "source": {
+    "l": "Ranker",
+    "u": "https://www.ranker.com/list/celebrities-born-on-july-24/celebrity-lists"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "J.Lo's Age Defiance",
+     "for": "",
+     "copy": "Can you believe J.Lo is 57 on Thursday? Jennifer Lopez still brings the heat! What's your favourite J.Lo anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#JLo"
+     ]
+    },
+    {
+     "name": "Triple Threat Birthday",
+     "for": "Nation Hits",
+     "copy": "It's Jennifer Lopez's birthday on Thursday! The ultimate triple threat turns 57. Which of her hits gets you on the dancefloor?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#JenniferLopez"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kate-bush-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday, Kate Bush!",
+   "blurb": "The iconic and influential singer-songwriter Kate Bush celebrates her 68th birthday on Tuesday, July 30th.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-this-week-july-26-aug-1-b924294191c49646b539423c72195f4e"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
@@ -747,9 +620,9 @@
    ],
    "angles": [
     {
-     "name": "Queen Drummer",
-     "for": "Nation Rocks",
-     "copy": "Another rock legend celebrating this Sunday! Happy 77th birthday to Queen's incredible drummer, Roger Taylor.",
+     "name": "Iconic Artist Birthday",
+     "for": "",
+     "copy": "Running up that hill and into her 68th year! Happy Birthday to the extraordinary Kate Bush this Tuesday. What's your favourite track from her?",
      "channels": [
       "instagram",
       "facebook",
@@ -757,62 +630,63 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
-      "#RogerTaylor"
+      "#KateBush"
      ]
     },
     {
-     "name": "Birthday Beats",
+     "name": "Unique Sound",
      "for": "Nation 70s",
-     "copy": "Keeping the beat for Queen for decades! Wishing a very happy 77th birthday to the one and only Roger Taylor. What's your favourite Queen hit?",
+     "copy": "The incomparable Kate Bush turns 68 on Tuesday! Her unique sound has captivated generations. Which of her songs is a classic for you?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "15:00",
+     "time": "13:00",
      "tags": [
-      "#Queen"
+      "#WutheringHeights"
      ]
     }
    ]
   },
   {
-   "id": "verdine-white-bday",
-   "off": 3,
-   "type": "birthday",
+   "id": "belladrum-tartan-heart-festival",
+   "off": 8,
+   "type": "gig",
    "hot": true,
-   "title": "Verdine White turns 75",
-   "blurb": "Earth, Wind & Fire bassist Verdine White celebrates his 75th birthday on Saturday, July 25th.",
+   "title": "Belladrum Tartan Heart Festival",
+   "blurb": "The Belladrum Tartan Heart Festival returns to the Scottish Highlands from July 30th to August 1st, featuring James, The Human League, and Callum Beattie.",
    "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/july-birthdays"
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/belladrum-tartan-heart-festival-2026/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Funk & Soul Icon",
-     "for": "Nation 70s",
-     "copy": "Boogie Wonderland! Wishing a very happy 75th birthday to the incredible Verdine White of Earth, Wind & Fire this Saturday. Still grooving!",
+     "name": "Scottish Festival Call",
+     "for": "Nation Radio Scotland",
+     "copy": "Scotland, get ready for Belladrum! The Tartan Heart Festival kicks off next week with James, The Human League and more. Who's heading to the Highlands?",
      "channels": [
       "instagram",
       "facebook",
@@ -822,36 +696,153 @@
      ],
      "time": "11:00",
      "tags": [
-      "#VerdineWhite"
+      "#Bella2026"
      ]
     },
     {
-     "name": "Birthday Groove",
-     "for": "Nation Dance",
-     "copy": "Still shining bright! Celebrate Verdine White's 75th birthday this weekend – a true funk and soul legend. What's your favourite EWF track?",
+     "name": "Festival Lineup Buzz",
+     "for": "",
+     "copy": "Three days of music, arts and community! Belladrum Tartan Heart Festival is just around the corner. Are you ready for 'Bella'?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "16:00",
+     "time": "15:00",
      "tags": [
-      "#EarthWindAndFire"
+      "#TartanHeart"
      ]
     }
    ]
   },
   {
-   "id": "jacoby-shaddix-bday",
-   "off": 6,
+   "id": "y-not-festival",
+   "off": 8,
+   "type": "gig",
+   "hot": true,
+   "title": "Y-Not Festival in Derbyshire",
+   "blurb": "Y-Not Festival brings its indie-fueled spirit back to the Peak District from July 30th to August 2nd, with headliners including The Libertines and Two Door Cinema Club.",
+   "source": {
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/y-not-festival-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Headliner Hype",
+     "for": "Nation Rocks",
+     "copy": "Headliners The Libertines and Two Door Cinema Club! Y-Not Festival is back in Derbyshire next week for another epic weekend. Who's got tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#YNotFestival"
+     ]
+    },
+    {
+     "name": "Peak District Vibes",
+     "for": "",
+     "copy": "Deep in the Peak District, Y-Not Festival is ready to ignite! Get set for four days of fantastic live music, starting July 30th.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#FestivalVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fatboy-slim-birthday",
+   "off": 9,
    "type": "birthday",
    "hot": true,
-   "title": "Papa Roach's Jacoby Shaddix turns 50",
-   "blurb": "Papa Roach frontman Jacoby Shaddix celebrates his 50th birthday on Tuesday, July 28th.",
+   "title": "Happy Birthday, Fatboy Slim!",
+   "blurb": "Legendary DJ and producer Fatboy Slim, Norman Cook, celebrates his 63rd birthday on Wednesday, July 31st.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/jacoby-shaddix.html"
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-this-week-july-28-aug-3-f1a2e76d05f31139191d4e7a2b919d3f"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Big Beat Birthday",
+     "for": "Nation Dance",
+     "copy": "Right here, right now, it's Fatboy Slim's birthday on Wednesday! The Big Beat legend turns 63. What's your favourite track to get the party started?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FatboySlim"
+     ]
+    },
+    {
+     "name": "Praise You",
+     "for": "Nation 90s",
+     "copy": "Happy Birthday to the one and only Fatboy Slim! Norman Cook celebrates 63 years of making us 'Praise You' on Wednesday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#NormanCook"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joe-elliott-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Joe Elliott Turns 67",
+   "blurb": "Def Leppard frontman Joe Elliott celebrates his 67th birthday on Thursday, August 1st.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-this-week-july-26-aug-1-b924294191c49646b539423c72195f4e"
    },
    "fits": [
     {
@@ -860,14 +851,14 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Rocking 50",
+     "name": "Rock Anthem Birthday",
      "for": "Nation Rocks",
-     "copy": "Cut my life into pieces, it's my birthday! Happy 50th to Papa Roach's Jacoby Shaddix this Tuesday. Still bringing the energy!",
+     "copy": "Pour some sugar on him! Def Leppard's Joe Elliott turns 67 this Thursday. What's your ultimate Def Leppard anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -875,62 +866,15 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:30",
+     "time": "09:00",
      "tags": [
-      "#JacobyShaddix"
+      "#JoeElliott"
      ]
     },
     {
-     "name": "Nu-Metal Birthday",
-     "for": "Nation 00s",
-     "copy": "Still rocking after all these years! Wishing a very happy 50th birthday to the energetic frontman Jacoby Shaddix. What's your favourite Papa Roach track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PapaRoach"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wanya-morris-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Boyz II Men's Wanya Morris turns 53",
-   "blurb": "Wanya Morris, a member of the iconic R&B group Boyz II Men, celebrates his 53rd birthday on Wednesday, July 29th.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/july-birthdays"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "R&B Icon",
-     "for": "Nation 90s",
-     "copy": "End of the Road for another year! Happy 53rd birthday to Boyz II Men's Wanya Morris this Wednesday. Still got those incredible harmonies!",
+     "name": "Def Leppard Frontman",
+     "for": "Nation 80s",
+     "copy": "Wishing a massive Happy Birthday to Joe Elliott of Def Leppard on August 1st! Still bringing the rock after all these years.",
      "channels": [
       "instagram",
       "facebook",
@@ -938,24 +882,9 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:30",
+     "time": "13:00",
      "tags": [
-      "#WanyaMorris"
-     ]
-    },
-    {
-     "name": "Boyz II Men Birthday",
-     "for": "Nation Love",
-     "copy": "Still harmonising! Wishing a very happy 53rd birthday to R&B legend Wanya Morris. What's your favourite Boyz II Men ballad?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#BoyzIIMen"
+      "#DefLeppard"
      ]
     }
    ]
