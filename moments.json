@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-25T10:59:19.712Z",
+ "updated": "2026-07-25T12:01:04.018Z",
  "moments": [
   {
-   "id": "commonwealth-games-glasgow-2026",
+   "id": "the-hundred-cricket-2026",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Commonwealth Games Glasgow 2026 underway",
-   "blurb": "The XXIII Commonwealth Games are currently ongoing in Glasgow, Scotland, running from July 23 to August 2, 2026, featuring 3,000 athletes from 74 nations competing across 10 sports.",
+   "title": "The Hundred Cricket Heats Up",
+   "blurb": "The Hundred men's and women's cricket tournaments are in full swing across the UK, with matches scheduled daily at venues like Headingley and Sophia Gardens, leading up to the final on August 16th.",
    "source": {
-    "l": "Glasgow 2026 Official Site / Wikipedia",
-    "u": "https://www.glasgow2026.com"
+    "l": "Cricket World / Radio Times",
+    "u": "https://www.cricketworld.com/the-hundred-2026-schedule-venues-dates-season-overview/95006.htm"
    },
    "fits": [
     {
@@ -18,65 +18,142 @@
      "sub": ""
     },
     {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "General excitement",
-     "copy": "The Commonwealth Games are in full swing in Glasgow! Who are you cheering on this weekend as the action continues? #Glasgow2026",
+     "name": "General UK Buzz",
+     "copy": "Batting, bowling, and brilliant catches! The Hundred is serving up non-stop action across the country. Who's your pick to win this year?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Glasgow2026"
-     ]
-    },
-    {
-     "name": "Team England success",
-     "copy": "Team England swimmers have already bagged medals at #Glasgow2026! Huge congrats to Cam Brooker on silver in the 4x100 freestyle relay.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
+      "tiktok",
       "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#TeamEngland"
+      "#TheHundred"
      ]
     },
     {
-     "name": "Local Scottish pride",
-     "copy": "Glasgow is shining as host city for the Commonwealth Games! So much incredible sport on show, live from our doorstep. #Scotland",
+     "name": "Welsh Fire Focus",
+     "for": "welsh-local",
+     "copy": "Our very own Welsh Fire are battling it out in The Hundred! Huge matches at Sophia Gardens this week - are you cheering them on?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "16:00",
+     "time": "15:30",
      "tags": [
-      "#Scotland"
+      "#WelshFire"
+     ]
+    },
+    {
+     "name": "London/Yorkshire Matchup",
+     "for": "nation-network",
+     "copy": "Whether you're rooting for MI London or Sunrisers Leeds, The Hundred is bringing the big hits to your city. Get down to the grounds or tune in!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TheHundred"
      ]
     }
    ]
   },
   {
-   "id": "uk-music-festivals-july-end",
+   "id": "love-island-2026-ongoing",
    "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Love Island UK Drama Continues",
+   "blurb": "The 13th series of Love Island UK, hosted by Maya Jama, is well underway from Mallorca, bringing daily dose of villa drama and recouplings to ITV2 and ITVX.",
+   "source": {
+    "l": "ITV / Tuko.co.ke",
+    "u": "https://www.tuko.co.ke/entertainment/tv-shows/550937-love-island-uk-usa-back-june-2026-full-schedule/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "General Drama",
+     "copy": "Has your head been turned by the latest Love Island drama? The villa is still delivering daily bombshells and fire pit moments!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    },
+    {
+     "name": "Relationship Status",
+     "copy": "Are we still 'just friends' or has someone been 'pulled for a chat'? Love Island is still the most talked-about show every night!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "21:00",
+     "tags": [
+      "#LoveIslandUK"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kendal-calling-2026",
+   "off": 5,
    "type": "gig",
    "hot": true,
-   "title": "Major UK Music Festivals this weekend",
-   "blurb": "Several big UK music festivals are happening this weekend and into next week, including Camp Bestival Dorset, Wilderness Festival, Belladrum Tartan Heart Festival, and Y-Not Festival.",
+   "title": "Kendal Calling Kicks Off Next Week",
+   "blurb": "Kendal Calling, the popular music and arts festival, returns to Lowther Deer Park in Cumbria from July 30th to August 2nd, featuring a diverse lineup of indie, rock, and pop acts.",
    "source": {
-    "l": "Ticketmaster / Skiddle",
-    "u": "https://www.ticketmaster.co.uk/july-festivals-uk"
+    "l": "Kendal Calling Official / eFestivals",
+    "u": "https://www.kendalcalling.co.uk/"
    },
    "fits": [
     {
@@ -89,17 +166,17 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Festival vibes general",
-     "copy": "Who's living their best life at a festival this weekend? Camp Bestival, Wilderness, Belladrum, Y-Not... where are you heading? #FestivalSeason",
+     "name": "Festival Excitement",
+     "copy": "Get ready for the fields! Kendal Calling is almost here, bringing four days of incredible music and good vibes to Cumbria from July 30th. Who are you buzzing to see?",
      "channels": [
       "instagram",
       "facebook",
@@ -107,107 +184,42 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:30",
+     "time": "10:00",
      "tags": [
-      "#FestivalSeason"
+      "#KendalCalling"
      ]
     },
     {
-     "name": "Camp Bestival highlights",
-     "copy": "Lulworth Castle is buzzing for Camp Bestival! Bastille, Fatboy Slim, Billy Ocean – what a line-up.",
+     "name": "Lineup Tease",
+     "copy": "The countdown is on for Kendal Calling! With a stacked lineup, it's set to be one of the summer's biggest parties. What's making your playlist for the road trip?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "13:00",
+     "time": "16:00",
      "tags": [
-      "#CampBestival"
-     ]
-    },
-    {
-     "name": "Y-Not and Belladrum",
-     "copy": "Derbyshire has Y-Not with The Libertines, and Scotland has Belladrum with James and The Human League! So much great music on this week.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#YNotFestival",
-      "#Belladrum"
+      "#Festivals"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-rein-me-in",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean hold UK #1",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' remains at number one on the Official UK Singles Chart for the week of July 23-29, 2026, marking its 18th non-consecutive week at the top.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart topper celebration",
-     "copy": "Still at #1! Sam Fender & Olivia Dean are dominating the Official Singles Chart with 'Rein Me In'. What a track!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "World Cup Anthem in Top 2",
-     "copy": "Shakira & Burna Boy's World Cup anthem 'Dai Dai' is still making waves, hitting #2 on the charts after that incredible halftime show!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#WorldCupAnthem"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-verdine-white",
+   "id": "verdine-white-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Verdine White turns 75",
-   "blurb": "Verdine White, legendary bassist and a founding member of Earth, Wind & Fire, celebrates his 75th birthday today, July 25, 2026.",
+   "title": "Happy 75th to Verdine White",
+   "blurb": "Verdine White, the iconic bassist and co-founder of Earth, Wind & Fire, celebrates his 75th birthday today, July 25th.",
    "source": {
-    "l": "Britannica / Famous Birthdays",
-    "u": "https://www.britannica.com/biography/Earth-Wind-and-Fire"
+    "l": "Bored Panda / Famous Birthdays",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-july-25-2026/"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
@@ -218,59 +230,53 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday to a legend",
-     "copy": "Happy 75th Birthday to the incredible Verdine White of Earth, Wind & Fire! Still bringing the funk. What's your favourite EWF track? #VerdineWhite",
+     "name": "Funk Legend",
+     "copy": "Seventy-five years young! Sending huge birthday wishes to the legendary Verdine White of Earth, Wind & Fire. What's your favourite EWF track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "09:00",
      "tags": [
-      "#EarthWindAndFire"
+      "#VerdineWhite"
      ]
     },
     {
-     "name": "Musical influence",
-     "copy": "That iconic bassline! Verdine White, turning 75 today, has shaped so much of the music we love with Earth, Wind & Fire. A true icon.",
+     "name": "Music Icon",
+     "copy": "He's still shining star! Happy 75th Birthday to Earth, Wind & Fire's incredible bassist, Verdine White. Turn up the funk today!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "13:30",
+     "time": "12:00",
      "tags": [
-      "#FunkLegend"
+      "#EarthWindAndFire"
      ]
     }
    ]
   },
   {
-   "id": "bday-mick-jagger",
+   "id": "mick-jagger-birthday",
    "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Mick Jagger turns 83",
-   "blurb": "Sir Mick Jagger, the iconic frontman of The Rolling Stones, will celebrate his 83rd birthday tomorrow, July 26, 2026.",
+   "title": "Mick Jagger Turns 83 Tomorrow",
+   "blurb": "The Rolling Stones' legendary frontman, Mick Jagger, will celebrate his 83rd birthday tomorrow, July 26th.",
    "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Mick_Jagger"
+    "l": "Associated Press / Off The Wall School Of Music",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-26-august-1-8f8e0d662b29c0a6b4618a8040a4cf02"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
@@ -283,8 +289,322 @@
    ],
    "angles": [
     {
-     "name": "Happy Birthday Mick",
-     "copy": "Tomorrow, the legendary Mick Jagger turns 83! Still got the moves like Jagger. What's your top Rolling Stones anthem?",
+     "name": "Rock Icon",
+     "copy": "Can you believe it? Mick Jagger turns 83 tomorrow! The ageless rock 'n' roll legend is still moving like Jagger. What's your all-time favourite Stones song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#MickJagger"
+     ]
+    },
+    {
+     "name": "Birthday Shoutout",
+     "copy": "Get ready to wish a very happy 83rd birthday to the one and only Mick Jagger tomorrow! What a career, what a performer.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RollingStones"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geddy-lee-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Rush's Geddy Lee Turns 73",
+   "blurb": "Geddy Lee, the influential bassist, vocalist, and keyboardist for progressive rock legends Rush, celebrates his 73rd birthday on July 29th.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-26-august-1-8f8e0d662b29c0a6b4618a8040a4cf02"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Prog Rock Legend",
+     "copy": "A true pioneer of progressive rock! Wishing a very happy 73rd birthday to Rush's iconic frontman, Geddy Lee, on July 29th. What's your favourite Rush epic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#GeddyLee"
+     ]
+    },
+    {
+     "name": "Musical Influence",
+     "copy": "From complex basslines to soaring vocals, Geddy Lee has inspired generations. Happy 73rd to the Rush legend this Wednesday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#RushBand"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joe-elliott-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Def Leppard's Joe Elliott is 67",
+   "blurb": "Def Leppard's powerhouse vocalist, Joe Elliott, celebrates his 67th birthday on August 1st.",
+   "source": {
+    "l": "Associated Press / Famous Birthdays",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-26-august-1-8f8e0d662b29c0a6b4618a8040a4cf02"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Vocalist",
+     "copy": "Pour some sugar on him! Happy 67th Birthday to Def Leppard's incredible frontman, Joe Elliott, this Saturday. Rock on!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#JoeElliott"
+     ]
+    },
+    {
+     "name": "Def Leppard Shoutout",
+     "copy": "From Sheffield to stadiums worldwide, Joe Elliott has led Def Leppard for decades. Wishing him a fantastic 67th birthday on August 1st!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#DefLeppard"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "adam-duritz-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Counting Crows' Adam Duritz Turns 62",
+   "blurb": "Adam Duritz, the distinctive voice and frontman of Counting Crows, celebrates his 62nd birthday on August 1st.",
+   "source": {
+    "l": "Associated Press / Famous Birthdays",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-26-august-1-8f8e0d662b29c0a6b4618a8040a4cf02"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Alternative Icon",
+     "copy": "He's got that long December feeling... of a birthday! Happy 62nd to Counting Crows' Adam Duritz on August 1st. What's your go-to Counting Crows track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#AdamDuritz"
+     ]
+    },
+    {
+     "name": "Counting Crows Love",
+     "copy": "Wishing a very happy 62nd birthday to the lyrical genius, Adam Duritz of Counting Crows, this Saturday! Still love those '90s anthems.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#CountingCrows"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chuck-d-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Public Enemy's Chuck D is 66",
+   "blurb": "Carlton Douglas Ridenhour, famously known as Chuck D, the influential leader of Public Enemy, celebrates his 66th birthday on August 1st.",
+   "source": {
+    "l": "Associated Press / Musicians born on August 1",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-26-august-1-8f8e0d662b29c0a6b4618a8040a4cf02"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip Hop Legend",
+     "copy": "Don't believe the hype, it's his birthday! Happy 66th to the legendary Chuck D of Public Enemy this Saturday. A true voice for the ages.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#ChuckD"
+     ]
+    },
+    {
+     "name": "Public Enemy Influence",
+     "copy": "Still fighting the power! Wishing a very happy 66th birthday to hip hop icon Chuck D on August 1st. His impact is undeniable.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#PublicEnemy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "suzi-gardner-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "L7's Suzi Gardner Turns 66",
+   "blurb": "Suzi Gardner, co-founder, guitarist, and vocalist of the groundbreaking grunge band L7, celebrates her 66th birthday on August 1st.",
+   "source": {
+    "l": "Associated Press / Musicians born on August 1",
+    "u": "https://apnews.com/article/celebrity-birthdays-july-26-august-1-8f8e0d662b29c0a6b4618a8040a4cf02"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Grunge Pioneer",
+     "copy": "Happy 66th Birthday to the incredible Suzi Gardner of L7 this Saturday! A true force in '90s rock. What's your favourite L7 track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SuziGardner"
+     ]
+    },
+    {
+     "name": "L7 Shoutout",
+     "copy": "From grunge anthems to powerful performances, Suzi Gardner helped define an era. Wishing her a very happy 66th on August 1st!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#L7Band"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-update",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "The Official Singles Chart Battle",
+   "blurb": "The race for the top spot on the Official UK Singles Chart is always fierce, with new releases and climbing hits battling it out this week. The latest chart will be revealed soon.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Race",
+     "copy": "Who's going to hit number one this week? The Official Singles Chart is always full of surprises! Any predictions?",
      "channels": [
       "instagram",
       "facebook",
@@ -294,420 +614,89 @@
      ],
      "time": "17:00",
      "tags": [
-      "#MickJagger",
-      "#RollingStones"
+      "#UKCharts"
      ]
     },
     {
-     "name": "Rock Icon",
-     "copy": "83 years young! Mick Jagger, the ultimate rock 'n' roll frontman, celebrates his birthday tomorrow. An absolute icon. #RockLegend",
+     "name": "New Music vs Old Favourites",
+     "copy": "Are new releases dominating, or are some older bangers climbing back up? Tune in for all the latest Official Singles Chart action!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "19:00",
      "tags": [
-      "#RockLegend"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
-   "id": "bday-roger-taylor",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Roger Taylor turns 77",
-   "blurb": "Roger Taylor, the acclaimed drummer for the legendary band Queen, celebrates his 77th birthday tomorrow, July 26, 2026.",
-   "source": {
-    "l": "Wikipedia / Off The Wall School Of Music",
-    "u": "https://en.wikipedia.org/wiki/Roger_Taylor_(Queen_drummer)"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen's drummer birthday",
-     "copy": "Sending birthday wishes to Queen's incredible drummer, Roger Taylor, who turns 77 tomorrow! What's your favourite Queen drum fill?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#RogerTaylor",
-      "#Queen"
-     ]
-    },
-    {
-     "name": "Rock royalty",
-     "copy": "From 'Bohemian Rhapsody' to 'Radio Ga Ga', Roger Taylor's drumming is unmistakable. Happy 77th birthday to a rock legend tomorrow! #Drummer",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#Drummer"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-missy-elliott",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Missy Elliott turns 55",
-   "blurb": "Grammy-winning rapper, singer, songwriter, and producer Missy Elliott will celebrate her 55th birthday on July 28, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Missy_Elliott"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Iconic rapper's birthday",
-     "copy": "Get Ur Freak On! The one and only Missy Elliott turns 55 on Sunday. A true pioneer and legend. What's your favourite Missy track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MissyElliott",
-      "#HipHop"
-     ]
-    },
-    {
-     "name": "Influence on music",
-     "copy": "Missy 'Misdemeanor' Elliott has continually pushed boundaries in music and video. Wishing her a very happy 55th birthday this weekend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MusicIcon"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-kate-bush",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Kate Bush turns 68",
-   "blurb": "Influential British singer-songwriter Kate Bush will celebrate her 68th birthday on July 30, 2026.",
-   "source": {
-    "l": "Britannica / Wikipedia",
-    "u": "https://www.britannica.com/biography/Kate-Bush"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Kate",
-     "copy": "Wuthering Heights to Running Up That Hill! The visionary Kate Bush turns 68 on Thursday. Her music is timeless. #KateBush",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#KateBush"
-     ]
-    },
-    {
-     "name": "Music legend",
-     "copy": "A true artist who broke the mould. Happy 68th Birthday to the extraordinary Kate Bush later this week!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#MusicLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-joe-elliott-def-leppard",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Joe Elliott (Def Leppard) turns 67",
-   "blurb": "Joe Elliott, the lead singer of the iconic British rock band Def Leppard, will celebrate his 67th birthday on August 1, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Joe_Elliott"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Def Leppard frontman birthday",
-     "copy": "Pour Some Sugar On Him! Happy 67th Birthday to Def Leppard's legendary frontman, Joe Elliott, this Saturday! #DefLeppard",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#JoeElliott"
-     ]
-    },
-    {
-     "name": "Rock voice",
-     "copy": "That unmistakable voice! Joe Elliott turns 67 this weekend. What's your favourite Def Leppard power ballad?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#RockVoice"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-chuck-d-public-enemy",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Chuck D (Public Enemy) turns 66",
-   "blurb": "Chuck D, the influential frontman of the hip-hop group Public Enemy, will celebrate his 66th birthday on August 1, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Chuck_D"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hip-hop pioneer birthday",
-     "copy": "Fight the Power! Wishing a very happy 66th birthday to the iconic Chuck D of Public Enemy this Saturday. #PublicEnemy",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ChuckD"
-     ]
-    },
-    {
-     "name": "Rap influence",
-     "copy": "A true lyrical force and game-changer in hip-hop. Chuck D turns 66 this weekend. What's his most impactful track for you?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#HipHopLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-adam-duritz-counting-crows",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Adam Duritz (Counting Crows) turns 62",
-   "blurb": "Adam Duritz, the distinctive lead singer of the American rock band Counting Crows, will celebrate his 62nd birthday on August 1, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Adam_Duritz"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Counting Crows frontman birthday",
-     "copy": "Mr. Jones and me... wish a very happy 62nd birthday to Adam Duritz of Counting Crows this Saturday! What's your favourite lyric from him?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#AdamDuritz",
-      "#CountingCrows"
-     ]
-    },
-    {
-     "name": "Iconic voice",
-     "copy": "The voice behind so many anthems, Adam Duritz turns 62 this weekend. A true songwriter.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#90sRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-summer-weather-holidays",
+   "id": "uk-summer-weather",
    "off": 0,
    "type": "seasonal",
-   "hot": false,
-   "title": "UK basks in summer heat, school holidays begin",
-   "blurb": "The UK is experiencing a warm spell with temperatures in London potentially reaching 31°C by July 29, coinciding with the start of summer holidays for many schools across England and Wales.",
+   "hot": true,
+   "title": "Mixed Summer Weather Ahead for UK",
+   "blurb": "After a very warm July for some, the UK weather is set to become more changeable over the weekend and into next week, with temperatures easing for many but still reaching the high 20s in the South East.",
    "source": {
-    "l": "AccuWeather / GOV.UK",
-    "u": "https://www.accuweather.com/en/gb/london/328328/month/328328?view=table"
+    "l": "Met Office / AccuWeather",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Heatwave update",
-     "copy": "The summer heat is on! Expecting some scorching temperatures across the UK this week, with London set to hit 31°C. Stay cool and hydrated!",
+     "name": "Weekend Weather Outlook",
+     "copy": "Get those brollies ready! The UK's summer weather is turning a bit more mixed this weekend. Still some sunshine, but a few showers might pop up. What are your plans?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#UKWeather",
-      "#Heatwave"
+      "#UKWeather"
      ]
     },
     {
-     "name": "School's Out!",
-     "copy": "For many, the summer holidays are officially here! Whether you're stayingcationing or jetting off, enjoy the break. #SummerHolidays",
+     "name": "South East Sunshine",
+     "for": "nation-network",
+     "copy": "Still feeling summery in the South East, with temperatures in the high 20s expected this weekend! Perfect for enjoying those outdoor plans.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "09:30",
      "tags": [
-      "#SummerVibes"
+      "#LondonWeather"
+     ]
+    },
+    {
+     "name": "Devon Forecast",
+     "for": "radio-exe",
+     "copy": "Devon, get ready for a more changeable forecast this weekend. Keep an eye on the skies, but there'll still be chances to enjoy our beautiful county!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#DevonWeather"
      ]
     }
    ]
