@@ -1,27 +1,48 @@
 {
- "updated": "2026-07-26T15:52:44.099Z",
+ "updated": "2026-07-26T16:42:44.635Z",
  "moments": [
   {
-   "id": "f1-hungarian-gp-2026",
-   "off": 0,
-   "type": "sport",
+   "id": "love-island-final",
+   "off": 1,
+   "type": "tv",
    "hot": true,
-   "title": "F1 Hungarian Grand Prix",
-   "blurb": "The Formula 1 AWS Hungarian Grand Prix is taking place today at the Hungaroring, with Lando Norris on pole position.",
+   "title": "Love Island UK 2026 Finale",
+   "blurb": "The 13th season of Love Island UK concludes live tomorrow night, with the remaining couples battling for the £50,000 prize.",
    "source": {
-    "l": "Formula 1 Official / Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/2026_Hungarian_Grand_Prix"
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/tv/reality-tv/love-island-2026-final-date-news-feature/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Race Day Excitement",
-     "copy": "Lights out, and away we go! It's Grand Prix race day in Hungary, with Lando Norris starting from pole. Can he hold on for the win?",
+     "name": "Who will win?",
+     "for": "",
+     "copy": "Tomorrow night, the Love Island UK villa closes its doors for another year! Who are you rooting for to take home the £50k? Tune in at 9 PM on ITV2 and ITVX. #LoveIsland",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LoveIsland"
+     ]
+    },
+    {
+     "name": "Finale format change",
+     "for": "",
+     "copy": "Love Island UK host Maya Jama has teased a 'different format' for tomorrow's grand finale. What twists could be in store for the final couples? Don't miss it!",
      "channels": [
       "instagram",
       "facebook",
@@ -31,45 +52,56 @@
      ],
      "time": "14:00",
      "tags": [
-      "#F1 #HungarianGP"
-     ]
-    },
-    {
-     "name": "Norris' Pole Position",
-     "copy": "Lando Norris on pole for today's Hungarian Grand Prix! All eyes on the Brit to convert that into a victory. Tune in!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#F1 #LandoNorris"
+      "#LoveIslandUK"
      ]
     }
    ]
   },
   {
-   "id": "the-hundred-2026-match7",
-   "off": 0,
+   "id": "commonwealth-games-closing",
+   "off": 7,
    "type": "sport",
    "hot": true,
-   "title": "The Hundred Continues: Manchester vs Birmingham",
-   "blurb": "The Hundred cricket competition rolls on today with Match 7 of the Men's tournament: Manchester Super Giants take on Birmingham Phoenix.",
+   "title": "Glasgow 2026 Commonwealth Games Closing Ceremony",
+   "blurb": "The Glasgow 2026 Commonwealth Games conclude on August 2nd with a closing ceremony featuring Scottish rock band Simple Minds and Australian singer Delta Goodrem.",
    "source": {
-    "l": "Cricket World",
-    "u": "https://www.cricketworld.com/the-hundred-mens-2026-teams-player-squads-fixtures-schedule-and-all-you-need-to-know/71336.htm"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/2026_Commonwealth_Games"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Match Day Action",
-     "copy": "It's another day of rapid-fire cricket as The Hundred continues! Manchester Super Giants face Birmingham Phoenix today. Who are you backing?",
+     "name": "Final weekend of action",
+     "for": "",
+     "copy": "It's the final week of the Glasgow 2026 Commonwealth Games! Who's been your standout star or favourite moment so far? The closing ceremony is August 2nd!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Glasgow2026"
+     ]
+    },
+    {
+     "name": "Closing ceremony headliners",
+     "for": "Nation Radio Scotland",
+     "copy": "Simple Minds are set to headline the Glasgow 2026 Commonwealth Games closing ceremony on August 2nd! A fitting end to a fantastic sporting event in Scotland.",
      "channels": [
       "instagram",
       "facebook",
@@ -77,23 +109,27 @@
      ],
      "time": "15:00",
      "tags": [
-      "#TheHundred #Cricket"
+      "#CommonwealthGames"
      ]
     }
    ]
   },
   {
-   "id": "mick-jagger-birthday",
+   "id": "jagger-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Mick Jagger turns 83",
-   "blurb": "The legendary Rolling Stones frontman Mick Jagger celebrates his 83rd birthday today.",
+   "blurb": "The iconic frontman of The Rolling Stones, Mick Jagger, celebrates his 83rd birthday today, July 26th.",
    "source": {
-    "l": "Bored Panda / AP News",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFXn4PxcoDLEjEcNSfHnS_N6BNrV2OYvWW2xts4icEK_QrNmu3VDx5LJblRs9BpZ0p52eMRg49nXbK92AR7Jaq7Yp9r4JHBoStm56jpvAX9rEkP6tL5Mn8dt7VLX90xMxs9ou-ru49_aI5XZrT2U_Sxy87-QCrGd2xlqfcYg=="
+    "l": "Men's Journal",
+    "u": "https://www.mensjournal.com/entertainment/mick-jagger-rolling-stones-birthday-83"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 60s"
@@ -104,17 +140,14 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Still Rocking at 83",
-     "copy": "Happy 83rd birthday to the one and only Mick Jagger! The ultimate rock 'n' roll icon, still strutting and captivating audiences worldwide. What's your favourite Stones track?",
+     "name": "Happy Birthday Mick!",
+     "for": "",
+     "copy": "Happy 83rd Birthday to the legendary Mick Jagger! Still got the moves, still got the voice. What's your favourite Rolling Stones track?",
      "channels": [
       "instagram",
       "facebook",
@@ -122,14 +155,15 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#MickJagger #RollingStones"
+      "#MickJagger"
      ]
     },
     {
-     "name": "Legendary Performer",
-     "copy": "From Hyde Park to stadiums across the globe, Mick Jagger has been electrifying stages for decades. Wishing the legend a very happy 83rd birthday!",
+     "name": "Rock icon",
+     "for": "Nation Rocks",
+     "copy": "83 years young and still rocking! Wishing a very happy birthday to The Rolling Stones' incomparable frontman, Mick Jagger. A true icon of rock and roll.",
      "channels": [
       "instagram",
       "facebook",
@@ -137,7 +171,7 @@
      ],
      "time": "12:00",
      "tags": [
-      "#MickJagger #Legend"
+      "#RollingStones"
      ]
     }
    ]
@@ -148,12 +182,16 @@
    "type": "birthday",
    "hot": true,
    "title": "Roger Taylor turns 77",
-   "blurb": "Queen's powerhouse drummer and songwriter Roger Taylor celebrates his 77th birthday today.",
+   "blurb": "Queen drummer and songwriter Roger Taylor celebrates his 77th birthday today, July 26th.",
    "source": {
-    "l": "Bored Panda / AP News",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFXn4PxcoDLEjEcNSfHnS_N6BNrV2OYvWW2xts4icEK_QrNmu3VDx5LJblRs9BpZ0p52eMRg49nXbK92AR7Jaq7Yp9r4JHBoStm56jpvAX9rEkP6tL5Mn8dt7VLX90xMxs9ou-ru49_aI5XZrT2U_Sxy87-QCrGd2xlqfcYg=="
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-july-26-2026/"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
@@ -161,31 +199,27 @@
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Drumming Legend",
-     "copy": "Happy 77th birthday to the one and only Roger Taylor! The man behind the thunderous drums for Queen, and a brilliant songwriter in his own right. What's your favourite Queen song he wrote?",
+     "name": "Happy Birthday Roger!",
+     "for": "",
+     "copy": "Sending birthday wishes to the one and only Roger Taylor of Queen! 77 today and still drumming up a storm. What's your top Queen song with Roger on vocals?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
-      "#RogerTaylor #Queen"
+      "#RogerTaylor"
      ]
     },
     {
-     "name": "Queen's Beat",
-     "copy": "Wishing a very happy 77th birthday to Roger Taylor! The legendary drummer who gave Queen their iconic beat. What's your top Queen track?",
+     "name": "Queen's beat",
+     "for": "Nation Rocks",
+     "copy": "The powerful beat behind Queen, Roger Taylor, celebrates his 77th birthday today! From 'Radio Ga Ga' to 'A Kind of Magic', his impact is undeniable.",
      "channels": [
       "instagram",
       "facebook",
@@ -193,44 +227,7 @@
      ],
      "time": "13:00",
      "tags": [
-      "#Queen #Drummer"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "taylor-momsen-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Taylor Momsen turns 33",
-   "blurb": "The Pretty Reckless frontwoman and actress Taylor Momsen celebrates her 33rd birthday today.",
-   "source": {
-    "l": "Bored Panda",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFXn4PxcoDLEjEcNSfHnS_N6BNrV2OYvWW2xts4icEK_QrNmu3VDx5LJblRs9BpZ0p52eMRg49nXbK92AR7Jaq7Yp9r4JHBoStm56jpvAX9rEkP6tL5Mn8dt7VLX90xMxs9ou-ru49_aI5XZrT2U_Sxy87-QCrGd2xlqfcYg=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Star Birthday",
-     "copy": "Happy 33rd birthday to the incredible Taylor Momsen of The Pretty Reckless! From acting to owning the stage, she does it all. Crank up your favourite TPR track today!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TaylorMomsen #ThePrettyReckless"
+      "#Queen"
      ]
     }
    ]
@@ -241,21 +238,30 @@
    "type": "birthday",
    "hot": true,
    "title": "Stormzy turns 33",
-   "blurb": "Grime superstar Stormzy celebrates his 33rd birthday today.",
+   "blurb": "British grime and hip-hop superstar Stormzy celebrates his 33rd birthday today, July 26th.",
    "source": {
-    "l": "Celebrity Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwMZpwm_khfHbAP4LpWuyfPJ9FULy69k8Qy9fKUkVcTbpAYEGUGZ7NlAJqHqgkuITtQC9huS7hxbHx_6xejbYGZ5UI2bzQ-_qN5OvdvfRBFOS2Ol4CCfQ7A7kISagZ-YWQgs13KVN4="
+    "l": "Foxy99.com",
+    "u": "https://foxy99.com/this-day-in-hip-hop-and-rb-history-july-26/"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Big For Your Boots",
-     "copy": "Big Mike turns 33 today! Wishing a massive happy birthday to the one and only Stormzy. What's your favourite track from the grime king?",
+     "name": "Big Mike's Birthday",
+     "for": "",
+     "copy": "Happy 33rd Birthday to the one and only Stormzy! From freestyle king to festival headliner, what's your favourite track from Big Mike?",
      "channels": [
       "instagram",
       "facebook",
@@ -265,231 +271,113 @@
      ],
      "time": "10:30",
      "tags": [
-      "#Stormzy #Grime"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "good-vibrations-society-2026",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Good Vibrations Society Festival",
-   "blurb": "The Good Vibrations Society music and wellbeing festival kicks off in East Sussex from July 31st to August 2nd, featuring Ms Dynamite, Orbital DJ Set, and Bay City Rollers.",
-   "source": {
-    "l": "Good Vibrations Society",
-    "u": "https://goodvibrationssociety.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Vibes Coming",
-     "copy": "Get ready for good vibes! The Good Vibrations Society festival starts this Friday in East Sussex, with Ms Dynamite, Orbital, and the Bay City Rollers. Who are you excited to see?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#GoodVibrationsSociety #Festival"
+      "#Stormzy"
      ]
     },
     {
-     "name": "East Sussex Festival",
-     "copy": "Music, wellbeing, and good times await! Good Vibrations Society Festival takes over East Sussex this weekend. Perfect for a summer escape.",
+     "name": "Grime icon",
+     "for": "Nation Hits",
+     "copy": "Celebrating 33 years of the legendary Stormzy today! A true pioneer who changed the game for British music. What's your go-to Stormzy anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "14:30",
      "tags": [
-      "#FestivalSeason #EastSussex"
+      "#Grime"
      ]
     }
    ]
   },
   {
-   "id": "belladrum-tartan-heart-2026",
-   "off": 4,
-   "type": "gig",
+   "id": "uk-singles-chart",
+   "off": 0,
+   "type": "culture",
    "hot": true,
-   "title": "Belladrum Tartan Heart Festival",
-   "blurb": "The Belladrum Tartan Heart Festival, Scotland's popular summer celebration, runs from July 30th to August 1st in the Highlands, with headliners James and The Human League.",
+   "title": "Sam Fender & Olivia Dean make chart history",
+   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' is the UK's Official Singles Chart Number 1 for an 18th non-consecutive week, matching the longest-running UK Number 1 of all time.",
    "source": {
-    "l": "Belladrum Festival",
-    "u": "https://www.tartanheartfestival.co.uk/"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/news/the-official-biggest-songs-of-2026-so-far/"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Scottish Festival Fun",
-     "copy": "Belladrum Tartan Heart Festival kicks off in the Scottish Highlands this Thursday! James and The Human League are headlining. Ready for a Highland fling?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Belladrum #TartanHeart"
-     ]
-    },
-    {
-     "name": "Highland Music Magic",
-     "copy": "Scotland, get ready! Belladrum Tartan Heart Festival brings three days of music and magic to the Highlands from July 30th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#ScottishFestival #LiveMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "y-not-festival-2026",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "Y-Not Festival in Derbyshire",
-   "blurb": "Y-Not Festival returns to Derbyshire from July 30th to August 2nd, featuring The Libertines, Reytons, Two Door Cinema Club, and The Streets.",
-   "source": {
-    "l": "Y-Not Festival",
-    "u": "https://www.ynotfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Derbyshire Festival Alert",
-     "copy": "The Peak District is calling! Y-Not Festival is back from July 30th with The Libertines, The Streets, and more. Who's heading to Derbyshire?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#YNotFestival #Derbyshire"
-     ]
-    },
-    {
-     "name": "Indie Festival Countdown",
-     "copy": "Just a few days until Y-Not Festival opens its gates! Get ready for a huge lineup in the heart of Derbyshire.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#FestivalVibes #IndieMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "palace-bowl-grace-jones",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Grace Jones at Palace Bowl",
-   "blurb": "The iconic Grace Jones headlines the opening night of Palace Bowl Presents at Crystal Palace Bowl on July 31st, with Sophie Ellis-Bextor and Soul II Soul.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/july-festivals-uk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "London Icon Live",
-     "copy": "Grace Jones, Sophie Ellis-Bextor, and Soul II Soul – what a lineup! Palace Bowl Presents kicks off this Friday at Crystal Palace Bowl. Get ready, London!",
+     "name": "Chart record breakers",
+     "for": "",
+     "copy": "History made! Sam Fender & Olivia Dean's 'Rein Me In' is Number 1 for an 18th week, equalling the all-time UK record! Have you streamed it today?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "16:30",
+     "time": "11:30",
      "tags": [
-      "#GraceJones #LondonGigs"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Palace Bowl Opener",
-     "copy": "The legendary Crystal Palace Bowl is alive again! Grace Jones leads the charge for Palace Bowl Presents this Friday. Who's joining the party?",
+     "name": "Shakira & Burna Boy at No.2",
+     "for": "Nation Hits",
+     "copy": "Shakira & Burna Boy's World Cup anthem 'Dai Dai' holds strong at Number 2 in the UK Singles Chart! What a track!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#UKCharts"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "folk-festivals-start",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Folk festivals kick off this week",
+   "blurb": "The Cambridge Folk Festival, Belladrum Tartan Heart Festival, and Wickham Festival all begin on Thursday, July 30th.",
+   "source": {
+    "l": "eFestivals",
+    "u": "https://www.efestivals.co.uk/festivals/2026/index.shtml"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival season continues",
+     "for": "",
+     "copy": "Calling all folk fans! Cambridge, Belladrum, and Wickham Festivals all kick off this Thursday. Who are you hoping to catch?",
      "channels": [
       "instagram",
       "facebook",
@@ -497,23 +385,249 @@
      ],
      "time": "10:00",
      "tags": [
-      "#CrystalPalaceBowl #LiveMusic"
+      "#FolkFestival"
+     ]
+    },
+    {
+     "name": "Belladrum for Scotland",
+     "for": "Nation Radio Scotland",
+     "copy": "Get ready for the Tartan Heart! Belladrum Festival begins this Thursday in the Highlands, bringing a fantastic lineup to Scotland. Who's heading there?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Belladrum"
      ]
     }
    ]
   },
   {
-   "id": "the-hundred-welsh-fire",
+   "id": "aig-womens-open",
    "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "Welsh Fire in The Hundred",
-   "blurb": "Welsh Fire's men's and women's teams are in action in The Hundred this Wednesday, taking on Trent Rockets at Sophia Gardens in Cardiff.",
+   "title": "AIG Women's Open at Royal Lytham & St Annes",
+   "blurb": "The AIG Women's Open golf championship begins on Wednesday, July 29th, at Royal Lytham & St Annes in England.",
    "source": {
-    "l": "Radio Times",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGogELDj5UTvgyfcneBVWywW8O01pQULq3c1Fb6P_BHD9mDRexPwEXqHz672HmSA3G5JwFCeC4wfrD5SfMD0krp0lgmV7qODeQ6QZ7HWa0eLi3cMIuYuogM9MygsaMhM88CeCE56u3PiMWMqoaauhgrc9I_Q2eH828Nt4hrFN9mAKw=="
+    "l": "Visit Britain",
+    "u": "https://www.visitbritain.org/looking-ahead-britains-sporting-highlights-2026"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Major golf event",
+     "for": "",
+     "copy": "The world's best female golfers descend on Royal Lytham & St Annes this Wednesday for the AIG Women's Open! Who's your pick for the title?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#AIGWomensOpen"
+     ]
+    },
+    {
+     "name": "Lancashire golf",
+     "for": "nation-network",
+     "copy": "A huge week for golf in the UK! The AIG Women's Open tees off in Lancashire on Wednesday. Get ready for some incredible action.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#WomensGolf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "buddy-guy-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Buddy Guy turns 90",
+   "blurb": "Legendary blues guitarist and singer Buddy Guy celebrates his 90th birthday on Thursday, July 30th.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-week-july-26-aug-1-2026-613d5b2738f71120202860d9a6907865"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Blues legend at 90",
+     "for": "",
+     "copy": "A very happy 90th birthday to the incredible blues legend Buddy Guy this Thursday! What a career, what a guitarist. Give us your favourite track!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BuddyGuy"
+     ]
+    },
+    {
+     "name": "Influential guitarist",
+     "for": "Nation Easy",
+     "copy": "Celebrating 90 years of the influential bluesman Buddy Guy this week. His impact on music is immeasurable. Turn up the blues for Buddy!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#BluesMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kate-bush-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Kate Bush turns 68",
+   "blurb": "Iconic British singer-songwriter Kate Bush celebrates her 68th birthday on Thursday, July 30th.",
+   "source": {
+    "l": "Singers Born July 30 | Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/birthdays/july30.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Kate!",
+     "for": "",
+     "copy": "Wishing a very happy 68th birthday to the incomparable Kate Bush this Thursday! What's your most loved Kate Bush song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#KateBush"
+     ]
+    },
+    {
+     "name": "Wuthering Heights to Running Up That Hill",
+     "for": "Nation 80s",
+     "copy": "From 'Wuthering Heights' to 'Running Up That Hill', Kate Bush's unique artistry continues to captivate. Happy 68th to a true legend on Thursday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RunningUpThatHill"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joe-elliott-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Joe Elliott turns 67",
+   "blurb": "Def Leppard frontman Joe Elliott celebrates his 67th birthday on Saturday, August 1st.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joe_Elliott"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Joe!",
+     "for": "",
+     "copy": "Rock on! A very happy 67th birthday to Def Leppard's legendary singer, Joe Elliott, this Saturday. What's your favourite Def Leppard anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#JoeElliott"
+     ]
+    },
+    {
+     "name": "Def Leppard legend",
+     "for": "Nation Rocks",
+     "copy": "Pour some sugar on him! Celebrating Joe Elliott's 67th birthday this Saturday. The voice of Def Leppard, still sounding incredible.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#DefLeppard"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-summer-holidays",
+   "off": 0,
+   "type": "seasonal",
+   "hot": false,
+   "title": "Summer Holidays in full swing",
+   "blurb": "The school summer holidays are well underway across England and Wales, with many families enjoying their breaks before schools return in early September.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/school-term-holiday-dates"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "welsh-local",
      "sub": ""
@@ -523,61 +637,15 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cardiff Cricket Action",
-     "copy": "Catch the Welsh Fire in action this Wednesday in The Hundred! Both men's and women's teams play Trent Rockets at Sophia Gardens, Cardiff. Get behind them!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#WelshFire #TheHundred"
-     ]
-    },
-    {
-     "name": "Support Welsh Fire",
-     "copy": "Our very own Welsh Fire are battling it out in The Hundred this week! Don't miss the action in Cardiff on Wednesday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#CricketWales #SophiaGardens"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "harry-kane-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Harry Kane turns 33",
-   "blurb": "England football captain Harry Kane celebrates his 33rd birthday on Tuesday.",
-   "source": {
-    "l": "Celebrity Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl2fxUiOV9Ww-lxQ0ZXVmcr60Za_Lu1WwRBaOmr3jrCg7AvsTPqdkdl1oyTgNSmqSnXQgtZpnhxWn69pJ7dfEoT39R8zucXHBxyKcoaoKqmEk1AfIK92JCNAcF8jwIumEDLbDv2Fg=="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
+     "g": "radio-exe",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "England Captain's Birthday",
-     "copy": "Happy 33rd birthday to England's captain fantastic, Harry Kane! What's your favourite Harry Kane moment?",
+     "name": "Summer break fun",
+     "for": "",
+     "copy": "Summer holidays are in full swing for many! What's been your favourite family adventure so far, or what are your plans for the last few weeks?",
      "channels": [
       "instagram",
       "facebook",
@@ -587,471 +655,21 @@
      ],
      "time": "09:00",
      "tags": [
-      "#HarryKane #EnglandFootball"
+      "#SummerHolidays"
      ]
     },
     {
-     "name": "Goal Machine Turns 33",
-     "copy": "Wishing a very happy 33rd birthday to Harry Kane! Here's to more goals and glory for the England striker.",
+     "name": "Making memories",
+     "for": "welsh-local",
+     "copy": "Enjoying the Welsh summer holidays? We want to hear about your adventures and days out across South Wales! Making memories before school starts again.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "13:00",
      "tags": [
-      "#FootballBirthday #Captain"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jacoby-shaddix-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Jacoby Shaddix turns 50",
-   "blurb": "Papa Roach frontman Jacoby Shaddix celebrates his 50th birthday on Tuesday.",
-   "source": {
-    "l": "AP News",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWxDGrq--ngCXn5s2C7oivCPZt8SlOq6Bmd7F1QfRd8hAoCcOGKeGX1VBAO1Ui1Jyj1rMQfTPVnmSplVUgpmX7Rw4tLWO27OkpyUW5dkDxJJm5E2Udts3vAZMCoag91gTL64HPxYLV_AZ4EhFUDXdSvfK_ittRxZlXONOIOTxWBM6uOO7mwLXMH2PH1xH-Qt6vHy3G6Q=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Papa Roach Half Century",
-     "copy": "He's not just 'getting by'! Happy 50th birthday to Jacoby Shaddix of Papa Roach. What's your go-to track from the band?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JacobyShaddix #PapaRoach"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "geddy-lee-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Geddy Lee turns 73",
-   "blurb": "Rush bassist and vocalist Geddy Lee celebrates his 73rd birthday on Wednesday.",
-   "source": {
-    "l": "AP News",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWxDGrq--ngCXn5s2C7oivCPZt8SlOq6Bmd7F1QfRd8hAoCcOGKeGX1VBAO1Ui1Jyj1rMQfTPVnmSplVUgpmX7Rw4tLWO27OkpyUW5dkDxJJm5E2Udts3vAZMCoag91gTL64HPxYLV_AZ4EhFUDXdSvfK_ittRxZlXONOIOTxWBM6uOO7mwLXMH2PH1xH-Qt6vHy3G6Q=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rush Legend's Birthday",
-     "copy": "Happy 73rd birthday to the incredible Geddy Lee! The iconic voice and bass of Rush. What's your favourite Rush epic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#GeddyLee #Rush"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kate-bush-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Kate Bush turns 68",
-   "blurb": "The enigmatic and influential singer-songwriter Kate Bush celebrates her 68th birthday on Thursday.",
-   "source": {
-    "l": "AP News",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWxDGrq--ngCXn5s2C7oivCPZt8SlOq6Bmd7F1QfRd8hAoCcOGKeGX1VBAO1Ui1Jyj1rMQfTPVnmSplVUgpmX7Rw4tLWO27OkpyUW5dkDxJJm5E2Udts3vAZMCoag91gTL64HPxYLV_AZ4EhFUDXdSvfK_ittRxZlXONOIOTxWBM6uOO7mwLXMH2PH1xH-Qt6vHy3G6Q=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wuthering Heights to 68",
-     "copy": "Happy 68th birthday to the truly unique and visionary Kate Bush! Her artistry continues to inspire. Which of her magical tracks is your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#KateBush #MusicLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fatboy-slim-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Fatboy Slim turns 63",
-   "blurb": "Iconic DJ and producer Fatboy Slim (Norman Cook) celebrates his 63rd birthday on Thursday.",
-   "source": {
-    "l": "AP News",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWxDGrq--ngCXn5s2C7oivCPZt8SlOq6Bmd7F1QfRd8hAoCcOGKeGX1VBAO1Ui1Jyj1rMQfTPVnmSplVUgpmX7Rw4tLWO27OkpyUW5dkDxJJm5E2Udts3vAZMCoag91gTL64HPxYLV_AZ4EhFUDXdSvfK_ittRxZlXONOIOTxWBM6uOO7mwLXMH2PH1xH-Qt6vHy3G6Q=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Right Here, Right Now at 63",
-     "copy": "Happy 63rd birthday to the legend that is Fatboy Slim! Get ready to praise him like you should. What's your ultimate Norman Cook anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#FatboySlim #BigBeat"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bill-berry-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Bill Berry turns 68",
-   "blurb": "R.E.M. drummer Bill Berry celebrates his 68th birthday on Friday.",
-   "source": {
-    "l": "National Day Calendar",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5KObCspetdgAibv-mDjQ1YoLHCLXFqcE9Dv5lh_mIbpl7sRwpBe_oXtfNvn20T54RkVZgCe4mOWARuRaaksr8FiB9vf0I5dwn9Ue6GkaCPynHevKsSNdT7yc-rv4yvJMkiBilvx4JTPQdDXOWH0_677Hb1YlooV67gxBQYB3MAMnbg1Y="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "R.E.M. Drummer's Day",
-     "copy": "Happy 68th birthday to Bill Berry, the driving force behind R.E.M.! From 'Losing My Religion' to 'Everybody Hurts', his drumming is iconic. What's your favourite R.E.M. track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BillBerry #REM"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lil-uzi-vert-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Lil Uzi Vert turns 30",
-   "blurb": "American rapper Lil Uzi Vert celebrates their 30th birthday on Friday.",
-   "source": {
-    "l": "Celebrity Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDYyVTA8ZZZOMv0__ZOs9F8ygvFRyLiQDC8RBGjAe7fOgHho2DuVA6pRMP1qZhFFsaxZUmI0BHqZrR9-cjlMTNrrEXHY2W4JLp1AtGwrwWiKe9VGp9oNCHjyo-vgoGNcln3yU_9Qg="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rapper's 30th",
-     "copy": "Happy 30th birthday to Lil Uzi Vert! The groundbreaking rapper hits a big milestone today. What's your favourite Uzi track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LilUziVert #HipHop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "joe-elliott-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Joe Elliott turns 67",
-   "blurb": "Def Leppard frontman Joe Elliott celebrates his 67th birthday on Saturday.",
-   "source": {
-    "l": "AP News",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiCklZYEP4OSUEmwb7We5rBUkCPrAqW7FPWePlKK68AUg1tCpfLSBJJDxZGl4ZdrX7vsMQL63w90tZfhO_LeF9Xebfw2N3L-qDJASMzfkebqN7Prjdn1THC5W063B8VXdLkCA1iTmZkKlCR1bPA6sK7SLTThxcnJ8-2qlx1vNLFtaIipdzjVCViQ7uKRZCQiTPvjJZq-BXo0_Of_OZUePgOzTCBg=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Def Leppard's Voice",
-     "copy": "Pour some sugar on him! Happy 67th birthday to Joe Elliott, the iconic voice of Def Leppard. What's your favourite power ballad?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#JoeElliott #DefLeppard"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chuck-d-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Chuck D turns 66",
-   "blurb": "Public Enemy co-founder Chuck D celebrates his 66th birthday on Saturday.",
-   "source": {
-    "l": "AP News",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiCklZYEP4OSUEmwb7We5rBUkCPrAqW7FPWePlKK68AUg1tCpfLSBJJDxZGl4ZdrX7vsMQL63w90tZfhO_LeF9Xebfw2N3L-qDJASMzfkebqN7Prjdn1THC5W063B8VXdLkCA1iTmZkKlCR1bPA6sK7SLTThxcnJ8-2qlx1vNLFtaIipdzjVCViQ7uKRZCQiTPvjJZq-BXo0_Of_OZUePgOzTCBg=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Public Enemy Legend",
-     "copy": "Fight the power! Happy 66th birthday to the legendary Chuck D, co-founder of Public Enemy. What's your favourite PE anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ChuckD #PublicEnemy"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "adam-duritz-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Adam Duritz turns 62",
-   "blurb": "Counting Crows frontman Adam Duritz celebrates his 62nd birthday on Saturday.",
-   "source": {
-    "l": "AP News",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiCklZYEP4OSUEmwb7We5rBUkCPrAqW7FPWePlKK68AUg1tCpfLSBJJDxZGl4ZdrX7vsMQL63w90tZfhO_LeF9Xebfw2N3L-qDJASMzfkebqN7Prjdn1THC5W063B8VXdLkCA1iTmZkKlCR1bPA6sK7SLTThxcnJ8-2qlx1vNLFtaIipdzjVCViQ7uKRZCQiTPvjJZq-BXo0_Of_OZUePgOzTCBg=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Counting Crows' Voice",
-     "copy": "Long December for some, but a happy birthday for Adam Duritz! Wishing the Counting Crows frontman a fantastic 62nd. What's your favourite CC track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#AdamDuritz #CountingCrows"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-kickoff-2026",
-   "off": 26,
-   "type": "sport",
-   "hot": false,
-   "title": "Premier League 2026/27 Kick-off",
-   "blurb": "The 2026/27 Premier League season is set to kick off on Friday, August 21st, with Arsenal hosting Coventry City.",
-   "source": {
-    "l": "Olympics.com / Premier League",
-    "u": "https://olympics.com/en/news/premier-league-2026-27-start-date-arsenal-coventry-city"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Season Countdown",
-     "copy": "The countdown is on! The Premier League 2026/27 season kicks off on August 21st. Who are you tipping for the title?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#PremierLeague #Football"
-     ]
-    },
-    {
-     "name": "Arsenal vs Coventry Opener",
-     "copy": "Arsenal vs Coventry City will open the new Premier League season on August 21st! Get ready for the return of top-flight football.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#EPL #FootballIsBack"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-school-summer-holidays",
-   "off": 0,
-   "type": "seasonal",
-   "hot": false,
-   "title": "UK School Summer Holidays",
-   "blurb": "School summer holidays are now in full swing across England and Wales, with many families enjoying their main break.",
-   "source": {
-    "l": "icelolly.com",
-    "u": "https://www.icelolly.com/blog/uk-school-holidays-and-half-term-dates-2026-27"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Summer Holiday Vibes",
-     "copy": "It's officially peak summer holiday time for many across the UK! Whether you're staying home or heading away, enjoy the break!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SummerHolidays #UKSummer"
-     ]
-    },
-    {
-     "name": "Family Fun Time",
-     "copy": "School's out for summer! Wishing all families on their summer holidays a fantastic time. What are your plans?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#FamilyFun #SummerBreak"
+      "#WalesSummer"
      ]
     }
    ]
