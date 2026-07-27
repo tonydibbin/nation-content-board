@@ -1,13 +1,17 @@
 {
- "updated": "2026-07-27T17:26:58.134Z",
+ "updated": "2026-07-27T19:06:52.220Z",
  "events": [
   {
-   "id": "mtv-launch",
+   "id": "mtv-launched",
    "date": "2026-08-01",
    "type": "culture",
-   "title": "MTV Launched",
-   "blurb": "Music Television, MTV, launched on August 1, 1981, with The Buggles' 'Video Killed The Radio Star' as its very first music video.",
+   "title": "MTV launched",
+   "blurb": "Music Television (MTV) launched on August 1, 1981, with The Buggles' 'Video Killed The Radio Star' as its first music video.",
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
@@ -15,16 +19,12 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Video Killed The Radio Star",
-     "copy": "Forty-five years ago today, MTV launched and changed music forever. The first video? A prophetic tune from The Buggles.",
+     "name": "MTV impact",
+     "copy": "Forty-five years ago today, MTV changed music forever. Remember the moment 'Video Killed The Radio Star' ushered in a new era?",
      "channels": [
       "instagram",
       "facebook",
@@ -32,7 +32,43 @@
      ],
      "time": "09:00",
      "tags": [
-      "#MTVLanched"
+      "#MTVLauched"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "oasis-definitely-maybe",
+   "date": "2026-08-05",
+   "type": "culture",
+   "title": "Oasis' Definitely Maybe anniversary",
+   "blurb": "Oasis released their seminal debut album 'Definitely Maybe' on August 29, 1994.",
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Album anniversary",
+     "copy": "Oasis's 'Definitely Maybe' still sounds as fresh today as it did when it dropped back in '94. What's your favourite track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DefinitelyMaybe"
      ]
     }
    ]
@@ -41,8 +77,8 @@
    "id": "woodstock-anniversary",
    "date": "2026-08-15",
    "type": "culture",
-   "title": "Woodstock Festival Anniversary",
-   "blurb": "The iconic Woodstock Music & Art Fair, a pivotal moment in music history, began on August 15, 1969.",
+   "title": "Woodstock Festival anniversary",
+   "blurb": "The legendary Woodstock Music & Art Fair took place from August 15-18, 1969, in Bethel, New York.",
    "fits": [
     {
      "g": "decades-genres",
@@ -55,18 +91,22 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Remember Woodstock",
-     "copy": "Over half a century ago, the legendary Woodstock Festival kicked off. Three days of peace, love, and music that defined a generation.",
+     "name": "Woodstock legacy",
+     "copy": "Fifty-seven years ago, a field in New York became the epicentre of a generation. The spirit of Woodstock lives on.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
       "#Woodstock"
      ]
@@ -78,7 +118,83 @@
    "date": "2026-08-16",
    "type": "culture",
    "title": "Remembering Elvis Presley",
-   "blurb": "The music world remembers Elvis Presley, who passed away on August 16, 1977.",
+   "blurb": "Elvis Presley passed away on August 16, 1977, at the age of 42.",
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Elvis tribute",
+     "copy": "Forty-nine years since we lost the King of Rock and Roll. His music and legend continue to inspire millions.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ElvisPresley"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tupac-passing",
+   "date": "2026-09-01",
+   "type": "culture",
+   "title": "Remembering Tupac Shakur",
+   "blurb": "Tupac Shakur was shot on September 7, 1996, and tragically died six days later on September 13, 1996, in Las Vegas.",
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tupac's legacy",
+     "copy": "Thirty years ago, the music world lost a true icon. Tupac's influence on hip-hop and beyond remains immense.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Tupac"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jimi-hendrix-passing",
+   "date": "2026-09-02",
+   "type": "culture",
+   "title": "Remembering Jimi Hendrix",
+   "blurb": "Guitar legend Jimi Hendrix passed away on September 18, 1970, at the age of 27.",
    "fits": [
     {
      "g": "decades-genres",
@@ -86,29 +202,65 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Elvis' Legacy",
-     "copy": "Today marks 49 years since we lost The King, Elvis Presley. His music and legend live on.",
+     "name": "Jimi Hendrix tribute",
+     "copy": "Fifty-six years since we lost an unparalleled talent. Jimi Hendrix's innovation continues to shape guitar music.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "14:00",
      "tags": [
-      "#ElvisPresley"
+      "#JimiHendrix"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beatles-abbey-road",
+   "date": "2026-09-04",
+   "type": "culture",
+   "title": "The Beatles' Abbey Road anniversary",
+   "blurb": "The Beatles released their iconic 'Abbey Road' album on September 26, 1969.",
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Abbey Road legacy",
+     "copy": "Fifty-seven years since The Beatles gave us 'Abbey Road'. Still one of the greatest albums of all time. What's your top track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#AbbeyRoad"
      ]
     }
    ]
@@ -118,19 +270,15 @@
    "date": "2026-09-07",
    "type": "birthday",
    "title": "Chrissie Hynde turns 75",
-   "blurb": "Chrissie Hynde, the formidable frontwoman of The Pretenders, was born on September 7, 1951.",
+   "blurb": "Chrissie Hynde, lead singer of The Pretenders, was born on September 7, 1951.",
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -139,14 +287,14 @@
    ],
    "angles": [
     {
-     "name": "Happy Birthday Chrissie Hynde",
-     "copy": "Wishing a very happy 75th birthday to the one and only Chrissie Hynde! A true rock icon.",
+     "name": "Chrissie Hynde's Bday",
+     "copy": "Happy 75th Birthday to the legendary Chrissie Hynde! Still rocking as hard as ever.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#ChrissieHynde"
      ]
@@ -158,7 +306,7 @@
    "date": "2026-09-21",
    "type": "birthday",
    "title": "Liam Gallagher turns 54",
-   "blurb": "Former Oasis frontman Liam Gallagher was born on September 21, 1972.",
+   "blurb": "Liam Gallagher, former frontman of Oasis, was born on September 21, 1972.",
    "fits": [
     {
      "g": "decades-genres",
@@ -169,46 +317,54 @@
      "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
      "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Suffolk"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North East"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Liam Gallagher",
-     "copy": "Happy 54th birthday to the legendary Liam Gallagher! Still rocking after all these years.",
+     "name": "Liam Gallagher's Bday",
+     "copy": "Happy 54th Birthday to the one and only Liam Gallagher! Still bringing the swagger. As you were.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#LiamGallagher"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lennon-imagine-anniversary",
+   "date": "2026-10-01",
+   "type": "culture",
+   "title": "John Lennon's 'Imagine' anniversary",
+   "blurb": "John Lennon released his iconic song 'Imagine' as a single on October 11, 1971, in the US and October 24, 1971, in the UK. The album 'Imagine' was released in 1971.",
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Imagine legacy",
+     "copy": "Fifty-five years since John Lennon's 'Imagine' gave us a timeless message of peace and hope. Still resonates today.",
      "channels": [
       "instagram",
       "facebook",
@@ -216,7 +372,43 @@
      ],
      "time": "09:00",
      "tags": [
-      "#LiamGallagher"
+      "#Imagine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ipod-anniversary",
+   "date": "2026-10-03",
+   "type": "culture",
+   "title": "iPod's 25th anniversary",
+   "blurb": "Apple unveiled the first iPod on October 23, 2001, revolutionising portable music.",
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "iPod impact",
+     "copy": "Twenty-five years ago, Apple dropped the original iPod and changed how we listen to music forever. Who remembers their first one?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#iPod"
      ]
     }
    ]
@@ -226,23 +418,31 @@
    "date": "2026-10-05",
    "type": "culture",
    "title": "James Bond Day",
-   "blurb": "October 5th is celebrated annually as James Bond Day, marking the premiere of the first 007 film, Dr. No, in 1962.",
+   "blurb": "October 5th marks James Bond Day, celebrating the release of the first Bond film, 'Dr. No', in 1962.",
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
     }
    ],
    "angles": [
     {
-     "name": "Licence to Thrill",
-     "copy": "Grab your martini, shaken not stirred! It's James Bond Day, celebrating 64 years since 007 first hit the big screen.",
+     "name": "Bond celebration",
+     "copy": "Happy James Bond Day! Raise a martini (shaken, not stirred) to 007 and over sixty years of iconic cinema.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "11:00",
      "tags": [
       "#JamesBondDay"
      ]
@@ -254,7 +454,7 @@
    "date": "2026-10-09",
    "type": "birthday",
    "title": "John Lennon would have been 86",
-   "blurb": "John Lennon, the iconic singer-songwriter and co-founder of The Beatles, was born on October 9, 1940.",
+   "blurb": "John Lennon, legendary co-founder of The Beatles, was born on October 9, 1940.",
    "fits": [
     {
      "g": "decades-genres",
@@ -269,20 +469,20 @@
      "sub": "Nation Classic Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Remembering John Lennon",
+     "name": "John Lennon tribute",
      "copy": "On what would have been his 86th birthday, we remember the unparalleled talent and enduring legacy of John Lennon.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#JohnLennon"
      ]
@@ -294,8 +494,48 @@
    "date": "2026-10-27",
    "type": "birthday",
    "title": "John Cleese turns 87",
-   "blurb": "Legendary actor and comedian John Cleese was born on October 27, 1939.",
+   "blurb": "Comedian and actor John Cleese, known for Monty Python and Fawlty Towers, was born on October 27, 1939.",
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "John Cleese's Bday",
+     "copy": "Wishing a very happy 87th birthday to the comedy legend, John Cleese! What's your favourite Python sketch or Fawlty Towers moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#JohnCleese"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beatles-white-album",
+   "date": "2026-11-02",
+   "type": "culture",
+   "title": "The Beatles' White Album anniversary",
+   "blurb": "The Beatles released their double album 'The Beatles', commonly known as the 'White Album', on November 22, 1968.",
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
     {
      "g": "nation-network",
      "sub": ""
@@ -303,8 +543,8 @@
    ],
    "angles": [
     {
-     "name": "Happy Birthday John Cleese",
-     "copy": "Wishing a very happy 87th birthday to the comedy genius, John Cleese! From Python to Fawlty Towers, a true legend.",
+     "name": "White Album legacy",
+     "copy": "Fifty-eight years since The Beatles unveiled their iconic 'White Album'. A sprawling masterpiece that still sparks debate.",
      "channels": [
       "instagram",
       "facebook",
@@ -312,7 +552,7 @@
      ],
      "time": "09:00",
      "tags": [
-      "#JohnCleese"
+      "#WhiteAlbum"
      ]
     }
    ]
