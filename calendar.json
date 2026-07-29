@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-29T18:08:49.454Z",
+ "updated": "2026-07-29T20:06:18.974Z",
  "events": [
   {
-   "id": "mtv-launch",
+   "id": "mtv-launched",
    "date": "2026-08-01",
    "type": "tv",
-   "title": "MTV Celebrates Launch Anniversary",
-   "blurb": "MTV, the iconic music television channel, first launched on August 1st, 1981, with The Buggles' \"Video Killed The Radio Star\" as its inaugural music video.",
+   "title": "MTV Launched 45 Years Ago",
+   "blurb": "MTV, the iconic music television channel, launched on August 1, 1981, with The Buggles' \"Video Killed The Radio Star\" as its first broadcast video.",
    "fits": [
     {
      "g": "decades-genres",
@@ -14,25 +14,25 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "MTV Launch",
-     "copy": "On this day in 1981, MTV burst onto our screens, changing music forever. Its first video? A classic that ironically predicted its own future.",
+     "name": "MTV Impact",
+     "copy": "Remember the day music television changed forever? 45 years ago, MTV burst onto our screens, kicking off with The Buggles. What was the first music video that truly blew your mind?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#MTVAhistory"
+      "#MTVLauched"
      ]
     }
    ]
@@ -41,8 +41,8 @@
    "id": "woodstock-anniversary",
    "date": "2026-08-15",
    "type": "culture",
-   "title": "Woodstock Festival Anniversary",
-   "blurb": "The legendary Woodstock Music & Art Fair began on August 15, 1969, in Bethel, New York, becoming a pivotal moment in music and cultural history.",
+   "title": "Woodstock Festival: 57 Years On",
+   "blurb": "The legendary Woodstock Music & Art Fair took place from August 15-18, 1969, in Bethel, New York, becoming a pivotal moment in music history.",
    "fits": [
     {
      "g": "decades-genres",
@@ -59,8 +59,8 @@
    ],
    "angles": [
     {
-     "name": "Woodstock Remembered",
-     "copy": "57 years ago today, the legendary Woodstock Festival kicked off. Three days of peace, love, and music that defined a generation. What's your favourite Woodstock moment?",
+     "name": "Woodstock Vibe",
+     "copy": "57 years ago today, the Woodstock Festival began – three days of peace, love, and music that defined a generation. If you could have been there, which artist would you have wanted to see most?",
      "channels": [
       "instagram",
       "facebook",
@@ -68,7 +68,7 @@
      ],
      "time": "10:00",
      "tags": [
-      "#Woodstock69"
+      "#Woodstock"
      ]
     }
    ]
@@ -76,67 +76,27 @@
   {
    "id": "elvis-death-anniversary",
    "date": "2026-08-16",
-   "type": "anniversary",
+   "type": "music",
    "title": "Remembering Elvis Presley",
-   "blurb": "The King of Rock and Roll, Elvis Presley, passed away on August 16, 1977, leaving an indelible mark on music and pop culture.",
+   "blurb": "Elvis Presley, the 'King of Rock and Roll', passed away on August 16, 1977, at the age of 42.",
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 60s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Elvis Tribute",
-     "copy": "On this day, we remember the one and only King of Rock and Roll, Elvis Presley, who left us too soon in 1977. His legacy continues to inspire generations.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ElvisPresley"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chrissie-hynde-bday",
-   "date": "2026-09-07",
-   "type": "birthday",
-   "title": "Chrissie Hynde turns 75",
-   "blurb": "American singer-songwriter Chrissie Hynde, frontwoman of The Pretenders, celebrates her 75th birthday today.",
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chrissie Hynde Birthday",
-     "copy": "Happy 75th Birthday to the iconic Chrissie Hynde! From The Pretenders' classics to her solo work, a true rock legend.",
+     "name": "King of Rock",
+     "copy": "On this day in 1977, we lost the King. Elvis Presley's legacy continues to inspire generations. What's your all-time favourite Elvis track?",
      "channels": [
       "instagram",
       "facebook",
@@ -144,17 +104,57 @@
      ],
      "time": "09:00",
      "tags": [
+      "#ElvisPresley"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chrissie-hynde-birthday",
+   "date": "2026-09-07",
+   "type": "birthday",
+   "title": "Chrissie Hynde turns 75",
+   "blurb": "Chrissie Hynde, the iconic lead singer of The Pretenders, was born on September 7, 1951.",
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Chrissie",
+     "copy": "Sending a huge shout-out to Chrissie Hynde, who celebrates her 75th birthday today! A true rock icon with The Pretenders. What's your go-to Pretenders anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
       "#ChrissieHynde"
      ]
     }
    ]
   },
   {
-   "id": "liam-gallagher-bday",
+   "id": "liam-gallagher-birthday",
    "date": "2026-09-21",
    "type": "birthday",
    "title": "Liam Gallagher turns 54",
-   "blurb": "Former Oasis frontman and rock icon Liam Gallagher celebrates his 54th birthday today.",
+   "blurb": "Liam Gallagher, the distinctive voice of Oasis and Beady Eye, was born on September 21, 1972.",
    "fits": [
     {
      "g": "decades-genres",
@@ -163,18 +163,50 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Westcountry"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
     }
    ],
    "angles": [
     {
-     "name": "Liam Gallagher Birthday",
-     "copy": "Alright! Happy 54th Birthday to the one and only Liam Gallagher. Still bringing that rock 'n' roll swagger.",
+     "name": "Happy Birthday Liam",
+     "copy": "Happy 54th birthday to the one and only Liam Gallagher! From Oasis to his solo work, he's always delivered pure rock 'n' roll. Which Liam track are you cranking today?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "08:00",
      "tags": [
       "#LiamGallagher"
      ]
@@ -185,24 +217,52 @@
    "id": "james-bond-day",
    "date": "2026-10-05",
    "type": "culture",
-   "title": "Happy James Bond Day",
-   "blurb": "James Bond Day is celebrated annually on October 5th, marking the anniversary of the world premiere of the first Bond film, \"Dr. No,\" in 1962.",
+   "title": "Happy James Bond Day!",
+   "blurb": "October 5th marks James Bond Day, commemorating the release of the first James Bond film, \"Dr. No,\" in 1962.",
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Bond Day",
-     "copy": "Grab your martini, shaken not stirred! It's James Bond Day, celebrating 007's big screen debut. What's your favourite Bond film?",
+     "name": "Bond, James Bond",
+     "copy": "It's James Bond Day! Celebrating 007 and over six decades of iconic espionage. Who's your favourite Bond, and what's the best Bond theme song?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
       "#JamesBondDay"
      ]
@@ -210,11 +270,11 @@
    ]
   },
   {
-   "id": "john-lennon-bday",
+   "id": "john-lennon-birthday",
    "date": "2026-10-09",
    "type": "birthday",
    "title": "John Lennon would have been 86",
-   "blurb": "Legendary Beatles co-founder John Lennon, a global icon of peace and music, would have celebrated his 86th birthday today.",
+   "blurb": "John Lennon, legendary co-founder of The Beatles, was born on October 9, 1940.",
    "fits": [
     {
      "g": "decades-genres",
@@ -235,14 +295,14 @@
    ],
    "angles": [
     {
-     "name": "John Lennon Tribute",
-     "copy": "Thinking of John Lennon today, who would have been 86. His music and message of peace resonate just as strongly now.",
+     "name": "Remembering John Lennon",
+     "copy": "On what would have been his 86th birthday, we remember the unparalleled talent and enduring spirit of John Lennon. His music continues to inspire. What's your favourite Lennon lyric?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "08:00",
      "tags": [
       "#JohnLennon"
      ]
@@ -250,21 +310,29 @@
    ]
   },
   {
-   "id": "john-cleese-bday",
+   "id": "john-cleese-birthday",
    "date": "2026-10-27",
    "type": "birthday",
    "title": "John Cleese turns 87",
-   "blurb": "Iconic British comedian, actor, and writer John Cleese, known for Monty Python and Fawlty Towers, celebrates his 87th birthday today.",
+   "blurb": "English actor, comedian, and writer John Cleese was born on October 27, 1939.",
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "John Cleese Birthday",
-     "copy": "Wishing a very happy 87th birthday to the legendary John Cleese! From Python to Fawlty Towers, a true master of British comedy.",
+     "name": "Happy Birthday John Cleese",
+     "copy": "Wishing a very happy 87th birthday to the legendary John Cleese! From Monty Python to Fawlty Towers, he's given us endless laughs. What's your favourite John Cleese moment?",
      "channels": [
       "instagram",
       "facebook",
