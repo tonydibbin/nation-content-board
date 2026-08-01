@@ -1,16 +1,67 @@
 {
- "updated": "2026-08-01T12:46:31.543Z",
+ "updated": "2026-08-01T14:18:52.632Z",
  "moments": [
   {
-   "id": "commongames-closing",
+   "id": "the-hundred-aug1",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred Cricket Continues",
+   "blurb": "The Hundred men's and women's cricket tournaments are in full swing across the UK, with matches today including Birmingham Phoenix vs Welsh Fire and London Spirit vs Southern Brave.",
+   "source": {
+    "l": "The Hundred Official Site / Radio Times",
+    "u": "https://www.thehundred.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Welsh Fire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Day Hype",
+     "copy": "Game on! The Hundred action continues today with Birmingham Phoenix taking on Welsh Fire at Edgbaston, plus London Spirit face Southern Brave at Lord's. Who are you backing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheHundred"
+     ]
+    },
+    {
+     "name": "Local Team Focus (Welsh Fire)",
+     "for": "welsh-local",
+     "copy": "It's a big day for Welsh Fire in The Hundred! Tune in to see them battle Birmingham Phoenix. C'mon the Fire!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#WelshFire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cbg-netball-bronze",
    "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "Commonwealth Games 2026 Finale",
-   "blurb": "The Glasgow 2026 Commonwealth Games conclude tomorrow, bringing to an end 11 days of sporting action and national pride.",
+   "title": "Commonwealth Games Netball Bronze",
+   "blurb": "England's netball team, the Roses, will play for the bronze medal at the Commonwealth Games in Glasgow tomorrow, following their semi-final defeat to New Zealand today.",
    "source": {
-    "l": "Glasgow 2026 Official Site",
-    "u": "https://www.glasgow2026.com"
+    "l": "The Guardian",
+    "u": "https://www.theguardian.com/sport/2026/aug/01/england-netball-commonwealth-games-jamaica-australia"
    },
    "fits": [
     {
@@ -24,32 +75,28 @@
    ],
    "angles": [
     {
-     "name": "Closing Ceremony Buzz",
-     "for": "",
-     "copy": "It's the final day of the Commonwealth Games tomorrow! What's been your favourite moment from Glasgow 2026? #CommonwealthGames",
+     "name": "Bronze Medal Match Preview",
+     "copy": "Tough loss for the Roses today, but they're still fighting for a medal! England netball go for bronze tomorrow at the Commonwealth Games. Let's get behind them! 🥉",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "15:00",
+     "time": "17:00",
      "tags": [
       "#CommonwealthGames"
      ]
     },
     {
-     "name": "Scottish Pride",
-     "for": "Nation Radio Scotland",
-     "copy": "Glasgow has truly delivered! As the Commonwealth Games wrap up, we're looking back at an incredible festival of sport right here in Scotland.",
+     "name": "Glasgow Games Buzz",
+     "for": "nation-network",
+     "copy": "The Commonwealth Games in Glasgow are winding down, but not before England's netball team aim for bronze tomorrow. What a run it's been!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "18:00",
      "tags": [
       "#Glasgow2026"
      ]
@@ -57,15 +104,15 @@
    ]
   },
   {
-   "id": "premierleague-kickoff",
-   "off": 20,
+   "id": "lewishall-transfer",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Season Kick-Off Looms",
-   "blurb": "The 2026/27 Premier League season kicks off on August 21st, with the Community Shield set for August 16th in Cardiff, marking the start of a new campaign.",
+   "title": "Lewis Hall to Man Utd Transfer Speculation",
+   "blurb": "Manchester United are reportedly exploring a move for Newcastle United left-back Lewis Hall, with a potential £60m valuation being discussed as the Premier League transfer window heats up.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com"
+    "l": "Sky Sports / MEN",
+    "u": "https://www.skysports.com/football/news/11095/12930262/lewis-hall-to-man-united-transfer-being-explored-as-60m-verdict-given"
    },
    "fits": [
     {
@@ -73,151 +120,173 @@
      "sub": ""
     },
     {
-     "g": "welsh-local",
-     "sub": ""
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
     },
     {
-     "g": "dragon",
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Transfer Rumour Mill",
+     "copy": "Another day, another huge transfer rumour! Man Utd are reportedly eyeing Newcastle's Lewis Hall for a massive £60m. Would he be a good fit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TransferNews"
+     ]
+    },
+    {
+     "name": "Newcastle Fan Reaction",
+     "for": "nation-network",
+     "copy": "Could Newcastle lose Lewis Hall to Man Utd? Magpies fans, how would you feel about a £60m move for the defender?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#NUFC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exeter-wareham-bids",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Exeter City Striker Rumours",
+   "blurb": "Exeter City boss Matt Taylor has confirmed the club has received no bids for prolific striker Jayden Wareham, amidst social media speculation linking him to Plymouth Argyle.",
+   "source": {
+    "l": "Plymouth Live",
+    "u": "https://www.plymouthlive.com/sport/football/football-news/no-bids-striker-jayden-wareham-9467771"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Anticipation Build-Up",
-     "for": "",
-     "copy": "The countdown is ON! With the Premier League season just weeks away, who are you backing for the title this year?",
+     "name": "Local Football Update",
+     "copy": "Good news for Exeter City fans! Boss Matt Taylor says there have been no bids for star striker Jayden Wareham. Keeping him at St James Park?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "10:00",
      "tags": [
-      "#PremierLeague"
+      "#ECFC"
      ]
     },
     {
-     "name": "Community Shield Cardiff",
-     "for": "welsh-local",
-     "copy": "Cardiff is hosting the Community Shield on August 16th! Who's heading to Principality Stadium for the curtain-raiser?",
+     "name": "Devon Derby Chatter",
+     "for": "radio-exe",
+     "copy": "The rumour mill was buzzing about Jayden Wareham and Plymouth Argyle, but Exeter City say no bids have come in. Your thoughts, Devon football fans?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#CommunityShield"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "boardmasters-festival",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "Boardmasters Festival Begins",
-   "blurb": "Boardmasters Festival hits Newquay, Cornwall from August 5th-9th, bringing music, surf, and skate culture to the coast.",
-   "source": {
-    "l": "Boardmasters Official Site",
-    "u": "https://www.boardmasters.com"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Excitement",
-     "for": "Nation Radio Westcountry",
-     "copy": "Cornwall is about to get LOUD! Boardmasters kicks off next week, who's got their tickets ready for the ultimate beach festival?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#Boardmasters"
-     ]
-    },
-    {
-     "name": "Surf & Sound",
-     "for": "",
-     "copy": "Sun, surf, and serious tunes! Boardmasters is almost here. What act are you most excited to catch in Newquay?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Boardmasters2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "greenman-festival",
-   "off": 19,
-   "type": "gig",
-   "hot": true,
-   "title": "Green Man Festival Approaching",
-   "blurb": "The Green Man Festival, Wales' largest music, arts, and science festival, takes place in the Brecon Beacons from August 20th-23rd.",
-   "source": {
-    "l": "Green Man Festival Official Site",
-    "u": "https://www.greenman.net"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Festival Vibe",
-     "for": "welsh-local",
-     "copy": "Brecon Beacons are calling! Green Man Festival is just around the corner, promising four days of incredible music and magic in Wales.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "13:00",
      "tags": [
-      "#GreenManFestival"
+      "#DevonFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edinburgh-fringe-tattoo-start",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Edinburgh Festivals Kick Off Next Week",
+   "blurb": "The world-renowned Edinburgh Festival Fringe and Royal Edinburgh Military Tattoo both begin next Friday, August 7th, bringing a month of arts, comedy, music, and spectacular shows to the Scottish capital.",
+   "source": {
+    "l": "Edinburgh Fringe Official Site",
+    "u": "https://www.edfringe.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Fringe Hype",
+     "copy": "Edinburgh is about to get even livelier! The Fringe and Royal Edinburgh Military Tattoo start next Friday. Who's heading to Scotland for the biggest arts festival on Earth?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#EdinburghFringe"
      ]
     },
     {
-     "name": "Music & Arts Escape",
-     "for": "Nation Radio Wales",
-     "copy": "Ready for your Green Man adventure? The Welsh hills are set to come alive with music, arts, and good vibes from August 20th.",
+     "name": "Scottish Spotlight",
+     "for": "nation-network",
+     "copy": "Get ready, Scotland! The Edinburgh Festival Fringe kicks off in just one week, promising a huge month of culture and entertainment. What are you most excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#ScotlandEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "samfender-olivialdean-record",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean Break Chart Record",
+   "blurb": "Sam Fender and Olivia Dean's duet 'Rein Me In' has made UK chart history, becoming the longest-running No.1 single ever with 19 weeks at the top, surpassing a 73-year-old record set by Frankie Laine.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/news/sam-fender-olivia-dean-rein-me-in-longest-running-uk-number-1-single-ever/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart History Made",
+     "copy": "History made! Sam Fender & Olivia Dean's 'Rein Me In' is officially the longest-running UK No.1 single ever! 19 weeks at the top! Incredible stuff. 🎉",
      "channels": [
       "instagram",
       "facebook",
@@ -227,155 +296,126 @@
      ],
      "time": "09:00",
      "tags": [
-      "#GreenMan"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "singles-chart-update",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Official Singles Chart Update",
-   "blurb": "The latest Official Singles Chart was announced yesterday, revealing the biggest tracks in the UK right now.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Toppers",
-     "for": "Nation Hits",
-     "copy": "What's topping your playlist this weekend? The new Official Singles Chart landed yesterday, tell us your favourite new entry!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
       "#OfficialCharts"
      ]
     },
     {
-     "name": "Weekend Soundtrack",
-     "for": "",
-     "copy": "Fresh tunes for your Saturday! The Official Singles Chart was updated yesterday – who's made it into the top 10?",
+     "name": "Record Breakers",
+     "copy": "Out with Frankie Laine, in with Sam Fender & Olivia Dean! 'Rein Me In' has smashed a 73-year record to become the UK's longest-running No.1. Have you streamed it today?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
-      "#UKChart"
+      "#MusicNews"
+     ]
+    },
+    {
+     "name": "Song of the Year",
+     "copy": "From BRITs Song of the Year to all-time chart record breaker! Sam Fender & Olivia Dean are on fire with 'Rein Me In'. What a track!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#SamFender"
      ]
     }
    ]
   },
   {
-   "id": "new-drama-launch",
-   "off": 1,
-   "type": "tv",
+   "id": "shakira-burnaboy-dai",
+   "off": 0,
+   "type": "culture",
    "hot": true,
-   "title": "New BBC Drama 'The Serpent's Coil' Airs",
-   "blurb": "A highly anticipated new BBC drama, 'The Serpent's Coil', is set to premiere tomorrow night, Sunday, August 2nd.",
+   "title": "Shakira & Burna Boy's World Cup Anthem at No. 2",
+   "blurb": "Shakira & Burna Boy's official FIFA World Cup 2026 anthem 'Dai Dai' holds strong at No. 2 on the UK Singles Chart, following its performance at the World Cup final halftime show.",
    "source": {
-    "l": "BBC Drama",
-    "u": "https://www.bbc.co.uk/programmes/theserpentscoil"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Sunday Night Drama",
-     "for": "",
-     "copy": "Your Sunday night is sorted! A gripping new drama, 'The Serpent's Coil', starts tomorrow. Who's tuning in for the premiere?",
+     "name": "Chart Contender",
+     "copy": "Still a massive hit! Shakira & Burna Boy's 'Dai Dai' is holding strong at #2 on the Official Singles Chart. Did you catch their World Cup performance?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "17:00",
+     "time": "10:00",
      "tags": [
-      "#TVDrama"
+      "#Shakira"
      ]
     },
     {
-     "name": "Must-Watch TV",
-     "for": "",
-     "copy": "Looking for your next TV obsession? The BBC's new series 'The Serpent's Coil' looks unmissable, kicking off tomorrow night.",
+     "name": "World Cup Anthem",
+     "copy": "The World Cup may be over, but the anthem lives on! Shakira & Burna Boy's 'Dai Dai' is still dominating the charts. What a banger!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "09:30",
+     "time": "12:00",
      "tags": [
-      "#NewDrama"
+      "#WorldCupAnthem"
      ]
     }
    ]
   },
   {
-   "id": "butchvig-birthday",
-   "off": 1,
+   "id": "ian-broudie-bday",
+   "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 71st Birthday Butch Vig",
-   "blurb": "Tomorrow, August 2nd, marks the 71st birthday of Butch Vig, the acclaimed drummer and co-producer of Garbage, and producer of iconic albums like Nirvana's 'Nevermind'.",
+   "title": "Happy 68th to Ian Broudie",
+   "blurb": "Ian Broudie, the mastermind behind The Lightning Seeds, celebrates his 68th birthday on Tuesday, August 4th.",
    "source": {
-    "l": "Wikipedia: Butch Vig",
-    "u": "https://en.wikipedia.org/wiki/Butch_Vig"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august4.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 90s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Production Legend",
-     "for": "Nation Rocks",
-     "copy": "Happy 71st Birthday to the legendary Butch Vig tomorrow! From Garbage to Nirvana, what's your favourite album he's put his magic touch on?",
+     "name": "Birthday Shoutout",
+     "copy": "Get your 'Lucky You' on! Ian Broudie of The Lightning Seeds turns 68 on Tuesday. What's your favourite Lightning Seeds track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
-      "#ButchVig"
+      "#IanBroudie"
      ]
     },
     {
-     "name": "Garbage Drummer",
-     "for": "Nation 90s",
-     "copy": "Tomorrow we're wishing a very Happy 71st Birthday to Garbage's own Butch Vig! What's your go-to Garbage track?",
+     "name": "90s Icon",
+     "copy": "Happy almost birthday to 90s legend Ian Broudie! The man behind The Lightning Seeds hits 68 this Tuesday. Still got that indie pop magic!",
      "channels": [
       "instagram",
       "facebook",
@@ -383,161 +423,154 @@
      ],
      "time": "14:00",
      "tags": [
-      "#Garbage"
+      "#LightningSeeds"
      ]
     }
    ]
   },
   {
-   "id": "jameshetfield-birthday",
-   "off": 2,
+   "id": "paul-reynolds-bday",
+   "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 63rd Birthday James Hetfield",
-   "blurb": "On August 3rd, we celebrate the 63rd birthday of James Hetfield, the iconic lead vocalist, rhythm guitarist, and co-founder of Metallica.",
+   "title": "Happy 64th to Paul Reynolds",
+   "blurb": "Paul Reynolds, the lead guitarist of 80s new wave band A Flock Of Seagulls, celebrates his 64th birthday on Tuesday, August 4th.",
    "source": {
-    "l": "Wikipedia: James Hetfield",
-    "u": "https://en.wikipedia.org/wiki/James_Hetfield"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/August_4"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Metal Icon",
-     "for": "Nation Rocks",
-     "copy": "A huge Happy 63rd Birthday to Metallica's legendary frontman, James Hetfield, on August 3rd! What's your all-time favourite Metallica anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#JamesHetfield"
-     ]
-    },
-    {
-     "name": "Metallica Master",
-     "for": "Nation Rocks",
-     "copy": "Raise your horns for James Hetfield's 63rd birthday on Monday! The voice of Metallica, still rocking after all these years.",
+     "name": "80s Guitar Legend",
+     "copy": "Wishing a very happy 64th birthday to Paul Reynolds of A Flock Of Seagulls this Tuesday! What an 80s icon!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "10:00",
      "tags": [
-      "#Metallica"
+      "#AFLockOfSeagulls"
+     ]
+    },
+    {
+     "name": "New Wave Classic",
+     "copy": "It's Paul Reynolds' birthday on Tuesday! The lead guitarist from A Flock Of Seagulls, known for those distinctive riffs, turns 64. Time to play 'I Ran'!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "gerihalliwell-birthday",
-   "off": 5,
+   "id": "yungblud-bday",
+   "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 54th Birthday Geri Halliwell",
-   "blurb": "Geri Halliwell-Horner, famously known as Ginger Spice from the Spice Girls, celebrates her 54th birthday on August 6th.",
+   "title": "Happy 29th to Yungblud",
+   "blurb": "British rock and alternative star Yungblud (Dominic Harrison) celebrates his 29th birthday on Wednesday, August 5th.",
    "source": {
-    "l": "Wikipedia: Geri Halliwell",
-    "u": "https://en.wikipedia.org/wiki/Geri_Halliwell"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august5.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
+     "g": "nation-network",
      "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Spice Girl Legend",
-     "for": "Nation 90s",
-     "copy": "Girl Power! Wishing a very Happy 54th Birthday to the one and only Ginger Spice, Geri Halliwell, on August 6th! What's your favourite Spice Girls memory?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#GeriHalliwell"
-     ]
-    },
-    {
-     "name": "Pop Icon",
-     "for": "Nation Hits",
-     "copy": "It's Ginger Spice's birthday on August 6th! Happy 54th to Geri Halliwell-Horner – still bringing the sass!",
+     "name": "Modern Rock Star",
+     "copy": "Big birthday coming up for Yungblud! The Doncaster star turns 29 this Wednesday. What's your favourite track from him?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "13:45",
+     "time": "10:30",
      "tags": [
-      "#SpiceGirls"
+      "#Yungblud"
+     ]
+    },
+    {
+     "name": "Gen Z Icon",
+     "copy": "Happy 29th to the one and only Yungblud this Wednesday! An absolute force in modern music. Let's celebrate with some loud tunes!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#RockMusic"
      ]
     }
    ]
   },
   {
-   "id": "summer-holidays-uk",
-   "off": 0,
-   "type": "seasonal",
+   "id": "pat-smear-bday",
+   "off": 4,
+   "type": "birthday",
    "hot": true,
-   "title": "UK Summer Holidays in Full Swing",
-   "blurb": "August marks the peak of the summer holidays across the UK, with many families enjoying breaks and staycations.",
+   "title": "Happy 67th to Pat Smear",
+   "blurb": "Legendary guitarist Pat Smear, known for his work with Foo Fighters, Nirvana, and The Germs, celebrates his 67th birthday on Wednesday, August 5th.",
    "source": {
-    "l": "Gov.uk School Holidays",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/5"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Holiday Vibes",
-     "for": "",
-     "copy": "Happy August 1st! The summer holidays are officially in full swing across the UK. What are your plans for the long month ahead?",
+     "name": "Rock Icon Birthday",
+     "copy": "Wishing a huge happy 67th birthday to the incredible Pat Smear this Wednesday! From The Germs to Nirvana to Foo Fighters, what a career!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "07:00",
+     "time": "11:00",
      "tags": [
-      "#SummerHolidays"
+      "#PatSmear"
      ]
     },
     {
-     "name": "Staycation Season",
-     "for": "",
-     "copy": "Making the most of the UK summer holidays? Whether it's the beach, the countryside or your own garden, enjoy the August sunshine!",
+     "name": "Foo Fighters Legend",
+     "copy": "Happy 67th to Foo Fighters' own Pat Smear on Wednesday! A true legend of punk and rock. What's your favourite Foos song?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "12:30",
+     "time": "17:00",
      "tags": [
-      "#UKSummer"
+      "#FooFighters"
      ]
     }
    ]
@@ -548,9 +581,9 @@
    "type": "seasonal",
    "hot": true,
    "title": "Scottish Summer Bank Holiday",
-   "blurb": "Scotland observes its Summer Bank Holiday on Monday, August 3rd, providing a long weekend for many across the nation.",
+   "blurb": "Scotland celebrates its Summer Bank Holiday this Monday, August 3rd, providing a long weekend for many across the nation.",
    "source": {
-    "l": "Gov.uk Bank Holidays",
+    "l": "GOV.UK",
     "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
@@ -561,24 +594,8 @@
    ],
    "angles": [
     {
-     "name": "Long Weekend Scotland",
-     "for": "Nation Radio Scotland",
-     "copy": "Three-day weekend incoming! Don't forget, Monday is the Summer Bank Holiday in Scotland. How are you spending your extra day off?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#ScottishBankHoliday"
-     ]
-    },
-    {
-     "name": "August Bank Holiday Prep",
-     "for": "Nation Radio Scotland",
-     "copy": "Planning your long weekend? Monday's a bank holiday in Scotland, so make the most of it! What's on your agenda?",
+     "name": "Long Weekend Vibes (Scotland)",
+     "copy": "Happy Summer Bank Holiday weekend, Scotland! Enjoy that extra day off this Monday. What are your plans for the long weekend?",
      "channels": [
       "instagram",
       "facebook",
@@ -586,7 +603,20 @@
      ],
      "time": "09:00",
      "tags": [
-      "#BankHolidayScotland"
+      "#ScottishBankHoliday"
+     ]
+    },
+    {
+     "name": "Relax and Recharge",
+     "copy": "Monday means a long weekend for our listeners in Scotland! Make the most of your Summer Bank Holiday. How are you relaxing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#BankHoliday"
      ]
     }
    ]
