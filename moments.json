@@ -1,71 +1,149 @@
 {
- "updated": "2026-08-02T22:42:53.950Z",
+ "updated": "2026-08-02T23:47:03.042Z",
  "moments": [
   {
-   "id": "the-hundred-cricket-aug3",
-   "off": 1,
+   "id": "cbgames-glasgow-close",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "The Hundred continues, Welsh Fire in action",
-   "blurb": "The Hundred cricket tournament continues across the UK, with Welsh Fire taking on Southern Brave in Cardiff on August 3rd, and more matches throughout the week leading to the final on August 16th.",
+   "title": "Glasgow 2026 Commonwealth Games conclude",
+   "blurb": "The Glasgow 2026 Commonwealth Games conclude today, August 2nd, after 11 days of sport, with Team England finishing second in the medal table with 110 medals.",
    "source": {
-    "l": "The Hundred Official Website / Radio Times",
-    "u": "https://www.thehundred.com/fixtures"
+    "l": "Team England",
+    "u": "https://www.teamengland.org/news/glasgow-2026-team-england-win-three-golds-on-final-day"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
      "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Welsh Fire Home Game",
-     "for": "welsh-local",
-     "copy": "Big game for Welsh Fire tomorrow! They face Southern Brave in Cardiff at the Utilita Bowl. Are you heading down or watching on Sky Sports?",
+     "name": "Closing Ceremony Recap",
+     "for": "",
+     "copy": "That's a wrap on Glasgow 2026! What a Games it's been. Team England brought home 110 medals, finishing second overall. Who were your standout stars? #Glasgow2026",
      "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "20:00",
+     "tags": [
+      "#Glasgow2026"
+     ]
+    },
+    {
+     "name": "Scottish Pride",
+     "for": "Nation Radio Scotland",
+     "copy": "Scotland, you've been incredible hosts for the Commonwealth Games! As Glasgow 2026 closes tonight, we look back at a fantastic 11 days of sport. Did you catch any of the action? #Glasgow2026",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#Glasgow2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scottish-bank-holiday",
+   "off": 1,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Scottish Summer Bank Holiday",
+   "blurb": "Tomorrow, Monday August 3rd, is the Summer Bank Holiday in Scotland, providing a long weekend for many.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/bank-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Enjoy the long weekend",
+     "for": "Nation Radio Scotland",
+     "copy": "Good news, Scotland! It's a Bank Holiday tomorrow, meaning a long weekend for many. What are your plans for the extra day off? #BankHoliday",
+     "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "08:00",
      "tags": [
-      "#TheHundred"
+      "#BankHoliday"
      ]
     },
     {
-     "name": "Tournament Buzz",
-     "for": "nation-network",
-     "copy": "The Hundred is in full swing! Who are you backing to make it to Finals Day on August 16th? Catch all the action across the UK.",
+     "name": "Monday off",
+     "for": "Nation Radio Scotland",
+     "copy": "Who's already got that Friday feeling, Scotland? Because tomorrow is your Summer Bank Holiday! Lie in, day trip, or just relax? #Scotland",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Scotland"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hundred-this-week",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred 2026 continues this week",
+   "blurb": "Cricket's The Hundred tournament continues across the UK this week, with upcoming matches including SunRisers Leeds vs London Spirit on Tuesday and Manchester Super Giants vs Welsh Fire on Wednesday.",
+   "source": {
+    "l": "The Hundred",
+    "u": "https://www.thehundred.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Welsh Fire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cricket Action",
+     "for": "",
+     "copy": "The Hundred 2026 is in full swing! This week sees more explosive cricket, including SunRisers Leeds vs London Spirit on Tuesday. Who are you backing?",
      "channels": [
       "instagram",
+      "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "10:00",
      "tags": [
       "#TheHundred"
      ]
     },
     {
-     "name": "Later Welsh Fire Matches",
-     "for": "dragon",
-     "copy": "Don't miss Welsh Fire this week! They're at home in Cardiff on August 3rd and again on August 12th against London Spirit. Get behind them!",
+     "name": "Welsh Fire in Action",
+     "for": "welsh-local",
+     "copy": "Get ready, Wales! Our very own Welsh Fire are back in action in The Hundred this Wednesday against Manchester Super Giants. Can they light up the tournament?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "11:00",
      "tags": [
       "#WelshFire"
      ]
@@ -73,15 +151,174 @@
    ]
   },
   {
-   "id": "kathy-brown-birthday",
+   "id": "radar-festival-ends",
    "off": 0,
-   "type": "birthday",
+   "type": "gig",
    "hot": true,
-   "title": "Kathy Brown is 66 today",
-   "blurb": "American dance and house music singer Kathy Brown, known for hits like 'Turn Me On' and 'Can't Play Around', celebrates her 66th birthday today.",
+   "title": "Radar Festival Manchester concludes",
+   "blurb": "Manchester's Radar Festival, a celebration of progressive and heavy music, wraps up today, August 2nd, at O2 Victoria Warehouse.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Kathy_Brown"
+    "l": "Radar Festival",
+    "u": "https://www.radarfestival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Manchester"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Radar Festival Recap",
+     "for": "Nation Radio Manchester",
+     "copy": "That's a wrap on Radar Festival! Manchester brought the noise this weekend. If you were there, what was your highlight set?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#RadarFestival"
+     ]
+    },
+    {
+     "name": "Prog Rock Power",
+     "for": "Nation Rocks",
+     "copy": "Radar Festival delivered another weekend of incredible progressive and heavy music. The O2 Victoria Warehouse was buzzing! What's next for your live music calendar?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#ProgRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "singles-chart-update",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Official Singles Chart: Sam Fender & Olivia Dean make history, Ariana Grande eyes Top 10",
+   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' continues its record-breaking run at UK No.1, while Ariana Grande's new album 'petal' sees three tracks aiming for the Top 20.",
+   "source": {
+    "l": "Official Charts",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart History Made",
+     "for": "Nation Hits",
+     "copy": "History makers! Sam Fender & Olivia Dean's 'Rein Me In' is still number one, extending its record as the UK's longest-running No.1 single ever! Incredible stuff.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Ariana's Chart Takeover",
+     "for": "Nation Hits",
+     "copy": "Ariana Grande is making waves on the singles chart! Three tracks from her new album 'petal' are climbing fast and looking set for the Top 20. Which is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ArianaGrande"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-album-flo",
+   "off": 5,
+   "type": "culture",
+   "hot": true,
+   "title": "New Music Friday: FLO release 'Therapy at the Club'",
+   "blurb": "UK R&B girl group FLO are set to release their highly anticipated debut album, 'Therapy at the Club', this Friday, August 7th.",
+   "source": {
+    "l": "Official Charts",
+    "u": "https://www.officialcharts.com/news/new-album-releases-2026-dates-for-ariana-grande-alex-warren-and-more--34346/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "FLO's Debut Album",
+     "for": "Nation Hits",
+     "copy": "Get ready for new music Friday! FLO's debut album 'Therapy at the Club' drops this week. We've been waiting for this one!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#NewMusicFriday"
+     ]
+    },
+    {
+     "name": "UK R&B",
+     "for": "Nation Hits",
+     "copy": "The UK's hottest R&B girl group, FLO, are releasing 'Therapy at the Club' this Friday. What are your expectations for their first album?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FLO"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-album-jungle",
+   "off": 12,
+   "type": "culture",
+   "hot": true,
+   "title": "Jungle's new album 'Sunshine' out August 14th",
+   "blurb": "British electronic duo Jungle are releasing their new album 'Sunshine' on August 14th, promising more of their signature neo-soul and funk-infused sound.",
+   "source": {
+    "l": "The Line of Best Fit",
+    "u": "https://www.thelineofbestfit.com/features/news/album-release-schedule-2026-from-the-line-of-best-fit"
    },
    "fits": [
     {
@@ -90,163 +327,14 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dance Legend Birthday",
-     "copy": "Sending big birthday vibes to the incredible Kathy Brown! Still sounds amazing 66 years young. What's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#KathyBrown"
-     ]
-    },
-    {
-     "name": "Tune for the Day",
-     "copy": "It's Kathy Brown's birthday! Time to crank up 'Turn Me On' and celebrate a true voice of dance music. Happy 66th!",
-     "channels": [
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BirthdayTunes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "james-hetfield-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "James Hetfield turns 63",
-   "blurb": "James Hetfield, co-founder, frontman, and rhythm guitarist of the legendary heavy metal band Metallica, celebrates his 63rd birthday on August 3rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/James_Hetfield"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal Icon Birthday",
-     "copy": "Happy 63rd birthday to the mighty James Hetfield! What's your ultimate Metallica anthem to celebrate the metal legend?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#JamesHetfield"
-     ]
-    },
-    {
-     "name": "Metallica Shoutout",
-     "copy": "Raise your horns! James Hetfield of Metallica is 63 tomorrow. Get ready to salute one of rock's biggest voices!",
-     "channels": [
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Metallica"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "boardmasters-festival",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Boardmasters Festival kicks off",
-   "blurb": "The Boardmasters Festival, combining surfing, skateboarding, and music, returns to Newquay, Cornwall from August 5th to 9th, featuring a lineup of diverse artists.",
-   "source": {
-    "l": "Boardmasters Official Website",
-    "u": "https://www.boardmasters.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Festival Countdown",
-     "for": "nation-network",
-     "copy": "Just three days until Boardmasters takes over Newquay! Sun, surf, and incredible music. Who's heading to Cornwall this week?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Boardmasters"
-     ]
-    },
-    {
-     "name": "Westcountry Excitement",
-     "for": "Nation Radio Westcountry",
-     "copy": "Newquay is about to get LOUD! Boardmasters Festival starts Wednesday. Who are you most excited to see on the Cornish coast?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Cornwall"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "geezer-butler-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Geezer Butler turns 77",
-   "blurb": "Terence 'Geezer' Butler, the legendary bassist and primary lyricist for Black Sabbath, celebrates his 77th birthday on August 5th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Geezer_Butler"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Sabbath Bassist",
-     "copy": "Happy 77th birthday to the iconic Geezer Butler of Black Sabbath! What's your favourite Sabbath riff or lyric from the master?",
+     "name": "Jungle Vibes",
+     "for": "Nation Dance",
+     "copy": "More sunshine on the way! Jungle drop their new album 'Sunshine' on August 14th. Get ready for those irresistible grooves!",
      "channels": [
       "instagram",
       "facebook",
@@ -254,37 +342,39 @@
      ],
      "time": "11:00",
      "tags": [
-      "#GeezerButler"
+      "#Jungle"
      ]
     },
     {
-     "name": "Metal Pioneer",
-     "copy": "Celebrating a true pioneer of heavy metal! Geezer Butler is 77 on Wednesday. Still laying down those heavy basslines!",
+     "name": "Funk Fusion",
+     "for": "Nation Hits",
+     "copy": "Jungle's 'Sunshine' is coming! The electronic duo's new album arrives August 14th. What tracks are you hoping for?",
      "channels": [
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "17:00",
+     "time": "13:00",
      "tags": [
-      "#BlackSabbath"
+      "#NewAlbum"
      ]
     }
    ]
   },
   {
-   "id": "geri-halliwell-birthday",
-   "off": 4,
-   "type": "birthday",
+   "id": "new-album-thescript",
+   "off": 12,
+   "type": "culture",
    "hot": true,
-   "title": "Geri Halliwell-Horner is 54",
-   "blurb": "Geri Halliwell-Horner, famously known as Ginger Spice from the Spice Girls, celebrates her 54th birthday on August 6th.",
+   "title": "The Script release 'The User's Guide To Being Human'",
+   "blurb": "Irish rock band The Script are releasing their new album 'The User's Guide To Being Human' on August 14th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Geri_Halliwell"
+    "l": "Official Charts",
+    "u": "https://www.officialcharts.com/news/new-album-releases-2026-dates-for-ariana-grande-alex-warren-and-more--34346/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -293,41 +383,91 @@
    ],
    "angles": [
     {
-     "name": "Spice Girl Birthday",
-     "copy": "Girl Power! Happy 54th birthday to the one and only Ginger Spice, Geri Halliwell-Horner! What's your favourite Spice Girls memory?",
+     "name": "The Script's Return",
+     "for": "Nation Rocks",
+     "copy": "New music from The Script! 'The User's Guide To Being Human' drops August 14th. What are you hoping for from their latest?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "15:00",
      "tags": [
-      "#GeriHalliwell"
+      "#TheScript"
      ]
     },
     {
-     "name": "90s Pop Icon",
-     "copy": "It's Geri Halliwell-Horner's birthday on Thursday! Still repping the 90s in style at 54. What's your go-to Spice Girls track?",
+     "name": "Anticipated Release",
+     "for": "Nation Hits",
+     "copy": "Mark your calendars, The Script fans! Their brand new album 'The User's Guide To Being Human' is out on August 14th. Will it be your summer soundtrack?",
      "channels": [
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:30",
+     "time": "09:00",
      "tags": [
-      "#SpiceGirls"
+      "#NewRelease"
      ]
     }
    ]
   },
   {
-   "id": "edinburgh-fringe-starts",
-   "off": 5,
-   "type": "culture",
+   "id": "new-uk-tv-august",
+   "off": 0,
+   "type": "tv",
    "hot": true,
-   "title": "Edinburgh Festival Fringe begins",
-   "blurb": "The world's largest arts festival, the Edinburgh Festival Fringe, returns from August 7th to 31st, bringing thousands of performances across comedy, theatre, music, and more to Scotland's capital.",
+   "title": "New UK TV: The Chelsea Detective returns, Netflix thrillers",
+   "blurb": "August brings new UK TV, including Season 4 of 'The Chelsea Detective' and Netflix's 'Murder in a Small Town' (released August 1st).",
    "source": {
-    "l": "Edinburgh Fringe Official Website",
-    "u": "https://www.edfringe.com/"
+    "l": "GeekTown",
+    "u": "https://www.geektown.co.uk/tvairdates/uk-air-dates-and-uk-premiere-dates-for-tv-shows/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "What to Watch",
+     "for": "",
+     "copy": "New TV to binge! 'The Chelsea Detective' is back for Season 4 this month, plus 'Murder in a Small Town' dropped on Netflix yesterday. What's first on your watch list?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#NewTV"
+     ]
+    },
+    {
+     "name": "London Crime Drama",
+     "for": "Nation Radio London",
+     "copy": "Our favourite London detective is back! Season 4 of 'The Chelsea Detective' premieres this August. Ready for more mysteries in the capital?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#ChelseaDetective"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "community-shield-2026",
+   "off": 14,
+   "type": "sport",
+   "hot": true,
+   "title": "Community Shield: Man City vs Arsenal in Cardiff",
+   "blurb": "The 2026 FA Community Shield will see Premier League champions Arsenal face FA Cup holders Manchester City on Sunday, August 16th, at Principality Stadium in Cardiff.",
+   "source": {
+    "l": "Groundhopper Guides",
+    "u": "https://groundhopperguides.com/2026-27-premier-league-start-date-fixtures-and-key-dates/"
    },
    "fits": [
     {
@@ -335,59 +475,112 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Fringe Fever",
-     "for": "nation-network",
-     "copy": "Edinburgh is about to explode with creativity! The Fringe Festival kicks off on Friday. Who's making the trip up north?",
+     "name": "First silverware of the season",
+     "for": "",
+     "copy": "The first piece of silverware is up for grabs! Man City take on Arsenal in the Community Shield on August 16th. Who's lifting the trophy?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "10:00",
      "tags": [
-      "#EdinburghFringe"
+      "#CommunityShield"
      ]
     },
     {
-     "name": "Scotland's Big Month",
-     "for": "Nation Radio Scotland",
-     "copy": "It's almost time! The Edinburgh Festival Fringe begins this Friday, transforming our capital into the world's biggest stage. What shows are on your list?",
+     "name": "Cardiff Hosts",
+     "for": "welsh-local",
+     "copy": "Football fever hits Cardiff! The Principality Stadium hosts the Community Shield this year, as Man City face Arsenal on August 16th. Are you going?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "12:00",
      "tags": [
-      "#Scotland"
+      "#Cardiff"
      ]
     }
    ]
   },
   {
-   "id": "back2festival",
-   "off": 4,
+   "id": "the-weeknd-wembley",
+   "off": 12,
    "type": "gig",
    "hot": true,
-   "title": "Back 2 Festival in Nottinghamshire",
-   "blurb": "The Back 2 Festival, celebrating music from the 80s, 90s, and 00s, runs from August 6th to 9th in Nottinghamshire, featuring nostalgic acts.",
+   "title": "The Weeknd's 'After Hours Til Dawn' tour at Wembley",
+   "blurb": "The Weeknd brings his record-breaking 'After Hours Til Dawn' stadium tour to Wembley Stadium for five nights, starting August 14th.",
    "source": {
-    "l": "Back 2 Festival Official Website",
-    "u": "https://back2festival.co.uk/"
+    "l": "Time Out London",
+    "u": "https://www.timeout.com/london/music/london-concerts-and-gigs-in-august-2026"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Hits"
     },
     {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wembley Stadium Takeover",
+     "for": "Nation Radio London",
+     "copy": "Wembley is ready for The Weeknd! His 'After Hours Til Dawn' tour kicks off a five-night residency on August 14th. Who's got tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheWeeknd"
+     ]
+    },
+    {
+     "name": "Biggest R&B Tour",
+     "for": "Nation Hits",
+     "copy": "The Weeknd's 'After Hours Til Dawn' tour is officially the biggest R&B stadium tour ever, and it's hitting Wembley next week! Expect an epic show.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#AfterHoursTilDawn"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ariana-grande-o2",
+   "off": 13,
+   "type": "gig",
+   "hot": true,
+   "title": "Ariana Grande's 'Eternal Sunshine' residency at The O2",
+   "blurb": "Ariana Grande begins her highly anticipated 10-night 'Eternal Sunshine' residency at London's O2 Arena on August 15th, her first live performances in six years.",
+   "source": {
+    "l": "Time Out London",
+    "u": "https://www.timeout.com/london/music/london-concerts-and-gigs-in-august-2026"
+   },
+   "fits": [
+    {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -395,27 +588,185 @@
     },
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Nostalgia Festival",
-     "copy": "Ready for a trip down memory lane? Back 2 Festival kicks off Thursday in Nottinghamshire, bringing you the best of the 80s, 90s, and 00s! Who's going?",
+     "name": "Ariana is BACK",
+     "for": "Nation Hits",
+     "copy": "She's back! Ariana Grande kicks off her 10-night 'Eternal Sunshine' residency at The O2 next week. Who's counting down the days?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "11:30",
+     "time": "11:00",
      "tags": [
-      "#Back2Festival"
+      "#ArianaGrande"
      ]
     },
     {
-     "name": "Decades Party",
-     "copy": "Spice up your life and get ready to rave! Back 2 Festival starts soon, celebrating three decades of iconic music. What era are you repping?",
+     "name": "London Residency",
+     "for": "Nation Radio London",
+     "copy": "London, get ready! Ariana Grande takes over The O2 for a massive 10-night residency starting August 15th. It's set to be the pop event of the summer!",
      "channels": [
-      "instagram"
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#TheO2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wythenshawe-park-buzz",
+   "off": 19,
+   "type": "gig",
+   "hot": true,
+   "title": "Wythenshawe Park builds buzz for Courteeners, The Prodigy",
+   "blurb": "Manchester's Live from Wythenshawe Park series continues to generate excitement, with Courteeners and The Prodigy set to headline the August Bank Holiday weekend.",
+   "source": {
+    "l": "Visit Manchester",
+    "u": "https://www.visitmanchester.com/whats-on/music-and-gigs/live-from-wythenshawe-park-2026-p460061"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Manchester"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Manchester's Big Weekend",
+     "for": "Nation Radio Manchester",
+     "copy": "The August Bank Holiday in Manchester is going to be HUGE! Courteeners and The Prodigy are headlining Live from Wythenshawe Park. Who are you seeing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ManchesterGigs"
+     ]
+    },
+    {
+     "name": "Festival Buzz",
+     "for": "Nation Rocks",
+     "copy": "Courteeners AND The Prodigy on the same weekend? Live from Wythenshawe Park is shaping up to be epic for the August Bank Holiday. Get involved!",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LiveMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-james-hetfield",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 63rd Birthday, James Hetfield!",
+   "blurb": "James Hetfield, co-founder, frontman, and rhythm guitarist of legendary heavy metal band Metallica, turns 63 tomorrow, August 3rd.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/3"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal Legend",
+     "for": "Nation Rocks",
+     "copy": "Tomorrow, we're wishing a very Happy 63rd Birthday to the one and only James Hetfield from Metallica! What's your favourite riff he's ever laid down?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Metallica"
+     ]
+    },
+    {
+     "name": "Iconic Frontman",
+     "for": "Nation Rocks",
+     "copy": "He's the voice and the fire of Metallica. James Hetfield turns 63 tomorrow! Celebrate by cranking your favourite track loud.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#JamesHetfield"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-skin-skunkanansie",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 59th Birthday, Skin!",
+   "blurb": "Skin, the iconic lead singer of British rock band Skunk Anansie, celebrates her 59th birthday tomorrow, August 3rd.",
+   "source": {
+    "l": "The Current",
+    "u": "https://www.thecurrent.org/music/blog/aug-3-in-music-history-happy-birthday-to-sierra-ferrell-and-james-hetfield"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Icon",
+     "for": "Nation Rocks",
+     "copy": "Tomorrow we're celebrating the incredible Skin from Skunk Anansie, who turns 59! What's your go-to Skunk Anansie anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SkunkAnansie"
+     ]
+    },
+    {
+     "name": "90s Powerhouse",
+     "for": "Nation 90s",
+     "copy": "Happy 59th Birthday to the phenomenal Skin from Skunk Anansie tomorrow! A true 90s legend with a voice like no other.",
+     "channels": [
+      "x",
+      "threads"
      ],
      "time": "16:00",
      "tags": [
@@ -425,116 +776,20 @@
    ]
   },
   {
-   "id": "bloodstock-festival",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "Bloodstock Open Air Festival",
-   "blurb": "The UK's largest independent open-air metal festival, Bloodstock Open Air, takes place from August 6th to 9th in Catton Park, Derbyshire, featuring a heavy lineup.",
-   "source": {
-    "l": "Bloodstock Official Website",
-    "u": "https://www.bloodstock.uk.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal Heads Unite",
-     "copy": "Bloodstock Open Air starts Thursday! Get ready for four days of pure metal mayhem in Derbyshire. Who's heading to Catton Park?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#Bloodstock"
-     ]
-    },
-    {
-     "name": "Rock Festival Alert",
-     "copy": "Calling all rock fans! Bloodstock is almost here. Prepare for an epic weekend of heavy bands and mosh pits!",
-     "channels": [
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#MetalFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bruce-dickinson-birthday",
-   "off": 5,
+   "id": "bday-yungblud",
+   "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Bruce Dickinson turns 68",
-   "blurb": "Bruce Dickinson, the iconic lead vocalist of Iron Maiden, celebrates his 68th birthday on August 7th.",
+   "title": "Happy 29th Birthday, Yungblud!",
+   "blurb": "British rock star Yungblud, known for his energetic performances and genre-bending sound, turns 29 on August 5th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bruce_Dickinson"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august5.html"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Maiden Frontman Birthday",
-     "copy": "Up the Irons! Happy 68th birthday to the legendary Bruce Dickinson! What's your favourite Iron Maiden track to celebrate the frontman?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BruceDickinson"
-     ]
-    },
-    {
-     "name": "Rock Vocalist",
-     "copy": "Bruce Dickinson is 68 on Friday! Still soaring high with Iron Maiden. What's your favourite live performance of his?",
-     "channels": [
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#IronMaiden"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "roots-picnic-uk",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Roots Picnic UK debut",
-   "blurb": "The acclaimed Roots Picnic festival makes its international debut in the UK, taking place at Crystal Palace Bowl, London on August 8th and 9th.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/roots-picnic-uk-tickets/artist/5431526"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
@@ -543,42 +798,192 @@
    ],
    "angles": [
     {
-     "name": "London Festival",
-     "for": "Nation Radio London",
-     "copy": "The Roots Picnic is coming to London this weekend! Crystal Palace Bowl hosts the international debut. Ready for some incredible hip-hop and R&B?",
+     "name": "Yungblud Rocks",
+     "for": "Nation Rocks",
+     "copy": "Get ready to celebrate! Yungblud turns 29 on August 5th. What's your favourite track from the Doncaster dynamo?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#RootsPicnicUK"
+      "#Yungblud"
      ]
     },
     {
-     "name": "New Festival Buzz",
-     "copy": "Big news for UK music! Roots Picnic makes its debut this weekend. Expect world-class performances and an unforgettable vibe.",
+     "name": "Pop Punk Prince",
+     "for": "Nation Hits",
+     "copy": "Wishing a very Happy 29th Birthday to Yungblud on Wednesday! His music always brings the energy. What's your favourite Yungblud moment?",
      "channels": [
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#LondonGigs"
+      "#Birthday"
      ]
     }
    ]
   },
   {
-   "id": "the-edge-birthday",
+   "id": "bday-geri-halliwell",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 54th Birthday, Geri Halliwell!",
+   "blurb": "Geri Halliwell, aka Ginger Spice from the iconic Spice Girls, celebrates her 54th birthday on August 6th.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/6"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Spice Girl Legend",
+     "for": "Nation 90s",
+     "copy": "Girl Power! Wishing a very Happy 54th Birthday to the one and only Ginger Spice, Geri Halliwell, on Thursday! What's your favourite Spice Girls memory?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SpiceGirls"
+     ]
+    },
+    {
+     "name": "Solo Geri",
+     "for": "Nation Hits",
+     "copy": "It's Geri Halliwell's 54th Birthday on Thursday! From Spice Girl to solo star, what's your favourite Geri track?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#GeriHalliwell"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-bruce-dickinson",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 68th Birthday, Bruce Dickinson!",
+   "blurb": "Bruce Dickinson, the legendary frontman of Iron Maiden, turns 68 on August 7th.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/7"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal Royalty",
+     "for": "Nation Rocks",
+     "copy": "Up the Irons! Wishing a very Happy 68th Birthday to Iron Maiden's incredible frontman, Bruce Dickinson, on Friday! What's your favourite Maiden epic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#IronMaiden"
+     ]
+    },
+    {
+     "name": "Vocal Powerhouse",
+     "for": "Nation Rocks",
+     "copy": "Bruce Dickinson turns 68 this Friday! The voice of Iron Maiden for decades, what's his most iconic vocal performance in your opinion?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#BruceDickinson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-shawn-mendes",
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "The Edge (U2) is 65",
-   "blurb": "David Howell Evans, better known as The Edge, the influential guitarist, keyboardist, and backing vocalist of U2, celebrates his 65th birthday on August 8th.",
+   "title": "Happy 28th Birthday, Shawn Mendes!",
+   "blurb": "Canadian pop sensation Shawn Mendes, known for hits like 'Stitches' and 'Senorita', turns 28 on August 8th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/The_Edge"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august8.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star Birthday",
+     "for": "Nation Hits",
+     "copy": "Wishing a very Happy 28th Birthday to Shawn Mendes this Saturday! What's your favourite track from the chart-topping singer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ShawnMendes"
+     ]
+    },
+    {
+     "name": "Mendes Mania",
+     "for": "Nation Hits",
+     "copy": "Shawn Mendes turns 28 on August 8th! Get ready to celebrate the pop heartthrob's birthday weekend with his biggest hits.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Birthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-the-edge",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 65th Birthday, The Edge!",
+   "blurb": "David Evans, better known as The Edge, the iconic guitarist of U2, celebrates his 65th birthday on August 8th.",
+   "source": {
+    "l": "Celebrity Birthdays",
+    "u": "https://www.celebritybirthdays.net/the-edge"
    },
    "fits": [
     {
@@ -592,140 +997,48 @@
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "U2 Guitarist Birthday",
-     "copy": "Happy 65th birthday to the iconic The Edge from U2! His distinctive sound has shaped decades of rock music. What's your favourite U2 track?",
+     "name": "U2 Guitar Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 65th Birthday to the legendary U2 guitarist, The Edge, this Saturday! What's your favourite iconic guitar moment from him?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#TheEdge"
-     ]
-    },
-    {
-     "name": "Guitar Hero",
-     "copy": "The Edge is 65 this Saturday! Celebrate U2's legendary guitarist by cranking up one of their anthems. What's your pick?",
-     "channels": [
       "x"
      ],
      "time": "16:00",
      "tags": [
       "#U2"
      ]
-    }
-   ]
-  },
-  {
-   "id": "shawn-mendes-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shawn Mendes turns 28",
-   "blurb": "Canadian singer-songwriter Shawn Mendes, known for hits like 'Stitches' and 'Señorita', celebrates his 28th birthday on August 8th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shawn_Mendes"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star Birthday",
-     "copy": "Happy 28th birthday to the amazing Shawn Mendes! What's your favourite song from the Canadian pop sensation?",
+     "name": "Distinctive Sound",
+     "for": "Nation 80s",
+     "copy": "The Edge turns 65 on August 8th! His unique guitar sound has defined U2 for decades. What's the first U2 song that comes to mind?",
      "channels": [
-      "instagram",
-      "facebook"
+      "x",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "19:00",
      "tags": [
-      "#ShawnMendes"
-     ]
-    },
-    {
-     "name": "Weekend Vibes",
-     "copy": "Shawn Mendes is 28 on Saturday! Get ready to celebrate with some of his biggest hits. What tune are you playing?",
-     "channels": [
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#PopMusic"
+      "#TheEdge"
      ]
     }
    ]
   },
   {
-   "id": "european-athletics-birmingham",
-   "off": 8,
-   "type": "sport",
-   "hot": true,
-   "title": "European Athletics Championships",
-   "blurb": "The European Athletics Championships come to the UK for the first time, taking place in Birmingham from August 10th to 16th at the Alexander Stadium.",
-   "source": {
-    "l": "European Athletics Official Website",
-    "u": "https://birmingham2026.european-athletics.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Athletics Excitement",
-     "copy": "Get ready for world-class athletics! The European Championships kick off in Birmingham on Monday. Who are you cheering on?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#EuroAthletics"
-     ]
-    },
-    {
-     "name": "Birmingham Hosts",
-     "copy": "Birmingham is about to host the European Athletics Championships for the first time ever! Seven days of thrilling action starts August 10th.",
-     "channels": [
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Birmingham2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "suzanne-vega-birthday",
+   "id": "bday-neneh-cherry",
    "off": 8,
    "type": "birthday",
    "hot": true,
-   "title": "Suzanne Vega turns 67",
-   "blurb": "American singer-songwriter Suzanne Vega, known for her distinctive folk-inspired sound and hits like 'Luka' and 'Tom's Diner', celebrates her 67th birthday on August 10th.",
+   "title": "Happy 62nd Birthday, Neneh Cherry!",
+   "blurb": "Swedish singer-songwriter Neneh Cherry, famous for her genre-blending hits, turns 62 on August 10th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Suzanne_Vega"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/10"
    },
    "fits": [
     {
@@ -734,13 +1047,18 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Folk Icon Birthday",
-     "copy": "Happy 67th birthday to the brilliant Suzanne Vega! Her unique storytelling has captivated us for decades. What's your favourite track?",
+     "name": "Genre-Bending Icon",
+     "for": "Nation Hits",
+     "copy": "She's a true original! Wishing a very Happy 62nd Birthday to Neneh Cherry on Monday! What's your favourite track from her incredible career?",
      "channels": [
       "instagram",
       "facebook",
@@ -748,310 +1066,75 @@
      ],
      "time": "10:00",
      "tags": [
-      "#SuzanneVega"
+      "#NenehCherry"
      ]
     },
     {
-     "name": "80s Classic",
-     "copy": "Suzanne Vega is 67 on Monday! Time to revisit classics like 'Luka' and 'Tom's Diner'. Still sounds as fresh as ever.",
+     "name": "80s/90s Trailblazer",
+     "for": "Nation 80s",
+     "copy": "Neneh Cherry turns 62 on August 10th! From 'Buffalo Stance' to '7 Seconds', her influence is undeniable. Celebrate her birthday with her greatest hits!",
      "channels": [
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#80sMusic"
+      "#90sPop"
      ]
     }
    ]
   },
   {
-   "id": "joe-jackson-birthday",
+   "id": "bday-joe-jackson",
    "off": 9,
    "type": "birthday",
    "hot": true,
-   "title": "Joe Jackson turns 71",
-   "blurb": "English musician and singer-songwriter Joe Jackson, known for his new wave and pop rock hits including 'Is She Really Going Out with Him?' and 'Steppin' Out', celebrates his 71st birthday on August 11th.",
+   "title": "Happy 72nd Birthday, Joe Jackson!",
+   "blurb": "British singer-songwriter Joe Jackson, known for his new wave and pop hits, turns 72 on August 11th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Joe_Jackson_(musician)"
+    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/August_11"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "New Wave Legend Birthday",
-     "copy": "Happy 71st birthday to the fantastic Joe Jackson! His sharp lyrics and catchy tunes are truly iconic. What's your favourite of his?",
+     "name": "New Wave King",
+     "for": "Nation 80s",
+     "copy": "Happy 72nd Birthday to the brilliant Joe Jackson on Tuesday! From 'Is She Really Going Out with Him?' to 'Steppin' Out', his songs are timeless. What's your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
       "#JoeJackson"
      ]
     },
     {
-     "name": "80s Pop Rock",
-     "copy": "Joe Jackson is 71 on Tuesday! Get 'Steppin' Out' and celebrate one of the UK's great singer-songwriters.",
-     "channels": [
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#80sHits"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mark-knopfler-birthday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Mark Knopfler is 77",
-   "blurb": "Mark Knopfler, the legendary guitarist, singer, and songwriter best known as the frontman of Dire Straits, celebrates his 77th birthday on August 12th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dire Straits Legend Birthday",
-     "copy": "Happy 77th birthday to the masterful Mark Knopfler! His guitar work with Dire Straits is simply iconic. What's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#MarkKnopfler"
-     ]
-    },
-    {
-     "name": "Guitar God",
-     "copy": "Mark Knopfler is 77 this Wednesday! From 'Sultans of Swing' to his solo work, a true guitar god. What's his best riff?",
-     "channels": [
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#DireStraits"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-summer-holidays",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK Summer Holidays in full swing",
-   "blurb": "The summer school holidays are ongoing across the UK, with many families enjoying breaks before schools in Scotland and Northern Ireland begin to return mid-August, and England/Wales in early September.",
-   "source": {
-    "l": "UK School Holiday Dates",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Holiday Vibes",
-     "copy": "Summer holidays are well underway across the UK! Where are you heading for your break, or are you enjoying a staycation?",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#SummerHolidays"
-     ]
-    },
-    {
-     "name": "Back to School Countdown",
-     "copy": "Enjoying the last few weeks of summer holidays? Schools in Scotland and Northern Ireland start heading back soon, with England and Wales following in early September!",
+     "name": "Musical Maestro",
+     "for": "Nation Classic Hits",
+     "copy": "Joe Jackson celebrates his 72nd Birthday on August 11th! A true musical maestro with a career spanning decades. What's your go-to Joe Jackson track?",
      "channels": [
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "13:00",
+     "time": "14:00",
      "tags": [
-      "#SchoolHolidays"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "august-uk-weather",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August UK Weather Outlook",
-   "blurb": "The UK weather forecast for August predicts continued warm and potentially very warm conditions in the South, with a north-south divide seeing more unsettled weather in northern areas.",
-   "source": {
-    "l": "Meteored UK / AccuWeather",
-    "u": "https://www.meteored.co.uk/news/weather/uk-weather-forecast-for-august-2026-more-hot-weather-on-the-horizon.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Warm South, Wet North",
-     "copy": "August weather update! Looks like the South could see more hot spells, while the North might get more rain. What's the forecast where you are?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#UKWeather"
-     ]
-    },
-    {
-     "name": "Summer Sunshine",
-     "copy": "Hoping for more sunshine this August? Southern UK is tipped for warmer temperatures. Perfect for those beach days in Devon!",
-     "for": "radio-exe",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#DevonWeather"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-build-up",
-   "off": 19,
-   "type": "sport",
-   "hot": false,
-   "title": "Premier League season build-up",
-   "blurb": "The 2026/27 Premier League season is set to kick off on August 21st, with pre-season preparations and fixture analysis already in full swing.",
-   "source": {
-    "l": "Premier League Official Website",
-    "u": "https://www.premierleague.com/news/4130283"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Football Countdown",
-     "copy": "Only a few weeks until the Premier League kicks off on August 21st! Who are you tipping for the title this season?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Pre-Season Talk",
-     "copy": "Pre-season friendlies are happening, new signings are settling in... the Premier League is almost back! What are your predictions?",
-     "channels": [
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gbbo-new-season-buzz",
-   "off": 31,
-   "type": "tv",
-   "hot": false,
-   "title": "Great British Bake Off returns in September",
-   "blurb": "The Great British Bake Off is confirmed to return for a new season on September 2nd, with Nigella Lawson joining Paul Hollywood as a new judge.",
-   "source": {
-    "l": "Channel 4 / Radio Times",
-    "u": "https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2026-release-date/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Buzz",
-     "copy": "The tent is almost ready! Great British Bake Off returns on September 2nd, and Nigella Lawson is joining as a new judge. Are you excited?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "New Judge",
-     "copy": "Nigella Lawson in the Bake Off tent! The new series starts September 2nd. What do you think she'll bring to the judging panel?",
-     "channels": [
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#BakeOff"
+      "#ClassicHits"
      ]
     }
    ]
