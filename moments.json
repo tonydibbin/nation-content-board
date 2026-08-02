@@ -1,51 +1,105 @@
 {
- "updated": "2026-08-02T16:43:14.565Z",
+ "updated": "2026-08-02T17:49:34.256Z",
  "moments": [
   {
-   "id": "scotland-bank-holiday",
-   "off": 1,
-   "type": "seasonal",
+   "id": "festival-season-closes",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "Scotland's Summer Bank Holiday",
-   "blurb": "Tomorrow, Monday August 3rd, is a Bank Holiday in Scotland, marking a long weekend for many north of the border.",
+   "title": "UK Festival Season: Last Day for Some",
+   "blurb": "Several popular festivals including Camp Bestival Shropshire, Radar Festival, Cambridge Folk Festival, and Wickham Festival wrap up their 2026 editions today.",
    "source": {
-    "l": "Gov.uk / Time and Date",
-    "u": "https://www.gov.uk/bank-holidays"
+    "l": "Ticketmaster / Festival Websites",
+    "u": "https://www.ticketmaster.co.uk/festivals/august"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": ""
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Monday Off Vibe",
-     "copy": "That Monday feeling is even better when it's a Bank Holiday! Big up to everyone in Scotland enjoying the extra day off tomorrow. What are your plans for the long weekend? #BankHoliday",
+     "name": "Festival Wrap-Up",
+     "copy": "That's a wrap for some of the UK's best festivals today! Who made it to Camp Bestival, Radar, Cambridge Folk or Wickham this weekend? Spill the highlights!",
      "channels": [
+      "instagram",
       "facebook",
       "x",
-      "instagram",
+      "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "18:00",
      "tags": [
-      "#BankHoliday"
+      "#FestivalSeason"
      ]
     },
     {
-     "name": "Scottish Plans",
-     "copy": "Morning, Scotland! Who's making the most of the August Bank Holiday tomorrow? Sunshine or showers, we're here with the perfect soundtrack for your extra day off.",
+     "name": "Sunday Vibes",
+     "copy": "Last chance for festival vibes at Camp Bestival, Radar, Cambridge Folk and Wickham today. What's been your favourite festival memory from this year?",
      "channels": [
+      "instagram",
       "facebook",
-      "x",
-      "instagram"
+      "x"
      ],
-     "time": "09:30",
+     "time": "15:00",
+     "tags": [
+      "#FestivalSunday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scottish-bank-holiday",
+   "off": 1,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Scottish Summer Bank Holiday Tomorrow",
+   "blurb": "Monday, August 3rd, marks the Summer Bank Holiday in Scotland, offering a long weekend for many north of the border.",
+   "source": {
+    "l": "Gov.uk / Time and Date",
+    "u": "https://www.timeanddate.com/holidays/uk/august-bank-holiday"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Long Weekend Scotland",
+     "copy": "Three-day weekend incoming for Scotland! The Summer Bank Holiday is tomorrow. What are your plans for the extra day off?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ScottishBankHoliday"
+     ]
+    },
+    {
+     "name": "Scotland Day Off",
+     "copy": "While the rest of the UK waits, Scotland gets its Summer Bank Holiday tomorrow! Enjoy the long weekend, Nation Radio Scotland listeners!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "11:00",
      "tags": [
       "#Scotland"
      ]
@@ -53,575 +107,15 @@
    ]
   },
   {
-   "id": "the-hundred-aug2",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "The Hundred Continues Today",
-   "blurb": "The Hundred cricket tournament continues today with a men's and women's double-header: Trent Rockets take on Sunrisers Leeds at Trent Bridge.",
-   "source": {
-    "l": "The Hundred Official",
-    "u": "https://www.thehundred.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Live Cricket Today",
-     "copy": "Sun's out, cricket's on! The Hundred is back today with Trent Rockets facing Sunrisers Leeds. Who are you backing for the win? Catch all the action live!",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TheHundred"
-     ]
-    },
-    {
-     "name": "Trent Bridge Action",
-     "copy": "It's match day at Trent Bridge! Trent Rockets vs Sunrisers Leeds in The Hundred. Perfect Sunday afternoon sorted for cricket fans.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#Cricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "luke-combs-wembley",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Luke Combs at Wembley Today",
-   "blurb": "Country superstar Luke Combs plays Wembley Stadium in London tonight, wrapping up his UK dates.",
-   "source": {
-    "l": "Ticketmaster",
-    "u": "https://www.ticketmaster.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wembley Country Night",
-     "copy": "Wembley Stadium is going full country tonight as Luke Combs takes the stage! Who's there for a huge night of anthems?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#LukeCombs"
-     ]
-    },
-    {
-     "name": "Sunday Night Live",
-     "copy": "If you're at Wembley tonight for Luke Combs, you're in for a treat! Enjoy the show, London!",
-     "channels": [
-      "x",
-      "instagram"
-     ],
-     "time": "18:30",
-     "tags": [
-      "#CountryMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "charli-xcx-bday",
+   "id": "joe-elliott-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 34th to Charli XCX",
-   "blurb": "British pop trailblazer Charli XCX turns 34 today, known for hits like 'Boom Clap' and 'Speed Drive'.",
+   "title": "Joe Elliott of Def Leppard is 67",
+   "blurb": "Joe Elliott, the iconic frontman of rock legends Def Leppard, celebrates his 67th birthday today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Pioneer Bday",
-     "copy": "Happy 34th Birthday to the one and only Charli XCX! Still pushing boundaries and dropping bangers. What's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#CharliXCX"
-     ]
-    },
-    {
-     "name": "Queen of Pop",
-     "copy": "From 'Boom Clap' to 'Speed Drive', Charli XCX always delivers. Celebrating her 34th birthday today!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "butch-vig-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Butch Vig Turns 71",
-   "blurb": "Legendary producer (Nirvana's 'Nevermind', Smashing Pumpkins) and Garbage drummer Butch Vig celebrates his 71st birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend Bday",
-     "copy": "Happy 71st Birthday to the incredible Butch Vig! The man behind some of the biggest albums of the 90s and the driving force in Garbage. What's your favourite Vig production?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ButchVig"
-     ]
-    },
-    {
-     "name": "Producer Power",
-     "copy": "A true icon of alternative rock. Happy Birthday to Butch Vig, 71 today! From Nirvana to Garbage, his impact is undeniable.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Garbage"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean are UK No.1",
-   "blurb": "The Official UK Singles Chart sees 'Rein Me In' by Sam Fender and Olivia Dean holding strong at Number 1 for the week ending August 6, 2026.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper",
-     "copy": "Your Official UK No.1! Sam Fender & Olivia Dean's 'Rein Me In' is still dominating the singles chart. Tune in to hear the biggest hits right now!",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "No1 Vibes",
-     "copy": "Huge congratulations to Sam Fender and Olivia Dean for another week at the top of the Official Singles Chart! 'Rein Me In' is definitely a summer anthem.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SamFender #OliviaDean"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-tickets",
-   "off": 2,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing Tickets Close Soon",
-   "blurb": "The ballot to apply for free tickets to the recording of the Strictly Come Dancing 2026 launch show closes on Tuesday, August 4th.",
-   "source": {
-    "l": "BBC",
-    "u": "https://www.bbc.co.uk/showsandtours/shows/strictly-come-dancing-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Last Chance Strictly",
-     "copy": "Want to be in the Strictly Come Dancing audience? The ballot for launch show tickets closes Tuesday! Get your applications in before it's too late!",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    },
-    {
-     "name": "TV Glamour",
-     "copy": "Don't miss your chance to see the new Strictly Come Dancing hosts Emma Willis, Josh Widdicombe and Johannes Radebe in action! Ticket applications for the launch close August 4th.",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#Strictly"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-hundred-aug5",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "The Hundred: Welsh Fire in Action",
-   "blurb": "The Hundred continues on Wednesday with Welsh Fire's men's and women's teams playing Manchester Super Giants at Old Trafford.",
-   "source": {
-    "l": "The Hundred Official",
-    "u": "https://www.thehundred.com/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Fire Wednesday",
-     "copy": "Big game for Welsh Fire on Wednesday! Our men's and women's teams are off to Old Trafford to face Manchester Super Giants. Let's go, Fire!",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WelshFire"
-     ]
-    },
-    {
-     "name": "Cricket Midweek",
-     "copy": "Midweek Hundred action on Wednesday! Catch Welsh Fire away at Manchester Super Giants. Who's tuning in?",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#TheHundred"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "houghton-festival",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "Houghton Festival Kicks Off",
-   "blurb": "Houghton Festival, known for its electronic music and unique atmosphere, runs from August 6-9 in Norfolk.",
-   "source": {
-    "l": "Houghton Festival Official",
-    "u": "https://www.houghtonfestival.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Suffolk"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Season",
-     "copy": "Houghton Festival kicks off this week in Norfolk! Four days of incredible electronic music, art, and good vibes. Who's heading to the dancefloor?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#HoughtonFestival"
-     ]
-    },
-    {
-     "name": "Norfolk Nights",
-     "copy": "The countdown to Houghton is ON! Get ready for an unforgettable weekend of electronic sounds in the heart of Norfolk, starting August 6th.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#DanceMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "geri-halliwell-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Geri Halliwell Turns 53",
-   "blurb": "Ginger Spice herself, Geri Halliwell, celebrates her 53rd birthday on August 6th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Spice Up Your Life",
-     "copy": "Girl Power! Sending massive birthday wishes to Geri Halliwell, who turns 53 on August 6th. What's your favourite Spice Girls memory?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#GeriHalliwell #SpiceGirls"
-     ]
-    },
-    {
-     "name": "90s Icon",
-     "copy": "Happy Birthday to Geri Halliwell! A true 90s icon celebrating her 53rd on Thursday. Which Spice Girls track is on repeat for you?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#90sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "james-hetfield-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "James Hetfield Turns 63",
-   "blurb": "Metallica frontman James Hetfield celebrates his 63rd birthday tomorrow, August 3rd.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal God Bday",
-     "copy": "Tomorrow, we raise a glass to the legendary James Hetfield! Happy 63rd Birthday to the voice and riff-master of Metallica.",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#JamesHetfield #Metallica"
-     ]
-    },
-    {
-     "name": "Master of Puppets",
-     "copy": "Wishing a very Happy 63rd Birthday to James Hetfield! What's your all-time favourite Metallica track?",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#RockLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-roots-picnic",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "The Roots Picnic London Debut",
-   "blurb": "The iconic Roots Picnic festival makes its international debut at Crystal Palace Bowl, London, on August 8-9, bringing a blend of hip hop, music, culture, and community.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/the-roots-picnic-tickets/artist/5396695"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hip Hop History",
-     "copy": "The legendary Roots Picnic hits London for the first time ever this weekend! Crystal Palace Bowl is hosting a massive celebration of hip hop and culture on August 8-9. Who's got tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RootsPicnic #LondonGigs"
-     ]
-    },
-    {
-     "name": "Weekend Vibes",
-     "copy": "Get ready, London! The Roots Picnic is bringing the best of hip hop to Crystal Palace Bowl this Friday and Saturday. Don't miss out on this historic event!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#HipHop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bruce-dickinson-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Bruce Dickinson Turns 68",
-   "blurb": "Iron Maiden's iconic frontman, Bruce Dickinson, celebrates his 68th birthday on August 7th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
+    "l": "This Day In Music",
+    "u": "https://www.thisdayinmusic.com/artists/joe-elliott/"
    },
    "fits": [
     {
@@ -635,99 +129,8 @@
    ],
    "angles": [
     {
-     "name": "Heavy Metal Icon",
-     "copy": "Up the Irons! Wishing a very Happy 68th Birthday to Iron Maiden's incredible vocalist, Bruce Dickinson, on August 7th. What's your favourite Maiden track?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BruceDickinson #IronMaiden"
-     ]
-    },
-    {
-     "name": "Rock Royalty",
-     "copy": "Happy 68th to the legendary Bruce Dickinson! The voice of Iron Maiden and a true rock icon. Celebrate with some classic Maiden this week.",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#MetalMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shawn-mendes-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shawn Mendes Turns 27",
-   "blurb": "Pop sensation Shawn Mendes celebrates his 27th birthday on August 8th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star Bday",
-     "copy": "Happy 27th Birthday to the amazing Shawn Mendes on August 8th! What's your go-to Shawn track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#ShawnMendes"
-     ]
-    },
-    {
-     "name": "Chart-topper",
-     "copy": "Celebrating Shawn Mendes' 27th birthday this Thursday! Relive his biggest hits with us.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "arlov-parks-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Arlo Parks Turns 25",
-   "blurb": "British singer-songwriter and Mercury Prize winner Arlo Parks celebrates her 25th birthday on August 9th.",
-   "source": {
-    "l": "The Current / Famous Birthdays",
-    "u": "https://www.thecurrent.org/feature/2021/08/09/august-9-in-music-history-happy-birthday-arlo-parks"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Mercury Prize Winner",
-     "copy": "Happy 25th Birthday to the brilliant Arlo Parks on August 9th! A Mercury Prize winner and a unique voice in British music. What's your favourite from her?",
+     "name": "Def Leppard Legend",
+     "copy": "Pour some sugar on him! Happy 67th Birthday to Def Leppard's incredible frontman, Joe Elliott! What's your favourite Leppard anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -735,33 +138,282 @@
      ],
      "time": "10:00",
      "tags": [
-      "#ArloParks"
+      "#JoeElliott"
      ]
     },
     {
-     "name": "British Talent",
-     "copy": "Celebrating Arlo Parks' 25th this Friday! An incredible talent whose music resonates deeply. Play her latest with us!",
+     "name": "Rock Icon",
+     "copy": "Wishing a very happy 67th birthday to the one and only Joe Elliott! Still rocking stages worldwide with Def Leppard.",
      "channels": [
       "x",
-      "threads"
+      "facebook"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#NewMusic"
+      "#DefLeppard"
      ]
     }
    ]
   },
   {
-   "id": "mark-knopfler-bday",
-   "off": 10,
+   "id": "james-hetfield-birthday",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Mark Knopfler Turns 77",
-   "blurb": "Dire Straits frontman Mark Knopfler celebrates his 77th birthday on August 12th.",
+   "title": "James Hetfield of Metallica is 63",
+   "blurb": "James Hetfield, co-founder, frontman, and primary songwriter for heavy metal giants Metallica, turns 63 tomorrow.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/12"
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/james-hetfield.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metallica Master",
+     "copy": "Tomorrow, raise your horns for James Hetfield of Metallica, turning 63! What's the ultimate Metallica track for you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#JamesHetfield"
+     ]
+    },
+    {
+     "name": "Metal God",
+     "copy": "Celebrating the metal god tomorrow! Happy 63rd Birthday to James Hetfield. Still riding the lightning!",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Metallica"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ed-roland-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Ed Roland of Collective Soul is 63",
+   "blurb": "Ed Roland, the distinctive lead vocalist and primary songwriter for American rock band Collective Soul, celebrates his 63rd birthday tomorrow.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/ed-roland.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Collective Soul Frontman",
+     "copy": "Shine on! Happy 63rd Birthday tomorrow to Ed Roland of Collective Soul. Which of their hits takes you back?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#EdRoland"
+     ]
+    },
+    {
+     "name": "Rock Voice",
+     "copy": "The voice behind so many anthems! Ed Roland of Collective Soul turns 63 tomorrow. What's your favourite Collective Soul track?",
+     "channels": [
+      "instagram",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#CollectiveSoul"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "skin-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Skin of Skunk Anansie is 59",
+   "blurb": "Deborah Anne Dyer, better known as Skin, the powerful lead singer of British rock band Skunk Anansie, turns 59 tomorrow.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/skin-skunk-anansie.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Skunk Anansie Icon",
+     "copy": "Happy 59th Birthday tomorrow to the phenomenal Skin from Skunk Anansie! Her voice is still as electrifying as ever.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Skin"
+     ]
+    },
+    {
+     "name": "British Rock Queen",
+     "copy": "Tomorrow we celebrate the incredible Skin! Turning 59, the Skunk Anansie frontwoman continues to inspire. What's your top Skunk Anansie track?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#SkunkAnansie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "yungblud-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Yungblud is 29",
+   "blurb": "British rock and pop sensation Yungblud, born Dominic Harrison, will celebrate his 29th birthday on Wednesday.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/yungblud.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Alt-Pop Rockstar",
+     "copy": "Wednesday, it's Yungblud's 29th birthday! The Doncaster-born alt-pop superstar is still shaking things up. What's your favourite Yungblud track?",
+     "channels": [
+      "instagram",
+      "tiktok",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Yungblud"
+     ]
+    },
+    {
+     "name": "Gen Z Anthem Maker",
+     "copy": "Happy 29th Birthday to Yungblud this Wednesday! From Doncaster to global stages, he keeps delivering the anthems.",
+     "channels": [
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#DominicHarrison"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pat-smear-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Pat Smear of Foo Fighters is 67",
+   "blurb": "Pat Smear, known for his guitar work with Nirvana, The Germs, and Foo Fighters, turns 67 on Wednesday.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/pat-smear.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Foo Fighters Guitarist",
+     "copy": "Happy 67th Birthday to the legendary Pat Smear this Wednesday! From Nirvana to Foo Fighters, what an incredible career.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#PatSmear"
+     ]
+    },
+    {
+     "name": "Rock Royalty",
+     "copy": "Guitar hero Pat Smear celebrates 67 years on Wednesday! An absolute icon of alternative rock. What's your favourite Foo Fighters song he's on?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#FooFighters"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calvin-hayes-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Calvin Hayes of Johnny Hates Jazz is 66",
+   "blurb": "Calvin Hayes, keyboardist and founding member of the popular 80s group Johnny Hates Jazz, will be 66 on Wednesday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Calvin_Hayes"
    },
    "fits": [
     {
@@ -770,51 +422,236 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Legend",
-     "copy": "Happy 77th Birthday to the legendary Mark Knopfler on August 12th! The distinctive sound of Dire Straits is instantly recognisable. What's your favourite of his guitar solos?",
+     "name": "80s Pop Icon",
+     "copy": "Wishing a very Happy 66th Birthday to Calvin Hayes of Johnny Hates Jazz this Wednesday! Remember 'Shattered Dreams'?",
      "channels": [
       "facebook",
-      "x",
-      "instagram"
+      "x"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#MarkKnopfler #DireStraits"
+      "#CalvinHayes"
      ]
     },
     {
-     "name": "Rock Icon",
-     "copy": "Celebrating the incredible Mark Knopfler's 77th birthday this Wednesday! From 'Sultans of Swing' to 'Money for Nothing', his music is timeless.",
+     "name": "Smooth Operator",
+     "copy": "The man behind the keys for Johnny Hates Jazz, Calvin Hayes, turns 66 on Wednesday! Still sounding smooth.",
      "channels": [
       "x",
-      "facebook"
+      "instagram"
      ],
-     "time": "15:00",
+     "time": "17:00",
      "tags": [
-      "#ClassicRock"
+      "#JohnnyHatesJazz"
      ]
     }
    ]
   },
   {
-   "id": "community-shield",
-   "off": 14,
+   "id": "terri-clark-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Country Star Terri Clark is 61",
+   "blurb": "Award-winning Canadian country music singer Terri Clark celebrates her 61st birthday on Wednesday.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/terri-clark.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Country Queen",
+     "copy": "Happy 61st Birthday to country music legend Terri Clark this Wednesday! What's your favourite track from her?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#TerriClark"
+     ]
+    },
+    {
+     "name": "Canadian Country",
+     "copy": "Celebrating Canadian country superstar Terri Clark's 61st birthday this Wednesday! Still sounding fantastic.",
+     "channels": [
+      "x",
+      "instagram"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#CountryMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bruce-dickinson-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Bruce Dickinson of Iron Maiden is 68",
+   "blurb": "Bruce Dickinson, the iconic lead vocalist of heavy metal pioneers Iron Maiden, will turn 68 on Friday.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/bruce-dickinson.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Iron Maiden Legend",
+     "copy": "Up the Irons! On Friday, Bruce Dickinson of Iron Maiden celebrates his 68th birthday. What's your favourite Maiden epic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BruceDickinson"
+     ]
+    },
+    {
+     "name": "Metal Voice",
+     "copy": "Still soaring! Happy 68th Birthday to Iron Maiden's incredible vocalist, Bruce Dickinson, this Friday. A true metal icon.",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#IronMaiden"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jacquie-osullivan-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jacquie O'Sullivan of Bananarama is 66",
+   "blurb": "Jacquie O'Sullivan, best known as a member of the hugely successful 80s pop group Bananarama, turns 66 on Friday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jacquie_O%27Sullivan"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bananarama Star",
+     "copy": "It ain't what you do, it's the way that you do it! Happy 66th Birthday to Bananarama's Jacquie O'Sullivan this Friday!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#JacquieOSullivan"
+     ]
+    },
+    {
+     "name": "80s Pop Princess",
+     "copy": "Wishing a fantastic 66th birthday to Jacquie O'Sullivan of Bananarama this Friday! Still making waves.",
+     "channels": [
+      "x",
+      "instagram"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Bananarama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kristin-hersh-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Kristin Hersh of Throwing Muses is 60",
+   "blurb": "Kristin Hersh, the influential singer-songwriter and co-founder of alternative rock band Throwing Muses, celebrates her 60th birthday on Friday.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/kristin-hersh.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Alt-Rock Pioneer",
+     "copy": "Happy 60th Birthday to the incredible Kristin Hersh of Throwing Muses this Friday! A true icon of alternative music.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#KristinHersh"
+     ]
+    },
+    {
+     "name": "Throwing Muses",
+     "copy": "Celebrating the brilliant Kristin Hersh's 60th birthday this Friday! Her unique sound with Throwing Muses continues to inspire.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#ThrowingMuses"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "carabao-cup-round-one",
+   "off": 5,
    "type": "sport",
    "hot": true,
-   "title": "Community Shield in Cardiff",
-   "blurb": "The FA Community Shield, the traditional curtain-raiser for the English football season, takes place on Sunday, August 16th, at Principality Stadium in Cardiff, featuring Premier League champions Arsenal against FA Cup holders Manchester City.",
+   "title": "Carabao Cup Round One Kicks Off",
+   "blurb": "The 2026/27 English football season officially begins with the Carabao Cup Round One fixtures taking place across the weekend of August 7-9.",
    "source": {
-    "l": "Groundhopper Guides",
-    "u": "https://www.groundhopperguides.com/2026-27-premier-league-start-date-fixtures-and-key-dates/"
+    "l": "EFL Official Site",
+    "u": "https://www.efl.com/"
    },
    "fits": [
     {
@@ -832,42 +669,148 @@
    ],
    "angles": [
     {
-     "name": "Football Season Opener",
-     "copy": "The new football season is almost here! The Community Shield kicks off on August 16th from Cardiff, with Arsenal facing Manchester City. Who's taking home the first silverware?",
+     "name": "Football's Back!",
+     "copy": "The wait is over! The Carabao Cup Round One kicks off this weekend, marking the official start of the 2026/27 football season. Who are you backing?",
      "channels": [
+      "instagram",
       "facebook",
-      "x",
-      "instagram"
+      "x"
      ],
-     "time": "11:00",
+     "time": "15:00",
      "tags": [
-      "#CommunityShield #FACup"
+      "#CarabaoCup"
      ]
     },
     {
-     "name": "Cardiff Hosts",
-     "copy": "Cardiff is hosting the Community Shield this year! Get ready for a huge clash between Arsenal and Man City at Principality Stadium on Sunday, August 16th.",
+     "name": "First Cup Ties",
+     "copy": "Get ready for some early season drama! Carabao Cup Round One matches are happening this weekend. Which ties are you looking forward to?",
      "channels": [
       "x",
-      "facebook"
+      "threads"
      ],
-     "time": "16:00",
+     "time": "17:00",
      "tags": [
-      "#Football"
+      "#FootballIsBack"
      ]
     }
    ]
   },
   {
-   "id": "the-hundred-finals",
+   "id": "roots-picnic-london",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Roots Picnic Makes UK Debut in London",
+   "blurb": "The renowned Roots Picnic festival makes its highly anticipated international debut at Crystal Palace Bowl, London, this Saturday and Sunday, August 8-9.",
+   "source": {
+    "l": "Ticketmaster",
+    "u": "https://www.ticketmaster.co.uk/top-festivals-in-august"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London Festival Debut",
+     "copy": "Big news for London! The Roots Picnic makes its UK debut this weekend at Crystal Palace Bowl. Who's excited for this blend of music and culture?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#RootsPicnic"
+     ]
+    },
+    {
+     "name": "Weekend Vibes London",
+     "copy": "Crystal Palace Bowl is set to host the first-ever Roots Picnic in the UK this weekend! Get ready for some unforgettable performances.",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LondonGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fa-community-shield",
    "off": 14,
    "type": "sport",
    "hot": true,
-   "title": "The Hundred Finals Day",
-   "blurb": "The Hundred 2026 season culminates with Finals Day at Lord's on Sunday, August 16th, where the men's and women's champions will be crowned.",
+   "title": "Community Shield in Cardiff: Arsenal vs Man City",
+   "blurb": "The FA Community Shield, featuring Premier League champions Arsenal and FA Cup winners Manchester City, will be played at Principality Stadium in Cardiff on Sunday, August 16th.",
    "source": {
-    "l": "The Hundred Official",
-    "u": "https://www.thehundred.com/"
+    "l": "The FA / Visit Cardiff",
+    "u": "https://www.visitcardiff.com/events/2026-fa-community-shield-arsenal-vs-manchester-city/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff Hosts Shield",
+     "copy": "Cardiff is gearing up for a huge one! The FA Community Shield between Arsenal and Manchester City is at Principality Stadium on August 16th. Who's going?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Football Season Opener",
+     "copy": "The traditional curtain-raiser for the English football season heads to Cardiff on August 16th! Arsenal vs Man City in the Community Shield. Predictions?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PrincipalityStadium"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-lineup",
+   "off": 25,
+   "type": "gig",
+   "hot": false,
+   "title": "Reading & Leeds Festival Lineup Buzz",
+   "blurb": "The full lineups for Reading & Leeds Festival (August 27-30) are generating buzz, with headliners including Charli XCX, Dave, Florence + The Machine, Fontaines D.C., Chase & Status Live, and Raye.",
+   "source": {
+    "l": "Reading & Leeds Festival Official Site",
+    "u": "https://www.readingfestival.com/"
    },
    "fits": [
     {
@@ -876,66 +819,21 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cricket Showdown",
-     "copy": "The Hundred season is heating up! Finals Day is set for Lord's on Sunday, August 16th. Who do you think will be lifting the trophy?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#TheHundred"
-     ]
-    },
-    {
-     "name": "Road to Lord's",
-     "copy": "It's all building to this! The Hundred Finals Day at Lord's on August 16th. Get ready for a thrilling end to the cricket season!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Cricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ariana-grande-london",
-   "off": 13,
-   "type": "gig",
-   "hot": true,
-   "title": "Ariana Grande London Residency",
-   "blurb": "Ariana Grande's highly anticipated 'Eternal Sunshine Tour' kicks off a ten-night residency at London's The O2 starting August 15th.",
-   "source": {
-    "l": "Time Out London",
-    "u": "https://www.timeout.com/london/music/best-london-concerts-and-gigs-in-august"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Rocks"
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Pop Event of the Summer",
-     "copy": "It's almost time! Ariana Grande's 'Eternal Sunshine' residency at The O2 London begins August 15th. Who's got tickets to this summer's biggest pop event?",
+     "name": "Festival Countdown",
+     "copy": "Reading & Leeds Festival is just weeks away! With Charli XCX, Dave, Florence + The Machine and more headlining, who are you most excited to see?",
      "channels": [
       "instagram",
       "facebook",
@@ -944,73 +842,19 @@
      ],
      "time": "10:00",
      "tags": [
-      "#ArianaGrande #EternalSunshine"
+      "#RandL26"
      ]
     },
     {
-     "name": "London Calling Ari",
-     "copy": "Ten nights of pop perfection! Ariana Grande hits The O2 in London from August 15th. If you're going, get ready for an unforgettable show!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#LondonConcerts"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-weeknd-wembley",
-   "off": 12,
-   "type": "gig",
-   "hot": true,
-   "title": "The Weeknd at Wembley",
-   "blurb": "The Weeknd brings his record-breaking 'After Hours Til Dawn Stadium Tour' back to London for five nights at Wembley Stadium, starting August 14th.",
-   "source": {
-    "l": "Time Out London",
-    "u": "https://www.timeout.com/london/music/best-london-concerts-and-gigs-in-august"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Stadium Spectacle",
-     "copy": "Get ready for The Weeknd! His 'After Hours Til Dawn' tour takes over Wembley Stadium for five nights starting August 14th. Expect an epic show!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TheWeeknd #AfterHoursTilDawn"
-     ]
-    },
-    {
-     "name": "Wembley Nights",
-     "copy": "The Weeknd returns to Wembley! Five huge shows kick off on August 14th. Who's excited for this stadium-filling R&B star?",
+     "name": "Big Names at R&L",
+     "copy": "The Reading & Leeds lineups are stacked! From pop to rock, there's something for everyone. Who's got their tickets ready for the August Bank Holiday weekend?",
      "channels": [
       "x",
       "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#LondonMusic"
+      "#ReadingFestival"
      ]
     }
    ]
