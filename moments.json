@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-02T07:58:05.528Z",
+ "updated": "2026-08-02T09:50:58.135Z",
  "moments": [
   {
-   "id": "commonwealth-games-final-day",
-   "off": 0,
+   "id": "european-athletics-birmingham",
+   "off": 8,
    "type": "sport",
    "hot": true,
-   "title": "Commonwealth Games Glasgow 2026 Concludes",
-   "blurb": "The Commonwealth Games in Glasgow wraps up today after a thrilling two weeks of competition, with Team England, Scotland, Wales, and Northern Ireland celebrating numerous medal wins.",
+   "title": "European Athletics Championships",
+   "blurb": "Birmingham hosts the European Athletics Championships for the first time, with 7 days of world-class track and field action at Alexander Stadium.",
    "source": {
-    "l": "VisitBritain.org",
-    "u": "https://www.visitbritain.org/looking-ahead-britains-sporting-highlights-2026"
+    "l": "European Athletics",
+    "u": "https://birmingham2026.com/european-athletics-championships"
    },
    "fits": [
     {
@@ -19,7 +19,15 @@
     },
     {
      "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
      "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
     },
     {
      "g": "welsh-local",
@@ -28,26 +36,16 @@
     {
      "g": "dragon",
      "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Medal Haul",
-     "copy": "It's the final day of the Commonwealth Games 2026 in Glasgow! What an incredible performance from all the home nations. Who was your standout athlete from Team England, Scotland, Wales or Northern Ireland?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#CommonwealthGames2026"
-     ]
-    },
-    {
-     "name": "Local Heroes",
-     "copy": "Huge shout out to all the athletes who competed at the Commonwealth Games in Glasgow – especially those from Wales! The Welsh team picked up four medals yesterday alone, including a one-two in the Women's 25km Points Race.",
+     "name": "Anticipation",
+     "copy": "Big week ahead for UK athletics! The European Championships kick off in Birmingham on Monday, bringing 7 days of elite track and field. Who are you backing for gold?",
      "channels": [
       "instagram",
       "facebook",
@@ -56,44 +54,117 @@
      ],
      "time": "10:00",
      "tags": [
-      "#CommonwealthGamesWales"
+      "#EuroAthletics2026"
+     ]
+    },
+    {
+     "name": "Home Crowd Buzz",
+     "copy": "The roar of a home crowd makes all the difference! The European Athletics Championships land in Birmingham this week. Ready to cheer on our best?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Birmingham2026"
      ]
     }
    ]
   },
   {
-   "id": "the-hundred-cricket-aug-week",
-   "off": 0,
-   "type": "sport",
+   "id": "boardmasters-festival",
+   "off": 4,
+   "type": "gig",
    "hot": true,
-   "title": "The Hundred Cricket Heats Up",
-   "blurb": "The Hundred cricket tournament continues across the UK this week, with men's and women's teams battling it out ahead of the final on August 16th.",
+   "title": "Boardmasters Festival Kicks Off",
+   "blurb": "The Boardmasters Festival takes over Newquay, Cornwall from August 6-10, bringing surf, skate, and live music across two stunning locations.",
    "source": {
-    "l": "Cricket World",
-    "u": "https://www.cricketworld.com/the-hundred-2026-schedule-venues-dates-season-overview/777777.htm"
+    "l": "Boardmasters Official",
+    "u": "https://www.boardmasters.com/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio Westcountry"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
-     "g": "welsh-local",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     },
     {
-     "g": "dragon",
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "radio-exe",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Weekly Fixtures",
-     "copy": "Catch The Hundred action this week! London Spirit take on MI London on Thursday and Birmingham Phoenix on Sunday at Lord's. Who are you backing?",
+     "name": "Festival Vibe",
+     "copy": "Sun, surf, and serious tunes! Boardmasters kicks off in Newquay this Thursday. Who's heading to Cornwall for the ultimate beach festival experience?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Boardmasters"
+     ]
+    },
+    {
+     "name": "Local Connection",
+     "copy": "The countdown is on! Boardmasters is just days away, bringing huge acts and surf action to our doorstep in Cornwall. Any Devon & Cornwall crew making the trip?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Newquay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "official-singles-chart-update",
+   "off": 5,
+   "type": "culture",
+   "hot": true,
+   "title": "Official Singles Chart Update",
+   "blurb": "The latest Official UK Singles Chart is updated this Friday, revealing the nation's new number one or who's holding strong at the top.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Anticipation",
+     "copy": "New music Friday means a new Official Singles Chart! Who do you think will be crowned number one this week? Any hot tips for the top spot?",
      "channels": [
       "instagram",
       "facebook",
@@ -102,100 +173,38 @@
      ],
      "time": "09:00",
      "tags": [
-      "#TheHundred"
-     ]
-    },
-    {
-     "name": "Welsh Fire Update",
-     "copy": "The Welsh Fire are in the thick of The Hundred action! Keep up with all the 100-ball excitement as the tournament continues towards the big final on August 16th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#WelshFire"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "singles-chart-rein-me-in",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean make chart history",
-   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' has become the longest-running UK number-one single of all time, with nineteen non-consecutive weeks at the top.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/20260731/7501/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Record Breaker",
-     "copy": "History made! Sam Fender and Olivia Dean's 'Rein Me In' is officially the longest-running UK number-one single EVER, with 19 non-consecutive weeks at the top. An incredible achievement!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
       "#OfficialCharts"
      ]
     },
     {
-     "name": "Sam & Olivia Reign",
-     "copy": "Nineteen weeks at number one and counting! Sam Fender and Olivia Dean are dominating the charts with 'Rein Me In'. Is it your favourite number one of all time?",
+     "name": "Who's Holding On?",
+     "copy": "Will the current chart-topper hold their reign, or is a new track about to shake up the Official Singles Chart? Find out this Friday!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#SamFender #OliviaDean"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
-   "id": "boardmasters-festival-2026",
-   "off": 3,
-   "type": "gig",
+   "id": "love-island-finale-aftermath",
+   "off": -6,
+   "type": "tv",
    "hot": true,
-   "title": "Boardmasters Festival Kicks Off",
-   "blurb": "Boardmasters Festival, combining music and surfing, takes over Watergate Bay and Fistral Beach in Cornwall from August 5th to 9th.",
+   "title": "Love Island UK Winners Announced",
+   "blurb": "The Love Island UK 2026 series concluded on July 27th, with the winning couple crowned and the villa drama still fresh in everyone's minds.",
    "source": {
-    "l": "JamBase",
-    "u": "https://www.jambase.com/festival/boardmasters-festival-2026"
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/tv/reality-tv/love-island-final-date-2026-newsupdate/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "radio-exe",
      "sub": ""
     },
     {
@@ -204,182 +213,112 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Cornwall Calling",
-     "copy": "Boardmasters is nearly here! Get ready for a huge week of music and surf action at Watergate Bay and Fistral Beach from August 5th-9th. Who are you excited to see?",
+     "name": "Winners Talk",
+     "copy": "Still talking about the Love Island UK finale? The winners have been crowned! What did you make of this year's series and the final result?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "10:30",
      "tags": [
-      "#Boardmasters"
+      "#LoveIslandUK"
      ]
     },
     {
-     "name": "Festival Countdown",
-     "copy": "Only a few days until Boardmasters brings the biggest names in music to Cornwall! Get your plans sorted for August 5th-9th.",
+     "name": "Post-Villa Drama",
+     "copy": "The villa doors are closed, but the drama never truly ends! Who are you hoping makes it work from this year's Love Island winners and finalists?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Boardmasters2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "palace-bowl-presents-aug-week",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Palace Bowl Presents Summer Series",
-   "blurb": "The Palace Bowl Presents concert series continues in London's Crystal Palace Bowl through August 16th, featuring a diverse lineup including Tom Jones, Gary Numan, Bastille, and Lenny Kravitz.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/top-festivals-in-august-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Live in London",
-     "copy": "Crystal Palace Bowl is buzzing this week! The 'Palace Bowl Presents' series continues with a massive lineup including Tom Jones, Gary Numan, Bastille, and Lenny Kravitz. Who are you going to see?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#PalaceBowlPresents"
-     ]
-    },
-    {
-     "name": "Summer Gigs",
-     "copy": "London's Crystal Palace Bowl is hosting some epic gigs throughout August! Don't miss out on the summer concert series.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "tiktok"
      ],
      "time": "16:00",
      "tags": [
-      "#LondonGigs"
+      "#LoveIsland"
      ]
     }
    ]
   },
   {
-   "id": "roots-picnic-london",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "The Roots Picnic Comes to London",
-   "blurb": "The iconic Roots Picnic festival makes its international debut at Crystal Palace Bowl, London, on August 8th-9th, bringing its blend of hip hop and culture to the UK.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/top-festivals-in-august-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Roots Picnic Debut",
-     "copy": "Big news for hip hop fans! The legendary Roots Picnic is making its international debut in London this weekend, August 8th-9th, at Crystal Palace Bowl.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#RootsPicnicLondon"
-     ]
-    },
-    {
-     "name": "Hip Hop in the Capital",
-     "copy": "Get ready for a weekend of culture and music as The Roots Picnic brings its unique vibe to London! August 8th-9th, don't miss it.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#LondonMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "charli-xcx-birthday",
-   "off": 0,
+   "id": "james-hetfield-birthday",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Charli XCX",
-   "blurb": "English pop superstar Charli XCX turns 34 today, August 2nd.",
+   "title": "Happy 63rd to James Hetfield",
+   "blurb": "Metallica frontman James Hetfield celebrates his 63rd birthday on Monday, August 3rd.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august/2.html"
+    "u": "https://www.famousbirthdays.com/people/james-hetfield.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Pop Queen's Birthday",
-     "copy": "Happy 34th Birthday to the incredible Charli XCX! From 'Boom Clap' to 'Vroom Vroom', she always delivers. What's your favourite Charli XCX track?",
+     "name": "Metal Icon",
+     "copy": "Happy 63rd Birthday to the legendary James Hetfield! The voice and riff-master of Metallica, still bringing the thunder. What's your favourite Metallica track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#JamesHetfield"
+     ]
+    },
+    {
+     "name": "Metallica Tribute",
+     "copy": "Raise a glass to James Hetfield! The Metallica frontman turns 63 tomorrow. From 'Enter Sandman' to 'Master of Puppets', what's his greatest moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Metallica"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geri-halliwell-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Geri Halliwell Turns 54",
+   "blurb": "Former Spice Girl and pop icon Geri Halliwell, aka Ginger Spice, celebrates her 54th birthday on Thursday, August 6th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Geri_Halliwell"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Girl Power",
+     "copy": "Happy 54th Birthday to the one and only Ginger Spice, Geri Halliwell! From Union Jack dresses to solo hits, she's still got that 'Girl Power'.",
      "channels": [
       "instagram",
       "facebook",
@@ -389,94 +328,90 @@
      ],
      "time": "09:30",
      "tags": [
-      "#CharliXCX"
+      "#GeriHalliwell"
      ]
     },
     {
-     "name": "Chart-topping Birthday",
-     "copy": "Wishing a very Happy Birthday to Charli XCX, who turns 34 today! Her track 'Camera' is also in the latest UK Top 40.",
+     "name": "Spice Girls Flashback",
+     "copy": "It's Geri Halliwell's birthday on Thursday! What's your favourite Spice Girls memory or solo anthem from the pop legend?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "14:30",
      "tags": [
-      "#HappyBirthdayCharliXCX"
+      "#SpiceGirls"
      ]
     }
    ]
   },
   {
-   "id": "andy-fairweather-low-birthday",
-   "off": 0,
+   "id": "bruce-dickinson-birthday",
+   "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Andy Fairweather-Low",
-   "blurb": "Welsh music legend Andy Fairweather-Low, known for Amen Corner and his work with Eric Clapton, celebrates his 76th birthday today.",
+   "title": "Iron Maiden's Bruce Dickinson Turns 68",
+   "blurb": "Iron Maiden frontman and heavy metal legend Bruce Dickinson celebrates his 68th birthday on Friday, August 7th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/August_2"
+    "u": "https://en.wikipedia.org/wiki/Bruce_Dickinson"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Welsh Icon's Birthday",
-     "copy": "A huge Happy 76th Birthday to Welsh guitar legend Andy Fairweather-Low! From Amen Corner to touring with Eric Clapton, what a career.",
+     "name": "Air Raid Siren",
+     "copy": "Scream for me, it's Bruce Dickinson's birthday on Friday! The iconic Iron Maiden vocalist turns 68. What's your favourite Maiden epic?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "11:30",
+     "time": "08:30",
      "tags": [
-      "#AndyFairweatherLow"
+      "#BruceDickinson"
+     ]
+    },
+    {
+     "name": "Metal Legend",
+     "copy": "Happy Birthday to the versatile Bruce Dickinson! From Iron Maiden's anthems to his solo work, the metal legend turns 68 this Friday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#IronMaiden"
      ]
     }
    ]
   },
   {
-   "id": "pat-smear-birthday",
-   "off": 3,
+   "id": "the-edge-birthday",
+   "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Pat Smear",
-   "blurb": "Pat Smear, influential guitarist for Nirvana and Foo Fighters, turns 67 on August 5th.",
+   "title": "The Edge (U2) Turns 65",
+   "blurb": "U2's iconic guitarist, The Edge, celebrates his 65th birthday on Saturday, August 8th.",
    "source": {
-    "l": "Associated Press",
-    "u": "https://apnews.com/article/celebrity-birthdays-august-2-8-michelle-yeoh-charli-xcx-449e756810a9f5d19472658888b14a93"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/The_Edge"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
@@ -485,90 +420,8 @@
    ],
    "angles": [
     {
-     "name": "Rock Legend Birthday",
-     "copy": "On August 5th, we're celebrating the birthday of rock legend Pat Smear! The guitarist who played with both Nirvana and Foo Fighters turns 67. Which band did you discover him through?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#PatSmear #FooFighters #Nirvana"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "european-athletics-champs",
-   "off": 8,
-   "type": "sport",
-   "hot": true,
-   "title": "European Athletics Championships in Birmingham",
-   "blurb": "Birmingham will host the prestigious European Athletics Championships from August 10th to 16th, marking the first time the UK has hosted this event.",
-   "source": {
-    "l": "VisitBritain.org",
-    "u": "https://www.visitbritain.org/looking-ahead-britains-sporting-highlights-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Athletics on Home Soil",
-     "copy": "Get ready for world-class athletics! The European Athletics Championships come to Birmingham from August 10th-16th – a historic first for the UK. Who are you hoping to see compete?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#EuropeanAthletics"
-     ]
-    },
-    {
-     "name": "Birmingham Hosts",
-     "copy": "The UK is hosting the European Athletics Championships for the very first time! All eyes on Birmingham from August 10th-16th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#Birmingham2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-preseason",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Pre-Season Friendlies",
-   "blurb": "Premier League clubs are continuing their pre-season preparations, with Liverpool facing Leeds today in Chicago, ahead of the new season starting August 21st.",
-   "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/news/11661/13106208/premier-league-pre-season-friendlies-2026-27-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pre-Season Action",
-     "copy": "Pre-season is in full swing! Liverpool take on Leeds today in Chicago as clubs gear up for the Premier League season. Who's looking sharp so far?",
+     "name": "Guitar Hero",
+     "copy": "Happy 65th Birthday to U2's legendary guitarist, The Edge! His distinctive sound has shaped decades of rock music. What's your favourite U2 riff?",
      "channels": [
       "instagram",
       "facebook",
@@ -577,21 +430,131 @@
      ],
      "time": "10:00",
      "tags": [
-      "#PLPreSeason"
+      "#TheEdge"
      ]
     },
     {
-     "name": "Football's Back (Almost)",
-     "copy": "The countdown to the new Premier League season is on! Catch up on all the pre-season friendlies and transfer news as teams fine-tune their squads.",
+     "name": "U2 Sound",
+     "copy": "The man behind U2's unmistakable sound, The Edge, turns 65 on Saturday. Celebrate with us by naming the U2 song that always gets you!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#U2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shawn-mendes-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Shawn Mendes Turns 28",
+   "blurb": "Canadian pop superstar Shawn Mendes celebrates his 28th birthday on Saturday, August 8th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shawn_Mendes"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Heartthrob",
+     "copy": "Happy 28th Birthday to the incredible Shawn Mendes! From Vine star to global superstar, what's your go-to Shawn track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ShawnMendes"
+     ]
+    },
+    {
+     "name": "Celebrate Shawn",
+     "copy": "Get ready to celebrate! Shawn Mendes turns 28 this Saturday. What song of his is currently on repeat for you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mark-knopfler-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Mark Knopfler (Dire Straits) Turns 77",
+   "blurb": "Dire Straits frontman and legendary guitarist Mark Knopfler celebrates his 77th birthday on Tuesday, August 12th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Master",
+     "copy": "Happy 77th Birthday to the incomparable Mark Knopfler! The Dire Straits legend's fingerstyle guitar is truly iconic. What's your favourite song featuring his distinctive sound?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "15:30",
+     "time": "11:00",
      "tags": [
-      "#FootballIsBack"
+      "#MarkKnopfler"
+     ]
+    },
+    {
+     "name": "Dire Straits Days",
+     "copy": "Celebrating the birthday of Mark Knopfler on Tuesday! The Dire Straits frontman turns 77. Which of their classic tracks is your all-time favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#DireStraits"
      ]
     }
    ]
