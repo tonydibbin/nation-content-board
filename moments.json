@@ -1,56 +1,152 @@
 {
- "updated": "2026-08-02T18:48:14.865Z",
+ "updated": "2026-08-02T20:03:12.208Z",
  "moments": [
   {
-   "id": "the-hundred-cricket-aug2",
+   "id": "pl-transfer-window-build-up",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "The Hundred Cricket continues",
-   "blurb": "The 100-ball cricket tournament, The Hundred, continues its 2026 season today with men's and women's matches across the UK, running until August 16th.",
+   "title": "Premier League Transfer Window Buzz",
+   "blurb": "The summer transfer window for the Premier League remains open until August 31, with clubs still active in signing players ahead of the 2026/27 season which kicks off on August 21.",
    "source": {
-    "l": "The Hundred Official / Cricket World",
-    "u": "https://www.thehundred.com/"
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Welsh Fire"
-    },
-    {
-     "g": "dragon",
-     "sub": "Welsh Fire"
     }
    ],
    "angles": [
     {
-     "name": "Live Cricket Action",
-     "for": "nation-network",
-     "copy": "Catch the live action today in The Hundred! Men's and women's teams are battling it out across the UK. Who are you backing?",
+     "name": "Transfer Talk",
+     "copy": "Who's still on the move? The Premier League transfer window is wide open, with clubs scrambling for those last-minute deals before the big kick-off on August 21st. Any big names you're hoping to see arrive at your club?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#TransferWindow"
+     ]
+    },
+    {
+     "name": "Season Anticipation",
+     "copy": "The new Premier League season starts in less than three weeks! But first, who needs to sign who to be ready? The transfer window is still buzzing with speculation. What's your club's biggest need?",
      "channels": [
       "x",
       "facebook"
      ],
-     "time": "10:00",
+     "time": "13:00",
      "tags": [
-      "#TheHundred"
+      "#PremierLeague"
      ]
+    }
+   ]
+  },
+  {
+   "id": "community-shield-cardiff",
+   "off": 14,
+   "type": "sport",
+   "hot": true,
+   "title": "Community Shield in Cardiff",
+   "blurb": "The FA Community Shield will be held on Sunday, August 16, at Principality Stadium in Cardiff, featuring Premier League champions Arsenal against FA Cup winners Manchester City.",
+   "source": {
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "name": "Welsh Fire Today",
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff Host",
      "for": "welsh-local",
-     "copy": "Is it a good day for Welsh Fire in The Hundred? The tournament is well underway with matches happening today and all week!",
+     "copy": "Principality Stadium, Cardiff is gearing up to host the FA Community Shield on August 16th! Arsenal take on Manchester City. Who's heading to the capital for the big game?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "10:30",
      "tags": [
-      "#WelshFire"
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Big Game Build-up",
+     "copy": "It's the traditional curtain-raiser! Arsenal vs Manchester City in the Community Shield on August 16th. Who's taking home the first silverware of the season?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#FACup"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "boardmasters-festival",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Boardmasters Festival Kicks Off",
+   "blurb": "The Boardmasters Festival, combining music and surf, runs from Wednesday, August 5th to Sunday, August 9th in Newquay, Cornwall.",
+   "source": {
+    "l": "eFestivals",
+    "u": "https://www.efestivals.co.uk/festivals/august2026.shtml"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Westcountry"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Surf & Sound",
+     "for": "Nation Radio Westcountry",
+     "copy": "Boardmasters is nearly here! From August 5th-9th, Newquay comes alive with music, surf, and good vibes. Who are you most excited to see on the lineup?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Boardmasters"
+     ]
+    },
+    {
+     "name": "Festival Countdown",
+     "copy": "Only a few days until Boardmasters kicks off in Newquay! Get ready for five days of incredible music and beach action. Are you heading down to Cornwall?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#UKFestivals"
      ]
     }
    ]
@@ -60,125 +156,16 @@
    "off": 6,
    "type": "gig",
    "hot": true,
-   "title": "Roots Picnic makes UK debut",
-   "blurb": "The iconic Roots Picnic festival makes its highly anticipated international debut at Crystal Palace Bowl, London, on August 8-9, celebrating hip hop, music, and culture.",
+   "title": "Roots Picnic UK Debut",
+   "blurb": "The iconic Roots Picnic festival makes its international debut at Crystal Palace Bowl, London, on August 8th and 9th, bringing a blend of hip hop, music, and culture.",
    "source": {
     "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/top-festivals/august-2026"
+    "u": "https://www.ticketmaster.co.uk/festivals/august"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hip Hop in London",
-     "for": "nation-network",
-     "copy": "London's Crystal Palace Bowl is about to host the first-ever international Roots Picnic festival this weekend! Get ready for a dose of hip hop and culture.",
-     "channels": [
-      "instagram",
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#RootsPicnicLondon"
-     ]
-    },
-    {
-     "name": "Festival Buzz",
-     "for": "decades-genres",
-     "copy": "The Roots Picnic is bringing its legendary blend of music and culture to London this weekend! Who's excited for its UK debut?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#LondonGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "summer-nights-glasgow",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Summer Nights at the Bandstand continues",
-   "blurb": "The 'Summer Nights at the Bandstand' concert series is ongoing in Glasgow, running until August 15, featuring a variety of artists.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/top-festivals/august-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Glasgow Gigs",
-     "for": "nation-network",
-     "copy": "Glasgow's Summer Nights at the Bandstand are still in full swing! Who are you hoping to catch before the series wraps up on August 15th?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#GlasgowMusic"
-     ]
-    },
-    {
-     "name": "Bandstand Vibes",
-     "for": "nation-network",
-     "copy": "Making the most of the Summer Nights at the Bandstand in Glasgow? The city is alive with music this August!",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SummerNightsGlasgow"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "we-out-here-festival",
-   "off": 18,
-   "type": "gig",
-   "hot": false,
-   "title": "We Out Here Festival approaches",
-   "blurb": "The We Out Here Festival, celebrating jazz and UK club culture, is set to take place from August 20-23 in Dorset, with tickets already sold out.",
-   "source": {
-    "l": "We Out Here Festival",
-    "u": "https://www.weoutherefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     },
     {
      "g": "nation-network",
@@ -187,33 +174,37 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Festival Anticipation",
-     "for": "nation-network",
-     "copy": "Counting down to We Out Here Festival in Dorset? Even if it's sold out, the vibes are building for August 20-23!",
+     "name": "London Calling",
+     "for": "Nation Radio London",
+     "copy": "The Roots Picnic is coming to Crystal Palace Bowl this weekend, August 8th & 9th! Get ready for a huge dose of hip hop and culture right here in London. Who's got their tickets?",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "13:00",
+     "time": "10:00",
      "tags": [
-      "#WeOutHere"
+      "#RootsPicnicUK"
      ]
     },
     {
-     "name": "Club Culture Celebration",
-     "for": "decades-genres",
-     "copy": "We Out Here Festival is just around the corner! Get ready for four days celebrating the best in jazz and UK club culture. Who wishes they had tickets?",
+     "name": "Hip Hop Vibes",
+     "copy": "Big news for hip hop fans! Roots Picnic makes its UK debut this weekend in London. Expect incredible music and an unforgettable atmosphere. Are you going?",
      "channels": [
-      "instagram",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#UKFestivals"
+      "#HipHopUK"
      ]
     }
    ]
@@ -223,634 +214,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 34th to Charli XCX",
-   "blurb": "British pop artist Charli XCX, known for hits like 'Boom Clap' and 'Speed Drive,' turns 34 today.",
+   "title": "Happy Birthday Charli XCX",
+   "blurb": "British singer-songwriter Charli XCX turns 34 today, August 2nd, known for her innovative pop sound and recent Grammy-winning album 'Brat'.",
    "source": {
-    "l": "Music History Events",
-    "u": "https://www.thisdayinmusic.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Queen's Birthday",
-     "for": "decades-genres",
-     "copy": "Shout out to the incredible Charli XCX, who turns 34 today! What's your favourite track from the pop innovator?",
-     "channels": [
-      "instagram",
-      "x",
-      "facebook"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#CharliXCX"
-     ]
-    },
-    {
-     "name": "Birthday Beats",
-     "for": "decades-genres",
-     "copy": "Turning 34 today, it's the one and only Charli XCX! Let's celebrate with some of her genre-bending bangers.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#HappyBirthdayCharliXCX"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "andy-fairweather-low-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Andy Fairweather-Low turns 76",
-   "blurb": "Welsh guitarist, singer, and songwriter Andy Fairweather-Low, known for his work with Amen Corner and Eric Clapton, celebrates his 76th birthday today.",
-   "source": {
-    "l": "Music History Events",
-    "u": "https://www.thisdayinmusic.com/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Music Legend",
-     "for": "welsh-local",
-     "copy": "Penblwydd Hapus to Welsh music legend Andy Fairweather-Low, turning 76 today! From Amen Corner to Eric Clapton, what a career.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WelshMusic"
-     ]
-    },
-    {
-     "name": "Rock Icon Birthday",
-     "for": "decades-genres",
-     "copy": "Happy 76th Birthday to the brilliant Andy Fairweather-Low! Let's spin some of his classic tracks to celebrate.",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#AndyFairweatherLow"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "james-hetfield-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "James Hetfield of Metallica turns 63",
-   "blurb": "Metallica frontman, guitarist, and songwriter James Hetfield celebrates his 63rd birthday tomorrow, August 3rd.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal God's Birthday",
-     "for": "decades-genres",
-     "copy": "Tomorrow, we celebrate the legendary James Hetfield of Metallica turning 63! What's your ultimate Metallica anthem?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#JamesHetfield"
-     ]
-    },
-    {
-     "name": "Anticipating Hetfield",
-     "for": "decades-genres",
-     "copy": "Get ready to raise your horns! James Hetfield's 63rd birthday is tomorrow. What a career from the Metallica icon!",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#Metallica"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "beverly-lee-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Beverly Lee of The Shirelles turns 95",
-   "blurb": "Beverly Lee, a founding member of the iconic American girl group The Shirelles, will celebrate her 95th birthday tomorrow, August 3rd.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/birthdays-august"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Soul Sister's Milestone",
-     "for": "decades-genres",
-     "copy": "A huge happy 95th birthday to Beverly Lee of The Shirelles tomorrow! A true pioneer of girl groups and soul music.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#TheShirelles"
-     ]
-    },
-    {
-     "name": "Celebrating a Legend",
-     "for": "decades-genres",
-     "copy": "Tomorrow, we honour Beverly Lee of The Shirelles as she turns 95! Her voice helped shape an era. Which Shirelles track is your favourite?",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#SoulMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ian-broudie-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Ian Broudie (The Lightning Seeds) turns 68",
-   "blurb": "Ian Broudie, the English singer-songwriter and producer best known as the mastermind behind The Lightning Seeds, celebrates his 68th birthday on August 4th.",
-   "source": {
-    "l": "Music History Events",
-    "u": "https://www.thisdayinmusic.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Indie Pop Icon",
-     "for": "decades-genres",
-     "copy": "Wishing a very Happy 68th Birthday to Ian Broudie of The Lightning Seeds on August 4th! What's your go-to Lightning Seeds song?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TheLightningSeeds"
-     ]
-    },
-    {
-     "name": "Three Lions Legend",
-     "for": "decades-genres",
-     "copy": "He gave us 'Three Lions' and so much more! Ian Broudie celebrates his 68th on Tuesday. Get ready for some indie pop classics!",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#IanBroudie"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "yungblud-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Yungblud turns 29",
-   "blurb": "Dominic Harrison, better known as the Doncaster-born rock and alternative artist Yungblud, celebrates his 29th birthday on August 5th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Modern Rock Star",
-     "for": "decades-genres",
-     "copy": "Happy 29th Birthday to the phenomenal Yungblud on Wednesday! What's your favourite track from the Doncaster rocker?",
-     "channels": [
-      "instagram",
-      "x",
-      "facebook"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Yungblud"
-     ]
-    },
-    {
-     "name": "Birthday Shoutout",
-     "for": "decades-genres",
-     "copy": "Doncaster's own Yungblud turns 29 this Wednesday! Get ready to crank up some of his high-energy anthems.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#HappyBirthdayYungblud"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "pat-smear-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Pat Smear (Foo Fighters) turns 67",
-   "blurb": "Pat Smear, influential guitarist for Foo Fighters, Nirvana, and The Germs, will celebrate his 67th birthday on August 5th.",
-   "source": {
-    "l": "This Day In Music",
-    "u": "https://www.thisdayinmusic.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend Birthday",
-     "for": "decades-genres",
-     "copy": "Wishing a very Happy 67th Birthday to the legendary Pat Smear on Wednesday! From The Germs to Nirvana and Foo Fighters, what a career.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#PatSmear"
-     ]
-    },
-    {
-     "name": "Guitar Hero",
-     "for": "decades-genres",
-     "copy": "Pat Smear turns 67 this Wednesday! Celebrate the guitar hero's birthday by blasting some Foo Fighters or Nirvana.",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FooFighters"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bruce-dickinson-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Bruce Dickinson (Iron Maiden) turns 68",
-   "blurb": "Bruce Dickinson, the iconic lead vocalist of British heavy metal band Iron Maiden, celebrates his 68th birthday on August 7th.",
-   "source": {
-    "l": "Music History Events",
-    "u": "https://www.thisdayinmusic.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal God's Birthday",
-     "for": "decades-genres",
-     "copy": "Up the Irons! Bruce Dickinson, the legendary voice of Iron Maiden, turns 68 this Friday. What's your favourite Maiden track?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#IronMaiden"
-     ]
-    },
-    {
-     "name": "Voice of a Generation",
-     "for": "decades-genres",
-     "copy": "Happy 68th to the one and only Bruce Dickinson this Friday! Celebrate the metal icon's birthday with some soaring vocals.",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#BruceDickinson"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jacquie-osullivan-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Jacquie O'Sullivan (Bananarama) turns 66",
-   "blurb": "Jacquie O'Sullivan, former member of the iconic 80s girl group Bananarama, celebrates her 66th birthday on August 7th.",
-   "source": {
-    "l": "Music History Events",
-    "u": "https://www.thisdayinmusic.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Pop Icon",
-     "for": "decades-genres",
-     "copy": "Wishing a fantastic 66th Birthday to Jacquie O'Sullivan of Bananarama this Friday! Let's throw it back to some classic 80s pop.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#Bananarama"
-     ]
-    },
-    {
-     "name": "Pop Memories",
-     "for": "decades-genres",
-     "copy": "Remembering the Bananarama days! Jacquie O'Sullivan turns 66 on Friday. What's your favourite Bananarama hit?",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#80sPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-edge-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "The Edge of U2 turns 65",
-   "blurb": "David Evans, better known as The Edge, the distinctive guitarist of the legendary Irish rock band U2, celebrates his 65th birthday on August 8th.",
-   "source": {
-    "l": "This Day In Music",
-    "u": "https://www.thisdayinmusic.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar Legend's Birthday",
-     "for": "decades-genres",
-     "copy": "Happy 65th Birthday to The Edge of U2 this Saturday! His iconic guitar sound has defined generations of rock. What's your favourite U2 riff?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#U2"
-     ]
-    },
-    {
-     "name": "The Edge Turns 65",
-     "for": "decades-genres",
-     "copy": "From 'With Or Without You' to 'Vertigo', The Edge turns 65 on Saturday! Celebrate the U2 guitarist's milestone with his timeless tracks.",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#TheEdge"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shawn-mendes-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shawn Mendes turns 28",
-   "blurb": "Canadian singer-songwriter Shawn Mendes, known for pop hits like 'Stitches' and 'Senorita,' celebrates his 28th birthday on August 8th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star's Birthday",
-     "for": "decades-genres",
-     "copy": "Wishing a very Happy 28th Birthday to Shawn Mendes this Saturday! What's your favourite song from the pop sensation?",
-     "channels": [
-      "instagram",
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ShawnMendes"
-     ]
-    },
-    {
-     "name": "Celebrating Shawn",
-     "for": "decades-genres",
-     "copy": "Shawn Mendes turns 28 on Saturday! Let's get his biggest hits on repeat to celebrate the pop superstar.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#HappyBirthdayShawnMendes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chris-foreman-madness-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Chris Foreman (Madness) turns 68",
-   "blurb": "Chris Foreman, guitarist for the iconic British ska band Madness, celebrates his 68th birthday on August 8th.",
-   "source": {
-    "l": "This Day In Music",
-    "u": "https://www.thisdayinmusic.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Ska Legend's Birthday",
-     "for": "decades-genres",
-     "copy": "It's Nutty Time! Chris Foreman of Madness turns 68 this Saturday. What's your favourite Madness track to skank to?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Madness"
-     ]
-    },
-    {
-     "name": "Celebrating Suggs' Sidekick",
-     "for": "decades-genres",
-     "copy": "Happy 68th to Madness guitarist Chris Foreman this Saturday! Get ready for some 'Our House' and 'One Step Beyond' to celebrate.",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#ChrisForeman"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "arlo-parks-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Arlo Parks turns 25",
-   "blurb": "Mercury Prize-winning British indie pop and R&B artist Arlo Parks celebrates her 25th birthday on August 9th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-2-2026/"
    },
    "fits": [
     {
@@ -868,108 +236,425 @@
    ],
    "angles": [
     {
-     "name": "Rising Star's Birthday",
-     "for": "decades-genres",
-     "copy": "Happy 25th Birthday to the brilliant Arlo Parks this Sunday! What's your favourite track from the Mercury Prize winner?",
+     "name": "Pop Queen",
+     "copy": "It's Charli XCX's birthday today! The innovative pop queen turns 34. What's your favourite track from her? Let us know!",
      "channels": [
       "instagram",
-      "x",
-      "facebook"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#ArloParks"
-     ]
-    },
-    {
-     "name": "Celebrating Arlo",
-     "for": "decades-genres",
-     "copy": "Arlo Parks turns 25 this Sunday! Let's celebrate the British talent by playing her incredible blend of indie pop and R&B.",
-     "channels": [
+      "facebook",
       "x",
       "tiktok"
      ],
-     "time": "14:00",
+     "time": "08:00",
      "tags": [
-      "#BritishMusic"
+      "#CharliXCX"
+     ]
+    },
+    {
+     "name": "Brat Era",
+     "copy": "Happy 34th Birthday to Charli XCX! Still riding high on the success of 'Brat', what's the song that always gets you moving?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#PopMusic"
      ]
     }
    ]
   },
   {
-   "id": "uk-summer-holidays",
+   "id": "jonas-blue-birthday",
    "off": 0,
-   "type": "seasonal",
+   "type": "birthday",
    "hot": true,
-   "title": "UK Summer Holidays in full swing",
-   "blurb": "The summer school holidays are ongoing across much of the UK, with schools in England, Wales, and Northern Ireland typically returning in early September, while Scottish schools resume mid-August.",
+   "title": "Happy Birthday Jonas Blue",
+   "blurb": "British DJ and music producer Jonas Blue celebrates his 37th birthday today, August 2nd.",
    "source": {
-    "l": "UK Government / Local Councils",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august2.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     },
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Summer Break Vibes",
-     "for": "nation-network",
-     "copy": "School's out for summer across most of the UK! How are you making the most of the long break? Holiday mode: ON!",
+     "name": "Dance Floor Filler",
+     "copy": "Sending birthday wishes to the incredible Jonas Blue, who turns 37 today! What's the Jonas Blue track that instantly transports you to the dance floor?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
-      "#SummerHolidays"
+      "#JonasBlue"
      ]
     },
     {
-     "name": "Local Summer Fun",
-     "for": "radio-exe",
-     "copy": "Devon's summer holidays are in full swing! What local gems are you exploring with the family this week?",
+     "name": "Producer Power",
+     "copy": "Happy Birthday to hit-maker Jonas Blue! From 'Fast Car' to 'Mama', he's given us so many bangers. What's your favourite?",
      "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#DanceMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bruce-dickinson-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Bruce Dickinson",
+   "blurb": "Iron Maiden's legendary frontman, Bruce Dickinson, turns 68 on August 7th.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-august-2-8-michelle-yeoh-charli-xcx-40f4e38e121f0090288820f18831804b"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Icon",
+     "copy": "Up the Irons! Bruce Dickinson, the iconic voice of Iron Maiden, celebrates his 68th birthday on August 7th. What's your ultimate Maiden anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#IronMaiden"
+     ]
+    },
+    {
+     "name": "Maiden Memories",
+     "copy": "Happy 68th Birthday to Bruce Dickinson on Thursday! A true rock legend. What's your favourite Iron Maiden album or live memory?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RockMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-edge-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday The Edge",
+   "blurb": "U2 guitarist The Edge turns 65 on August 8th.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-august-2-8-michelle-yeoh-charli-xcx-40f4e38e121f0090288820f18831804b"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Hero",
+     "copy": "Happy 65th Birthday to U2's legendary guitarist, The Edge, on Friday! His sound is instantly recognisable. What's your favourite U2 track?",
+     "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "11:00",
      "tags": [
-      "#DevonSummer"
+      "#U2"
+     ]
+    },
+    {
+     "name": "Iconic Riffs",
+     "copy": "The Edge turns 65 this week! From 'With Or Without You' to 'Vertigo', he's crafted some of rock's most iconic riffs. What's your top U2 song?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#RockAnthems"
      ]
     }
    ]
   },
   {
-   "id": "august-bank-holiday-anticipation",
-   "off": 29,
-   "type": "seasonal",
-   "hot": false,
-   "title": "August Bank Holiday approaching",
-   "blurb": "The summer is winding down, but the August Bank Holiday in the UK is just around the corner, set for Monday, August 31st, 2026.",
+   "id": "shawn-mendes-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Shawn Mendes",
+   "blurb": "Canadian pop sensation Shawn Mendes celebrates his 28th birthday on August 9th.",
    "source": {
-    "l": "UK Government",
-    "u": "https://www.gov.uk/bank-holidays"
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-august-2-8-michelle-yeoh-charli-xcx-40f4e38e121f0090288820f18831804b"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star",
+     "copy": "Happy 28th Birthday to Shawn Mendes on Saturday! From Vine star to global superstar, he's had an amazing journey. What's your favourite Shawn Mendes song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ShawnMendes"
+     ]
+    },
+    {
+     "name": "Mendes Magic",
+     "copy": "Turning 28 this weekend, it's Shawn Mendes! Which of his anthems do you love the most? Let us know!",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-weather-outlook",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "August Weather Outlook",
+   "blurb": "The start of August looks settled and dry for much of the UK, with above-average temperatures and potential for further hot spells, especially across southern parts of the UK.",
+   "source": {
+    "l": "Meteored UK",
+    "u": "https://www.meteored.co.uk/news/weather/uk-weather-forecast-for-august-2026-more-hot-weather-on-the-horizon.html"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Summer Sunshine",
+     "copy": "Hello, August! The forecast is looking settled, dry, and warm for many of us, with more hot spells possible down south. What are your plans for soaking up the summer sunshine?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#UKWeather"
+     ]
     },
     {
-     "g": "welsh-local",
-     "sub": ""
+     "name": "Heatwave Watch",
+     "copy": "Another warm start to August for the UK, with the potential for very warm conditions in the south. Are you hoping for another heatwave or ready for cooler days?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#Summer2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scotland-summer-bank-holiday",
+   "off": 1,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Scotland's Summer Bank Holiday",
+   "blurb": "Scotland observes its Summer Bank Holiday on Monday, August 3rd.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/bank-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Long Weekend North",
+     "for": "Nation Radio Scotland",
+     "copy": "Happy Summer Bank Holiday, Scotland! Enjoy that extra day off on Monday, August 3rd. What's on your agenda for the long weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ScotlandBankHoliday"
+     ]
     },
+    {
+     "name": "Monday Off",
+     "for": "Nation Radio Scotland",
+     "copy": "A well-deserved day off for many in Scotland tomorrow with the Summer Bank Holiday! Make the most of it!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ScottishSummer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ludwig-season-2-bbc",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Ludwig Season 2 Premieres on BBC",
+   "blurb": "The second season of the popular crime comedy 'Ludwig', starring David Mitchell and Anna Maxwell Martin, is set to premiere on BBC One and BBC iPlayer in August 2026.",
+   "source": {
+    "l": "ScreenRant",
+    "u": "https://screenrant.com/british-tv-shows-2026-still-to-come/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Mitchell's Return",
+     "copy": "David Mitchell is back! Season 2 of the hit crime comedy 'Ludwig' lands on BBC One and iPlayer this August. Ready for more puzzles and laughs?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Ludwig"
+     ]
+    },
+    {
+     "name": "New BBC Drama",
+     "copy": "Looking for your next TV binge? 'Ludwig' Season 2 is coming to BBC this month! What was your favourite moment from the first series?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#BBCDrama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ricky-gervais-alley-cats",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Ricky Gervais' Alley Cats on Netflix",
+   "blurb": "Ricky Gervais' new adult animated comedy series 'Alley Cats', featuring the voices of Gervais, Diane Morgan, and Tom Basden, is launching on Netflix in August 2026.",
+   "source": {
+    "l": "Luxury London",
+    "u": "https://www.luxurylondon.co.uk/culture/entertainment/new-films-tv-shows-august-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Gervais' Animation",
+     "copy": "Ricky Gervais has a new animated comedy, 'Alley Cats', hitting Netflix this August! Expect his signature wit, but with more fur and claws. Will you be watching?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#RickyGervais"
+     ]
+    },
+    {
+     "name": "Netflix Comedy",
+     "copy": "From the mind of Ricky Gervais, 'Alley Cats' is the new adult animated series coming to Netflix this month. Perfect for a summer binge! What's your favourite Gervais show?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#NetflixUK"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "devon-ev-charger-trial",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Devon EV Charger Trial Begins",
+   "blurb": "A Government-funded trial of 30 new on-street electric vehicle charging points is set to begin in Devon in early to mid-August, aiming to improve charging access for residents.",
+   "source": {
+    "l": "South Hams Today",
+    "u": "https://www.southhams-today.co.uk/news/devon-to-trial-new-on-street-electric-vehicle-chargers-631165"
+   },
+   "fits": [
     {
      "g": "radio-exe",
      "sub": ""
@@ -977,29 +662,76 @@
    ],
    "angles": [
     {
-     "name": "Bank Holiday Countdown",
-     "for": "nation-network",
-     "copy": "Already dreaming of that extra-long weekend? The August Bank Holiday is coming up on Monday, August 31st!",
+     "name": "Greener Devon",
+     "for": "radio-exe",
+     "copy": "Devon is trialling 30 new on-street EV chargers this month, making it easier for residents to go electric. A big step towards a greener county! What do you think?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#DevonEV"
+     ]
+    },
+    {
+     "name": "Charging Up",
+     "for": "radio-exe",
+     "copy": "Exciting news for Devon drivers! New electric vehicle charging points are being rolled out this month. Will this help you make the switch to electric?",
      "channels": [
       "x",
       "facebook"
      ],
-     "time": "16:00",
+     "time": "14:00",
      "tags": [
-      "#BankHoliday"
+      "#ElectricVehicles"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exeter-crime-rates",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Exeter Crime Rate Report",
+   "blurb": "Latest Home Office figures show Exeter has the highest crime rate in Devon and the third highest in the South West for the year ending March 2026.",
+   "source": {
+    "l": "DevonLive",
+    "u": "https://www.devonlive.com/news/devon-news/devon-hotspots-named-among-most-9462744"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Local Crime Stats",
+     "for": "radio-exe",
+     "copy": "New figures show Exeter's crime rate is the highest in Devon. What are your thoughts on local safety and what changes would you like to see?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ExeterNews"
      ]
     },
     {
-     "name": "Last Summer Hurrah",
-     "for": "nation-network",
-     "copy": "Start planning now! The August Bank Holiday is your last chance for a long weekend before the summer officially ends.",
+     "name": "Community Safety",
+     "for": "radio-exe",
+     "copy": "Exeter is highlighted in new crime statistics. It's a topic that affects us all. What are your priorities for improving safety in our community?",
      "channels": [
-      "instagram",
+      "x",
       "facebook"
      ],
-     "time": "18:00",
+     "time": "15:00",
      "tags": [
-      "#AugustBankHoliday"
+      "#DevonCrime"
      ]
     }
    ]
