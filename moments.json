@@ -1,33 +1,21 @@
 {
- "updated": "2026-08-02T09:50:58.135Z",
+ "updated": "2026-08-02T11:09:25.419Z",
  "moments": [
   {
-   "id": "european-athletics-birmingham",
-   "off": 8,
+   "id": "the-hundred-aug-2",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "European Athletics Championships",
-   "blurb": "Birmingham hosts the European Athletics Championships for the first time, with 7 days of world-class track and field action at Alexander Stadium.",
+   "title": "The Hundred Continues",
+   "blurb": "The 100-ball cricket tournament, The Hundred, has multiple men's and women's matches today and throughout the week across the UK, with the final set for August 16th.",
    "source": {
-    "l": "European Athletics",
-    "u": "https://birmingham2026.com/european-athletics-championships"
+    "l": "The Hundred Official Website",
+    "u": "https://www.thehundred.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
     },
     {
      "g": "welsh-local",
@@ -36,116 +24,177 @@
     {
      "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Anticipation",
-     "copy": "Big week ahead for UK athletics! The European Championships kick off in Birmingham on Monday, bringing 7 days of elite track and field. Who are you backing for gold?",
+     "name": "Match Day Excitement",
+     "for": "",
+     "copy": "It's another exciting day in The Hundred! Who are you backing to win their matches today across the country?",
      "channels": [
-      "instagram",
       "facebook",
       "x",
-      "threads"
+      "instagram"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#EuroAthletics2026"
+      "#TheHundred"
      ]
     },
     {
-     "name": "Home Crowd Buzz",
-     "copy": "The roar of a home crowd makes all the difference! The European Athletics Championships land in Birmingham this week. Ready to cheer on our best?",
+     "name": "Welsh Fire Focus",
+     "for": "welsh-local",
+     "copy": "Big week for Welsh Fire fans as The Hundred continues! Catch the action as teams battle it out for a spot in the finals.",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#Birmingham2026"
+      "#WelshFire"
+     ]
+    },
+    {
+     "name": "Cricket Summer",
+     "for": "",
+     "copy": "The summer of cricket is in full swing with The Hundred. Fast-paced action guaranteed all week, leading up to the final on August 16th.",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Cricket"
      ]
     }
    ]
   },
   {
-   "id": "boardmasters-festival",
+   "id": "super-league-aug-week",
    "off": 4,
+   "type": "sport",
+   "hot": true,
+   "title": "Super League Action This Week",
+   "blurb": "Rugby League's Betfred Super League Round 22 kicks off this Thursday, August 6th, with several key fixtures across the UK.",
+   "source": {
+    "l": "Super League Official Website",
+    "u": "https://www.superleague.co.uk/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Midweek Rugby Thrills",
+     "for": "",
+     "copy": "Super League is back this week! Round 22 kicks off Thursday with some massive clashes. Who are you rooting for?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SuperLeague"
+     ]
+    },
+    {
+     "name": "Yorkshire Derby Buzz",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Huge week for Yorkshire rugby fans with Super League action. Get ready to cheer on your team!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#YorkshireRL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "boardmasters-festival-2026",
+   "off": 3,
    "type": "gig",
    "hot": true,
    "title": "Boardmasters Festival Kicks Off",
-   "blurb": "The Boardmasters Festival takes over Newquay, Cornwall from August 6-10, bringing surf, skate, and live music across two stunning locations.",
+   "blurb": "Boardmasters Festival returns to Watergate Bay and Fistral Beach in Newquay, Cornwall from August 5-9, featuring headliners like Fatboy Slim, The Kooks, and James Arthur.",
    "source": {
-    "l": "Boardmasters Official",
+    "l": "Boardmasters Official Website",
     "u": "https://www.boardmasters.com/"
    },
    "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
     {
      "g": "nation-network",
      "sub": "Nation Radio Westcountry"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Festival Vibe",
-     "copy": "Sun, surf, and serious tunes! Boardmasters kicks off in Newquay this Thursday. Who's heading to Cornwall for the ultimate beach festival experience?",
+     "name": "Cornwall Calling",
+     "for": "radio-exe",
+     "copy": "Boardmasters starts this Wednesday! Who's heading down to Newquay for the surf, music, and festival vibes?",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "instagram",
+      "x"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
       "#Boardmasters"
      ]
     },
     {
-     "name": "Local Connection",
-     "copy": "The countdown is on! Boardmasters is just days away, bringing huge acts and surf action to our doorstep in Cornwall. Any Devon & Cornwall crew making the trip?",
+     "name": "Lineup Hype",
+     "for": "Nation Hits",
+     "copy": "Fatboy Slim, The Kooks, James Arthur – the Boardmasters lineup is stacked! Kicking off in Cornwall this Wednesday.",
      "channels": [
       "instagram",
-      "facebook",
-      "x"
+      "tiktok"
      ],
      "time": "15:00",
      "tags": [
-      "#Newquay"
+      "#FestivalSeason"
      ]
     }
    ]
   },
   {
-   "id": "official-singles-chart-update",
-   "off": 5,
+   "id": "olivia-dean-chart-record",
+   "off": -2,
    "type": "culture",
    "hot": true,
-   "title": "Official Singles Chart Update",
-   "blurb": "The latest Official UK Singles Chart is updated this Friday, revealing the nation's new number one or who's holding strong at the top.",
+   "title": "Olivia Dean Breaks UK Chart Record",
+   "blurb": "Olivia Dean's duet with Sam Fender, 'Rein Me In,' has become the longest-running #1 hit in UK Official Singles Chart history, spending a total of 19 non-consecutive weeks at the top.",
    "source": {
     "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
+    "u": "https://www.officialcharts.com/news/olivia-dean-breaks-73-year-uk-chart-record__42728/"
    },
    "fits": [
     {
@@ -153,157 +202,58 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Love"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Chart Anticipation",
-     "copy": "New music Friday means a new Official Singles Chart! Who do you think will be crowned number one this week? Any hot tips for the top spot?",
+     "name": "Chart History Made",
+     "for": "Nation Hits",
+     "copy": "History made! Olivia Dean and Sam Fender's 'Rein Me In' is officially the UK's longest-running #1 single EVER. Incredible achievement!",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "threads"
+      "facebook",
+      "instagram"
      ],
-     "time": "09:00",
+     "time": "11:30",
      "tags": [
       "#OfficialCharts"
      ]
     },
     {
-     "name": "Who's Holding On?",
-     "copy": "Will the current chart-topper hold their reign, or is a new track about to shake up the Official Singles Chart? Find out this Friday!",
+     "name": "Love Song Legacy",
+     "for": "Nation Love",
+     "copy": "A record-breaking love song! Olivia Dean's 'Rein Me In' has etched its place in UK chart history. What a track.",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-island-finale-aftermath",
-   "off": -6,
-   "type": "tv",
-   "hot": true,
-   "title": "Love Island UK Winners Announced",
-   "blurb": "The Love Island UK 2026 series concluded on July 27th, with the winning couple crowned and the villa drama still fresh in everyone's minds.",
-   "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/tv/reality-tv/love-island-final-date-2026-newsupdate/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Winners Talk",
-     "copy": "Still talking about the Love Island UK finale? The winners have been crowned! What did you make of this year's series and the final result?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#LoveIslandUK"
-     ]
-    },
-    {
-     "name": "Post-Villa Drama",
-     "copy": "The villa doors are closed, but the drama never truly ends! Who are you hoping makes it work from this year's Love Island winners and finalists?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
+      "instagram"
      ],
      "time": "16:00",
      "tags": [
-      "#LoveIsland"
+      "#LoveSongs"
      ]
     }
    ]
   },
   {
-   "id": "james-hetfield-birthday",
-   "off": 1,
+   "id": "ian-broudie-birthday",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 63rd to James Hetfield",
-   "blurb": "Metallica frontman James Hetfield celebrates his 63rd birthday on Monday, August 3rd.",
+   "title": "Happy 68th to Ian Broudie",
+   "blurb": "Ian Broudie, frontman of The Lightning Seeds and renowned music producer, turns 68 on August 4th.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/james-hetfield.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal Icon",
-     "copy": "Happy 63rd Birthday to the legendary James Hetfield! The voice and riff-master of Metallica, still bringing the thunder. What's your favourite Metallica track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#JamesHetfield"
-     ]
-    },
-    {
-     "name": "Metallica Tribute",
-     "copy": "Raise a glass to James Hetfield! The Metallica frontman turns 63 tomorrow. From 'Enter Sandman' to 'Master of Puppets', what's his greatest moment?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Metallica"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "geri-halliwell-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Geri Halliwell Turns 54",
-   "blurb": "Former Spice Girl and pop icon Geri Halliwell, aka Ginger Spice, celebrates her 54th birthday on Thursday, August 6th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Geri_Halliwell"
+    "u": "https://www.famousbirthdays.com/people/ian-broudie.html"
    },
    "fits": [
     {
@@ -312,204 +262,100 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Girl Power",
-     "copy": "Happy 54th Birthday to the one and only Ginger Spice, Geri Halliwell! From Union Jack dresses to solo hits, she's still got that 'Girl Power'.",
+     "name": "Lightning Seeds Legend",
+     "for": "Nation 90s",
+     "copy": "Wishing a very happy 68th birthday to Ian Broudie of The Lightning Seeds on August 4th! What's your favourite hit from him?",
      "channels": [
-      "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "instagram"
      ],
-     "time": "09:30",
+     "time": "08:00",
      "tags": [
-      "#GeriHalliwell"
+      "#LightningSeeds"
      ]
     },
     {
-     "name": "Spice Girls Flashback",
-     "copy": "It's Geri Halliwell's birthday on Thursday! What's your favourite Spice Girls memory or solo anthem from the pop legend?",
+     "name": "Music Maestro",
+     "for": "Nation Classic Hits",
+     "copy": "The man behind so many great tunes! Happy 68th birthday to Ian Broudie, an absolute legend of British music.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "13:00",
      "tags": [
-      "#SpiceGirls"
+      "#MusicProducer"
      ]
     }
    ]
   },
   {
-   "id": "bruce-dickinson-birthday",
-   "off": 5,
+   "id": "paul-reynolds-birthday",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Iron Maiden's Bruce Dickinson Turns 68",
-   "blurb": "Iron Maiden frontman and heavy metal legend Bruce Dickinson celebrates his 68th birthday on Friday, August 7th.",
+   "title": "A Flock Of Seagulls' Paul Reynolds at 64",
+   "blurb": "Paul Reynolds, the iconic lead guitarist for new wave band A Flock Of Seagulls, celebrates his 64th birthday on August 4th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bruce_Dickinson"
+    "l": "Musicians Born on August 4",
+    "u": "https://www.songfacts.com/birthdays/august/4"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Air Raid Siren",
-     "copy": "Scream for me, it's Bruce Dickinson's birthday on Friday! The iconic Iron Maiden vocalist turns 68. What's your favourite Maiden epic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#BruceDickinson"
-     ]
-    },
-    {
-     "name": "Metal Legend",
-     "copy": "Happy Birthday to the versatile Bruce Dickinson! From Iron Maiden's anthems to his solo work, the metal legend turns 68 this Friday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#IronMaiden"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-edge-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "The Edge (U2) Turns 65",
-   "blurb": "U2's iconic guitarist, The Edge, celebrates his 65th birthday on Saturday, August 8th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/The_Edge"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Hero",
-     "copy": "Happy 65th Birthday to U2's legendary guitarist, The Edge! His distinctive sound has shaped decades of rock music. What's your favourite U2 riff?",
+     "name": "80s Icon",
+     "for": "Nation 80s",
+     "copy": "Wishing a very happy 64th birthday to Paul Reynolds, the brilliant guitarist from A Flock Of Seagulls! What's your favourite 80s hit from the band?",
      "channels": [
-      "instagram",
       "facebook",
       "x",
-      "threads"
+      "instagram"
      ],
-     "time": "10:00",
+     "time": "09:30",
      "tags": [
-      "#TheEdge"
+      "#AFLockOfSeagulls"
      ]
     },
     {
-     "name": "U2 Sound",
-     "copy": "The man behind U2's unmistakable sound, The Edge, turns 65 on Saturday. Celebrate with us by naming the U2 song that always gets you!",
+     "name": "New Wave Wizard",
+     "for": "",
+     "copy": "From 'I Ran' to 'Space Age Love Song,' Paul Reynolds' guitar work defined a generation. Happy 64th!",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "15:00",
+     "time": "15:30",
      "tags": [
-      "#U2"
+      "#NewWave"
      ]
     }
    ]
   },
   {
-   "id": "shawn-mendes-birthday",
-   "off": 6,
+   "id": "paul-layton-birthday",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Shawn Mendes Turns 28",
-   "blurb": "Canadian pop superstar Shawn Mendes celebrates his 28th birthday on Saturday, August 8th.",
+   "title": "Paul Layton of The New Seekers Turns 79",
+   "blurb": "Paul Layton, the bassist and vocalist for the popular 70s group The New Seekers, celebrates his 79th birthday on August 4th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shawn_Mendes"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Heartthrob",
-     "copy": "Happy 28th Birthday to the incredible Shawn Mendes! From Vine star to global superstar, what's your go-to Shawn track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ShawnMendes"
-     ]
-    },
-    {
-     "name": "Celebrate Shawn",
-     "copy": "Get ready to celebrate! Shawn Mendes turns 28 this Saturday. What song of his is currently on repeat for you?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mark-knopfler-birthday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Mark Knopfler (Dire Straits) Turns 77",
-   "blurb": "Dire Straits frontman and legendary guitarist Mark Knopfler celebrates his 77th birthday on Tuesday, August 12th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
+    "l": "Musicians Born on August 4",
+    "u": "https://www.songfacts.com/birthdays/august/4"
    },
    "fits": [
     {
@@ -518,43 +364,283 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Master",
-     "copy": "Happy 77th Birthday to the incomparable Mark Knopfler! The Dire Straits legend's fingerstyle guitar is truly iconic. What's your favourite song featuring his distinctive sound?",
+     "name": "70s Pop Star",
+     "for": "Nation 70s",
+     "copy": "Happy 79th birthday to Paul Layton from The New Seekers! Celebrate with us by enjoying one of their classic hits.",
      "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#MarkKnopfler"
-     ]
-    },
-    {
-     "name": "Dire Straits Days",
-     "copy": "Celebrating the birthday of Mark Knopfler on Tuesday! The Dire Straits frontman turns 77. Which of their classic tracks is your all-time favourite?",
-     "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "11:00",
      "tags": [
-      "#DireStraits"
+      "#TheNewSeekers"
+     ]
+    },
+    {
+     "name": "Timeless Tunes",
+     "for": "Nation Classic Hits",
+     "copy": "From 'I'd Like to Teach the World to Sing' to 'Circles,' Paul Layton helped create some unforgettable songs. Happy 79th birthday!",
+     "channels": [
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ClassicHits"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "marques-houston-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Marques Houston Turns 45",
+   "blurb": "Marques Houston, known for his work with R&B group Immature (later IMx) and his solo career, celebrates his 45th birthday on August 4th.",
+   "source": {
+    "l": "Musicians Born on August 4",
+    "u": "https://www.songfacts.com/birthdays/august/4"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "R&B Throwback",
+     "for": "Nation 90s",
+     "copy": "Remember Immature? Wishing a happy 45th birthday to Marques Houston, who gave us so many R&B jams!",
+     "channels": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#MarquesHouston"
+     ]
+    },
+    {
+     "name": "Solo & Group Success",
+     "for": "Nation 00s",
+     "copy": "From 'Sister, Sister' to chart-topping R&B, happy 45th birthday to Marques Houston! What's your favourite track?",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#IMx"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-weather-mixed-drought",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Mixed UK Weather, Drought Continues",
+   "blurb": "Early August brings mixed weather to the UK, with warmer, humid conditions and potential thunderstorms in England and Wales, while northern areas see cooler, wetter weather. Drought conditions persist across parts of England and all of Wales.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk-outlook"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "August Outlook",
+     "for": "",
+     "copy": "Expect a mixed start to August across the UK – some areas seeing warmer, humid weather with thunderstorms, others cooler and wetter.",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#UKWeather"
+     ]
+    },
+    {
+     "name": "Drought Update",
+     "for": "welsh-local",
+     "copy": "Drought conditions continue across Wales and parts of England. Remember to use water wisely as the mixed weather pattern continues.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#WaterSaving"
+     ]
+    },
+    {
+     "name": "Devon Forecast",
+     "for": "radio-exe",
+     "copy": "Devon and the South West could see some warmer, humid spells and the chance of thunderstorms this week, but drought conditions remain.",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#DevonWeather"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-school-summer-holidays",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Summer School Holidays Ongoing",
+   "blurb": "School summer holidays are in full swing across the UK, with varying end dates: Wales schools finish around August 11th, while England and Scotland continue until the end of August.",
+   "source": {
+    "l": "Gov.uk School Term Dates",
+    "u": "https://www.gov.uk/school-term-dates-and-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Holiday Fun",
+     "for": "",
+     "copy": "The summer holidays are well underway! What are your plans for the rest of August before the kids head back to school?",
+     "channels": [
+      "facebook",
+      "instagram"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Wales Back to School Soon",
+     "for": "welsh-local",
+     "copy": "Enjoy the last week of summer holidays! Schools in Wales are due to return around August 11th.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#WalesHolidays"
+     ]
+    },
+    {
+     "name": "Scottish Summer",
+     "for": "Nation Radio Scotland",
+     "copy": "Making the most of the Scottish summer holidays! Still plenty of time for adventures before schools return at the end of August.",
+     "channels": [
+      "facebook",
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ScotlandSummer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "community-shield-2026",
+   "off": 14,
+   "type": "sport",
+   "hot": true,
+   "title": "Community Shield in Cardiff",
+   "blurb": "The FA Community Shield 2026, featuring Premier League champions Arsenal and FA Cup winners Manchester City, will take place on Sunday, August 16th, at Principality Stadium in Cardiff.",
+   "source": {
+    "l": "Premier League Official Website",
+    "u": "https://www.premierleague.com/news/3762678"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Curtain Raiser",
+     "for": "",
+     "copy": "The Premier League season's curtain-raiser, the Community Shield, is just two weeks away! Arsenal vs Man City in Cardiff.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Cardiff Hosts Big Match",
+     "for": "welsh-local",
+     "copy": "Cardiff's Principality Stadium hosts the Community Shield on August 16th! Who's excited to see Arsenal and Man City battle it out in our capital?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#CardiffFootball"
      ]
     }
    ]
