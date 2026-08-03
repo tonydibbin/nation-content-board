@@ -1,25 +1,21 @@
 {
- "updated": "2026-08-03T17:39:04.643Z",
+ "updated": "2026-08-03T19:13:43.263Z",
  "moments": [
   {
-   "id": "the-hundred-fire-brave",
+   "id": "scotland-bank-holiday",
    "off": 0,
-   "type": "sport",
+   "type": "seasonal",
    "hot": true,
-   "title": "The Hundred: Welsh Fire vs Southern Brave",
-   "blurb": "The Hundred cricket tournament continues with Welsh Fire taking on Southern Brave in Cardiff today.",
+   "title": "Scotland's Summer Bank Holiday",
+   "blurb": "Today marks the Summer Bank Holiday in Scotland, offering a day off for many across the nation.",
    "source": {
-    "l": "William Hill News",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz2GTBiLRgu7RtsBM0PjM4iB-WQ8Tbkj45INxdQFYs3FACRPB-tacJuHsGcjZ9me-8IsgAS9LtBKnuP4B37SN9RBt1rgAkz3kzf_Ae5mqeFvQEnjQv-1PEskBkv6md3YWowl6d8nTcPuOabUPSbwYvVgKysAC1X-WT6igujYGMakc8vjlZE1TCmNN962eiDkYNuYE1Yzk980-BwsEiHIOajzBR4pjwsQ"
+    "l": "Gov.uk / Time and Date",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     },
     {
      "g": "nation-network",
@@ -28,28 +24,133 @@
    ],
    "angles": [
     {
-     "name": "Match Day Hype",
-     "copy": "Cardiff is buzzing today as Welsh Fire faces Southern Brave in The Hundred! Who are you backing to light up Sophia Gardens?",
+     "name": "Scottish Focus",
+     "for": "Nation Radio Scotland",
+     "copy": "Happy Bank Holiday Monday, Scotland! What are your plans for this extra day off?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#ScottishBankHoliday"
+     ]
+    },
+    {
+     "name": "General UK",
+     "for": "",
+     "copy": "While England, Wales & NI wait 'til the end of the month, it's Bank Holiday Monday in Scotland today! Enjoy the long weekend.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "09:30",
      "tags": [
-      "#TheHundred"
+      "#BankHoliday"
      ]
+    }
+   ]
+  },
+  {
+   "id": "glasgow-commonwealth-games-wrap",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Commonwealth Games Wrap-Up",
+   "blurb": "The Glasgow 2026 Commonwealth Games concluded yesterday, August 2nd, after 11 days of sporting action across 10 sports.",
+   "source": {
+    "l": "Glasgow 2026",
+    "u": "https://www.glasgow2026.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     },
     {
-     "name": "Local Team Focus",
-     "copy": "It's a big day for Welsh Fire at home! Can they get a crucial win against Southern Brave in The Hundred? Tune in!",
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish Pride",
+     "for": "Nation Radio Scotland",
+     "copy": "What an incredible 11 days for Glasgow! The Commonwealth Games wrapped up yesterday, a huge well done to all the athletes and organisers.",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "10:00",
      "tags": [
-      "#WelshFire"
+      "#Glasgow2026"
+     ]
+    },
+    {
+     "name": "National Reflection",
+     "for": "",
+     "copy": "The Commonwealth Games in Glasgow drew to a close last night. What was your favourite moment or standout performance?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#CommonwealthGames"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-no1",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "New UK Singles Chart No. 1",
+   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' is currently the UK's Official Singles Chart Number 1, for the week ending August 6, 2026.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "for": "Nation Hits",
+     "copy": "The new UK Official Singles Chart No.1 is here! Huge congrats to Sam Fender & Olivia Dean with 'Rein Me In'!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#UKCharts"
+     ]
+    },
+    {
+     "name": "Artist Spotlight",
+     "for": "Nation Hits",
+     "copy": "Sam Fender and Olivia Dean are riding high! 'Rein Me In' is your new UK Number 1. What a track!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#NumberOne"
      ]
     }
    ]
@@ -59,313 +160,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday, James Hetfield!",
-   "blurb": "Metallica frontman James Hetfield turns 63 today, the iconic voice of one of the biggest metal bands in history.",
+   "title": "Happy 63rd to James Hetfield",
+   "blurb": "Metallica frontman James Hetfield celebrates his 63rd birthday today, August 3rd, 2026.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIEzBH0Y87C0i4hQrYxnk6UsMz67GTcn17WMg0KFYYRkxrbMy-_hbWRcSmF6t_xNwCoQ4rtJcMvhKYZgoYnPxruLNEVtHd3HLR3vg9viQhXQxz-dMb0BWBY8QLFWQtjAorqJthIUeKV2HF1dsmqJ0OiN6O"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal Legend",
-     "copy": "Happy 63rd Birthday to the one and only James Hetfield! What's your favourite Metallica riff?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Metallica"
-     ]
-    },
-    {
-     "name": "Voice of a Generation",
-     "copy": "Wishing a very Happy 63rd to James Hetfield! From 'Enter Sandman' to 'Nothing Else Matters', his voice is unmistakable.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#JamesHetfield"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "skin-skunk-anansie-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday, Skin!",
-   "blurb": "Skunk Anansie's powerhouse vocalist Skin celebrates her 59th birthday today.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmhpzWu6sGTyDbg27iePZc6C2d6iJewR9P80RHwgCM8NL55KyMvTJMrdEtRgooFdS-DcFzcLOM2Ozby5BU2hk6jKld9M4af87n0jZXfQeK6yaql2-7MKmFyeSSz4kR3AWpQTimf4X8hpdVqneB0PCX6ma4bmXucw1w2g"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Icon",
-     "copy": "Happy 59th Birthday to the incredible Skin from Skunk Anansie! What a voice, what a presence. What's your top track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#SkunkAnansie"
-     ]
-    },
-    {
-     "name": "90s Trailblazer",
-     "copy": "Wishing a fierce Happy 59th Birthday to Skin! Still rockin' stages and inspiring many. Legend!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Skin"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "johnny-graham-eawf-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday, Johnny Graham!",
-   "blurb": "Johnny Graham, multi-instrumentalist of Earth, Wind & Fire, turns 75 today.",
-   "source": {
-    "l": "This Day In Music",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjTrDzeLe8ShLIRPbTGQLI7JeCmiElbAQU4eNpfLMOg5nAI9V8V4QI5lJs5bl1b_EhU-iaHU0c54883auIgoPoSLZSAU7n-QA6AmdE8b77HNg6wdop5s-uE1jbiwDnMrhIbznK9heC4oOSIgCOy-8uvK6JzjrXUOA"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Funk & Soul Master",
-     "copy": "Happy 75th Birthday to Johnny Graham of Earth, Wind & Fire! The man behind some of the greatest grooves.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#EarthWindAndFire"
-     ]
-    },
-    {
-     "name": "Celebrating a Legend",
-     "copy": "Wishing a fantastic 75th to Johnny Graham! Get 'September' on repeat today!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#JohnnyGraham"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-rein-me-in",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean's 'Rein Me In' Breaks UK Chart Record",
-   "blurb": "Sam Fender and Olivia Dean's duet 'Rein Me In' has become the longest-running UK Number 1 single ever, with 19 non-consecutive weeks at the top of the Official Singles Chart as of July 31st.",
-   "source": {
-    "l": "Official Charts",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESyCLMthXr0Cjjn-5l0CEqfRkiaugpgBjBLGfgT-5LbbZbTN2iubuo1m_jU8I-hb2fCQ4z-n_VpJhjdp4nNvuqXGqmQLaAds6GE9mvo8zWI6OoixhPbbozKVe-gG-_1kT0UtMHkG2eTeH774RPi-C6GpG_E7MBtPdDgzhjUmSXJYckc1QA-gohbSH3L9Zf5kP1S-NHDiFE24dOfiTjIJDuP9aHS5Li9YUwIDu2_cQ0ZWYcaU8hA03sxhfy0WrtnqqnMJ8fUOYqtM8gbk5YGhlEmgTl0Ur0"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart History Made",
-     "copy": "History made! Sam Fender & Olivia Dean's 'Rein Me In' is officially the longest-running UK Number 1 single ever. 19 weeks at the top!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Celebrating Success",
-     "copy": "Huge congratulations to Sam Fender and Olivia Dean! 'Rein Me In' has broken a 73-year record. What a track!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ReinMeIn"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ian-broudie-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday, Ian Broudie!",
-   "blurb": "The Lightning Seeds frontman Ian Broudie, known for hits like 'Three Lions', turns 68 tomorrow.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQcu4jJq5Svu9Ty7MWLdP2CZBtWhpWxjwi7b8UAi-_7qWvcagPrdqxT9rRACoCCMv9ragsNdO3kp7FPBvcHikdFTNkLiBrPOih9puYqjALt69c8lu3F3TrLiY4PveVX6DE6HpCUSychvIy9nXNYJRTShv3q"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Football Anthems King",
-     "copy": "Tomorrow, Ian Broudie of The Lightning Seeds turns 68! Get ready to sing along to 'Three Lions'!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#ThreeLions"
-     ]
-    },
-    {
-     "name": "Indie Pop Legend",
-     "copy": "Wishing a very Happy 68th Birthday to Ian Broudie tomorrow! His indie pop magic with The Lightning Seeds is timeless.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#LightningSeeds"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "yungblud-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday, Yungblud!",
-   "blurb": "British rock sensation Yungblud celebrates his 29th birthday on Wednesday.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAu9EWHzjQHtmCcITKzs8hjylKIHm6ZUFs0_uYprfpUGlfUy16dI_Ez8Ggv3fjFpkQSMo-guEkEVxr5ZM8S__y9CVqygaxdXgurOTjLCEQbVRvcNelzdQ3PDVI_phrW_E_SDZXe4EzYBB8SmLanDXUKzYZ"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Gen Z Rocker",
-     "copy": "Turn it up loud! Yungblud celebrates his 29th birthday on Wednesday. What's your favourite track from the Doncaster punk-rocker?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Yungblud"
-     ]
-    },
-    {
-     "name": "Celebrating a Young Star",
-     "copy": "Wishing a Happy 29th Birthday to Yungblud this Wednesday! Bringing his unique energy to the music scene.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HappyBirthdayYungblud"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "pat-smear-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday, Pat Smear!",
-   "blurb": "Foo Fighters and former Nirvana guitarist Pat Smear turns 67 on Wednesday.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-8GFUsbQULgVlfIEZleNJFO4KWsXUX4_d2MpORz9g2N2zcmstQI0Ts2Laf4iwZvV8H24riNwCCTAeqbw5byxmGi0bNimpUtmAJYhwP8w_FlKay2bNh7ca22hsO0tDalm8drdtWVyQfq9tAAfFdKcACm9STlAq"
+    "u": "https://www.famousbirthdays.com/people/james-hetfield.html"
    },
    "fits": [
     {
@@ -383,42 +182,99 @@
    ],
    "angles": [
     {
-     "name": "Rock Royalty",
-     "copy": "Happy 67th Birthday to the legendary Pat Smear! From Nirvana to Foo Fighters, what a career!",
+     "name": "Metal Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 63rd Birthday to the legendary James Hetfield of Metallica! What's your favourite Metallica riff?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:30",
+     "time": "14:00",
      "tags": [
-      "#PatSmear"
+      "#Metallica"
      ]
     },
     {
-     "name": "Guitar Hero",
-     "copy": "Wishing a massive Happy 67th to Pat Smear this Wednesday! Always bringing the cool to every band he's in.",
+     "name": "Birthday Shoutout",
+     "for": "Nation 90s",
+     "copy": "Wishing a very Happy 63rd Birthday to James Hetfield! Still rocking harder than ever.",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "16:30",
+     "time": "15:00",
      "tags": [
-      "#FooFighters"
+      "#JamesHetfield"
      ]
     }
    ]
   },
   {
-   "id": "geri-halliwell-bday",
-   "off": 3,
+   "id": "skin-bday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday, Geri Halliwell!",
-   "blurb": "Spice Girls icon Geri Halliwell, also known as Ginger Spice, turns 54 on Thursday.",
+   "title": "Happy 59th to Skin (Skunk Anansie)",
+   "blurb": "Skunk Anansie's iconic lead singer, Skin, turns 59 today, August 3rd, 2026.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUGcobkK1thz4o6XBExcJvSOZVpOatfMYDOq79xad-2Thhl9_UROp99-6LfU1fxckIqabhLyb1nLUrnIMgzBLX1HCj2kPC5YWG6gh2vrmn-Hg-ZwE9iF28gorN4yvPadTz3uLmjCdV"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/skin-singer.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Icon",
+     "for": "Nation Rocks",
+     "copy": "Happy 59th Birthday to the incredible Skin! Skunk Anansie's powerhouse vocalist is still an absolute legend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SkunkAnansie"
+     ]
+    },
+    {
+     "name": "90s Shoutout",
+     "for": "Nation 90s",
+     "copy": "Wishing a fierce 59th Birthday to Skin! What's your top Skunk Anansie track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Skin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tasmin-archer-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 63rd to Tasmin Archer",
+   "blurb": "British singer-songwriter Tasmin Archer, known for her hit 'Sleeping Satellite', celebrates her 63rd birthday today, August 3rd, 2026.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/tasmin-archer.html"
    },
    "fits": [
     {
@@ -432,29 +288,301 @@
    ],
    "angles": [
     {
-     "name": "Spice Up Your Life",
-     "copy": "Girl Power! Happy 54th Birthday to the one and only Ginger Spice, Geri Halliwell, this Thursday!",
+     "name": "90s Pop",
+     "for": "Nation 90s",
+     "copy": "Happy 63rd Birthday to Tasmin Archer! 'Sleeping Satellite' is still a classic. What a voice!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#TasminArcher"
+     ]
+    },
+    {
+     "name": "Hitmaker",
+     "for": "Nation Hits",
+     "copy": "Wishing a very Happy Birthday to the brilliant Tasmin Archer! Still love 'Sleeping Satellite'?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "19:00",
      "tags": [
-      "#SpiceGirls"
+      "#SleepingSatellite"
      ]
+    }
+   ]
+  },
+  {
+   "id": "palace-bowl-presents",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Palace Bowl Presents series continues",
+   "blurb": "The 'Palace Bowl Presents' festival series continues this week at Crystal Palace Bowl, London, running until August 16th with an eclectic lineup.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/festival/palace-bowl-presents"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
-     "name": "Pop Icon",
-     "copy": "Wishing a fabulous 54th to Geri Halliwell! What's your favourite Spice Girls memory?",
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London Gigs",
+     "for": "Nation Radio London",
+     "copy": "Live music alert! The Palace Bowl Presents series is still in full swing at Crystal Palace. Who are you hoping to catch?",
      "channels": [
+      "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "14:30",
      "tags": [
+      "#LondonGigs"
+     ]
+    },
+    {
+     "name": "Festival Vibes",
+     "for": "Nation Hits",
+     "copy": "More festival action this week at Crystal Palace Bowl! The 'Palace Bowl Presents' series brings an eclectic mix of artists until Aug 16.",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#FestivalSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ian-broudie-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 68th to Ian Broudie",
+   "blurb": "Ian Broudie, frontman of The Lightning Seeds, celebrates his 68th birthday tomorrow, August 4th, 2026.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/ian-broudie.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Indie Icon",
+     "for": "Nation 90s",
+     "copy": "Wishing a very Happy 68th Birthday to Ian Broudie of The Lightning Seeds tomorrow! Still humming 'Three Lions'?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LightningSeeds"
+     ]
+    },
+    {
+     "name": "Birthday Tune",
+     "for": "Nation Classic Hits",
+     "copy": "Tomorrow's a big one for Ian Broudie! Happy 68th to the man behind so many classic Lightning Seeds tracks.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#IanBroudie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "boardmasters-festival",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Boardmasters Festival Kicks Off",
+   "blurb": "The Boardmasters Festival in Newquay, Cornwall, begins on Wednesday, August 5th, running until August 9th with a mix of music and surf culture.",
+   "source": {
+    "l": "eFestivals",
+    "u": "https://www.efestivals.co.uk/festivals/boardmasters/2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Westcountry"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cornwall Calling",
+     "for": "Nation Radio Westcountry",
+     "copy": "Newquay, are you ready? Boardmasters kicks off on Wednesday! Who are you most excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Boardmasters"
+     ]
+    },
+    {
+     "name": "Festival Countdown",
+     "for": "Nation Hits",
+     "copy": "Just two days until Boardmasters brings the music and surf vibes to Cornwall! Get ready for an epic week.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Newquay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bloodstock-festival",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Bloodstock Open Air Festival",
+   "blurb": "The UK's largest independent open-air metal festival, Bloodstock, returns to Catton Park, Derbyshire, from August 6th to 9th.",
+   "source": {
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/bloodstock-open-air-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal Mayhem",
+     "for": "Nation Rocks",
+     "copy": "Get ready, metalheads! Bloodstock Open Air kicks off Thursday in Derbyshire. Who's heading to Catton Park?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Bloodstock"
+     ]
+    },
+    {
+     "name": "Festival Vibe",
+     "for": "Nation Rocks",
+     "copy": "Four days of heavy riffs and mosh pits! Bloodstock starts Thursday. Which bands are you hyped for?",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#MetalFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geri-halliwell-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 54th to Geri Halliwell",
+   "blurb": "Spice Girls icon Geri Halliwell (Ginger Spice) celebrates her 54th birthday on Wednesday, August 6th, 2026.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/geri-halliwell.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Spice Girl Power",
+     "for": "Nation 90s",
+     "copy": "Girl Power! Wishing a very Happy 54th Birthday to the one and only Geri Halliwell on Wednesday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
       "#GeriHalliwell"
+     ]
+    },
+    {
+     "name": "Pop Princess",
+     "for": "Nation Hits",
+     "copy": "Happy 54th Birthday to Ginger Spice, Geri Halliwell, this Wednesday! What's your favourite Spice Girls track?",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#SpiceGirls"
      ]
     }
    ]
@@ -464,11 +592,11 @@
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday, Bruce Dickinson!",
-   "blurb": "Iron Maiden's legendary frontman Bruce Dickinson celebrates his 68th birthday on Friday.",
+   "title": "Happy 68th to Bruce Dickinson",
+   "blurb": "Iron Maiden's legendary frontman, Bruce Dickinson, turns 68 on Thursday, August 7th, 2026.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSObHS28k10GbOFYl-xKk53uW2TbfWsUQhz2GtvJcbCzl75zltSTcFh7t1tgjeJWK-afATEd7YMECdTzOj69igXWiCKCK8gUqgtA3abhC4hHJI9p3MP8vMcsLBtjIJzfpFwr4KOIxfVr3STEBlmM3SDBLi"
+    "u": "https://www.famousbirthdays.com/people/bruce-dickinson.html"
    },
    "fits": [
     {
@@ -482,8 +610,9 @@
    ],
    "angles": [
     {
-     "name": "Metal God",
-     "copy": "Up the Irons! Happy 68th Birthday to the iconic Bruce Dickinson from Iron Maiden this Friday. What a voice!",
+     "name": "Metal Icon",
+     "for": "Nation Rocks",
+     "copy": "Up the Irons! Wishing a very Happy 68th Birthday to Iron Maiden's incredible Bruce Dickinson on Thursday!",
      "channels": [
       "instagram",
       "facebook",
@@ -495,13 +624,14 @@
      ]
     },
     {
-     "name": "Celebrating a Legend",
-     "copy": "Wishing a powerful 68th to Bruce Dickinson! From soaring vocals to piloting planes, he truly is a renaissance man.",
+     "name": "Birthday Shoutout",
+     "for": "Nation 80s",
+     "copy": "Happy 68th Birthday to the legendary Bruce Dickinson this Thursday! Still soaring vocally after all these years.",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "11:00",
      "tags": [
       "#BruceDickinson"
      ]
@@ -513,11 +643,11 @@
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday, Jacquie O'Sullivan!",
-   "blurb": "Former Bananarama member Jacquie O'Sullivan turns 66 on Friday.",
+   "title": "Happy 66th to Jacquie O'Sullivan",
+   "blurb": "Former Bananarama member Jacquie O'Sullivan celebrates her 66th birthday on Thursday, August 7th, 2026.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgWzU_PUEmglX5jHdcBC59c_vGGNPv9cZiOYBDyIhPRp-04B-jkLWNGVncWZfLadEifub5pjdO78ydMxPdgUK9YRK_PJWwRHChKLkfnCrvR2ktTcpUvnwOOLXC9oPzJJ7OIs6QZRtcN_P1A_uU_N9H5JdAfTXXQ7lc_A"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/7"
    },
    "fits": [
     {
@@ -526,92 +656,49 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "80s Pop Star",
-     "copy": "Cruel Summer? Not for Jacquie O'Sullivan! Happy 66th Birthday to the former Bananarama star this Friday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Bananarama"
-     ]
-    },
-    {
-     "name": "Pop Memories",
-     "copy": "Wishing a fantastic 66th to Jacquie O'Sullivan! Relive those '80s pop anthems this Friday.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#80sPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-hundred-weekend",
-   "off": 5,
-   "type": "sport",
-   "hot": true,
-   "title": "The Hundred Continues This Weekend",
-   "blurb": "The Hundred cricket tournament features more exciting matches this weekend, including MI London vs Trent Rockets and Southern Brave vs Manchester Super Giants on Saturday.",
-   "source": {
-    "l": "Radio Times",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi_QbCxBzhUFdJpagpVdp3i_lQDC6HRG9izuwVaf978nd4U-QNHhqQdpBACCdI14KSx7T-kzSUnMiv-_XDsUVnSF6cPTVJy_b8NTWGtcvh3Kbdotjfdja9Vj1OcdC9GCXgobKyCrMcFmLGwNpomD-hLUQxgYWpUKkIGZwO2MOVz7U"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Weekend Cricket",
-     "copy": "The Hundred action continues this weekend! Who are you cheering for? Catch MI London, Trent Rockets, Southern Brave and Manchester Super Giants on Saturday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TheHundred"
-     ]
-    },
-    {
-     "name": "Sporting Spectacle",
-     "copy": "Don't miss a moment of The Hundred this weekend! Fast-paced cricket guaranteed.",
+     "name": "80s Pop",
+     "for": "Nation 80s",
+     "copy": "Happy 66th Birthday to Jacquie O'Sullivan, formerly of Bananarama, this Thursday! What's your favourite Bananarama hit?",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "12:00",
      "tags": [
-      "#Cricket"
+      "#Bananarama"
+     ]
+    },
+    {
+     "name": "Pop Star",
+     "for": "Nation Hits",
+     "copy": "Wishing a very Happy 66th Birthday to Jacquie O'Sullivan this Thursday! Ready to 'Venus' your way through the day?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#JacquieOSullivan"
      ]
     }
    ]
   },
   {
-   "id": "roots-picnic-london",
+   "id": "roots-picnic-uk",
    "off": 5,
    "type": "gig",
    "hot": true,
-   "title": "Roots Picnic London",
-   "blurb": "The Roots Picnic festival makes its international debut in London's Crystal Palace Bowl this weekend, August 8-9, celebrating hip hop, music, and culture.",
+   "title": "The Roots Picnic UK Debut",
+   "blurb": "The renowned Roots Picnic festival makes its international debut at Crystal Palace Bowl, London, on Friday and Saturday, August 8-9th.",
    "source": {
     "l": "Ticketmaster UK",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf9IZwut9AMY833o0LyxlrEEw1ujQetLxcrgRM32mN2ym68frtmRbdB5TCYLnfBZNgTrZVgfOmB8sGvQDxEhSiPty1c7cPtWscWbzC5RrOG5mt2EMtjVLhOL-RpN8TJFVBAjIz_hM2v_TIxRxHUtneNH50VDNpi2LHJUxkwjg"
+    "u": "https://www.ticketmaster.co.uk/the-roots-picnic-uk-tickets/artist/5396567"
    },
    "fits": [
     {
@@ -630,99 +717,104 @@
    "angles": [
     {
      "name": "London Festival",
-     "copy": "Roots Picnic makes its international debut in London this weekend! Get ready for a celebration of hip hop and culture at Crystal Palace Bowl, Aug 8-9.",
+     "for": "Nation Radio London",
+     "copy": "Big news for London's music scene! The Roots Picnic makes its UK debut this weekend at Crystal Palace Bowl. Who's going?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "11:00",
+     "time": "14:00",
      "tags": [
-      "#RootsPicnicLondon"
+      "#RootsPicnicUK"
      ]
     },
     {
-     "name": "Hip Hop Vibes",
-     "copy": "Crystal Palace Bowl is the place to be this weekend for Roots Picnic! Who's excited for world-class hip hop and R&B?",
+     "name": "Hip Hop & Beyond",
+     "for": "Nation Hits",
+     "copy": "The iconic Roots Picnic is finally in the UK this weekend! Expect world-class performances at Crystal Palace Bowl.",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#LondonGigs"
+      "#CrystalPalaceBowl"
      ]
     }
    ]
   },
   {
-   "id": "the-edge-u2-bday",
-   "off": 5,
-   "type": "birthday",
+   "id": "european-athletics-championships",
+   "off": 7,
+   "type": "sport",
    "hot": true,
-   "title": "Happy Birthday, The Edge!",
-   "blurb": "U2's iconic guitarist, The Edge (David Evans), turns 65 on Saturday.",
+   "title": "European Athletics Championships",
+   "blurb": "The European Athletics Championships 2026 will take place in Birmingham, England, from August 10th to 16th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWxY-iz89t3BAx0a1-wtuYp7OMkCrhFaqR4hrlOml_bZAzmU19KLVq0avMXEIVxkMd2qlF4IFW8Yd1-vPnQays6Z-UAwEIRJnGT4_w494IvY7--TMd2dnXhswdJ4-AZ4qvFAtzp98zPFc96ZGKqJzfQ2m4"
+    "l": "UK Sport",
+    "u": "https://www.uksport.gov.uk/events/european-athletics-championships-2026"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "nation-network",
+     "sub": "Nation Radio Birmingham"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Legend",
-     "copy": "Happy 65th Birthday to The Edge from U2 this Saturday! His distinctive sound has shaped rock music for decades.",
+     "name": "Athletics Action",
+     "for": "",
+     "copy": "Get ready for track and field! The European Athletics Championships kick off in Birmingham on Monday. Who are you backing?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "16:00",
      "tags": [
-      "#U2"
+      "#EuroAthletics"
      ]
     },
     {
-     "name": "Celebrating The Edge",
-     "copy": "Wishing a huge Happy 65th to The Edge! What's your favourite U2 track featuring his iconic guitar work?",
+     "name": "Birmingham Host",
+     "for": "Nation Radio Birmingham",
+     "copy": "Birmingham is hosting the European Athletics Championships starting Monday! The city is buzzing for a week of top-class sport.",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "17:00",
      "tags": [
-      "#TheEdge"
+      "#Birmingham"
      ]
     }
    ]
   },
   {
-   "id": "chris-foreman-madness-bday",
-   "off": 5,
+   "id": "ian-anderson-bday",
+   "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday, Chris Foreman!",
-   "blurb": "Madness guitarist Chris Foreman celebrates his 68th birthday on Saturday.",
+   "title": "Happy 79th to Ian Anderson (Jethro Tull)",
+   "blurb": "Jethro Tull's iconic frontman and flautist, Ian Anderson, celebrates his 79th birthday on Monday, August 10th, 2026.",
    "source": {
-    "l": "Music History Events",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETcRYCBJXoXLO0V6SGG_0OTbuwrPWSAMMh6KobUDSVL08IVEdDi_KLQuSBqfI7AIRLv7YkXERvE3HCqN48I0iN5lTnD6JmgZqOUFwjV0gjhFF6S0kd8fFagdQ_xjhY7OAlkdDtXFFwkKzEIKNcu-rNQYJ2njzB1sE"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/10"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -731,277 +823,28 @@
    ],
    "angles": [
     {
-     "name": "Ska Legend",
-     "copy": "It must be love! Happy 68th Birthday to Chris Foreman of Madness this Saturday. Get your Nutty Boy dance on!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Madness"
-     ]
-    },
-    {
-     "name": "Celebrating Chrissy Boy",
-     "copy": "Wishing a fantastic 68th to Chrissy Boy! What's your favourite Madness hit?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ChrisForeman"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jc-chasez-nsync-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday, JC Chasez!",
-   "blurb": "*NSYNC member JC Chasez turns 50 on Saturday.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWxY-iz89t3BAx0a1-wtuYp7OMkCrhFaqR4hrlOml_bZAzmU19KLVq0avMXEIVxkMd2qlF4IFW8Yd1-vPnQays6Z-UAwEIRJnGT4_w494IvY7--TMd2dnXhswdJ4-AZ4qvFAtzp98zPFc96ZGKqJzfQ2m4"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Boy Band Icon",
-     "copy": "It's Gonna Be Me... wishing a very Happy 50th Birthday to *NSYNC's JC Chasez this Saturday! Still got the moves!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#NSYNC"
-     ]
-    },
-    {
-     "name": "Pop Nostalgia",
-     "copy": "Happy 50th Birthday to JC Chasez! Relive the boy band glory days this weekend!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#JCCHasez"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "star-wars-visions-disney",
-   "off": 2,
-   "type": "tv",
-   "hot": true,
-   "title": "Star Wars: Visions Presents – The Ninth Jedi",
-   "blurb": "The new limited series 'Star Wars: Visions Presents – The Ninth Jedi' continues the popular animated saga, premiering on Disney+ UK this Wednesday.",
-   "source": {
-    "l": "VODzilla.co",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHBZFuB7tsuDSaZQIOnZij65U44TeWrw-JmBuoESL9b_eWvQ5Z5BFdYAM_uHHBQ6ZusrE7mTc77LR1K3EmfHbl1S6m2po2unG_SR9IwJZDDzEQeZSVxq2tDUQ77Rl8cThHjhzt2sPq4V_Zs2JHcPMjGDe8"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Star Wars",
-     "copy": "A new Star Wars adventure awaits! 'The Ninth Jedi' from 'Star Wars: Visions Presents' drops on Disney+ UK this Wednesday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#StarWarsVisions"
-     ]
-    },
-    {
-     "name": "Animation Excitement",
-     "copy": "Dive back into the animated Star Wars universe! 'The Ninth Jedi' is here this Wednesday on Disney+ UK. Who's watching?",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#DisneyPlus"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "big-chicken-netflix",
-   "off": 2,
-   "type": "tv",
-   "hot": true,
-   "title": "Big Chicken: A Fast Food Conspiracy",
-   "blurb": "Mo Gilligan investigates the hidden costs of Britain's fried chicken obsession in 'Big Chicken: A Fast Food Conspiracy', premiering on Netflix UK this Wednesday.",
-   "source": {
-    "l": "Esquire",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXXqRTyOaE4iVqrP9fpsnqhpcqJosPKFGBsLWbhMZsh99yOA_FcjQ3F0_WqCy2mlswxfHlOcbkwz9RzFQvM1aRErmVz0iOCkMG-6ZPCRXIMGBQ1WHZE-HigbE8I_c4I0Qd2aqNPnSmRg0sUrf1SeX-WaOsaxOelGYZ8kzWEedD87jFT5nV_q2qJXNMJEBRAXmfUzoM0UcvG47lcZvMHQ9KONo"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Docuseries",
-     "copy": "Mo Gilligan goes deep into Britain's fried chicken obsession in 'Big Chicken: A Fast Food Conspiracy', new on Netflix UK this Wednesday. Prepare to rethink your takeaway!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BigChicken"
-     ]
-    },
-    {
-     "name": "Food & Culture",
-     "copy": "Ever wondered about the true cost of your fried chicken? Mo Gilligan has the answers in his new Netflix UK documentary, out Wednesday!",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#NetflixUK"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "boardmasters-festival",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Boardmasters Festival Kicks Off",
-   "blurb": "The Boardmasters Festival, combining surfing, skateboarding, and music, begins Wednesday in Newquay, Cornwall, running until August 9th.",
-   "source": {
-    "l": "UK Festival Guides",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfX4GkUSvrbEjH0fQRcjvNgGAIbDh65hjMjHyDz8z4HOyHIoOvascUTWPMuzFf_xa2SAOzCF7vqQtYJRL4RTPQJ9KwLgvpc-kGd4TDLBBUoEtrD8u9araLforoWg"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cornwall Festival",
-     "copy": "Boardmasters kicks off today in Newquay! Sun, surf, and incredible music all weekend long. Who's heading to Cornwall?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#Boardmasters"
-     ]
-    },
-    {
-     "name": "Festival Vibes",
-     "copy": "The ultimate summer combo is here! Boardmasters brings the best of music and action sports to Newquay, Aug 5-9.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#Newquay"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ian-anderson-jethro-tull-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday, Ian Anderson!",
-   "blurb": "Jethro Tull frontman Ian Anderson, known for his distinctive flute playing, turns 79 on Monday, August 10th.",
-   "source": {
-    "l": "This Day In Music",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_WSnvRuoIZtAODrdaG3y5ExGnRjJrM0PoM1AsljpH-B5CfAujiSmqTkO3UOpfMVpmkOxQgMnzzPf1IALCQWRZZHsjaVPe09glM4P31AHxEun4xPeAM7I3oVK1vF6FMizysJz2KvII3-7Y"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
      "name": "Prog Rock Legend",
-     "copy": "Happy 79th Birthday to the one and only Ian Anderson of Jethro Tull this Monday! Who else loves his iconic flute solos?",
+     "for": "Nation Rocks",
+     "copy": "Happy 79th Birthday to the one and only Ian Anderson of Jethro Tull this Monday! Still a master of the flute.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "18:00",
      "tags": [
       "#JethroTull"
      ]
     },
     {
-     "name": "Musical Genius",
-     "copy": "Wishing a fantastic 79th to Ian Anderson! A true innovator in rock music.",
+     "name": "70s Icon",
+     "for": "Nation 70s",
+     "copy": "Wishing a very Happy 79th Birthday to Ian Anderson! 'Aqualung' is still a masterpiece.",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "19:00",
      "tags": [
       "#IanAnderson"
      ]
@@ -1013,11 +856,11 @@
    "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday, Neneh Cherry!",
-   "blurb": "Swedish singer-songwriter and rapper Neneh Cherry, known for 'Buffalo Stance', turns 62 on Monday, August 10th.",
+   "title": "Happy 62nd to Neneh Cherry",
+   "blurb": "Swedish singer-songwriter Neneh Cherry, known for hits like 'Buffalo Stance', turns 62 on Monday, August 10th, 2026.",
    "source": {
-    "l": "SoundOD",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0xdQXfVPt6XttH56lvqlHkQRPmsQRAOgJTtBEzmAt7Rv67Gg3eQaCw08420In7aYXnYUZXh0aGSDGPYPKzRnjpmFWBntDoXdgGW0z9Xe0C6tQ90iZU37UD05uCbop-iqd27BO2_LKMe4U"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/10"
    },
    "fits": [
     {
@@ -1027,183 +870,43 @@
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "80s/90s Icon",
-     "copy": "She's so... Neneh Cherry! Happy 62nd Birthday to the 'Buffalo Stance' singer this Monday. What a style icon!",
+     "name": "80s/90s Pop",
+     "for": "Nation 80s",
+     "copy": "Happy 62nd Birthday to the fantastic Neneh Cherry this Monday! 'Buffalo Stance' is still a banger.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "20:00",
      "tags": [
       "#NenehCherry"
      ]
     },
     {
-     "name": "Celebrating a Trailblazer",
-     "copy": "Wishing a cool 62nd to Neneh Cherry! Still inspiring with her unique blend of pop, hip hop, and fashion.",
+     "name": "Genre Bender",
+     "for": "Nation Hits",
+     "copy": "Wishing a very Happy 62nd Birthday to Neneh Cherry! What's your favourite track from her incredible career?",
      "channels": [
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "15:00",
+     "time": "21:00",
      "tags": [
       "#BuffaloStance"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "patti-austin-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday, Patti Austin!",
-   "blurb": "Grammy-winning R&B, jazz, and pop singer Patti Austin turns 78 on Monday, August 10th.",
-   "source": {
-    "l": "SoundOD",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_WSnvRuoIZtAODrdaG3y5ExGnRjJrM0PoM1AsljpH-B5CfAujiSmqTkO3UOpfMVpmkOxQgMnzzPf1IALCQWRZZHsjaVPe09glM4P31AHxEun4xPeAM7I3oVK1vF6FMizysJz2KvII3-7Y"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jazz & Soul Diva",
-     "copy": "Happy 78th Birthday to the incredible Patti Austin this Monday! Her smooth vocals are pure class.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#PattiAustin"
-     ]
-    },
-    {
-     "name": "Celebrating a Voice",
-     "copy": "Wishing a wonderful 78th to Patti Austin! Dive into her amazing discography this Monday.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SoulMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-kick-off",
-   "off": 18,
-   "type": "sport",
-   "hot": false,
-   "title": "Premier League 2026/27 Season Kicks Off",
-   "blurb": "The 2026/27 Premier League season is set to begin on Friday, August 21st, with fixtures having been released in June.",
-   "source": {
-    "l": "Premier League",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpGTGiUFqzXWddBpulzkNjgzEdCBfeheNXTFzWbRTHDfQMa6UUM5OJlw96CTY1p8pskgBsbMW5Jgj6rzzY7Ly0qIdP9QC9CyFae6dEjvK8ry_ukGraxf7cqZVA8HxpRLyMSi2KKz4VOEaWXYEA3HNP-6m8-FyTwaT79X1_351j6u6GCyrEWtFAQ-4ZC0jL39Y9DXrxTZPCx4s"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Football Returns",
-     "copy": "Not long now! The Premier League 2026/27 season kicks off on Friday, August 21st. Who are you backing for the title?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Season Anticipation",
-     "copy": "Get ready for more Premier League action! The new season starts August 21st. Which fixture are you most looking forward to?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FootballIsBack"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "community-shield-cardiff",
-   "off": 13,
-   "type": "sport",
-   "hot": false,
-   "title": "Community Shield in Cardiff",
-   "blurb": "The FA Community Shield will be played on Sunday, August 16th, at Principality Stadium in Cardiff, featuring Manchester City vs Arsenal.",
-   "source": {
-    "l": "Groundhopper Guides",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIxqvf8CsLvkVP9r_ULUMMgWoFKFFVR9T2rXp98nfq5vZYOQnUJVeRGgvUBpR_gdOW93rgQlRs0p9wjgw07En4LUygBjfM25LBQ8boNRjlcqBBEyF3Ryvg16rllLS90_ScEteCQkq9KL_k3nJieylUxDh3MaTzhpx90Hg5mZcuTVJogyYc76wCe3BxfsZ_DI-BrU5n7XE"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cardiff Football",
-     "copy": "Cardiff hosts the Community Shield on August 16th! Manchester City face Arsenal at Principality Stadium. Who will lift the first silverware?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CommunityShield"
-     ]
-    },
-    {
-     "name": "Pre-Season Showdown",
-     "copy": "The Community Shield is coming to Cardiff! Don't miss Manchester City vs Arsenal on August 16th – a taste of the season to come.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#PrincipalityStadium"
      ]
     }
    ]
