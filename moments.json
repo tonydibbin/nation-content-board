@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-07T15:41:20.612Z",
+ "updated": "2026-08-07T16:38:54.633Z",
  "moments": [
   {
-   "id": "uk-heatwave-aug26",
-   "off": 3,
-   "type": "seasonal",
+   "id": "the-hundred-finals-day",
+   "off": 9,
+   "type": "sport",
    "hot": true,
-   "title": "UK Heatwave incoming",
-   "blurb": "A widespread heatwave is forecast for much of England and Wales next week, with temperatures potentially reaching 37°C in some areas by Friday, August 14th.",
+   "title": "The Hundred Finals Day",
+   "blurb": "The Hundred 2026 season culminates with both the Men's and Women's Finals Day at Lord's Cricket Ground in London on Sunday, August 16.",
    "source": {
-    "l": "Met Office / Mirror",
-    "u": "https://www.metoffice.gov.uk/weather/forecast/uk-forecast-latest"
+    "l": "The Hundred Official Website / BBC Sport",
+    "u": "https://www.thehundred.com/"
    },
    "fits": [
     {
@@ -18,18 +18,14 @@
      "sub": ""
     },
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Heatwave Alert",
-     "copy": "Get ready for a serious heatwave! Temperatures across England and Wales are set to soar next week, with some spots hitting a scorching 37°C. Stay cool and hydrated!",
+     "name": "Finals Anticipation",
+     "copy": "Who's lifting the trophy? The Hundred Finals Day is just over a week away at Lord's! Get ready for thrilling cricket as the men's and women's champions are crowned. #TheHundred",
      "channels": [
       "instagram",
       "facebook",
@@ -37,30 +33,60 @@
       "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
-      "#HeatwaveUK"
+      "#TheHundred"
      ]
     },
     {
-     "name": "Regional Forecast",
-     "for": "radio-exe",
-     "copy": "Devon, brace yourselves! Next week is looking seriously hot, with temperatures climbing towards heatwave levels across the South West. Time to plan those beach trips carefully!",
+     "name": "Lord's Buzz",
+     "for": "Nation Radio London",
+     "copy": "The Home of Cricket, Lord's, is set to host The Hundred Finals next Sunday! Expect electric atmosphere and world-class action right here in London. #Lord'sCricket",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "08:30",
+     "time": "14:00",
      "tags": [
-      "#DevonHeat"
+      "#Lord'sCricket"
      ]
+    }
+   ]
+  },
+  {
+   "id": "community-shield-cardiff",
+   "off": 9,
+   "type": "sport",
+   "hot": true,
+   "title": "Community Shield in Cardiff",
+   "blurb": "The 2026 Community Shield, featuring Premier League champions Arsenal and FA Cup holders Manchester City, will be held at Principality Stadium in Cardiff on Sunday, August 16.",
+   "source": {
+    "l": "Premier League Official Website",
+    "u": "https://www.premierleague.com/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "name": "North/South Split",
-     "copy": "While England and Wales bake in a heatwave next week, Scotland and Northern Ireland are expecting cooler temperatures and rain. Classic British summer split!",
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff Hosts Big Game",
+     "copy": "Cardiff is gearing up for a huge football clash next Sunday! The Community Shield sees Arsenal take on Manchester City at Principality Stadium. Who's winning the first silverware of the season? #CommunityShield",
      "channels": [
       "instagram",
       "facebook",
@@ -70,99 +96,13 @@
      ],
      "time": "11:00",
      "tags": [
-      "#UKWeather"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-hundred-finals",
-   "off": 9,
-   "type": "sport",
-   "hot": true,
-   "title": "The Hundred Finals Day",
-   "blurb": "The Hundred cricket tournament culminates with Finals Day at Lord's on Sunday, August 16th, featuring both the men's and women's finals.",
-   "source": {
-    "l": "The Hundred Official Site",
-    "u": "https://www.thehundred.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Finals Countdown",
-     "copy": "It's almost time! The Hundred Finals Day is set for Lord's this Sunday, August 16th. Who are you backing to lift the trophy in the men's and women's competitions?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TheHundred"
+      "#CommunityShield"
      ]
     },
     {
-     "name": "Welsh Fire Hopes",
+     "name": "Welsh Football Focus",
      "for": "welsh-local",
-     "copy": "Can Welsh Fire make it to Lord's? The Hundred Finals Day is just over a week away! Keep an eye on their remaining matches to see if they can make a push for the title.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#WelshFire"
-     ]
-    },
-    {
-     "name": "Cricket Excitement",
-     "copy": "The 100-ball action has been incredible, and it all comes down to Finals Day next Sunday. Get ready for some explosive cricket!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Cricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f1-dutch-gp",
-   "off": 14,
-   "type": "sport",
-   "hot": false,
-   "title": "F1 Dutch Grand Prix",
-   "blurb": "Formula 1 heads to Zandvoort for the Dutch Grand Prix from August 21st to 23rd, the next race on the 2026 calendar.",
-   "source": {
-    "l": "Formula 1 Official Site",
-    "u": "https://www.formula1.com/en/racing/2026/Netherlands.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Next Race Up",
-     "copy": "After a brief break, F1 is back! The Dutch Grand Prix is up next, roaring into Zandvoort from August 21st-23rd. Who's your pick for the win?",
+     "copy": "All eyes on Principality Stadium next weekend as the Community Shield comes to Cardiff! Man City vs Arsenal – a massive game to kick off the new football season. #CardiffFootball",
      "channels": [
       "instagram",
       "facebook",
@@ -170,21 +110,7 @@
      ],
      "time": "15:00",
      "tags": [
-      "#F1"
-     ]
-    },
-    {
-     "name": "Verstappen's Home Race",
-     "copy": "Max Verstappen's home crowd will be out in force at Zandvoort for the Dutch Grand Prix. Expect an electric atmosphere next week!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#DutchGP"
+      "#CardiffFootball"
      ]
     }
    ]
@@ -195,29 +121,29 @@
    "type": "gig",
    "hot": true,
    "title": "The Weeknd at Wembley",
-   "blurb": "The Weeknd brings his After Hours Til Dawn Stadium Tour to Wembley Stadium for five nights, starting Thursday, August 14th.",
+   "blurb": "The Weeknd brings his 'After Hours Til Dawn Tour' to Wembley Stadium for multiple dates starting next week, including August 14, 15, 16, 18, and 19.",
    "source": {
-    "l": "Wembley Stadium",
-    "u": "https://www.wembleystadium.com/events/2026/the-weeknd"
+    "l": "Ticketmaster / Live Nation",
+    "u": "https://www.ticketmaster.co.uk/the-weeknd-tickets/artist/1627993"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Wembley Weekend",
-     "copy": "London is ready! The Weeknd kicks off his five-night residency at Wembley Stadium next Thursday. Who's heading to see the After Hours Til Dawn tour?",
+     "name": "Wembley Calling",
+     "copy": "Get ready, London! The Weeknd's 'After Hours Til Dawn Tour' hits Wembley Stadium next week for a series of epic nights. Who's got tickets for Abel Tesfaye's massive show? #TheWeeknd",
      "channels": [
       "instagram",
       "facebook",
@@ -225,23 +151,22 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "10:30",
      "tags": [
       "#TheWeeknd"
      ]
     },
     {
-     "name": "London Calling",
-     "for": "nation-network",
-     "copy": "The Weeknd is taking over Wembley for five massive nights starting next week! Get ready for some epic stadium vibes.",
+     "name": "Anticipation Build",
+     "copy": "It's almost time! The Weeknd is bringing the 'After Hours Til Dawn Tour' to the UK. Five huge nights at Wembley Stadium are just around the corner, starting August 14th. #WembleyStadium",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:30",
+     "time": "16:00",
      "tags": [
-      "#Wembley"
+      "#WembleyStadium"
      ]
     }
    ]
@@ -252,25 +177,25 @@
    "type": "gig",
    "hot": true,
    "title": "Ariana Grande O2 Residency",
-   "blurb": "Ariana Grande begins her highly anticipated 10-night Eternal Sunshine Tour residency at London's O2 Arena on Friday, August 15th.",
+   "blurb": "Ariana Grande kicks off her highly anticipated ten-night residency at London's The O2 Arena starting August 15th, as part of 'The Eternal Sunshine Tour'.",
    "source": {
-    "l": "The O2 Arena",
-    "u": "https://www.theo2.co.uk/events/detail/ariana-grande-2026"
+    "l": "The O2 Arena Official Website / Ticketmaster",
+    "u": "https://www.theo2.co.uk/events/detail/ariana-grande"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Grande Return",
-     "copy": "After six years, Ariana Grande is back! Her 'Eternal Sunshine' tour kicks off a massive 10-night O2 residency next Friday. Who managed to get tickets?",
+     "name": "Ariana Takes Over O2",
+     "copy": "London, get ready for an 'Eternal Sunshine' takeover! Ariana Grande's 10-night residency at The O2 kicks off next Saturday. Which date are you seeing her? #ArianaGrande",
      "channels": [
       "instagram",
       "facebook",
@@ -278,21 +203,20 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:30",
+     "time": "12:00",
      "tags": [
       "#ArianaGrande"
      ]
     },
     {
-     "name": "London's Pop Event",
-     "for": "nation-network",
-     "copy": "It's the pop event of the summer! Ariana Grande starts her incredible O2 residency next week. London is about to get even more fabulous.",
+     "name": "Pop Event of the Week",
+     "copy": "The biggest pop event of the week is almost here! Ariana Grande starts her epic run at The O2 next Saturday. Expect stunning vocals and a show to remember. #EternalSunshine",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "17:00",
      "tags": [
       "#EternalSunshine"
      ]
@@ -300,202 +224,181 @@
    ]
   },
   {
-   "id": "hollywood-vampires-cardiff",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "Hollywood Vampires at Cardiff Castle",
-   "blurb": "Hollywood Vampires, featuring Alice Cooper, Joe Perry, and Johnny Depp, play a sold-out show at Cardiff Castle on Thursday, August 14th.",
-   "source": {
-    "l": "Cardiff Castle",
-    "u": "https://www.cardiffcastle.com/whats-on/hollywood-vampires-2026/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Vampires in Cardiff",
-     "for": "welsh-local",
-     "copy": "Cardiff Castle is about to get a dose of rock royalty! Hollywood Vampires hit the stage next Thursday for a sold-out show. Who's ready?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#CardiffCastle"
-     ]
-    },
-    {
-     "name": "Rock Supergroup",
-     "copy": "Alice Cooper, Joe Perry, Johnny Depp... Hollywood Vampires are bringing their supergroup swagger to Cardiff next week for what's sure to be an unforgettable night of rock!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#HollywoodVampires"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jimmy-eat-world-cardiff",
-   "off": 8,
-   "type": "gig",
-   "hot": true,
-   "title": "Jimmy Eat World at Cardiff Castle",
-   "blurb": "Jimmy Eat World celebrate 25 years of 'Bleed American' with a sold-out show at Cardiff Castle on Friday, August 15th, supported by Rise Against.",
-   "source": {
-    "l": "Cardiff Castle",
-    "u": "https://www.cardiffcastle.com/whats-on/jimmy-eat-world-2026/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bleed American Anniversary",
-     "for": "welsh-local",
-     "copy": "A huge one for emo fans! Jimmy Eat World are celebrating 25 years of 'Bleed American' at Cardiff Castle next Friday. It's sold out, but who remembers their first listen?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#JimmyEatWorld"
-     ]
-    },
-    {
-     "name": "Cardiff Rock",
-     "copy": "Jimmy Eat World and Rise Against at Cardiff Castle next week! Sounds like the perfect Friday night for rock and alternative fans. Who's going?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#CardiffGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "edinburgh-festivals-aug",
+   "id": "bruce-dickinson-birthday",
    "off": 0,
-   "type": "culture",
+   "type": "birthday",
    "hot": true,
-   "title": "Edinburgh International & Fringe Festivals",
-   "blurb": "The Edinburgh International Festival and the Edinburgh Fringe Festival are in full swing throughout August, bringing world-class arts and entertainment to the Scottish capital.",
+   "title": "Bruce Dickinson's 68th Birthday",
+   "blurb": "Iron Maiden frontman Bruce Dickinson celebrates his 68th birthday today, August 7th.",
    "source": {
-    "l": "Edinburgh Festivals",
-    "u": "https://www.eif.co.uk/"
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/august7.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal Icon's Birthday",
+     "copy": "Happy 68th Birthday to the legendary Bruce Dickinson! The Iron Maiden frontman continues to define rock vocals. What's your favourite Maiden track? #BruceDickinson",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BruceDickinson"
+     ]
+    },
+    {
+     "name": "Air Raid Siren At 68",
+     "copy": "Still soaring high! Bruce Dickinson, the iconic voice of Iron Maiden, turns 68 today. Celebrate with some classic metal on Nation Rocks! #IronMaiden",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#IronMaiden"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ivan-toney-charged",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Ivan Toney Charged with Assault",
+   "blurb": "England forward Ivan Toney, 30, has been charged with assault following an incident at a London nightclub in December, police confirmed today.",
+   "source": {
+    "l": "BBC Sport / AP News",
+    "u": "https://apnews.com/article/ivan-toney-assault-charge-england-football-2026-08-07-00000000000000000000000000000000"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Festival City Buzz",
-     "for": "nation-network",
-     "copy": "Edinburgh is absolutely buzzing! The International and Fringe Festivals are packed with incredible shows, comedy, music, and theatre all month. What are you seeing?",
+     "name": "Footballer in the News",
+     "copy": "Breaking news in football: England forward Ivan Toney has been charged with assault. The 30-year-old is set to appear in court in September. More on this story across the Nation Network. #IvanToney",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "11:30",
+     "time": "14:30",
      "tags": [
-      "#EdinburghFringe"
+      "#IvanToney"
      ]
     },
     {
-     "name": "Scottish Arts",
-     "for": "nation-network",
-     "copy": "From world-class theatre to stand-up comedy, the Edinburgh Festivals are showcasing the best of arts and culture right now. Immerse yourself!",
+     "name": "London Footballer News",
+     "for": "Nation Radio London",
+     "copy": "London news today: England's Ivan Toney has been charged with assault following an incident in a Soho nightclub. He acknowledges the charge and looks forward to clearing his name. #LondonNews",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "16:30",
+     "time": "17:00",
      "tags": [
-      "#Edinburgh"
+      "#LondonNews"
      ]
     }
    ]
   },
   {
-   "id": "wythenshawe-park-gigs",
-   "off": 14,
-   "type": "gig",
-   "hot": false,
-   "title": "Live From Wythenshawe Park Series",
-   "blurb": "The 'Live From Wythenshawe Park' concert series in Manchester continues throughout August with major acts including The Cure (Aug 21), Lewis Capaldi (Aug 22), Pulp (Aug 28), The Courteeners (Aug 29), and The Prodigy (Aug 30).",
+   "id": "the-hundred-this-weekend",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred Continues This Weekend",
+   "blurb": "The Hundred 2026 season heats up this weekend with several matches, including Birmingham Phoenix vs Sunrisers Leeds today, and MI London vs Trent Rockets tomorrow.",
    "source": {
-    "l": "Visit Manchester",
-    "u": "https://www.visitmanchester.com/whats-on/live-from-wythenshawe-park-2026-p418451"
+    "l": "The Hundred Official Website",
+    "u": "https://www.thehundred.com/fixtures"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "welsh-local",
+     "sub": "Welsh Fire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Weekend Cricket",
+     "copy": "Cricket fans, your weekend plans are sorted! The Hundred continues with big matches today and tomorrow, including Birmingham Phoenix, Sunrisers Leeds, MI London, and Trent Rockets in action. #TheHundred2026",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#TheHundred2026"
+     ]
     },
+    {
+     "name": "Welsh Fire in Action",
+     "for": "welsh-local",
+     "copy": "The Welsh Fire are back in action this Sunday in The Hundred, taking on Sunrisers Leeds! Catch all the 100-ball excitement. #WelshFire",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#WelshFire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "official-trending-chart",
+   "off": 0,
+   "type": "chart",
+   "hot": true,
+   "title": "Official Trending Chart Update",
+   "blurb": "The Official Trending Chart reveals new movers and shakers this week, with Silva Bumpa's 'On 2nite' set to break into the Top 10 and KATSEYE climbing with 'Animal'.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/chart-news/official-trending-chart-silva-bumpa-kettama-adela-and-more--2026/"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -504,181 +407,8 @@
    ],
    "angles": [
     {
-     "name": "Manchester Summer Gigs",
-     "for": "nation-network",
-     "copy": "Wythenshawe Park is hosting some HUGE names this month! The Cure, Lewis Capaldi, Pulp, The Courteeners, and The Prodigy are all playing. Which one are you most excited for?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ManchesterGigs"
-     ]
-    },
-    {
-     "name": "Indie Legends",
-     "copy": "Pulp and The Courteeners bringing the indie anthems to Wythenshawe Park later this month. Get ready for some singalongs!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#IndieMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bruce-dickinson-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Bruce Dickinson's Birthday",
-   "blurb": "Bruce Dickinson, the iconic frontman of Iron Maiden, turns 68 today, August 7th.",
-   "source": {
-    "l": "Bored Panda / This Day in Rock History",
-    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-7-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal Legend's Birthday",
-     "copy": "Happy 68th birthday to the one and only Bruce Dickinson! The Iron Maiden frontman is still rocking harder than ever. What's your favourite Maiden track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BruceDickinson"
-     ]
-    },
-    {
-     "name": "Up The Irons!",
-     "copy": "Celebrating Bruce Dickinson's 68th today! A true legend of rock, pilot, fencer, author... is there anything he can't do? Raise a glass to the Iron Maiden icon!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#IronMaiden"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "christian-chavez-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Christian Chávez's Birthday",
-   "blurb": "Christian Chávez, known for his role in the telenovela 'Rebelde' and as a member of the pop group RBD, turns 43 today, August 7th.",
-   "source": {
-    "l": "Bored Panda / Famous Birthdays",
-    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-7-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "RBD Star Birthday",
-     "copy": "Happy 43rd birthday to Christian Chávez! From 'Rebelde' to RBD, he's given us so many bops. What's your favourite RBD song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ChristianChavez"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jacquie-osullivan-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Jacquie O'Sullivan's Birthday",
-   "blurb": "Jacquie O'Sullivan, former member of the iconic 80s pop group Bananarama, turns 66 today, August 7th.",
-   "source": {
-    "l": "Musicians Born on August 7",
-    "u": "https://www.thisdayinmusic.com/birthdays/august-7/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bananarama Birthday",
-     "copy": "Wishing a very happy 66th birthday to Jacquie O'Sullivan, who brought us so many hits as part of Bananarama! What's your favourite 80s dance track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Bananarama"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "madonna-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Madonna's Birthday",
-   "blurb": "The Queen of Pop, Madonna, will celebrate her 68th birthday on Sunday, August 16th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Madonna"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen of Pop's Big Day",
-     "copy": "Get ready to celebrate! Madonna turns 68 this Sunday, August 16th. What's the ultimate Madonna track you'll be spinning?",
+     "name": "New Chart Bops",
+     "copy": "Who's climbing the charts? Silva Bumpa, KATSEYE, and Temper City are all making moves on the Official Trending Chart this week! What's your favourite new track? #OfficialCharts",
      "channels": [
       "instagram",
       "facebook",
@@ -688,34 +418,81 @@
      ],
      "time": "10:00",
      "tags": [
-      "#Madonna"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Iconic Madonna",
-     "copy": "From 'Like a Virgin' to 'Vogue' and beyond, Madonna has defined pop for decades. We're counting down to her 68th birthday this weekend!",
+     "name": "Dance Floor Fillers",
+     "copy": "Get ready for the weekend with these trending tracks! Silva Bumpa's 'On 2nite' is heading for the Top 10. Tune into Nation Dance for the freshest sounds! #TrendingMusic",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "18:00",
      "tags": [
-      "#QueenOfPop"
+      "#TrendingMusic"
      ]
     }
    ]
   },
   {
-   "id": "belinda-carlisle-bday",
+   "id": "gotham-knights-tv",
+   "off": -6,
+   "type": "tv",
+   "hot": true,
+   "title": "Gotham Knights Premieres",
+   "blurb": "The first season of the DC Comics-inspired series 'Gotham Knights' premiered on Prime Video on August 1st in the UK, following the death of Bruce Wayne.",
+   "source": {
+    "l": "Geektown / Prime Video",
+    "u": "https://www.geektown.co.uk/uk-air-dates/uk-tv-air-dates-for-us-uk-shows-in-2026-2027/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New DC Show",
+     "copy": "Calling all DC fans! 'Gotham Knights' Season 1 is now streaming on Prime Video. What are your first impressions of the new series? #GothamKnights",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#GothamKnights"
+     ]
+    },
+    {
+     "name": "Post-Batman Gotham",
+     "copy": "Batman is gone, but Gotham still needs heroes. Dive into 'Gotham Knights', the new series that premiered on Prime Video this week. Have you watched it yet? #DCComics",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#DCComics"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "belinda-carlisle-birthday",
    "off": 10,
    "type": "birthday",
-   "hot": false,
-   "title": "Belinda Carlisle's Birthday",
-   "blurb": "Belinda Carlisle, lead singer of The Go-Go's and successful solo artist, turns 68 on Monday, August 17th.",
+   "hot": true,
+   "title": "Belinda Carlisle's 68th Birthday",
+   "blurb": "Go-Go's frontwoman and 'Heaven Is a Place on Earth' singer Belinda Carlisle celebrates her 68th birthday on August 17th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Belinda_Carlisle"
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/august17.html"
    },
    "fits": [
     {
@@ -729,87 +506,44 @@
    ],
    "angles": [
     {
-     "name": "Heaven Is A Birthday",
-     "copy": "Happy 68th to the incredible Belinda Carlisle this Monday! From The Go-Go's to her solo hits, she's a true 80s icon. What's your favourite track from her?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#BelindaCarlisle"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-summer-holidays",
-   "off": 0,
-   "type": "seasonal",
-   "hot": false,
-   "title": "UK Summer Holiday Season",
-   "blurb": "Schools across England and Wales are currently enjoying their summer holidays, with most returning in early September, while Scottish schools are preparing to return mid-August.",
-   "source": {
-    "l": "Gov.uk / Icelolly.com",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Summer Vibes",
-     "copy": "It's still peak summer holiday season for many across the UK! What are your plans for soaking up the last few weeks before school returns?",
+     "name": "80s Pop Icon",
+     "copy": "Next Monday, we're celebrating the fabulous Belinda Carlisle as she turns 68! From The Go-Go's to 'Heaven Is a Place on Earth', what's your favourite hit? #BelindaCarlisle",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
-      "#SummerHolidays"
+      "#BelindaCarlisle"
      ]
     },
     {
-     "name": "Back To School Prep",
-     "for": "nation-network",
-     "copy": "While some are still enjoying the break, Scottish schools are heading back soon! For England and Wales, there's still time to enjoy before the September return. How are you making the most of it?",
+     "name": "Go-Go's Legend",
+     "copy": "She's got the beat! Belinda Carlisle turns 68 on Monday. Get ready for a dose of classic 80s pop on Nation 80s to celebrate her birthday! #GoGos",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "14:00",
      "tags": [
-      "#SummerBreak"
+      "#GoGos"
      ]
     }
    ]
   },
   {
-   "id": "official-singles-chart",
-   "off": 0,
-   "type": "chart",
+   "id": "joe-jonas-birthday",
+   "off": 8,
+   "type": "birthday",
    "hot": true,
-   "title": "Latest Official Singles Chart",
-   "blurb": "The UK Official Singles Chart has just been updated, revealing the biggest songs in the country this week, as new releases battle for the top spot.",
+   "title": "Joe Jonas's 37th Birthday",
+   "blurb": "Jonas Brothers member Joe Jonas will be celebrating his 37th birthday on Sunday, August 15th.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/august15.html"
    },
    "fits": [
     {
@@ -817,36 +551,102 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Chart Toppers",
-     "copy": "The latest Official Singles Chart is out! Who's at Number 1 this week and what new tracks are making a splash? Tune in to Nation Hits to hear them!",
+     "name": "Jonas Brother Turns 37",
+     "copy": "Happy early Birthday to Joe Jonas! The Jonas Brother turns 37 this Sunday. What's your go-to Jonas Brothers track? #JoeJonas",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "17:00",
+     "time": "11:00",
      "tags": [
-      "#OfficialCharts"
+      "#JoeJonas"
      ]
     },
     {
-     "name": "New Music Friday",
-     "copy": "It's Friday, which means a fresh Official Singles Chart! Discover the UK's hottest tracks right now and see if your favourites made the cut.",
+     "name": "DNCE Party Time",
+     "copy": "Cake By The Ocean for Joe Jonas! He celebrates his 37th birthday on Sunday. Get ready for some Jonas Brothers and DNCE hits this weekend! #JonasBrothers",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "16:00",
      "tags": [
-      "#NewMusic"
+      "#JonasBrothers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-tickets",
+   "off": 20,
+   "type": "gig",
+   "hot": false,
+   "title": "Reading & Leeds Festival Approaching",
+   "blurb": "The Reading & Leeds Festivals are set to take place over the August Bank Holiday weekend, from Thursday 27th to Sunday 30th August 2026, with tickets still available.",
+   "source": {
+    "l": "Reading & Leeds Official Websites / Ticketmaster",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "copy": "The countdown is on for Reading & Leeds Festival! Just a few weeks until the August Bank Holiday weekend brings huge acts to Richfield Avenue and Bramham Park. Grab your tickets! #RandL26",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Yorkshire's Big Weekend",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Bramham Park is getting ready for another massive Reading & Leeds Festival at the end of August. Who are you excited to see in Leeds? #LeedsFestival",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#LeedsFestival"
      ]
     }
    ]
