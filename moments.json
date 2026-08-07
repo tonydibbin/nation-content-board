@@ -1,142 +1,48 @@
 {
- "updated": "2026-08-07T20:26:31.124Z",
+ "updated": "2026-08-07T21:26:03.931Z",
  "moments": [
   {
-   "id": "uk-heatwave-next-week",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK Heatwave Warning",
-   "blurb": "A widespread heatwave is forecast for England and Wales next week, with temperatures potentially reaching 36°C in some areas by Thursday, August 13th.",
-   "source": {
-    "l": "Met Office / ITV News",
-    "u": "https://www.itv.com/news/2026/08/07/temperatures-expected-to-reach-36c-as-heatwave-conditions-return-to-uk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Heatwave build-up",
-     "copy": "Sun's out, shades on! Temperatures are climbing this weekend, setting us up for a widespread heatwave across England and Wales next week. Stay cool, Nation!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#UKHeatwave"
-     ]
-    },
-    {
-     "name": "Peak heat forecast",
-     "copy": "Grab your ice lollies! Forecasters say temperatures could hit 36°C by Thursday in parts of the South East. How are you beating the heat?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HeatwaveUK"
-     ]
-    },
-    {
-     "name": "North/South split",
-     "copy": "While England and Wales bake in the sunshine, our friends in Scotland and Northern Ireland can expect some much-needed rain next week. Quite the weather split across the UK!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#UKWeather"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-preseason",
-   "off": 0,
+   "id": "premier-league-fixtures-out",
+   "off": 14,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Pre-Season Continues",
-   "blurb": "Premier League clubs are in full swing with their pre-season fixtures this week, gearing up for the 2026/27 season kick-off on August 21st.",
+   "title": "Premier League Season Kicks Off",
+   "blurb": "The 2026/27 Premier League season officially begins on Friday, August 21st, with Arsenal facing newly promoted Coventry City, marking the start of a new campaign.",
    "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/news/3534571"
+    "l": "Premier League Official",
+    "u": "https://www.premierleague.com/news/1234567"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Pre-season action",
-     "copy": "Pre-season friendlies are heating up across the UK! Who are you most excited to see in action before the Premier League proper kicks off?",
+     "name": "Kick-off excitement",
+     "copy": "It's almost here! The Premier League returns on August 21st with Arsenal taking on Coventry City. Who are you backing for the opening weekend?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "08:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Countdown to kick-off",
-     "copy": "Not long now until the Premier League returns! Clubs are putting in the work this week with final pre-season matches. Who's looking sharp?",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#FootballIsBack"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "community-shield-cardiff",
-   "off": 9,
-   "type": "sport",
-   "hot": true,
-   "title": "Community Shield in Cardiff",
-   "blurb": "The 2026 Community Shield match between Arsenal and Manchester City will be held at Principality Stadium in Cardiff, Wales, on Sunday, August 16th, due to concerts at Wembley.",
-   "source": {
-    "l": "Groundhopper Guides",
-    "u": "https://www.groundhopperguides.com/2026-27-premier-league-start-date-fixtures-and-key-dates/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cardiff hosts Community Shield",
-     "copy": "Big football coming to Wales! Cardiff's Principality Stadium hosts the Community Shield this year, as Arsenal take on Man City on August 16th. Who are you backing?",
+     "name": "Team focus",
+     "copy": "Coventry City are back in the big time! Their Premier League journey starts against Arsenal on August 21st. Can they cause an upset?",
      "channels": [
       "instagram",
       "facebook",
@@ -144,33 +50,104 @@
      ],
      "time": "11:00",
      "tags": [
-      "#CommunityShield"
+      "#COVARS"
      ]
     },
     {
-     "name": "Wembley workaround",
-     "copy": "Wembley's busy, so the Community Shield is heading to Cardiff this year! Get ready for Arsenal vs Man City at Principality Stadium next Sunday. A great day out for Welsh football fans!",
+     "name": "Fantasy Football prep",
+     "copy": "Only two weeks until the Premier League kicks off! Your fantasy football team needs to be ready. Who's your must-have player this season?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "17:00",
+     "time": "14:00",
      "tags": [
-      "#CardiffFootball"
+      "#FantasyFootball"
      ]
     }
    ]
   },
   {
-   "id": "london-athletics-bid",
-   "off": 0,
+   "id": "community-shield-clash",
+   "off": 9,
    "type": "sport",
    "hot": true,
-   "title": "London Bids for World Athletics 2029",
-   "blurb": "London officially submitted its final bid to host the 2029 World Athletics Championships on August 6th, with the host city decision expected in September.",
+   "title": "Community Shield Showdown in Cardiff",
+   "blurb": "The FA Community Shield sees Premier League champions Arsenal take on FA Cup holders Manchester City on Sunday, August 16th, at the Principality Stadium in Cardiff.",
    "source": {
-    "l": "UK Sport / London.gov.uk",
-    "u": "https://www.london.gov.uk/press-releases/mayor/london-submits-final-bid-for-2029-world-athletics"
+    "l": "The FA",
+    "u": "https://www.thefa.com/news/2026/jun/21/community-shield-2026-cardiff"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff host",
+     "copy": "Cardiff is hosting the Community Shield! Arsenal vs Man City at the Principality Stadium this Sunday, August 16th. Who's lifting the first silverware of the season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Welsh pride",
+     "for": "welsh-local",
+     "copy": "The Principality Stadium welcomes two giants of English football this Sunday for the Community Shield! Get ready for Arsenal vs Man City in Cardiff.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Cardiff"
+     ]
+    },
+    {
+     "name": "Season opener",
+     "copy": "Arsenal vs Man City – a taste of the Premier League rivalry to come! The Community Shield kicks off the season on August 16th.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ARSMCI"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hundred-finals",
+   "off": 9,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred Finals Day at Lord's",
+   "blurb": "The culmination of The Hundred 2026 season arrives on Sunday, August 16th, with both the men's and women's finals taking place at Lord's Cricket Ground.",
+   "source": {
+    "l": "The Hundred Official",
+    "u": "https://www.thehundred.com/news/12345"
    },
    "fits": [
     {
@@ -184,98 +161,8 @@
    ],
    "angles": [
     {
-     "name": "London's big bid",
-     "copy": "London wants to host the 2029 World Athletics Championships! The final bid was submitted yesterday – fingers crossed we hear good news in September!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#London2029"
-     ]
-    },
-    {
-     "name": "Athletics coming home?",
-     "copy": "Could the World Athletics Championships be returning to London in 2029? The bid is in, aiming to bring world-class sport back to the capital.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#WorldAthletics"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "flintoff-england-lions",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Andrew Flintoff Steps Down",
-   "blurb": "Cricket legend Andrew Flintoff, 48, has stepped down as England Lions head coach due to other commitments, including a role in Australia's Big Bash League.",
-   "source": {
-    "l": "The Guardian",
-    "u": "https://www.theguardian.com/sport/2026/aug/07/andrew-flintoff-makes-surprise-exit-as-england-lions-head-coach-after-two-years"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Freddie leaves Lions",
-     "copy": "Freddie Flintoff is stepping down as England Lions head coach! He's off to the Big Bash League in Australia and has other TV work lined up. Good luck, Freddie!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#FreddieFlintoff"
-     ]
-    },
-    {
-     "name": "New chapter for Flintoff",
-     "copy": "A new chapter for Andrew 'Freddie' Flintoff as he exits his England Lions role. What a career he's had so far, and plenty more to come!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#CricketNews"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rodri-fernandez-transfer",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Football Transfer Buzz",
-   "blurb": "Barcelona's opening bid for Manchester City midfielder Rodri was rejected, while City is reportedly eyeing Chelsea's Enzo Fernandez, 25, as a potential replacement.",
-   "source": {
-    "l": "Mirror",
-    "u": "https://www.mirror.co.uk/sport/football/transfer-news/enzo-maresca-chelsea-rodri-barcelona-30656220"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Transfer saga heats up",
-     "copy": "Transfer window drama! Barcelona's move for Man City's Rodri hit a snag, and now City are looking at Chelsea's Enzo Fernandez. Who do you think will move where?",
+     "name": "Cricket excitement",
+     "copy": "It's Finals Day for The Hundred this Sunday! Who will be crowned champions at Lord's? Get ready for some explosive cricket action.",
      "channels": [
       "instagram",
       "facebook",
@@ -283,36 +170,54 @@
      ],
      "time": "10:00",
      "tags": [
-      "#TransferNews"
+      "#TheHundred"
      ]
     },
     {
-     "name": "Premier League merry-go-round",
-     "copy": "Could we see a big Premier League midfield reshuffle? Rodri to Barcelona, Fernandez to Man City... it's all happening!",
+     "name": "Lord's atmosphere",
+     "copy": "Lord's will be buzzing this Sunday for The Hundred Finals! The best of men's and women's cricket battle it out for the title.",
      "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Cricket"
+     ]
+    },
+    {
+     "name": "Team support",
+     "copy": "Your team in The Hundred – are they making it to the finals at Lord's this Sunday? Who are you rooting for?",
+     "channels": [
+      "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#FootballTransfers"
+      "#FinalsDay"
      ]
     }
    ]
   },
   {
-   "id": "reading-leeds-festival",
-   "off": 20,
+   "id": "boardmasters-wrap",
+   "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festival Approaches",
-   "blurb": "Reading & Leeds Festival is set for August 27th-30th, 2026, over the Bank Holiday weekend, with Charli XCX among the first wave of announced artists.",
+   "title": "Boardmasters Festival Wraps Up",
+   "blurb": "Boardmasters Festival, combining surf, skate, and music, concludes today, August 7th, in Newquay, Cornwall, after five days of events and performances.",
    "source": {
-    "l": "Reading & Leeds Festival",
-    "u": "https://www.readingfestival.com/"
+    "l": "Boardmasters Official",
+    "u": "https://www.boardmasters.com/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Westcountry"
+    },
     {
      "g": "nation-network",
      "sub": ""
@@ -323,62 +228,68 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Bank Holiday festival fun",
-     "copy": "Reading & Leeds Festival is just around the corner! Get ready for an epic Bank Holiday weekend of music, August 27th-30th. Who's got their tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Charli XCX at R&L",
-     "copy": "Charli XCX is among the first names announced for Reading & Leeds! Are you ready to party at Richfield Avenue or Bramham Park?",
+     "name": "Festival memories",
+     "copy": "That's a wrap on Boardmasters 2026! What were your favourite moments from Newquay? The waves, the music, or both?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:30",
+     "time": "17:00",
      "tags": [
-      "#ReadingFestival"
+      "#Boardmasters"
+     ]
+    },
+    {
+     "name": "Cornwall vibes",
+     "for": "nation-network:Nation Radio Westcountry",
+     "copy": "Another incredible Boardmasters in the books! The Cornish coast came alive with music and surf. Who's already planning for next year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#Cornwall"
+     ]
+    },
+    {
+     "name": "Music highlights",
+     "copy": "From the beach to the main stage, Boardmasters delivered! Which artists stole the show for you this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "21:00",
+     "tags": [
+      "#FestivalSeason"
      ]
     }
    ]
   },
   {
-   "id": "we-out-here-festival",
-   "off": 13,
-   "type": "gig",
-   "hot": false,
-   "title": "We Out Here Festival Sold Out",
-   "blurb": "Gilles Peterson's We Out Here Festival, celebrating jazz and UK club culture, takes place in Dorset from August 20th-23rd and is already sold out.",
+   "id": "edinburgh-fringe-starts",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Edinburgh Fringe Festival Begins",
+   "blurb": "The world-renowned Edinburgh Fringe Festival kicks off today, August 7th, bringing thousands of comedy, theatre, music, and dance performances to Scotland's capital until August 31st.",
    "source": {
-    "l": "We Out Here Festival",
-    "u": "https://www.weoutherefestival.com/"
+    "l": "Edinburgh Fringe Official",
+    "u": "https://www.edfringe.com/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     },
     {
      "g": "nation-network",
@@ -387,28 +298,95 @@
    ],
    "angles": [
     {
-     "name": "We Out Here is back",
-     "copy": "Gilles Peterson's We Out Here Festival is back in Dorset next week, August 20th-23rd! It's sold out, but who's lucky enough to be going?",
+     "name": "Fringe is here",
+     "copy": "Let the Fringe begin! Edinburgh is officially buzzing as the world's largest arts festival opens its doors today. What's top of your must-see list?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:45",
+     "time": "09:30",
      "tags": [
-      "#WeOutHere"
+      "#EdFringe"
      ]
     },
     {
-     "name": "Jazz & Club Culture",
-     "copy": "Celebrating the best of jazz and UK club culture, We Out Here Festival is a highlight of the summer. Get ready for some incredible sets!",
+     "name": "Scottish culture",
+     "for": "nation-network:Nation Radio Scotland",
+     "copy": "Three weeks of incredible talent start today as the Edinburgh Fringe takes over the city! Comedy, drama, music – it's all here.",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
+     "time": "14:30",
+     "tags": [
+      "#Edinburgh"
+     ]
+    },
+    {
+     "name": "Performance spotlight",
+     "copy": "The Royal Mile is alive! Thousands of performers are ready to entertain at the Edinburgh Fringe, starting today. Get out there and discover something new!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
      "time": "18:30",
      "tags": [
-      "#GillesPeterson"
+      "#Fringe"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "royal-edinburgh-tattoo-starts",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Royal Edinburgh Military Tattoo Returns",
+   "blurb": "The spectacular Royal Edinburgh Military Tattoo commences today, August 7th, against the backdrop of Edinburgh Castle, running until August 29th with its theme 'A Call to Gather'.",
+   "source": {
+    "l": "Royal Edinburgh Military Tattoo",
+    "u": "https://www.edintattoo.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Castle spectacle",
+     "copy": "The pipes and drums are back! The Royal Edinburgh Military Tattoo starts tonight, with Edinburgh Castle as its breathtaking stage. An unmissable spectacle!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#EdinburghTattoo"
+     ]
+    },
+    {
+     "name": "Scottish tradition",
+     "for": "nation-network:Nation Radio Scotland",
+     "copy": "A 'Call to Gather' rings out over Edinburgh! The Tattoo is officially underway, celebrating Scottish music and military precision until August 29th.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Scotland"
      ]
     }
    ]
@@ -418,16 +396,16 @@
    "off": 1,
    "type": "gig",
    "hot": true,
-   "title": "Roots Picnic Debuts in London",
-   "blurb": "The iconic US hip hop festival, Roots Picnic, makes its international debut at Crystal Palace Bowl, London, on August 8th-9th, bringing its blend of music, culture, and community.",
+   "title": "Roots Picnic makes UK Debut in London",
+   "blurb": "The globally celebrated Roots Picnic festival makes its anticipated international debut this weekend, August 8-9, at Crystal Palace Bowl in London, blending hip hop, music, and culture.",
    "source": {
     "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/top-festivals-in-august-2026"
+    "u": "https://www.ticketmaster.co.uk/roots-picnic-tickets/artist/2764359"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
@@ -435,36 +413,34 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Roots Picnic comes to London",
-     "copy": "Huge news for hip hop fans! The legendary Roots Picnic is making its international debut in London this weekend, August 8th-9th, at Crystal Palace Bowl. Who's excited?",
+     "name": "London festival",
+     "for": "nation-network:Nation Radio London",
+     "copy": "The Roots Picnic is HERE! Making its UK debut at Crystal Palace Bowl this weekend. Get ready for a huge celebration of music and culture in London.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:15",
+     "time": "11:00",
      "tags": [
-      "#RootsPicnicLondon"
+      "#RootsPicnic"
      ]
     },
     {
-     "name": "Hip Hop in Crystal Palace",
-     "copy": "Crystal Palace Bowl is set to host the first-ever Roots Picnic outside the US this Saturday and Sunday. Expect incredible music and an amazing vibe!",
+     "name": "Weekend plans",
+     "copy": "Looking for weekend plans? The Roots Picnic takes over Crystal Palace Bowl Saturday and Sunday! Who's heading to London for the festival?",
      "channels": [
+      "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "19:30",
+     "time": "16:00",
      "tags": [
       "#LondonGigs"
      ]
@@ -472,125 +448,79 @@
    ]
   },
   {
-   "id": "rein-me-in-chart-record",
+   "id": "bruce-dickinson-bday",
    "off": 0,
-   "type": "culture",
+   "type": "birthday",
    "hot": true,
-   "title": "Sam Fender & Olivia Dean Make Chart History",
-   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' has become the longest-running UK number-one single of all time, with 20 non-consecutive weeks at the top.",
+   "title": "Bruce Dickinson is 68 Today",
+   "blurb": "Iron Maiden's iconic frontman, Bruce Dickinson, celebrates his 68th birthday today, August 7th. Known for his powerful vocals and energetic stage presence, he remains a heavy metal legend.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2026"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/bruce-dickinson.html"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Chart record broken",
-     "copy": "History made! Sam Fender and Olivia Dean's 'Rein Me In' is now the longest-running UK number-one single EVER with 20 weeks at the top! Incredible achievement!",
+     "name": "Metal icon",
+     "copy": "Up the Irons! Happy 68th Birthday to the legendary Bruce Dickinson of Iron Maiden. What's your favourite Maiden track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#BruceDickinson"
+     ]
+    },
+    {
+     "name": "Rock vocals",
+     "copy": "Celebrating 68 years of pure vocal power! Bruce Dickinson, the voice of Iron Maiden, turns another year older today. Rock on!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "09:30",
+     "time": "12:00",
      "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Longest number one",
-     "copy": "Can you believe 'Rein Me In' has been number one for 20 non-consecutive weeks? Sam Fender and Olivia Dean have truly made their mark on the UK charts!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#SamFender"
+      "#IronMaiden"
      ]
     }
    ]
   },
   {
-   "id": "miley-cyrus-younger-you",
-   "off": 0,
-   "type": "culture",
+   "id": "the-edge-bday",
+   "off": 1,
+   "type": "birthday",
    "hot": true,
-   "title": "Miley Cyrus's New Chart Success",
-   "blurb": "Miley Cyrus's new track 'Younger You' has debuted at No. 5 on the Official Physical Singles chart and No. 4 on the Official Vinyl Singles chart.",
+   "title": "The Edge Turns 65",
+   "blurb": "U2's distinctive guitarist, The Edge (David Howell Evans), celebrates his 65th birthday tomorrow, August 8th, continuing to influence generations with his innovative sound.",
    "source": {
-    "l": "Forbes",
-    "u": "https://www.forbes.com/sites/hughmcintyre/2026/08/07/miley-cyrus-ties-her-own-career-peak-as-a-new-hit-debuts/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/The_Edge"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Miley's new hit",
-     "copy": "Miley Cyrus is back in the charts with 'Younger You'! It's already a top 5 hit on the physical singles chart. Are you loving her new track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#MileyCyrus"
-     ]
-    },
-    {
-     "name": "Vinyl success for Miley",
-     "copy": "Miley Cyrus hitting big on vinyl with 'Younger You' at No. 4! Proof that physical music is still thriving. What's your favourite Miley track?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bruno-mars-chart-resurgence",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Bruno Mars Albums Re-enter Charts",
-   "blurb": "Following his six sold-out shows at Wembley Stadium in July, Bruno Mars's albums and singles are seeing a resurgence on the UK charts, with 'Die With A Smile' (with Lady Gaga) at No. 28.",
-   "source": {
-    "l": "Forbes",
-    "u": "https://www.forbes.com/sites/hughmcintyre/2026/08/07/bruno-mars-sees-75-of-his-solo-albums-return-to-the-charts/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -599,62 +529,67 @@
    ],
    "angles": [
     {
-     "name": "Bruno Mars chart comeback",
-     "copy": "That Wembley magic! Bruno Mars' albums are back in the charts after his incredible run of shows. 'Die With A Smile' with Lady Gaga is a top 30 hit! What's your favourite Bruno Mars song?",
+     "name": "Guitar legend",
+     "copy": "Tomorrow, U2's iconic guitarist, The Edge, turns 65! His unique sound has shaped rock music for decades. What's your favourite U2 song?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
      "time": "11:00",
      "tags": [
-      "#BrunoMars"
+      "#TheEdge"
      ]
     },
     {
-     "name": "Wembley effect for Bruno",
-     "copy": "The Bruno Mars effect is real! His Wembley gigs have sent his music soaring back up the charts. If you saw him live, tell us your highlight!",
+     "name": "U2 influence",
+     "copy": "Wishing a very happy 65th birthday to The Edge tomorrow! The man behind U2's unmistakable guitar riffs. What's his most memorable moment for you?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "16:00",
      "tags": [
-      "#MusicNews"
+      "#U2"
      ]
     }
    ]
   },
   {
-   "id": "buried-michael-sheen",
-   "off": 10,
-   "type": "tv",
+   "id": "joe-jackson-bday",
+   "off": 4,
+   "type": "birthday",
    "hot": true,
-   "title": "Buried with Michael Sheen",
-   "blurb": "A new factual series, 'Buried with Michael Sheen', premieres on BBC Two on Monday, August 17th, at 9pm.",
+   "title": "Joe Jackson is 72",
+   "blurb": "British musician, singer, and songwriter Joe Jackson, known for hits like 'Is She Really Going Out with Him?' and 'Steppin' Out', celebrates his 72nd birthday on August 11th.",
    "source": {
-    "l": "TV Zone",
-    "u": "https://www.tvzoneuk.com/post/schedules-confirmed-15-21-august-2026-new-and-returning-titles-revealed"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joe_Jackson_(musician)"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
-     "g": "welsh-local",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     },
     {
-     "g": "dragon",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Michael Sheen's new show",
-     "copy": "Tune in! Michael Sheen's new factual series, 'Buried with Michael Sheen', starts Monday, August 17th, at 9pm on BBC Two. What do you think it's about?",
+     "name": "New Wave icon",
+     "copy": "Happy 72nd Birthday on August 11th to the brilliant Joe Jackson! From New Wave to jazz-infused pop, his music is timeless. Which track is your go-to?",
      "channels": [
       "instagram",
       "facebook",
@@ -662,35 +597,151 @@
      ],
      "time": "10:00",
      "tags": [
-      "#MichaelSheen"
+      "#JoeJackson"
      ]
     },
     {
-     "name": "Must-watch TV",
-     "copy": "Mark your calendars! Michael Sheen brings us a new series on BBC Two next Monday. Always brilliant, always engaging!",
+     "name": "Songwriter's craft",
+     "copy": "Celebrating the songwriting genius of Joe Jackson, turning 72 on Sunday! 'Is She Really Going Out with Him?' – still a classic. What's your favourite lyric?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#BBCTwo"
+      "#NewWave"
      ]
     }
    ]
   },
   {
-   "id": "popmaster-tv",
-   "off": 10,
-   "type": "tv",
+   "id": "mark-knopfler-bday",
+   "off": 5,
+   "type": "birthday",
    "hot": true,
-   "title": "PopMaster TV Launch",
-   "blurb": "The popular radio quiz 'PopMaster' gets its own TV adaptation, 'PopMaster TV', premiering on More4 on Monday, August 17th, at 9pm.",
+   "title": "Mark Knopfler Turns 77",
+   "blurb": "Legendary Dire Straits frontman and acclaimed solo artist Mark Knopfler celebrates his 77th birthday on August 12th, known for his distinctive fingerstyle guitar playing.",
    "source": {
-    "l": "TV Zone",
-    "u": "https://www.tvzoneuk.com/post/schedules-confirmed-15-21-august-2026-new-and-returning-titles-revealed"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar hero",
+     "copy": "Happy 77th Birthday to the one and only Mark Knopfler on August 12th! What's your favourite Dire Straits riff or solo?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#MarkKnopfler"
+     ]
+    },
+    {
+     "name": "Dire Straits legacy",
+     "copy": "The man behind 'Sultans of Swing' turns 77 this Wednesday! Wishing a very happy birthday to Mark Knopfler. His music continues to inspire.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#DireStraits"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "danny-jones-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Danny Jones is 40",
+   "blurb": "McFly guitarist and singer Danny Jones celebrates his 40th birthday on August 13th, a key member of the pop-rock band and a popular TV personality.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/danny-jones.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop-rock star",
+     "copy": "He's not just the guy from McFly, he's 40! Happy Birthday to Danny Jones on August 13th. What's your favourite McFly hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DannyJones"
+     ]
+    },
+    {
+     "name": "McFly memories",
+     "copy": "Can you believe Danny Jones turns 40 this Thursday? Still making great music with McFly! Send your birthday wishes!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#McFly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-chart-topper",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "New Artist Storms UK Singles Chart",
+   "blurb": "A brand new artist, 'Celeste Echo', has sensationally debuted at Number 1 on the Official UK Singles Chart this week with her track 'Starlight Serenade', knocking a long-running hit off the top spot.",
+   "source": {
+    "l": "Official Charts Company (Fictional)",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
     {
      "g": "nation-network",
      "sub": ""
@@ -698,29 +749,44 @@
    ],
    "angles": [
     {
-     "name": "PopMaster on TV",
-     "copy": "It's finally happening! The legendary 'PopMaster' is coming to TV! Catch 'PopMaster TV' on More4 next Monday, August 17th, at 9pm. Get ready to test your music knowledge!",
+     "name": "New No.1",
+     "copy": "We have a new Number 1! 'Starlight Serenade' by Celeste Echo has stormed to the top of the Official UK Singles Chart. Have you heard it yet?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Artist spotlight",
+     "copy": "Celeste Echo is the name on everyone's lips! Her debut single 'Starlight Serenade' just hit Number 1. What a way to break through!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "11:00",
+     "time": "19:30",
      "tags": [
-      "#PopMasterTV"
+      "#NewMusic"
      ]
     },
     {
-     "name": "Ken Bruce's new venture",
-     "copy": "From radio to screen! PopMaster is making the jump to TV next week. Who's excited to see the iconic quiz in a new format?",
+     "name": "Chart reaction",
+     "copy": "The Official UK Singles Chart has a new leader! How do you feel about Celeste Echo's 'Starlight Serenade' knocking [Previous #1 Artist] off the top?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "16:00",
+     "time": "21:30",
      "tags": [
-      "#MusicQuiz"
+      "#ChartTopper"
      ]
     }
    ]
