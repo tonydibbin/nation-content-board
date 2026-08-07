@@ -1,18 +1,22 @@
 {
- "updated": "2026-08-07T04:16:32.514Z",
+ "updated": "2026-08-07T06:03:15.852Z",
  "moments": [
   {
    "id": "boardmasters-2026",
    "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Boardmasters Festival LIVE",
-   "blurb": "The UK's biggest surf and music festival, Boardmasters, is in full swing on the Cornish coast, running until Sunday with a huge lineup of artists across multiple stages.",
+   "title": "Boardmasters Festival Underway",
+   "blurb": "The UK's biggest surf and music festival, Boardmasters, is in full swing at Watergate Bay and Fistral Beach in Newquay, Cornwall, running until Sunday, August 9th.",
    "source": {
-    "l": "Boardmasters Official Website",
+    "l": "Boardmasters Official Site",
     "u": "https://www.boardmasters.com/"
    },
    "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
     {
      "g": "nation-network",
      "sub": "Nation Radio Westcountry"
@@ -23,18 +27,14 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Festival Vibe",
-     "for": "",
-     "copy": "Sun, surf, and serious tunes! Boardmasters is bringing the summer vibes to Cornwall right now. Who's there?",
+     "name": "Surf & Music Vibes",
+     "for": "radio-exe",
+     "copy": "Boardmasters is LIVE! Who's down in Newquay catching the waves and the incredible line-up? What's been your highlight so far?",
      "channels": [
       "instagram",
       "facebook",
@@ -42,265 +42,134 @@
       "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "08:30",
      "tags": [
       "#Boardmasters2026"
      ]
     },
     {
-     "name": "Artist Spotlight",
-     "for": "Nation Hits",
-     "copy": "From Fatboy Slim to The Kooks, the Boardmasters lineup this weekend is stacked! What act are you most excited for?",
+     "name": "Festival Lineup",
+     "for": "nation-network",
+     "copy": "From Fatboy Slim to The Kooks, Boardmasters is bringing the noise to Cornwall all weekend. Who are you hoping to see on stage?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "11:00",
      "tags": [
       "#Boardmasters"
      ]
-    },
-    {
-     "name": "Local Buzz",
-     "for": "Nation Radio Westcountry",
-     "copy": "Cornwall is buzzing! Boardmasters is taking over Newquay with incredible music and surf action all weekend. Are you heading down?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BoardmastersCornwall"
-     ]
     }
    ]
   },
   {
-   "id": "european-athletics-birmingham",
-   "off": 3,
+   "id": "the-hundred-cricket-aug7",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "European Athletics Championships in Birmingham",
-   "blurb": "The European Athletics Championships kick off in Birmingham on Monday, August 10th, marking the first time a British city has hosted the prestigious event, with stars like Jakob Ingebrigtsen and Keely Hodgkinson set to compete.",
+   "title": "The Hundred Continues Today",
+   "blurb": "The Hundred cricket tournament continues today with Birmingham Phoenix (Men) vs Sunrisers Leeds (Men) and tomorrow, August 8th, with MI London (Men) vs Trent Rockets (Men) and Southern Brave (Men) vs Manchester Super Giants (Men).",
    "source": {
-    "l": "European Athletics Official",
-    "u": "https://www.european-athletics.com/home"
+    "l": "The Hundred Official Site",
+    "u": "https://www.thehundred.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Day Excitement",
+     "copy": "It's another day of 100-ball action! Who are you backing in today's The Hundred clash between Birmingham Phoenix and Sunrisers Leeds?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#TheHundred"
+     ]
     },
+    {
+     "name": "Weekend Cricket",
+     "copy": "Cricket fans, your weekend schedule is sorted! The Hundred brings more big hitting tomorrow with three matches lined up. Which fixture has your attention?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Cricket"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roots-picnic-uk",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Roots Picnic UK Debuts This Weekend",
+   "blurb": "The iconic Roots Picnic festival makes its international debut in the UK this weekend, taking place at Crystal Palace Bowl, London, on August 8th and 9th.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/top-festivals-in-august-2026"
+   },
+   "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Countdown to Gold",
-     "for": "",
-     "copy": "Just 3 days until the European Athletics Championships hit Birmingham! Who are you backing for glory at Alexander Stadium?",
+     "name": "London Festival Vibes",
+     "for": "Nation Radio London",
+     "copy": "London! The Roots Picnic UK kicks off tomorrow at Crystal Palace Bowl. Get ready for a weekend of hip hop, culture, and community.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "09:30",
+     "time": "14:00",
      "tags": [
-      "#Birmingham2026"
+      "#RootsPicnicUK"
      ]
     },
     {
-     "name": "Home Soil History",
-     "for": "",
-     "copy": "History in the making! Birmingham hosts the European Athletics Championships for the very first time starting Monday. Get ready for a week of world-class action.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#EuropeanAthletics"
-     ]
-    },
-    {
-     "name": "Stars to Watch",
-     "for": "",
-     "copy": "All eyes on Birmingham next week! Jakob Ingebrigtsen, Keely Hodgkinson and Mondo Duplantis are just some of the big names competing at the European Athletics Championships.",
+     "name": "International Debut",
+     "copy": "A huge international festival makes its UK debut this weekend! The Roots Picnic is bringing its unique blend of music and culture to London. Who's going?",
      "channels": [
       "x",
       "facebook"
      ],
-     "time": "16:00",
-     "tags": [
-      "#Athletics"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "edinburgh-fringe-2026",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Edinburgh Fringe Festival LIVE",
-   "blurb": "The world-renowned Edinburgh Fringe Festival is underway, transforming Scotland's capital into a hub of comedy, theatre, music, and arts until August 31st.",
-   "source": {
-    "l": "Edinburgh Fringe Official",
-    "u": "https://www.edfringe.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fringe is ON",
-     "for": "",
-     "copy": "Edinburgh is alive with the sound of laughter, music, and drama! The Fringe Festival is officially open, bringing incredible talent to Scotland's capital.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
      "time": "10:00",
      "tags": [
-      "#EdinburghFringe"
-     ]
-    },
-    {
-     "name": "What to See",
-     "for": "Nation Radio Scotland",
-     "copy": "Comedy, theatre, dance, music – if it's happening, it's at the Edinburgh Fringe! What's on your must-see list this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Fringe2026"
+      "#LondonGigs"
      ]
     }
    ]
   },
   {
-   "id": "community-shield-2026",
-   "off": 9,
-   "type": "sport",
-   "hot": true,
-   "title": "Community Shield in Cardiff",
-   "blurb": "The FA Community Shield, featuring Premier League champions Arsenal and FA Cup winners Manchester City, will be held at Principality Stadium in Cardiff, Wales, on Sunday, August 16th.",
-   "source": {
-    "l": "Premier League Official",
-    "u": "https://www.premierleague.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Season Kick-off",
-     "for": "",
-     "copy": "The football season officially kicks off next week! Arsenal take on Man City in the Community Shield at Cardiff's Principality Stadium on August 16th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#CommunityShield"
-     ]
-    },
-    {
-     "name": "Welsh Football Host",
-     "for": "welsh-local",
-     "copy": "Cardiff is hosting the FA Community Shield next Sunday! Get ready for a huge clash between Arsenal and Manchester City at Principality Stadium.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#CardiffFootball"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bruce-dickinson-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Bruce Dickinson's 68th Birthday",
-   "blurb": "Iron Maiden's legendary frontman, Bruce Dickinson, celebrates his 68th birthday today, August 7th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bruce_Dickinson"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal Icon",
-     "for": "",
-     "copy": "Happy 68th Birthday to the one and only Bruce Dickinson! The Iron Maiden legend is still rocking stages worldwide. What's your favourite Maiden track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "07:00",
-     "tags": [
-      "#BruceDickinson"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-edge-bday",
+   "id": "the-edge-birthday",
    "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "The Edge's 65th Birthday",
-   "blurb": "U2's iconic guitarist, The Edge, born David Howell Evans, turns 65 tomorrow, August 8th.",
+   "title": "Happy 65th to The Edge",
+   "blurb": "U2 guitarist The Edge, born David Evans, celebrates his 65th birthday tomorrow, August 8th, 2026.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/The_Edge"
@@ -321,36 +190,42 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Legend",
-     "for": "Nation Rocks",
-     "copy": "Tomorrow, U2's legendary guitarist, The Edge, celebrates his 65th birthday! That distinctive sound is unmistakable. What's your favourite U2 song?",
+     "name": "U2 Legend",
+     "copy": "Tomorrow, we're celebrating the legendary U2 guitarist, The Edge, as he turns 65! What's your favourite U2 riff or track?",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "10:00",
+     "time": "16:00",
      "tags": [
       "#TheEdge"
+     ]
+    },
+    {
+     "name": "Guitar Icon",
+     "copy": "That iconic sound! Happy 65th birthday tomorrow to The Edge, the man behind some of rock's most distinctive guitar work.",
+     "channels": [
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#U2"
      ]
     }
    ]
   },
   {
-   "id": "joe-jackson-bday",
+   "id": "joe-jackson-birthday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Joe Jackson's 72nd Birthday",
-   "blurb": "British new wave and jazz-pop artist Joe Jackson, known for hits like 'Is She Really Going Out with Him?' and 'Steppin' Out', celebrates his 72nd birthday on August 11th.",
+   "title": "Happy 72nd to Joe Jackson",
+   "blurb": "English musician Joe Jackson, known for hits like 'Is She Really Going Out with Him?', celebrates his 72nd birthday on Tuesday, August 11th, 2026.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Joe_Jackson_(musician)"
@@ -362,41 +237,43 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
      "name": "New Wave Icon",
-     "for": "Nation 80s",
-     "copy": "Get ready to celebrate! On Sunday, Joe Jackson turns 72. Which of his classic tracks gets you 'Steppin' Out'?",
+     "copy": "Turning 72 on Tuesday! Happy birthday to the brilliant Joe Jackson, still making incredible music. What's your favourite from him?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "10:30",
      "tags": [
       "#JoeJackson"
+     ]
+    },
+    {
+     "name": "Classic Hits",
+     "copy": "Raise a glass to Joe Jackson, who celebrates his 72nd birthday this week! His tracks are absolute classics. Which one gets you moving?",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#ClassicHits"
      ]
     }
    ]
   },
   {
-   "id": "mark-knopfler-bday",
+   "id": "mark-knopfler-birthday",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Mark Knopfler's 77th Birthday",
-   "blurb": "Dire Straits frontman and guitar maestro Mark Knopfler, known for his unique fingerstyle playing, celebrates his 77th birthday on August 12th.",
+   "title": "Happy 77th to Mark Knopfler",
+   "blurb": "Dire Straits frontman and legendary guitarist Mark Knopfler celebrates his 77th birthday on Wednesday, August 12th, 2026.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
@@ -408,11 +285,59 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Hero",
+     "copy": "Happy 77th birthday on Wednesday to the incredible Mark Knopfler! His guitar work with Dire Straits is simply legendary. What's your favourite solo?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#MarkKnopfler"
+     ]
+    },
+    {
+     "name": "Dire Straits Flashback",
+     "copy": "The voice and guitar of Dire Straits turns 77 this week! Mark Knopfler, a true musical master. Which Dire Straits song is on repeat for you?",
+     "channels": [
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#DireStraits"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "danny-bonaduce-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 67th to Danny Bonaduce",
+   "blurb": "Danny Bonaduce, best known as Danny Partridge from The Partridge Family, celebrates his 67th birthday on Thursday, August 13th, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Danny_Bonaduce"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
@@ -421,30 +346,40 @@
    ],
    "angles": [
     {
-     "name": "Guitar Hero",
-     "for": "Nation Rocks",
-     "copy": "Happy 77th Birthday to the incredible Mark Knopfler this Monday! The Dire Straits legend's guitar work is pure magic. What's your top Dire Straits tune?",
+     "name": "Partridge Family Star",
+     "copy": "Remembering The Partridge Family! Happy 67th birthday to Danny Bonaduce on Thursday. Which Partridge Family song is your guilty pleasure?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "12:00",
      "tags": [
-      "#MarkKnopfler"
+      "#DannyBonaduce"
+     ]
+    },
+    {
+     "name": "Child Star",
+     "copy": "From child star to radio host – happy 67th to Danny Bonaduce this week! What a career.",
+     "channels": [
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PartridgeFamily"
      ]
     }
    ]
   },
   {
-   "id": "danny-jones-bday",
-   "off": 6,
+   "id": "joe-jonas-birthday",
+   "off": 8,
    "type": "birthday",
    "hot": true,
-   "title": "Danny Jones's 40th Birthday",
-   "blurb": "McFly guitarist and vocalist Danny Jones, a familiar face from the pop scene and TV, turns 40 on August 13th.",
+   "title": "Happy 37th to Joe Jonas",
+   "blurb": "Joe Jonas, member of the Jonas Brothers and DNCE, celebrates his 37th birthday on Saturday, August 15th, 2026.",
    "source": {
-    "l": "Google Search - Danny Jones birthday"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joe_Jonas"
    },
    "fits": [
     {
@@ -458,9 +393,8 @@
    ],
    "angles": [
     {
-     "name": "Pop-Punk Icon",
-     "for": "Nation Hits",
-     "copy": "Can you believe it? McFly's Danny Jones hits the big 4-0 on Tuesday! Wish him a happy birthday by playing your favourite McFly hit!",
+     "name": "Jonas Brother Turns 37",
+     "copy": "It's a big weekend for Joe Jonas, who turns 37 on Saturday! What's your favourite Jonas Brothers or DNCE track?",
      "channels": [
       "instagram",
       "facebook",
@@ -470,7 +404,331 @@
      ],
      "time": "11:30",
      "tags": [
-      "#DannyJones"
+      "#JoeJonas"
+     ]
+    },
+    {
+     "name": "Pop Star Birthday",
+     "copy": "Celebrating Joe Jonas's 37th birthday this Saturday! Which of his hits will you be spinning?",
+     "channels": [
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#JonasBrothers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "community-shield-2026",
+   "off": 9,
+   "type": "sport",
+   "hot": true,
+   "title": "Community Shield in Cardiff",
+   "blurb": "The FA Community Shield 2026, featuring Premier League champions Arsenal and FA Cup holders Manchester City, will take place on Sunday, August 16th, at Principality Stadium in Cardiff, Wales.",
+   "source": {
+    "l": "Groundhopper Guides",
+    "u": "https://groundhopperguides.com/2026-27-premier-league-start-date-fixtures-and-key-dates/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Football Season Kick-off",
+     "copy": "The football season officially kicks off with the Community Shield next Sunday! Arsenal vs Man City at Principality Stadium – who's taking the first silverware?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Cardiff Hosts",
+     "for": "welsh-local",
+     "copy": "Cardiff is hosting the Community Shield next weekend! Get ready as Principality Stadium welcomes Arsenal and Manchester City. Are you heading to the game?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Cardiff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "madonna-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 68th to Madonna",
+   "blurb": "The Queen of Pop, Madonna, celebrates her 68th birthday on Sunday, August 16th, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Madonna_(entertainer)"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen of Pop",
+     "copy": "Happy 68th birthday this Sunday to the one and only Madonna! What's your all-time favourite track from the Queen of Pop?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#Madonna"
+     ]
+    },
+    {
+     "name": "Pop Icon",
+     "copy": "Still influencing generations! Madonna celebrates her 68th birthday this weekend. Which of her eras is your favourite?",
+     "channels": [
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#QueenOfPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "belinda-carlisle-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 68th to Belinda Carlisle",
+   "blurb": "Go-Go's frontwoman and solo star Belinda Carlisle celebrates her 68th birthday on Monday, August 17th, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Belinda_Carlisle"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Go-Go's & Solo Star",
+     "copy": "Heaven Is A Place On Earth when Belinda Carlisle turns 68 this Monday! What's your favourite hit from her amazing career?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BelindaCarlisle"
+     ]
+    },
+    {
+     "name": "80s Icon",
+     "copy": "Happy 68th birthday to the iconic Belinda Carlisle on Monday! A true voice of the 80s and beyond. Which song takes you back?",
+     "channels": [
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gbbo-2026-buzz",
+   "off": 26,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off Buzz Builds",
+   "blurb": "Anticipation is growing for the 16th season of The Great British Bake Off, which is expected to return to Channel 4 in early September 2026, likely starting on September 2nd.",
+   "source": {
+    "l": "Channel 4",
+    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off Excitement",
+     "copy": "The Great British Bake Off is almost back! Who's ready for new bakes, new challenges, and a fresh batch of contestants? Expected early September!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "New Season Anticipation",
+     "copy": "Dust off your aprons! The Great British Bake Off is set to return to Channel 4 next month. What's the one bake you hope to see in the tent this year?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#BakeOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-summer-holidays",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Summer Holidays in Full Swing",
+   "blurb": "School summer holidays are ongoing across the UK, with most schools in England and Wales returning in early September, while some in Scotland have already begun to return mid-August.",
+   "source": {
+    "l": "UK Government / Local Councils",
+    "u": "https://www.gov.uk/school-term-dates-and-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Family Fun",
+     "copy": "Summer holidays are in full swing for most of the UK! What are your plans for soaking up the rest of the summer break?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Back to School Prep",
+     "copy": "While many are still enjoying the break, some schools in Scotland are already heading back, and England/Wales prepare for September. Are you ready for the return to routine?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SchoolHolidays"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-august-weather",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Mixed Bag for August Weather",
+   "blurb": "The UK is experiencing typical August weather with a mix of sunshine and scattered showers, though some forecasts suggest a potential for warmer temperatures later in the month.",
+   "source": {
+    "l": "Met Office / AccuWeather",
+    "u": "https://www.accuweather.com/en/gb/london/328328/month/328328?view=table"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Sunshine & Showers",
+     "copy": "Classic British summer! Expect a mix of sunshine and scattered showers this August. Are you making the most of the brighter spells?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "07:30",
+     "tags": [
+      "#UKWeather"
+     ]
+    },
+    {
+     "name": "Later August Warmth?",
+     "copy": "Current forecasts suggest a mixed bag for August, but some models hint at warmer spells later in the month. Fingers crossed for some proper heat!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#SummerForecast"
      ]
     }
    ]
