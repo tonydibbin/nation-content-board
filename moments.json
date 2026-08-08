@@ -1,77 +1,84 @@
 {
- "updated": "2026-08-08T15:16:27.116Z",
+ "updated": "2026-08-08T16:16:58.167Z",
  "moments": [
   {
-   "id": "boardmasters-2026",
+   "id": "uk-heatwave-aug2026",
    "off": 0,
-   "type": "gig",
+   "type": "seasonal",
    "hot": true,
-   "title": "Boardmasters Festival Wraps Up",
-   "blurb": "The UK's biggest surf and music festival, Boardmasters, is in full swing in Newquay, Cornwall, featuring acts like Fatboy Slim and The Kooks, and concludes on Sunday.",
+   "title": "UK Braces For Fifth Heatwave",
+   "blurb": "A fifth heatwave of the year is forecast for the UK, with temperatures potentially hitting 35-36°C by next Thursday, particularly across southern and eastern England, prompting Yellow Heat Health Alerts.",
    "source": {
-    "l": "Boardmasters Festival Official Site",
-    "u": "https://www.boardmasters.com/"
+    "l": "Met Office / The Sunday Guardian",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/7day"
    },
    "fits": [
     {
-     "g": "radio-exe",
-     "sub": "Radio Exe"
-    },
-    {
      "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
+     "sub": ""
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Classic Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Festival Vibe",
-     "for": "Radio Exe",
-     "copy": "Boardmasters is bringing the sunshine and surf vibes to Newquay all weekend! Who's down in Cornwall catching the last day of the festival fun?",
+     "name": "Heatwave Alert",
+     "copy": "Yellow Heat Health Alerts are out as the UK braces for its FIFTH heatwave of the year. Temperatures could hit 36°C by next Thursday, especially in the South East. Stay safe, stay hydrated!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "09:30",
+     "time": "08:00",
      "tags": [
-      "#Boardmasters2026"
+      "#UKHeatwave"
      ]
     },
     {
-     "name": "Artist Spotlight",
-     "for": "Nation Hits",
-     "copy": "Fatboy Slim, The Kooks, Dizzee Rascal – Boardmasters has had an epic lineup! What was your favourite set if you were there this weekend?",
+     "name": "Cool Down Tunes",
+     "copy": "It's heating up! With the UK on Yellow Heat Health Alert and temps soaring to 36°C next week, what's your go-to soundtrack for keeping cool?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#SummerVibes"
+     ]
+    },
+    {
+     "name": "Local Impact",
+     "for": "radio-exe",
+     "copy": "Devon and the South West are set for soaring temperatures as the UK enters its fifth heatwave. Expect highs around 30°C. Keep an eye on friends and neighbours.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "10:00",
      "tags": [
-      "#Boardmasters"
+      "#DevonWeather"
      ]
     }
    ]
   },
   {
-   "id": "the-hundred-aug8-9",
+   "id": "the-hundred-aug8-16",
    "off": 0,
    "type": "sport",
    "hot": true,
    "title": "The Hundred Cricket Continues",
-   "blurb": "The Hundred cricket tournament sees double-header matches today, including MI London vs Trent Rockets at The Oval, and Southern Brave vs Manchester Super Giants at Rose Bowl, with more games tomorrow and the final on August 16.",
+   "blurb": "The Hundred cricket competition is in full swing across the UK, with men's and women's matches today and throughout the week, leading up to the finals on Sunday, August 16th.",
    "source": {
     "l": "The Hundred Official Site",
     "u": "https://www.thehundred.com/"
@@ -82,108 +89,144 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Today's Action",
-     "for": "",
-     "copy": "Big day in The Hundred today! MI London take on Trent Rockets at The Oval, while Southern Brave host Manchester Super Giants. Who are you backing?",
+     "name": "Weekend Matches",
+     "copy": "The Hundred is back this weekend with more explosive cricket! Catch the action today and tomorrow as teams battle for a spot in next week's finals.",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "threads"
      ],
-     "time": "14:00",
+     "time": "12:00",
      "tags": [
       "#TheHundred"
      ]
     },
     {
-     "name": "Weekend Cricket",
-     "for": "Nation Radio London",
-     "copy": "Lord's is ready! London Spirit face Birmingham Phoenix tomorrow in The Hundred. Who's heading to the Home of Cricket?",
+     "name": "Welsh Fire Update",
+     "for": "welsh-local",
+     "copy": "Huge week for Welsh Fire in The Hundred! They're in action again with key matches this weekend and early next week at Sophia Gardens. Can they make the final?",
      "channels": [
       "instagram",
+      "facebook",
       "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#WelshFire"
+     ]
+    },
+    {
+     "name": "Road to the Final",
+     "copy": "The Hundred finals are just over a week away! Who are you backing to lift the trophy on August 16th? Every match counts now!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
      ],
      "time": "10:00",
      "tags": [
-      "#LondonSpirit"
+      "#Cricket"
      ]
     }
    ]
   },
   {
-   "id": "european-athletics-birmingham",
-   "off": 2,
-   "type": "sport",
+   "id": "boardmasters-festival-aug2026",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "European Athletics Championships Start",
-   "blurb": "The European Athletics Championships kick off in Birmingham on Monday, August 10th, bringing a week of world-class track and field to the UK for the first time.",
+   "title": "Boardmasters Festival Wraps Up",
+   "blurb": "Boardmasters Festival, the UK's premier surf and music event, is in its final days in Newquay, Cornwall, with the last acts and surf competitions wrapping up on Sunday, August 9th.",
    "source": {
-    "l": "Birmingham 2026 European Athletics",
-    "u": "https://www.birmingham2026.com/"
+    "l": "Boardmasters Official",
+    "u": "https://www.boardmasters.com/"
    },
    "fits": [
     {
-     "g": "nation-network",
+     "g": "radio-exe",
      "sub": ""
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio South"
+     "sub": "Nation Radio Westcountry"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Countdown to Gold",
-     "for": "",
-     "copy": "Team GB ready to shine! The European Athletics Championships begin in Birmingham on Monday. What events are you most excited to watch?",
+     "name": "Final Day Vibes",
+     "copy": "Last chance to catch the incredible vibes at Boardmasters! Who's heading down to Newquay for the final day of music, surf, and sun?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "tiktok"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#EuroAthletics2026"
+      "#Boardmasters"
      ]
     },
     {
-     "name": "Birmingham Buzz",
-     "for": "Nation Radio South",
-     "copy": "Birmingham's Alexander Stadium is about to host Europe's best athletes! Get ready for a week of incredible track and field action from Monday.",
+     "name": "Cornwall Calling",
+     "for": "nation-network",
+     "copy": "The Cornish coast is alive with the sound of Boardmasters! Don't miss the final day of epic performances and world-class surfing at Watergate Bay.",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x"
      ],
      "time": "13:00",
      "tags": [
-      "#Birmingham2026"
+      "#Newquay"
+     ]
+    },
+    {
+     "name": "Devon & Cornwall Party",
+     "for": "radio-exe",
+     "copy": "Boardmasters is bringing the party to a close in Newquay this weekend! Shout out if you're there or wish you were!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Boardmasters2026"
      ]
     }
    ]
   },
   {
-   "id": "carabao-cup-efl-kickoff",
+   "id": "maiden-voyage-eastern-electrics-aug2026",
    "off": 0,
-   "type": "sport",
+   "type": "gig",
    "hot": true,
-   "title": "Carabao Cup First Round & EFL Kick-off",
-   "blurb": "The Carabao Cup First Round is underway this weekend, with West Ham United facing Portsmouth today, ahead of the EFL Championship season starting August 14-16.",
+   "title": "London Dance Festivals This Weekend",
+   "blurb": "Maiden Voyage Festival takes over Burgess Park in London today, August 8th, followed by Eastern Electrics at the same venue tomorrow, August 9th, featuring top electronic artists.",
    "source": {
-    "l": "EFL Official Site",
-    "u": "https://www.efl.com/"
+    "l": "Resident Advisor",
+    "u": "https://ra.co/festivals/uk"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     },
     {
      "g": "nation-network",
@@ -192,42 +235,101 @@
    ],
    "angles": [
     {
-     "name": "Cup Fever",
-     "for": "Nation Radio London",
-     "copy": "It's Carabao Cup First Round weekend! West Ham are in action today against Portsmouth. Who's getting an early taste of cup magic?",
+     "name": "Burgess Park Buzz",
+     "copy": "Burgess Park is THE place to be this weekend for electronic music fans! Maiden Voyage today, then Eastern Electrics tomorrow. Who's got their tickets?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "tiktok"
      ],
-     "time": "14:30",
+     "time": "11:00",
      "tags": [
-      "#CarabaoCup"
+      "#LondonGigs"
      ]
     },
     {
-     "name": "Football's Back",
-     "for": "",
-     "copy": "The EFL season is almost here! Championship kicks off next week, but the Carabao Cup first round is happening right now. Who are you hoping goes all the way?",
+     "name": "Dance All Weekend",
+     "for": "decades-genres",
+     "copy": "Your weekend soundtrack sorted! Maiden Voyage and Eastern Electrics are bringing the beats to London's Burgess Park. Get ready to move!",
      "channels": [
+      "instagram",
+      "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "14:00",
      "tags": [
-      "#EFL"
+      "#ElectronicMusic"
      ]
     }
    ]
   },
   {
-   "id": "the-edge-birthday",
+   "id": "community-shield-aug16",
+   "off": 8,
+   "type": "sport",
+   "hot": true,
+   "title": "Community Shield Countdown",
+   "blurb": "The 2026 Community Shield, the traditional curtain-raiser for the English football season, takes place on Sunday, August 16th, at Principality Stadium in Cardiff, featuring Premier League champions Arsenal against FA Cup holders Manchester City.",
+   "source": {
+    "l": "Premier League Official",
+    "u": "https://www.premierleague.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Season Kick-Off",
+     "copy": "Only 8 days until the official start of the English football season! Arsenal vs Man City in the Community Shield. Who's taking home the first silverware?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Cardiff Hosts Big Game",
+     "for": "welsh-local",
+     "copy": "Principality Stadium in Cardiff is set to host the Community Shield next Sunday! Huge game between Arsenal and Man City right here in Wales. Get ready!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#CardiffFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-edge-bday-aug8",
    "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Happy 65th to The Edge",
-   "blurb": "U2's iconic guitarist, The Edge (David Evans), celebrates his 65th birthday today.",
+   "blurb": "U2 guitarist The Edge (David Evans) celebrates his 65th birthday today, August 8th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/The_Edge"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august8.html"
    },
    "fits": [
     {
@@ -241,107 +343,6 @@
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar Hero",
-     "for": "Nation Rocks",
-     "copy": "Wishing a very happy 65th birthday to the legendary U2 guitarist, The Edge! What's your favourite U2 riff?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#TheEdge"
-     ]
-    },
-    {
-     "name": "U2 Classic",
-     "for": "Nation 80s",
-     "copy": "From 'With or Without You' to 'Sunday Bloody Sunday', The Edge's guitar sound is unmistakable. Happy 65th to the U2 legend!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#U2"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "suzanne-vega-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 67th to Suzanne Vega",
-   "blurb": "American singer-songwriter Suzanne Vega, known for hits like 'Luka' and 'Tom's Diner', turns 67 on Monday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Suzanne_Vega"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Icon",
-     "for": "Nation 80s",
-     "copy": "Happy 67th birthday on Monday to the brilliant Suzanne Vega! 'Luka' is still as powerful today as it was in the 80s.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#SuzanneVega"
-     ]
-    },
-    {
-     "name": "Timeless Songwriter",
-     "for": "Nation Classic Hits",
-     "copy": "Celebrating the birthday of the incredible Suzanne Vega this Monday. Her unique storytelling has graced our airwaves for decades!",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#TomsDiner"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mark-knopfler-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 77th to Mark Knopfler",
-   "blurb": "Dire Straits frontman and guitar maestro Mark Knopfler celebrates his 77th birthday on Wednesday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
@@ -351,48 +352,154 @@
    "angles": [
     {
      "name": "Guitar Legend",
-     "for": "Nation Rocks",
-     "copy": "Happy 77th birthday to the one and only Mark Knopfler on Wednesday! Dire Straits' 'Sultans of Swing' remains a guitar masterclass.",
+     "copy": "Happy 65th Birthday to U2's iconic guitarist, The Edge! What's your favourite U2 riff or song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#TheEdge"
+     ]
+    },
+    {
+     "name": "U2 Memories",
+     "copy": "From 'With Or Without You' to 'Vertigo', The Edge's unique sound has defined U2 for decades. Celebrating his 65th today!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
-     "tags": [
-      "#MarkKnopfler"
-     ]
-    },
-    {
-     "name": "Dire Straits Hits",
-     "for": "Nation 80s",
-     "copy": "Money for Nothing, Walk of Life, Brothers in Arms... Mark Knopfler gave us so many anthems. Wishing him a very happy 77th birthday this Wednesday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
      "time": "13:00",
      "tags": [
-      "#DireStraits"
+      "#U2"
      ]
     }
    ]
   },
   {
-   "id": "madonna-birthday",
-   "off": 8,
+   "id": "shawn-mendes-bday-aug8",
+   "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 68th to Madonna",
-   "blurb": "The Queen of Pop, Madonna, will celebrate her 68th birthday on Friday, August 16th.",
+   "hot": true,
+   "title": "Shawn Mendes Turns 28",
+   "blurb": "Canadian pop superstar Shawn Mendes celebrates his 28th birthday today, August 8th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Madonna_(entertainer)"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august8.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star Birthday",
+     "copy": "Happy 28th Birthday to the one and only Shawn Mendes! What's your favourite track from the 'Stitches' singer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#ShawnMendes"
+     ]
+    },
+    {
+     "name": "Mendes Playlist",
+     "copy": "Celebrating Shawn Mendes turning 28 today! Time to put 'Senorita' on repeat.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jc-chasez-bday-aug8",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "JC Chasez is 50!",
+   "blurb": "Former *NSYNC member JC Chasez turns 50 today, August 8th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august8.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Boyband Icon",
+     "copy": "No, no, NO! It's not a lie! JC Chasez of *NSYNC is 50 today! Which *NSYNC hit is still on your playlist?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#NSYNC"
+     ]
+    },
+    {
+     "name": "Pop Throwback",
+     "copy": "From boyband heartthrob to solo artist, celebrating JC Chasez's 50th birthday today! Feeling old yet?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#90sPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scott-stapp-bday-aug8",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Creed's Scott Stapp Turns 53",
+   "blurb": "Scott Stapp, lead singer of the multi-platinum rock band Creed, celebrates his 53rd birthday today, August 8th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august8.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -400,124 +507,13 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Pop Queen",
-     "for": "Nation 80s",
-     "copy": "Get ready to celebrate the Queen of Pop! Madonna turns 68 next Friday. What's your all-time favourite Madonna track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Madonna"
-     ]
-    },
-    {
-     "name": "Iconic Hits",
-     "for": "Nation Hits",
-     "copy": "From 'Like a Virgin' to 'Vogue', Madonna's influence is undeniable. Wishing her a very happy 68th birthday next Friday!",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#QueenOfPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "belinda-carlisle-birthday",
-   "off": 9,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 68th to Belinda Carlisle",
-   "blurb": "Former Go-Go's frontwoman and solo star Belinda Carlisle celebrates her 68th birthday on Saturday, August 17th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Belinda_Carlisle"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Heaven Is A Place",
-     "for": "Nation 80s",
-     "copy": "Oh-oh-oh heaven is a place on Earth! Happy 68th birthday to the fabulous Belinda Carlisle next Saturday. What's your favourite of her hits?",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BelindaCarlisle"
-     ]
-    },
-    {
-     "name": "Go-Go's & Solo",
-     "for": "Nation Classic Hits",
-     "copy": "From The Go-Go's punk-pop to her iconic solo career, Belinda Carlisle has had us dancing for decades. Happy 68th next Saturday!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#GoGos"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "school-summer-holidays",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK School Summer Holidays Continue",
-   "blurb": "School summer holidays are ongoing across the UK, with most schools in England and Northern Ireland breaking until late August, while some in Wales and Scotland begin to return next week.",
-   "source": {
-    "l": "Gov.uk School Term Dates",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Holiday Fun",
-     "for": "",
-     "copy": "The summer holidays roll on! Are you still making the most of the break, or are you starting to think about the new school year? Let us know!",
+     "name": "Rock Voice",
+     "copy": "Can you take me higher? Happy 53rd Birthday to Creed frontman Scott Stapp! What's your favourite Creed anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -525,43 +521,39 @@
      ],
      "time": "10:00",
      "tags": [
-      "#SummerHolidays"
+      "#Creed"
      ]
     },
     {
-     "name": "Back to School Prep",
-     "for": "welsh-local",
-     "copy": "Some schools in Wales are heading back next week! If you're getting ready for the return, what's top of your 'back to school' shopping list?",
+     "name": "Post-Grunge Icon",
+     "copy": "Celebrating the distinctive voice of Scott Stapp from Creed, who turns 53 today. Still rocking out to their classics!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#WalesSchools"
+      "#RockMusic"
      ]
     }
    ]
   },
   {
-   "id": "palace-bowl-roots-picnic",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "The Roots Picnic in London",
-   "blurb": "The legendary Roots Picnic festival makes its international debut at Crystal Palace Bowl in London this weekend, August 8-9, bringing a blend of hip hop, music, and culture.",
+   "id": "kurtis-blow-bday-aug9",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Kurtis Blow's 67th Birthday",
+   "blurb": "Pioneering rapper and hip-hop icon Kurtis Blow (Kurt Walker) celebrates his 67th birthday tomorrow, August 9th.",
    "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/palace-bowl-presents"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august9.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
@@ -570,60 +562,8 @@
    ],
    "angles": [
     {
-     "name": "London Groove",
-     "for": "Nation Radio London",
-     "copy": "Crystal Palace Bowl is buzzing this weekend as The Roots Picnic lands in London for its international debut! Who's there for the vibes?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#RootsPicnicLondon"
-     ]
-    },
-    {
-     "name": "Hip Hop & Culture",
-     "for": "Nation Hits",
-     "copy": "A huge weekend for music lovers in London as The Roots Picnic brings world-class hip hop and culture to the Crystal Palace Bowl. What's on your playlist today?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#LondonGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-aug2026",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "UK Official Singles Chart Update",
-   "blurb": "The UK Official Singles Chart is updated today, revealing the biggest tracks in the country and who is battling for the top spot this week.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Battle",
-     "for": "Nation Hits",
-     "copy": "It's Friday, which means a new UK Official Singles Chart! Who do you think is number one this week? Drop your predictions below!",
+     "name": "Hip-Hop Pioneer",
+     "copy": "Tomorrow, we celebrate the 67th birthday of a true legend, Kurtis Blow! What's your favourite track from the 'Breaks' hitmaker?",
      "channels": [
       "instagram",
       "facebook",
@@ -631,20 +571,151 @@
      ],
      "time": "17:00",
      "tags": [
-      "#OfficialCharts"
+      "#KurtisBlow"
      ]
     },
     {
-     "name": "Weekend Playlist",
-     "for": "",
-     "copy": "Fresh music for the weekend! The UK Singles Chart has just dropped. What new tracks are you adding to your playlist?",
+     "name": "80s Rap Royalty",
+     "copy": "Getting ready to celebrate Kurtis Blow's 67th tomorrow! A pioneer who helped shape the sound of hip-hop.",
      "channels": [
-      "x",
-      "tiktok"
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "18:00",
      "tags": [
-      "#NewMusicFriday"
+      "#80sHipHop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-aug27-30",
+   "off": 19,
+   "type": "gig",
+   "hot": true,
+   "title": "Reading & Leeds Festivals Approaching",
+   "blurb": "Reading & Leeds Festivals, two of the UK's biggest music events, are just weeks away, taking place from August 27th-30th, featuring headliners like Charli XCX, Dave, Florence + The Machine, Fontaines D.C., Chase & Status Live, and Raye.",
+   "source": {
+    "l": "Reading & Leeds Official",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Excitement Builds",
+     "copy": "The countdown is ON for Reading & Leeds! Who are you most excited to see at the end of August?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Headliner Hype",
+     "copy": "Charli XCX, Dave, Florence + The Machine... Reading & Leeds is bringing some serious talent this year! Get your festival prep started.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#FestivalSeason"
+     ]
+    },
+    {
+     "name": "Leeds Local Buzz",
+     "for": "nation-network",
+     "copy": "Yorkshire, are you ready? Leeds Festival is just around the corner! Who's joining the party at Bramham Park?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#LeedsFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "creamfields-aug27-30",
+   "off": 19,
+   "type": "gig",
+   "hot": true,
+   "title": "Creamfields Festival on the Horizon",
+   "blurb": "Creamfields, one of the UK's largest electronic music festivals, is set to take place from August 27th-30th in Daresbury, Cheshire, featuring a massive line-up of leading DJs and electronic acts.",
+   "source": {
+    "l": "Creamfields Official",
+    "u": "https://www.creamfields.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North West"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Festival Countdown",
+     "copy": "Creamfields is almost here! Get ready for four days of non-stop electronic music in Daresbury. Who's got their tickets and their dancing shoes ready?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Creamfields"
+     ]
+    },
+    {
+     "name": "Cheshire's Biggest Party",
+     "for": "nation-network",
+     "copy": "Cheshire, get ready to rave! Creamfields is just weeks away, bringing the biggest names in dance music to Daresbury.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#DanceMusic"
      ]
     }
    ]
