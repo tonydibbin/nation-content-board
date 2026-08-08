@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-08T12:19:43.494Z",
+ "updated": "2026-08-08T13:36:32.401Z",
  "moments": [
   {
-   "id": "the-hundred-finals-build",
-   "off": 8,
+   "id": "carabao-cup-r1",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "The Hundred Finals Day Approaching",
-   "blurb": "The Hundred Men's and Women's competitions are nearing their climax, with Finals Day scheduled for Sunday, August 16, 2026, at Lord's.",
+   "title": "Carabao Cup Round One Kicks Off",
+   "blurb": "The first round of the Carabao Cup is underway this weekend, seeing EFL clubs battle it out for a spot in the next stage of the prestigious knockout competition.",
    "source": {
-    "l": "The Hundred Official Website",
-    "u": "https://www.thehundred.com/"
+    "l": "EFL Official Site",
+    "u": "https://www.efl.com"
    },
    "fits": [
     {
@@ -19,570 +19,134 @@
     },
     {
      "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
+     "sub": ""
     },
     {
      "g": "dragon",
-     "sub": "Dragon Radio"
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Finals Countdown",
-     "copy": "It's all building to Finals Day! The Hundred is almost at its thrilling conclusion this weekend at Lord's. Who are you backing to lift the trophy?",
+     "name": "General UK",
+     "copy": "The Carabao Cup Round One action is LIVE this weekend! Who are you backing to make it through to the next stage?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "10:00",
+     "tags": [
+      "#CarabaoCup"
+     ]
+    },
+    {
+     "name": "Welsh Local Focus",
+     "for": "welsh-local",
+     "copy": "It's Carabao Cup weekend! Are you cheering on Cardiff City, Swansea City, Wrexham or another Welsh side in Round One?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#CarabaoCup",
+      "#WelshFootball"
+     ]
+    },
+    {
+     "name": "Exeter Local Focus",
+     "for": "radio-exe",
+     "copy": "Exeter City are in Carabao Cup Round One action this weekend! Sending all the good vibes to the Grecians for a strong start to their cup run.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:45",
+     "tags": [
+      "#CarabaoCup",
+      "#ExeterCity"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hundred-matches",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred Continues This Weekend",
+   "blurb": "The 100-ball cricket competition, The Hundred, is in full swing with matches scheduled across the UK, including today's double-headers.",
+   "source": {
+    "l": "The Hundred Official Site",
+    "u": "https://www.thehundred.com"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "General Cricket",
+     "copy": "It's another busy weekend for The Hundred! Who's your pick for today's big clashes? MI London, Trent Rockets, Southern Brave or Manchester Super Giants?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
      "tags": [
       "#TheHundred"
      ]
     },
     {
-     "name": "Welsh Fire Focus",
+     "name": "Welsh Fire Angle",
      "for": "welsh-local",
-     "copy": "Welsh Fire are still in the mix for The Hundred! Keep an eye on their final push towards Finals Day this weekend. Can they bring the title home?",
+     "copy": "Are you watching The Hundred this weekend? No Welsh Fire today, but plenty of action to keep you gripped ahead of their next match!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "11:30",
      "tags": [
+      "#TheHundred",
       "#WelshFire"
      ]
     }
    ]
   },
   {
-   "id": "rugby-preseason-cardiff-exeter",
-   "off": 0,
-   "type": "sport",
-   "hot": false,
-   "title": "Rugby Pre-Season Kicks Off Talk",
-   "blurb": "Cardiff Rugby has announced pre-season fixtures including a home game against Exeter Chiefs on September 19, with the URC season starting late September.",
-   "source": {
-    "l": "Cardiff Rugby",
-    "u": "https://www.cardiffrugby.wales/news/cardiff-confirm-2026-pre-season-schedule"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "dragon",
-     "sub": "Dragon Radio"
-    },
-    {
-     "g": "radio-exe",
-     "sub": "Radio Exe"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cardiff Rugby Pre-Season",
-     "for": "welsh-local",
-     "copy": "Pre-season buzz is building for Cardiff Rugby! They're facing Worcester Warriors on Sept 5 and Exeter Chiefs on Sept 19. Ready for the new season?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#CardiffRugby"
-     ]
-    },
-    {
-     "name": "Exeter Chiefs on Tour",
-     "for": "radio-exe",
-     "copy": "Exeter Chiefs are heading to Cardiff for a pre-season clash on September 19! Get ready for some cross-border rugby action.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#ExeterChiefs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "welsh-rugby-future",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Welsh Rugby Restructure Debate",
-   "blurb": "The Welsh Rugby Union's decision to reduce professional teams from four to three by 2028-29 is making every Welsh derby match this season highly significant, with the licensing process starting in December.",
-   "source": {
-    "l": "FloRugby",
-    "u": "https://www.florugby.com/articles/11674404-welsh-rugby-derby-schedule-2026-27"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Future of Welsh Rugby",
-     "copy": "Every Welsh derby this season just got even bigger. With the WRU's restructure plans, these games could shape the future of professional rugby in Wales. The stakes are high!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#WelshRugby"
-     ]
-    },
-    {
-     "name": "Derby Day Drama",
-     "copy": "Beyond the points, every Welsh derby now carries the weight of the future. Which clubs will secure their license for 2028-29? The conversation is heating up.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#URC"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-transfers",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Transfer Window Buzz",
-   "blurb": "Transfer rumours are swirling in the Premier League, with Arsenal linked to Bradley Barcola and Manchester City reportedly exploring a move for Enzo Fernandez amid Rodri's potential departure.",
-   "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/news/11095/13190874/bradley-barcola-transfer-news-arsenal-could-hijack-liverpools-move-for-psg-winger-paper-talk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Transfer Window Frenzy",
-     "copy": "The Premier League transfer rumour mill is in overdrive! Who's making the biggest moves, and who's just making headlines? Keep up with all the latest speculation.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#TransferWindow"
-     ]
-    },
-    {
-     "name": "Arsenal & Man City Rumours",
-     "copy": "Arsenal eyeing Barcola, Man City looking at Enzo Fernandez... the Premier League transfer gossip is heating up. Your club doing any big business?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#PremierLeague"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "world-athletics-london-bid",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "London Bids for 2029 World Athletics Championships",
-   "blurb": "London has officially submitted its bid to host the 2029 World Athletics Championships, with a decision expected in September.",
-   "source": {
-    "l": "UK Sport",
-    "u": "https://www.uksport.gov.uk/news/uk-sport-welcomes-submission-of-bid-for-2029-world-athletics-championships"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "London's Olympic Legacy",
-     "copy": "Could London host the World Athletics Championships in 2029? The bid is in, and a decision is coming in September. Fingers crossed for a return to the Olympic Stadium!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#London2029"
-     ]
-    },
-    {
-     "name": "Bringing World Athletics Home",
-     "for": "nation-network",
-     "copy": "The UK wants to host the 2029 World Athletics Championships! Imagine the atmosphere. A huge boost for sport nationwide.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#WorldAthletics"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "reading-leeds-festival-build",
-   "off": 19,
-   "type": "gig",
-   "hot": true,
-   "title": "Reading & Leeds Festival Build-Up",
-   "blurb": "The Reading & Leeds Festivals are just over two weeks away, taking place from August 27-30, 2026, featuring a diverse lineup including Charli XCX, Fontaines D.C., Florence + The Machine, Skepta, and Loyle Carner.",
-   "source": {
-    "l": "Reading Festival Official",
-    "u": "https://www.readingfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Countdown",
-     "copy": "Reading & Leeds is just around the corner! Who are you most excited to see on the lineup this year? The countdown is on!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Your Festival Anthems",
-     "copy": "Getting hyped for Reading & Leeds? What tracks from this year's lineup are going straight onto your festival playlist?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#FestivalVibes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shawn-mendes-birthday",
+   "id": "the-edge-bday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 28th Birthday, Shawn Mendes!",
-   "blurb": "Canadian pop sensation Shawn Mendes, known for hits like 'Stitches' and 'Señorita', celebrates his 28th birthday today, August 8, 2026.",
-   "source": {
-    "l": "National Today",
-    "u": "https://nationaltoday.com/shawn-mendes-birthday/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Shawn Mendes Turns 28",
-     "copy": "Happy 28th Birthday to the incredible Shawn Mendes! From Vine star to global superstar, what's your favourite Shawn track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#ShawnMendes"
-     ]
-    },
-    {
-     "name": "A Decade of Shawn",
-     "copy": "It's Shawn Mendes's birthday! Celebrating 28 years and a decade of chart-topping hits and heartfelt lyrics. What's his most iconic song for you?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#HappyBirthdayShawn"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-edge-u2-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 65th Birthday, The Edge!",
-   "blurb": "U2's iconic guitarist, The Edge (David Howell Evans), born in Barking, Essex, celebrates his 65th birthday today, August 8, 2026.",
-   "source": {
-    "l": "Parade",
-    "u": "https://parade.com/1779354/andrea-reiher/u2-the-edge-birthday/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "The Edge Turns 65",
-     "copy": "Happy 65th Birthday to the legendary U2 guitarist, The Edge! His signature sound has defined generations of rock. What's your favourite U2 riff?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#TheEdge"
-     ]
-    },
-    {
-     "name": "U2's Guitar Hero",
-     "copy": "Celebrating The Edge's 65th today! The man who brought us those incredible U2 guitar sounds. Here's to a true rock icon.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#U2"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "joe-jonas-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Joe Jonas Turns 37 Next Week",
-   "blurb": "American singer and actor Joe Jonas, known for the Jonas Brothers and DNCE, will celebrate his 37th birthday on August 15, 2026.",
-   "source": {
-    "l": "National Today",
-    "u": "https://nationaltoday.com/joe-jonas-birthday/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Joe Jonas's Birthday Buzz",
-     "copy": "Get ready to celebrate! Joe Jonas turns 37 next week on August 15th. What's your favourite Jonas Brothers or DNCE track to get the party started?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JoeJonas"
-     ]
-    },
-    {
-     "name": "Jonas Brother Turns 37",
-     "copy": "Next week, Joe Jonas hits 37! From Camp Rock to 'Cake By The Ocean', he's given us some serious bops. Which era of Joe is your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#JonasBrothers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "madonna-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Madonna's 68th Birthday Next Week",
-   "blurb": "The Queen of Pop, Madonna Louise Ciccone, will celebrate her 68th birthday on August 16, 2026.",
-   "source": {
-    "l": "National Today",
-    "u": "https://nationaltoday.com/madonna-birthday/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen of Pop's Birthday",
-     "copy": "Next week, the one and only Madonna turns 68! Get ready to celebrate the enduring legacy of the Queen of Pop. What's her most iconic moment for you?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Madonna"
-     ]
-    },
-    {
-     "name": "Madonna's Influence",
-     "copy": "Celebrating Madonna's birthday next week! Her influence on music, fashion, and culture is undeniable. What's your all-time favourite Madonna track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#QueenOfPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "belinda-carlisle-birthday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Belinda Carlisle Turns 68 Next Week",
-   "blurb": "American singer Belinda Carlisle, lead vocalist of The Go-Go's and a successful solo artist, will celebrate her 68th birthday on August 17, 2026. (Born August 17, 1958).",
+   "title": "The Edge Turns 65",
+   "blurb": "David Howell Evans, better known as The Edge, the iconic guitarist for U2, celebrates his 65th birthday today.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Belinda_Carlisle"
+    "u": "https://en.wikipedia.org/wiki/The_Edge"
    },
    "fits": [
     {
@@ -600,43 +164,48 @@
    ],
    "angles": [
     {
-     "name": "Belinda Carlisle's Big Day",
-     "copy": "Next Monday, Belinda Carlisle turns 68! From The Go-Go's to 'Heaven Is a Place on Earth', she's given us so many anthems. What's your favourite?",
+     "name": "Happy Birthday",
+     "copy": "Happy 65th Birthday to the legendary U2 guitarist, The Edge! What's your favourite U2 riff or song he's shredded on?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#TheEdge",
+      "#U2"
+     ]
+    },
+    {
+     "name": "Guitar Hero",
+     "copy": "The Edge is 65 today! His distinctive guitar sound has shaped generations of rock music. What's the U2 track that instantly makes you think of him?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#BelindaCarlisle"
-     ]
-    },
-    {
-     "name": "Go-Go's Icon",
-     "copy": "Celebrating Belinda Carlisle's birthday next week! The voice of The Go-Go's and a solo superstar. Which of her hits takes you back?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#TheGoGos"
+      "#U2Guitar",
+      "#MusicLegend"
      ]
     }
    ]
   },
   {
-   "id": "summer-holidays-winding-down",
-   "off": 0,
-   "type": "seasonal",
+   "id": "efl-season-start",
+   "off": 6,
+   "type": "sport",
    "hot": true,
-   "title": "Summer Holidays Winding Down",
-   "blurb": "The summer school holidays are ongoing across the UK, with most schools in England and Wales returning in early September, while Scottish schools typically resume earlier in mid-August.",
+   "title": "EFL Season Kicks Off Next Week",
+   "blurb": "The 2026/27 EFL Championship, League One, and League Two seasons officially begin next weekend, August 14-16.",
    "source": {
-    "l": "Icelolly.com",
-    "u": "https://www.icelolly.com/blog/uk-school-holidays-2026-27"
+    "l": "EFL Official Site",
+    "u": "https://www.efl.com"
    },
    "fits": [
     {
@@ -658,87 +227,615 @@
    ],
    "angles": [
     {
-     "name": "Last Weeks of Summer",
-     "copy": "The summer holidays are starting to wind down for many. Have you made the most of the sunshine and long days? Share your favourite summer memory!",
+     "name": "General Excitement",
+     "copy": "The wait is almost over! The new EFL season kicks off next weekend. Which team are you most excited to see in action?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "09:00",
      "tags": [
-      "#SummerHolidays"
+      "#EFL",
+      "#FootballIsBack"
      ]
     },
     {
-     "name": "Back to School Prep",
-     "copy": "For some, it's almost time for the school run again! Are you ready for the return to routine, or clinging onto every last bit of summer freedom?",
+     "name": "Welsh Teams",
+     "for": "welsh-local",
+     "copy": "Championship football is back next weekend! How do you think Cardiff City, Swansea City, and newly promoted Wrexham will fare in the new season?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "16:30",
+     "time": "09:30",
      "tags": [
-      "#BackToSchool"
+      "#EFL",
+      "#WelshFootball"
+     ]
+    },
+    {
+     "name": "Devon Teams",
+     "for": "radio-exe",
+     "copy": "The EFL season returns next weekend! How far can Exeter City and Plymouth Argyle go this campaign?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:45",
+     "tags": [
+      "#EFL",
+      "#DevonFootball"
      ]
     }
    ]
   },
   {
-   "id": "august-bank-holiday-england-wales",
-   "off": 23,
-   "type": "seasonal",
+   "id": "joe-jonas-bday",
+   "off": 7,
+   "type": "birthday",
    "hot": true,
-   "title": "Anticipating August Bank Holiday",
-   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland is still a few weeks away, falling on Monday, August 31, 2026.",
+   "title": "Joe Jonas Turns 37",
+   "blurb": "Joe Jonas, singer from the Jonas Brothers and DNCE, celebrates his 37th birthday on August 15th.",
    "source": {
-    "l": "Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joe_Jonas"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday",
+     "copy": "Wishing a very Happy 37th Birthday to Joe Jonas on August 15th! What's your favourite Jonas Brothers or DNCE track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#JoeJonas",
+      "#JonasBrothers"
+     ]
+    },
+    {
+     "name": "Pop Icon",
+     "copy": "Can you believe Joe Jonas turns 37 on Sunday? From boyband heartthrob to dance-pop sensation, he's given us so many hits! Which one are you playing to celebrate?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#PopMusic",
+      "#DNCE"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hundred-finals",
+   "off": 8,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred Finals Day at Lord's",
+   "blurb": "The Hundred tournament culminates with Finals Day at Lord's on Sunday, August 16th, where both the men's and women's champions will be crowned.",
+   "source": {
+    "l": "Lord's Cricket Ground",
+    "u": "https://www.lords.org"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Finals Excitement",
+     "copy": "It all comes down to this! The Hundred Finals Day is at Lord's this Sunday. Who are you predicting to lift the trophy?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheHundred",
+      "#Cricket"
+     ]
     },
     {
-     "g": "welsh-local",
-     "sub": ""
+     "name": "Grand Finale",
+     "copy": "Get ready for a grand finale! The Hundred's Men's and Women's champions will be decided at Lord's on Sunday. Will your team make it?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FinalsDay",
+      "#LordsCricket"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "donnie-wahlberg-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Donnie Wahlberg Turns 57",
+   "blurb": "Donnie Wahlberg, founding member of New Kids on the Block and actor, celebrates his 57th birthday on August 17th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Donnie_Wahlberg"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
-     "g": "dragon",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     },
     {
-     "g": "radio-exe",
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday",
+     "copy": "Happy 57th Birthday to New Kids on the Block's Donnie Wahlberg on Monday! What's your favourite NKOTB hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#DonnieWahlberg",
+      "#NKOTB"
+     ]
+    },
+    {
+     "name": "Boyband Icon",
+     "copy": "Donnie Wahlberg turns 57 this Monday! From 'Hangin' Tough' to Hollywood, he's done it all. What's the ultimate New Kids on the Block throwback for you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Boyband",
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aphex-twin-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Aphex Twin Turns 55",
+   "blurb": "Richard David James, known professionally as Aphex Twin, the influential electronic musician, celebrates his 55th birthday on August 18th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Aphex_Twin"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday",
+     "copy": "Happy 55th Birthday to the electronic music pioneer, Aphex Twin, on Tuesday! What's your go-to track from the master of experimental sounds?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#AphexTwin",
+      "#ElectronicMusic"
+     ]
+    },
+    {
+     "name": "Dance Legend",
+     "copy": "Aphex Twin turns 55 this Tuesday! His innovative soundscapes changed the game for electronic music. What's your favourite mind-bending track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#IDM",
+      "#DanceMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dennis-elliott-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Dennis Elliott Turns 76",
+   "blurb": "Dennis Elliott, the original drummer for the legendary rock band Foreigner, celebrates his 76th birthday on August 18th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Dennis_Elliott"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday",
+     "copy": "Happy 76th Birthday to Dennis Elliott, the powerhouse original drummer of Foreigner, on Tuesday! What's the Foreigner song you crank up loudest?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#DennisElliott",
+      "#Foreigner"
+     ]
+    },
+    {
+     "name": "Rock Legend",
+     "copy": "Foreigner's original drummer, Dennis Elliott, turns 76 this Tuesday! Celebrate with us by rocking out to your favourite Foreigner anthem.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#ClassicRock",
+      "#Drummer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "everlast-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Everlast Turns 57",
+   "blurb": "Erik Schrody, known as Everlast, the Grammy-winning musician and former frontman of House of Pain, celebrates his 57th birthday on August 18th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Everlast"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday",
+     "copy": "Happy 57th Birthday to Everlast (Erik Schrody) on Tuesday! From 'Jump Around' to 'What It's Like', what's your favourite track from the House of Pain frontman?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#Everlast",
+      "#HouseOfPain"
+     ]
+    },
+    {
+     "name": "Hip Hop & Rock Blend",
+     "copy": "Everlast turns 57 this Tuesday! A true genre-blender, he gave us some unforgettable tunes. Which one are you spinning today?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#90sHipHop",
+      "#AlternativeRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-start",
+   "off": 13,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Season Kicks Off",
+   "blurb": "The 2026/27 Premier League season officially kicks off on Friday, August 21st, with Arsenal entering as defending champions.",
+   "source": {
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Long Weekend Ahead",
-     "copy": "Don't forget, the August Bank Holiday for England and Wales is coming up on the 31st! One more long weekend to enjoy before summer officially fades. What are your plans?",
+     "name": "Season Launch",
+     "copy": "The countdown is ON! The Premier League returns next Friday, August 21st. Who are you backing for the title this season?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "12:30",
+     "time": "10:00",
      "tags": [
-      "#BankHoliday"
+      "#PremierLeague",
+      "#PL"
      ]
     },
     {
-     "name": "Making the Most of It",
-     "copy": "That August Bank Holiday Monday is still on the horizon! What's your ideal way to spend a bonus day off?",
+     "name": "Football Is Back",
+     "copy": "Get ready for kick-off! The Premier League season starts next Friday. What's your bold prediction for the first weekend?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "17:30",
+     "time": "12:00",
      "tags": [
-      "#AugustBankHoliday"
+      "#Football",
+      "#NewSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fender-dean-chart-record",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean's Chart Record",
+   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' made history on July 31st by becoming the longest-running UK number-one single of all time with 19 non-consecutive weeks, and the longest by a British act.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart History",
+     "copy": "History makers! Sam Fender and Olivia Dean's 'Rein Me In' has smashed chart records, becoming the longest-running UK Number One ever! Are you still streaming it?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#OfficialCharts",
+      "#ReinMeIn"
+     ]
+    },
+    {
+     "name": "British Talent",
+     "copy": "Huge congratulations to Sam Fender and Olivia Dean! 'Rein Me In' is officially the longest-running UK No.1 by a British act AND the longest overall. What an achievement!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#SamFender",
+      "#OliviaDean"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "creamfields-festival",
+   "off": 19,
+   "type": "gig",
+   "hot": false,
+   "title": "Creamfields Festival Approaching",
+   "blurb": "Creamfields, one of the UK's biggest electronic music festivals, takes place from August 27-30 in Daresbury, Cheshire, featuring headliners like Calvin Harris and Swedish House Mafia.",
+   "source": {
+    "l": "Creamfields Official Site",
+    "u": "https://www.creamfields.com"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "copy": "Creamfields is just around the corner! Who's heading to Daresbury for the electronic music extravaganza from August 27-30? Expecting big sets from Calvin Harris and Swedish House Mafia!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Creamfields",
+      "#DanceMusic"
+     ]
+    },
+    {
+     "name": "Lineup Hype",
+     "copy": "Dreaming of Creamfields? With Calvin Harris, Disclosure, and Swedish House Mafia on the bill, it's set to be massive! Who are you most excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#FestivalSeason",
+      "#Electronic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-festival",
+   "off": 20,
+   "type": "gig",
+   "hot": false,
+   "title": "Reading & Leeds Festival Approaching",
+   "blurb": "The twin Reading & Leeds Festivals, offering a diverse lineup of rock, indie, pop, and hip-hop, are set for August 27-30.",
+   "source": {
+    "l": "Reading Festival Official Site",
+    "u": "https://www.readingfestival.com"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Vibe",
+     "copy": "Reading & Leeds Festivals are just weeks away! Who's ready for an epic bank holiday weekend of music? What acts are on your must-see list?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#RandL26",
+      "#Festival"
+     ]
+    },
+    {
+     "name": "Local Hype",
+     "for": "nation-network",
+     "copy": "Whether you're heading to Reading or Leeds, the festivals are fast approaching! Get ready for a huge weekend of live music across both sites!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#ReadingFestival",
+      "#LeedsFestival"
      ]
     }
    ]
