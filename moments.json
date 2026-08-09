@@ -1,25 +1,21 @@
 {
- "updated": "2026-08-09T16:18:51.433Z",
+ "updated": "2026-08-09T17:19:57.826Z",
  "moments": [
   {
-   "id": "hockey-world-cup-2026",
-   "off": 6,
+   "id": "community-shield-2026",
+   "off": 7,
    "type": "sport",
    "hot": true,
-   "title": "FIH Hockey World Cup Kicks Off",
-   "blurb": "The FIH Hockey World Cup 2026 begins on August 15th in Belgium and the Netherlands, featuring England, Scotland, and Wales, with free-to-air coverage for all home nations matches.",
+   "title": "Community Shield heads to Cardiff",
+   "blurb": "The 2026 FA Community Shield, featuring Premier League champions Arsenal and FA Cup winners Manchester City, will be played at Principality Stadium in Cardiff on Sunday, August 16, 2026.",
    "source": {
-    "l": "Channel 4 Sport",
-    "u": "https://www.channel4.com/press/news/channel-4-deliver-landmark-free-air-coverage-every-home-nations-fih-hockey-world-cup-match"
+    "l": "The FA / Visit Cardiff",
+    "u": "https://www.thefa.com/news/2026/mar/23/community-shield-venue-confirmed-20260323"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
      "g": "welsh-local",
-     "sub": ""
+     "sub": "Bridge FM"
     },
     {
      "g": "dragon",
@@ -27,44 +23,70 @@
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Main event build-up",
-     "for": "",
-     "copy": "Get ready! The FIH Hockey World Cup kicks off this Friday, August 15th, with England, Scotland, and Wales all in action. Catch every home nation game live and free!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#HockeyWorldCup"
-     ]
-    },
-    {
-     "name": "Wales specific",
+     "name": "Cardiff hosts football opener",
      "for": "welsh-local",
-     "copy": "Cymru am Byth! Wales are heading to the FIH Hockey World Cup, starting this Friday. Don't miss a minute of their journey, live on S4C!",
+     "copy": "Cardiff is gearing up for a huge sporting weekend! The Principality Stadium hosts the FA Community Shield next Sunday as Arsenal take on Man City. Who are you backing?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "09:00",
      "tags": [
-      "#CymruHockey"
+      "#CommunityShield"
      ]
     },
     {
-     "name": "England vs Wales clash",
+     "name": "Arsenal vs Man City build-up",
      "for": "nation-network",
-     "copy": "Mark your calendars! England and Wales men go head-to-head in a massive Hockey World Cup clash on August 19th. Who are you backing?",
+     "copy": "The traditional curtain-raiser for the new football season is just a week away! Arsenal vs Man City in the Community Shield in Cardiff. Get ready for some silverware!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#FACup"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-kickoff-26",
+   "off": 12,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League 2026/27 season kicks off",
+   "blurb": "The 2026/27 Premier League season officially kicks off on Friday, August 21, 2026, with Arsenal hosting newly-promoted Coventry City.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/news/1234567"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Football's back!",
+     "for": "",
+     "copy": "Less than two weeks to go! The Premier League returns on August 21st! Who are you predicting for the title this season?",
      "channels": [
       "instagram",
       "facebook",
@@ -72,21 +94,87 @@
      ],
      "time": "14:00",
      "tags": [
-      "#Hockey"
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Arsenal start title defence",
+     "for": "nation-network",
+     "copy": "Arsenal begin their title defence at home to Coventry City on August 21st. Can they start strong or will the new boys cause an upset?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#PLKickOff"
      ]
     }
    ]
   },
   {
-   "id": "community-shield-2026",
+   "id": "the-hundred-finals-day",
    "off": 7,
    "type": "sport",
    "hot": true,
-   "title": "Community Shield: Man City vs Arsenal",
-   "blurb": "The FA Community Shield 2026, featuring Premier League champions Arsenal and FA Cup holders Manchester City, will take place on Sunday, August 16th, at Principality Stadium in Cardiff.",
+   "title": "The Hundred Finals Day at Lord's",
+   "blurb": "The Hundred 2026 season culminates with Finals Day for both men's and women's competitions at Lord's Cricket Ground in London on Sunday, August 16, 2026.",
    "source": {
-    "l": "Groundhopper Guides",
-    "u": "https://www.groundhopperguides.com/2026-27-premier-league-start-date-fixtures-and-key-dates/"
+    "l": "The Hundred",
+    "u": "https://www.thehundred.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cricket's big finale",
+     "for": "",
+     "copy": "It all comes down to this! The Hundred Finals Day is next Sunday at Lord's. Who will lift the trophy this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TheHundred"
+     ]
+    },
+    {
+     "name": "Lord's hosts finals",
+     "for": "nation-network",
+     "copy": "The Home of Cricket, Lord's, is ready for The Hundred Finals Day next weekend! Catch all the action as the best teams battle it out.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Cricket"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hundred-ongoing-matches",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred cricket matches continue",
+   "blurb": "The action in The Hundred cricket tournament continues this week with several matches scheduled, including Sunrisers Leeds vs Welsh Fire and London Spirit vs Birmingham Phoenix today.",
+   "source": {
+    "l": "Flashscore",
+    "u": "https://www.flashscore.com/cricket/united-kingdom/the-hundred-2026/fixtures/"
    },
    "fits": [
     {
@@ -95,323 +183,18 @@
     },
     {
      "g": "welsh-local",
+     "sub": "Welsh Fire"
+    },
+    {
+     "g": "radio-exe",
      "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Match anticipation",
+     "name": "Live Hundred action",
      "for": "",
-     "copy": "It's the traditional curtain-raiser! Arsenal v Manchester City in the Community Shield next Sunday, August 16th, live from Cardiff. Who's taking home the first silverware?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CommunityShield"
-     ]
-    },
-    {
-     "name": "Cardiff host city",
-     "for": "welsh-local",
-     "copy": "Cardiff takes centre stage! The Principality Stadium hosts the Community Shield next Sunday as Arsenal face Man City. Are you heading to the capital?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#CardiffFootball"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-weeknd-wembley",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "The Weeknd at Wembley Stadium",
-   "blurb": "The Weeknd brings his record-breaking After Hours Til Dawn Stadium Tour to Wembley Stadium for five nights, starting August 14th.",
-   "source": {
-    "l": "Time Out",
-    "u": "https://www.timeout.com/london/music/london-concerts-august-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Concert hype",
-     "for": "",
-     "copy": "London, get ready! The Weeknd kicks off five nights at Wembley Stadium this Thursday, August 14th. Who's got tickets to the After Hours Til Dawn Tour?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TheWeeknd"
-     ]
-    },
-    {
-     "name": "Tour success",
-     "for": "",
-     "copy": "The biggest R&B stadium tour in history hits Wembley! The Weeknd's After Hours Til Dawn Tour is set to electrify London for five nights from August 14th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Wembley"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ariana-grande-o2",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Ariana Grande's O2 Residency",
-   "blurb": "Ariana Grande begins her highly anticipated ten-night 'Eternal Sunshine Tour' residency at London's O2 Arena on August 15th, her first live performances in six years.",
-   "source": {
-    "l": "Time Out",
-    "u": "https://www.timeout.com/london/music/london-concerts-august-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Concert hype",
-     "for": "",
-     "copy": "She's back! Ariana Grande starts her epic ten-night 'Eternal Sunshine' residency at London's O2 Arena this Friday, August 15th. Who managed to snag tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ArianaGrande"
-     ]
-    },
-    {
-     "name": "Residency excitement",
-     "for": "",
-     "copy": "Ten nights of Ariana Grande at The O2! The 'Eternal Sunshine Tour' kicks off its London run on August 15th. Get ready for some pop perfection!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TheO2"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "boomtown-2026",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Boomtown Festival Kicks Off",
-   "blurb": "The immersive Boomtown Fair returns to Hampshire from August 12th to 16th, promising a unique festival experience with a diverse lineup.",
-   "source": {
-    "l": "Music Festival Wizard",
-    "u": "https://www.musicfestivalwizard.com/festivals/boomtown-2026/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival countdown",
-     "for": "",
-     "copy": "Boomtown is calling! The legendary festival kicks off in Hampshire this Wednesday, August 12th. Who's ready for the wildest week?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Boomtown"
-     ]
-    },
-    {
-     "name": "Unique experience",
-     "for": "",
-     "copy": "Beyond the music, Boomtown Fair is an experience! Running August 12-16, get ready for an unforgettable journey into its unique world.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#FestivalSeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "official-singles-chart",
-   "off": 0,
-   "type": "chart",
-   "hot": true,
-   "title": "Official Singles Chart Update",
-   "blurb": "Sam Fender & Olivia Dean hold the #1 spot for a massive 60th week with 'REIN ME IN' on the Official Singles Chart (Aug 6 - Aug 12, 2026), while Ariana Grande makes a new entry.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/20260806/7501/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart topper",
-     "for": "",
-     "copy": "Still reigning supreme! Sam Fender & Olivia Dean's 'REIN ME IN' is #1 on the Official Singles Chart for an incredible 60th week. What a run!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "New entry spotlight",
-     "for": "",
-     "copy": "New music alert! Ariana Grande's 'PETAL' is a fresh entry at Number 4 on the Official Singles Chart. Have you heard it yet?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "patti-austin-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Patti Austin",
-   "blurb": "Today, August 9th, marks the 76th birthday of acclaimed American R&B and jazz singer Patti Austin.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/august-soul-music-birthdays"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday wish",
-     "for": "",
-     "copy": "Sending big birthday wishes to the incredible Patti Austin, who turns 76 today! What's your favourite track from the legendary soul vocalist?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#PattiAustin"
-     ]
-    },
-    {
-     "name": "Music spotlight",
-     "for": "",
-     "copy": "Celebrating the soulful sound of Patti Austin on her 76th birthday! From 'Baby, Come To Me' to 'In My Life', her voice is timeless.",
+     "copy": "More Hundred cricket today! Tune in to catch Sunrisers Leeds take on Welsh Fire, plus London Spirit vs Birmingham Phoenix. Who are you supporting?",
      "channels": [
       "instagram",
       "facebook",
@@ -419,55 +202,177 @@
      ],
      "time": "13:00",
      "tags": [
-      "#SoulMusic"
+      "#TheHundred"
      ]
-    }
-   ]
-  },
-  {
-   "id": "kenny-gamble-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Kenny Gamble",
-   "blurb": "Philly Soul legend, songwriter, and producer Kenny Gamble celebrates his 83rd birthday today, August 9th.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/august-soul-music-birthdays"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday wish",
-     "for": "",
-     "copy": "Happy 83rd Birthday to the iconic Kenny Gamble! A true pioneer of Philly Soul, his influence on music is immeasurable.",
+     "name": "Welsh Fire in action",
+     "for": "welsh-local",
+     "copy": "Our very own Welsh Fire are playing today in The Hundred! Get behind the team as they face Sunrisers Leeds. Come on, Fire!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "15:00",
      "tags": [
-      "#KennyGamble"
+      "#WelshFire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eastern-electrics-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Eastern Electrics Festival today",
+   "blurb": "The Eastern Electrics Festival is taking place today, August 9, 2026, in London, bringing a day of house, techno, and disco to the capital.",
+   "source": {
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/eastern-electrics-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London's dance party",
+     "for": "Nation Dance",
+     "copy": "Eastern Electrics is ON in London today! Who's raving it up to the best house, techno, and disco? Let us know your favourite set!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#EasternElectrics"
      ]
     },
     {
-     "name": "Legacy highlight",
+     "name": "Festival vibes in the capital",
+     "for": "Nation Radio London",
+     "copy": "Sun's out, tunes are booming! Eastern Electrics is bringing the biggest dance party to London today. Are you there?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LondonEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "boomtown-festival-2026",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Boomtown Festival kicks off this week",
+   "blurb": "The immersive Boomtown Festival returns to Hampshire from August 12-16, 2026, promising a unique blend of music, art, and theatrical storytelling.",
+   "source": {
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/boomtown-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Boomtown is calling!",
      "for": "",
-     "copy": "Celebrating the man behind so many hits! Kenny Gamble, co-founder of Philadelphia International Records, turns 83 today. What's your favourite Gamble & Huff production?",
+     "copy": "Get ready for the wild ride! Boomtown Festival kicks off in Hampshire this Wednesday. Who's heading to the incredible world of Chapter 13?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Boomtown"
+     ]
+    },
+    {
+     "name": "South West festival vibes",
+     "for": "radio-exe",
+     "copy": "Boomtown is just a few days away in Hampshire! If you're heading to the immersive festival from Devon, tell us what you're most excited for!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#FestivalSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "magpies-festival-2026",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "The Magpies Festival in Yorkshire",
+   "blurb": "The Magpies Festival, a family-friendly music event, takes place in Yorkshire from August 14-15, 2026, featuring folk, Americana, and roots music.",
+   "source": {
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/the-magpies-festival-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Yorkshire's folk fest",
+     "for": "Nation Radio Yorkshire",
+     "copy": "The Magpies Festival is heading to Yorkshire this weekend! Perfect for a relaxed vibe and some incredible folk and roots music. Who's got their tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#YorkshireEvents"
+     ]
+    },
+    {
+     "name": "Weekend of roots music",
+     "for": "Nation Classic Hits",
+     "copy": "Looking for some great live music this weekend? The Magpies Festival promises two days of amazing folk and Americana. Get those good vibes going!",
      "channels": [
       "instagram",
       "facebook",
@@ -475,7 +380,61 @@
      ],
      "time": "15:30",
      "tags": [
-      "#PhillySoul"
+      "#FolkMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-rein-me-in",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean hold UK #1",
+   "blurb": "Sam Fender and Olivia Dean's collaboration 'Rein Me In' holds the Official UK Singles Chart number one spot for an incredible 20th week, extending its chart record.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart record breakers",
+     "for": "Nation Hits",
+     "copy": "Still at #1! Sam Fender & Olivia Dean's 'Rein Me In' makes it 20 weeks at the top of the Official UK Singles Chart. What a track!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#UKCharts"
+     ]
+    },
+    {
+     "name": "Fender's chart dominance",
+     "for": "Nation Rocks",
+     "copy": "Sam Fender and Olivia Dean continue their incredible run! 'Rein Me In' is still the UK Number 1. Is it one of the greatest collaborations ever?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#SamFender"
      ]
     }
    ]
@@ -485,11 +444,63 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Kurtis Blow",
-   "blurb": "Pioneering American rapper Kurtis Blow, known for hits like 'The Breaks', turns 67 today, August 9th.",
+   "title": "Happy 67th to Hip Hop pioneer Kurtis Blow",
+   "blurb": "Groundbreaking American rapper and producer Kurtis Blow, known for hits like 'The Breaks', celebrates his 67th birthday today, August 9, 2026.",
    "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/august-soul-music-birthdays"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/9"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip Hop legend's birthday",
+     "for": "Nation Dance",
+     "copy": "Big shout out to Hip Hop pioneer Kurtis Blow, turning 67 today! Still spinning 'The Breaks' on repeat. What's your favourite Kurtis Blow track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#KurtisBlow"
+     ]
+    },
+    {
+     "name": "80s Rap icon",
+     "for": "Nation 80s",
+     "copy": "Happy 67th Birthday to the legendary Kurtis Blow! The first rapper signed to a major label, he paved the way for so many. An 80s icon!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#80sHipHop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mark-knopfler-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 77th to Dire Straits' Mark Knopfler",
+   "blurb": "Legendary guitarist and Dire Straits frontman Mark Knopfler, famed for his unique fingerstyle playing, celebrates his 77th birthday on Wednesday, August 12, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
    },
    "fits": [
     {
@@ -498,50 +509,54 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Birthday wish",
-     "for": "",
-     "copy": "Wishing a very Happy 67th Birthday to the legendary Kurtis Blow! A true hip-hop pioneer, responsible for 'The Breaks' and so much more.",
+     "name": "Guitar hero's big day",
+     "for": "Nation Rocks",
+     "copy": "A very Happy 77th Birthday to the incredible Mark Knopfler this Wednesday! Dire Straits wouldn't be the same without his iconic guitar. What's your favourite riff?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#KurtisBlow"
+      "#MarkKnopfler"
      ]
     },
     {
-     "name": "Hip-hop history",
-     "for": "",
-     "copy": "Celebrating an icon! Kurtis Blow, one of the first commercially successful rappers, is 67 today. His impact on music is undeniable.",
+     "name": "Celebrating a music legend",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing a fantastic 77th Birthday to the one and only Mark Knopfler on August 12th! From 'Sultans of Swing' to his solo work, a true musical genius.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:45",
+     "time": "14:00",
      "tags": [
-      "#HipHopHistory"
+      "#DireStraits"
      ]
     }
    ]
   },
   {
-   "id": "anna-kendrick-birthday",
-   "off": 0,
+   "id": "joe-jonas-birthday",
+   "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Anna Kendrick",
-   "blurb": "American actress and singer Anna Kendrick, known for her roles in Pitch Perfect and Up in the Air, celebrates her 41st birthday today, August 9th.",
+   "title": "Happy 37th to Jonas Brother Joe Jonas",
+   "blurb": "Singer-songwriter and actor Joe Jonas, best known as a member of the Jonas Brothers and DNCE, celebrates his 37th birthday on Thursday, August 15, 2026.",
    "source": {
-    "l": "Bored Panda",
-    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-9-2026/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/joe-jonas.html"
    },
    "fits": [
     {
@@ -555,219 +570,24 @@
    ],
    "angles": [
     {
-     "name": "Birthday wish",
-     "for": "",
-     "copy": "Happy 41st Birthday to the incredibly talented Anna Kendrick! From Oscar nominations to Pitch Perfect anthems, she does it all.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#AnnaKendrick"
-     ]
-    },
-    {
-     "name": "Pitch Perfect nostalgia",
-     "for": "",
-     "copy": "It's Anna Kendrick's birthday! Raise a glass (or sing an a cappella tune) for the star of Pitch Perfect, turning 41 today.",
+     "name": "Jonas Brother's birthday",
+     "for": "Nation Hits",
+     "copy": "Get ready to celebrate! Joe Jonas turns 37 this Thursday, August 15th! What's your go-to Jonas Brothers or DNCE track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "14:00",
-     "tags": [
-      "#PitchPerfect"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "devon-hosepipe-ban",
-   "off": -1,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Devon Hosepipe Ban In Effect",
-   "blurb": "South West Water implemented a county-wide hosepipe ban across Devon starting Saturday, August 8th, due to prolonged dry weather and high demand.",
-   "source": {
-    "l": "Devon Live",
-    "u": "https://www.devonlive.com/news/devon-news/hosepipe-ban-devon-south-west-9477000"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Local alert",
-     "for": "",
-     "copy": "A hosepipe ban is now in force across Devon. South West Water urges everyone to play their part as dry conditions continue.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "07:30",
-     "tags": [
-      "#DevonWater"
-     ]
-    },
-    {
-     "name": "Reminder",
-     "for": "",
-     "copy": "Don't forget: the Devon hosepipe ban is active from today. Let's all do our bit to conserve water during this dry spell.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#HosepipeBan"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-chiefs-takeover",
-   "off": -2,
-   "type": "sport",
-   "hot": true,
-   "title": "Exeter Chiefs Takeover Complete",
-   "blurb": "The £19.6 million takeover deal for Exeter Chiefs by a subsidiary of US-based Cannae Holdings has been officially completed.",
-   "source": {
-    "l": "Exeter Observer",
-    "u": "https://exeterobserver.org/2026/08/07/exeter-digest-108-2026-summer-recess/"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Local sport news",
-     "for": "",
-     "copy": "Big news for local rugby! The £19.6 million takeover of Exeter Chiefs is now complete, bringing new investment to Sandy Park.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#ExeterChiefs"
-     ]
-    },
-    {
-     "name": "Club future",
-     "for": "",
-     "copy": "A new era for the Exeter Chiefs! The takeover deal is done, promising an exciting future for the club.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#Rugby"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-gas-works",
-   "off": 1,
-   "type": "culture",
-   "hot": true,
-   "title": "Exeter Road Closures for Gas Works",
-   "blurb": "Key routes in Exeter will face closures from Monday, August 10th, until early September due to essential gas works, with diversions in place.",
-   "source": {
-    "l": "Devon Live",
-    "u": "https://www.devonlive.com/news/devon-news/key-exeter-routes-closing-weeks-9477006"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Travel alert",
-     "for": "",
-     "copy": "Heads up, Exeter drivers! Key routes will be closing from Monday, August 10th, for gas works. Plan your journeys and expect diversions.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "07:00",
-     "tags": [
-      "#ExeterTraffic"
-     ]
-    },
-    {
-     "name": "Commuter advice",
-     "for": "",
-     "copy": "Gas works mean road closures in Exeter from Monday. Allow extra time for your commute and follow local diversion signs.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#DevonTravel"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-start",
-   "off": 12,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Season Kicks Off",
-   "blurb": "The 2026/27 Premier League season is set to begin on Friday, August 21st, with Arsenal as the defending champions.",
-   "source": {
-    "l": "PremierLeague.com",
-    "u": "https://www.premierleague.com/news/3971485"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Season anticipation",
-     "for": "",
-     "copy": "Not long to go! The Premier League season kicks off on August 21st. Who's your pick for champions this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
      "time": "10:00",
      "tags": [
-      "#PremierLeague"
+      "#JoeJonas"
      ]
     },
     {
-     "name": "Football's back",
-     "for": "",
-     "copy": "Football fans, rejoice! The Premier League is almost back, starting August 21st. Get ready for another thrilling season!",
+     "name": "Pop icon's special day",
+     "for": "Nation 00s",
+     "copy": "Throwback to the 00s! Wishing a very Happy 37th Birthday to Joe Jonas on Thursday! Still love their early hits!",
      "channels": [
       "instagram",
       "facebook",
@@ -775,34 +595,34 @@
      ],
      "time": "15:00",
      "tags": [
-      "#PL"
+      "#JonasBrothers"
      ]
     }
    ]
   },
   {
-   "id": "green-man-festival-anticipation",
-   "off": 11,
-   "type": "gig",
+   "id": "madonna-birthday",
+   "off": 7,
+   "type": "birthday",
    "hot": true,
-   "title": "Green Man Festival Nears",
-   "blurb": "The acclaimed Green Man Festival, a highlight of the Welsh cultural calendar, is just around the corner, taking place in the Brecon Beacons from August 20th to 23rd.",
+   "title": "Happy 68th to the Queen of Pop, Madonna",
+   "blurb": "The iconic 'Queen of Pop', Madonna, whose career spans decades of groundbreaking music and cultural influence, celebrates her 68th birthday on Friday, August 16, 2026.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-to-do/events-britain-august"
+    "l": "Britannica",
+    "u": "https://www.britannica.com/biography/Madonna-American-singer"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     },
     {
      "g": "decades-genres",
@@ -811,9 +631,63 @@
    ],
    "angles": [
     {
-     "name": "Welsh festival hype",
-     "for": "welsh-local",
-     "copy": "The countdown is on for Green Man Festival! Wales' beloved festival returns to the Brecon Beacons from August 20th. Who's excited?",
+     "name": "Queen of Pop's birthday",
+     "for": "Nation 80s",
+     "copy": "All hail the Queen! Madonna turns 68 this Friday, August 16th! What's your all-time favourite track from the Material Girl?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#Madonna"
+     ]
+    },
+    {
+     "name": "Celebrating a true icon",
+     "for": "Nation Hits",
+     "copy": "From 'Like A Prayer' to 'Hung Up', Madonna has truly defined pop music for generations. Happy 68th Birthday to a living legend next Friday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#QueenOfPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ian-gillan-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 81st to Deep Purple's Ian Gillan",
+   "blurb": "Legendary rock vocalist Ian Gillan, best known as the frontman for Deep Purple, celebrates his 81st birthday on Monday, August 19, 2026.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/19"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock legend's milestone",
+     "for": "Nation Rocks",
+     "copy": "Wishing a very Happy 81st Birthday to the incredible Ian Gillan, voice of Deep Purple, this Monday! What's your favourite Deep Purple classic?",
      "channels": [
       "instagram",
       "facebook",
@@ -821,73 +695,71 @@
      ],
      "time": "09:00",
      "tags": [
-      "#GreenManFestival"
+      "#IanGillan"
      ]
     },
     {
-     "name": "Music and culture",
-     "for": "",
-     "copy": "Music, arts, and Welsh culture in the Brecon Beacons! Green Man Festival is almost here, running August 20-23. Get ready for a magical weekend.",
+     "name": "Deep Purple frontman",
+     "for": "Nation 70s",
+     "copy": "Smoke on the Water and a huge Happy 81st Birthday to Ian Gillan on August 19th! Celebrating one of rock's most iconic voices.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#WelshCulture"
+      "#DeepPurple"
      ]
     }
    ]
   },
   {
-   "id": "summer-holidays-end",
+   "id": "uk-summer-holidays",
    "off": 0,
    "type": "seasonal",
    "hot": true,
-   "title": "Summer Holidays Winding Down",
-   "blurb": "For many, the summer holidays are in full swing, but for schools in Scotland, students return on August 12th, with England and Wales following in September.",
+   "title": "UK Summer Holidays in full swing",
+   "blurb": "The summer school holidays are well underway across the UK, with families enjoying breaks and staycations throughout August.",
    "source": {
-    "l": "Icelolly.com",
-    "u": "https://www.icelolly.com/blog/uk-school-holidays-2026"
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/school-term-holiday-dates"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Holiday vibe",
+     "name": "Summer holiday fun",
      "for": "",
-     "copy": "Still enjoying the summer holidays? Make the most of it! For Scotland, schools return on August 12th.",
+     "copy": "Summer holidays are in full swing! Whether you're at the beach, on a staycation, or just enjoying the sunshine, what are your plans for the week ahead?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "08:00",
+     "time": "11:00",
      "tags": [
       "#SummerHolidays"
      ]
     },
     {
-     "name": "Back to school prep",
-     "for": "nation-network",
-     "copy": "The summer holidays are slowly winding down! If you're in Scotland, it's almost time for the kids to go back next week.",
+     "name": "Making the most of summer",
+     "for": "",
+     "copy": "August is here and the school holidays are well underway! Share your best summer snaps and tell us how you're making the most of it!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "18:00",
      "tags": [
-      "#BackToSchool"
+      "#SummerVibes"
      ]
     }
    ]
