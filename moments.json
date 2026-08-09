@@ -1,90 +1,49 @@
 {
- "updated": "2026-08-09T18:20:11.403Z",
+ "updated": "2026-08-09T19:23:14.005Z",
  "moments": [
   {
-   "id": "AlevelResultsDay",
+   "id": "alevelresults",
    "off": 4,
    "type": "education",
    "hot": true,
-   "title": "A-level Results Day",
-   "blurb": "A-level results day in England, Wales and Northern Ireland on August 13, 2026",
+   "title": "A-level results day",
+   "blurb": "A-level results day in England, Wales and Northern Ireland is on 13 August 2026",
+   "source": {
+    "l": "Nation Broadcasting",
+    "u": ""
+   },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": "Nation Radio"
     }
    ],
    "angles": [
     {
      "name": "Results Day",
-     "copy": "The wait is almost over for A-level students as results day is just around the corner",
+     "for": "",
+     "copy": "The wait is almost over for A-level students as results day approaches on 13 August",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "08:00",
      "tags": [
-      "#AlevelResults"
+      "#ALevelResults"
      ]
     },
     {
      "name": "Exam Stress",
-     "copy": "Remember when you had to deal with A-level exam stress? Share your story",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "Results Advice",
-     "copy": "Got your A-level results and not sure what to do next? We've got some expert advice for you",
+     "for": "",
+     "copy": "How do you handle exam stress? Share your tips as A-level results day looms",
      "channels": [
       "instagram",
       "facebook",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "GCSEResultsDay",
-   "off": 11,
-   "type": "education",
-   "hot": true,
-   "title": "GCSE Results Day",
-   "blurb": "GCSE results day in England, Wales and Northern Ireland on August 20, 2026",
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "GCSE Results",
-     "copy": "GCSE students will soon find out their results - how did you feel on results day?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#GCSEResults"
-     ]
-    },
-    {
-     "name": "Next Steps",
-     "copy": "Got your GCSE results and thinking about what to do next? We can help",
-     "channels": [
-      "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "12:00",
@@ -92,11 +51,14 @@
     },
     {
      "name": "Results Day Memories",
-     "copy": "Share your GCSE results day memories with us",
+     "for": "",
+     "copy": "What do you remember about your own A-level results day? Share your stories",
      "channels": [
       "instagram",
       "facebook",
-      "tiktok"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "16:00",
      "tags": []
@@ -104,26 +66,97 @@
    ]
   },
   {
-   "id": "PremierLeagueKickOff",
-   "off": 13,
-   "type": "sport",
+   "id": "gcseresults",
+   "off": 11,
+   "type": "education",
    "hot": true,
-   "title": "Premier League Season Kick Off",
-   "blurb": "The 2026/27 Premier League season starts on August 22, 2026",
+   "title": "GCSE results day",
+   "blurb": "GCSE results day in England, Wales and Northern Ireland is on 20 August 2026",
+   "source": {
+    "l": "Nation Broadcasting",
+    "u": ""
+   },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": "Nation Radio"
     }
    ],
    "angles": [
     {
-     "name": "New Season",
-     "copy": "The Premier League is back - who are you backing to win the title?",
+     "name": "GCSE Results",
+     "for": "",
+     "copy": "GCSE students will soon be receiving their results, with the big day on 20 August",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#GCSEResults"
+     ]
+    },
+    {
+     "name": "Exam Advice",
+     "for": "",
+     "copy": "What advice would you give to GCSE students waiting for their results? Share your thoughts",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": []
+    },
+    {
+     "name": "Results Day Nerves",
+     "for": "",
+     "copy": "How do you calm your nerves on results day? Share your tips with GCSE students",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "premierleague",
+   "off": 13,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League kicks off",
+   "blurb": "The 2026/27 Premier League season starts on 22 August 2026",
+   "source": {
+    "l": "Nation Broadcasting",
+    "u": ""
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Season Opener",
+     "for": "",
+     "copy": "The wait is almost over for football fans as the Premier League kicks off on 22 August",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "08:00",
      "tags": [
@@ -131,23 +164,29 @@
      ]
     },
     {
-     "name": "Transfers",
-     "copy": "All the latest transfer news and gossip ahead of the new Premier League season",
+     "name": "Title Contenders",
+     "for": "",
+     "copy": "Who will be the top contenders for the Premier League title this season? Share your predictions",
      "channels": [
+      "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "12:00",
      "tags": []
     },
     {
-     "name": "Predictions",
-     "copy": "Make your predictions for the new Premier League season - who will be the top scorers?",
+     "name": "Season Expectations",
+     "for": "",
+     "copy": "What are your expectations for the new Premier League season? Share your thoughts",
      "channels": [
       "instagram",
       "facebook",
-      "tiktok"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "16:00",
      "tags": []
@@ -155,13 +194,21 @@
    ]
   },
   {
-   "id": "ReadingLeedsFestival",
+   "id": "readingandleeds",
    "off": 18,
-   "type": "gig",
+   "type": "festival",
    "hot": true,
    "title": "Reading & Leeds Festival",
-   "blurb": "Reading & Leeds Festival runs from August 27-30, 2026",
+   "blurb": "Reading & Leeds Festival runs 27–30 August 2026, with headliners including Fontaines D.C., Florence + The Machine, Chase & Status and RAYE",
+   "source": {
+    "l": "Nation Broadcasting",
+    "u": ""
+   },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
@@ -170,11 +217,14 @@
    "angles": [
     {
      "name": "Festival Headliners",
-     "copy": "Fontaines D.C., Florence + The Machine, Chase & Status and RAYE to headline Reading & Leeds Festival",
+     "for": "Nation Hits",
+     "copy": "Reading & Leeds Festival is just around the corner, with an incredible lineup of headliners",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "08:00",
      "tags": [
@@ -182,23 +232,29 @@
      ]
     },
     {
-     "name": "Lineup",
-     "copy": "Check out the full lineup for Reading & Leeds Festival - who are you most excited to see?",
+     "name": "Festival Vibes",
+     "for": "Nation Rocks",
+     "copy": "Who's ready for an epic weekend of music at Reading & Leeds Festival? Share your festival vibes",
      "channels": [
+      "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "12:00",
      "tags": []
     },
     {
-     "name": "Festival Tips",
-     "copy": "Heading to Reading & Leeds Festival? Here are some top tips to make the most of your weekend",
+     "name": "Must-See Acts",
+     "for": "",
+     "copy": "Which acts are you most looking forward to seeing at Reading & Leeds Festival? Share your must-see lists",
      "channels": [
       "instagram",
       "facebook",
-      "tiktok"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "16:00",
      "tags": []
@@ -206,12 +262,16 @@
    ]
   },
   {
-   "id": "NottingHillCarnival",
+   "id": "nottinghillcarnival",
    "off": 21,
-   "type": "culture",
+   "type": "festival",
    "hot": true,
-   "title": "Notting Hill Carnival Turns 60",
-   "blurb": "Notting Hill Carnival takes to the streets on August 30-31, 2026 - its 60th anniversary",
+   "title": "Notting Hill Carnival",
+   "blurb": "Notting Hill Carnival takes to the streets on 30–31 August 2026 — its 60th anniversary",
+   "source": {
+    "l": "Nation Broadcasting",
+    "u": ""
+   },
    "fits": [
     {
      "g": "nation-network",
@@ -221,11 +281,14 @@
    "angles": [
     {
      "name": "Carnival Celebrations",
-     "copy": "Notting Hill Carnival is 60 years old - join the celebrations in London",
+     "for": "",
+     "copy": "Notting Hill Carnival is back for its 60th year, and it's going to be bigger than ever",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "08:00",
      "tags": [
@@ -233,11 +296,14 @@
      ]
     },
     {
-     "name": "Carnival History",
-     "copy": "Take a look back at the history of Notting Hill Carnival - how it all began",
+     "name": "Carnival Culture",
+     "for": "",
+     "copy": "What does Notting Hill Carnival mean to you? Share your stories and photos from past years",
      "channels": [
+      "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "12:00",
@@ -245,11 +311,14 @@
     },
     {
      "name": "Carnival Lineup",
-     "copy": "Check out the lineup for Notting Hill Carnival - what to expect from the 60th anniversary celebrations",
+     "for": "",
+     "copy": "Who's performing at Notting Hill Carnival this year? Get ready for an incredible lineup of music and dance",
      "channels": [
       "instagram",
       "facebook",
-      "tiktok"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "16:00",
      "tags": []
@@ -257,26 +326,37 @@
    ]
   },
   {
-   "id": "GreenManFestival",
+   "id": "greenmanfestival",
    "off": 11,
-   "type": "gig",
+   "type": "festival",
    "hot": true,
    "title": "Green Man Festival",
-   "blurb": "Green Man Festival returns to the Black Mountains, Powys, from August 20-23, 2026",
+   "blurb": "Green Man returns to the Black Mountains, Powys, 20–23 August 2026 — one of Wales' best-loved music festivals",
+   "source": {
+    "l": "Nation Broadcasting",
+    "u": ""
+   },
    "fits": [
     {
      "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Festival Lineup",
-     "copy": "Green Man Festival lineup announced - who are you most excited to see?",
+     "name": "Green Man Lineup",
+     "for": "Bridge FM",
+     "copy": "Green Man Festival is coming to the Black Mountains, with an incredible lineup of music",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "08:00",
      "tags": [
@@ -284,23 +364,29 @@
      ]
     },
     {
-     "name": "Festival Tips",
-     "copy": "Heading to Green Man Festival? Here are some top tips to make the most of your weekend",
+     "name": "Festival Fun",
+     "for": "Nation Rocks",
+     "copy": "Who's ready for a weekend of music and fun at Green Man Festival? Share your festival excitement",
      "channels": [
+      "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "12:00",
      "tags": []
     },
     {
-     "name": "Welsh Music",
-     "copy": "Green Man Festival is a celebration of Welsh music and more - what's your favourite Welsh band?",
+     "name": "Festival Tips",
+     "for": "",
+     "copy": "What are your top tips for making the most of Green Man Festival? Share your advice",
      "channels": [
       "instagram",
       "facebook",
-      "tiktok"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "16:00",
      "tags": []
@@ -308,26 +394,37 @@
    ]
   },
   {
-   "id": "BeautifulDaysFestival",
+   "id": "beautifuldaysfestival",
    "off": 12,
-   "type": "gig",
+   "type": "festival",
    "hot": true,
    "title": "Beautiful Days Festival",
-   "blurb": "Beautiful Days Festival runs from August 21-23, 2026 at Escot Park, Ottery St Mary, Devon",
+   "blurb": "Beautiful Days — the Levellers' own festival — runs 21–23 August 2026 at Escot Park, Ottery St Mary, Devon",
+   "source": {
+    "l": "Nation Broadcasting",
+    "u": ""
+   },
    "fits": [
     {
      "g": "radio-exe",
-     "sub": "Exeter"
+     "sub": "Radio Exe"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
      "name": "Festival Lineup",
-     "copy": "Beautiful Days Festival lineup announced - who are you most excited to see?",
+     "for": "Radio Exe",
+     "copy": "Beautiful Days Festival is coming to Escot Park, with an amazing lineup of music",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "08:00",
      "tags": [
@@ -335,23 +432,29 @@
      ]
     },
     {
-     "name": "Festival Tips",
-     "copy": "Heading to Beautiful Days Festival? Here are some top tips to make the most of your weekend",
+     "name": "Festival Vibes",
+     "for": "Nation Rocks",
+     "copy": "Who's ready for a weekend of music and fun at Beautiful Days Festival? Share your festival vibes",
      "channels": [
+      "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "12:00",
      "tags": []
     },
     {
-     "name": "Devon Music",
-     "copy": "Beautiful Days Festival is a celebration of music in Devon - what's your favourite local band?",
+     "name": "Festival Memories",
+     "for": "",
+     "copy": "What are your favorite memories from past Beautiful Days Festivals? Share your stories",
      "channels": [
       "instagram",
       "facebook",
-      "tiktok"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "16:00",
      "tags": []
