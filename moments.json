@@ -1,13 +1,120 @@
 {
- "updated": "2026-08-09T12:21:03.675Z",
+ "updated": "2026-08-09T13:39:37.488Z",
  "moments": [
   {
-   "id": "community-shield-2026",
+   "id": "euro-athletics-birmingham",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "European Athletics Championships begin",
+   "blurb": "Birmingham hosts the European Athletics Championships from August 10th to 16th, bringing world-class track and field to the UK for the first time.",
+   "source": {
+    "l": "European Athletics",
+    "u": "https://www.european-athletics.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Birmingham"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Main Event Kick-off",
+     "for": "",
+     "copy": "Get ready, UK! The European Athletics Championships kick off in Birmingham tomorrow. Seven days of incredible track and field action, right on home soil! Who are you cheering for? #EuroAthletics",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#EuroAthletics"
+     ]
+    },
+    {
+     "name": "Birmingham Buzz",
+     "for": "Nation Radio Birmingham",
+     "copy": "Birmingham is buzzing! The European Athletics Championships are here, bringing the continent's best to Alexander Stadium. Expect thrilling finals and a huge home crowd roar all week.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Birmingham2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "community-shield-cardiff",
    "off": 7,
    "type": "sport",
    "hot": true,
-   "title": "Community Shield Showdown",
-   "blurb": "The traditional curtain-raiser for the English football season, the FA Community Shield, takes place on Sunday, August 16, 2026, featuring Premier League champions Arsenal against FA Cup holders Manchester City at Cardiff's Principality Stadium.",
+   "title": "Community Shield in Cardiff",
+   "blurb": "Manchester City face Arsenal in the FA Community Shield this Sunday, August 16th, at the Principality Stadium in Cardiff.",
+   "source": {
+    "l": "The FA",
+    "u": "https://www.thefa.com/competitions/thefacommunityshield"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh Football Focus",
+     "for": "welsh-local",
+     "copy": "Big football in Wales this Sunday! Manchester City take on Arsenal for the Community Shield at Cardiff's Principality Stadium. Who's lifting the first silverware of the season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "National Build-up",
+     "for": "nation-network",
+     "copy": "The curtain-raiser is almost here! Arsenal vs Manchester City in the Community Shield this Sunday. A taste of what's to come for the new season!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FACup"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-chatter",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Season Approaching",
+   "blurb": "The 2026/27 Premier League season kicks off on August 21st, with fixtures already released, building anticipation across the UK.",
    "source": {
     "l": "Premier League",
     "u": "https://www.premierleague.com/"
@@ -16,87 +123,84 @@
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Anticipation",
-     "for": "nation-network",
-     "copy": "Arsenal vs Man City for the first silverware of the season! Who's lifting the Community Shield next Sunday? #CommunityShield",
+     "name": "Season Countdown",
+     "for": "",
+     "copy": "Just under two weeks until the Premier League returns! The fixtures are out, the transfers are heating up. Who are you backing for the title this season?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#CommunityShield"
+      "#PremierLeague"
      ]
     },
     {
-     "name": "Local Buzz",
-     "for": "welsh-local",
-     "copy": "Cardiff takes centre stage! The Principality Stadium hosts Arsenal v Man City for the Community Shield next weekend. Are you ready, Wales?",
+     "name": "Transfer Talk",
+     "for": "",
+     "copy": "Transfer window drama is in full swing ahead of the Premier League kick-off on August 21st. Which player moves are you most excited (or worried) about?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:30",
+     "time": "16:00",
      "tags": [
-      "#CardiffFootball"
+      "#TransferNews"
      ]
     }
    ]
   },
   {
-   "id": "reading-leeds-build-up",
-   "off": 18,
+   "id": "roots-picnic-london",
+   "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festivals Approaching",
-   "blurb": "The twin Reading and Leeds Festivals are just around the corner, running from August 27-30, 2026, with campsites opening on Thursday 27th. Headliners include Charli XCX, Dave, Florence + The Machine, and Fontaines D.C.",
+   "title": "Roots Picnic UK wraps up",
+   "blurb": "The inaugural Roots Picnic UK, a globally celebrated hip hop festival, concludes today at Crystal Palace Bowl in London after a two-day run.",
    "source": {
-    "l": "Reading & Leeds Festivals",
-    "u": "https://www.readingfestival.com/"
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/top-festivals-in-august-2026"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Festival Excitement",
-     "for": "nation-network",
-     "copy": "Reading & Leeds are just over two weeks away! Who are you most buzzing to see? Drop your must-see acts! #RandL26",
+     "name": "Festival Finale",
+     "for": "Nation Radio London",
+     "copy": "The first ever Roots Picnic UK wraps up today at Crystal Palace Bowl! Who caught the vibes at this massive hip hop and culture festival yesterday or today?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RootsPicnicUK"
+     ]
+    },
+    {
+     "name": "Global Festival Debut",
+     "for": "decades-genres",
+     "copy": "London just hosted the international debut of Roots Picnic! Two days of world-class hip hop and unforgettable energy. What a weekend for music fans!",
      "channels": [
       "instagram",
       "facebook",
@@ -105,150 +209,30 @@
      ],
      "time": "13:00",
      "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Leeds Local Angle",
-     "for": "nation-network",
-     "copy": "Leeds Festival countdown is ON! Bramham Park will be buzzing from August 27-30. Get ready, Yorkshire! #LeedsFestival",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#LeedsFestival"
+      "#LondonGigs"
      ]
     }
    ]
   },
   {
-   "id": "creamfields-build-up",
-   "off": 18,
+   "id": "magpies-festival-york",
+   "off": 5,
    "type": "gig",
    "hot": true,
-   "title": "Creamfields Festival Anticipation",
-   "blurb": "Creamfields, one of the UK's biggest electronic music festivals, kicks off on August 27 and runs until August 30, 2026, in Daresbury, Cheshire.",
+   "title": "The Magpies Festival this weekend",
+   "blurb": "The Magpies Festival returns to York from August 14th to 15th, offering a weekend of folk and roots music.",
    "source": {
-    "l": "Creamfields",
-    "u": "https://creamfields.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dance Music Hype",
-     "for": "decades-genres",
-     "copy": "Creamfields is almost here! Who's ready for four days of non-stop dance anthems in Daresbury? The August Bank Holiday weekend is set! #Creamfields26",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Creamfields26"
-     ]
-    },
-    {
-     "name": "Lineup Tease",
-     "for": "decades-genres",
-     "copy": "Calvin Harris, Swedish House Mafia, Tiësto... the Creamfields lineup is stacked! Which DJ are you most excited to see hit the decks? #DanceMusic",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#DanceMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-lineup-reveals",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing Line-Up Revealed",
-   "blurb": "The full celebrity lineup for Strictly Come Dancing 2026 has been revealed, including Dani Dyer, Lacey Turner, Delta Goodrem, and Chris Appleton, ahead of its September launch on BBC One.",
-   "source": {
-    "l": "BBC Strictly Come Dancing",
-    "u": "https://www.bbc.co.uk/strictly"
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/the-magpies-festival-2026/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio Yorkshire"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Series Buzz",
-     "for": "nation-network",
-     "copy": "The Strictly Come Dancing 2026 lineup is officially complete! Who are you backing to lift the Glitterball trophy this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Strictly"
-     ]
-    },
-    {
-     "name": "Contestant Spotlight",
-     "for": "nation-network",
-     "copy": "From Dani Dyer to Lacey Turner, the Strictly ballroom is filling up with some big names. Any early favourites for the dance floor?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#Strictly2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bake-off-new-judge",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off Welcomes New Judge",
-   "blurb": "Nigella Lawson joins Paul Hollywood as a new judge for The Great British Bake Off, with the 16th season expected to kick off in early September.",
-   "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -257,85 +241,9 @@
    ],
    "angles": [
     {
-     "name": "New Judge Excitement",
-     "for": "nation-network",
-     "copy": "Nigella Lawson in the Bake Off tent! Get ready for a delicious new season with a familiar face on the judging panel this September. #GBBO",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "Baking Season Prep",
-     "for": "nation-network",
-     "copy": "The Great British Bake Off returns soon, and we can't wait to see what Nigella Lawson brings to the judging table. Who's excited for Star Baker challenges?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "school-summer-holidays-end",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Summer Holidays Winding Down",
-   "blurb": "School summer holidays are drawing to a close across the UK, with many Scottish pupils already back and those in England, Wales, and Northern Ireland preparing for an early September return.",
-   "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-dates-and-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Back to School Prep",
-     "for": "nation-network",
-     "copy": "The summer holidays are almost over for many! Are you ready for the 'back to school' rush, or clinging to the last days of freedom?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#BackToSchool"
-     ]
-    },
-    {
-     "name": "Local School Buzz",
-     "for": "welsh-local",
-     "copy": "Last call for summer adventures! Schools across Wales are getting ready to welcome pupils back. How have you spent your summer break?",
+     "name": "Yorkshire Folk Fest",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Heading to The Magpies Festival in York this weekend? Two days of brilliant folk and roots music are coming to Yorkshire! Who's on your must-see list?",
      "channels": [
       "instagram",
       "facebook",
@@ -343,176 +251,312 @@
      ],
      "time": "09:30",
      "tags": [
-      "#SummerHolidays"
+      "#MagpiesFestival"
+     ]
+    },
+    {
+     "name": "Weekend Escape",
+     "for": "",
+     "copy": "Looking for a chilled-out festival vibe? The Magpies Festival in York is on this Friday and Saturday. Perfect for a summer weekend of great live music!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#FolkMusic"
      ]
     }
    ]
   },
   {
-   "id": "sir-mix-a-lot-bday",
+   "id": "boomtown-festival",
    "off": 3,
-   "type": "birthday",
+   "type": "gig",
    "hot": true,
-   "title": "Happy Birthday Sir Mix-A-Lot",
-   "blurb": "American rapper and producer Sir Mix-A-Lot, known for his 1992 hit 'Baby Got Back', turns 63 on Wednesday, August 12, 2026.",
+   "title": "Boomtown Fair kicks off",
+   "blurb": "The immersive Boomtown Fair festival takes over Hampshire from August 12th to 16th, known for its diverse music and theatrical experience.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Sir_Mix-a-Lot"
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/boomtown-2026/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "nation-network",
+     "sub": "Nation Radio South"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Birthday Shoutout",
+     "name": "Immersive Festival Prep",
+     "for": "Nation Radio South",
+     "copy": "Boomtown Fair is almost here! From Wednesday, Hampshire will transform into a world of music, art, and immersive theatre. Who's got their tickets ready for Chapter 13?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#Boomtown"
+     ]
+    },
+    {
+     "name": "Festival Countdown",
      "for": "decades-genres",
-     "copy": "Happy 63rd Birthday to the man who gave us 'Baby Got Back', Sir Mix-A-Lot! Still a certified 90s banger. #SirMixALot",
+     "copy": "Get ready for the wild ride that is Boomtown! Starting Wednesday and running all weekend, it's one of the UK's most unique festival experiences.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "10:00",
+     "time": "17:00",
      "tags": [
-      "#90sHipHop"
-     ]
-    },
-    {
-     "name": "Song Reference",
-     "for": "decades-genres",
-     "copy": "On Wednesday, raise a glass to Sir Mix-A-Lot turning 63! Let's get 'Baby Got Back' on repeat to celebrate. #BirthdayBeats",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#BabyGotBack"
+      "#BoomtownFair"
      ]
     }
    ]
   },
   {
-   "id": "danny-bonaduce-bday",
-   "off": 4,
-   "type": "birthday",
+   "id": "ultimate-coldplay-tribute",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "Happy Birthday Danny Bonaduce",
-   "blurb": "American actor and radio personality Danny Bonaduce, best known as Danny Partridge from 'The Partridge Family', celebrates his 67th birthday on Thursday, August 13, 2026.",
+   "title": "Ultimate Coldplay Tributes Touring",
+   "blurb": "The Ultimate Coldplay tribute band is playing multiple UK dates this week, including Wolverhampton today, Stoke-on-Trent on August 14th, and Wrexham on August 15th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Danny_Bonaduce"
+    "l": "Ultimate Coldplay Tour",
+    "u": "https://www.ultimatecoldplay.com/tour/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Rocks"
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Partridge Family Nostalgia",
-     "for": "decades-genres",
-     "copy": "Happy 67th Birthday to Danny Bonaduce! Who remembers him rocking out on 'The Partridge Family'? #PartridgeFamily",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#70sTV"
-     ]
-    },
-    {
-     "name": "Classic TV Icon",
-     "for": "decades-genres",
-     "copy": "Wishing a very happy 67th to Danny Bonaduce on Thursday! From child star to radio host, a true entertainment icon. #DannyBonaduce",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ClassicTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "steve-martin-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Steve Martin",
-   "blurb": "Legendary comedian, actor, writer, and musician Steve Martin celebrates his 81st birthday on Friday, August 14, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Steve_Martin"
-   },
-   "fits": [
     {
      "g": "nation-network",
+     "sub": "Nation Radio Westcountry"
+    },
+    {
+     "g": "radio-exe",
      "sub": ""
     },
     {
+     "g": "welsh-local",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Coldplay Tribute Live",
+     "for": "radio-exe",
+     "copy": "Did you catch Ultimate Coldplay at Exeter Phoenix last night? The tribute band is rocking Wolverhampton today and heading to Stoke & Wrexham this week!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#ColdplayTribute"
+     ]
+    },
+    {
+     "name": "Wrexham Gig Alert",
+     "for": "welsh-local",
+     "copy": "For Coldplay fans in Wales, Ultimate Coldplay are bringing their tribute show to Wrexham on Saturday, August 15th! Get ready for all the hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#WrexhamGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-aug7",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Official Singles Chart Top 10",
+   "blurb": "Sam Fender & Olivia Dean's 'REIN ME IN' holds the top spot on the Official Singles Chart (Aug 7th), while Ariana Grande makes waves with two new tracks from 'PETAL' in the Top 10.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/20260807/7501/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "for": "",
+     "copy": "Big congratulations to Sam Fender & Olivia Dean, holding strong at Number 1 on the Official Singles Chart with 'REIN ME IN'! What a track.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Ariana's Chart Impact",
+     "for": "Nation Hits",
+     "copy": "Ariana Grande's new album 'PETAL' is making a huge impact on the charts, with two tracks landing in the Official Singles Chart Top 10 this week! Which one is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "suzanne-vega-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Suzanne Vega's Birthday",
+   "blurb": "American singer-songwriter Suzanne Vega turns 67 on Monday, August 10th. Known for hits like 'Luka' and 'Tom's Diner'.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Suzanne_Vega"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Comedy Legend",
-     "for": "nation-network",
-     "copy": "The one and only Steve Martin turns 81 this Friday! What's your favourite Steve Martin movie or stand-up moment?",
+     "name": "Happy Birthday Suzanne",
+     "for": "Nation Easy",
+     "copy": "Wishing a very happy 67th birthday to the iconic Suzanne Vega tomorrow! Her timeless tracks like 'Luka' are still as brilliant as ever.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SuzanneVega"
+     ]
+    },
+    {
+     "name": "Classic Artist Spotlight",
+     "for": "Nation Classic Hits",
+     "copy": "Tomorrow, Suzanne Vega celebrates her 67th birthday! What's your favourite song from the legendary singer-songwriter? 'Tom's Diner' always gets us.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Birthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mark-knopfler-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Mark Knopfler's Birthday",
+   "blurb": "Dire Straits frontman and legendary guitarist Mark Knopfler celebrates his 77th birthday on Wednesday, August 12th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Legend",
+     "for": "Nation Rocks",
+     "copy": "A huge happy 77th birthday to the one and only Mark Knopfler this Wednesday! The Dire Straits legend's guitar work is simply iconic. What's your favourite solo?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#MarkKnopfler"
+     ]
+    },
+    {
+     "name": "80s Icon",
+     "for": "Nation 80s",
+     "copy": "Wednesday marks Mark Knopfler's 77th birthday! From 'Money for Nothing' to 'Sultans of Swing,' his influence on 80s music is undeniable.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "10:00",
-     "tags": [
-      "#SteveMartin"
-     ]
-    },
-    {
-     "name": "Wild and Crazy Guy",
-     "for": "nation-network",
-     "copy": "Still a wild and crazy guy at 81! Happy Birthday to the iconic Steve Martin on August 14th. #ComedyIcon",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
      "time": "14:00",
      "tags": [
-      "#WildAndCrazyGuy"
+      "#DireStraits"
      ]
     }
    ]
   },
   {
-   "id": "joe-jonas-bday",
+   "id": "joe-jonas-birthday",
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Joe Jonas",
-   "blurb": "American singer and actor Joe Jonas, known as a member of the Jonas Brothers, turns 37 on Saturday, August 15, 2026.",
+   "title": "Joe Jonas's Birthday",
+   "blurb": "American singer and actor Joe Jonas, known from the Jonas Brothers and DNCE, turns 37 on Sunday, August 15th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Joe_Jonas"
@@ -529,46 +573,45 @@
    ],
    "angles": [
     {
-     "name": "Jonas Brothers Fanfare",
-     "for": "decades-genres",
-     "copy": "Happy 37th Birthday to Joe Jonas this Saturday! Which Jonas Brothers track are you celebrating with?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#JoeJonas"
-     ]
-    },
-    {
      "name": "Pop Star Birthday",
-     "for": "decades-genres",
-     "copy": "Get ready to celebrate Joe Jonas's 37th on August 15th! From Camp Rock to world tours, what a career! #JonasBrothers",
+     "for": "Nation Hits",
+     "copy": "Get ready to celebrate! Joe Jonas turns 37 this Sunday. From Jonas Brothers to DNCE, he's given us so many bangers!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "11:00",
      "tags": [
-      "#PopMusic"
+      "#JoeJonas"
+     ]
+    },
+    {
+     "name": "00s Throwback",
+     "for": "Nation 00s",
+     "copy": "Can you believe Joe Jonas will be 37 on Sunday? Take us back to the early Jonas Brothers days! What's your favourite track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#JonasBrothers"
      ]
     }
    ]
   },
   {
-   "id": "madonna-bday",
+   "id": "madonna-birthday",
    "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Madonna",
-   "blurb": "The Queen of Pop, Madonna, celebrates her 68th birthday on Sunday, August 16, 2026.",
+   "title": "Madonna's Birthday",
+   "blurb": "The Queen of Pop, Madonna, celebrates her 68th birthday on Monday, August 16th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Madonna_(entertainer)"
+    "u": "https://en.wikipedia.org/wiki/Madonna"
    },
    "fits": [
     {
@@ -582,52 +625,48 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
      "name": "Queen of Pop",
-     "for": "decades-genres",
-     "copy": "Happy 68th Birthday to the one and only Madonna! What's your ultimate Madonna anthem?",
+     "for": "Nation 80s",
+     "copy": "Happy 68th Birthday to the one and only Queen of Pop, Madonna, this Monday! Her influence is truly unmatched. What's your go-to Madonna anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "08:30",
      "tags": [
       "#Madonna"
      ]
     },
     {
-     "name": "Iconic Hits",
-     "for": "decades-genres",
-     "copy": "Celebrating the Material Girl, Madonna, turning 68 this Sunday! So many iconic hits, so little time. #QueenOfPop",
+     "name": "Enduring Icon",
+     "for": "Nation Hits",
+     "copy": "Still ruling the world! Madonna turns 68 on Monday. From 'Like a Prayer' to 'Vogue', she's constantly reinvented herself and inspired generations.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#80sPop"
+      "#PopIcon"
      ]
     }
    ]
   },
   {
-   "id": "belinda-carlisle-bday",
+   "id": "belinda-carlisle-birthday",
    "off": 8,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Belinda Carlisle",
-   "blurb": "American singer Belinda Carlisle, lead singer of The Go-Go's and a successful solo artist, turns 68 on Monday, August 17, 2026.",
+   "title": "Belinda Carlisle's Birthday",
+   "blurb": "Singer Belinda Carlisle, known for her solo hits and as lead singer of The Go-Go's, turns 68 on Tuesday, August 17th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Belinda_Carlisle"
@@ -644,23 +683,23 @@
    ],
    "angles": [
     {
-     "name": "Go-Go's & Solo Success",
-     "for": "decades-genres",
-     "copy": "Happy 68th Birthday to the incredible Belinda Carlisle on Monday! Heaven Is a Place on Earth is still a classic. #BelindaCarlisle",
+     "name": "Go-Go's Legend",
+     "for": "Nation 80s",
+     "copy": "Wishing a fantastic 68th birthday to Belinda Carlisle this Tuesday! From The Go-Go's to her incredible solo career, she's an 80s icon. What's your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "10:30",
      "tags": [
-      "#80sMusic"
+      "#BelindaCarlisle"
      ]
     },
     {
-     "name": "Nostalgia Hit",
-     "for": "decades-genres",
-     "copy": "From The Go-Go's to her solo career, Belinda Carlisle gave us so many anthems. Wishing her a very happy 68th! #HeavenIsAPlaceOnEarth",
+     "name": "Heaven Is A Place",
+     "for": "Nation Classic Hits",
+     "copy": "Belinda Carlisle celebrates her 68th birthday on Tuesday! Her voice defined so many classic hits. 'Heaven Is a Place on Earth' still gives us chills!",
      "channels": [
       "instagram",
       "facebook",
@@ -668,21 +707,21 @@
      ],
      "time": "15:00",
      "tags": [
-      "#TheGoGos"
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "andy-samberg-bday",
-   "off": 9,
-   "type": "birthday",
+   "id": "perseid-meteor-shower",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Happy Birthday Andy Samberg",
-   "blurb": "American actor, comedian, musician, and writer Andy Samberg, known for 'Saturday Night Live' and 'Brooklyn Nine-Nine', turns 48 on Tuesday, August 18, 2026.",
+   "title": "Perseid Meteor Shower Peaks",
+   "blurb": "The annual Perseid meteor shower is active throughout August and peaks under a new moon, offering excellent viewing opportunities for stargazers.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Andy_Samberg"
+    "l": "Time and Date",
+    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
    },
    "fits": [
     {
@@ -692,9 +731,66 @@
    ],
    "angles": [
     {
-     "name": "Comedy King",
-     "for": "nation-network",
-     "copy": "Happy 48th Birthday to the hilarious Andy Samberg on Tuesday! What's your favourite 'Brooklyn Nine-Nine' moment?",
+     "name": "Stargazing Alert",
+     "for": "",
+     "copy": "Look up! The Perseid meteor shower is peaking this August, and with a new moon, conditions are perfect for spotting shooting stars. Find a dark spot tonight!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "20:00",
+     "tags": [
+      "#Perseids"
+     ]
+    },
+    {
+     "name": "Summer Night Sky",
+     "for": "",
+     "copy": "One of the best meteor showers of the year is happening now! The Perseids are putting on a show. Grab a blanket and enjoy the cosmic display.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "21:30",
+     "tags": [
+      "#MeteorShower"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "notting-hill-carnival-anticipation",
+   "off": 20,
+   "type": "culture",
+   "hot": true,
+   "title": "Notting Hill Carnival Build-up",
+   "blurb": "London's Notting Hill Carnival, celebrating 60 years in 2026, is set for August 30-31, with anticipation building for Europe's largest street festival.",
+   "source": {
+    "l": "Notting Hill Carnival",
+    "u": "https://nhcarnival.org/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Carnival Countdown",
+     "for": "Nation Radio London",
+     "copy": "It's 60 years of Notting Hill Carnival! The countdown is on for Europe's biggest street party, taking over West London on August 30th & 31st. Are you ready for the vibes?",
      "channels": [
       "instagram",
       "facebook",
@@ -702,80 +798,23 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#AndySamberg"
+      "#NottingHillCarnival"
      ]
     },
     {
-     "name": "SNL & Beyond",
+     "name": "Cultural Celebration",
      "for": "nation-network",
-     "copy": "From SNL digital shorts to Jake Peralta, Andy Samberg always brings the laughs. Wishing him a great 48th! #Brooklyn99",
+     "copy": "The UK's biggest street festival, Notting Hill Carnival, is just weeks away! Get ready for incredible music, food, and culture as London prepares for its annual spectacle.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "17:30",
      "tags": [
-      "#Comedy"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "john-deacon-bday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday John Deacon",
-   "blurb": "English musician John Deacon, best known as the bassist for the legendary rock band Queen, celebrates his 75th birthday on Wednesday, August 19, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/John_Deacon"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen Legend",
-     "for": "decades-genres",
-     "copy": "Happy 75th Birthday to Queen's iconic bassist, John Deacon, on Wednesday! Thank you for the basslines that defined an era. #JohnDeacon",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#QueenBand"
-     ]
-    },
-    {
-     "name": "Rock Icon",
-     "for": "decades-genres",
-     "copy": "Another rock legend celebrating a birthday! John Deacon of Queen turns 75 this week. What's your favourite Queen song he wrote or co-wrote?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#RockMusic"
+      "#Carnival"
      ]
     }
    ]
