@@ -1,45 +1,337 @@
 {
- "updated": "2026-08-09T06:34:29.244Z",
+ "updated": "2026-08-09T07:42:49.125Z",
  "moments": [
   {
    "id": "european-athletics-champs",
    "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "European Athletics Championships in Birmingham",
-   "blurb": "Birmingham hosts the European Athletics Championships for the first time, with over 1,500 elite athletes competing from August 10-16.",
+   "title": "European Athletics Championships begin",
+   "blurb": "The European Athletics Championships kick off in Birmingham, bringing top athletes from across the continent to the UK for a week of track and field action.",
    "source": {
-    "l": "VisitBritain.org",
-    "u": "https://www.visitbritain.org/business-advice/looking-ahead-britains-sporting-highlights-2026"
+    "l": "UK Sport / European Athletics",
+    "u": "https://www.uksport.gov.uk/events/european-athletics-championships-2026"
    },
    "fits": [
     {
      "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Main Event",
+     "copy": "It's a huge week for sport as the European Athletics Championships get underway in Birmingham! Who are you backing for gold?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#EuroAthletics2026"
+     ]
+    },
+    {
+     "name": "Birmingham Buzz",
+     "for": "Nation Radio London",
+     "copy": "Birmingham is buzzing! The European Athletics Championships are here, bringing incredible talent and a fantastic atmosphere. Catch all the action!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Birmingham2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "community-shield",
+   "off": 7,
+   "type": "sport",
+   "hot": true,
+   "title": "Community Shield Final",
+   "blurb": "The traditional curtain-raiser for the English football season, the Community Shield, sees Premier League champions Arsenal take on FA Cup holders Manchester City at Principality Stadium in Cardiff.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Day Hype",
+     "copy": "The first silverware of the season is up for grabs! Arsenal vs Manchester City in the Community Shield this Sunday. Who's lifting the trophy?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Cardiff Hosts",
+     "for": "welsh-local",
+     "copy": "Cardiff is hosting a massive football clash this Sunday! Manchester City take on Arsenal in the Community Shield at Principality Stadium. Get ready, Wales!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#CardiffFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-weeknd-wembley",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "The Weeknd at Wembley",
+   "blurb": "The Weeknd brings his record-breaking After Hours Til Dawn Tour to Wembley Stadium for a series of five highly anticipated shows in London.",
+   "source": {
+    "l": "Live Nation",
+    "u": "https://www.livenation.co.uk/artist-the-weeknd-23420"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wembley Weekend",
+     "copy": "The Weeknd is taking over Wembley Stadium this week! If you're heading to the After Hours Til Dawn tour, get ready for an epic show.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TheWeekndWembley"
+     ]
+    },
+    {
+     "name": "London Calling",
+     "for": "Nation Radio London",
+     "copy": "London, get ready! The Weeknd's bringing the After Hours Til Dawn tour to Wembley Stadium for multiple nights. Who's got tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Wembley"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ariana-grande-o2",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Ariana Grande's O2 Residency",
+   "blurb": "Ariana Grande kicks off her exclusive 10-night UK residency at London's O2 Arena as part of her Eternal Sunshine Tour, her first live performances in six years.",
+   "source": {
+    "l": "The O2 Arena",
+    "u": "https://www.theo2.co.uk/events/detail/ariana-grande-2026"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Ariana Arrives",
+     "copy": "She's back! Ariana Grande begins her massive 10-night residency at The O2 this week. Who's excited for 'Eternal Sunshine' live?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ArianaGrandeO2"
+     ]
+    },
+    {
+     "name": "London's Pop Queen",
+     "for": "Nation Radio London",
+     "copy": "London is about to get a whole lot brighter! Ariana Grande's 'Eternal Sunshine' tour opens this week at The O2. This is HUGE!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#EternalSunshine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-summer-heat",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK basks in summer heatwave",
+   "blurb": "A heatwave is gripping parts of the UK, with London expecting highs of 32°C today and temperatures potentially reaching the mid-30s across England and Wales by mid-week.",
+   "source": {
+    "l": "Met Office / AccuWeather",
+    "u": "https://www.accuweather.com/en/gb/london/328328/august-weather/328328"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Radio London"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Stay Cool",
+     "copy": "It's heating up out there! Stay hydrated and safe as a summer heatwave sweeps across the UK this week. Enjoy the sunshine responsibly!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#UKHeatwave"
+     ]
+    },
+    {
+     "name": "Sunny London",
+     "for": "Nation Radio London",
+     "copy": "Sunshine and 32°C in London today! Make the most of this beautiful weather, but remember to keep cool.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#LondonWeather"
+     ]
+    },
+    {
+     "name": "Wales Warmth",
+     "for": "welsh-local",
+     "copy": "Warm weather is on the way for Wales this week, with temperatures set to climb. Perfect for enjoying the outdoors!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#WalesWeather"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bloodstock-open-air",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Bloodstock Open Air Festival",
+   "blurb": "The UK's biggest independent metal festival, Bloodstock Open Air, is underway at Catton Park in Derbyshire, featuring a lineup of heavy metal acts.",
+   "source": {
+    "l": "Bloodstock Festival",
+    "u": "https://www.bloodstock.uk.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "nation-network",
      "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Suffolk"
     },
     {
      "g": "nation-network",
@@ -48,318 +340,48 @@
    ],
    "angles": [
     {
-     "name": "Main Event Kick-off",
-     "for": "",
-     "copy": "Europe's elite athletes descend on Birmingham for the European Athletics Championships, kicking off tomorrow! Who are you backing for gold?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#EuroAthletics2026"
-     ]
-    },
-    {
-     "name": "Birmingham Buzz",
-     "for": "Nation Radio London",
-     "copy": "Birmingham's buzzing as it makes history, hosting the European Athletics Championships for the very first time! Get ready for a week of incredible sport.",
+     "name": "Metal Mayhem",
+     "copy": "Bloodstock Open Air is roaring into action this weekend! If you're at Catton Park, crank it up and enjoy the UK's biggest metal festival!",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Birmingham2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-kickoff",
-   "off": 6,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Season Kicks Off",
-   "blurb": "The Premier League season 2026/2027 officially begins on Saturday, August 15, with teams across the UK battling for the title.",
-   "source": {
-    "l": "Attentive Blog",
-    "u": "https://www.attentive.com/blog/uk-marketing-calendar-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Football's Back!",
-     "for": "",
-     "copy": "The wait is almost over! The Premier League kicks off this Saturday. Who's lifting the trophy next May?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
      ],
      "time": "12:00",
      "tags": [
-      "#PremierLeague"
+      "#Bloodstock"
      ]
     },
     {
-     "name": "Weekend Plans",
-     "for": "",
-     "copy": "Clear your weekend plans! Premier League football returns this Saturday. What fixture are you most looking forward to?",
+     "name": "Rock Out",
+     "copy": "For all the metalheads out there, Bloodstock is delivering the goods this weekend! Who's your must-see act on the lineup?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "16:00",
      "tags": [
-      "#PLSeason"
+      "#MetalFestival"
      ]
     }
    ]
   },
   {
-   "id": "edinburgh-fringe-ongoing",
+   "id": "lakefest-deva-gloworm",
    "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Edinburgh Festival Fringe in Full Swing",
-   "blurb": "The world's largest arts festival, Edinburgh Fringe, continues to transform Scotland's capital with thousands of performances until August 31.",
+   "title": "Family Festivals this weekend",
+   "blurb": "Several family-friendly festivals are taking place this weekend, including LakeFest in Herefordshire (The Charlatans, Example, Madness), Deva Fest in Cheshire (Ronan Keating, Jessie J), and Gloworm Festival in Nottinghamshire.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-to-do/events/august"
+    "l": "LakeFest / Deva Fest / Gloworm Festival",
+    "u": "https://www.lakefest.co.uk/"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
     {
      "g": "nation-network",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fringe Frenzy",
-     "for": "Nation Radio Scotland",
-     "copy": "Edinburgh is alive with the sound of the Fringe! From comedy to cabaret, what hidden gems have you discovered so far?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#edfringe"
-     ]
-    },
-    {
-     "name": "Arts Takeover",
-     "for": "",
-     "copy": "The Edinburgh Festival Fringe is in full swing! If you're heading to Scotland's capital, prepare for an unforgettable arts takeover.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FringeFest"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bbc-proms-london",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "BBC Proms Continues at Royal Albert Hall",
-   "blurb": "The BBC Proms, the world's largest classical music festival, offers nightly concerts at London's Royal Albert Hall, running until September 12.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-to-do/events/august"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Classical Nights",
-     "for": "Nation Radio London",
-     "copy": "Experience the magic of the BBC Proms at the Royal Albert Hall. London's summer soundtrack is pure classical brilliance!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#BBcPrams"
-     ]
-    },
-    {
-     "name": "Proms in Full Swing",
-     "for": "Nation Classic Hits",
-     "copy": "The BBC Proms continue, bringing world-class classical music to the Royal Albert Hall. A perfect summer evening out!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "19:30",
-     "tags": [
-      "#ClassicalMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "piping-live-glasgow",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Piping Live! Festival in Glasgow",
-   "blurb": "Piping Live!, a celebration of piping culture featuring talent from Scotland and worldwide, kicks off today in Glasgow and runs until August 14.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-to-do/events/august"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pipes in Glasgow",
-     "for": "Nation Radio Scotland",
-     "copy": "The sound of bagpipes fills Glasgow as Piping Live! festival begins today! Celebrate Scottish culture with world-class piping talent all week.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#PipingLive"
-     ]
-    },
-    {
-     "name": "Scottish Sounds",
-     "for": "Nation Radio Scotland",
-     "copy": "Get ready for a week of incredible music! Piping Live! is underway in Glasgow, showcasing the best of piping from around the globe.",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#GlasgowEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tenby-music-festival",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "Tenby International Music Festival Returns",
-   "blurb": "The Tenby International Music Festival returns for its second edition from August 13-16, bringing classical music and free performances to West Wales.",
-   "source": {
-    "l": "Nation.Cymru",
-    "u": "https://nation.cymru/culture/international-music-festival-returns-to-welsh-town/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "dragon",
-     "sub": "Dragon Radio"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Classical in Tenby",
-     "for": "Radio Pembrokeshire",
-     "copy": "World-class classical music is coming to Tenby! The International Music Festival kicks off on August 13th for four days of incredible performances.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TenbyMusic"
-     ]
-    },
-    {
-     "name": "Welsh Culture Spotlight",
-     "for": "dragon",
-     "copy": "Don't miss the Tenby International Music Festival, bringing global talent to West Wales from August 13-16. Free events and family fun too!",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#WalesCulture"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "palace-bowl-presents",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Palace Bowl Presents in London",
-   "blurb": "The Palace Bowl Presents festival series continues at the iconic Crystal Palace Bowl in London, featuring an eclectic lineup until August 16.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/top-festivals-in-august-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
@@ -367,112 +389,135 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "South London Sounds",
-     "for": "Nation Radio London",
-     "copy": "Crystal Palace Bowl is alive with 'Palace Bowl Presents' all week! Catch an eclectic mix of global headliners in South London.",
+     "name": "Festival Fun",
+     "copy": "Looking for family fun? LakeFest, Deva Fest, and Gloworm Festival are all happening this weekend, bringing music, arts, and entertainment to the UK!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "09:00",
      "tags": [
-      "#CrystalPalaceBowl"
+      "#FamilyFestival"
      ]
     },
     {
-     "name": "Festival Vibes",
-     "for": "Nation Hits",
-     "copy": "Still time to catch some amazing acts at Palace Bowl Presents! Festival vibes are strong in London until August 16th.",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#LondonGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eastern-electrics",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Eastern Electrics Festival in London",
-   "blurb": "Eastern Electrics, a major electronic music festival, takes place today in London.",
-   "source": {
-    "l": "Music Festival Wizard",
-    "u": "https://www.musicfestivalwizard.com/festivals/eastern-electrics-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dance All Day",
-     "for": "Nation Dance",
-     "copy": "Eastern Electrics is ON today in London! Get ready for a huge day of the best electronic music.",
+     "name": "Weekend Vibes",
+     "copy": "From The Charlatans to Jessie J, there's a festival for everyone this weekend! Which one are you heading to?",
      "channels": [
       "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#EasternElectrics"
-     ]
-    },
-    {
-     "name": "London's Dance Scene",
-     "for": "Nation Radio London",
-     "copy": "The capital's dance scene is buzzing today with Eastern Electrics taking over London! Who's heading there?",
-     "channels": [
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#LondonDance"
+      "#UKFestivals"
      ]
     }
    ]
   },
   {
-   "id": "the-magpies-festival",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "The Magpies Festival in York",
-   "blurb": "The Magpies Festival, a folk and roots music event, will be held in York from August 14-15.",
+   "id": "kurtis-blow-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 67th, Kurtis Blow!",
+   "blurb": "Pioneering American rapper Kurtis Blow, known for hits like 'The Breaks', celebrates his 67th birthday today.",
    "source": {
-    "l": "Music Festival Wizard",
-    "u": "https://www.musicfestivalwizard.com/festivals/the-magpies-festival-2026/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august9.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip-Hop Legend",
+     "copy": "Happy 67th Birthday to the legendary Kurtis Blow! Still breaking beats and setting trends.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#KurtisBlow"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "juanes-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 54th, Juanes!",
+   "blurb": "Colombian rock superstar Juanes, famous for his Latin Grammy-winning music, turns 54 today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august9.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Star Birthday",
+     "copy": "Feliz Cumpleaños to the incredible Juanes, who turns 54 today! What's your favourite track from the Latin rock icon?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Juanes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ian-anderson-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 79th, Ian Anderson!",
+   "blurb": "Ian Anderson, the iconic singer, songwriter, and flautist for the progressive rock band Jethro Tull, celebrates his 79th birthday tomorrow.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august10.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
@@ -481,114 +526,35 @@
    ],
    "angles": [
     {
-     "name": "Yorkshire Folk",
-     "for": "Nation Radio Yorkshire",
-     "copy": "Get ready for a weekend of brilliant folk and roots music! The Magpies Festival takes over York from August 14-15.",
+     "name": "Prog Rock Icon",
+     "copy": "Tomorrow, we're wishing a very Happy 79th Birthday to the legendary Ian Anderson of Jethro Tull! What's your go-to Tull track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "17:00",
      "tags": [
-      "#MagpiesFestival"
-     ]
-    },
-    {
-     "name": "Festival Countdown",
-     "for": "Nation Radio Yorkshire",
-     "copy": "Just days to go until The Magpies Festival brings its unique blend of folk and roots to York! Who's joining the fun?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#YorkEvents"
+      "#JethroTull"
      ]
     }
    ]
   },
   {
-   "id": "boomtown-festival",
+   "id": "mark-knopfler-bday",
    "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Boomtown Festival Returns to Hampshire",
-   "blurb": "The immersive music and arts festival, Boomtown, takes place in Hampshire from August 12-16.",
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 77th, Mark Knopfler!",
+   "blurb": "Mark Knopfler, the distinctive guitarist and frontman of Dire Straits, celebrates his 77th birthday on Wednesday.",
    "source": {
-    "l": "Music Festival Wizard",
-    "u": "https://www.musicfestivalwizard.com/festivals/boomtown-2026/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august12.html"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Boomtown Beckons",
-     "for": "Nation Radio South",
-     "copy": "Boomtown is almost here! The incredible immersive festival returns to Hampshire from August 12-16. Get ready for an adventure.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Boomtown"
-     ]
-    },
-    {
-     "name": "Festival Mode Activated",
-     "for": "Nation Dance",
-     "copy": "Who's ready for Boomtown? The ultimate festival experience kicks off in Hampshire on Wednesday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FestivalLife"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bonnie-tyler-tribute-swansea",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "Bonnie Tyler Tribute in Swansea",
-   "blurb": "A tribute event, 'Simply the Best – A Tribute to Bonnie Tyler', will be held at Oystermouth Castle in Swansea on Sunday, August 16, to celebrate the life and music of the iconic Welsh singer.",
-   "source": {
-    "l": "Wales Online",
-    "u": "https://www.walesonline.co.uk/news/wales-news/massive-celebration-bonnie-tylers-life-29646580"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "dragon",
-     "sub": "Dragon Radio"
     },
     {
      "g": "decades-genres",
@@ -605,9 +571,88 @@
    ],
    "angles": [
     {
-     "name": "Welsh Icon Remembered",
-     "for": "Swansea Bay Radio",
-     "copy": "Join us at Oystermouth Castle next Sunday, August 16, for 'Simply the Best – A Tribute to Bonnie Tyler'. A beautiful way to celebrate a Welsh legend.",
+     "name": "Guitar Hero",
+     "copy": "Get ready to wish a Happy 77th Birthday to the incredible Mark Knopfler this Wednesday! Dire Straits classics all day.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MarkKnopfler"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joe-jonas-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 37th, Joe Jonas!",
+   "blurb": "Pop sensation Joe Jonas, best known as a member of the Jonas Brothers and DNCE, celebrates his 37th birthday on Sunday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august15.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star Birthday",
+     "copy": "Sunday is Joe Jonas's 37th birthday! Get ready to celebrate with some Jonas Brothers and DNCE hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#JoeJonas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ultimate-coldplay-exe",
+   "off": 0,
+   "type": "gig",
+   "hot": false,
+   "title": "Ultimate Coldplay in Exeter",
+   "blurb": "Tribute band Ultimate Coldplay performs tonight at Exeter Phoenix, bringing the stadium experience to Devon.",
+   "source": {
+    "l": "Ultimate Coldplay Tour",
+    "u": "https://www.ultimatecoldplay.com/tour"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Exeter Gig",
+     "for": "radio-exe",
+     "copy": "Get ready to sing your heart out, Exeter! Ultimate Coldplay are bringing their incredible tribute show to Exeter Phoenix tonight. Don't miss it!",
      "channels": [
       "instagram",
       "facebook",
@@ -615,93 +660,27 @@
      ],
      "time": "09:00",
      "tags": [
-      "#BonnieTyler"
-     ]
-    },
-    {
-     "name": "Swansea Celebration",
-     "for": "Bridge FM",
-     "copy": "Local musicians will perform Bonnie Tyler's hits at a free tribute event in Oystermouth Castle next Sunday. Don't miss this heartfelt celebration.",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#OystermouthCastle"
+      "#ExeterLive"
      ]
     }
    ]
   },
   {
-   "id": "kings-cross-summer-sounds",
-   "off": 4,
+   "id": "ultimate-coldplay-wrexham",
+   "off": 6,
    "type": "gig",
-   "hot": true,
-   "title": "Kings Cross Summer Sounds Festival",
-   "blurb": "The free open-air Kings Cross Summer Sounds festival returns for its 11th year in London from August 13-22.",
+   "hot": false,
+   "title": "Ultimate Coldplay in Wrexham",
+   "blurb": "Tribute band Ultimate Coldplay will be performing at the Sausage and Cider Festival in Wrexham this Sunday.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-to-do/events/august"
+    "l": "Ultimate Coldplay Tour",
+    "u": "https://www.ultimatecoldplay.com/tour"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "dragon",
+     "sub": ""
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Free London Music",
-     "for": "Nation Radio London",
-     "copy": "Looking for free music in London? Kings Cross Summer Sounds kicks off on August 13th for 10 days of open-air performances!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#KingsCross"
-     ]
-    },
-    {
-     "name": "Summer Soundtrack",
-     "for": "Nation Radio London",
-     "copy": "Kings Cross Summer Sounds is back! Enjoy free music and good vibes in London from August 13th.",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#LondonSummer"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "green-man-festival",
-   "off": 11,
-   "type": "gig",
-   "hot": true,
-   "title": "Green Man Festival in Powys",
-   "blurb": "The Green Man Festival, a major music and arts event, will draw 25,000 festivalgoers to the Brecon Beacons National Park in Powys from August 20-23.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-to-do/events/august"
-   },
-   "fits": [
     {
      "g": "welsh-local",
      "sub": "Radio Carmarthenshire"
@@ -712,7 +691,108 @@
     },
     {
      "g": "welsh-local",
-     "sub": "Bridge FM"
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wrexham Weekend",
+     "for": "dragon",
+     "copy": "Wrexham, get ready for a 'Sky Full of Stars'! Ultimate Coldplay are at the Sausage and Cider Festival this Sunday. Who's going?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#WrexhamEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-season-start",
+   "off": 12,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Season Kicks Off",
+   "blurb": "The 2026/27 Premier League season officially begins on Friday, August 21st, with Arsenal taking on newly promoted Coventry City in the opening fixture.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Football's Back",
+     "copy": "It's almost time! The Premier League season kicks off next Friday. Who's ready for the return of top-flight football?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Opening Weekend",
+     "copy": "The fixtures are out and the countdown is on! Arsenal v Coventry City is the curtain-raiser for the new Premier League season.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#PLKickOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "efl-season-start",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "EFL Season Begins",
+   "blurb": "The English Football League season, encompassing the Championship, League One, and League Two, officially starts next weekend.",
+   "source": {
+    "l": "EFL",
+    "u": "https://www.efl.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
     },
     {
      "g": "welsh-local",
@@ -720,648 +800,35 @@
     },
     {
      "g": "dragon",
-     "sub": "Dragon Radio"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Brecon Beacons Fest",
-     "for": "dragon",
-     "copy": "Green Man Festival is just around the corner! Get ready for incredible music and arts in the stunning Brecon Beacons from August 20-23.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#GreenManFestival"
-     ]
-    },
-    {
-     "name": "Welsh Festival Highlight",
-     "for": "Nation Rocks",
-     "copy": "One of Wales' cultural highlights, Green Man Festival, is set to bring 25,000 'Settlers' to Powys for a week of music and arts.",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#WelshFestivals"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-update",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "UK Singles Chart Update: Fender & Dean Still #1",
-   "blurb": "Sam Fender and Olivia Dean hold the UK Singles Chart #1 spot for a record-extending 20th week with 'Rein Me In'. Shakira and Burna Boy's 'Dai Dai' is at #2. Ariana Grande has new entries 'petal' and 'kiss me' in the Top 20, while Sienna Spiro enters the Top 10.",
-   "source": {
-    "l": "Official Charts",
-    "u": "https://www.officialcharts.com/chart-news/sam-fender-and-olivia-dean-take-record-breaking-rein-me-in-to-20th-week-at-number-1__39513/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Chart Toppers",
-     "for": "Nation Hits",
-     "copy": "Still at #1! Sam Fender & Olivia Dean make history with 'Rein Me In' for a 20th week. Plus, new Ariana Grande tracks hit the charts!",
+     "name": "Lower League Football",
+     "copy": "Football is back across the country! The EFL season begins next weekend. Which team are you following in the Championship, League One, or League Two?",
      "channels": [
       "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "New Entries & Climbers",
-     "for": "Nation Hits",
-     "copy": "Shakira & Burna Boy hold #2, and Sienna Spiro breaks into the Top 10! What's your favourite from this week's Official Singles Chart?",
-     "channels": [
       "facebook",
       "x"
      ],
      "time": "13:00",
      "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "alley-cats-netflix",
-   "off": -2,
-   "type": "tv",
-   "hot": true,
-   "title": "Ricky Gervais' 'Alley Cats' Premieres on Netflix",
-   "blurb": "Ricky Gervais' new adult animated series 'Alley Cats', a comedy about foul-mouthed feral cats, premiered on Netflix on August 7.",
-   "source": {
-    "l": "What's on Netflix",
-    "u": "https://www.whats-on-netflix.com/news/every-new-british-netflix-series-and-movie-coming-in-2026-2027-and-beyond/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Netflix Comedy",
-     "for": "",
-     "copy": "Ricky Gervais is back on Netflix with 'Alley Cats'! If you're looking for a new adult animated comedy, it premiered on August 7th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#AlleyCatsNetflix"
+      "#EFL"
      ]
     },
     {
-     "name": "Gervais' Feral Felines",
-     "for": "",
-     "copy": "Foul-mouthed feral cats in a human world – that's Ricky Gervais' new Netflix series 'Alley Cats'. Have you watched it yet?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#RickyGervais"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chelsea-detective-s2",
-   "off": 9,
-   "type": "tv",
-   "hot": true,
-   "title": "The Chelsea Detective Season 2 UK Premiere",
-   "blurb": "The second season of 'The Chelsea Detective' is set to premiere in the UK on U&Alibi in August 2026, with a special preview screening on August 18.",
-   "source": {
-    "l": "British TV Status Updates",
-    "u": "https://british-tv.status-updates.co.uk/british-tv-status-updates-august-2026/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Detective Series",
-     "for": "",
-     "copy": "Mark your calendars! 'The Chelsea Detective' Season 2 premieres in the UK this August, with a preview on the 18th. Who's ready for more London mysteries?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ChelseaDetective"
-     ]
-    },
-    {
-     "name": "London Crime Drama",
-     "for": "Nation Radio London",
-     "copy": "Fans of London crime drama, rejoice! 'The Chelsea Detective' is back for Season 2 on U&Alibi this month.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#UKTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "anthony-raneri-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 43rd Birthday, Anthony Raneri",
-   "blurb": "Anthony Raneri, lead vocalist of the rock band Bayside, celebrates his 43rd birthday today, August 9.",
-   "source": {
-    "l": "idobi Radio",
-    "u": "https://idobi.com/features/12-alternative-musicians-celebrating-birthdays-this-august/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bayside Birthday",
-     "for": "Nation Rocks",
-     "copy": "Happy 43rd Birthday to Anthony Raneri of Bayside! Turn up your favourite Bayside tracks today!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#AnthonyRaneri"
-     ]
-    },
-    {
-     "name": "Rock Star Bday",
-     "for": "Nation Rocks",
-     "copy": "Sending birthday wishes to Bayside's Anthony Raneri, who turns 43 today! What's your go-to Bayside song?",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Bayside"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "telle-smith-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 39th Birthday, Telle Smith",
-   "blurb": "Telle Smith, lead vocalist of the metalcore band The Word Alive, turns 39 today, August 9.",
-   "source": {
-    "l": "idobi Radio",
-    "u": "https://idobi.com/features/12-alternative-musicians-celebrating-birthdays-this-august/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "The Word Alive Bday",
-     "for": "Nation Rocks",
-     "copy": "Huge Happy 39th Birthday to Telle Smith from The Word Alive! What's your favourite track from them?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#TelleSmith"
-     ]
-    },
-    {
-     "name": "Metalcore Maestro",
-     "for": "Nation Rocks",
-     "copy": "Wishing a very Happy Birthday to The Word Alive's Telle Smith! 39 today and still bringing the power.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#TheWordAlive"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "arlo-parks-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 25th Birthday, Arlo Parks",
-   "blurb": "Award-winning British singer-songwriter Arlo Parks celebrates her 25th birthday today, August 9.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/arlo-parks.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Arlo's Quarter Century",
-     "for": "Nation Hits",
-     "copy": "Happy 25th Birthday to the incredible Arlo Parks! Celebrate with her amazing music today.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ArloParks"
-     ]
-    },
-    {
-     "name": "British Talent Bday",
-     "for": "Nation Love",
-     "copy": "Wishing a very Happy 25th Birthday to the brilliant Arlo Parks! What's your favourite song from her?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BritishMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jason-roy-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 46th Birthday, Jason Roy",
-   "blurb": "Jason Roy, guitarist for the rock band Stone Sour, celebrates his 46th birthday today, August 9.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/jason-roy.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Stone Sour Bday",
-     "for": "Nation Rocks",
-     "copy": "Happy 46th Birthday to Jason Roy of Stone Sour! Crank up some of their heaviest hits to celebrate.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#JasonRoy"
-     ]
-    },
-    {
-     "name": "Rock Guitarist Bday",
-     "for": "Nation Rocks",
-     "copy": "Wishing a loud Happy 46th Birthday to Stone Sour's Jason Roy! What's your favourite Stone Sour track?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#StoneSour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ben-gibbard-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 50th Birthday, Ben Gibbard",
-   "blurb": "Ben Gibbard, lead vocalist of Death Cab for Cutie and The Postal Service, turns 50 on Tuesday, August 11.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Ben_Gibbard"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Indie Icon's Milestone",
-     "for": "Nation Rocks",
-     "copy": "A big birthday coming up! Ben Gibbard of Death Cab for Cutie and The Postal Service turns 50 on Tuesday! Celebrate early with his iconic tracks.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BenGibbard"
-     ]
-    },
-    {
-     "name": "Death Cab for 50",
-     "for": "Nation 00s",
-     "copy": "Wishing a very Happy 50th Birthday to Ben Gibbard this Tuesday! What's your favourite Death Cab for Cutie or Postal Service song?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#DeathCabForCutie"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "solar-eclipse-uk",
-   "off": 3,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Partial Solar Eclipse Visible in UK",
-   "blurb": "A deep partial solar eclipse will be visible across the UK on Wednesday, August 12, starting around 6:13 PM BST and reaching maximum coverage around 7:10 PM BST.",
-   "source": {
-    "l": "Leader Live",
-    "u": "https://www.leaderlive.co.uk/news/24503741.time-next-weeks-solar-eclipse-north-wales/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Sky Spectacle",
-     "for": "",
-     "copy": "Look to the skies this Wednesday! A partial solar eclipse will be visible across the UK in the early evening. Remember to view safely!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#SolarEclipse"
-     ]
-    },
-    {
-     "name": "North Wales Eclipse",
+     "name": "Welsh Teams",
      "for": "welsh-local",
-     "copy": "North Wales is set for a stunning partial solar eclipse on Wednesday evening! Expect around 92% of the sun to be covered.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#WalesEclipse"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-phoenix-theatre",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Exeter Phoenix Theatre in the Park Concludes",
-   "blurb": "The Exeter Phoenix Theatre in the Park series, featuring productions like 'Twelfth Night', concludes today, August 9.",
-   "source": {
-    "l": "What's On In Exeter",
-    "u": "https://www.visitexeter.com/whats-on/exeter-phoenix-theatre-in-the-park-p2051323"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Exeter Theatre Last Chance",
-     "for": "radio-exe",
-     "copy": "Last chance to catch Exeter Phoenix Theatre in the Park today! Enjoy the final performances of this summer series.",
+     "copy": "Get ready, Wales! The EFL season kicks off next weekend, with Cardiff City and Swansea City among those in action. Who's your team?",
      "channels": [
       "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ExeterTheatre"
-     ]
-    },
-    {
-     "name": "Sunday Culture in Exeter",
-     "for": "radio-exe",
-     "copy": "Wrapping up a fantastic run! Exeter Phoenix Theatre in the Park finishes today. What was your favourite show?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ExeterEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-love-local-food-fest",
-   "off": 6,
-   "type": "culture",
-   "hot": true,
-   "title": "Love Local Food Festival at Exeter Castle",
-   "blurb": "The Love Local Food Festival by Greendale will be held at Exeter Castle on Saturday, August 15, offering local produce and culinary delights.",
-   "source": {
-    "l": "What's On In Exeter",
-    "u": "https://www.visitexeter.com/whats-on/love-local-food-festival-by-greendale-p2051393"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Exeter Foodie Fun",
-     "for": "radio-exe",
-     "copy": "Food lovers, get ready! The Love Local Food Festival is at Exeter Castle next Saturday, August 15. Support local and feast!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ExeterFood"
-     ]
-    },
-    {
-     "name": "Castle Culinary Delights",
-     "for": "radio-exe",
-     "copy": "Next Saturday, Exeter Castle hosts the Love Local Food Festival. A perfect day out for delicious local produce!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#DevonFood"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-summer-fest-sports",
-   "off": 6,
-   "type": "sport",
-   "hot": true,
-   "title": "Exeter Summer Fest Sports Festival",
-   "blurb": "The Summer Fest 2026 concludes with a Sports Festival at the University of Exeter's Sports Park on Saturday, August 15.",
-   "source": {
-    "l": "Inclusive Exeter",
-    "u": "https://inclusiveexeter.org.uk/summer-fest-set-to-bring-communities-together-across-exeter/"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Exeter Sports Day",
-     "for": "radio-exe",
-     "copy": "Get active next Saturday! The Summer Fest concludes with a Sports Festival at the University of Exeter's Sports Park on August 15.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ExeterSport"
-     ]
-    },
-    {
-     "name": "Community Sports",
-     "for": "radio-exe",
-     "copy": "Join the fun at the Summer Fest Sports Festival next Saturday in Exeter! A great day of activities for all ages.",
-     "channels": [
       "facebook",
       "x"
      ],
      "time": "16:00",
      "tags": [
-      "#ExeterCommunity"
+      "#WelshFootball"
      ]
     }
    ]
