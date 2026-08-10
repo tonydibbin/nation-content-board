@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-10T17:41:36.162Z",
+ "updated": "2026-08-10T18:38:55.553Z",
  "moments": [
   {
-   "id": "worldcup2026fallout",
+   "id": "euro-athletics-bham",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "World Cup 2026 Fallout",
-   "blurb": "The 2026 FIFA World Cup, hosted by Canada, Mexico, and the United States, concluded on July 19th, with the champions now crowned and the football world still buzzing.",
+   "title": "European Athletics Championships begin",
+   "blurb": "The European Athletics Championships kick off today in Birmingham, bringing a week of top-tier track and field action to the UK.",
    "source": {
-    "l": "FIFA.com",
-    "u": "https://www.fifa.com/worldcup/"
+    "l": "BBC Sport / TNT Sports",
+    "u": "https://www.bbc.co.uk/sport"
    },
    "fits": [
     {
@@ -20,58 +20,47 @@
    ],
    "angles": [
     {
-     "name": "Final chatter",
-     "for": "",
-     "copy": "Who's still talking about *that* final? What was your standout moment from the World Cup that just wrapped?",
+     "name": "Live from Birmingham",
+     "for": "nation-network",
+     "copy": "Ready, set, GO! The European Athletics Championships are officially underway in Birmingham. Who are you backing for gold this week?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#WorldCup2026"
-     ]
-    },
-    {
-     "name": "Champions debate",
-     "for": "",
-     "copy": "Team [Winning Country] are the champions of the world! Did they deserve it or was it a fluke?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Football"
-     ]
-    },
-    {
-     "name": "Player legacies",
-     "for": "",
-     "copy": "As the dust settles on the 2026 World Cup, which players cemented their legendary status, and who disappointed?",
-     "channels": [
-      "instagram",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "16:00",
+     "time": "10:30",
      "tags": [
-      "#WorldCup"
+      "#EuroAthletics2026"
+     ]
+    },
+    {
+     "name": "First finals tonight",
+     "for": "nation-network",
+     "copy": "Day one of the European Athletics Championships culminates tonight with several finals, including the men's and women's shot put. Catch the action live!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Birmingham2026"
      ]
     }
    ]
   },
   {
-   "id": "premierleaguereturns",
-   "off": 5,
-   "type": "sport",
+   "id": "house-of-dragon-s3e8",
+   "off": 0,
+   "type": "tv",
    "hot": true,
-   "title": "Premier League Returns",
-   "blurb": "The new Premier League season for 2026/27 is set to kick off this weekend, with teams eager to start their campaigns.",
+   "title": "House of the Dragon S3 Finale",
+   "blurb": "Season three of the Game of Thrones prequel, House of the Dragon, reaches its dramatic conclusion tonight with episode 8 on Sky Atlantic.",
    "source": {
-    "l": "PremierLeague.com",
-    "u": "https://www.premierleague.com/"
+    "l": "Sky Atlantic",
+    "u": "https://www.sky.com/watch/sky-atlantic"
    },
    "fits": [
     {
@@ -81,9 +70,77 @@
    ],
    "angles": [
     {
-     "name": "Season start excitement",
-     "for": "",
-     "copy": "Football's back! The Premier League season kicks off this weekend – who are you backing for the title?",
+     "name": "Dragonfire finale",
+     "for": "nation-network",
+     "copy": "It's all been leading to this! The third season of House of the Dragon wraps up tonight. Are you ready for the ultimate Targaryen showdown?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "21:00",
+     "tags": [
+      "#HouseOfTheDragon"
+     ]
+    },
+    {
+     "name": "What's next for Westeros?",
+     "for": "nation-network",
+     "copy": "After tonight's House of the Dragon finale, the big question is: what's next for the Seven Kingdoms? No spoilers, but the chatter is already huge!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "22:30",
+     "tags": [
+      "#HOTD"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hundred-finals-day",
+   "off": 6,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred Finals Day",
+   "blurb": "The Hundred cricket tournament culminates this Sunday, August 16th, with Finals Day at Lord's, where the men's and women's champions will be crowned.",
+   "source": {
+    "l": "The Hundred",
+    "u": "https://www.thehundred.com"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cricket Final Countdown",
+     "for": "nation-network",
+     "copy": "Just days to go until The Hundred Finals Day at Lord's! Who will lift the trophy this Sunday? Get ready for explosive cricket action.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#TheHundred"
+     ]
+    },
+    {
+     "name": "Lord's Hosts Grand Finale",
+     "for": "nation-network",
+     "copy": "The Home of Cricket, Lord's, prepares to host The Hundred Finals Day this Sunday. It's set to be a spectacular end to the season!",
      "channels": [
       "instagram",
       "facebook",
@@ -91,65 +148,84 @@
      ],
      "time": "09:00",
      "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Strong start predictions",
-     "for": "",
-     "copy": "New season, new hopes! Which Premier League team has the best chance of a strong start this weekend?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#PLKickOff"
-     ]
-    },
-    {
-     "name": "Fantasy Football panic",
-     "for": "",
-     "copy": "Fantasy Football panic stations! Who are you putting in your team as the Premier League returns?",
-     "channels": [
-      "instagram",
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#FantasyFootball"
+      "#Cricket"
      ]
     }
    ]
   },
   {
-   "id": "greenmanfestival2026",
-   "off": 4,
-   "type": "gig",
+   "id": "edinburgh-fringe-2026",
+   "off": 0,
+   "type": "culture",
    "hot": true,
-   "title": "Green Man Festival",
-   "blurb": "The Green Man Festival, one of Wales' most beloved music and arts festivals, is taking place this week in the Brecon Beacons.",
+   "title": "Edinburgh Fringe Festival in full swing",
+   "blurb": "The world's largest arts festival, the Edinburgh Fringe, is in full swing until August 31st, transforming Scotland's capital with thousands of performances.",
    "source": {
-    "l": "greenman.net",
-    "u": "https://www.greenman.net/"
+    "l": "Edinburgh Fringe",
+    "u": "https://www.edfringe.com"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
      "g": "nation-network",
-     "sub": "Nation Radio Wales"
+     "sub": "Nation Radio Scotland"
     },
     {
      "g": "nation-network",
      "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Fringe Fever",
+     "for": "Nation Radio Scotland",
+     "copy": "Edinburgh is alive with Fringe fever! Thousands of shows, from comedy to cabaret, are taking over the city. What's on your must-see list?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#EdinburghFringe"
+     ]
+    },
+    {
+     "name": "Arts Takeover",
+     "for": "nation-network",
+     "copy": "The Edinburgh Fringe Festival is in full flow, showcasing incredible talent from around the globe. Dive into the world's biggest arts festival!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Fringe2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "boomtown-festival-2026",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Boomtown Festival kicks off",
+   "blurb": "The immersive Boomtown Festival begins this Wednesday, August 12th, offering a unique experience with diverse music genres and themed districts until August 16th.",
+   "source": {
+    "l": "Boomtown Fair",
+    "u": "https://www.boomtownfair.co.uk"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
@@ -158,59 +234,46 @@
    ],
    "angles": [
     {
-     "name": "Welsh local focus",
-     "for": "welsh-local",
-     "copy": "The Brecon Beacons are alive with music! Green Man Festival is happening this week – who's heading to Crickhowell?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#GreenMan2026"
-     ]
-    },
-    {
-     "name": "Festival vibe",
+     "name": "Boomtown is back!",
      "for": "nation-network",
-     "copy": "Green Man Festival is in full swing! What's your favourite festival memory, or who are you most excited to see if you're there?",
+     "copy": "Get ready for Chapter 4: The Twin Trail! Boomtown Festival opens its gates on Wednesday for five days of music, art, and immersive storytelling.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "14:00",
+     "time": "10:00",
      "tags": [
-      "#FestivalSeason"
+      "#Boomtown"
      ]
     },
     {
-     "name": "Wales rocking",
-     "for": "Nation Radio Wales",
-     "copy": "Wales is rocking this week! Green Man Festival brings an incredible lineup to the Brecon Beacons. Are you there or wishing you were?",
+     "name": "Explore the districts",
+     "for": "Nation Dance",
+     "copy": "From hidden venues to pumping main stages, Boomtown is all about exploration. Which district are you hitting first this week?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "13:00",
      "tags": [
-      "#WalesMusic"
+      "#FestivalSeason"
      ]
     }
    ]
   },
   {
-   "id": "uksingleschart",
+   "id": "official-singles-chart-update",
    "off": 0,
-   "type": "culture",
+   "type": "chart",
    "hot": true,
-   "title": "Latest UK Singles Chart",
-   "blurb": "The UK Official Singles Chart was updated on Friday, August 7th, revealing the biggest songs in the country right now, with anticipation building for this Friday's new chart.",
+   "title": "Official Singles Chart Update",
+   "blurb": "The Official Singles Chart Update for August 9-15, 2026, is out, showing the UK's biggest songs based on streams, downloads, and sales.",
    "source": {
-    "l": "officialcharts.com",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart-update/"
    },
    "fits": [
     {
@@ -220,70 +283,156 @@
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Current No.1",
+     "name": "Midweek Chart Buzz",
      "for": "Nation Hits",
-     "copy": "What's currently number one in the UK? We've got the latest Official Singles Chart rundown!",
+     "copy": "The Official Singles Chart Update is in! Who's climbing, who's falling, and who's poised to take the top spot this week?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "17:00",
      "tags": [
       "#OfficialCharts"
      ]
     },
     {
-     "name": "Upcoming chart battle",
-     "for": "nation-network",
-     "copy": "Chart battle! Who do you think will be challenging for the top spot when the new Official Singles Chart drops this Friday?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NewMusic"
-     ]
-    },
-    {
-     "name": "Listener's chart pick",
+     "name": "New Music Movers",
      "for": "Nation Hits",
-     "copy": "From Friday's chart, which track is your current obsession? Let us know your favourite from the UK's biggest hits!",
+     "copy": "Always love to see the midweek chart predictions! Any surprise movers or new entries catching your ear in the Official Singles Chart Update?",
      "channels": [
       "instagram",
+      "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "19:00",
+     "time": "18:00",
      "tags": [
-      "#ChartMusic"
+      "#UKCharts"
      ]
     }
    ]
   },
   {
-   "id": "madonnabirthday",
-   "off": 6,
+   "id": "kettama-comes-and-goes",
+   "off": 0,
+   "type": "chart",
+   "hot": true,
+   "title": "Kettama's 'Comes and Goes' on UK Chart",
+   "blurb": "Irish producer Kettama's track 'Comes and Goes' has reached number 77 on the UK Singles Chart, praised as an 'euphoric, rave-ready romp'.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Chart Climber",
+     "for": "Nation Dance",
+     "copy": "Huge news for Kettama! His track 'Comes and Goes' is making waves on the Official Singles Chart. Get this euphoric banger on your playlist!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Kettama"
+     ]
+    },
+    {
+     "name": "Rave-Ready Hit",
+     "for": "Nation Hits",
+     "copy": "If you need a new track to get you moving, Kettama's 'Comes and Goes' is climbing the charts and bringing serious rave vibes. Tune in!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-ian-anderson",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 68th Madonna!",
-   "blurb": "The iconic 'Queen of Pop', Madonna, celebrates her 68th birthday on August 16th.",
+   "title": "Happy 79th Ian Anderson",
+   "blurb": "Ian Anderson, the iconic frontman and flautist of Jethro Tull, turns 79 today.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Madonna_(entertainer)"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/10"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Flute & Rock Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 79th birthday to the one and only Ian Anderson of Jethro Tull! Still rocking that flute like no other. What's your favourite Tull track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JethroTull"
+     ]
+    },
+    {
+     "name": "Progressive Rock Pioneer",
+     "for": "Nation 70s",
+     "copy": "Celebrating Ian Anderson's 79th birthday today! The distinctive sound of Jethro Tull wouldn't be the same without his incredible talent.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#IanAnderson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-neneh-cherry",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 62nd Neneh Cherry",
+   "blurb": "Swedish singer-songwriter Neneh Cherry, known for her genre-blending hits, celebrates her 62nd birthday today.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/10"
    },
    "fits": [
     {
@@ -296,71 +445,108 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Ultimate track",
+     "name": "Buffalo Stance Birthday",
      "for": "Nation 80s",
-     "copy": "Celebrating the one and only Madonna! The Queen of Pop turns 68 on Friday. What's your ultimate Madonna track?",
+     "copy": "Happy 62nd birthday to the iconic Neneh Cherry! From 'Buffalo Stance' to '7 Seconds', her influence on music is undeniable.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#Madonna"
-     ]
-    },
-    {
-     "name": "Era love",
-     "for": "Nation 90s",
-     "copy": "Happy birthday to the legend, Madonna, turning 68 this week! Her influence is undeniable. Which era of Madonna do you love most?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#QueenOfPop"
-     ]
-    },
-    {
-     "name": "First song in mind",
-     "for": "Nation Hits",
-     "copy": "68 years young for Madonna this week! Still slaying. What's the first Madonna song that comes to mind when you hear her name?",
-     "channels": [
-      "instagram",
       "x",
       "tiktok"
      ],
-     "time": "17:30",
+     "time": "10:00",
      "tags": [
-      "#HappyBirthdayMadonna"
+      "#NenehCherry"
+     ]
+    },
+    {
+     "name": "Genre-Bending Queen",
+     "for": "Nation Hits",
+     "copy": "Wishing a very happy 62nd birthday to the always cool Neneh Cherry! An artist who consistently pushed boundaries and delivered timeless tunes.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#MusicIcon"
      ]
     }
    ]
   },
   {
-   "id": "markknopflerbirthday",
+   "id": "bday-joe-jackson",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 72nd Joe Jackson",
+   "blurb": "British singer-songwriter Joe Jackson, celebrated for hits like 'Is She Really Going Out with Him?', turns 72 tomorrow.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/11"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Wave Birthday",
+     "for": "Nation 80s",
+     "copy": "Tomorrow, we're wishing a very happy 72nd birthday to the brilliant Joe Jackson! What's your favourite track from this New Wave legend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#JoeJackson"
+     ]
+    },
+    {
+     "name": "Still Going Out With Him?",
+     "for": "Nation 70s",
+     "copy": "Get ready to celebrate Joe Jackson's 72nd birthday tomorrow! His sharp songwriting and distinctive sound are truly timeless.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#MusicLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-mark-knopfler",
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Mark Knopfler Turns 77",
-   "blurb": "Dire Straits frontman and legendary guitarist Mark Knopfler celebrates his 77th birthday on August 12th.",
+   "title": "Happy 77th Mark Knopfler",
+   "blurb": "Mark Knopfler, the legendary guitarist and frontman of Dire Straits, will celebrate his 77th birthday on Wednesday.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/12"
    },
    "fits": [
     {
@@ -373,137 +559,224 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Guitar maestro",
+     "name": "Money For Nothing Birthday",
      "for": "Nation Rocks",
-     "copy": "Happy 77th Birthday to the guitar maestro, Mark Knopfler of Dire Straits! Which of his iconic riffs is your favourite?",
+     "copy": "Rock legend alert! Mark Knopfler of Dire Straits turns 77 on Wednesday. His guitar riffs are truly iconic. What's your go-to Dire Straits song?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:30",
+     "time": "10:00",
      "tags": [
       "#MarkKnopfler"
      ]
     },
     {
-     "name": "Dire Straits legend",
-     "for": "Nation 70s",
-     "copy": "Celebrating Mark Knopfler, who turns 77 on Wednesday! A true legend of music. What's your go-to Dire Straits track?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#DireStraits"
-     ]
-    },
-    {
-     "name": "Birthday love",
-     "for": "Nation Classic Hits",
-     "copy": "From Dire Straits to solo success, Mark Knopfler is 77 this week! Send him some birthday love and tell us your favourite song.",
+     "name": "Sultans of Swing",
+     "for": "Nation 80s",
+     "copy": "Get ready to celebrate Mark Knopfler's 77th birthday this Wednesday! The Dire Straits frontman's influence on music is immense.",
      "channels": [
       "instagram",
-      "x"
+      "facebook",
+      "x",
+      "threads"
      ],
-     "time": "16:30",
+     "time": "12:00",
      "tags": [
-      "#ClassicRock"
+      "#DireStraits"
      ]
     }
    ]
   },
   {
-   "id": "joejonasbirthday",
-   "off": 5,
+   "id": "bday-madonna",
+   "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Joe Jonas Turns 37",
-   "blurb": "Joe Jonas, known for his work with the Jonas Brothers and DNCE, celebrates his 37th birthday on August 15th.",
+   "title": "Happy 68th Madonna",
+   "blurb": "The Queen of Pop, Madonna, will celebrate her 68th birthday this Sunday, August 16th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Joe_Jonas"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/16.html"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Favourite bop",
+     "name": "Queen of Pop's Birthday",
      "for": "Nation Hits",
-     "copy": "Happy 37th Birthday to Joe Jonas this week! From Jonas Brothers to DNCE, what's your favourite bop he's been part of?",
+     "copy": "Get ready to strike a pose! This Sunday, the incomparable Madonna celebrates her 68th birthday. What's your all-time favourite Madonna anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "10:30",
+     "time": "10:00",
      "tags": [
-      "#JoeJonas"
+      "#Madonna"
      ]
     },
     {
-     "name": "Throwback track",
-     "for": "Nation 00s",
-     "copy": "It's Joe Jonas's birthday on Saturday – he'll be 37! What's your favourite Jonas Brothers throwback track?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#JonasBrothers"
-     ]
-    },
-    {
-     "name": "Singalong song",
-     "for": "Nation Hits",
-     "copy": "Wishing a very happy 37th to Joe Jonas! Which of his songs always gets you singing along?",
+     "name": "Iconic Influence",
+     "for": "Nation 80s",
+     "copy": "Wishing a very happy 68th birthday to Madonna this Sunday! Her impact on music, fashion, and culture is simply legendary.",
      "channels": [
       "instagram",
+      "facebook",
       "x",
       "threads"
      ],
-     "time": "18:30",
+     "time": "13:00",
      "tags": [
-      "#DNCE"
+      "#PopIcon"
      ]
     }
    ]
   },
   {
-   "id": "stevemartinbirthday",
-   "off": 4,
+   "id": "bday-belinda-carlisle",
+   "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Steve Martin's 81st",
-   "blurb": "The multi-talented actor, comedian, and musician Steve Martin celebrates his 81st birthday on August 14th.",
+   "title": "Happy 68th Belinda Carlisle",
+   "blurb": "Belinda Carlisle, the lead vocalist of The Go-Go's and a successful solo artist, turns 68 on Monday, August 17th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Steve_Martin"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/17.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Heaven Is A Place On Earth",
+     "for": "Nation 80s",
+     "copy": "Next Monday, we're wishing a very happy 68th birthday to the incredible Belinda Carlisle! What's your favourite Go-Go's or solo hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#BelindaCarlisle"
+     ]
+    },
+    {
+     "name": "Pop-Rock Icon",
+     "for": "Nation Hits",
+     "copy": "Celebrating Belinda Carlisle's 68th birthday next Monday! From punk beginnings to pop superstardom, her career is truly inspiring.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#TheGoGos"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-kelvin-mercer-de-la-soul",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 57th Kelvin Mercer (Posdnuos)",
+   "blurb": "Kelvin Mercer, also known as Posdnuos from the legendary hip-hop group De La Soul, celebrates his 57th birthday on Monday, August 17th.",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/birthdays-august"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "De La Soul Legend",
+     "for": "Nation 90s",
+     "copy": "D.A.I.S.Y. Age forever! Wishing a very happy 57th birthday to Kelvin Mercer (Posdnuos) of De La Soul next Monday. What's your favourite track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#DeLaSoul"
+     ]
+    },
+    {
+     "name": "Hip-Hop Pioneer",
+     "for": "Nation Dance",
+     "copy": "Next Monday, we celebrate the birthday of Kelvin Mercer, an absolute pioneer in hip-hop with De La Soul. Their influence is still massive!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Posdnuos"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edinburgh-book-fest-starts",
+   "off": 5,
+   "type": "culture",
+   "hot": true,
+   "title": "Edinburgh International Book Festival begins",
+   "blurb": "The Edinburgh International Book Festival begins this Friday, August 15th, offering over 800 events with authors, workshops, and debates until August 30th.",
+   "source": {
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.com/en/things-to-do/events/august"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     },
     {
      "g": "nation-network",
@@ -512,44 +785,81 @@
    ],
    "angles": [
     {
-     "name": "Comedy to banjo",
-     "for": "Nation Classic Hits",
-     "copy": "Happy 81st Birthday to the incredible Steve Martin! From comedy classics to brilliant banjo, what's your favourite Steve Martin moment?",
+     "name": "Page-Turner Festival",
+     "for": "Nation Radio Scotland",
+     "copy": "Bookworms rejoice! The Edinburgh International Book Festival kicks off this Friday. Dive into a world of literature with hundreds of events.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#SteveMartin"
+      "#EdinburghBookFest"
      ]
     },
     {
-     "name": "Legendary icon",
-     "for": "Nation Easy",
-     "copy": "The legendary Steve Martin turns 81 this week! An absolute icon. What's your favourite film or piece of music from him?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ComedyLegend"
-     ]
-    },
-    {
-     "name": "Renaissance man",
+     "name": "Meet Your Favourite Authors",
      "for": "nation-network",
-     "copy": "Celebrating Steve Martin's 81st this Friday! A true renaissance man. What's your favourite memory of his work?",
+     "copy": "Starting Friday, the Edinburgh International Book Festival is your chance to meet authors, join debates, and discover new stories. Who are you hoping to see?",
      "channels": [
       "instagram",
+      "facebook",
       "x",
       "threads"
      ],
-     "time": "17:00",
+     "time": "14:00",
      "tags": [
-      "#HappyBirthday"
+      "#BookFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vegan-camp-out-2026",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Vegan Camp Out Festival",
+   "blurb": "The Vegan Camp Out, the world's largest vegan festival, takes place from August 14th to 17th, featuring music, food, and activism.",
+   "source": {
+    "l": "Festival Calendar UK",
+    "u": "https://www.festivalcalendar.co.uk/festivals/august"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Vegan Vibes",
+     "for": "nation-network",
+     "copy": "The world's largest Vegan Camp Out kicks off this Thursday! Get ready for a weekend of plant-based food, music, and community.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#VeganCampOut"
+     ]
+    },
+    {
+     "name": "Festival for a Cause",
+     "for": "nation-network",
+     "copy": "More than just music! Vegan Camp Out, starting Thursday, combines festival fun with a focus on ethical living and activism. Who's heading there?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#VeganFestival"
      ]
     }
    ]
