@@ -1,13 +1,363 @@
 {
- "updated": "2026-08-10T16:39:38.119Z",
+ "updated": "2026-08-10T17:41:36.162Z",
  "moments": [
   {
-   "id": "mark-knopfler-77th",
+   "id": "worldcup2026fallout",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "World Cup 2026 Fallout",
+   "blurb": "The 2026 FIFA World Cup, hosted by Canada, Mexico, and the United States, concluded on July 19th, with the champions now crowned and the football world still buzzing.",
+   "source": {
+    "l": "FIFA.com",
+    "u": "https://www.fifa.com/worldcup/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Final chatter",
+     "for": "",
+     "copy": "Who's still talking about *that* final? What was your standout moment from the World Cup that just wrapped?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#WorldCup2026"
+     ]
+    },
+    {
+     "name": "Champions debate",
+     "for": "",
+     "copy": "Team [Winning Country] are the champions of the world! Did they deserve it or was it a fluke?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Football"
+     ]
+    },
+    {
+     "name": "Player legacies",
+     "for": "",
+     "copy": "As the dust settles on the 2026 World Cup, which players cemented their legendary status, and who disappointed?",
+     "channels": [
+      "instagram",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#WorldCup"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premierleaguereturns",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Returns",
+   "blurb": "The new Premier League season for 2026/27 is set to kick off this weekend, with teams eager to start their campaigns.",
+   "source": {
+    "l": "PremierLeague.com",
+    "u": "https://www.premierleague.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Season start excitement",
+     "for": "",
+     "copy": "Football's back! The Premier League season kicks off this weekend – who are you backing for the title?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Strong start predictions",
+     "for": "",
+     "copy": "New season, new hopes! Which Premier League team has the best chance of a strong start this weekend?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#PLKickOff"
+     ]
+    },
+    {
+     "name": "Fantasy Football panic",
+     "for": "",
+     "copy": "Fantasy Football panic stations! Who are you putting in your team as the Premier League returns?",
+     "channels": [
+      "instagram",
+      "x",
+      "tiktok"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#FantasyFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "greenmanfestival2026",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Green Man Festival",
+   "blurb": "The Green Man Festival, one of Wales' most beloved music and arts festivals, is taking place this week in the Brecon Beacons.",
+   "source": {
+    "l": "greenman.net",
+    "u": "https://www.greenman.net/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh local focus",
+     "for": "welsh-local",
+     "copy": "The Brecon Beacons are alive with music! Green Man Festival is happening this week – who's heading to Crickhowell?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#GreenMan2026"
+     ]
+    },
+    {
+     "name": "Festival vibe",
+     "for": "nation-network",
+     "copy": "Green Man Festival is in full swing! What's your favourite festival memory, or who are you most excited to see if you're there?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FestivalSeason"
+     ]
+    },
+    {
+     "name": "Wales rocking",
+     "for": "Nation Radio Wales",
+     "copy": "Wales is rocking this week! Green Man Festival brings an incredible lineup to the Brecon Beacons. Are you there or wishing you were?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#WalesMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uksingleschart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Latest UK Singles Chart",
+   "blurb": "The UK Official Singles Chart was updated on Friday, August 7th, revealing the biggest songs in the country right now, with anticipation building for this Friday's new chart.",
+   "source": {
+    "l": "officialcharts.com",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Current No.1",
+     "for": "Nation Hits",
+     "copy": "What's currently number one in the UK? We've got the latest Official Singles Chart rundown!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Upcoming chart battle",
+     "for": "nation-network",
+     "copy": "Chart battle! Who do you think will be challenging for the top spot when the new Official Singles Chart drops this Friday?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    },
+    {
+     "name": "Listener's chart pick",
+     "for": "Nation Hits",
+     "copy": "From Friday's chart, which track is your current obsession? Let us know your favourite from the UK's biggest hits!",
+     "channels": [
+      "instagram",
+      "x",
+      "tiktok"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#ChartMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "madonnabirthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 68th Madonna!",
+   "blurb": "The iconic 'Queen of Pop', Madonna, celebrates her 68th birthday on August 16th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Madonna_(entertainer)"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Ultimate track",
+     "for": "Nation 80s",
+     "copy": "Celebrating the one and only Madonna! The Queen of Pop turns 68 on Friday. What's your ultimate Madonna track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#Madonna"
+     ]
+    },
+    {
+     "name": "Era love",
+     "for": "Nation 90s",
+     "copy": "Happy birthday to the legend, Madonna, turning 68 this week! Her influence is undeniable. Which era of Madonna do you love most?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#QueenOfPop"
+     ]
+    },
+    {
+     "name": "First song in mind",
+     "for": "Nation Hits",
+     "copy": "68 years young for Madonna this week! Still slaying. What's the first Madonna song that comes to mind when you hear her name?",
+     "channels": [
+      "instagram",
+      "x",
+      "tiktok"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#HappyBirthdayMadonna"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markknopflerbirthday",
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Mark Knopfler turns 77",
-   "blurb": "The legendary Dire Straits frontman and acclaimed solo artist Mark Knopfler celebrates his 77th birthday on August 12th.",
+   "title": "Mark Knopfler Turns 77",
+   "blurb": "Dire Straits frontman and legendary guitarist Mark Knopfler celebrates his 77th birthday on August 12th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
@@ -19,53 +369,63 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Dire Straits icon",
-     "copy": "Happy 77th Birthday to the guitar legend Mark Knopfler! From Dire Straits classics to his incredible solo work, what's your favourite track?",
+     "name": "Guitar maestro",
+     "for": "Nation Rocks",
+     "copy": "Happy 77th Birthday to the guitar maestro, Mark Knopfler of Dire Straits! Which of his iconic riffs is your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:00",
+     "time": "08:30",
      "tags": [
       "#MarkKnopfler"
      ]
     },
     {
-     "name": "Guitar hero",
-     "copy": "Wishing a very Happy 77th Birthday to Mark Knopfler! His unique fingerstyle guitar has inspired generations. What's the Dire Straits song that first got you hooked?",
+     "name": "Dire Straits legend",
+     "for": "Nation 70s",
+     "copy": "Celebrating Mark Knopfler, who turns 77 on Wednesday! A true legend of music. What's your go-to Dire Straits track?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "12:30",
      "tags": [
       "#DireStraits"
+     ]
+    },
+    {
+     "name": "Birthday love",
+     "for": "Nation Classic Hits",
+     "copy": "From Dire Straits to solo success, Mark Knopfler is 77 this week! Send him some birthday love and tell us your favourite song.",
+     "channels": [
+      "instagram",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#ClassicRock"
      ]
     }
    ]
   },
   {
-   "id": "joe-jonas-37th",
+   "id": "joejonasbirthday",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Joe Jonas turns 37",
-   "blurb": "American singer, songwriter, and actor Joe Jonas, known for the Jonas Brothers and DNCE, will celebrate his 37th birthday on August 15th.",
+   "title": "Joe Jonas Turns 37",
+   "blurb": "Joe Jonas, known for his work with the Jonas Brothers and DNCE, celebrates his 37th birthday on August 15th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Joe_Jonas"
@@ -82,140 +442,114 @@
    ],
    "angles": [
     {
-     "name": "Jonas Brother's birthday",
-     "copy": "It's Joe Jonas's 37th Birthday on Thursday! From Camp Rock to the Jonas Brothers and DNCE, what's your favourite Joe moment?",
+     "name": "Favourite bop",
+     "for": "Nation Hits",
+     "copy": "Happy 37th Birthday to Joe Jonas this week! From Jonas Brothers to DNCE, what's your favourite bop he's been part of?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "09:00",
+     "time": "10:30",
      "tags": [
       "#JoeJonas"
      ]
     },
     {
-     "name": "DNCE vibes",
-     "copy": "Happy Birthday to Joe Jonas, turning 37 this week! Still getting 'Cake By The Ocean' vibes every time. What's your go-to Jonas Brothers or DNCE hit?",
+     "name": "Throwback track",
+     "for": "Nation 00s",
+     "copy": "It's Joe Jonas's birthday on Saturday – he'll be 37! What's your favourite Jonas Brothers throwback track?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "14:30",
      "tags": [
       "#JonasBrothers"
      ]
-    }
-   ]
-  },
-  {
-   "id": "dua-lipa-31st",
-   "off": 12,
-   "type": "birthday",
-   "hot": true,
-   "title": "Dua Lipa turns 31",
-   "blurb": "Grammy-winning British-Albanian singer-songwriter Dua Lipa celebrates her 31st birthday on August 22nd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop superstar birthday",
-     "copy": "Dua Lipa turns 31 this week! Which of her massive hits gets you on the dancefloor every time?",
+     "name": "Singalong song",
+     "for": "Nation Hits",
+     "copy": "Wishing a very happy 37th to Joe Jonas! Which of his songs always gets you singing along?",
      "channels": [
       "instagram",
-      "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "18:30",
      "tags": [
-      "#DuaLipa"
-     ]
-    },
-    {
-     "name": "Future Nostalgia Queen",
-     "copy": "Wishing a very Happy 31st Birthday to the incredible Dua Lipa! From 'New Rules' to 'Radical Optimism', she keeps delivering the bops.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FutureNostalgia"
+      "#DNCE"
      ]
     }
    ]
   },
   {
-   "id": "cerys-matthews-57th",
-   "off": 0,
+   "id": "stevemartinbirthday",
+   "off": 4,
    "type": "birthday",
-   "hot": false,
-   "title": "Cerys Matthews is 57",
-   "blurb": "Welsh singer-songwriter and broadcaster Cerys Matthews, known for Catatonia, celebrates her 57th birthday today, August 10th.",
+   "hot": true,
+   "title": "Steve Martin's 81st",
+   "blurb": "The multi-talented actor, comedian, and musician Steve Martin celebrates his 81st birthday on August 14th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Cerys_Matthews"
+    "u": "https://en.wikipedia.org/wiki/Steve_Martin"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Easy"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Welsh icon birthday",
-     "copy": "Penblwydd Hapus to the incredible Cerys Matthews, celebrating her 57th birthday today! What's your favourite Catatonia classic?",
+     "name": "Comedy to banjo",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 81st Birthday to the incredible Steve Martin! From comedy classics to brilliant banjo, what's your favourite Steve Martin moment?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "07:00",
+     "time": "09:00",
      "tags": [
-      "#CerysMatthews"
+      "#SteveMartin"
      ]
     },
     {
-     "name": "Catatonia memories",
-     "copy": "Happy 57th Birthday to the one and only Cerys Matthews! A true Welsh music legend. What's the Catatonia track that brings back the best 90s memories?",
+     "name": "Legendary icon",
+     "for": "Nation Easy",
+     "copy": "The legendary Steve Martin turns 81 this week! An absolute icon. What's your favourite film or piece of music from him?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "13:00",
      "tags": [
-      "#CoolCymru"
+      "#ComedyLegend"
+     ]
+    },
+    {
+     "name": "Renaissance man",
+     "for": "nation-network",
+     "copy": "Celebrating Steve Martin's 81st this Friday! A true renaissance man. What's your favourite memory of his work?",
+     "channels": [
+      "instagram",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#HappyBirthday"
      ]
     }
    ]
