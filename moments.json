@@ -1,63 +1,16 @@
 {
- "updated": "2026-08-10T22:24:05.872Z",
+ "updated": "2026-08-10T23:22:55.733Z",
  "moments": [
   {
-   "id": "prem-league-start-26",
-   "off": 11,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League 2026/27 Kicks Off",
-   "blurb": "The new Premier League season for 2026/27 is set to begin on Friday, August 21, with fixtures for the opening weekend already announced.",
-   "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Season Opener Hype",
-     "copy": "New season, new hopes! The Premier League 2026/27 season kicks off this Friday. Who are you backing for the title this year? #PremierLeague",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Fantasy Football Chatter",
-     "copy": "It's almost time! Your Fantasy Premier League team needs final tweaks before the whistle blows on Friday. Who's in your starting XI? #FPL",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#FPL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "community-shield-26",
+   "id": "community-shield-2026",
    "off": 6,
    "type": "sport",
    "hot": true,
-   "title": "Community Shield in Cardiff",
-   "blurb": "Manchester City and Arsenal will battle it out in the Community Shield at Cardiff's Principality Stadium on Sunday, August 16.",
+   "title": "Community Shield Showdown",
+   "blurb": "The traditional curtain-raiser for the English football season, the FA Community Shield, takes place this Sunday with Premier League champions Arsenal facing FA Cup winners Manchester City.",
    "source": {
-    "l": "BBC Sport",
-    "u": "https://www.bbc.co.uk/sport"
+    "l": "Groundhopper Guides",
+    "u": "https://www.groundhopperguides.com/2026-27-premier-league-start-date-fixtures-and-key-dates/"
    },
    "fits": [
     {
@@ -66,21 +19,139 @@
     },
     {
      "g": "welsh-local",
-     "sub": ""
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
     },
     {
      "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
     }
    ],
    "angles": [
     {
      "name": "Cardiff Host",
-     "copy": "The Community Shield is coming to Cardiff! Man City vs Arsenal at Principality Stadium this Sunday. Who's lifting the first silverware of the season? #CommunityShield",
+     "for": "welsh-local",
+     "copy": "Cardiff's Principality Stadium hosts the Community Shield this Sunday! Who are you backing, Arsenal or Man City?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Season Starter",
+     "for": "nation-network",
+     "copy": "The new football season is almost here! Arsenal v Man City in the Community Shield this Sunday – who's lifting the first trophy?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FootballIsBack"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-kickoff",
+   "off": 11,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Returns",
+   "blurb": "The 2026/27 Premier League season kicks off next Friday, August 21st, a week later than usual due to the expanded FIFA World Cup schedule.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/news/3762295"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Countdown",
+     "for": "nation-network",
+     "copy": "Less than two weeks until Premier League action is back! Who's your pick for the title this season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Predictions",
+     "for": "nation-network",
+     "copy": "The 2026/27 Premier League season kicks off August 21st. What are your bold predictions for the opening weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#PLKickOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "boomtown-festival-live",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Boomtown Festival Underway",
+   "blurb": "Boomtown Festival, the immersive music and arts event, is set to open its gates from August 12-16 in Winchester, UK, promising a unique experience.",
+   "source": {
+    "l": "Festival Calendar UK",
+    "u": "https://www.festivalcalendar.uk/festivals/boomtown"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Boomtown Buzz",
+     "for": "nation-network",
+     "copy": "Boomtown Festival is almost here! Who's heading to Winchester for a week of incredible music and immersive experiences?",
      "channels": [
       "instagram",
       "facebook",
@@ -88,100 +159,60 @@
      ],
      "time": "10:30",
      "tags": [
-      "#CommunityShield"
+      "#Boomtown"
      ]
     },
     {
-     "name": "Local Buzz",
-     "copy": "Big football in Cardiff this weekend! The Principality Stadium hosts Man City vs Arsenal for the Community Shield. Buzzing for it! #CardiffFootball",
+     "name": "Festival Vibes",
+     "for": "decades-genres",
+     "copy": "The gates to Boomtown open this Wednesday! Get ready for a wild ride of music, art, and pure festival magic. What's your must-see act?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#CardiffFootball"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uefa-super-cup-26",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "UEFA Super Cup Final",
-   "blurb": "The UEFA Super Cup, pitting the Champions League and Europa League winners against each other, takes place on Wednesday, August 12.",
-   "source": {
-    "l": "UEFA Official Site",
-    "u": "https://www.uefa.com/uefasupercup/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "European Final",
-     "copy": "Another European final this week! The UEFA Super Cup is on Wednesday. Who do you think will be crowned champions? #SuperCup",
-     "channels": [
       "x",
-      "facebook"
+      "tiktok"
      ],
-     "time": "11:00",
+     "time": "13:00",
      "tags": [
-      "#SuperCup"
-     ]
-    },
-    {
-     "name": "Midweek Football",
-     "copy": "Midweek football fix! The Champions League winners take on the Europa League champions in the UEFA Super Cup on Wednesday. Which team are you backing?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#UCL #UEL"
+      "#Boomtown2026"
      ]
     }
    ]
   },
   {
-   "id": "hollywood-vampires-cardiff",
-   "off": 4,
+   "id": "summer-nights-bandstand",
+   "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Hollywood Vampires Live in Cardiff",
-   "blurb": "Alice Cooper, Johnny Depp, and Joe Perry's supergroup, Hollywood Vampires, play Cardiff Castle on Friday, August 14.",
+   "title": "Summer Nights at the Bandstand Continues",
+   "blurb": "Glasgow's Summer Nights at the Bandstand festival continues this week, with various artists performing until August 15th.",
    "source": {
-    "l": "Cardiff Castle Official Site",
-    "u": "https://cardiffcastle.com/"
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/summer-nights-at-the-bandstand"
    },
    "fits": [
     {
      "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rock Supergroup",
-     "copy": "Hollywood Vampires at Cardiff Castle this Friday! Alice Cooper, Johnny Depp, Joe Perry... that's one star-studded lineup ready to rock Wales! #HollywoodVampires",
+     "name": "Glasgow Gigs",
+     "for": "nation-network",
+     "copy": "Still time to catch some amazing acts at Summer Nights at the Bandstand in Glasgow! Who are you hoping to see before it wraps up on Saturday?",
      "channels": [
       "instagram",
       "facebook",
@@ -189,163 +220,43 @@
      ],
      "time": "12:00",
      "tags": [
-      "#HollywoodVampires"
+      "#SummerNights"
      ]
     },
     {
-     "name": "Cardiff Gig Buzz",
-     "copy": "Cardiff, get ready to rock! Hollywood Vampires are bringing their show to the castle on Friday. Who's got tickets?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#CardiffGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jimmy-eat-world-cardiff",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Jimmy Eat World at Cardiff Castle",
-   "blurb": "American rock band Jimmy Eat World bring their 'Bleed American' 25th Anniversary show to Cardiff Castle on Saturday, August 15.",
-   "source": {
-    "l": "Cardiff Castle Official Site",
-    "u": "https://cardiffcastle.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bleed American Anniversary",
-     "copy": "Jimmy Eat World are celebrating 25 years of 'Bleed American' at Cardiff Castle this Saturday! Get ready for some serious nostalgia. #JimmyEatWorld",
+     "name": "Live Music Scotland",
+     "for": "nation-network",
+     "copy": "The iconic Glasgow Bandstand is alive with music! Summer Nights continues its run of fantastic gigs through to August 15th. Don't miss out!",
      "channels": [
       "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#JimmyEatWorld"
-     ]
-    },
-    {
-     "name": "Cardiff Rock Night",
-     "copy": "Cardiff is heating up with Jimmy Eat World hitting the castle stage on Saturday! What's your favourite track from 'Bleed American'?",
-     "channels": [
       "facebook",
       "x"
      ],
      "time": "15:30",
      "tags": [
-      "#CardiffGigs"
+      "#GlasgowMusic"
      ]
     }
    ]
   },
   {
-   "id": "beautiful-days-festival-26",
-   "off": 11,
+   "id": "reading-leeds-preview",
+   "off": 17,
    "type": "gig",
    "hot": true,
-   "title": "Beautiful Days Festival Approaches",
-   "blurb": "Devon's independent music festival, Beautiful Days, runs from August 21-24 at Escot Park, featuring a diverse lineup and family-friendly atmosphere.",
+   "title": "Reading & Leeds Festival Approaching",
+   "blurb": "The dual Reading & Leeds Festivals are set for August 27-30, promising a bank holiday weekend of diverse music across pop, rock, and hip-hop.",
    "source": {
-    "l": "Beautiful Days Festival",
-    "u": "https://www.beautifuldays.org/"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Devon Festival Countdown",
-     "copy": "The countdown to Beautiful Days Festival is on! Escot Park in Devon is gearing up for a weekend of independent music and good vibes, starting August 21st. #BeautifulDays",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BeautifulDays"
-     ]
-    },
-    {
-     "name": "Local Festival Excitement",
-     "copy": "Excitement building for Beautiful Days! Devon's own independent festival kicks off next week. Who's heading to Escot Park for the music and fun?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#DevonFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "green-man-festival-26",
-   "off": 10,
-   "type": "gig",
-   "hot": true,
-   "title": "Green Man Festival Buzz",
-   "blurb": "Wales's popular Green Man Festival, known for its contemporary music and arts, takes over the Brecon Beacons National Park from August 20-23.",
-   "source": {
-    "l": "Green Man Festival",
-    "u": "https://www.greenman.net/"
+    "l": "Rockshot Magazine",
+    "u": "https://rockshotmagazine.com/reading-leeds-2026-first-wave-lineup/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "welsh-local",
      "sub": ""
     },
     {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
+     "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
@@ -355,187 +266,161 @@
    ],
    "angles": [
     {
-     "name": "Welsh Festival Anticipation",
-     "copy": "Green Man Festival is almost here! The Brecon Beacons will be alive with music, arts, and good times from August 20th. Who's packed their wellies? #GreenManFestival",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#GreenManFestival"
-     ]
-    },
-    {
-     "name": "Brecon Beacons Calling",
-     "copy": "Calling all festival-goers! Green Man kicks off in the stunning Brecon Beacons next week. Ready for an unforgettable Welsh experience? #WalesMusic",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#WalesMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-aug-26",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Official UK #1 Single Revealed",
-   "blurb": "The Official UK Singles Chart for August 6-12 sees 'REIN ME IN' by Sam Fender & Olivia Dean holding strong at Number 1.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper",
-     "copy": "It's official! Sam Fender & Olivia Dean are still reigning at Number 1 on the UK Singles Chart with 'REIN ME IN'. What a track! #OfficialCharts",
+     "name": "Festival Countdown",
+     "for": "nation-network",
+     "copy": "Reading & Leeds Festival is just over two weeks away! Who's already planning their set list and campsite antics?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
+     "time": "11:00",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Bank Holiday Plans",
+     "for": "nation-network",
+     "copy": "August Bank Holiday weekend means one thing for many: Reading & Leeds Festival! What acts are you most excited to catch?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#ReadingFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chart-samfender-olivialdean",
+   "off": -3,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean's Chart Reign",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' has made history, holding the UK Official Singles Chart Number 1 spot for an incredible 20 consecutive weeks as of August 7th.",
+   "source": {
+    "l": "House to Astonish",
+    "u": "https://www.housetoastonish.com/charts-7-august-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart History",
+     "for": "decades-genres",
+     "copy": "20 WEEKS at Number 1! Sam Fender & Olivia Dean are making chart history with 'Rein Me In'. Is it one of your favourite tracks of the year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#UKCharts"
+     ]
+    },
+    {
+     "name": "Unstoppable Hit",
+     "for": "decades-genres",
+     "copy": "Can anyone stop Sam Fender & Olivia Dean? 'Rein Me In' continues its incredible run at the top of the UK Singles Chart! What's your prediction for next week?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
      "time": "12:30",
      "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "New Music Friday Tease",
-     "copy": "Still got 'REIN ME IN' by Sam Fender & Olivia Dean on repeat? It's the UK's current Number 1! Who do you think will challenge for the top spot this week?",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#NewMusic"
+      "#NumberOne"
      ]
     }
    ]
   },
   {
-   "id": "strictly-come-dancing-26",
-   "off": 40,
-   "type": "tv",
+   "id": "chart-ariana-grande",
+   "off": -3,
+   "type": "culture",
    "hot": true,
-   "title": "Strictly Come Dancing Line-Up Revealed",
-   "blurb": "The full celebrity line-up for Strictly Come Dancing 2026 has been revealed, with the launch show expected to air in September.",
+   "title": "Ariana Grande's 'Petal' Dominates Charts",
+   "blurb": "Ariana Grande's new album 'Petal' has launched with multiple tracks, including 'Petal' and 'Kiss Me,' entering the UK Official Singles Chart Top 40.",
    "source": {
-    "l": "BBC Official Site",
-    "u": "https://www.bbc.co.uk/strictly"
+    "l": "House to Astonish",
+    "u": "https://www.housetoastonish.com/charts-7-august-2026/"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Strictly Buzz",
-     "copy": "The Strictly Come Dancing 2026 line-up is officially out! Who are you most excited to see hit the ballroom floor this autumn? #StrictlyComeDancing",
+     "name": "New Ariana",
+     "for": "decades-genres",
+     "copy": "Ariana Grande's new album 'Petal' has landed, and tracks like 'Petal' and 'Kiss Me' are already climbing the charts! What's your favourite from the new record?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#ArianaGrande"
+     ]
+    },
+    {
+     "name": "Album Power",
+     "for": "decades-genres",
+     "copy": "It's an Ariana Grande takeover on the charts! Her new album 'Petal' is making waves, with multiple new entries. Have you streamed it yet?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:30",
+     "time": "14:00",
      "tags": [
-      "#StrictlyComeDancing"
-     ]
-    },
-    {
-     "name": "Dream Duo",
-     "copy": "With the Strictly celebs announced, who do you think will make the perfect pro-dancer pairing this year? Let the predictions begin! #Strictly",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#Strictly"
+      "#PetalAlbum"
      ]
     }
    ]
   },
   {
-   "id": "great-british-bake-off-26",
-   "off": 23,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off Returns Soon",
-   "blurb": "Season 16 of The Great British Bake Off is set to return to Channel 4 in September, with a fresh batch of bakers ready to compete.",
-   "source": {
-    "l": "Channel 4 Official Site",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Anticipation",
-     "copy": "Get your ovens ready! The Great British Bake Off returns to Channel 4 in September. What bakes are you hoping to see this season? #GBBO",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "Signature Bake Challenge",
-     "copy": "If you were entering The Great British Bake Off tent this year, what would be your signature bake? We're already hungry thinking about it! #BakeOff",
-     "channels": [
-      "facebook",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ian-anderson-bday",
+   "id": "bday-ian-anderson",
    "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Happy 79th Ian Anderson",
-   "blurb": "Jethro Tull frontman and legendary flautist Ian Anderson celebrates his 79th birthday today.",
+   "blurb": "Ian Anderson, the iconic frontman and flautist of the progressive rock band Jethro Tull, celebrates his 79th birthday today, August 10th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Ian_Anderson"
+    "l": "The Current",
+    "u": "https://www.thecurrent.org/music/songs/2026/08/10/aug-10-in-music-history-happy-birthday-to-ian-anderson-of-jethro-tull"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
     },
     {
      "g": "decades-genres",
@@ -544,41 +429,45 @@
    ],
    "angles": [
     {
-     "name": "Jethro Tull Icon",
-     "copy": "Happy 79th birthday to the one and only Ian Anderson of Jethro Tull! What's your favourite Jethro Tull track? #IanAnderson #JethroTull",
+     "name": "Flute Legend",
+     "for": "decades-genres",
+     "copy": "Happy 79th Birthday to the legendary Ian Anderson of Jethro Tull! The man who made the flute a rock instrument. What's your favourite Jethro Tull track?",
      "channels": [
+      "instagram",
       "facebook",
-      "x",
-      "instagram"
+      "x"
      ],
-     "time": "08:00",
+     "time": "08:30",
      "tags": [
       "#IanAnderson"
      ]
     },
     {
-     "name": "Flute Rocker",
-     "copy": "The legendary flautist and Jethro Tull frontman Ian Anderson turns 79 today! Still rocking after all these years. #ClassicRock",
+     "name": "Prog Rock Icon",
+     "for": "decades-genres",
+     "copy": "Wishing a very Happy Birthday to Jethro Tull's incredible frontman, Ian Anderson! Still rocking at 79. What's his most iconic moment for you?",
      "channels": [
+      "instagram",
+      "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "11:30",
      "tags": [
-      "#ClassicRock"
+      "#JethroTull"
      ]
     }
    ]
   },
   {
-   "id": "neneh-cherry-bday",
+   "id": "bday-neneh-cherry",
    "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Happy 62nd Neneh Cherry",
-   "blurb": "Groundbreaking singer, songwriter, and rapper Neneh Cherry celebrates her 62nd birthday today.",
+   "blurb": "Swedish singer, rapper, and songwriter Neneh Cherry, known for hits like 'Buffalo Stance' and 'Manchild,' turns 62 today, August 10th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Neneh_Cherry"
+    "l": "Musicians born on August 10",
+    "u": "https://www.thisdayinmusic.com/born-on-this-day/august-10/"
    },
    "fits": [
     {
@@ -592,107 +481,54 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Iconic Rapper/Singer",
-     "copy": "Happy 62nd birthday to the incredible Neneh Cherry! From 'Buffalo Stance' to '7 Seconds', her influence is undeniable. #NenehCherry",
+     "name": "Neneh Cherry Day",
+     "for": "decades-genres",
+     "copy": "Happy 62nd Birthday to the trailblazing Neneh Cherry! From 'Buffalo Stance' to 'Manchild', what's your go-to track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
       "#NenehCherry"
      ]
     },
     {
-     "name": "Genre Bender",
-     "copy": "Celebrating Neneh Cherry's 62nd birthday today! A true pioneer who blended hip-hop, pop, and dance effortlessly. What's your favourite Neneh track?",
+     "name": "Iconic Style",
+     "for": "decades-genres",
+     "copy": "Wishing a fantastic 62nd Birthday to the one and only Neneh Cherry! A true icon of music and style. What's her best song?",
      "channels": [
-      "x",
-      "tiktok"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "15:00",
+     "time": "13:30",
      "tags": [
-      "#90sMusic"
+      "#MusicBirthday"
      ]
     }
    ]
   },
   {
-   "id": "mark-knopfler-bday",
-   "off": 2,
+   "id": "bday-ben-gibbard",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 77th Mark Knopfler",
-   "blurb": "Dire Straits co-founder, guitarist, and singer-songwriter Mark Knopfler celebrates his 77th birthday on Wednesday.",
+   "title": "Happy 49th Ben Gibbard",
+   "blurb": "Ben Gibbard, the lead singer and songwriter for Death Cab for Cutie and The Postal Service, celebrates his 49th birthday tomorrow, August 11th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
+    "l": "idobi Radio",
+    "u": "https://idobi.com/features/12-alternative-musicians-celebrating-birthdays-this-august/"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar Legend",
-     "copy": "Happy 77th birthday to the legendary Mark Knopfler of Dire Straits this Wednesday! What's the ultimate Dire Straits guitar riff for you? #MarkKnopfler",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#MarkKnopfler"
-     ]
-    },
-    {
-     "name": "Dire Straits Icon",
-     "copy": "Celebrating the master of the guitar, Mark Knopfler, who turns 77 on Wednesday. From 'Sultans of Swing' to his solo work, a true musical genius. #DireStraits",
-     "channels": [
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#DireStraits"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "joe-jonas-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 37th Joe Jonas",
-   "blurb": "Pop sensation and Jonas Brothers member Joe Jonas celebrates his 37th birthday this Thursday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Joe_Jonas"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -701,8 +537,69 @@
    ],
    "angles": [
     {
-     "name": "Jonas Brother Birthday",
-     "copy": "Wishing a very Happy 37th Birthday to Joe Jonas this Thursday! What's your favourite Jonas Brothers hit? #JoeJonas #JonasBrothers",
+     "name": "Indie Legend",
+     "for": "decades-genres",
+     "copy": "Tomorrow, we celebrate Ben Gibbard's 49th Birthday! The voice of Death Cab for Cutie and The Postal Service. What's your favourite track he's penned?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#BenGibbard"
+     ]
+    },
+    {
+     "name": "Death Cab Love",
+     "for": "decades-genres",
+     "copy": "Get ready to wish Ben Gibbard a Happy 49th Birthday tomorrow! Which Death Cab for Cutie song holds a special place in your heart?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#DeathCabForCutie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-madonna",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 68th Madonna",
+   "blurb": "The Queen of Pop, Madonna, will celebrate her 68th birthday on Friday, August 16th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/16.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen of Pop",
+     "for": "decades-genres",
+     "copy": "All hail the Queen! Madonna turns 68 this Friday. What's your all-time favourite Madonna anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -711,77 +608,17 @@
      ],
      "time": "10:00",
      "tags": [
-      "#JoeJonas"
-     ]
-    },
-    {
-     "name": "Pop Star Celebrates",
-     "copy": "Can you believe Joe Jonas turns 37 on Thursday? Still bringing the pop anthems! Send him some birthday love! #PopMusic",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "madonna-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 68th Madonna",
-   "blurb": "The undisputed Queen of Pop, Madonna, celebrates her 68th birthday this Friday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Madonna"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen of Pop",
-     "copy": "Happy 68th Birthday to the one and only Madonna this Friday! A true icon who changed music forever. What's your ultimate Madonna anthem? #Madonna",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
       "#Madonna"
      ]
     },
     {
-     "name": "Pop Icon",
-     "copy": "Celebrating the incomparable Madonna, who turns 68 on Friday! Her influence spans decades. Which of her eras is your favourite? #QueenOfPop",
+     "name": "Madonna Memories",
+     "for": "decades-genres",
+     "copy": "Get ready to celebrate Madonna's 68th Birthday on Friday! Which era of the iconic superstar do you love the most?",
      "channels": [
-      "x",
-      "threads"
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "14:00",
      "tags": [
@@ -791,67 +628,15 @@
    ]
   },
   {
-   "id": "john-deacon-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 75th John Deacon",
-   "blurb": "Queen bassist and songwriter John Deacon celebrates his 75th birthday this Monday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/John_Deacon"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen Bassist",
-     "copy": "Happy 75th birthday to the legendary John Deacon of Queen this Monday! The man behind some of their greatest basslines. #JohnDeacon #Queen",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JohnDeacon"
-     ]
-    },
-    {
-     "name": "Rock Royalty",
-     "copy": "Wishing a very happy 75th to Queen's John Deacon on Monday! What's your favourite Queen song that he wrote or co-wrote? #QueenBand",
-     "channels": [
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#QueenBand"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "robert-plant-bday",
+   "id": "bday-robert-plant",
    "off": 10,
    "type": "birthday",
    "hot": true,
    "title": "Happy 78th Robert Plant",
-   "blurb": "Led Zeppelin's iconic frontman Robert Plant celebrates his 78th birthday this Tuesday.",
+   "blurb": "Led Zeppelin's legendary frontman, Robert Plant, will celebrate his 78th birthday on Thursday, August 20th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Robert_Plant"
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-for-the-week-of-aug-16-22-includes-madonna-and-andrew-garfield-f47262524a87754f738a8e32c7c223c6"
    },
    "fits": [
     {
@@ -865,25 +650,29 @@
    ],
    "angles": [
     {
-     "name": "Led Zeppelin Legend",
-     "copy": "Happy 78th birthday to the legendary voice of Led Zeppelin, Robert Plant, this Tuesday! What's your favourite Plant vocal performance? #RobertPlant",
+     "name": "Rock God",
+     "for": "decades-genres",
+     "copy": "Wishing a massive Happy 78th Birthday to rock god Robert Plant next Thursday! What's your ultimate Led Zeppelin track?",
      "channels": [
+      "instagram",
       "facebook",
-      "x",
-      "instagram"
+      "x"
      ],
-     "time": "09:00",
+     "time": "16:00",
      "tags": [
       "#RobertPlant"
      ]
     },
     {
-     "name": "Rock God",
-     "copy": "Celebrating Robert Plant's 78th on Tuesday! The ultimate rock frontman who inspired generations. #LedZeppelin",
+     "name": "Led Zeppelin Legacy",
+     "for": "decades-genres",
+     "copy": "Next week, we celebrate Robert Plant's 78th! The voice behind some of the greatest rock songs ever. What's your favourite Led Zeppelin album?",
      "channels": [
+      "instagram",
+      "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "18:00",
      "tags": [
       "#LedZeppelin"
      ]
@@ -891,160 +680,113 @@
    ]
   },
   {
-   "id": "end-of-summer-vibes",
-   "off": 0,
+   "id": "wales-school-return",
+   "off": 1,
    "type": "seasonal",
    "hot": true,
-   "title": "Summer Holidays Winding Down",
-   "blurb": "As August progresses, the UK's summer holidays are starting to wind down, with many preparing for the bank holiday and the return to school.",
+   "title": "Wales Schools Return",
+   "blurb": "Summer holidays for many schools in Wales are wrapping up, with pupils set to return to classrooms as early as tomorrow, August 11th.",
    "source": {
-    "l": "General UK seasonal trend",
-    "u": "https://www.gov.uk/bank-holidays"
+    "l": "UK School Holidays",
+    "u": "https://www.ukschoolholidays.co.uk/2026-2027/wales.php"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Summer Memories",
-     "copy": "Those summer holiday vibes are starting to fade, but the memories last forever! What's been your highlight of Summer 2026? ☀️",
-     "channels": [
-      "instagram",
-      "facebook",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Summer2026"
-     ]
+     "g": "welsh-local",
+     "sub": "Bridge FM"
     },
-    {
-     "name": "Back to School Prep",
-     "copy": "The 'back to school' feeling is officially in the air! Are you ready for September, or still clinging onto those last bits of summer freedom? 📚",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#BackToSchool"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "amplitude-swansea-26",
-   "off": 12,
-   "type": "gig",
-   "hot": true,
-   "title": "Amplitude Festival in Swansea",
-   "blurb": "Swansea's Amphitheatre will host Amplitude, a free grassroots music festival showcasing local talent across various genres on August 22-23.",
-   "source": {
-    "l": "Visit Swansea Bay",
-    "u": "https://www.visitswanseabay.com/events/amplitude/"
-   },
-   "fits": [
     {
      "g": "welsh-local",
      "sub": "Swansea Bay Radio"
     },
     {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
      "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Local Music Showcase",
-     "copy": "Get ready Swansea! The Amplitude festival hits the Amphitheatre next weekend, celebrating the best in local grassroots music. Don't miss out! #SwanseaMusic",
+     "name": "Back to School Wales",
+     "for": "welsh-local",
+     "copy": "For many across Wales, the school holidays are over! Wishing all pupils heading back to class tomorrow a fantastic new term!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "07:30",
      "tags": [
-      "#SwanseaMusic"
+      "#BackToSchoolWales"
      ]
     },
     {
-     "name": "Free Festival Fun",
-     "copy": "Free festival alert! Amplitude is bringing two days of live music to Swansea's Amphitheatre on Aug 22-23. Which local acts are you excited to see?",
+     "name": "Holiday's Over",
+     "for": "dragon",
+     "copy": "Did the summer holidays fly by? Many schools in Wales are back this week! Good luck to everyone returning to lessons!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "09:00",
      "tags": [
-      "#FreeFestival"
+      "#WalesSchools"
      ]
     }
    ]
   },
   {
-   "id": "krafty-kuts-exeter-26",
-   "off": 4,
-   "type": "gig",
+   "id": "scotland-school-return",
+   "off": 8,
+   "type": "seasonal",
    "hot": true,
-   "title": "Krafty Kuts in Exeter",
-   "blurb": "Renowned DJ Krafty Kuts is set to bring his high-energy set to Bomba Exeter on Friday, August 14.",
+   "title": "Scotland Schools Reopen",
+   "blurb": "Schools across Scotland are preparing for the new academic year, with many pupils returning from their summer break around August 13th-18th.",
    "source": {
-    "l": "What's On Exeter",
-    "u": "https://whatnightout.com/exeter-events"
+    "l": "Midlothian Council",
+    "u": "https://www.midlothian.gov.uk/info/200230/schools/36/school_term_dates_and_holidays"
    },
    "fits": [
     {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
      "g": "nation-network",
-     "sub": "Nation Hits"
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Exeter Dance Night",
-     "copy": "Exeter, get ready to move! Krafty Kuts is bringing the beats to Bomba this Friday. Who's joining the party? #ExeterNights #KraftyKuts",
+     "name": "Scotland Back To School",
+     "for": "nation-network",
+     "copy": "The summer holidays are almost over for many Scottish pupils! Wishing everyone heading back to school next week a great start!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "19:00",
+     "time": "08:00",
      "tags": [
-      "#ExeterNights"
+      "#ScotlandSchools"
      ]
     },
     {
-     "name": "DJ Set",
-     "copy": "One of the UK's best DJs, Krafty Kuts, is in Exeter this Friday! Expect an electrifying night of breaks and bass. #DanceMusic",
+     "name": "New Term North",
+     "for": "nation-network",
+     "copy": "Back to school bells ringing across Scotland next week! Are you ready for the new academic year?",
      "channels": [
-      "x",
-      "tiktok"
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "12:00",
      "tags": [
-      "#DanceMusic"
+      "#ScottishEducation"
      ]
     }
    ]
