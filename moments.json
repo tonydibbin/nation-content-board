@@ -1,93 +1,38 @@
 {
- "updated": "2026-08-11T08:00:25.976Z",
+ "updated": "2026-08-11T08:54:07.723Z",
  "moments": [
   {
-   "id": "uk-heatwave-aug26",
-   "off": 0,
-   "type": "seasonal",
+   "id": "community-shield-2026",
+   "off": 5,
+   "type": "sport",
    "hot": true,
-   "title": "UK Heatwave Peaks This Week",
-   "blurb": "A significant heatwave is forecast for much of the UK this week, with central and southern England potentially seeing temperatures over 35°C by Thursday and Friday.",
+   "title": "Community Shield 2026 in Cardiff",
+   "blurb": "The traditional curtain-raiser for the English football season, the FA Community Shield, takes place this Saturday at Principality Stadium in Cardiff, with Premier League champions Arsenal facing FA Cup winners Manchester City.",
    "source": {
-    "l": "Met Office / AccuWeather",
-    "u": "https://www.youtube.com/watch?v=dQw4w9WgXcQ (example, actual source is YouTube weather forecast)"
+    "l": "Premier League / BBC Sport",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "welsh-local",
+     "sub": "Bridge FM"
     },
     {
      "g": "welsh-local",
-     "sub": ""
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
     },
     {
      "g": "dragon",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Heatwave Alert",
-     "for": "nation-network",
-     "copy": "Sun's out, thermometers are soaring! Get ready for a scorching UK heatwave peaking Thursday and Friday. Stay cool, stay hydrated! #UKHeatwave",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#UKHeatwave"
-     ]
     },
-    {
-     "name": "Devon Heat",
-     "for": "radio-exe",
-     "copy": "Devon, we're in for a hot one! Sea breezes might offer some relief, but expect high temperatures all week. Keep cool, Grecians! #DevonHeat",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#DevonHeat"
-     ]
-    },
-    {
-     "name": "Wales Heat",
-     "for": "welsh-local",
-     "copy": "The heatwave is hitting Wales! While coastal areas might catch a breeze, it's going to be very warm inland. Look after yourselves. #WalesHeat",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WalesHeat"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-kickoff-2026",
-   "off": 10,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Kicks Off Next Week",
-   "blurb": "The 2026/27 Premier League season officially kicks off on Friday, August 21st, with Arsenal v Coventry City live on Sky Sports.",
-   "source": {
-    "l": "Premier League Official",
-    "u": "https://www.premierleague.com/fixtures"
-   },
-   "fits": [
     {
      "g": "nation-network",
      "sub": ""
@@ -95,356 +40,9 @@
    ],
    "angles": [
     {
-     "name": "Season Opener Buzz",
-     "for": "nation-network",
-     "copy": "The wait is almost over! The Premier League season kicks off next Friday. Who are you backing for the title this year? #PremierLeague",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "First Match Excitement",
-     "for": "nation-network",
-     "copy": "Arsenal vs Coventry City starts the Premier League action next Friday! Get ready for a new season of drama. #PLKickOff",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PLKickOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-city-grimsby-aug15",
-   "off": 4,
-   "type": "sport",
-   "hot": true,
-   "title": "Exeter City's League Two Season Opener",
-   "blurb": "Exeter City begin their 2026/27 League Two campaign away at Grimsby Town on Saturday, August 15th.",
-   "source": {
-    "l": "Exeter City FC Official",
-    "u": "https://www.exetercityfc.co.uk/fixtures-results/"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "League Two Kick-off",
-     "for": "radio-exe",
-     "copy": "It's almost here, Grecians! Exeter City kick off their League Two season this Saturday away at Grimsby. Up the City! #ECFC",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#ECFC"
-     ]
-    },
-    {
-     "name": "First Away Day",
-     "for": "radio-exe",
-     "copy": "First away day of the season for Exeter City this Saturday! All the best to the team and travelling fans heading to Grimsby. #ExeterCity",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ExeterCity"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cymru-premier-aug14-15",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "Cymru Premier League Action Continues",
-   "blurb": "The JD Cymru Premier League season continues this week with matches on Friday, August 14th and Saturday, August 15th.",
-   "source": {
-    "l": "Cymru Leagues / FAW",
-    "u": "https://www.cymruleagues.co.uk/fixtures-results"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Football Weekend",
+     "name": "Cardiff Buzz",
      "for": "welsh-local",
-     "copy": "Cymru Premier League action is back this weekend! Who are you supporting? Get ready for some top Welsh football! #CymruPremier",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CymruPremier"
-     ]
-    },
-    {
-     "name": "Local Teams in Action",
-     "for": "dragon",
-     "copy": "Big weekend for Welsh football! Our local Cymru Premier teams are back on the pitch this Friday and Saturday. Catch the highlights! #WelshFootball",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#WelshFootball"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "scotland-schools-back",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Scottish Schools Return Today",
-   "blurb": "Many schools across Scotland are returning from their summer holidays today, Tuesday, August 11th.",
-   "source": {
-    "l": "Icelolly.com",
-    "u": "https://www.icelolly.com/school-holidays-uk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Back to School Scotland",
-     "for": "Nation Radio Scotland",
-     "copy": "Good luck to all the kids (and parents!) heading back to school across Scotland today. Hope you had a great summer break! #BackToSchoolScotland",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#BackToSchoolScotland"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wales-summer-hols-cont",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Wales Summer Holidays Continue",
-   "blurb": "School summer holidays in Wales continue throughout August, with most pupils returning at the start of September.",
-   "source": {
-    "l": "Wales.gov / Icelolly.com",
-    "u": "https://www.icelolly.com/school-holidays-uk"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Still On Holiday Wales",
-     "for": "welsh-local",
-     "copy": "The summer holidays are still in full swing across Wales! Making the most of the long break? What are your plans for the next few weeks? #WalesSummer",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#WalesSummer"
-     ]
-    },
-    {
-     "name": "Enjoy the Break",
-     "for": "dragon",
-     "copy": "No school for a while yet in Wales! Keep enjoying those summer holidays, everyone. Any exciting adventures planned? #WelshHolidays",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#WelshHolidays"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "album-jungle-sunshine",
-   "off": 3,
-   "type": "culture",
-   "hot": true,
-   "title": "New Album: Jungle - Sunshine",
-   "blurb": "British electronic duo Jungle release their latest album, 'Sunshine', on Friday, August 14th, featuring their signature upbeat, summery sounds.",
-   "source": {
-    "l": "Fact Magazine",
-    "u": "https://www.factmag.com/tag/new-music-releases/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Jungle Drop",
-     "for": "Nation Dance",
-     "copy": "Get ready to groove! Jungle's new album 'Sunshine' drops this Friday, promising more of those irresistible electronic beats. #JungleSunshine",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JungleSunshine"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "album-phoebe-bridgers-lost-weekend",
-   "off": 3,
-   "type": "culture",
-   "hot": true,
-   "title": "New Album: Phoebe Bridgers - Lost Weekend",
-   "blurb": "Acclaimed indie artist Phoebe Bridgers is set to release her third solo album, 'Lost Weekend', on Friday, August 14th.",
-   "source": {
-    "l": "Release Wave",
-    "u": "https://www.releasewave.com/august-2026-music-releases"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Phoebe's New One",
-     "for": "Nation Rocks",
-     "copy": "Indie fans, mark your calendars! Phoebe Bridgers' highly anticipated new album 'Lost Weekend' arrives this Friday. What are your predictions? #PhoebeBridgers",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#PhoebeBridgers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "album-dmas-aug21",
-   "off": 10,
-   "type": "culture",
-   "hot": true,
-   "title": "New Album: DMA'S - DMA'S",
-   "blurb": "Australian indie rock band DMA'S release their self-titled fifth album on Friday, August 21st.",
-   "source": {
-    "l": "Release Wave",
-    "u": "https://www.releasewave.com/august-2026-music-releases"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "DMA'S Are Back",
-     "for": "Nation Rocks",
-     "copy": "Big news for indie rock fans! DMA'S drop their new self-titled album next Friday. Get ready for some fresh tunes! #DMAS",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#DMAS"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-joe-jackson-aug11",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 72nd Birthday, Joe Jackson!",
-   "blurb": "Singer-songwriter Joe Jackson, known for hits like 'Is She Really Going Out with Him?' and 'Steppin' Out', turns 72 today.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august-11"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Joe Jackson at 72",
-     "for": "Nation 80s",
-     "copy": "Happy 72nd Birthday to the brilliant Joe Jackson! Still stepping out with incredible music. What's your favourite Joe Jackson track? #JoeJackson",
+     "copy": "Cardiff is buzzing! The Community Shield brings Arsenal vs Man City to Principality Stadium this Saturday. Who are you backing?",
      "channels": [
       "instagram",
       "facebook",
@@ -452,83 +50,13 @@
      ],
      "time": "09:00",
      "tags": [
-      "#JoeJackson"
+      "#CommunityShield"
      ]
-    }
-   ]
-  },
-  {
-   "id": "bday-jim-kale-aug11",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 83rd Birthday, Jim Kale!",
-   "blurb": "Jim Kale, the original bassist and co-founder of Canadian rock legends The Guess Who, turns 83 today.",
-   "source": {
-    "l": "National Day Calendar",
-    "u": "https://nationaldaycalendar.com/august-11-birthdays-events/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guess Who Legend",
-     "for": "Nation 60s",
-     "copy": "Happy 83rd Birthday to Jim Kale, legendary bassist and co-founder of The Guess Who! Still rockin' through the ages. #TheGuessWho",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TheGuessWho"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-pete-york-aug15",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 84th Birthday, Pete York!",
-   "blurb": "Pete York, the iconic drummer for The Spencer Davis Group, will celebrate his 84th birthday on Saturday, August 15th.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august-15"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "60s Drummer Legend",
-     "for": "Nation 60s",
-     "copy": "Can you believe it? Pete York of The Spencer Davis Group turns 84 this Saturday! Keep on drumming! #PeteYork",
+     "name": "National Season Kick-off",
+     "for": "nation-network",
+     "copy": "The Premier League season is just around the corner, but first, it's the Community Shield! Arsenal vs Manchester City this Saturday. Who takes the first silverware?",
      "channels": [
       "instagram",
       "facebook",
@@ -536,41 +64,45 @@
      ],
      "time": "10:00",
      "tags": [
-      "#PeteYork"
+      "#FootballIsBack"
      ]
     }
    ]
   },
   {
-   "id": "bday-tom-johnston-aug15",
-   "off": 4,
-   "type": "birthday",
+   "id": "the-hundred-final-2026",
+   "off": 5,
+   "type": "sport",
    "hot": true,
-   "title": "Happy 78th Birthday, Tom Johnston!",
-   "blurb": "Tom Johnston, frontman and co-founder of The Doobie Brothers, will be 78 on Saturday, August 15th.",
+   "title": "The Hundred Cricket Final",
+   "blurb": "The climax of The Hundred cricket tournament arrives this Sunday, August 16, with both the men's and women's finals being played.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august-15"
+    "l": "The Hundred Official Site / ECB",
+    "u": "https://www.thehundred.com/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Listen to the Music",
-     "for": "Nation 70s",
-     "copy": "Listen to the music! Happy 78th Birthday to The Doobie Brothers' legendary frontman, Tom Johnston, this Saturday! #DoobieBrothers",
+     "name": "Finals Day Excitement",
+     "copy": "It's Finals Day for The Hundred this Sunday! Who are you hoping to see lift the trophy in the Men's and Women's competitions?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TheHundred"
+     ]
+    },
+    {
+     "name": "Cricket Countdown",
+     "copy": "The Hundred has flown by! Get ready for a massive Sunday of cricket as the finals decide this year's champions.",
      "channels": [
       "instagram",
       "facebook",
@@ -578,21 +110,21 @@
      ],
      "time": "12:00",
      "tags": [
-      "#DoobieBrothers"
+      "#Cricket"
      ]
     }
    ]
   },
   {
-   "id": "bday-joe-jonas-aug15",
-   "off": 4,
-   "type": "birthday",
+   "id": "madonna-kylie-chart",
+   "off": -2,
+   "type": "culture",
    "hot": true,
-   "title": "Happy 37th Birthday, Joe Jonas!",
-   "blurb": "Pop superstar Joe Jonas, known for the Jonas Brothers and DNCE, celebrates his 37th birthday on Saturday, August 15th.",
+   "title": "Madonna & Kylie's 'Love Sensation' climbs chart",
+   "blurb": "Madonna and Kylie Minogue's highly anticipated collaboration, 'Love Sensation,' is set to be this week's highest new entry on the Official Singles Chart, currently at Number 8.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august-15"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
@@ -601,37 +133,106 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Joe Jonas Turns 37",
-     "for": "Nation Hits",
-     "copy": "Cake By The Ocean for Joe Jonas! He turns 37 this Saturday. Send him some birthday love! #JoeJonas",
+     "name": "Pop Royalty Team Up",
+     "copy": "Pop royalty unite! Madonna and Kylie's 'Love Sensation' is making a huge splash on the charts. Are you loving this collaboration?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "14:00",
+     "time": "09:30",
      "tags": [
-      "#JoeJonas"
+      "#MadonnaKylie"
+     ]
+    },
+    {
+     "name": "Chart Watch",
+     "copy": "Midweek chart update: 'Love Sensation' by Madonna & Kylie Minogue is heading for a Top 10 debut! Which other tracks are you streaming?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#OfficialCharts"
      ]
     }
    ]
   },
   {
-   "id": "bday-madonna-aug16",
+   "id": "samfender-oliviadean-chart",
+   "off": -2,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean eye 21st week at No.1",
+   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' is leading the Official Singles Chart and could extend its record-breaking run to a 21st week at Number 1.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Dominance",
+     "copy": "Can they do it again? Sam Fender & Olivia Dean's 'Rein Me In' is on track for an incredible 21st week at Number 1! A modern classic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#SamFender"
+     ]
+    },
+    {
+     "name": "Record Breakers",
+     "copy": "Still at the top! 'Rein Me In' by Sam Fender & Olivia Dean continues its historic chart reign. What's your favourite track by them?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#OliviaDean"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "madonna-birthday",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 68th Birthday, Madonna!",
-   "blurb": "The undisputed Queen of Pop, Madonna, will celebrate her 68th birthday on Sunday, August 16th.",
+   "title": "Happy 68th to Madonna",
+   "blurb": "The Queen of Pop, Madonna, celebrates her 68th birthday this Sunday, August 16.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-august-16-22-b5d1e2e17e3f4e248b6c4b2a8d3c5f2b"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august16.html"
    },
    "fits": [
     {
@@ -644,37 +245,56 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Queen of Pop Bday",
-     "for": "Nation 80s",
-     "copy": "Express yourself! The one and only Madonna turns 68 this Sunday. Celebrate with her biggest hits all weekend! #Madonna",
+     "name": "Pop Icon Celebration",
+     "copy": "Happy birthday to the one and only Queen of Pop! Madonna turns 68 this Sunday. What's your all-time favourite Madonna track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "11:30",
      "tags": [
       "#Madonna"
+     ]
+    },
+    {
+     "name": "Madonna's Legacy",
+     "copy": "From 'Like A Virgin' to 'Vogue' and beyond, Madonna has redefined pop music for decades. Celebrating her 68th birthday this weekend!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#QueenOfPop"
      ]
     }
    ]
   },
   {
-   "id": "bday-belinda-carlisle-aug17",
+   "id": "belinda-carlisle-birthday",
    "off": 6,
    "type": "birthday",
-   "hot": true,
-   "title": "Happy 68th Birthday, Belinda Carlisle!",
-   "blurb": "Go-Go's frontwoman and solo star Belinda Carlisle will turn 68 on Monday, August 17th.",
+   "hot": false,
+   "title": "Happy 68th to Belinda Carlisle",
+   "blurb": "The iconic lead singer of The Go-Go's and successful solo artist, Belinda Carlisle, celebrates her 68th birthday on Monday, August 17.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-august-16-22-b5d1e2e17e3f4e248b6c4b2a8d3c5f2b"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august17.html"
    },
    "fits": [
     {
@@ -688,9 +308,112 @@
    ],
    "angles": [
     {
-     "name": "Heaven Is a Place on Earth",
-     "for": "Nation 80s",
-     "copy": "Heaven is a place on Earth for Belinda Carlisle, who turns 68 this Monday! What's your favourite Go-Go's or solo track? #BelindaCarlisle",
+     "name": "Go-Go's Icon",
+     "copy": "Our lips are sealed! Happy 68th birthday to the incredible Belinda Carlisle, celebrating on Monday. What's your favourite Go-Go's or solo hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#BelindaCarlisle"
+     ]
+    },
+    {
+     "name": "Heaven Is A Place On Earth",
+     "copy": "Belinda Carlisle turns 68 on Monday! From The Go-Go's punk-pop to her 'Heaven Is A Place On Earth' solo stardom, she's a true legend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#TheGoGos"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ben-gibbard-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 50th to Ben Gibbard",
+   "blurb": "Ben Gibbard, frontman of Death Cab for Cutie and The Postal Service, turns 50 today, August 11.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august11.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Indie Icon at 50",
+     "copy": "Happy 50th birthday to Ben Gibbard! The voice behind Death Cab for Cutie and The Postal Service. What's your go-to track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#BenGibbard"
+     ]
+    },
+    {
+     "name": "Death Cab for Cutie",
+     "copy": "Celebrating Ben Gibbard's 50th today! His songwriting has given us so many anthems with Death Cab for Cutie. Which one resonates most with you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#DeathCabForCutie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joe-jackson-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 72nd to Joe Jackson",
+   "blurb": "English singer-songwriter Joe Jackson, known for hits like 'Is She Really Going Out With Him?', celebrates his 72nd birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august11.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Wave Legend",
+     "copy": "Happy 72nd birthday to the brilliant Joe Jackson! Still wondering 'Is She Really Going Out With Him?' What's your favourite Joe Jackson tune?",
      "channels": [
       "instagram",
       "facebook",
@@ -698,41 +421,81 @@
      ],
      "time": "10:00",
      "tags": [
-      "#BelindaCarlisle"
+      "#JoeJackson"
      ]
     }
    ]
   },
   {
-   "id": "bday-ian-gillan-aug19",
-   "off": 8,
+   "id": "kelis-birthday",
+   "off": 10,
    "type": "birthday",
-   "hot": true,
-   "title": "Happy 81st Birthday, Ian Gillan!",
-   "blurb": "Deep Purple's iconic vocalist Ian Gillan will celebrate his 81st birthday on Wednesday, August 19th.",
+   "hot": false,
+   "title": "Happy 47th to Kelis",
+   "blurb": "Grammy-nominated R&B and soul singer Kelis, famous for 'Milkshake' and 'Caught Out There', celebrates her 47th birthday on August 21.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august-19"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august21.html"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "R&B Queen",
+     "copy": "Her milkshake brings all the boys to the yard! Happy 47th birthday to the incredible Kelis, celebrating on August 21st. What's your favourite track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#Kelis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "we-out-here-festival",
+   "off": 9,
+   "type": "gig",
+   "hot": true,
+   "title": "We Out Here Festival in Dorset",
+   "blurb": "We Out Here Festival, curated by Gilles Peterson, returns to Wimborne St Giles, Dorset, from August 20-23, celebrating jazz, soul, hip hop, house, and electronic music.",
+   "source": {
+    "l": "We Out Here Festival",
+    "u": "https://weoutherefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "nation-network",
+     "sub": "Nation Radio South"
     }
    ],
    "angles": [
     {
-     "name": "Deep Purple Legend",
-     "for": "Nation Rocks",
-     "copy": "Smoke on the water, happy 81st birthday to the legendary Ian Gillan of Deep Purple this Wednesday! #IanGillan",
+     "name": "Dorset Festival Vibes",
+     "copy": "We Out Here Festival kicks off in Dorset next week! Curated by Gilles Peterson, it's set for four days of incredible jazz, soul, and electronic music. Who's got tickets?",
      "channels": [
       "instagram",
       "facebook",
@@ -740,49 +503,207 @@
      ],
      "time": "11:00",
      "tags": [
-      "#IanGillan"
+      "#WeOutHere"
      ]
-    }
-   ]
-  },
-  {
-   "id": "bday-john-deacon-aug19",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 75th Birthday, John Deacon!",
-   "blurb": "Queen's bassist and songwriter John Deacon will turn 75 on Wednesday, August 19th.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august-19"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen Bassist's Bday",
-     "for": "Nation 70s",
-     "copy": "He gave us 'Another One Bites the Dust' and 'I Want to Break Free'! Happy 75th Birthday to Queen's John Deacon this Wednesday! #JohnDeacon",
+     "name": "Sold Out Success",
+     "copy": "Another sold-out success! We Out Here Festival is almost upon us. Get ready for a boundary-breaking musical experience in Dorset.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "14:00",
      "tags": [
-      "#JohnDeacon"
+      "#GillesPeterson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alley-cats-netflix",
+   "off": -4,
+   "type": "tv",
+   "hot": true,
+   "title": "Ricky Gervais' 'Alley Cats' on Netflix",
+   "blurb": "Ricky Gervais' new adult animated series 'Alley Cats,' featuring many of his 'After Life' stars, premiered on Netflix last Friday, August 7.",
+   "source": {
+    "l": "Netflix",
+    "u": "https://www.netflix.com/gb/title/81691901"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Gervais' New Show",
+     "copy": "Ricky Gervais is back with 'Alley Cats' on Netflix! His new adult animated series is out now. Have you started watching?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#AlleyCats"
+     ]
+    },
+    {
+     "name": "Foul-mouthed Felines",
+     "copy": "If you love Ricky Gervais' humour, his new animated series 'Alley Cats' on Netflix is a must-watch. Expect foul-mouthed feral cats and plenty of laughs!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#RickyGervais"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-good-ship-murder-s3",
+   "off": -1,
+   "type": "tv",
+   "hot": true,
+   "title": "'The Good Ship Murder' S3 on BritBox",
+   "blurb": "The third season of the popular mystery drama 'The Good Ship Murder' is now available for binge-watching on BritBox Premier, with weekly episodes for regular subscribers starting August 25.",
+   "source": {
+    "l": "BritBox",
+    "u": "https://www.britbox.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cruise Ship Mysteries",
+     "copy": "All aboard for more mysteries! 'The Good Ship Murder' Season 3 is now streaming on BritBox. Who's ready for some holiday whodunnits?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheGoodShipMurder"
+     ]
+    },
+    {
+     "name": "BritBox Binge",
+     "copy": "Need a new series to get stuck into? 'The Good Ship Murder' Season 3 has just dropped on BritBox. Perfect for your summer viewing!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#BritBox"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "radio-exe-local-events",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Local Events in Exeter Today",
+   "blurb": "Exeter has a host of local events happening today, including 'We're going Wild this summer!' at Guildhall Shopping Exeter, a Summer Independent Market at Princesshay, and 'Princess Play' also at Princesshay.",
+   "source": {
+    "l": "Radio Exe Events",
+    "u": "https://www.radioexe.co.uk/events/"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": "Radio Exe"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Exeter Summer Fun",
+     "copy": "What's on in Exeter today? Lots of summer fun at Guildhall Shopping and Princesshay! 'We're going Wild', a Summer Independent Market and 'Princess Play' are all happening. Get out and enjoy!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ExeterEvents"
+     ]
+    },
+    {
+     "name": "Princesshay Activities",
+     "copy": "Heading to Princesshay today? Check out the Summer Independent Market and 'Princess Play' for some family-friendly fun in Exeter!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Princesshay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scotland-schools-return",
+   "off": 2,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Scottish Schools Return This Week",
+   "blurb": "Many schools in Scotland are returning this week, with pupils in some areas, like South Lanarkshire, heading back on Thursday, August 13.",
+   "source": {
+    "l": "Scottish Local Councils",
+    "u": "https://www.southlanarkshire.gov.uk/info/200196/schools_and_learning/385/school_holidays/3"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Back to School Scotland",
+     "copy": "The summer holidays are winding down for many in Scotland, with pupils heading back to school this week! Wishing everyone a great first few days back.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#BackToSchoolScotland"
+     ]
+    },
+    {
+     "name": "End of Summer Break",
+     "copy": "Where did the summer go? Scottish schools are reopening their doors this week. Good luck to all students and teachers!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ScottishSchools"
      ]
     }
    ]
