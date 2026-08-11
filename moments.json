@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-11T05:44:41.680Z",
+ "updated": "2026-08-11T06:42:13.559Z",
  "moments": [
   {
-   "id": "european-athletics",
-   "off": 0,
+   "id": "premier-league-kickoff-26",
+   "off": 10,
    "type": "sport",
    "hot": true,
-   "title": "European Athletics Championships",
-   "blurb": "Birmingham is hosting the European Athletics Championships from August 10-16, marking the first time the UK has staged this prestigious event.",
+   "title": "Premier League Season Kicks Off",
+   "blurb": "The 2026/27 Premier League season officially begins on Friday, August 21, with fixtures released on June 19.",
    "source": {
-    "l": "European Athletics",
-    "u": "https://www.european-athletics.com/"
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
@@ -18,77 +18,18 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birmingham Buzz",
-     "for": "nation-network",
-     "copy": "Birmingham is buzzing! The European Athletics Championships are in full swing until Sunday. Who are you backing for gold? #EuroAthletics",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "07:00",
-     "tags": [
-      "#EuroAthletics"
-     ]
-    },
-    {
-     "name": "Team GB Hopes",
-     "for": "nation-network",
-     "copy": "Team GB athletes are making their mark at the European Athletics Championships in Birmingham. Catch all the action before it wraps up this weekend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TeamGB"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-heatwave",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK Heatwave incoming!",
-   "blurb": "A heatwave is sweeping across the UK this week, with temperatures potentially reaching 35-38°C in central and southern England by Thursday and Friday.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
+     "g": "welsh-local",
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "radio-exe",
+     "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Heatwave Alert",
-     "for": "nation-network",
-     "copy": "Another heatwave is hitting the UK! Temperatures could soar to 38°C this week. Stay cool and hydrated, everyone! #UKHeatwave",
+     "name": "Anticipation for the new season",
+     "copy": "The wait is almost over! The Premier League kicks off this Friday, August 21st. Who are you backing for the title this season?",
      "channels": [
       "instagram",
       "facebook",
@@ -98,13 +39,12 @@
      ],
      "time": "08:00",
      "tags": [
-      "#UKHeatwave"
+      "#PremierLeague"
      ]
     },
     {
-     "name": "Southern Scorcher",
-     "for": "radio-exe",
-     "copy": "Devon and the South West are set for a scorching week! Expect temperatures climbing towards the mid-30s. How are you beating the heat?",
+     "name": "Local team focus",
+     "copy": "Your favourite team is back in action! The Premier League 2026/27 season starts Friday. Any big predictions for their opening weekend?",
      "channels": [
       "instagram",
       "facebook",
@@ -112,20 +52,85 @@
      ],
      "time": "12:00",
      "tags": [
-      "#DevonHeat"
+      "#FootballIsBack"
      ]
     }
    ]
   },
   {
-   "id": "the-hundred-finals",
+   "id": "community-shield-26",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "Community Shield Showdown",
+   "blurb": "The Community Shield takes place this Sunday, August 16, at Principality Stadium in Cardiff, featuring Premier League champions Arsenal against FA Cup holders Manchester City.",
+   "source": {
+    "l": "Sky Sports",
+    "u": "https://www.skysports.com/football"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Big game build-up",
+     "copy": "Arsenal vs Man City for the Community Shield this Sunday! Who's lifting the first silverware of the season in Cardiff?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Cardiff host city focus",
+     "copy": "Cardiff is buzzing this weekend as Principality Stadium hosts the Community Shield! Get ready for a huge clash between Arsenal and Man City.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Cardiff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hundred-finals-26",
    "off": 5,
    "type": "sport",
    "hot": true,
    "title": "The Hundred Finals Day",
-   "blurb": "The Hundred cricket tournament culminates with Finals Day at Lord's on Sunday, August 16, following a week of crucial group stage matches.",
+   "blurb": "The Hundred cricket tournament culminates in Finals Day this Sunday, August 16, at Lord's Cricket Ground in London.",
    "source": {
-    "l": "The Hundred",
+    "l": "The Hundred Official Site",
     "u": "https://www.thehundred.com/"
    },
    "fits": [
@@ -136,53 +141,78 @@
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Cricket Countdown",
-     "for": "nation-network",
-     "copy": "It's Finals Week for The Hundred! All eyes on Lord's this Sunday for the men's and women's finals. Who's taking home the trophy?",
+     "name": "Finals excitement",
+     "copy": "It all comes down to this! The Hundred Finals Day is Sunday at Lord's. Who are your picks for the men's and women's champions?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
       "#TheHundred"
      ]
     },
     {
-     "name": "Welsh Fire Hopes",
-     "for": "welsh-local",
-     "copy": "Can Welsh Fire make it to The Hundred Finals this weekend? Support our team as the tournament heads to its thrilling conclusion at Lord's on Sunday!",
+     "name": "London event",
+     "copy": "Lord's is set to host a spectacular Finals Day for The Hundred this Sunday! Get down to London for some thrilling cricket action.",
      "channels": [
       "instagram",
-      "facebook",
-      "x"
+      "facebook"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#WelshFire"
+      "#LordsCricket"
      ]
     }
    ]
   },
   {
-   "id": "the-weeknd-wembley",
-   "off": 3,
+   "id": "the-hundred-match-aug11-26",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred Match Today",
+   "blurb": "Today, August 11, The Hundred features the Manchester Super Giants Women taking on Sunrisers Leeds Women at Emirates Old Trafford.",
+   "source": {
+    "l": "The Hundred Official Site",
+    "u": "https://www.thehundred.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Live match call-out",
+     "copy": "Cricket fans, it's match day! The Hundred action continues today with Manchester Super Giants Women facing Sunrisers Leeds Women.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TheHundred"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "all-points-east-26",
+   "off": 10,
    "type": "gig",
    "hot": true,
-   "title": "The Weeknd at Wembley",
-   "blurb": "The Weeknd brings his 'After Hours til Dawn' tour to Wembley Stadium for five nights starting Friday, August 14, with additional dates on Aug 15, 16, 18, and 19.",
+   "title": "All Points East Festival Begins",
+   "blurb": "All Points East festival kicks off its 10-day run in Victoria Park, London, from August 21-30, with headliners including Tyler, The Creator, Lorde, and Twenty One Pilots.",
    "source": {
-    "l": "Wembley Stadium",
-    "u": "https://www.wembleystadium.com/events/2026/The-Weeknd"
+    "l": "All Points East Official Site",
+    "u": "https://www.allpointseastfestival.com/"
    },
    "fits": [
     {
@@ -195,50 +225,52 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Wembley Weekend",
-     "for": "nation-network",
-     "copy": "The Weeknd takes over Wembley Stadium this weekend! Five massive shows from Friday – who's got tickets to see Abel Tesfaye?",
+     "name": "Festival anticipation",
+     "copy": "London's Victoria Park is about to light up! All Points East starts August 21st with an incredible lineup. Who are you desperate to see?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
-      "#TheWeekndWembley"
+      "#AllPointsEast"
      ]
     },
     {
-     "name": "After Hours Live",
-     "for": "decades-genres",
-     "copy": "It's The Weeknd at Wembley! Get ready for 'After Hours til Dawn' live with all his biggest hits. What song are you most excited to hear?",
+     "name": "Headliner highlight",
+     "copy": "Tyler, The Creator, Lorde, Twenty One Pilots... All Points East is bringing the big names to London from August 21st!",
      "channels": [
       "instagram",
-      "facebook"
+      "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#AfterHoursTilDawn"
+      "#APELondon"
      ]
     }
    ]
   },
   {
-   "id": "boomtown-festival",
-   "off": 1,
+   "id": "reading-leeds-festival-26",
+   "off": 16,
    "type": "gig",
    "hot": true,
-   "title": "Boomtown Festival underway",
-   "blurb": "Boomtown Festival, a unique immersive arts and music event, kicks off today and runs until August 16 in Hampshire.",
+   "title": "Reading & Leeds Festival Weekend",
+   "blurb": "The iconic Reading & Leeds Festivals take place over the August Bank Holiday weekend, August 27-30, featuring headliners like Charli XCX, Dave, Raye, and Florence + The Machine.",
    "source": {
-    "l": "Boomtown Fair",
-    "u": "https://www.boomtownfair.co.uk/"
+    "l": "Reading Festival Official Site",
+    "u": "https://www.readingfestival.com/"
    },
    "fits": [
     {
@@ -247,18 +279,275 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Boomtown Begins",
-     "for": "nation-network",
-     "copy": "Chapter 12 has begun! Boomtown Festival is officially open in Hampshire. Who's ready for four days of incredible music and immersive experiences?",
+     "name": "Festival countdown",
+     "copy": "Only a couple of weeks until Reading & Leeds! Who's heading to the fields for the Bank Holiday weekend? What acts are essential viewing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Genre variety",
+     "copy": "From Charli XCX to Fontaines D.C., Reading & Leeds has something for everyone this August Bank Holiday. What's your top pick?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LeedsFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "madonna-birthday-26",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Madonna Turns 68",
+   "blurb": "Pop icon Madonna celebrates her 68th birthday on Friday, August 16. She continues to be one of the most influential figures in music history.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Madonna"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday celebration",
+     "copy": "Happy birthday to the Queen of Pop! Madonna turns 68 on Friday. What's your all-time favourite Madonna track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#Madonna"
+     ]
+    },
+    {
+     "name": "Iconic status",
+     "copy": "Still pushing boundaries at 68! Celebrate Madonna's birthday this Friday by cranking up her greatest hits. Which era is your favourite?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#QueenOfPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "robert-plant-birthday-26",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Robert Plant Turns 78",
+   "blurb": "Legendary Led Zeppelin frontman Robert Plant celebrates his 78th birthday on Thursday, August 20.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Robert_Plant"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock legend birthday",
+     "copy": "Happy 78th birthday to the iconic voice of Led Zeppelin, Robert Plant, this Thursday! What's your essential Plant vocal performance?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RobertPlant"
+     ]
+    },
+    {
+     "name": "Zeppelin tribute",
+     "copy": "Celebrating Robert Plant's 78th on Thursday! Time to dive into the Led Zeppelin catalogue. Which album truly showcases his brilliance?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#LedZeppelin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mark-knopfler-birthday-26",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Mark Knopfler Turns 77",
+   "blurb": "Dire Straits co-founder and guitar legend Mark Knopfler celebrates his 77th birthday tomorrow, August 12.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar hero birthday",
+     "copy": "Tomorrow, we celebrate the incredible Mark Knopfler turning 77! Which Dire Straits guitar solo is your absolute favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#MarkKnopfler"
+     ]
+    },
+    {
+     "name": "Dire Straits tribute",
+     "copy": "Happy 77th to the legendary Mark Knopfler tomorrow! From 'Sultans of Swing' to 'Money for Nothing', his influence is undeniable.",
+     "channels": [
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#DireStraits"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joe-jackson-birthday-26",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Joe Jackson Turns 72",
+   "blurb": "New Wave and jazz-influenced singer-songwriter Joe Jackson celebrates his 72nd birthday today, August 11.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joe_Jackson_(musician)"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday shout-out",
+     "copy": "Wishing a very happy 72nd birthday to the brilliant Joe Jackson today! What's your go-to track from this New Wave icon?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#JoeJackson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gbbo-returns-26",
+   "off": 22,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off Returns",
+   "blurb": "The Great British Bake Off is set to return for its new series on Channel 4 on September 2, promising a fresh batch of amateur bakers and new judge Nigella Lawson.",
+   "source": {
+    "l": "Channel 4",
+    "u": "https://www.channel4.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off anticipation",
+     "copy": "Get your ovens ready! The Great British Bake Off is back on Channel 4 from September 2nd. Who's excited for the new series and new judge Nigella?",
      "channels": [
       "instagram",
       "facebook",
@@ -268,221 +557,44 @@
      ],
      "time": "10:30",
      "tags": [
-      "#Boomtown"
+      "#GBBO"
      ]
     },
     {
-     "name": "Festival Vibes",
-     "for": "decades-genres",
-     "copy": "The gates are open at Boomtown! Get ready for a wild ride of music, art, and unforgettable moments until Sunday. What's your top tip for first-timers?",
+     "name": "New judge excitement",
+     "copy": "Nigella Lawson in the Bake Off tent! The new series starts September 2nd. What kind of challenges do you think she'll bring?",
      "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#BoomtownFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fa-community-shield",
-   "off": 4,
-   "type": "sport",
-   "hot": true,
-   "title": "FA Community Shield",
-   "blurb": "The FA Community Shield, the traditional curtain-raiser for the English football season, takes place at Wembley Stadium on Saturday, August 15.",
-   "source": {
-    "l": "The FA",
-    "u": "https://www.thefa.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Season Starter",
-     "for": "nation-network",
-     "copy": "The new football season officially kicks off this Saturday with the FA Community Shield at Wembley! Who are you hoping lifts the first trophy?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#CommunityShield"
-     ]
-    },
-    {
-     "name": "Wembley Showdown",
-     "for": "nation-network",
-     "copy": "Wembley Stadium hosts the FA Community Shield on Saturday. It's the Premier League champions vs. the FA Cup winners – a true battle of titans!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FootballIsBack"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "green-man-festival",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "Green Man Festival",
-   "blurb": "The Green Man Festival, known for its eclectic music and arts, runs from August 15-18 in the beautiful Brecon Beacons, Wales.",
-   "source": {
-    "l": "Green Man Festival",
-    "u": "https://www.greenman.net/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Festival Fun",
-     "for": "welsh-local",
-     "copy": "Green Man Festival returns to the stunning Brecon Beacons this weekend! Four days of incredible music and good vibes. Who's heading to Wales?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#GreenManFestival"
-     ]
-    },
-    {
-     "name": "Brecon Beats",
-     "for": "dragon",
-     "copy": "The Brecon Beacons will be alive with music from Friday as Green Man Festival kicks off! Are you ready for some amazing live acts and Welsh magic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#GreenMan"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "beautiful-days-festival",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "Beautiful Days Festival",
-   "blurb": "The family-friendly Beautiful Days Festival takes place from August 18-20 at Escot Park in Ottery Saint Mary, Devon.",
-   "source": {
-    "l": "Beautiful Days Festival",
-    "u": "https://www.beautifuldays.org/"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Devon's Best Days",
-     "for": "radio-exe",
-     "copy": "Beautiful Days Festival is back in Ottery Saint Mary this weekend! Get ready for three days of music, arts, and family fun in the heart of Devon.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BeautifulDays"
-     ]
-    },
-    {
-     "name": "Escot Park Party",
-     "for": "nation-network",
-     "copy": "Heading to Beautiful Days Festival in Devon this week? Escot Park is set to host an incredible lineup and a fantastic atmosphere!",
-     "channels": [
-      "instagram",
-      "facebook"
+      "x",
+      "threads"
      ],
      "time": "15:30",
      "tags": [
-      "#DevonFestival"
+      "#BakeOff"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-kickoff",
-   "off": 10,
-   "type": "sport",
+   "id": "strictly-returns-26",
+   "off": 39,
+   "type": "tv",
    "hot": true,
-   "title": "Premier League Season Kicks Off",
-   "blurb": "The 2026/27 Premier League season officially gets underway on Friday, August 21, with Arsenal facing Coventry City.",
+   "title": "Strictly Come Dancing Launch",
+   "blurb": "Strictly Come Dancing's launch show is expected to air on BBC One on Saturday, September 19, with new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
    "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/"
+    "l": "BBC",
+    "u": "https://www.bbc.co.uk/strictly"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Football's Back!",
-     "for": "nation-network",
-     "copy": "The countdown is on! The Premier League season kicks off this Friday. Who are you backing for the title this year?",
+     "name": "Strictly comeback",
+     "copy": "Dust off your dancing shoes! Strictly Come Dancing returns to BBC One on September 19th. Excited for the new hosts and celebrity lineup?",
      "channels": [
       "instagram",
       "facebook",
@@ -490,89 +602,179 @@
       "tiktok",
       "threads"
      ],
-     "time": "07:30",
+     "time": "11:30",
      "tags": [
-      "#PremierLeague"
+      "#Strictly"
      ]
     },
     {
-     "name": "New Season Excitement",
-     "for": "nation-network",
-     "copy": "Football fans, rejoice! The Premier League returns this Friday. Get ready for another season of thrills, spills, and unforgettable moments!",
+     "name": "New hosts buzz",
+     "copy": "Emma Willis, Josh Widdicombe, and Johannes Radebe are taking the Strictly reins! See them in action when the launch show airs September 19th.",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "12:30",
+     "time": "16:30",
      "tags": [
-      "#PLKickOff"
+      "#Strictly2026"
      ]
     }
    ]
   },
   {
-   "id": "dutch-grand-prix",
-   "off": 10,
-   "type": "sport",
+   "id": "ayra-starr-album-26",
+   "off": 3,
+   "type": "culture",
    "hot": true,
-   "title": "Formula 1 Dutch Grand Prix",
-   "blurb": "Formula 1 heads to Zandvoort for the Dutch Grand Prix weekend from August 21-23, the next race on the 2026 calendar.",
+   "title": "Ayra Starr Album Release",
+   "blurb": "Nigerian singer Ayra Starr is set to release her new album, 'Starr Girl', this Friday, August 14.",
    "source": {
-    "l": "Formula 1",
-    "u": "https://www.formula1.com/"
+    "l": "Official Charts",
+    "u": "https://www.officialcharts.com/"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "F1 Returns",
-     "for": "nation-network",
-     "copy": "Vroom vroom! F1 is back next weekend with the Dutch Grand Prix at Zandvoort. Who's excited for some high-speed racing?",
+     "name": "New music Friday",
+     "copy": "New music alert! Ayra Starr drops her anticipated album 'Starr Girl' this Friday. What tracks are you hoping to hear?",
      "channels": [
       "instagram",
       "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#NewMusicFriday"
+     ]
+    },
+    {
+     "name": "Artist buzz",
+     "copy": "Get ready for 'Starr Girl'! Ayra Starr's new album arrives this Friday. Are you hyped for her latest sound?",
+     "channels": [
       "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#AyraStarr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anthony-hopkins-album-26",
+   "off": 10,
+   "type": "culture",
+   "hot": true,
+   "title": "Anthony Hopkins Album Release",
+   "blurb": "Oscar-winning actor Anthony Hopkins is releasing a new album, 'Life Is a Dream', on August 21.",
+   "source": {
+    "l": "Official Charts",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Unexpected music release",
+     "copy": "From the silver screen to your speakers! Anthony Hopkins releases his new album 'Life Is a Dream' on August 21. Will you be listening?",
+     "channels": [
+      "facebook",
+      "x",
+      "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#DutchGP"
+      "#AnthonyHopkins"
      ]
     },
     {
-     "name": "Zandvoort Showdown",
-     "for": "nation-network",
-     "copy": "Get ready for the twists and turns of Zandvoort! The Dutch Grand Prix is just around the corner. Will your favourite driver take the win?",
+     "name": "Classical/orchestral interest",
+     "copy": "A different side to Sir Anthony! His new album 'Life Is a Dream' is out August 21, showcasing his musical talents.",
      "channels": [
-      "instagram",
-      "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "14:00",
      "tags": [
-      "#F12026"
+      "#ClassicalMusic"
      ]
     }
    ]
   },
   {
-   "id": "super-league-fixtures",
-   "off": 2,
-   "type": "sport",
+   "id": "alex-warren-album-26",
+   "off": 17,
+   "type": "culture",
    "hot": true,
-   "title": "Super League Rugby League",
-   "blurb": "Round 23 of the Betfred Super League continues this week, with matches including Hull K R vs Catalans Dragons on Thursday, August 13.",
+   "title": "Alex Warren's 'WILDCHILD' Drops",
+   "blurb": "TikTok star and singer Alex Warren is set to release his debut album, 'WILDCHILD', on August 28.",
    "source": {
-    "l": "Super League",
-    "u": "https://www.superleague.co.uk/"
+    "l": "Official Charts",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Debut album buzz",
+     "copy": "Big news for Alex Warren fans! His debut album 'WILDCHILD' is out August 28. What are your hopes for his first full-length?",
+     "channels": [
+      "instagram",
+      "tiktok",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#AlexWarren"
+     ]
+    },
+    {
+     "name": "Social media star music",
+     "copy": "From TikTok to your playlists! Alex Warren's 'WILDCHILD' album drops August 28. Ready to hear his new sound?",
+     "channels": [
+      "tiktok",
+      "instagram"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#WILDCHILD"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday-26",
+   "off": 20,
+   "type": "seasonal",
+   "hot": true,
+   "title": "August Bank Holiday Approaching",
+   "blurb": "The August Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31, marking a final long weekend of summer for many.",
+   "source": {
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
     {
@@ -580,37 +782,42 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Rugby League Action",
-     "for": "nation-network",
-     "copy": "Super League action continues this week! Who are you rooting for in Round 23? Don't miss Hull K R vs Catalans Dragons on Thursday!",
+     "name": "Long weekend plans",
+     "copy": "That glorious August Bank Holiday is just around the corner (August 31st)! What are your plans for the last long weekend of summer?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:30",
+     "time": "09:00",
      "tags": [
-      "#SuperLeague"
+      "#BankHoliday"
      ]
     },
     {
-     "name": "Yorkshire Derby Buzz",
-     "for": "nation-network",
-     "copy": "Big games in the Super League this week! Get behind your team as the race for the playoffs heats up.",
+     "name": "Summer's last hurrah",
+     "copy": "Don't forget, the August Bank Holiday is on Monday 31st! One last chance to make the most of summer. Where will you be heading?",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "threads"
      ],
-     "time": "17:00",
+     "time": "13:00",
      "tags": [
-      "#RugbyLeague"
+      "#SummerVibes"
      ]
     }
    ]
