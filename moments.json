@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-12T07:02:12.703Z",
+ "updated": "2026-08-12T08:59:04.854Z",
  "moments": [
   {
-   "id": "euro-athletics-birmingham",
-   "off": 0,
+   "id": "thehundred-eliminator-final",
+   "off": 2,
    "type": "sport",
    "hot": true,
-   "title": "European Athletics Championships in Birmingham",
-   "blurb": "The European Athletics Championships are currently underway in Birmingham, running until August 16th, marking the first time the UK has hosted this prestigious event.",
+   "title": "The Hundred Finals Week",
+   "blurb": "The Hundred 100-ball cricket competition reaches its Eliminator and Final matches this week, culminating on Sunday.",
    "source": {
-    "l": "UK Sport / European Athletics",
-    "u": "https://www.european-athletics.com/"
+    "l": "The Hundred Official Website",
+    "u": "https://www.thehundred.com/"
    },
    "fits": [
     {
@@ -18,110 +18,126 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Live Action Update",
-     "for": "",
-     "copy": "Athletics fever is gripping Birmingham! The European Championships are live all week, with Team GB pushing for medals. Who are you backing?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#EuroAthletics2026"
-     ]
-    },
-    {
-     "name": "Birmingham Buzz",
-     "for": "Nation Radio London",
-     "copy": "Birmingham is buzzing as the European Athletics Championships continue! Incredible scenes and world-class talent on display until Sunday. Catch the highlights!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Birmingham2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fa-community-shield",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "FA Community Shield at Wembley",
-   "blurb": "The traditional curtain-raiser for the English football season, the FA Community Shield, takes place this Saturday, August 15th, at Wembley Stadium.",
-   "source": {
-    "l": "The FA",
-    "u": "https://www.thefa.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
+     "g": "welsh-local",
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Football Season Kick-off",
+     "name": "Eliminator Hype",
      "for": "",
-     "copy": "The domestic football season officially kicks off this weekend with the FA Community Shield at Wembley! Who takes home the first silverware?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#CommunityShield"
-     ]
-    },
-    {
-     "name": "Wembley Showdown",
-     "for": "Nation Radio London",
-     "copy": "Wembley Stadium is ready for the FA Community Shield this Saturday! A huge London day for football fans – who are you supporting?",
+     "copy": "It's Eliminator day in The Hundred on Friday! Who are you backing to make it to Sunday's final? #TheHundred",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "10:00",
      "tags": [
-      "#Wembley"
+      "#TheHundred"
+     ]
+    },
+    {
+     "name": "Finals Weekend Preview",
+     "for": "",
+     "copy": "The Hundred is heading to its grand finale this weekend! Get ready for some explosive cricket action. Who's taking home the trophy? #Cricket",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Cricket"
+     ]
+    },
+    {
+     "name": "Welsh Fire Local Angle",
+     "for": "welsh-local",
+     "copy": "Our very own Welsh Fire are in action today against London Spirit in Cardiff as The Hundred heats up! Catch the Eliminator on Friday, before Sunday's final. Let's go, Fire!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#WelshFire"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-kickoff",
-   "off": 9,
+   "id": "community-shield-2026",
+   "off": 4,
    "type": "sport",
    "hot": true,
-   "title": "Premier League 2026/27 Season Starts",
-   "blurb": "The 2026/27 Premier League season is set to kick off next week, with the first fixtures scheduled for Friday, August 21st.",
+   "title": "Community Shield in Cardiff",
+   "blurb": "The curtain-raiser for the English football season, the Community Shield, takes place on Sunday, August 16, at Principality Stadium in Cardiff, featuring Premier League champions Arsenal and FA Cup winners Manchester City.",
    "source": {
-    "l": "Premier League",
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff Host City",
+     "for": "welsh-local",
+     "copy": "Cardiff is hosting the Community Shield this Sunday! Who's heading to Principality Stadium to see Arsenal take on Man City?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Season Kick-off",
+     "for": "",
+     "copy": "The traditional curtain-raiser is almost here! Arsenal vs Man City for the Community Shield on Sunday. Who's winning the first silverware of the season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FootballIsBack"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-start",
+   "off": 10,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League 2026/27 Kicks Off",
+   "blurb": "The 2026/27 Premier League season officially kicks off on Saturday, August 22, a week later than usual due to the expanded World Cup.",
+   "source": {
+    "l": "Premier League Official Site",
     "u": "https://www.premierleague.com/"
    },
    "fits": [
@@ -132,25 +148,9 @@
    ],
    "angles": [
     {
-     "name": "Premier League Returns",
+     "name": "Countdown to Kick-off",
      "for": "",
-     "copy": "Football is almost back! The Premier League season kicks off next Friday – who's going to challenge for the title this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Fantasy Football Prep",
-     "for": "",
-     "copy": "Got your Fantasy Football team ready? The Premier League returns next week, so get those final transfers in!",
+     "copy": "The wait is almost over! The Premier League returns on August 22. What's your team's opening fixture and how do you think they'll do?",
      "channels": [
       "instagram",
       "facebook",
@@ -158,6 +158,20 @@
       "threads"
      ],
      "time": "16:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Fantasy Football Prep",
+     "for": "",
+     "copy": "Fantasy Football managers, get ready! The Premier League kicks off in just over a week. Who are your must-have players for the new season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
      "tags": [
       "#FantasyFootball"
      ]
@@ -170,12 +184,16 @@
    "type": "culture",
    "hot": true,
    "title": "UK Singles Chart Update",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' holds the UK Number 1 spot for an incredible 20th week, with new entries from Ariana Grande and Sienna Spiro also making waves.",
+   "blurb": "Sam Fender & Olivia Dean hold the UK Official Singles Chart #1 spot for a massive 20th week with 'Rein Me In', while Ariana Grande has two new entries.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
@@ -183,40 +201,34 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Chart Topper",
+     "name": "Chart Reign",
      "for": "Nation Hits",
-     "copy": "20 weeks at Number 1! Sam Fender & Olivia Dean are still dominating the UK Singles Chart with 'Rein Me In'. Is it your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "New Music Alert",
-     "for": "Nation Hits",
-     "copy": "New music alert! Ariana Grande and Sienna Spiro have fresh tracks climbing the charts this week. What's your top new tune?",
+     "copy": "20 WEEKS at #1 for Sam Fender & Olivia Dean's 'Rein Me In'! An incredible run on the Official UK Singles Chart. Can anyone stop them?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "15:30",
+     "time": "10:30",
+     "tags": [
+      "#UKChart"
+     ]
+    },
+    {
+     "name": "Ariana's New Hits",
+     "for": "Nation Hits",
+     "copy": "Ariana Grande has two brand new entries in the Official UK Singles Chart Top 20 this week! Which of her new tracks is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
      "tags": [
       "#NewMusic"
      ]
@@ -224,72 +236,209 @@
    ]
   },
   {
-   "id": "all-points-east-2026",
-   "off": 9,
-   "type": "gig",
+   "id": "ted-lasso-s4-ongoing",
+   "off": 0,
+   "type": "tv",
    "hot": true,
-   "title": "All Points East Festival",
-   "blurb": "All Points East festival returns to London's Victoria Park from August 21st to 30th, featuring a packed lineup of artists.",
+   "title": "Ted Lasso Season 4 Continues",
+   "blurb": "Season 4 of the beloved comedy-drama 'Ted Lasso' continues with new episodes weekly on Apple TV+, following Ted coaching a women's football team.",
    "source": {
-    "l": "All Points East",
-    "u": "https://www.allpointseastfestival.com/"
+    "l": "Apple TV+",
+    "u": "https://tv.apple.com/gb/show/ted-lasso/umc.cmc.2suy2290f67q780m5g0f229"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "London Festival Vibes",
-     "for": "Nation Radio London",
-     "copy": "Victoria Park is gearing up for All Points East next week! Who are you excited to see at one of London's biggest festivals?",
+     "name": "New Ted Lasso",
+     "for": "",
+     "copy": "New Ted Lasso is dropping weekly on Apple TV+! Who's loving Season 4 and Ted's new challenge with the women's team?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "13:00",
+     "time": "11:30",
      "tags": [
-      "#AllPointsEast"
+      "#TedLasso"
      ]
     },
     {
-     "name": "Festival Countdown",
-     "for": "Nation Hits",
-     "copy": "The countdown to All Points East is on! Kicking off next Friday in London, it's set to be epic. What's your must-see act?",
+     "name": "Optimism Boost",
+     "for": "",
+     "copy": "Need a dose of optimism? Ted Lasso Season 4 is here to deliver, with new episodes every week on Apple TV+. What's your favourite Ted quote so far?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "15:00",
      "tags": [
-      "#APEFestival"
+      "#Believe"
      ]
     }
    ]
   },
   {
-   "id": "rewind-festival-2026",
-   "off": 9,
-   "type": "gig",
+   "id": "love-is-blind-uk-s3",
+   "off": 7,
+   "type": "tv",
    "hot": true,
-   "title": "REWIND Festival South",
-   "blurb": "REWIND Festival, the world's biggest 80s festival, takes over Henley-On-Thames from August 21st to 23rd, bringing a host of iconic acts.",
+   "title": "Love Is Blind: UK Season 3",
+   "blurb": "The third season of the reality dating series 'Love Is Blind: UK' premieres globally on Netflix on Wednesday, August 19.",
    "source": {
-    "l": "REWIND Festival",
-    "u": "https://south.rewindfestival.com/"
+    "l": "Netflix UK",
+    "u": "https://www.netflix.com/gb/title/81615555"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pods are Open",
+     "for": "",
+     "copy": "The pods are officially opening next week! Love Is Blind: UK Season 3 drops on Netflix on August 19. Ready for more blind dates and drama?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LoveIsBlindUK"
+     ]
+    },
+    {
+     "name": "UK Dating Drama",
+     "for": "",
+     "copy": "Who's excited for a new batch of UK singles to find love (or chaos) in the pods? Love Is Blind: UK Season 3 is coming to Netflix next Wednesday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#RealityTV"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mark-knopfler-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 77th to Mark Knopfler",
+   "blurb": "Dire Straits frontman and legendary guitarist Mark Knopfler celebrates his 77th birthday today.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 77th Birthday to the incredible Mark Knopfler! His guitar work with Dire Straits is legendary. What's your favourite Dire Straits track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#MarkKnopfler"
+     ]
+    },
+    {
+     "name": "Scottish Icon",
+     "for": "Nation Radio Scotland",
+     "copy": "A very Happy 77th Birthday to Glasgow's own Mark Knopfler! Co-founder of Dire Straits and one of the finest guitarists ever.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ScottishMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cara-delevingne-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 34th to Cara Delevingne",
+   "blurb": "Model, actress, and singer Cara Delevingne turns 34 today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august12.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Shoutout",
+     "for": "",
+     "copy": "Happy 34th Birthday to the multi-talented Cara Delevingne! Model, actress, and musician – what a career!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#CaraDelevingne"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "madonna-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 68th to Madonna",
+   "blurb": "The Queen of Pop, Madonna, celebrates her 68th birthday on Sunday, August 16.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Madonna_(entertainer)"
    },
    "fits": [
     {
@@ -302,56 +451,7 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Throwback",
-     "for": "Nation 80s",
-     "copy": "Get ready to rewind! The ultimate 80s festival hits Henley-On-Thames next weekend. Who's got their neon ready for REWIND?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#REWIND80s"
-     ]
-    },
-    {
-     "name": "Festival Flashback",
-     "for": "Nation Classic Hits",
-     "copy": "Dust off your dancing shoes! REWIND Festival is back next week for a weekend of classic hits and festival fun. Which era are you most excited for?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#ClassicHits"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "we-out-here-festival-2026",
-   "off": 8,
-   "type": "gig",
-   "hot": true,
-   "title": "We Out Here Festival",
-   "blurb": "The award-winning We Out Here Festival, curated by Gilles Peterson, takes place in Dorset from August 20th-23rd, celebrating world-class music and culture. Although sold out, it's a major event on the festival calendar.",
-   "source": {
-    "l": "We Out Here Festival",
-    "u": "https://weoutherefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation 00s"
     },
     {
      "g": "decades-genres",
@@ -360,186 +460,66 @@
    ],
    "angles": [
     {
-     "name": "Festival Sold Out",
-     "for": "Nation Dance",
-     "copy": "We Out Here Festival is officially SOLD OUT for next week! If you're heading to Dorset, get ready for an incredible four days of music and good vibes.",
+     "name": "Queen of Pop",
+     "for": "Nation 80s",
+     "copy": "Get ready to celebrate the Material Girl! Madonna turns 68 on Sunday. What's your all-time favourite Madonna track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "10:30",
+     "time": "10:00",
      "tags": [
-      "#WeOutHere"
+      "#Madonna"
      ]
     },
     {
-     "name": "Dorset Sounds",
-     "for": "",
-     "copy": "From August 20-23, Dorset becomes the heart of musical discovery with We Out Here Festival. Who managed to bag tickets?",
+     "name": "Pop Icon",
+     "for": "Nation Hits",
+     "copy": "68 years of pop royalty! Happy Birthday to Madonna this Sunday. Her influence on music and culture is undeniable.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:30",
+     "time": "14:00",
      "tags": [
-      "#FestivalLife"
+      "#QueenOfPop"
      ]
     }
    ]
   },
   {
-   "id": "record-summer-uk",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK on Track for Warmest Summer",
-   "blurb": "The Met Office has reported that the UK is on course to record its warmest summer on record, with temperatures staying well above average this August.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Summer Record Watch",
-     "for": "",
-     "copy": "Could this be the warmest summer on record for the UK? The Met Office says we're on track! How are you enjoying the heat?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#UKWeather"
-     ]
-    },
-    {
-     "name": "Stay Cool",
-     "for": "",
-     "copy": "Another warm one across the UK today! Remember to stay hydrated as we continue on track for a potentially record-breaking summer.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#Summer2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-mark-knopfler",
-   "off": 0,
+   "id": "liam-howlett-bday",
+   "off": 9,
    "type": "birthday",
    "hot": true,
-   "title": "Mark Knopfler's 77th Birthday",
-   "blurb": "Today, August 12th, marks the 77th birthday of legendary Dire Straits frontman and guitarist, Mark Knopfler, born in Glasgow, Scotland.",
+   "title": "Happy 55th to Liam Howlett",
+   "blurb": "Liam Howlett, co-founder and mastermind of electronic music pioneers The Prodigy, turns 55 on Thursday, August 21.",
    "source": {
-    "l": "Wikipedia / Songfacts",
-    "u": "https://en.wikipedia.org/wiki/Mark_Knopfler"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Liam_Howlett"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Legend",
-     "for": "Nation Rocks",
-     "copy": "Happy 77th Birthday to the legendary Mark Knopfler of Dire Straits! What's your favourite Dire Straits track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#MarkKnopfler"
-     ]
-    },
-    {
-     "name": "Scottish Icon",
-     "for": "Nation Radio Scotland",
-     "copy": "Sending birthday wishes to Glasgow's own Mark Knopfler, turning 77 today! A true Scottish music icon. What song takes you back?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#ScottishMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-roy-hay",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Roy Hay (Culture Club) 65th Birthday",
-   "blurb": "Roy Hay, guitarist and keyboardist for the iconic 80s band Culture Club, celebrates his 65th birthday today, August 12th.",
-   "source": {
-    "l": "Wikipedia / Songfacts",
-    "u": "https://en.wikipedia.org/wiki/Roy_Hay"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Culture Club Legend",
-     "for": "Nation 80s",
-     "copy": "It's Roy Hay from Culture Club's 65th Birthday today! Celebrate with us by spinning your favourite Culture Club hit.",
+     "name": "Prodigy Legend",
+     "for": "Nation Dance",
+     "copy": "Happy 55th Birthday to Liam Howlett from The Prodigy this Thursday! The man behind some of the most iconic dance tracks ever. What's your favourite?",
      "channels": [
       "instagram",
       "facebook",
@@ -548,13 +528,71 @@
      ],
      "time": "09:00",
      "tags": [
-      "#CultureClub"
+      "#TheProdigy"
      ]
     },
     {
-     "name": "80s Icon",
-     "for": "Nation Easy",
-     "copy": "Happy 65th Birthday to Culture Club's Roy Hay! From 'Karma Chameleon' to 'Do You Really Want to Hurt Me?', what's your top track?",
+     "name": "Rave Pioneer",
+     "for": "Nation 90s",
+     "copy": "Liam Howlett, the driving force of The Prodigy, celebrates his 55th on Thursday! Bringing the rave to the masses since the 90s.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#RaveCulture"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dua-lipa-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 31st to Dua Lipa",
+   "blurb": "Global pop superstar Dua Lipa celebrates her 31st birthday on Friday, August 22.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess",
+     "for": "Nation Hits",
+     "copy": "Future Nostalgia queen Dua Lipa turns 31 this Friday! Get ready to dance and celebrate her birthday with us.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DuaLipa"
+     ]
+    },
+    {
+     "name": "Birthday Playlist",
+     "for": "Nation Hits",
+     "copy": "It's Dua Lipa's 31st birthday on Friday! What's going on your ultimate Dua Lipa playlist to celebrate?",
      "channels": [
       "instagram",
       "facebook",
@@ -562,23 +600,27 @@
      ],
      "time": "14:00",
      "tags": [
-      "#80sMusic"
+      "#PopMusic"
      ]
     }
    ]
   },
   {
-   "id": "bday-james-morrison",
-   "off": 0,
+   "id": "howie-dorough-bday",
+   "off": 10,
    "type": "birthday",
    "hot": true,
-   "title": "James Morrison's 42nd Birthday",
-   "blurb": "British singer-songwriter James Morrison, known for hits like 'You Give Me Something' and 'Broken Strings', turns 42 today, August 12th.",
+   "title": "Happy 53rd to Howie Dorough",
+   "blurb": "Howie Dorough, a member of the iconic boy band Backstreet Boys, celebrates his 53rd birthday on Friday, August 22.",
    "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/august-birthdays"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Howie_Dorough"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
@@ -590,90 +632,80 @@
     {
      "g": "decades-genres",
      "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Soulful Birthday",
-     "for": "Nation 00s",
-     "copy": "Wishing a very Happy 42nd Birthday to the soulful voice of James Morrison! What's your favourite song from him?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JamesMorrison"
-     ]
-    },
-    {
-     "name": "Acoustic Vibes",
-     "for": "Nation Love",
-     "copy": "Happy Birthday to James Morrison! His heartfelt tunes are perfect for a chilled-out afternoon. What song are you listening to?",
+     "name": "Boy Band Legend",
+     "for": "Nation 90s",
+     "copy": "Happy 53rd Birthday to Howie Dorough of the Backstreet Boys this Friday! Which BSB song takes you back?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
+     "time": "11:00",
+     "tags": [
+      "#BackstreetBoys"
+     ]
+    },
+    {
+     "name": "Still Got It",
+     "for": "Nation Love",
+     "copy": "Everybody (yeah)! Howie Dorough from Backstreet Boys turns 53 on Friday. Still melting hearts with those harmonies!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
      "time": "15:00",
      "tags": [
-      "#AcousticPop"
+      "#Boybands"
      ]
     }
    ]
   },
   {
-   "id": "bday-john-deacon",
-   "off": 7,
+   "id": "tori-amos-bday",
+   "off": 10,
    "type": "birthday",
    "hot": true,
-   "title": "John Deacon (Queen) 75th Birthday",
-   "blurb": "On August 19th, Queen's legendary bassist and songwriter John Deacon celebrates his 75th birthday.",
+   "title": "Happy 63rd to Tori Amos",
+   "blurb": "Acclaimed singer-songwriter and alt-rock icon Tori Amos turns 63 on Friday, August 22.",
    "source": {
-    "l": "Birthday Buddies",
-    "u": "https://birthdaybuddies.net/musicians-born-in-august/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Tori_Amos"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Queen Bassist",
+     "name": "Alt-Rock Queen",
      "for": "Nation Rocks",
-     "copy": "Next week, we're celebrating the 75th Birthday of Queen's brilliant bassist, John Deacon! What's your favourite Queen track he wrote or played on?",
+     "copy": "Happy 63rd Birthday to the one and only Tori Amos this Friday! Her unique sound has inspired generations.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "12:00",
      "tags": [
-      "#JohnDeacon"
+      "#ToriAmos"
      ]
     },
     {
-     "name": "Rock Royalty",
-     "for": "Nation Classic Hits",
-     "copy": "From 'Another One Bites the Dust' to 'I Want to Break Free', John Deacon's contributions to Queen are iconic. Happy 75th for August 19th!",
+     "name": "Iconic Sound",
+     "for": "Nation 90s",
+     "copy": "Celebrating 63 years of incredible music! Tori Amos's birthday is this Friday. Which of her powerful songs is your favourite?",
      "channels": [
       "instagram",
       "facebook",
@@ -681,65 +713,174 @@
      ],
      "time": "16:00",
      "tags": [
-      "#Queen"
+      "#90sMusic"
      ]
     }
    ]
   },
   {
-   "id": "bday-robert-plant",
-   "off": 8,
-   "type": "birthday",
+   "id": "reading-leeds-2026",
+   "off": 15,
+   "type": "gig",
    "hot": true,
-   "title": "Robert Plant (Led Zeppelin) 78th Birthday",
-   "blurb": "The iconic voice of Led Zeppelin, Robert Plant, will be celebrating his 78th birthday on August 20th.",
+   "title": "Reading & Leeds Festivals 2026",
+   "blurb": "The twin Reading & Leeds Festivals return this August Bank Holiday weekend, running from Thursday 27th to Sunday 30th August, with headliners including Charli XCX, Dave, and Florence + The Machine.",
    "source": {
-    "l": "SoulTracks / Birthday Buddies",
-    "u": "https://www.soultracks.com/august-birthdays"
+    "l": "Reading & Leeds Festival Official Site",
+    "u": "https://www.readingfestival.com/"
    },
    "fits": [
     {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rock God Birthday",
-     "for": "Nation Rocks",
-     "copy": "Get ready to wish a Happy 78th Birthday to rock legend Robert Plant on August 20th! What's your all-time favourite Led Zeppelin anthem?",
+     "name": "Festival Countdown",
+     "for": "",
+     "copy": "Reading & Leeds is just over two weeks away! Who are you most excited to see on the lineup this August Bank Holiday weekend?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "12:00",
+     "time": "10:00",
      "tags": [
-      "#RobertPlant"
+      "#RandL26"
      ]
     },
     {
-     "name": "Voice of a Generation",
-     "for": "Nation 70s",
-     "copy": "On August 20th, we celebrate the enduring voice of Robert Plant! From 'Stairway to Heaven' to his solo work, his influence is undeniable.",
+     "name": "Bank Holiday Plans",
+     "for": "",
+     "copy": "Got your Reading or Leeds tickets? The festivals kick off on August 27th for a massive weekend of music!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:30",
+     "time": "17:00",
      "tags": [
-      "#LedZeppelin"
+      "#FestivalSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "creamfields-2026",
+   "off": 15,
+   "type": "gig",
+   "hot": true,
+   "title": "Creamfields 2026",
+   "blurb": "The UK's biggest electronic music festival, Creamfields, takes over Daresbury, Cheshire, from August 27-30 for the August Bank Holiday weekend.",
+   "source": {
+    "l": "Creamfields Official Site",
+    "u": "https://creamfields.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Festival Hype",
+     "for": "Nation Dance",
+     "copy": "Creamfields is almost here! The ultimate dance festival experience kicks off on August 27th. Who's ready to hit the fields?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Creamfields"
+     ]
+    },
+    {
+     "name": "August Bank Holiday Rave",
+     "for": "Nation Dance",
+     "copy": "Planning your August Bank Holiday? Creamfields is bringing the biggest names in electronic music to Cheshire from August 27-30!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#DanceMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday-uk",
+   "off": 19,
+   "type": "seasonal",
+   "hot": true,
+   "title": "August Bank Holiday Weekend Approaching",
+   "blurb": "The Late Summer Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31, providing a long weekend for many before the end of summer.",
+   "source": {
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/bank-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Long Weekend Prep",
+     "for": "",
+     "copy": "The August Bank Holiday is just around the corner! What are your plans for the last long weekend of summer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "Devon Bank Holiday",
+     "for": "radio-exe",
+     "copy": "Only a couple of weeks until the August Bank Holiday here in Devon! Where's your favourite local spot to enjoy the long weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#DevonLife"
      ]
     }
    ]
