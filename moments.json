@@ -1,26 +1,18 @@
 {
- "updated": "2026-08-13T14:13:26.836Z",
+ "updated": "2026-08-13T15:45:42.185Z",
  "moments": [
   {
-   "id": "uk-heatwave-peak",
-   "off": 0,
-   "type": "seasonal",
+   "id": "fa-community-shield-2026",
+   "off": 3,
+   "type": "sport",
    "hot": true,
-   "title": "UK Heatwave Peaks Today",
-   "blurb": "An amber extreme heat warning is in force for parts of England as temperatures are forecast to hit up to 38C today, marking the peak of the current heatwave before conditions ease.",
+   "title": "Community Shield in Cardiff",
+   "blurb": "The FA Community Shield, featuring Premier League champions Arsenal and FA Cup winners Manchester City, takes place this Sunday at Principality Stadium in Cardiff.",
    "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
+    "l": "FA / Visit Cardiff",
+    "u": "https://www.visitcardiff.com/events/2026-fa-community-shield-arsenal-vs-manchester-city/"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
     {
      "g": "welsh-local",
      "sub": ""
@@ -28,247 +20,114 @@
     {
      "g": "dragon",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Heat Alert",
-     "copy": "Stay safe and hydrated today, UK! Temperatures could hit 38C in some areas as the heatwave peaks. Amber warnings are in place. #HeatwaveUK",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#HeatwaveUK"
-     ]
     },
-    {
-     "name": "Cool Down Tips",
-     "copy": "Hottest day of the year for many? We're peaking at 38C today! What's your top tip for staying cool when the mercury soars?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#UKWeather"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-hundred-finals",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "The Hundred Finals Day",
-   "blurb": "The men's and women's finals of The Hundred cricket competition will take place this Sunday, August 16, at Lord's Cricket Ground in London.",
-   "source": {
-    "l": "The Hundred Official",
-    "u": "https://www.thehundred.com/fixtures"
-   },
-   "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Cricket Showdown",
-     "copy": "It's Finals Day for The Hundred this Sunday! Who are you backing to lift the trophy at Lord's? #TheHundred",
+     "name": "Cardiff Host City",
+     "for": "welsh-local",
+     "copy": "Cardiff takes centre stage this Sunday as Principality Stadium hosts the FA Community Shield! Arsenal vs Man City – who are you backing in the Welsh capital?",
      "channels": [
       "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Season Curtain Raiser",
+     "for": "nation-network",
+     "copy": "The traditional curtain-raiser for the English football season is almost here! Arsenal face Manchester City in the Community Shield this Sunday. Who's lifting the first silverware?",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#FootballIsBack"
+     ]
+    },
+    {
+     "name": "Wembley Alternative",
+     "for": "nation-network",
+     "copy": "For the first time in 20 years, the Community Shield isn't at Wembley! Cardiff's Principality Stadium steps in this Sunday for Arsenal vs Manchester City. Thoughts on the change?",
+     "channels": [
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#Cricket"
-     ]
-    },
-    {
-     "name": "London Calling",
-     "copy": "The Home of Cricket, Lord's, hosts The Hundred finals this Sunday! London is buzzing for the big game. #LondonCricket",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Lord's"
+      "#FACup"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-kickoff",
-   "off": 9,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Season Kicks Off",
-   "blurb": "The 2026/27 Premier League season officially begins next Friday, August 21, with Manchester United playing Hull City away on August 22 and Manchester City facing Arsenal on August 16.",
-   "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Football's Back",
-     "copy": "Less than 10 days until the Premier League kicks off! Who's ready for the return of top-flight football? #PL",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Opening Weekend",
-     "copy": "The Premier League fixtures are out! Man Utd, Arsenal, Man City all in action next weekend. Who's got the toughest start?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#FootballIsBack"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "we-out-here-festival",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "We Out Here Festival Underway",
-   "blurb": "Gilles Peterson's We Out Here Festival, celebrating world-class music, wellness, and culture, runs from August 20-23 in Dorset and is now sold out.",
-   "source": {
-    "l": "We Out Here Festival",
-    "u": "https://weoutherefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Vibes",
-     "copy": "We Out Here Festival is just days away! Sold out and ready to celebrate music and culture in Dorset. Who's heading down?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#WeOutHere"
-     ]
-    },
-    {
-     "name": "Dorset Sounds",
-     "copy": "The South West is getting its groove on next week as We Out Here Festival brings its unique blend of music and good vibes to Dorset.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#FestivalSeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-rein-me-in",
-   "off": 0,
+   "id": "uk-singles-chart-aug14",
+   "off": 1,
    "type": "culture",
    "hot": true,
-   "title": "Sam Fender & Olivia Dean UK No.1",
-   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' is currently the UK's Official Singles Chart number one, having also previously won Song of the Year at The BRIT Awards.",
+   "title": "New UK Singles Chart Out Tomorrow",
+   "blurb": "The Official UK Singles Chart will be updated tomorrow, Friday, August 14th, revealing the nation's new number one and top 40.",
    "source": {
-    "l": "Official Charts Company",
+    "l": "Official Charts",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Chart Topper",
-     "copy": "Still at number one! Sam Fender & Olivia Dean with 'Rein Me In' dominating the UK Singles Chart. Deserved? #UKChart",
+     "name": "Chart Prediction",
+     "for": "",
+     "copy": "Who's going to be number one on the Official UK Singles Chart tomorrow? Get your predictions in now!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "10:30",
+     "time": "09:00",
      "tags": [
-      "#NumberOne"
+      "#UKChart"
      ]
     },
     {
-     "name": "Power Duo",
-     "copy": "From BRITs winner to chart-topper! Sam Fender and Olivia Dean are a force to be reckoned with. What's your favourite lyric from 'Rein Me In'?",
+     "name": "Friday Music",
+     "for": "",
+     "copy": "New music Friday means a new UK Singles Chart! What track are you hoping climbs to the top tomorrow?",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "16:00",
      "tags": [
-      "#SamFender"
+      "#NewMusicFriday"
      ]
     }
    ]
   },
   {
-   "id": "madonna-birthday",
-   "off": 3,
+   "id": "bday-feargal-sharkey",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 68th to Madonna",
-   "blurb": "Pop icon Madonna celebrates her 68th birthday on Sunday, August 16, having sold over 300 million records worldwide.",
+   "title": "Feargal Sharkey turns 68",
+   "blurb": "Former Undertones frontman and solo artist Feargal Sharkey, known for 'Teenage Kicks' and 'A Good Heart', celebrates his 68th birthday today.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august16.html"
+    "u": "https://www.famousbirthdays.com/people/feargal-sharkey.html"
    },
    "fits": [
     {
@@ -277,151 +136,53 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation 70s"
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen of Pop",
-     "copy": "Happy 68th birthday to the one and only Queen of Pop, Madonna! What's your ultimate Madonna track? #Madonna",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#PopIcon"
-     ]
-    },
-    {
-     "name": "Material Girl",
-     "copy": "Celebrating Madonna's 68th this Sunday! From 'Like A Prayer' to 'Vogue', she's still got it. Which era is your favourite?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MadonnaBirthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "robert-plant-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 78th to Robert Plant",
-   "blurb": "Led Zeppelin frontman and rock legend Robert Plant turns 78 on Thursday, August 20.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august20.html"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Rock God",
-     "copy": "Happy 78th birthday to the legendary voice of Led Zeppelin, Robert Plant, this Thursday! What's your favourite Zep anthem?",
+     "name": "Teenage Kicks",
+     "for": "Nation 70s",
+     "copy": "Happy 68th Birthday to The Undertones' legend, Feargal Sharkey! Still got 'Teenage Kicks' stuck in your head?",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#RobertPlant"
-     ]
-    },
-    {
-     "name": "Golden God",
-     "copy": "From 'Stairway to Heaven' to his incredible solo career, Robert Plant is a true rock icon. Wishing him a very happy 78th!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#LedZeppelin"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "joe-jonas-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 37th to Joe Jonas",
-   "blurb": "Singer and actor Joe Jonas, known for the Jonas Brothers and DNCE, celebrates his 37th birthday on Friday, August 15.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august15.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jonas Birthday",
-     "copy": "Get ready to celebrate! Joe Jonas turns 37 this Friday. What's your go-to Jonas Brothers or DNCE track? #JoeJonas",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
      ],
      "time": "09:30",
      "tags": [
-      "#JonasBrothers"
+      "#FeargalSharkey"
      ]
     },
     {
-     "name": "Pop Star",
-     "copy": "Wishing a very happy 37th to Joe Jonas on Friday! From Disney star to pop sensation, he's done it all.",
+     "name": "A Good Heart",
+     "for": "Nation 80s",
+     "copy": "Wishing a very Happy 68th to Feargal Sharkey! His solo hit 'A Good Heart' was an 80s anthem. What's your favourite Sharkey track?",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "12:00",
      "tags": [
-      "#DNCE"
+      "#80sPop"
      ]
     }
    ]
   },
   {
-   "id": "demi-lovato-birthday",
-   "off": 7,
+   "id": "bday-joe-jonas",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 34th to Demi Lovato",
-   "blurb": "Grammy-nominated singer and actress Demi Lovato celebrates their 34th birthday on Thursday, August 20.",
+   "title": "Joe Jonas turns 37",
+   "blurb": "American pop singer Joe Jonas, known for the Jonas Brothers and DNCE, celebrates his 37th birthday on Sunday.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august20.html"
+    "u": "https://www.famousbirthdays.com/people/joe-jonas.html"
    },
    "fits": [
     {
@@ -435,8 +196,9 @@
    ],
    "angles": [
     {
-     "name": "Lovato Turns 34",
-     "copy": "Happy 34th birthday to the incredible Demi Lovato this Thursday! What's your favourite Demi hit? #DemiLovato",
+     "name": "Jonas Brother",
+     "for": "Nation Hits",
+     "copy": "Pop star Joe Jonas turns 37 on Sunday! What's your go-to Jonas Brothers or DNCE track?",
      "channels": [
       "instagram",
       "facebook",
@@ -445,33 +207,34 @@
      ],
      "time": "11:00",
      "tags": [
-      "#PopMusic"
+      "#JoeJonas"
      ]
     },
     {
-     "name": "Music & Message",
-     "copy": "From powerful ballads to pop anthems, Demi Lovato always delivers. Wishing them a fantastic 34th birthday!",
+     "name": "Camp Rock Throwback",
+     "for": "Nation 00s",
+     "copy": "Remember Camp Rock? Joe Jonas turns 37 this weekend! Still singing along to their hits?",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "15:00",
      "tags": [
-      "#Birthday"
+      "#JonasBrothers"
      ]
     }
    ]
   },
   {
-   "id": "belinda-carlisle-birthday",
+   "id": "bday-belinda-carlisle",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 68th to Belinda Carlisle",
-   "blurb": "Lead vocalist of The Go-Go's and successful solo artist Belinda Carlisle celebrates her 68th birthday on Monday, August 17.",
+   "title": "Belinda Carlisle turns 68",
+   "blurb": "The iconic lead singer of The Go-Go's and successful solo artist, Belinda Carlisle, celebrates her 68th birthday on Monday.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august17.html"
+    "u": "https://www.famousbirthdays.com/people/belinda-carlisle.html"
    },
    "fits": [
     {
@@ -486,56 +249,8 @@
    "angles": [
     {
      "name": "Heaven Is A Place",
-     "copy": "Happy 68th birthday to the iconic Belinda Carlisle this Monday! What's your favourite Go-Go's or solo hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#BelindaCarlisle"
-     ]
-    },
-    {
-     "name": "Go-Go's Legend",
-     "copy": "Celebrating Belinda Carlisle's birthday on Monday! 'Heaven Is a Place on Earth' still sounds as good as ever.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#80sPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ian-gillan-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 81st to Ian Gillan",
-   "blurb": "Deep Purple's legendary lead singer Ian Gillan turns 81 on Wednesday, August 19.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/19"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Smoke On The Water",
-     "copy": "Happy 81st birthday to Deep Purple's powerful vocalist Ian Gillan this Wednesday! What's your favourite Deep Purple track?",
+     "for": "Nation 80s",
+     "copy": "Heaven is a place on Earth... and it's Belinda Carlisle's 68th birthday on Monday! What's your favourite track from the 80s icon?",
      "channels": [
       "instagram",
       "facebook",
@@ -543,39 +258,36 @@
      ],
      "time": "10:00",
      "tags": [
-      "#IanGillan"
+      "#BelindaCarlisle"
      ]
     },
     {
-     "name": "Rock Royalty",
-     "copy": "Celebrating the incredible voice of Ian Gillan on Wednesday! A true rock legend turning 81.",
+     "name": "Go-Go's Legend",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing a fantastic 68th birthday to the legendary Belinda Carlisle this Monday! From The Go-Go's to her solo career, she's a true classic.",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "13:00",
      "tags": [
-      "#DeepPurple"
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "john-deacon-birthday",
+   "id": "bday-john-deacon",
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 75th to John Deacon",
-   "blurb": "Queen's bassist and songwriter John Deacon celebrates his 75th birthday on Wednesday, August 19.",
+   "title": "John Deacon turns 75",
+   "blurb": "Queen's legendary bassist and songwriter John Deacon, who penned hits like 'Another One Bites the Dust' and 'I Want to Break Free', will be 75 on Wednesday.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/19"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/john-deacon.html"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
@@ -583,30 +295,40 @@
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
      "name": "Queen Bassist",
-     "copy": "Happy 75th birthday to the legendary John Deacon, bassist and songwriter for Queen, this Wednesday! What's your favourite Deacon-penned hit?",
+     "for": "Nation Rocks",
+     "copy": "Rock royalty! Queen bassist John Deacon turns 75 this Wednesday. What's your favourite Deacon-penned hit?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:30",
+     "time": "09:00",
      "tags": [
       "#JohnDeacon"
      ]
     },
     {
      "name": "Another One Bites The Dust",
-     "copy": "Celebrating Queen's John Deacon on Wednesday! A key part of one of the greatest bands ever.",
+     "for": "Nation 80s",
+     "copy": "He gave us 'Another One Bites the Dust' and 'I Want to Break Free'. Happy 75th to Queen's John Deacon this Wednesday!",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "16:30",
+     "time": "14:00",
      "tags": [
       "#Queen"
      ]
@@ -614,105 +336,56 @@
    ]
   },
   {
-   "id": "reading-leeds-festival-anticipation",
-   "off": 14,
-   "type": "gig",
-   "hot": false,
-   "title": "Reading & Leeds Festival Approaching",
-   "blurb": "The twin Reading & Leeds Festivals, featuring a diverse lineup including Charli XCX, Dave, and Florence + The Machine, are set for August 27-30, with anticipation building.",
+   "id": "bday-robert-plant",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Robert Plant turns 78",
+   "blurb": "Led Zeppelin frontman and rock icon Robert Plant, known for his powerful vocals, celebrates his 78th birthday next Thursday.",
    "source": {
-    "l": "Reading & Leeds Official",
-    "u": "https://www.readingfestival.com/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/robert-plant.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Countdown",
-     "copy": "Just two weeks to go until Reading & Leeds! Who are you most excited to see on the lineup? #RandL26",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ReadingFestival"
-     ]
-    },
-    {
-     "name": "Lineup Buzz",
-     "copy": "Reading & Leeds are almost here! From pop to rock, there's something for everyone. What's your must-see act?",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#LeedsFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "creamfields-festival-anticipation",
-   "off": 14,
-   "type": "gig",
-   "hot": false,
-   "title": "Creamfields Festival Ahead",
-   "blurb": "One of the UK's largest electronic music festivals, Creamfields, is set to take place from August 27-30 in Daresbury, Cheshire, featuring top DJs and live acts.",
-   "source": {
-    "l": "Creamfields Official",
-    "u": "https://creamfields.com/"
-   },
-   "fits": [
-    {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North West"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Dance Festival Buzz",
-     "copy": "Creamfields is just around the corner! Two weeks until the electronic music extravaganza takes over Daresbury. Who's going?",
+     "name": "Led Zeppelin Legend",
+     "for": "Nation Rocks",
+     "copy": "The golden god of rock turns 78 next Thursday! Happy birthday to the legendary Robert Plant. What's your ultimate Led Zeppelin track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "10:00",
      "tags": [
-      "#Creamfields"
+      "#RobertPlant"
      ]
     },
     {
-     "name": "Cheshire Calling",
-     "copy": "Get ready for the biggest dance party in the North West! Creamfields is almost here, bringing huge names to Cheshire.",
+     "name": "Iconic Voice",
+     "for": "Nation Classic Hits",
+     "copy": "From 'Stairway to Heaven' to his solo work, Robert Plant's voice is unmistakable. He turns 78 next week – celebrate his iconic career!",
      "channels": [
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "19:00",
+     "time": "15:00",
      "tags": [
-      "#ElectronicMusic"
+      "#LedZeppelin"
      ]
     }
    ]
@@ -721,12 +394,12 @@
    "id": "august-bank-holiday-approaching",
    "off": 18,
    "type": "seasonal",
-   "hot": false,
+   "hot": true,
    "title": "August Bank Holiday Approaching",
-   "blurb": "The UK's Summer Bank Holiday for England, Wales, and Northern Ireland is on Monday, August 31, providing an extra day off before the end of the summer season.",
+   "blurb": "The August Bank Holiday for England, Wales, and Northern Ireland is on Monday, August 31st, marking a final long weekend of summer.",
    "source": {
-    "l": "GOV.UK",
-    "u": "https://www.gov.uk/bank-holidays"
+    "l": "Gov.uk / Time and Date",
+    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
    },
    "fits": [
     {
@@ -738,32 +411,38 @@
      "sub": ""
     },
     {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
      "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Bank Holiday Plans",
-     "copy": "The August Bank Holiday is just a few weeks away (Aug 31)! How are you planning to make the most of the long weekend?",
+     "name": "Long Weekend Prep",
+     "for": "nation-network",
+     "copy": "The August Bank Holiday is just over two weeks away (Mon 31st)! Who's already planning their final long weekend of summer?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "11:30",
      "tags": [
       "#BankHoliday"
      ]
     },
     {
      "name": "Summer's Last Hurrah",
-     "copy": "Counting down to the August Bank Holiday! It's the last chance for a long weekend before autumn. What's on your agenda?",
+     "for": "welsh-local",
+     "copy": "That last summer long weekend is in sight! England, Wales and Northern Ireland get their August Bank Holiday on the 31st. Any big plans in [your local area]?",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "14:30",
      "tags": [
       "#Summer2026"
      ]
