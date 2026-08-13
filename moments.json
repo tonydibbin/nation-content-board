@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-13T17:46:54.468Z",
+ "updated": "2026-08-13T18:43:48.954Z",
  "moments": [
   {
-   "id": "premier-league-kickoff",
-   "off": 8,
+   "id": "aquatics-champs-gb-golds",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Kicks Off",
-   "blurb": "The 2026/27 Premier League season officially begins next Friday, with defending champions Arsenal hosting newly promoted Coventry City in the opening fixture.",
+   "title": "GB Swimmers Strike Gold in Paris",
+   "blurb": "Great Britain's Katie Shanahan and Angharad Evans secured gold medals at the European Aquatics Championships in Paris today, with Shanahan setting a British record and Evans a Championship record.",
    "source": {
-    "l": "beIN SPORTS",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHb20Q1_jNjolVETzQfAZIjT83UQyPfhTSAGO1NmjNNcjOF0GEw7YFyE31MrElwosEuPuG53WSR7FqsELeCId9rq4u80BrfpAqu-GddFU7NQTSKq3UJ6Zaq17N-bO8Y6r1iQDUrYLoVoA1BJVDEBDvohl18odESahZ1e7VTRHSCBGj0pp_4o_wHhVkWJZO9W2DJjmF1baL-RFCYOmCAELiWt6kCfz0l1atNRA2a_C930jZBiy3DQ=="
+    "l": "University of Stirling News",
+    "u": "https://www.stir.ac.uk/news/2026/august-2026-news/university-of-stirling-swimmers-deliver-four-golds-for-great-britain-at-major-european-meet/"
    },
    "fits": [
     {
@@ -20,203 +20,253 @@
    ],
    "angles": [
     {
-     "name": "Opening Match Buzz",
-     "copy": "Football is back! The Premier League season kicks off next Friday with Arsenal vs Coventry City. Who are you backing for the title this year?",
+     "name": "Breaking News - Gold Medals",
+     "copy": "GOLD! 🥇 Huge congratulations to Katie Shanahan and Angharad Evans for their incredible performances at the European Aquatics Championships in Paris. Shanahan set a British record, and Evans a Championship record! What a day for Team GB!",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#TeamGB"
+     ]
+    },
+    {
+     "name": "Record Breakers",
+     "copy": "British Record for Katie Shanahan, Championship Record for Angharad Evans! Our GB swimmers are absolutely smashing it in Paris. Who else is buzzing from these gold medal wins?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "20:00",
+     "tags": [
+      "#EuropeanAquatics"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hodgkinson-athletics",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Keely Hodgkinson Eyes European Gold",
+   "blurb": "British star Keely Hodgkinson won her 800m semi-final today at the European Athletics Championships, targeting a third consecutive title, amidst reports her coaches were removed from their seats.",
+   "source": {
+    "l": "Daily Express",
+    "u": "https://www.express.co.uk/sport/other-sport/1935639/Keely-Hodgkinson-coaches-removed-seats-BBC-European-Championships"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hodgkinson in Final",
+     "copy": "Keely Hodgkinson is through to the 800m final at the European Athletics Championships! Can she make it three golds in a row? We're rooting for her! #EuroAthletics",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:30",
+     "tags": [
+      "#KeelyHodgkinson"
+     ]
+    },
+    {
+     "name": "Coaches Drama",
+     "copy": "Drama at the European Athletics Champs! Keely Hodgkinson's coaches reportedly removed from their seats ahead of her semi-final win. What was going on?!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "20:30",
+     "tags": [
+      "#AthleticsDrama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edinburgh-fringe-midway",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Edinburgh Fringe Festival Continues",
+   "blurb": "The Edinburgh Fringe Festival, the world's largest arts festival, is in full swing until August 31, with thousands of shows across theatre, comedy, dance, and music captivating audiences.",
+   "source": {
+    "l": "Edinburgh Fringe",
+    "u": "https://www.edfringe.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Fringe is ON",
+     "copy": "Edinburgh Fringe is buzzing! From comedy to cabaret, music to theatre, what shows are you catching this week? The festival runs until August 31st!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
       "threads"
      ],
      "time": "10:00",
+     "tags": [
+      "#edfringe"
+     ]
+    },
+    {
+     "name": "Scottish Spotlight",
+     "copy": "Scotland is the place to be! The Edinburgh Fringe Festival is delivering an incredible array of talent. If you're there this week, soak it all in!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Edinburgh"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-rein-me-in",
+   "off": 0,
+   "type": "chart",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean Hold UK No.1",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' remains at number one on the Official UK Singles Chart for an incredible 20th non-consecutive week, making it the longest-running UK No.1 single of all time.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper Reign",
+     "copy": "20 WEEKS AT NUMBER ONE! 👑 Sam Fender & Olivia Dean's 'Rein Me In' continues its historic run, now officially the longest-running UK No.1 single EVER. What a track!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Chart Entries",
+     "copy": "Beyond the record-breaking 'Rein Me In', Ariana Grande is making waves with new entries 'Petal' and 'Hate That I Made You Love Me' on the Official UK Singles Chart. What's your favourite new tune?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-kick-off",
+   "off": 9,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League 2026/27 Kicks Off Next Week",
+   "blurb": "The 2026/27 Premier League season officially kicks off on Saturday, August 22, with Arsenal v Coventry City being the first televised match on Friday 21st August.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/news/3536838"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Football's Back!",
+     "copy": "Mark your calendars! ⚽ The Premier League returns next weekend, Saturday August 22nd. Who are you backing for the title this season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Coventry's Return",
-     "copy": "A huge welcome back to the Premier League for Coventry City! Kicking off their campaign against the champions, Arsenal, next Friday. What a start!",
+     "name": "First Match Buzz",
+     "copy": "Only 8 days until Premier League football returns! Arsenal vs Coventry City kicks off the action next Friday. Ready for the new season?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#CoventryCity"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "efl-championship-starts",
-   "off": 1,
-   "type": "sport",
-   "hot": true,
-   "title": "EFL Championship Season Begins",
-   "blurb": "The 2026-27 EFL Championship season gets underway tomorrow, August 14, with Wolverhampton Wanderers taking on Blackburn Rovers, while Wrexham faces Cardiff City on Monday.",
-   "source": {
-    "l": "Paramount+",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHintr3C5DknNQdcLGxjwYycJmQ-2_7743C090yYAnQhZp2A5ee8etvI7Q-PaORDqC3W5HbvMVMFweWosxdCeT6y5yq1KYbB0NZEeZuMagWaNiMQfUSTiK_z26hJLdpnHlLh0UF7fdEs_oe78HyGiVdmW8XLywjWC5vn-HWMucZAWA=="
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Championship Kicks Off",
-     "copy": "The Championship is back! The 2026-27 season starts tomorrow, August 14. Who are you tipping for promotion this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#EFLChampionship"
-     ]
-    },
-    {
-     "name": "Wrexham's Big Opener",
-     "copy": "All eyes on Wrexham as they kick off their Championship campaign against Cardiff City on Monday! A huge Welsh derby to start the season.",
-     "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#WrexhamAFC",
-      "#CardiffCity"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "community-shield-cardiff",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "Community Shield in Cardiff",
-   "blurb": "Manchester City and Arsenal will battle it out for the Community Shield this Sunday, August 16, at Principality Stadium in Cardiff.",
-   "source": {
-    "l": "Groundhopper Guides",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfZh5aKwLXwfMSySF8NREciKEIlj86I8f9ikb9K065Ix_rmIK0EdoKGN8yS3z0yE-E47JDNkIsC8SKSbswUg6Tu44DrLZMVign08zJff8U5J7rz6fUFFxtwAPnAssqzUJmmCwZ2MdO1H6ASmpFYyb2gNaMI7JhvNcCWxlSny-i9vz5lhkg_TaIi8_0C_gQL6Mg84KQfw=="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cardiff Hosts Community Shield",
-     "copy": "Cardiff takes centre stage this Sunday as Principality Stadium hosts the Community Shield between Man City and Arsenal! Who's lifting the first silverware of the season?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CommunityShield",
-      "#Cardiff"
-     ]
-    },
-    {
-     "name": "City vs Arsenal",
-     "copy": "A taste of the Premier League rivalry early! Manchester City face Arsenal in the Community Shield on Sunday. Get ready for some football action!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "facebook"
      ],
      "time": "15:00",
      "tags": [
-      "#MCFC",
-      "#Arsenal"
+      "#PLKickOff"
      ]
     }
    ]
   },
   {
-   "id": "the-hundred-finals-day",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "The Hundred Finals Day",
-   "blurb": "The Hundred cricket tournament culminates this Sunday, August 16, with Finals Day at Lord's, where both the men's and women's champions will be crowned.",
-   "source": {
-    "l": "ECAL",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2n8Y81Bz2kJLr5ukwcOAYe80FcP6zND1QDHU_2-A2OhO_kswFa3fJPN1bv_SgGrimyI3k70quC0pmlkJbtyWmvEPOpvJuFa-aXauPhgkxRs405cs5ggJmodUcicvFt3r_JLcdXUETJNEZERMs2w=="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cricket Finals Day",
-     "copy": "It's Finals Day for The Hundred this Sunday at Lord's! Who are you hoping to see crowned champions of the men's and women's tournaments?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#TheHundred",
-      "#Cricket"
-     ]
-    },
-    {
-     "name": "Lord's Hosts Finals",
-     "copy": "All roads lead to Lord's this Sunday for The Hundred Finals Day! Get ready for a day of explosive cricket action.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#Lord'sCricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "palace-bowl-presents-bastille-wombats",
+   "id": "palace-bowl-presents",
    "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Palace Bowl Presents: Final Weekend",
-   "blurb": "The 'Palace Bowl Presents' series at Crystal Palace Bowl in London concludes this weekend, with Bastille and The Wombats among the acts performing until August 16.",
+   "title": "Palace Bowl Presents Continues in London",
+   "blurb": "The Palace Bowl Presents festival series at Crystal Palace Bowl in London continues until August 16, featuring a diverse lineup including Bastille and The Wombats.",
    "source": {
     "l": "Ticketmaster UK",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKVpwQqKARx470CNTfcunidQNx2Uljcqt7LD5ieUGhhjIs3wcdKmjB_SZfP0hVxhaXfBw1fta8JLKtM9mEIvKUM2vF2JQTFuUkGjwmn7WnOoHkfBfPu4ae8e0bNtO_Ru8Ruv5fQhvT1Q3RgoJyYN3HXK708hDnKJhIh8f-TA=="
+    "u": "https://www.ticketmaster.co.uk/august-festivals-uk"
    },
    "fits": [
     {
@@ -230,123 +280,12 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Last Chance for Palace Bowl",
-     "copy": "Catch Bastille and The Wombats at the Crystal Palace Bowl this weekend as 'Palace Bowl Presents' wraps up! Don't miss out on these London summer gigs.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#PalaceBowl",
-      "#LondonGigs"
-     ]
-    },
-    {
-     "name": "Who's at Crystal Palace?",
-     "copy": "What a line-up at Crystal Palace Bowl this week! Bastille and The Wombats are bringing the tunes. Who are you heading to see before Sunday?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#Bastille",
-      "#TheWombats"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "we-out-here-festival",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "We Out Here Festival Next Week",
-   "blurb": "We Out Here Festival, celebrating genre-hopping music, returns to Wimborne St Giles, Dorset, from August 20-23, though tickets are now sold out.",
-   "source": {
-    "l": "We Out Here Festival",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqg8YEBMn-tmGgdP-9Ost9LotDwLMFfz2naycwPq5GHS5GN33Y5HOMddbkgtWqJgqfiSepR9QG7ozP21m3tZYxhp5nrUaWJX6rU-dx7oC0FDmt0yeoUmAx"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "We Out Here Sold Out",
-     "copy": "We Out Here Festival is officially SOLD OUT for next week! If you were lucky enough to grab tickets, get ready for a fantastic four days of music in Dorset.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WeOutHereFestival",
-      "#Dorset"
-     ]
-    },
-    {
-     "name": "Festival Countdown",
-     "copy": "Just one week until We Out Here Festival takes over Dorset! Celebrating jazz, club culture, and more. Who's heading down?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#FestivalSeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "creamfields-approaching",
-   "off": 14,
-   "type": "gig",
-   "hot": true,
-   "title": "Creamfields Two Weeks Away",
-   "blurb": "The UK's largest electronic music festival, Creamfields, is just two weeks away, taking place from August 27-30 in Daresbury, Cheshire.",
-   "source": {
-    "l": "Creamfields",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ0nhoKzo-xwtyOgigHhBPMngDR701dSW-AZmFsrrlGHM0OD8ZJnQilm13Q5a8y3ZCBRXbtgE7vuDj-mpxZmvYcH8lLwaWImOAGpgGslvIuBJI8GVCq8gYpD2IkKRgOwTRvnd1aQgBpdVU9Q=="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Creamfields Countdown",
-     "copy": "The countdown is on! Just two weeks until Creamfields takes over Daresbury. Who's ready for four days of the best electronic music?",
+     "name": "London Gigs",
+     "copy": "Still time to catch some amazing acts at Palace Bowl Presents! Bastille & The Wombats are playing this weekend at Crystal Palace Bowl. Who's going?",
      "channels": [
       "instagram",
       "facebook",
@@ -354,193 +293,38 @@
      ],
      "time": "11:00",
      "tags": [
-      "#Creamfields",
-      "#DanceMusic"
+      "#LondonGigs"
      ]
     },
     {
-     "name": "Line-up Excitement",
-     "copy": "Creamfields is almost here! With Calvin Harris, Swedish House Mafia, Tiësto and more, it's set to be massive. What acts are you buzzing to see?",
+     "name": "Weekend Festival Vibes",
+     "copy": "The sun is out and the music's on! Palace Bowl Presents runs until Sunday – perfect for some last-minute summer festival vibes in London.",
      "channels": [
       "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FestivalVibes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "reading-leeds-approaching",
-   "off": 15,
-   "type": "gig",
-   "hot": true,
-   "title": "Reading & Leeds Festival Soon",
-   "blurb": "Reading & Leeds Festival, one of the UK's biggest music events, is set to take place from August 28-30, promising a huge weekend of rock, indie, and pop.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKVpwQqKARx470CNTfcunidQNx2Uljcqt7LD5ieUGhhjIs3wcdKmjB_SZfP0hVxhaXfBw1fta8JLKtM9mEIvKUM2vF2JQTFuUkGjwmn7WnOoHkfBfPu4ae8e0bNtO_Ru8Ruv5fQhvT1Q3RgoJyYN3HXK708hDnKJhIh8f-TA=="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Reading & Leeds Excitement",
-     "copy": "Who's ready for Reading & Leeds Festival at the end of the month? Get your tents and wellies ready for an epic weekend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#RandL26",
-      "#FestivalSeason"
-     ]
-    },
-    {
-     "name": "Festival Buzz",
-     "copy": "The buzz is building for Reading & Leeds! Three days of incredible music are just around the corner. What acts are you desperate to catch?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#ReadingFestival",
-      "#LeedsFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "victorious-festival-approaching",
-   "off": 15,
-   "type": "gig",
-   "hot": true,
-   "title": "Victorious Festival Nears",
-   "blurb": "Portsmouth's Victorious Festival, known for its beautiful location and diverse line-up, is set for August 28-30.",
-   "source": {
-    "l": "Victorious Festival",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCzBIUt1b5-yqrVTpW0f31jR7SEst-Nu_NXMsyFqaDPrf-Ik6QKGD4o3nJ48r-TL_QnJ-ecTOV6alzdJMJJ8XONtRLcKTuUj8LgDyUJPtB0K7zhcQrj_T0DRfUKj5s_Q=="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Portsmouth's Big Weekend",
-     "copy": "Victorious Festival is almost here! Three days of amazing music by the sea in Portsmouth, August 28-30. Who's heading to the south coast?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#VictoriousFestival",
-      "#Portsmouth"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing-returns",
-   "off": 37,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing Returns",
-   "blurb": "Strictly Come Dancing is set to return for its 24th series, with the launch show airing on September 19 and live shows commencing September 26, featuring new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
-   "source": {
-    "l": "Wales Online",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKyjSwjWiq9f88vLygps3H8ae_08yes5Gvn4HYOWxMkVreJScmtz-Sfu3oscOQ_hLRyqIklsRZXUmyG6pu59Mi47vIi3M_gqY6LghSoY4Y_akwgh0Mgnj6pj64fv6Vo1VGJPDJm2BaKF0rj0IQKJPNLCucUWmca4MaZ_moBJZcw6drjtxHcGWOv66wY6Vd"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly's New Era",
-     "copy": "Get ready for glitter and glamour! Strictly Come Dancing is back next month with new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe. The launch show is September 19!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Strictly",
-      "#StrictlyComeDancing"
-     ]
-    },
-    {
-     "name": "Who's Excited for Strictly?",
-     "copy": "Strictly Come Dancing is almost here! The launch show on September 19 will reveal this year's pairings. Who are you excited to see on the dancefloor?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "facebook"
      ],
      "time": "13:00",
      "tags": [
-      "#BBCStrictly"
+      "#PalaceBowl"
      ]
     }
    ]
   },
   {
-   "id": "james-morrison-birthday",
+   "id": "james-morrison-bday",
    "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Happy 42nd Birthday James Morrison",
-   "blurb": "English singer-songwriter James Morrison, known for hits like 'You Give Me Something,' turns 42 today.",
+   "blurb": "English singer-songwriter James Morrison, known for hits like 'You Give Me Something' and 'Broken Strings', turns 42 today.",
    "source": {
     "l": "Bored Panda",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIQlH_pjoZdN55Uc0aeYw4evdnlLiOSv9wffkh1g3dcHgLdXq9rBKwPkIPDhhQCOOlagM2joYQfNusnnEL6vujHsNANg1EmnsIiEWC7PS2Imto8oWzC8gqimd9G-zn39ey6TtxnGmsdz6YmpfsbO3lxtiDJpzKuQIqUI-tE2E="
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-13-2026/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
@@ -549,44 +333,92 @@
    ],
    "angles": [
     {
-     "name": "Birthday Shoutout James Morrison",
-     "copy": "Wishing a very Happy 42nd Birthday to the incredible James Morrison! Still love 'You Give Me Something' and his amazing husky vocals.",
+     "name": "James Morrison turns 42",
+     "copy": "Wishing a very Happy 42nd Birthday to the incredible James Morrison! His soulful voice and timeless tracks like 'You Give Me Something' still sound amazing.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#JamesMorrison",
-      "#Birthday"
+      "#JamesMorrison"
      ]
     },
     {
-     "name": "James Morrison's Music",
-     "copy": "From 'Undiscovered' to 'Broken Strings', James Morrison has given us so many great tracks. Happy 42nd Birthday to a true talent!",
+     "name": "Soulful Sounds",
+     "copy": "It's James Morrison's birthday! What's your favourite track from the Brit Award winner? We're cranking up 'Broken Strings' today.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "14:00",
      "tags": [
-      "#MusicLegend"
+      "#SoulMusic"
      ]
     }
    ]
   },
   {
-   "id": "lennon-stella-birthday",
+   "id": "feargal-sharkey-bday",
    "off": 0,
    "type": "birthday",
-   "hot": true,
+   "hot": false,
+   "title": "Happy 67th Birthday Feargal Sharkey",
+   "blurb": "Feargal Sharkey, the iconic Irish singer best known as the frontman of The Undertones and for his solo hit 'A Good Heart', celebrates his 67th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august13.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Feargal Sharkey 67",
+     "copy": "Happy 67th Birthday to the distinctive voice of Feargal Sharkey! From The Undertones to 'A Good Heart', his music is pure gold. What's your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FeargalSharkey"
+     ]
+    },
+    {
+     "name": "80s Icon",
+     "copy": "Rewind to the 80s for Feargal Sharkey's birthday! Still love 'A Good Heart' – a true classic. Happy 67th!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lennon-stella-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
    "title": "Happy 27th Birthday Lennon Stella",
-   "blurb": "Canadian singer and actress Lennon Stella, known for her role in 'Nashville' and her soulful pop music, celebrates her 27th birthday today.",
+   "blurb": "Canadian singer and actress Lennon Stella, known for her role in 'Nashville' and her soulful pop music, turns 27 today.",
    "source": {
     "l": "Bored Panda",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIQlH_pjoZdN55Uc0aeYw4evdnlLiOSv9wffkh1g3dcHgLdXq9rBKwPkIPDhhQCOOlagM2joYQfNusnnEL6vujHsNANg1EmnsIiEWC7PS2Imto8oWzC8gqimd9G-zn39ey6TtxnGmsdz6YmpfsbO3lxtiDJpzKuQIqUI-tE2E="
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-13-2026/"
    },
    "fits": [
     {
@@ -596,8 +428,8 @@
    ],
    "angles": [
     {
-     "name": "Birthday Lennon Stella",
-     "copy": "Happy 27th Birthday to the talented Lennon Stella! From 'Nashville' to her stunning solo music, she's a star.",
+     "name": "Lennon Stella 27",
+     "copy": "Happy 27th Birthday to the talented Lennon Stella! From 'Nashville' to her stunning pop tracks, she's a star. What's your top Lennon Stella song?",
      "channels": [
       "instagram",
       "facebook",
@@ -605,45 +437,63 @@
      ],
      "time": "11:00",
      "tags": [
-      "#LennonStella",
-      "#Birthday"
-     ]
-    },
-    {
-     "name": "Lennon Stella's Music",
-     "copy": "Listening to Lennon Stella's 'Three. Two. One.' today to celebrate her 27th Birthday! What's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PopMusic"
+      "#LennonStella"
      ]
     }
    ]
   },
   {
-   "id": "feargal-sharkey-birthday",
+   "id": "mo-bday",
    "off": 0,
    "type": "birthday",
-   "hot": true,
-   "title": "Happy 67th Birthday Feargal Sharkey",
-   "blurb": "Feargal Sharkey, lead singer of The Undertones and solo artist known for 'A Good Heart,' celebrates his 67th birthday today.",
+   "hot": false,
+   "title": "Happy 37th Birthday MØ",
+   "blurb": "Danish singer-songwriter MØ, globally recognised for her collaborations and solo hits like 'Lean On', celebrates her 37th birthday today.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFRT75z5TzTpVuBDY6T06yj60g6Km_WE51kNjxq95XKMCEBJ9llztuoGXgVt2gvp3Lwd3P6-payi-h-VAcCuccJkH8xz27SP9SPYYT4RY18HUTLd-ATrsPbwu48LEM5Mx_1Yn0476GkesQ9J0q55Fxlsgs"
+    "u": "https://www.famousbirthdays.com/august13.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "MØ turns 37",
+     "copy": "Happy 37th Birthday to the brilliant Danish artist MØ! 'Lean On' is still an absolute banger. What's your favourite MØ track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#MO"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "phoebe-bridgers-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 32nd Birthday Phoebe Bridgers",
+   "blurb": "American indie pop singer-songwriter Phoebe Bridgers, known for her critically acclaimed albums, will celebrate her 32nd birthday on August 17.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august17.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -652,8 +502,8 @@
    ],
    "angles": [
     {
-     "name": "Feargal Sharkey Birthday",
-     "copy": "Wishing a very Happy 67th Birthday to the legendary Feargal Sharkey! From The Undertones to 'A Good Heart', what a career.",
+     "name": "Phoebe Bridgers 32",
+     "copy": "Get ready to wish Phoebe Bridgers a Happy 32nd Birthday on Monday! What's your go-to song from the indie queen?",
      "channels": [
       "instagram",
       "facebook",
@@ -661,36 +511,95 @@
      ],
      "time": "10:00",
      "tags": [
-      "#FeargalSharkey",
-      "#TheUndertones"
-     ]
-    },
-    {
-     "name": "A Good Heart",
-     "copy": "Still got 'A Good Heart' on repeat! Happy 67th Birthday to Feargal Sharkey, whose voice is simply iconic.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#80sMusic",
-      "#PunkRock"
+      "#PhoebeBridgers"
      ]
     }
    ]
   },
   {
-   "id": "uk-heatwave-peaks",
+   "id": "belinda-carlisle-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 68th Birthday Belinda Carlisle",
+   "blurb": "Belinda Carlisle, lead vocalist of The Go-Go's and successful solo artist with hits like 'Heaven Is a Place on Earth', turns 68 on August 17.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august17.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Belinda Carlisle 68",
+     "copy": "On Monday, we celebrate the amazing Belinda Carlisle's 68th Birthday! 'Heaven Is a Place on Earth' still gives us chills. What's your favourite Go-Go's or solo track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BelindaCarlisle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kelvin-mercer-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 57th Birthday Kelvin Mercer (Posdnuos)",
+   "blurb": "Kelvin Mercer, also known as Posdnuos from the legendary hip-hop group De La Soul, celebrates his 57th birthday on August 17.",
+   "source": {
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/birthdays/august"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "De La Soul Legend",
+     "copy": "Massive Happy 57th Birthday wishes to Kelvin Mercer, aka Posdnuos from the iconic De La Soul, this Monday! His flow is legendary.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#DeLaSoul"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-summer-holidays",
    "off": 0,
    "type": "seasonal",
-   "hot": true,
-   "title": "UK Heatwave Peaks Today",
-   "blurb": "The UK has recorded its hottest day of the year today, August 13, with temperatures reaching 38.1°C in London, making it the fifth hottest day on record.",
+   "hot": false,
+   "title": "UK Summer Holidays Continue",
+   "blurb": "Most schools across England and Wales are still enjoying their summer holidays, with many returning around September 1st, while Scottish schools returned earlier this week.",
    "source": {
-    "l": "Met Office",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQU9FncjpbePC7qaPrBhzLMWb78PCJZGxMpRRmdp5iXQWg9QGk0KkohAwHrLK59loP7qo6uwGA8txnabMZWlQTvbbgqGXf6xf7UvsKKW35V5ofXb1Qe2sgQPxXO0MqEDOZvGCeinrA39mONEwyMWfuR5G55P715Kkqnuk5MmyNNpxD_HNw9ilhWTUOH5PGK_RLVmm3Jf3ZtozRJS97wAoP1t0XI9ZMipf8jOsnteVVJUApkBPkIbTE4B2rRpBYfcaY6BKueuaP0dbB7n5MatMZaVja5kXfcxHeokBxoSwlqyyGTzyROCy5"
+    "l": "Icelolly.com",
+    "u": "https://www.icelolly.com/blog/uk-school-holiday-dates"
    },
    "fits": [
     {
@@ -698,18 +607,22 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "g": "welsh-local",
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Hottest Day Alert",
-     "copy": "Phew, what a scorcher! The UK has seen its hottest day of the year today, with 38.1°C recorded in London. Stay cool and hydrated everyone!",
+     "name": "Summer Vibes",
+     "copy": "Still soaking up those summer holiday vibes across the UK! How are you spending these last few weeks before the back-to-school rush?",
      "channels": [
       "instagram",
       "facebook",
@@ -717,76 +630,21 @@
       "tiktok",
       "threads"
      ],
-     "time": "15:00",
-     "tags": [
-      "#Heatwave",
-      "#UKWeather"
-     ]
-    },
-    {
-     "name": "Heatwave Records",
-     "copy": "Today marks the fifth hottest day on record for the UK, with temperatures hitting 38.1°C. This summer is certainly one for the history books!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ExtremeHeat",
-      "#Summer2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "august-bank-holiday-approaching",
-   "off": 18,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August Bank Holiday Approaching",
-   "blurb": "The late August Bank Holiday for England, Wales, and Northern Ireland is just over two weeks away, falling on Monday, August 31, 2026.",
-   "source": {
-    "l": "Time and Date",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-0kuNNMjZemY8TUe_n7fkc3D371KNLRB7nR2FupkDhSbhfUpcpYP73Dr_PaT9ShVSlwLDzeb18zRHDHkfc0MAu-apmx6YjXX8VO6hjz7tVy71VUYIDdrQ8JDI-RH0XtPSW7lV5nu0zgsKuxeZmidDFzZi9c="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bank Holiday Countdown",
-     "copy": "Hands up if you're already counting down to the August Bank Holiday! Just over two weeks until that glorious long weekend. What are your plans?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
      "time": "09:30",
      "tags": [
-      "#BankHoliday",
-      "#LongWeekend"
+      "#SummerHolidays"
      ]
     },
     {
-     "name": "Summer's Last Hurrah",
-     "copy": "The Late Summer Bank Holiday is on August 31st for England, Wales, and Northern Ireland. The perfect excuse for a final summer escape!",
+     "name": "Scottish Schools Back",
+     "copy": "While many UK schools are still off, a big welcome back to all the students in Scotland who returned this week! How was the first day back?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "12:30",
+     "time": "16:30",
      "tags": [
-      "#SummerVibes"
+      "#BackToSchoolScotland"
      ]
     }
    ]
