@@ -1,213 +1,313 @@
 {
- "updated": "2026-08-13T05:29:46.610Z",
+ "updated": "2026-08-13T07:06:20.140Z",
  "moments": [
   {
-   "id": "alevelresults",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "A-level results day",
-   "blurb": "A-level results day in England, Wales and Northern Ireland",
-   "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio"
-    }
-   ],
-   "angles": [
-    {
-     "name": "resultsday",
-     "for": "",
-     "copy": "It's A-level results day - how did you do on this day all those years ago?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#AlevelResults"
-     ]
-    },
-    {
-     "name": "resultsadvice",
-     "for": "",
-     "copy": "Got your A-level results today? Our team has some top tips for what to do next",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "resultsstories",
-     "for": "",
-     "copy": "Share your A-level results day story with us - did you get the grades you wanted?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "gcseresults",
-   "off": 7,
-   "type": "seasonal",
-   "hot": true,
-   "title": "GCSE results day",
-   "blurb": "GCSE results day in England, Wales and Northern Ireland",
-   "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio"
-    }
-   ],
-   "angles": [
-    {
-     "name": "gcsecountdown",
-     "for": "",
-     "copy": "Only one week to go until GCSE results day - are you ready?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#GCSEResults"
-     ]
-    },
-    {
-     "name": "gcsenextsteps",
-     "for": "",
-     "copy": "GCSE results day is just around the corner - what are your next steps?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "gcseshare",
-     "for": "",
-     "copy": "What are you most looking forward to after getting your GCSE results?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "premierleague",
-   "off": 9,
+   "id": "fa-community-shield-2026",
+   "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "Premier League season kicks off",
-   "blurb": "The 2026/27 Premier League season starts on 22 August 2026",
+   "title": "Community Shield Clash in Cardiff",
+   "blurb": "Arsenal and Manchester City face off in the FA Community Shield this Sunday, August 16, at Principality Stadium in Cardiff, the traditional curtain-raiser for the English football season.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Sky Sports / Premier League",
+    "u": "https://www.skysports.com/football/news/11661/13444907/premier-league-pre-season-friendlies-2026-27-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps"
    },
    "fits": [
     {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
      "g": "nation-network",
-     "sub": "Nation Radio"
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "premierleaguecountdown",
-     "for": "",
-     "copy": "Only 9 days to go until the Premier League season kicks off - who are you backing for the title?",
+     "name": "Match Hype",
+     "for": "welsh-local",
+     "copy": "Cardiff is buzzing! The Community Shield brings Arsenal v Man City to Principality Stadium this Sunday. Who are you backing?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "08:00",
+     "time": "09:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "National Football",
+     "for": "nation-network",
+     "copy": "The domestic football season officially kicks off! Arsenal take on Manchester City in the Community Shield this Sunday. Early bragging rights up for grabs.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Cardiff Host",
+     "for": "dragon",
+     "copy": "Principality Stadium hosts the FA Community Shield on Sunday! Arsenal vs Man City right here in Cardiff. Get ready for a football feast!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Cardiff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-hundred-finals-2026",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "The Hundred Cricket Finals Week",
+   "blurb": "The Hundred Men's and Women's cricket competition reaches its climax this week, with the Eliminator match on Friday, August 14, and the grand Final on Sunday, August 16.",
+   "source": {
+    "l": "The Hundred Official / Heavy Sports",
+    "u": "https://heavy.com/sports/cricket/the-hundred-2026-schedule-standings-results/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cricket Finals",
+     "for": "",
+     "copy": "It's Finals Week for The Hundred! The Eliminator is tomorrow, and the Grand Final is Sunday. Who will be crowned champions?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#TheHundred"
+     ]
+    },
+    {
+     "name": "High Octane Cricket",
+     "for": "",
+     "copy": "The Hundred is down to the wire! Expect explosive action and nail-biting finishes as the Eliminator and Final unfold this weekend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Cricket"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "european-athletics-champs-birmingham",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "European Athletics Championships Wrap Up",
+   "blurb": "The European Athletics Championships in Birmingham, England, conclude this Sunday, August 16, after a week of intense track and field action.",
+   "source": {
+    "l": "UK Sport",
+    "u": "https://www.uksport.gov.uk/news/2026/08/04/uk-august-sports-list-2026-master-calendar-of-major-events"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Birmingham"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Athletics Finale",
+     "for": "",
+     "copy": "The European Athletics Championships in Birmingham wrap up this weekend. Who's been your standout star from the track and field?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#EuroAthletics"
+     ]
+    },
+    {
+     "name": "Birmingham Hosts",
+     "for": "nation-network",
+     "copy": "Birmingham has been at the heart of European Athletics all week! Don't miss the final events as the championships conclude this Sunday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Birmingham"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fernadnez-transfer-deadline",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "Enzo Fernandez Transfer Deadline",
+   "blurb": "Chelsea have reportedly set a 5pm Friday, August 14, deadline for Manchester City to bid for midfielder Enzo Fernandez, amidst ongoing transfer speculation.",
+   "source": {
+    "l": "Sky Sports",
+    "u": "https://www.skysports.com/football/news/11095/13444907/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Transfer Drama",
+     "for": "",
+     "copy": "Tick-tock for Enzo Fernandez! Chelsea have given Man City until 5pm tomorrow to make their move. Will he stay or go?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#TransferNews"
+     ]
+    },
+    {
+     "name": "Premier League Moves",
+     "for": "nation-network",
+     "copy": "Big money moves brewing! The Enzo Fernandez saga continues with a Friday deadline set. Could this be the biggest transfer of the window?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
      "tags": [
       "#PremierLeague"
      ]
-    },
-    {
-     "name": "premierleagueteams",
-     "for": "",
-     "copy": "Which Premier League team are you most excited to watch this season?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "premierleaguepredictions",
-     "for": "",
-     "copy": "Make your Premier League predictions - who will be the top scorers and who will get relegated?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
     }
    ]
   },
   {
-   "id": "readingandleeds",
-   "off": 14,
+   "id": "the-weeknd-wembley",
+   "off": 1,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festival",
-   "blurb": "Reading & Leeds runs 27–30 August 2026, with headliners including Fontaines D.C., Florence + The Machine, Chase & Status and RAYE",
+   "title": "The Weeknd Takes Over Wembley",
+   "blurb": "The Weeknd brings his 'After Hours Til Dawn' tour to London's Wembley Stadium for five nights, starting Friday, August 14, with Playboi Carti supporting.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Time Out / Heathrow Express",
+    "u": "https://www.timeout.com/london/music/best-london-concerts-gigs-august-2026-tickets"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wembley Weekend",
+     "for": "nation-network",
+     "copy": "The Weeknd is taking over Wembley Stadium for five nights starting tomorrow! Who's ready for the 'After Hours Til Dawn' experience?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheWeeknd"
+     ]
+    },
+    {
+     "name": "London Calling",
+     "for": "nation-network",
+     "copy": "Abel Tesfaye's 'After Hours Til Dawn' tour hits Wembley this weekend. Expect incredible visuals and all the hits!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Wembley"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ariana-grande-o2-residency",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Ariana Grande's O2 Residency",
+   "blurb": "Pop superstar Ariana Grande kicks off a ten-night residency at London's O2 Arena this Saturday, August 15, as part of her 'Eternal Sunshine Tour'.",
+   "source": {
+    "l": "Heathrow Express / Time Out",
+    "u": "https://www.heathrowexpress.com/london-travel-guide/london-events/london-concerts-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
     },
     {
      "g": "decades-genres",
@@ -216,315 +316,586 @@
    ],
    "angles": [
     {
-     "name": "readingandleedslineup",
-     "for": "Nation Rocks",
-     "copy": "The Reading & Leeds lineup is looking epic this year - who are you most excited to see?",
+     "name": "Ariana Takes O2",
+     "for": "nation-network",
+     "copy": "Ariana Grande begins her massive ten-night residency at The O2 this Saturday! Who's got tickets to see the pop queen?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "08:00",
+     "time": "11:00",
      "tags": [
-      "#ReadingAndLeeds"
+      "#ArianaGrande"
      ]
     },
     {
-     "name": "readingandleedstips",
-     "for": "Nation Hits",
-     "copy": "Heading to Reading & Leeds this year? Our team has some top tips for making the most of the festival",
+     "name": "Pop Event of Summer",
+     "for": "decades-genres",
+     "copy": "It's the pop event of the summer! Ariana Grande's 'Eternal Sunshine Tour' arrives at London's O2 for an epic run of shows starting this weekend.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "readingandleedsfavourites",
-     "for": "",
-     "copy": "What's your favourite Reading & Leeds memory?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
+     "time": "15:00",
+     "tags": [
+      "#EternalSunshineTour"
+     ]
     }
    ]
   },
   {
-   "id": "nottinghillcarnival",
-   "off": 17,
-   "type": "culture",
-   "hot": true,
-   "title": "Notting Hill Carnival turns 60",
-   "blurb": "Notting Hill Carnival takes to the streets on 30–31 August 2026 — its 60th anniversary",
-   "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "nottinghillcarnivalhistory",
-     "for": "",
-     "copy": "Notting Hill Carnival is turning 60 - let's take a look back at its incredible history",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#NottingHillCarnival"
-     ]
-    },
-    {
-     "name": "nottinghillcarnivaltips",
-     "for": "",
-     "copy": "Heading to Notting Hill Carnival this year? Our team has some top tips for making the most of the celebration",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "nottinghillcarnivalfavourites",
-     "for": "",
-     "copy": "What's your favourite Notting Hill Carnival memory?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "augustbankholiday",
-   "off": 18,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August bank holiday",
-   "blurb": "The summer bank holiday Monday in England, Wales and Northern Ireland — 31 August 2026",
-   "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio"
-    }
-   ],
-   "angles": [
-    {
-     "name": "augustbankholidayplans",
-     "for": "",
-     "copy": "What are your plans for the August bank holiday?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#AugustBankHoliday"
-     ]
-    },
-    {
-     "name": "augustbankholidaystaycation",
-     "for": "",
-     "copy": "Staycation ideas for the August bank holiday - where will you be heading?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "augustbankholidayactivities",
-     "for": "",
-     "copy": "What are your favourite activities to do over the August bank holiday?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "greenmanfestival",
-   "off": 7,
+   "id": "hollywood-vampires-cardiff",
+   "off": 1,
    "type": "gig",
    "hot": true,
-   "title": "Green Man Festival",
-   "blurb": "Green Man returns to the Black Mountains, Powys, 20–23 August 2026 — one of Wales' best-loved music festivals",
+   "title": "Hollywood Vampires Rock Cardiff",
+   "blurb": "The supergroup Hollywood Vampires, featuring Alice Cooper and Johnny Depp, play Cardiff Castle on Friday, August 14.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Shazam / Cardiff Theater",
+    "u": "https://www.shazam.com/gb/artists/alice-cooper/cardiff-castle-cardiff-2026-08-14"
    },
    "fits": [
     {
      "g": "welsh-local",
-     "sub": "Bridge FM"
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "greenmanfestival lineup",
-     "for": "Nation Rocks",
-     "copy": "The Green Man Festival lineup is looking epic this year - who are you most excited to see?",
+     "name": "Cardiff Rocks",
+     "for": "welsh-local",
+     "copy": "Hollywood Vampires, with Alice Cooper and Johnny Depp, are bringing their rock show to Cardiff Castle tomorrow night! Get ready to sink your fangs into some classic rock.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
-      "#GreenManFestival"
+      "#HollywoodVampires"
      ]
     },
     {
-     "name": "greenmanfestival tips",
-     "for": "Bridge FM",
-     "copy": "Heading to Green Man Festival this year? Our team has some top tips for making the most of the festival",
+     "name": "Supergroup Alert",
+     "for": "decades-genres",
+     "copy": "Alice Cooper, Johnny Depp, and the Hollywood Vampires are in Cardiff tomorrow! A supergroup delivering super rock. Who's going?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
-     "tags": []
-    },
-    {
-     "name": "greenmanfestival favourites",
-     "for": "",
-     "copy": "What's your favourite Green Man Festival memory?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": []
+     "time": "13:00",
+     "tags": [
+      "#NationRocks"
+     ]
     }
    ]
   },
   {
-   "id": "beautifuldaysfestival",
-   "off": 8,
+   "id": "jimmy-eat-world-cardiff",
+   "off": 2,
    "type": "gig",
    "hot": true,
-   "title": "Beautiful Days Festival",
-   "blurb": "Beautiful Days — the Levellers' own festival — runs 21–23 August 2026 at Escot Park, Ottery St Mary, Devon",
+   "title": "Jimmy Eat World at Cardiff Castle",
+   "blurb": "Alt-rock legends Jimmy Eat World play Cardiff Castle this Saturday, August 15, with support from Rise Against, The Get Up Kids, and Jay Som.",
    "source": {
-    "l": "Nation Broadcasting",
-    "u": ""
+    "l": "Shazam / Cardiff Theater",
+    "u": "https://www.shazam.com/gb/concerts/jimmy-eat-world/cardiff-castle-cardiff-2026-08-15"
    },
    "fits": [
     {
-     "g": "radio-exe",
-     "sub": "Exeter"
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "beautifuldaysfestival lineup",
-     "for": "Nation Rocks",
-     "copy": "The Beautiful Days Festival lineup is looking epic this year - who are you most excited to see?",
+     "name": "Emo Legends Live",
+     "for": "welsh-local",
+     "copy": "Jimmy Eat World are at Cardiff Castle this Saturday! Get ready to sing along to all the anthems with Rise Against also on the bill.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "08:00",
+     "time": "11:00",
      "tags": [
-      "#BeautifulDaysFestival"
+      "#JimmyEatWorld"
      ]
     },
     {
-     "name": "beautifuldaysfestival tips",
-     "for": "Exeter",
-     "copy": "Heading to Beautiful Days Festival this year? Our team has some top tips for making the most of the festival",
+     "name": "Alt-Rock Weekend",
+     "for": "decades-genres",
+     "copy": "Cardiff is hosting an alt-rock extravaganza this Saturday as Jimmy Eat World, Rise Against, and The Get Up Kids hit Cardiff Castle.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
-     "tags": []
+     "time": "14:30",
+     "tags": [
+      "#NationRocks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "george-michael-candlelight-cardiff",
+   "off": 7,
+   "type": "gig",
+   "hot": true,
+   "title": "George Michael Candlelight Concert",
+   "blurb": "A stunning candlelight tribute to the music of George Michael is set to take place at Llandaff Cathedral in Cardiff on Thursday, August 20.",
+   "source": {
+    "l": "Xperience Live",
+    "u": "https://www.xperiencelive.com/events/the-music-of-george-michael-the-candlelight-concert-llandaff-cathedral-cardiff"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "name": "beautifuldaysfestival favourites",
-     "for": "",
-     "copy": "What's your favourite Beautiful Days Festival memory?",
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff Candlelight",
+     "for": "welsh-local",
+     "copy": "Experience the magic of George Michael's music in a breathtaking candlelight concert at Llandaff Cathedral next Thursday! An unforgettable evening awaits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#GeorgeMichael"
+     ]
+    },
+    {
+     "name": "Wham! Classics",
+     "for": "decades-genres",
+     "copy": "From 'Careless Whisper' to 'Freedom! '90', celebrate the iconic songs of George Michael at a special candlelight concert in Cardiff next week.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Wham"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-rein-me-in",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean Hold UK No.1",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' remains at #1 on the Official UK Singles Chart for an incredible 20th week, with new entries from Sienna Spiro and Ariana Grande also making waves.",
+   "source": {
+    "l": "Official Charts Company / Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/UK_singles_chart"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "for": "decades-genres",
+     "copy": "20 weeks at number one! Sam Fender & Olivia Dean are still dominating the Official UK Singles Chart with 'Rein Me In'. What a run!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Entries",
+     "for": "decades-genres",
+     "copy": "New music alert! Sienna Spiro and Ariana Grande both have fresh tracks in the Official UK Singles Chart Top 10. Tune in to Nation Hits to hear them!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lennon-stella-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 27th Birthday, Lennon Stella!",
+   "blurb": "Canadian singer and actress Lennon Stella, known for 'Nashville' and her soulful pop, turns 27 today, August 13.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august13.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star B-Day",
+     "for": "",
+     "copy": "Wishing a very Happy 27th Birthday to the talented Lennon Stella today! What's your favourite track from the 'Nashville' star?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#LennonStella"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "james-morrison-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 41st Birthday, James Morrison!",
+   "blurb": "British soul singer-songwriter James Morrison, known for hits like 'You Give Me Something' and 'Broken Strings', celebrates his 41st birthday today, August 13.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august13.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Soulful Birthday",
+     "for": "decades-genres",
+     "copy": "Happy 41st Birthday to the incredible James Morrison! His soulful voice always brightens our day. What's your go-to James Morrison track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#JamesMorrison"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "feargal-sharkey-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 67th Birthday, Feargal Sharkey!",
+   "blurb": "Former Undertones frontman and solo artist Feargal Sharkey, known for 'Teenage Kicks' and 'A Good Heart', turns 67 today, August 13.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august13.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s Icon B-Day",
+     "for": "decades-genres",
+     "copy": "Happy 67th Birthday to Feargal Sharkey! From The Undertones to his solo hits, his voice is unforgettable. Which one is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#FeargalSharkey"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aphex-twin-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 55th Birthday, Aphex Twin!",
+   "blurb": "Influential electronic musician Richard D. James, known as Aphex Twin, will celebrate his 55th birthday on Tuesday, August 18.",
+   "source": {
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/August_18"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Electronic Pioneer",
+     "for": "",
+     "copy": "Wishing a future Happy 55th Birthday to the legendary Aphex Twin on Tuesday! His groundbreaking electronic music continues to inspire.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#AphexTwin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ian-gillan-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 81st Birthday, Ian Gillan!",
+   "blurb": "Deep Purple's iconic lead singer, Ian Gillan, will turn 81 on Wednesday, August 19.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august19.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Legend B-Day",
+     "for": "decades-genres",
+     "copy": "A huge Happy 81st Birthday to Deep Purple's powerhouse vocalist, Ian Gillan, next Wednesday! What's your favourite Deep Purple classic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#IanGillan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "robert-plant-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 78th Birthday, Robert Plant!",
+   "blurb": "Led Zeppelin frontman and rock icon Robert Plant will celebrate his 78th birthday next Thursday, August 20.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august20.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Voice of Led Zep",
+     "for": "decades-genres",
+     "copy": "Wishing a very Happy 78th Birthday to the legendary Robert Plant next Thursday! Which Led Zeppelin track is your all-time favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#RobertPlant"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "demi-lovato-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 34th Birthday, Demi Lovato!",
+   "blurb": "Pop sensation Demi Lovato will turn 34 next Thursday, August 20.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august20.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Powerhouse",
+     "for": "",
+     "copy": "Next Thursday, we're celebrating Demi Lovato's 34th birthday! What's your favourite song from the pop powerhouse?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
      ],
      "time": "16:00",
-     "tags": []
+     "tags": [
+      "#DemiLovato"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-august",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Experiencing Record-Breaking August Heat",
+   "blurb": "Parts of the UK are experiencing a hot August, with temperatures climbing into the mid-30s°C in England and Wales, potentially making it the warmest summer on record.",
+   "source": {
+    "l": "Met Office / AccuWeather",
+    "u": "https://www.facebook.com/metoffice/posts/pfbid0259b7j4j8q2k8a7f2m6z3b7g8h9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Summer Sizzler",
+     "for": "nation-network",
+     "copy": "It's a scorching August across the UK! Temperatures are soaring, making this potentially the warmest summer on record. Stay cool out there!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#UKHeatwave"
+     ]
+    },
+    {
+     "name": "Local Heat",
+     "for": "welsh-local",
+     "copy": "The heatwave continues across Wales! Remember to stay hydrated and find ways to keep cool as we head into a record-breaking summer.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WalesWeather"
+     ]
     }
    ]
   }
  ],
- "source": "groq"
+ "source": "gemini"
 }
