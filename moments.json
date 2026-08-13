@@ -1,26 +1,18 @@
 {
- "updated": "2026-08-13T07:06:20.140Z",
+ "updated": "2026-08-13T08:59:19.770Z",
  "moments": [
   {
-   "id": "fa-community-shield-2026",
-   "off": 3,
+   "id": "euro-athletics-champs",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Community Shield Clash in Cardiff",
-   "blurb": "Arsenal and Manchester City face off in the FA Community Shield this Sunday, August 16, at Principality Stadium in Cardiff, the traditional curtain-raiser for the English football season.",
+   "title": "European Athletics Championships in Birmingham",
+   "blurb": "The 2026 European Athletics Championships are ongoing in Birmingham, with Great Britain celebrating multiple gold medals, including Matthew Hudson-Smith in the 400m and Amy Hunt and Romell Glave in the 100m.",
    "source": {
-    "l": "Sky Sports / Premier League",
-    "u": "https://www.skysports.com/football/news/11661/13444907/premier-league-pre-season-friendlies-2026-27-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps"
+    "l": "UK Sport / Olympics.com",
+    "u": "https://www.uksport.gov.uk/news/2026/08/06/uk-sport-welcomes-submission-of-bid-for-2029-world-athletics-championships"
    },
    "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
     {
      "g": "nation-network",
      "sub": ""
@@ -28,41 +20,33 @@
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Match Hype",
-     "for": "welsh-local",
-     "copy": "Cardiff is buzzing! The Community Shield brings Arsenal v Man City to Principality Stadium this Sunday. Who are you backing?",
+     "name": "Gold Rush",
+     "for": "",
+     "copy": "Team GB are absolutely flying at the European Athletics Championships in Birmingham! What a week for British sport.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
-      "#CommunityShield"
+      "#EuroAthletics"
      ]
     },
     {
-     "name": "National Football",
-     "for": "nation-network",
-     "copy": "The domestic football season officially kicks off! Arsenal take on Manchester City in the Community Shield this Sunday. Early bragging rights up for grabs.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#CommunityShield"
-     ]
-    },
-    {
-     "name": "Cardiff Host",
-     "for": "dragon",
-     "copy": "Principality Stadium hosts the FA Community Shield on Sunday! Arsenal vs Man City right here in Cardiff. Get ready for a football feast!",
+     "name": "Hudson-Smith Heroics",
+     "for": "",
+     "copy": "Matthew Hudson-Smith, what a run! Another gold for Team GB in the 400m at the European Athletics Championships. Birmingham is buzzing!",
      "channels": [
       "instagram",
       "facebook",
@@ -70,21 +54,21 @@
      ],
      "time": "11:00",
      "tags": [
-      "#Cardiff"
+      "#Athletics"
      ]
     }
    ]
   },
   {
-   "id": "the-hundred-finals-2026",
-   "off": 1,
+   "id": "fa-community-shield",
+   "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "The Hundred Cricket Finals Week",
-   "blurb": "The Hundred Men's and Women's cricket competition reaches its climax this week, with the Eliminator match on Friday, August 14, and the grand Final on Sunday, August 16.",
+   "title": "Community Shield this weekend in Cardiff",
+   "blurb": "The FA Community Shield, the traditional curtain-raiser for the English football season, takes place this Sunday, August 16, between Premier League champions Arsenal and FA Cup winners Manchester City at Principality Stadium in Cardiff.",
    "source": {
-    "l": "The Hundred Official / Heavy Sports",
-    "u": "https://heavy.com/sports/cricket/the-hundred-2026-schedule-standings-results/"
+    "l": "Groundhopper Guides",
+    "u": "https://groundhopperguides.com/2026-27-premier-league-start-date-fixtures-and-key-dates/"
    },
    "fits": [
     {
@@ -92,15 +76,34 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Cricket Finals",
+     "name": "Football's Back",
      "for": "",
-     "copy": "It's Finals Week for The Hundred! The Eliminator is tomorrow, and the Grand Final is Sunday. Who will be crowned champions?",
+     "copy": "It's almost time! The Community Shield kicks off the new football season this Sunday in Cardiff. Who are you backing, Arsenal or Man City?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Cardiff Host",
+     "for": "welsh-local",
+     "copy": "Cardiff takes centre stage for the FA Community Shield this Sunday! Huge match between Arsenal and Man City at Principality Stadium. Are you heading down?",
      "channels": [
       "instagram",
       "facebook",
@@ -108,293 +111,103 @@
      ],
      "time": "12:00",
      "tags": [
-      "#TheHundred"
+      "#Cardiff"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "premier-league-kickoff",
+   "off": 8,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League 2026/27 Season Kicks Off Next Week",
+   "blurb": "The 2026/27 Premier League season is set to kick off next weekend, starting on Friday, August 21, marking the return of top-flight English football.",
+   "source": {
+    "l": "PremierLeague.com",
+    "u": "https://www.premierleague.com/"
+   },
+   "fits": [
     {
-     "name": "High Octane Cricket",
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Anticipation Builds",
      "for": "",
-     "copy": "The Hundred is down to the wire! Expect explosive action and nail-biting finishes as the Eliminator and Final unfold this weekend.",
+     "copy": "The wait is almost over! The Premier League returns next Friday. Who's going to hit the ground running this season?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "14:00",
-     "tags": [
-      "#Cricket"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "european-athletics-champs-birmingham",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "European Athletics Championships Wrap Up",
-   "blurb": "The European Athletics Championships in Birmingham, England, conclude this Sunday, August 16, after a week of intense track and field action.",
-   "source": {
-    "l": "UK Sport",
-    "u": "https://www.uksport.gov.uk/news/2026/08/04/uk-august-sports-list-2026-master-calendar-of-major-events"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Birmingham"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Athletics Finale",
-     "for": "",
-     "copy": "The European Athletics Championships in Birmingham wrap up this weekend. Who's been your standout star from the track and field?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#EuroAthletics"
-     ]
-    },
-    {
-     "name": "Birmingham Hosts",
-     "for": "nation-network",
-     "copy": "Birmingham has been at the heart of European Athletics all week! Don't miss the final events as the championships conclude this Sunday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Birmingham"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fernadnez-transfer-deadline",
-   "off": 1,
-   "type": "sport",
-   "hot": true,
-   "title": "Enzo Fernandez Transfer Deadline",
-   "blurb": "Chelsea have reportedly set a 5pm Friday, August 14, deadline for Manchester City to bid for midfielder Enzo Fernandez, amidst ongoing transfer speculation.",
-   "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/news/11095/13444907/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Transfer Drama",
-     "for": "",
-     "copy": "Tick-tock for Enzo Fernandez! Chelsea have given Man City until 5pm tomorrow to make their move. Will he stay or go?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#TransferNews"
-     ]
-    },
-    {
-     "name": "Premier League Moves",
-     "for": "nation-network",
-     "copy": "Big money moves brewing! The Enzo Fernandez saga continues with a Friday deadline set. Could this be the biggest transfer of the window?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
      "tags": [
       "#PremierLeague"
      ]
-    }
-   ]
-  },
-  {
-   "id": "the-weeknd-wembley",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "The Weeknd Takes Over Wembley",
-   "blurb": "The Weeknd brings his 'After Hours Til Dawn' tour to London's Wembley Stadium for five nights, starting Friday, August 14, with Playboi Carti supporting.",
-   "source": {
-    "l": "Time Out / Heathrow Express",
-    "u": "https://www.timeout.com/london/music/best-london-concerts-gigs-august-2026-tickets"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     },
     {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wembley Weekend",
-     "for": "nation-network",
-     "copy": "The Weeknd is taking over Wembley Stadium for five nights starting tomorrow! Who's ready for the 'After Hours Til Dawn' experience?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TheWeeknd"
-     ]
-    },
-    {
-     "name": "London Calling",
-     "for": "nation-network",
-     "copy": "Abel Tesfaye's 'After Hours Til Dawn' tour hits Wembley this weekend. Expect incredible visuals and all the hits!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Wembley"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ariana-grande-o2-residency",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Ariana Grande's O2 Residency",
-   "blurb": "Pop superstar Ariana Grande kicks off a ten-night residency at London's O2 Arena this Saturday, August 15, as part of her 'Eternal Sunshine Tour'.",
-   "source": {
-    "l": "Heathrow Express / Time Out",
-    "u": "https://www.heathrowexpress.com/london-travel-guide/london-events/london-concerts-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Ariana Takes O2",
-     "for": "nation-network",
-     "copy": "Ariana Grande begins her massive ten-night residency at The O2 this Saturday! Who's got tickets to see the pop queen?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ArianaGrande"
-     ]
-    },
-    {
-     "name": "Pop Event of Summer",
-     "for": "decades-genres",
-     "copy": "It's the pop event of the summer! Ariana Grande's 'Eternal Sunshine Tour' arrives at London's O2 for an epic run of shows starting this weekend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#EternalSunshineTour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hollywood-vampires-cardiff",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "Hollywood Vampires Rock Cardiff",
-   "blurb": "The supergroup Hollywood Vampires, featuring Alice Cooper and Johnny Depp, play Cardiff Castle on Friday, August 14.",
-   "source": {
-    "l": "Shazam / Cardiff Theater",
-    "u": "https://www.shazam.com/gb/artists/alice-cooper/cardiff-castle-cardiff-2026-08-14"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cardiff Rocks",
-     "for": "welsh-local",
-     "copy": "Hollywood Vampires, with Alice Cooper and Johnny Depp, are bringing their rock show to Cardiff Castle tomorrow night! Get ready to sink your fangs into some classic rock.",
+     "name": "New Season Hopes",
+     "for": "",
+     "copy": "New season, new hopes! The Premier League kicks off next week. Will your team surprise everyone or live up to expectations?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "16:00",
      "tags": [
-      "#HollywoodVampires"
+      "#FootballIsBack"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean hold UK Singles Chart #1",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' remains at number one on the Official UK Singles Chart for an incredible 20th week, with new entries from Ariana Grande and Sienna Spiro also making waves.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper Reign",
+     "for": "",
+     "copy": "20 WEEKS AT NUMBER ONE! Sam Fender & Olivia Dean are still dominating the UK Singles Chart. What a track! #ReinMeIn",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#UKCharts"
      ]
     },
     {
-     "name": "Supergroup Alert",
-     "for": "decades-genres",
-     "copy": "Alice Cooper, Johnny Depp, and the Hollywood Vampires are in Cardiff tomorrow! A supergroup delivering super rock. Who's going?",
+     "name": "New Entries Shine",
+     "for": "Nation Hits",
+     "copy": "Ariana Grande and Sienna Spiro are lighting up the new UK Singles Chart with fresh entries. Who's got your favourite new track?",
      "channels": [
       "instagram",
       "facebook",
@@ -402,34 +215,145 @@
      ],
      "time": "13:00",
      "tags": [
-      "#NationRocks"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
-   "id": "jimmy-eat-world-cardiff",
-   "off": 2,
-   "type": "gig",
+   "id": "madonna-birthday",
+   "off": 3,
+   "type": "birthday",
    "hot": true,
-   "title": "Jimmy Eat World at Cardiff Castle",
-   "blurb": "Alt-rock legends Jimmy Eat World play Cardiff Castle this Saturday, August 15, with support from Rise Against, The Get Up Kids, and Jay Som.",
+   "title": "Happy 68th Birthday Madonna!",
+   "blurb": "The Queen of Pop, Madonna, celebrates her 68th birthday on August 16.",
    "source": {
-    "l": "Shazam / Cardiff Theater",
-    "u": "https://www.shazam.com/gb/concerts/jimmy-eat-world/cardiff-castle-cardiff-2026-08-15"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august16.html"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
-     "g": "dragon",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen of Pop",
+     "for": "Nation 80s",
+     "copy": "Happy 68th Birthday to the one and only Madonna! Still absolutely iconic. What’s your ultimate Madonna track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#Madonna"
+     ]
+    },
+    {
+     "name": "Iconic Influence",
+     "for": "Nation Hits",
+     "copy": "From 'Like a Virgin' to global superstar, Madonna turns 68! Her influence on pop music is undeniable. Celebrate the legend with us!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#QueenOfPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "belinda-carlisle-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 68th Birthday Belinda Carlisle!",
+   "blurb": "Belinda Carlisle, the iconic lead singer of The Go-Go's and successful solo artist, turns 68 on August 17.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august17.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Heaven Is A Place",
+     "for": "Nation 80s",
+     "copy": "Happy 68th Birthday to the incredible Belinda Carlisle! 'Heaven Is a Place on Earth' is still an absolute banger.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BelindaCarlisle"
+     ]
+    },
+    {
+     "name": "Go-Go's Legend",
+     "for": "Nation Rocks",
+     "copy": "Celebrating Belinda Carlisle's 68th birthday! From The Go-Go's to her solo hits, she's a true rock and pop icon.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TheGoGos"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joe-jonas-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 37th Birthday Joe Jonas!",
+   "blurb": "Joe Jonas, known for his work with the Jonas Brothers and DNCE, celebrates his 37th birthday on August 15.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august15.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -438,45 +362,97 @@
    ],
    "angles": [
     {
-     "name": "Emo Legends Live",
-     "for": "welsh-local",
-     "copy": "Jimmy Eat World are at Cardiff Castle this Saturday! Get ready to sing along to all the anthems with Rise Against also on the bill.",
+     "name": "Jonas Brother Turns 37",
+     "for": "Nation Hits",
+     "copy": "S.O.S! Joe Jonas turns 37 on Saturday! What's your favourite Jonas Brothers or DNCE track to celebrate?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#JimmyEatWorld"
+      "#JoeJonas"
      ]
     },
     {
-     "name": "Alt-Rock Weekend",
-     "for": "decades-genres",
-     "copy": "Cardiff is hosting an alt-rock extravaganza this Saturday as Jimmy Eat World, Rise Against, and The Get Up Kids hit Cardiff Castle.",
+     "name": "Pop Icon Birthday",
+     "for": "Nation 00s",
+     "copy": "Wishing a very Happy 37th Birthday to Joe Jonas! Still bringing the pop anthems.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "12:00",
      "tags": [
-      "#NationRocks"
+      "#JonasBrothers"
      ]
     }
    ]
   },
   {
-   "id": "george-michael-candlelight-cardiff",
-   "off": 7,
-   "type": "gig",
+   "id": "uk-summer-holidays",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "George Michael Candlelight Concert",
-   "blurb": "A stunning candlelight tribute to the music of George Michael is set to take place at Llandaff Cathedral in Cardiff on Thursday, August 20.",
+   "title": "Summer Holidays Continue Across the UK",
+   "blurb": "School summer holidays are in full swing across England, Wales and Northern Ireland, with most students returning to school in early September, while Scottish schools typically resume mid-August.",
    "source": {
-    "l": "Xperience Live",
-    "u": "https://www.xperiencelive.com/events/the-music-of-george-michael-the-candlelight-concert-llandaff-cathedral-cardiff"
+    "l": "UK School Holidays",
+    "u": "https://www.schoolholidaydates.com/uk-school-holidays-2026.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Holiday Vibes",
+     "for": "",
+     "copy": "Summer holidays are still going strong for many across the UK! What are your plans for the last few weeks of freedom?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#SummerHolidays"
+     ]
+    },
+    {
+     "name": "Road Trip Ready",
+     "for": "",
+     "copy": "Making the most of the summer break? Share your favourite staycation spots or day trip destinations!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#UKSummer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "welsh-town-centre-taskforce",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Welsh Government Appoints Town Centre Taskforce Co-Chairs",
+   "blurb": "The Welsh Government has announced the co-chairs for a new Town Centre Taskforce, aimed at providing expert advice and support for the future of Wales' town centres, with funding confirmed for Bangor and Bridgend.",
+   "source": {
+    "l": "Business News Wales",
+    "u": "https://businessnewswales.com/co-chairs-appointed-for-welsh-town-centre-taskforce/"
    },
    "fits": [
     {
@@ -486,131 +462,134 @@
     {
      "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Cardiff Candlelight",
+     "name": "Revitalising Welsh Towns",
      "for": "welsh-local",
-     "copy": "Experience the magic of George Michael's music in a breathtaking candlelight concert at Llandaff Cathedral next Thursday! An unforgettable evening awaits.",
+     "copy": "Big news for Welsh town centres! A new taskforce has been appointed to help revitalise high streets across Wales. What changes would you love to see in your local town?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "12:00",
+     "time": "09:30",
      "tags": [
-      "#GeorgeMichael"
+      "#WelshTowns"
      ]
     },
     {
-     "name": "Wham! Classics",
-     "for": "decades-genres",
-     "copy": "From 'Careless Whisper' to 'Freedom! '90', celebrate the iconic songs of George Michael at a special candlelight concert in Cardiff next week.",
+     "name": "Bangor & Bridgend Boost",
+     "for": "dragon",
+     "copy": "Funding confirmed for Bangor and Bridgend town centres! Great to see investment in our local communities.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "11:30",
      "tags": [
-      "#Wham"
+      "#Wales"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-rein-me-in",
+   "id": "devon-travellers-return",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "Sam Fender & Olivia Dean Hold UK No.1",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' remains at #1 on the Official UK Singles Chart for an incredible 20th week, with new entries from Sienna Spiro and Ariana Grande also making waves.",
+   "title": "Travellers Return to Exeter Park",
+   "blurb": "An unauthorised encampment has returned to Wonford Playing Fields in Exeter, just days after a previous group was evicted, prompting Exeter City Council to plan further protective measures.",
    "source": {
-    "l": "Official Charts Company / Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/UK_singles_chart"
+    "l": "Devon Live",
+    "u": "https://www.devonlive.com/news/devon-news/travellers-return-exeter-park-just-9502937"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
+     "g": "radio-exe",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Chart Topper",
-     "for": "decades-genres",
-     "copy": "20 weeks at number one! Sam Fender & Olivia Dean are still dominating the Official UK Singles Chart with 'Rein Me In'. What a run!",
+     "name": "Wonford Fields Update",
+     "for": "radio-exe",
+     "copy": "Travellers have returned to Wonford Playing Fields in Exeter. Exeter City Council says they're taking steps to regain possession of the land. More on Radio Exe.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
      "time": "08:30",
      "tags": [
-      "#OfficialCharts"
+      "#ExeterNews"
      ]
     },
     {
-     "name": "New Entries",
-     "for": "decades-genres",
-     "copy": "New music alert! Sienna Spiro and Ariana Grande both have fresh tracks in the Official UK Singles Chart Top 10. Tune in to Nation Hits to hear them!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lennon-stella-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 27th Birthday, Lennon Stella!",
-   "blurb": "Canadian singer and actress Lennon Stella, known for 'Nashville' and her soulful pop, turns 27 today, August 13.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august13.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star B-Day",
-     "for": "",
-     "copy": "Wishing a very Happy 27th Birthday to the talented Lennon Stella today! What's your favourite track from the 'Nashville' star?",
+     "name": "Local Impact",
+     "for": "radio-exe",
+     "copy": "Local residents are once again impacted by an unauthorised encampment at Wonford Playing Fields. We'll keep you updated on the latest from Exeter.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
+     "time": "12:30",
+     "tags": [
+      "#Devon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exeter-mincinglake-fire",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Firefighters Tackle Large Exeter Grassland Fire",
+   "blurb": "Fire crews continue to tackle a large fire that broke out across 50 acres of land at Mincinglake Valley Park in Exeter on August 11, with residents advised to avoid the area due to smoke.",
+   "source": {
+    "l": "ITVX",
+    "u": "https://www.itv.com/news/westcountry/2026-08-12/mincinglake-valley-park-avoid-the-area-warning-after-large-fire-on-devon-grassland"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Mincinglake Fire Alert",
+     "for": "radio-exe",
+     "copy": "Firefighters are still at Mincinglake Valley Park in Exeter after a large grassland fire. Please avoid the area if possible due to smoke. Stay safe, Exeter.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
      "time": "09:00",
      "tags": [
-      "#LennonStella"
+      "#ExeterFire"
+     ]
+    },
+    {
+     "name": "Devon Fire Update",
+     "for": "radio-exe",
+     "copy": "Our thoughts are with the crews tackling the Mincinglake Valley Park fire. Updates on air and online, stay informed with Radio Exe.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#DevonNews"
      ]
     }
    ]
@@ -620,8 +599,8 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 41st Birthday, James Morrison!",
-   "blurb": "British soul singer-songwriter James Morrison, known for hits like 'You Give Me Something' and 'Broken Strings', celebrates his 41st birthday today, August 13.",
+   "title": "Happy 42nd Birthday James Morrison!",
+   "blurb": "English singer-songwriter James Morrison, known for hits like 'You Give Me Something,' celebrates his 42nd birthday today, August 13.",
    "source": {
     "l": "Famous Birthdays",
     "u": "https://www.famousbirthdays.com/august13.html"
@@ -643,180 +622,51 @@
    "angles": [
     {
      "name": "Soulful Birthday",
-     "for": "decades-genres",
-     "copy": "Happy 41st Birthday to the incredible James Morrison! His soulful voice always brightens our day. What's your go-to James Morrison track?",
+     "for": "Nation Easy",
+     "copy": "Wishing a very Happy 42nd Birthday to the incredible James Morrison! Still love 'You Give Me Something'.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "11:00",
      "tags": [
       "#JamesMorrison"
      ]
-    }
-   ]
-  },
-  {
-   "id": "feargal-sharkey-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 67th Birthday, Feargal Sharkey!",
-   "blurb": "Former Undertones frontman and solo artist Feargal Sharkey, known for 'Teenage Kicks' and 'A Good Heart', turns 67 today, August 13.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august13.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Icon B-Day",
-     "for": "decades-genres",
-     "copy": "Happy 67th Birthday to Feargal Sharkey! From The Undertones to his solo hits, his voice is unforgettable. Which one is your favourite?",
+     "name": "Brit Award Winner",
+     "for": "Nation Hits",
+     "copy": "Happy Birthday to Brit Award winner James Morrison, turning 42 today! What's your favourite track from him?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "15:00",
      "tags": [
-      "#FeargalSharkey"
+      "#MusicBirthday"
      ]
     }
    ]
   },
   {
-   "id": "aphex-twin-birthday",
-   "off": 5,
+   "id": "mikey-graham-birthday",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 55th Birthday, Aphex Twin!",
-   "blurb": "Influential electronic musician Richard D. James, known as Aphex Twin, will celebrate his 55th birthday on Tuesday, August 18.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/August_18"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Electronic Pioneer",
-     "for": "",
-     "copy": "Wishing a future Happy 55th Birthday to the legendary Aphex Twin on Tuesday! His groundbreaking electronic music continues to inspire.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#AphexTwin"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ian-gillan-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 81st Birthday, Ian Gillan!",
-   "blurb": "Deep Purple's iconic lead singer, Ian Gillan, will turn 81 on Wednesday, August 19.",
+   "title": "Happy 54th Birthday Mikey Graham!",
+   "blurb": "Boyzone's Mikey Graham, a staple of 90s pop, celebrates his 54th birthday on August 15.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august19.html"
+    "u": "https://www.famousbirthdays.com/august15.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 90s"
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend B-Day",
-     "for": "decades-genres",
-     "copy": "A huge Happy 81st Birthday to Deep Purple's powerhouse vocalist, Ian Gillan, next Wednesday! What's your favourite Deep Purple classic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#IanGillan"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "robert-plant-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 78th Birthday, Robert Plant!",
-   "blurb": "Led Zeppelin frontman and rock icon Robert Plant will celebrate his 78th birthday next Thursday, August 20.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august20.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Voice of Led Zep",
-     "for": "decades-genres",
-     "copy": "Wishing a very Happy 78th Birthday to the legendary Robert Plant next Thursday! Which Led Zeppelin track is your all-time favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RobertPlant"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "demi-lovato-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 34th Birthday, Demi Lovato!",
-   "blurb": "Pop sensation Demi Lovato will turn 34 next Thursday, August 20.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august20.html"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
@@ -824,42 +674,158 @@
    ],
    "angles": [
     {
-     "name": "Pop Powerhouse",
-     "for": "",
-     "copy": "Next Thursday, we're celebrating Demi Lovato's 34th birthday! What's your favourite song from the pop powerhouse?",
+     "name": "Boyzone's Mikey",
+     "for": "Nation 90s",
+     "copy": "It's Mikey Graham from Boyzone's 54th birthday on Saturday! Get ready to sing along to some classic 90s hits.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Boyzone"
+     ]
+    },
+    {
+     "name": "Pop Nostalgia",
+     "for": "Nation Hits",
+     "copy": "Happy 54th Birthday to Mikey Graham! Reminiscing about those Boyzone anthems this weekend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "16:00",
      "tags": [
-      "#DemiLovato"
+      "#90sPop"
      ]
     }
    ]
   },
   {
-   "id": "uk-heatwave-august",
+   "id": "fergal-sharkey-birthday",
    "off": 0,
-   "type": "seasonal",
+   "type": "birthday",
    "hot": true,
-   "title": "UK Experiencing Record-Breaking August Heat",
-   "blurb": "Parts of the UK are experiencing a hot August, with temperatures climbing into the mid-30s°C in England and Wales, potentially making it the warmest summer on record.",
+   "title": "Happy 67th Birthday Feargal Sharkey!",
+   "blurb": "Feargal Sharkey, the distinctive voice of The Undertones and a successful solo artist, turns 67 today, August 13.",
    "source": {
-    "l": "Met Office / AccuWeather",
-    "u": "https://www.facebook.com/metoffice/posts/pfbid0259b7j4j8q2k8a7f2m6z3b7g8h9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august13.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     },
     {
-     "g": "welsh-local",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Teenage Kicks",
+     "for": "Nation 70s",
+     "copy": "Happy 67th Birthday to Feargal Sharkey! Still 'Teenage Kicks' after all these years. What a legend!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FeargalSharkey"
+     ]
+    },
+    {
+     "name": "Distinctive Voice",
+     "for": "Nation Rocks",
+     "copy": "Celebrating Feargal Sharkey's 67th birthday! His unique vocals with The Undertones and as a solo artist are unforgettable.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#TheUndertones"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rina-sawayama-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 35th Birthday Rina Sawayama!",
+   "blurb": "Critically acclaimed pop and R&B artist Rina Sawayama celebrates her 35th birthday on August 16.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august16.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Modern Pop Star",
+     "for": "Nation Hits",
+     "copy": "Happy 35th Birthday to the incredible Rina Sawayama! An artist pushing boundaries in pop and R&B.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RinaSawayama"
+     ]
+    },
+    {
+     "name": "Music Innovator",
+     "for": "Nation Dance",
+     "copy": "Celebrate Rina Sawayama's 35th birthday this weekend! Her innovative sound is always a must-listen.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "devon-lgr-challenge",
+   "off": -9,
+   "type": "culture",
+   "hot": true,
+   "title": "Devon Council Challenges Local Government Reorganisation",
+   "blurb": "Devon County Council has initiated legal proceedings against the government's decision to reorganise local government in Devon and Torbay, citing concerns over the impact on rural communities.",
+   "source": {
+    "l": "Local Government Chronicle",
+    "u": "https://www.lgcplus.com/governance-and-structure/devon-issues-lgr-legal-challenge-04-08-2026/"
+   },
+   "fits": [
     {
      "g": "radio-exe",
      "sub": ""
@@ -867,31 +833,138 @@
    ],
    "angles": [
     {
-     "name": "Summer Sizzler",
-     "for": "nation-network",
-     "copy": "It's a scorching August across the UK! Temperatures are soaring, making this potentially the warmest summer on record. Stay cool out there!",
+     "name": "Devon's Legal Fight",
+     "for": "radio-exe",
+     "copy": "Big local news: Devon County Council is taking legal action against the government's local government reorganisation plans. What are your thoughts on the changes?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#UKHeatwave"
-     ]
-    },
-    {
-     "name": "Local Heat",
-     "for": "welsh-local",
-     "copy": "The heatwave continues across Wales! Remember to stay hydrated and find ways to keep cool as we head into a record-breaking summer.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#WalesWeather"
+      "#DevonPolitics"
+     ]
+    },
+    {
+     "name": "Rural Community Impact",
+     "for": "radio-exe",
+     "copy": "Devon CC is fighting for rural communities in its challenge to government's reorganisation plans. Tune into Radio Exe for the latest updates.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Exeter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wales-ev-charging-relief",
+   "off": -2,
+   "type": "culture",
+   "hot": true,
+   "title": "Wales Offers Rates Relief for EV Charging",
+   "blurb": "The Welsh Government has announced 100% non-domestic rates relief for electric vehicle charging bays and forecourts across Wales until 2036, aiming to boost EV infrastructure.",
+   "source": {
+    "l": "Welsh Government",
+    "u": "https://www.gov.wales/newsroom/finance/2026/wales-plugs-decade-rates-relief-power-ev-charging"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "EV Boost in Wales",
+     "for": "welsh-local",
+     "copy": "Great news for electric vehicle owners and businesses in Wales! New rates relief aims to supercharge our EV charging network.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#EVWales"
+     ]
+    },
+    {
+     "name": "Future of Transport",
+     "for": "dragon",
+     "copy": "Wales is plugging into the future! 100% rates relief for EV charging until 2036. What does this mean for your area?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#WalesNews"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pembrokeshire-housing-report",
+   "off": -6,
+   "type": "culture",
+   "hot": true,
+   "title": "Report Highlights Pembrokeshire Housing Crisis",
+   "blurb": "A new report from the Bevan Foundation, launched at the National Eisteddfod in Pembrokeshire, addresses the loss of homes to holiday accommodation across Wales, urging national action.",
+   "source": {
+    "l": "Bevan Foundation",
+    "u": "https://www.bevanfoundation.org/news/calling-for-action-to-control-the-loss-of-homes-for-holiday-accommodation-at-the-eisteddfod/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pembrokeshire Housing Debate",
+     "for": "Radio Pembrokeshire",
+     "copy": "A new report highlights the impact of holiday homes on local housing in Pembrokeshire. What's your view on the housing situation here?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Pembrokeshire"
+     ]
+    },
+    {
+     "name": "Homes or Holidays?",
+     "for": "welsh-local",
+     "copy": "The debate over homes vs. holiday accommodation continues in Wales, with a new report calling for national action. How does this affect your community?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#WalesHousing"
      ]
     }
    ]
