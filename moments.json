@@ -1,35 +1,27 @@
 {
- "updated": "2026-08-14T17:42:19.785Z",
+ "updated": "2026-08-14T18:37:37.932Z",
  "moments": [
   {
-   "id": "the-hundred-finals",
-   "off": 2,
-   "type": "sport",
+   "id": "uk-heatwave-eases-2026",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "The Hundred Finals Day",
-   "blurb": "The Hundred 2026 season culminates this weekend with the Eliminator matches today and the Men's and Women's Finals at Lord's on Sunday.",
+   "title": "UK Heatwave Peaks",
+   "blurb": "The UK is experiencing its fifth heatwave of the summer, with temperatures hitting 38.1C on Thursday, August 13th, making 2026 on track to be the warmest summer on record, though cooler conditions are expected over the weekend.",
    "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/sport/cricket/the-hundred-2026-schedule-fixtures-list-today/"
+    "l": "Met Office / The Guardian",
+    "u": "https://www.metoffice.gov.uk/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Finals Hype",
-     "copy": "Who's taking home The Hundred trophy this Sunday? Catch the Eliminators today and the big finals at Lord's on August 16th!",
+     "name": "Heatwave peak",
+     "copy": "Another heatwave peaks across the UK! Temperatures soared to 38.1C yesterday, pushing 2026 towards a record-breaking summer. Stay hydrated as it eases off for the weekend.",
      "channels": [
       "instagram",
       "facebook",
@@ -37,37 +29,32 @@
       "tiktok",
       "threads"
      ],
-     "time": "12:00",
-     "tags": [
-      "#TheHundred"
-     ]
+     "tags": []
     },
     {
-     "name": "Welsh Fire Angle",
-     "for": "welsh-local",
-     "copy": "Will Welsh Fire light up The Hundred finals next week? Tune in to see if they can make it to Lord's!",
+     "name": "Weekend cool-down",
+     "copy": "After a scorching week, the UK's fifth heatwave is set to ease over the weekend. Time to enjoy those slightly fresher temperatures!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "14:00",
-     "tags": [
-      "#WelshFire"
-     ]
+     "tags": []
     }
    ]
   },
   {
-   "id": "premier-league-kickoff",
-   "off": 7,
+   "id": "efl-season-kicks-off",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League 2026/27 Kicks Off",
-   "blurb": "The 2026/27 Premier League season officially begins next Friday, August 21st, with defending champions Arsenal hosting Coventry City.",
+   "title": "EFL Season Kicks Off",
+   "blurb": "The 2026/27 English Football League season began on Friday, August 14th, with Wolves hosting Blackburn Rovers in the Championship.",
    "source": {
-    "l": "beIN SPORTS",
-    "u": "https://www.beinsports.com/us/premier-league/news/when-does-the-202627-premier-league-season-start/2301188"
+    "l": "Sky Sports / EFL",
+    "u": "https://www.skysports.com/football/efl-fixtures"
    },
    "fits": [
     {
@@ -77,44 +64,258 @@
    ],
    "angles": [
     {
-     "name": "Opening Weekend",
-     "copy": "Football's back! The Premier League season kicks off next Friday, August 21st. Who are you backing for the title?",
+     "name": "Season start",
+     "copy": "Football's BACK! The EFL season officially kicked off tonight with Wolves taking on Blackburn Rovers. Who are you backing this year?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "10:00",
-     "tags": [
-      "#PremierLeague"
-     ]
+     "tags": []
     },
     {
-     "name": "Arsenal Opener",
-     "copy": "Defending champions Arsenal start their Premier League campaign at home against newly promoted Coventry City next Friday. Big test for both sides!",
+     "name": "Weekend EFL",
+     "copy": "The new EFL season is in full swing this weekend! Catch all the Championship, League One, and League Two action.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
-     "tags": [
-      "#COYG"
-     ]
+     "tags": []
     }
    ]
   },
   {
-   "id": "community-shield-cardiff",
-   "off": 2,
+   "id": "cardiff-wrexham-derby",
+   "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "Community Shield in Cardiff",
-   "blurb": "Manchester City face Arsenal in the Community Shield this Sunday, August 16th, at the Principality Stadium in Cardiff.",
+   "title": "Cardiff vs Wrexham Derby",
+   "blurb": "Newly promoted Wrexham travel to Cardiff City in a highly anticipated Championship fixture on Monday, August 17th.",
    "source": {
-    "l": "Groundhopper Guides",
-    "u": "https://groundhopperguides.com/2026-27-premier-league-start-date-fixtures-and-key-dates/"
+    "l": "Sky Sports / EFL",
+    "u": "https://www.skysports.com/football/efl-fixtures"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh Derby",
+     "copy": "It's a huge Welsh derby on Monday! Wrexham head to Cardiff in the Championship – expect fireworks!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Championship clash",
+     "copy": "Cardiff City host newly promoted Wrexham on Monday night. Who's taking the bragging rights in this big Championship clash?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "premier-league-kick-off",
+   "off": 7,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Returns",
+   "blurb": "The 2026/27 Premier League season kicks off on Friday, August 21st, with Arsenal facing Coventry City.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "PL is back!",
+     "copy": "The wait is almost over! The Premier League returns next Friday, August 21st! Who's your pick for the title this season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Opening weekend",
+     "copy": "Arsenal vs Coventry City kicks off the new Premier League season next Friday! Get ready for a weekend packed with top-flight action.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "the-weeknd-wembley",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "The Weeknd at Wembley",
+   "blurb": "The Weeknd continues his extended 'After Hours Til Dawn' tour with five sold-out shows at London's Wembley Stadium from August 14th-19th.",
+   "source": {
+    "l": "Radio Times / Heathrow Express",
+    "u": "https://www.radiotimes.com/music/concerts-tours-uk-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wembley takeover",
+     "copy": "The Weeknd takes over Wembley Stadium with five epic shows this week! Who's lucky enough to have tickets to the After Hours Til Dawn tour?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Abel at Wembley",
+     "copy": "Abel Tesfaye, aka The Weeknd, is lighting up Wembley all week! Expect an unforgettable show.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "ariana-grande-o2",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Ariana Grande O2 Residency",
+   "blurb": "Ariana Grande begins her ten-night 'Eternal Sunshine' residency at London's O2 Arena from Saturday, August 15th, marking her first live return in six years.",
+   "source": {
+    "l": "Radio Times / Heathrow Express",
+    "u": "https://www.radiotimes.com/music/concerts-tours-uk-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Ariana's return",
+     "copy": "Queen Ari is back! Ariana Grande kicks off her massive 10-night O2 residency tomorrow. Who's ready for the Eternal Sunshine tour?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "tags": []
+    },
+    {
+     "name": "London Calling",
+     "copy": "London's about to get a whole lot sweeter! Ariana Grande starts her O2 residency tomorrow, her first live shows in six years!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "arctangent-festival",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "ArcTanGent Festival",
+   "blurb": "ArcTanGent Festival, a major rock, alternative, and indie music event, takes place in Compton Martin, Gloucestershire, from August 19th-23rd.",
+   "source": {
+    "l": "UK Festival Guides",
+    "u": "https://www.ukfestivalguides.com/festivals/arctangent-festival"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    }
+   ],
+   "angles": [
+    {
+     "name": "ATG kicks off",
+     "copy": "ArcTanGent Festival opens its gates next week! Get ready for four days of the best rock, alternative, and indie in Gloucestershire.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Who's at ATG?",
+     "copy": "Heading to ArcTanGent next week? It's shaping up to be an incredible lineup for rock and alternative fans!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "green-man-festival",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Green Man Festival",
+   "blurb": "The Green Man Festival, known for its eclectic mix of music, arts, and culture, runs from August 20th-23rd in the Usk Valley, Brecknockshire, Wales.",
+   "source": {
+    "l": "UK Festival Guides",
+    "u": "https://www.ukfestivalguides.com/festivals/green-man-festival"
    },
    "fits": [
     {
@@ -126,68 +327,591 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Cardiff Hosts Shield",
-     "for": "welsh-local",
-     "copy": "The Principality Stadium is set for a massive clash this Sunday as Manchester City take on Arsenal in the Community Shield! Who's coming to Cardiff?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CommunityShield"
-     ]
-    },
-    {
-     "name": "First Trophy",
-     "copy": "It's the traditional curtain-raiser! Man City vs Arsenal for the Community Shield this Sunday. Who lifts the first silverware of the season?",
+     "name": "Green Man vibes",
+     "copy": "Green Man Festival is just around the corner! Four days of incredible music and arts in the beautiful Usk Valley. Who's going?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
-     "tags": [
-      "#Football"
-     ]
+     "tags": []
+    },
+    {
+     "name": "Welsh festival fun",
+     "copy": "Get ready for Green Man Festival! Celebrating music, arts, and culture in the heart of Wales next weekend.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
     }
    ]
   },
   {
-   "id": "reading-leeds-festival",
-   "off": 13,
+   "id": "we-out-here-festival",
+   "off": 6,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festivals Approaching",
-   "blurb": "Reading and Leeds Festivals take over the August Bank Holiday weekend (August 27-30) with headliners including Charli XCX, Chase & Status, Dave, Florence and the Machine, Fontaines D.C., and Raye.",
+   "title": "We Out Here Festival",
+   "blurb": "We Out Here Festival, a celebration of jazz, soul, dance, and electronic music, takes place in Bournemouth, Dorset, from August 20th-23rd.",
    "source": {
-    "l": "Jetpac eSIM",
-    "u": "https://www.jetpac.com/en/blog/reading-festival-2026-tickets-lineup-and-dates"
+    "l": "UK Festival Guides",
+    "u": "https://www.ukfestivalguides.com/festivals/we-out-here-festival"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    }
+   ],
+   "angles": [
+    {
+     "name": "We Out Here!",
+     "copy": "Bournemouth's about to get groovy! We Out Here Festival brings the best in jazz, soul, and dance music next week.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Festival of sound",
+     "copy": "Four days of incredible music are coming to Dorset with We Out Here Festival next weekend. Expect a genre-bending lineup!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "calvin-harris-belfast",
+   "off": 8,
+   "type": "gig",
+   "hot": true,
+   "title": "Calvin Harris in Belfast",
+   "blurb": "Superstar DJ Calvin Harris is set to play a huge show at Boucher Road Playing Fields in Belfast on Saturday, August 22nd.",
+   "source": {
+    "l": "Concerts in United Kingdom 2026-2027",
+    "u": "https://www.songkick.com/metro_areas/24430-uk-belfast/2026"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Calvin Harris live",
+     "copy": "Belfast, get ready to dance! Calvin Harris plays Boucher Road Playing Fields next Saturday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Big weekend gig",
+     "copy": "Who's excited for Calvin Harris in Belfast next weekend? It's going to be massive!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "sam-fender-olivia-dean-no1",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Longest Running UK No.1",
+   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' is the UK Official Singles Chart Number 1 this week, marking its 21st non-consecutive week at the top, making it the longest-running UK Number 1 single of all time.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart history",
+     "copy": "History made! Sam Fender & Olivia Dean's 'Rein Me In' is Number 1 for a record 21st week! The longest-running UK No.1 ever.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Still #1",
+     "copy": "Still topping the charts! 'Rein Me In' by Sam Fender & Olivia Dean is the UK's Number 1 single again this week.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "madonna-kylie-new-entry",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Madonna & Kylie Chart Entry",
+   "blurb": "Pop icons Madonna and Kylie Minogue debut at Number 8 on the UK Official Singles Chart this week with their collaboration 'Love Sensation'.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop legends unite",
+     "copy": "What a collaboration! Madonna and Kylie Minogue's 'Love Sensation' is a new entry at Number 8 on the UK Singles Chart!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "tags": []
+    },
+    {
+     "name": "New music Friday",
+     "copy": "Madonna and Kylie are back in the Top 10! Their new track 'Love Sensation' is climbing the charts.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "steve-martin-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Steve Martin's 81st Birthday",
+   "blurb": "Today, August 14th, marks the 81st birthday of actor, comedian, and Grammy-winning banjo player Steve Martin.",
+   "source": {
+    "l": "Bored Panda / Famous Birthdays",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-14-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Steve",
+     "copy": "Happy 81st Birthday to the legendary Steve Martin! From comedy classics to Grammy-winning banjo tunes, what's your favourite Steve Martin moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Wild and Crazy Guy",
+     "copy": "Celebrating the one and only Steve Martin on his 81st birthday today! A true icon of stage and screen.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "joe-jonas-37th-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Joe Jonas' 37th Birthday",
+   "blurb": "Joe Jonas, member of the Jonas Brothers and DNCE, celebrates his 37th birthday on Saturday, August 15th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/15.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Joe",
+     "copy": "Happy 37th Birthday to Joe Jonas tomorrow! What's your favourite Jonas Brothers or DNCE track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Pop star birthday",
+     "copy": "Shout out to Joe Jonas, celebrating his 37th birthday tomorrow! Here's to more hits!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "liam-howlett-55th-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Liam Howlett's 55th Birthday",
+   "blurb": "Liam Howlett, the mastermind behind The Prodigy, turns 55 on Thursday, August 21st.",
+   "source": {
+    "l": "Music History Events",
+    "u": "https://www.thisdayinmusic.com/birthdays/liam-howlett/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Prodigy legend",
+     "copy": "Happy 55th Birthday to Liam Howlett of The Prodigy next Thursday! Which Prodigy track gets you moving every time?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Electronic pioneer",
+     "copy": "Wishing a very Happy 55th Birthday to Liam Howlett of The Prodigy on August 21st!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "kelis-46th-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Kelis' 46th Birthday",
+   "blurb": "R&B and soul singer Kelis Rogers celebrates her 46th birthday on Thursday, August 21st.",
+   "source": {
+    "l": "Music History Events",
+    "u": "https://www.thisdayinmusic.com/birthdays/kelis/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Kelis",
+     "copy": "It's Kelis' 46th Birthday next Thursday! What's your favourite track from the R&B icon?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Milkshake magic",
+     "copy": "Wishing a very Happy 46th Birthday to the incredible Kelis on August 21st!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "julian-casablancas-48th-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Julian Casablancas' 48th Birthday",
+   "blurb": "Julian Casablancas, frontman of The Strokes, turns 48 on Saturday, August 23rd.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/23.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strokes frontman",
+     "copy": "Happy 48th Birthday to Julian Casablancas of The Strokes next Saturday! What's your favourite Strokes anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Indie icon",
+     "copy": "Celebrating Julian Casablancas' 48th birthday on August 23rd! The voice of The Strokes.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "shaun-ryder-64th-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Shaun Ryder's 64th Birthday",
+   "blurb": "Happy Mondays and Black Grape frontman Shaun Ryder celebrates his 64th birthday on Saturday, August 23rd.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/23.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Madchester legend",
+     "copy": "Happy 64th Birthday to the one and only Shaun Ryder next Saturday! From Happy Mondays to Black Grape, what's your favourite track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Ryder's big day",
+     "copy": "Wishing a very Happy 64th Birthday to Shaun Ryder on August 23rd!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "exeter-chiefs-academy-rugby",
+   "off": 0,
+   "type": "sport",
+   "hot": false,
+   "title": "Exeter Chiefs Academy Match",
+   "blurb": "The Exeter Chiefs Academy team played Sale FC today, Friday, August 14th.",
+   "source": {
+    "l": "Exeter Chiefs",
+    "u": "https://www.exeterchiefs.co.uk/fixtures"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chiefs Academy in action",
+     "copy": "Our Exeter Chiefs Academy team were in action today, taking on Sale FC. Future stars in the making!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Local rugby talent",
+     "copy": "Supporting the next generation of rugby talent! The Exeter Chiefs Academy played Sale FC today.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "jurassic-fields-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": false,
+   "title": "Jurassic Fields Festival",
+   "blurb": "Jurassic Fields Festival, featuring a variety of music and entertainment, is taking place in Bridport, Dorset, from August 14th-16th.",
+   "source": {
+    "l": "UK Festival Guides",
+    "u": "https://www.ukfestivalguides.com/festivals/jurassic-fields"
+   },
+   "fits": [
+    {
      "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
+     "sub": "Nation Radio South"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dorset festival fun",
+     "copy": "Jurassic Fields Festival is on this weekend in Bridport! Enjoy three days of music and good vibes.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    },
+    {
+     "name": "Live music in Bridport",
+     "copy": "Catch the action at Jurassic Fields Festival, happening now through Sunday in Dorset!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "tags": []
+    }
+   ]
+  },
+  {
+   "id": "country-calling-uk",
+   "off": 0,
+   "type": "gig",
+   "hot": false,
+   "title": "Country Calling UK Festival",
+   "blurb": "The Country Calling UK Festival is bringing country music to Chelmsford, UK, from August 14th-16th.",
+   "source": {
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/country-calling-uk-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "nation-network",
@@ -196,758 +920,23 @@
    ],
    "angles": [
     {
-     "name": "Festival Countdown",
-     "copy": "Only two weeks until Reading & Leeds! Who are you most excited to see on the Bank Holiday weekend stages?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Leeds Local Angle",
-     "for": "nation-network",
-     "copy": "Bramham Park is gearing up for Leeds Festival! Get ready for Charli XCX, Chase & Status, Dave and more from August 27-30.",
+     "name": "Yeehaw Chelmsford",
+     "copy": "Country Calling UK Festival is ON this weekend in Chelmsford! Get your boots on for some live country music.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
-     "tags": [
-      "#LeedsFestival"
-     ]
+     "tags": []
     },
     {
-     "name": "Reading Local Angle",
-     "for": "nation-network",
-     "copy": "Reading Festival is just around the corner! Florence and the Machine, Fontaines D.C. and Raye are ready to rock Richfield Avenue.",
+     "name": "Country music weekend",
+     "copy": "Live country music takes over Chelmsford this weekend at Country Calling UK Festival!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
-     "tags": [
-      "#ReadingFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "creamfields-bank-holiday",
-   "off": 13,
-   "type": "gig",
-   "hot": true,
-   "title": "Creamfields 2026",
-   "blurb": "The UK's biggest electronic music festival, Creamfields, takes place over the Bank Holiday weekend, August 27-30, in Daresbury, Cheshire, featuring Calvin Harris, Swedish House Mafia, Tiësto, and Disclosure.",
-   "source": {
-    "l": "Creamfields Official",
-    "u": "https://www.creamfields.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Creamfields Vibe",
-     "copy": "Creamfields is almost here! Get ready for four days of the biggest electronic acts in Daresbury, August 27-30. Who's on your must-see list?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Creamfields26"
-     ]
-    },
-    {
-     "name": "Dance Music Mecca",
-     "copy": "From Calvin Harris to Swedish House Mafia, Creamfields is bringing the biggest names in dance music to Cheshire this Bank Holiday weekend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#DanceMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bake-off-returns",
-   "off": 19,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off Returns",
-   "blurb": "The 16th season of The Great British Bake Off is set to return to screens on September 2nd, bringing a new batch of bakers to the iconic tent.",
-   "source": {
-    "l": "The Cake & Bake Show",
-    "u": "https://thecakeandbakeshow.co.uk/blog/the-great-british-bake-off-returns/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Excitement",
-     "copy": "Get your aprons ready! The Great British Bake Off is back on September 2nd. Who's excited for soggy bottoms and showstoppers?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "New Bakers",
-     "copy": "A fresh batch of bakers are heading to the tent! The Great British Bake Off returns September 2nd. What bakes are you hoping to see this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing-launch",
-   "off": 36,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing Launch Show",
-   "blurb": "Strictly Come Dancing's 24th series will officially launch on Saturday, September 19th, with new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
-   "source": {
-    "l": "TV Zone",
-    "u": "https://www.tvzoneuk.com/post/strictly-2026-launch"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly Is Back!",
-     "copy": "Dust off your dancing shoes! Strictly Come Dancing returns September 19th for its big launch show. What celebrity pairings are you hoping for?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    },
-    {
-     "name": "New Hosts",
-     "copy": "Emma Willis, Josh Widdicombe, and Johannes Radebe are taking over the Strictly ballroom! Catch the new series from September 19th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#Strictly"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "sarah-brightman-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Sarah Brightman",
-   "blurb": "Today, August 14th, marks the 66th birthday of English classical crossover soprano, Sarah Brightman, known for her powerful voice and iconic stage roles.",
-   "source": {
-    "l": "Bored Panda",
-    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-14-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Soprano Superstar",
-     "copy": "Wishing a very Happy 66th Birthday to the incredible Sarah Brightman today! What's your favourite of her captivating performances?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#SarahBrightman"
-     ]
-    },
-    {
-     "name": "Classical Crossover Queen",
-     "copy": "Happy Birthday to the magnificent Sarah Brightman! Her voice continues to inspire across the classical crossover world.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Birthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "steve-martin-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Steve Martin",
-   "blurb": "Legendary comedian, actor, and banjo player Steve Martin celebrates his 81st birthday today, August 14th.",
-   "source": {
-    "l": "Bored Panda",
-    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-14-2026/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Comedy Legend",
-     "copy": "Happy 81st Birthday to the one and only Steve Martin! From stand-up to the big screen, what's your favourite Steve Martin moment?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#SteveMartin"
-     ]
-    },
-    {
-     "name": "Banjo Virtuoso",
-     "copy": "More than just a comic genius, Happy Birthday to Steve Martin, an incredible banjo player too! Celebrate his 81st today.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Legend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kelis-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Kelis",
-   "blurb": "R&B singer Kelis, known for hits like 'Milkshake' and 'Caught Out There', turns 46 on August 21st.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august21.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Kelis Turns 46",
-     "copy": "Get ready to celebrate a true R&B icon! Kelis turns 46 next Wednesday, August 21st. What's your go-to Kelis track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Kelis"
-     ]
-    },
-    {
-     "name": "Milkshake Memories",
-     "copy": "Happy early Birthday to Kelis! The 'Milkshake' hitmaker celebrates her 46th on August 21st. Still sounds as fresh as ever!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#RNB"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "serj-tankian-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Serj Tankian",
-   "blurb": "System Of A Down frontman Serj Tankian celebrates his 59th birthday on August 21st.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august21.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "SOAD Frontman",
-     "copy": "Wishing a very Happy 59th Birthday to System Of A Down's incredible frontman, Serj Tankian, next Wednesday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#SerjTankian"
-     ]
-    },
-    {
-     "name": "Rock Icon",
-     "copy": "Celebrate Serj Tankian's 59th birthday next week! What's your favourite System Of A Down anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SystemOfADown"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "liam-howlett-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Liam Howlett",
-   "blurb": "The Prodigy's co-founder and mastermind, Liam Howlett, turns 55 on August 21st.",
-   "source": {
-    "l": "This Day In Music",
-    "u": "https://www.thisdayinmusic.com/artists/liam-howlett/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Prodigy Legend",
-     "copy": "Happy 55th Birthday to the visionary behind The Prodigy, Liam Howlett, next Wednesday! Still bringing the fire.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#LiamHowlett"
-     ]
-    },
-    {
-     "name": "Electronic Pioneer",
-     "copy": "Celebrating Liam Howlett's birthday next week! What's your ultimate Prodigy track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#TheProdigy"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kacey-musgraves-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Kacey Musgraves",
-   "blurb": "Grammy-winning country and pop artist Kacey Musgraves celebrates her 38th birthday on August 21st.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august21.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country-Pop Star",
-     "copy": "Happy 38th Birthday to the brilliant Kacey Musgraves next Wednesday! What's your favourite song from her?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#KaceyMusgraves"
-     ]
-    },
-    {
-     "name": "Golden Hour Vibes",
-     "copy": "Celebrating Kacey Musgraves' birthday next week! Her music always brings those 'Golden Hour' vibes.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#CountryPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dua-lipa-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Dua Lipa",
-   "blurb": "Global pop superstar Dua Lipa turns 31 on August 22nd.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august22.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Princess",
-     "copy": "Future Nostalgia Queen turns 31! Happy Birthday to the incredible Dua Lipa this Thursday, August 22nd!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#DuaLipa"
-     ]
-    },
-    {
-     "name": "Dance The Night",
-     "copy": "Celebrating Dua Lipa's 31st birthday next week! What's your favourite track to 'Dance The Night' away to?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "howie-dorough-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Howie Dorough",
-   "blurb": "Backstreet Boys member Howie Dorough celebrates his 53rd birthday on August 22nd.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august22.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Backstreet's Back",
-     "copy": "Happy 53rd Birthday to Backstreet Boy Howie Dorough next Thursday! Who's ready to sing along to their greatest hits?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#HowieDorough"
-     ]
-    },
-    {
-     "name": "Boy Band Legend",
-     "copy": "Celebrating a boy band legend! Happy Birthday to Howie Dorough from the Backstreet Boys on August 22nd.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#BackstreetBoys"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tori-amos-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Tori Amos",
-   "blurb": "Singer-songwriter and piano virtuoso Tori Amos turns 63 on August 22nd.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august22.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Piano Queen",
-     "copy": "Happy 63rd Birthday to the iconic Tori Amos next Thursday! Her piano artistry is simply mesmerising.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#ToriAmos"
-     ]
-    },
-    {
-     "name": "Alternative Legend",
-     "copy": "Celebrating the unique talent of Tori Amos, who turns 63 on August 22nd. What's your favourite of her albums?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#AlternativeMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "roland-orzabal-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Roland Orzabal",
-   "blurb": "Tears for Fears co-founder Roland Orzabal celebrates his 65th birthday on August 22nd.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/august-birthdays"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tears for Fears Icon",
-     "copy": "Shout out to Roland Orzabal of Tears for Fears, who turns 65 next Thursday! What's your favourite track from the legendary duo?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#RolandOrzabal"
-     ]
-    },
-    {
-     "name": "80s Superstar",
-     "copy": "Happy Birthday to Tears for Fears' Roland Orzabal on August 22nd! Still 'Shouting' about his amazing music.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#TearsForFears"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "august-bank-holiday",
-   "off": 17,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August Bank Holiday Weekend",
-   "blurb": "The August Bank Holiday weekend for England, Wales, and Northern Ireland is just around the corner, falling on Monday, August 31st.",
-   "source": {
-    "l": "Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Long Weekend Ahead",
-     "copy": "Only a couple of weeks until the August Bank Holiday weekend! What are your plans for that extra day off?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BankHoliday"
-     ]
-    },
-    {
-     "name": "Making Plans",
-     "copy": "With the August Bank Holiday on the 31st, it's the perfect time to plan a last-minute summer getaway or a local adventure!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#SummerVibes"
-     ]
+     "tags": []
     }
    ]
   }
