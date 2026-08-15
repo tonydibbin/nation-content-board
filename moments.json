@@ -1,67 +1,16 @@
 {
- "updated": "2026-08-15T08:13:10.450Z",
+ "updated": "2026-08-15T09:14:07.065Z",
  "moments": [
   {
-   "id": "football-season-kickoff-2026",
-   "off": 0,
+   "id": "community-shield-2026",
+   "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "Football Season Kicks Off!",
-   "blurb": "The new Premier League and EFL Championship seasons are kicking off this weekend, bringing top-tier football back to grounds across the UK.",
+   "title": "Community Shield in Cardiff",
+   "blurb": "Arsenal and Manchester City clash in the FA Community Shield at Cardiff's Principality Stadium on Sunday, marking the traditional curtain-raiser for the English football season.",
    "source": {
-    "l": "General UK Sport News",
-    "u": "https://www.premierleague.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Excitement",
-     "for": "",
-     "copy": "The wait is over! The Premier League and Championship seasons are officially kicking off this weekend. Who are you backing for glory?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#FootballIsBack"
-     ]
-    },
-    {
-     "name": "Fan Buzz",
-     "for": "",
-     "copy": "New season, new hopes! Football is back across the UK this weekend. What's your matchday ritual?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#PL #EFL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "green-man-festival-2026",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Green Man Festival Begins!",
-   "blurb": "Green Man Festival, one of Wales' most beloved independent music and arts festivals, takes place in the Brecon Beacons from August 18-21.",
-   "source": {
-    "l": "Green Man Festival Official",
-    "u": "https://www.greenman.net/"
+    "l": "The FA / Visit Cardiff",
+    "u": "https://www.thefa.com/news/2026/mar/23/community-shield-2026-venue-date-details-confirmed"
    },
    "fits": [
     {
@@ -79,25 +28,80 @@
    ],
    "angles": [
     {
-     "name": "Festival Vibe",
+     "name": "Cardiff Host",
      "for": "welsh-local",
-     "copy": "The Brecon Beacons are about to come alive! Green Man Festival kicks off on Tuesday with an incredible line-up of music, arts, and good vibes. Who's heading to Wales?",
+     "copy": "Cardiff takes centre stage this Sunday! The Principality Stadium hosts the FA Community Shield as Arsenal face Man City. Who are you backing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    },
+    {
+     "name": "Season Kick-off",
+     "for": "nation-network",
+     "copy": "The 2026/27 football season officially kicks off on Sunday with the Community Shield! Arsenal vs Man City – who's lifting the first trophy?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "10:30",
+     "time": "12:00",
      "tags": [
-      "#GreenMan2026"
+      "#FootballIsBack"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "efl-championship-starts",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "EFL Championship Season Underway",
+   "blurb": "The 2026-27 EFL Championship season kicked off yesterday, August 14th, with a full weekend of fixtures including Wrexham taking on Cardiff City on Monday.",
+   "source": {
+    "l": "EFL / Paramount+",
+    "u": "https://www.paramountplus.com/news/1010317-how-to-watch-efl-championship-league-matches-live-on-paramountplus/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Championship Opening Weekend",
+     "for": "nation-network",
+     "copy": "The EFL Championship is BACK! Action got underway yesterday and continues all weekend. Who are your picks for promotion this season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Championship"
      ]
     },
     {
-     "name": "Welsh Event",
-     "for": "dragon",
-     "copy": "It's almost time for Green Man! Our beautiful Welsh mountains will host thousands of festival-goers from Tuesday. Are you ready for the magic?",
+     "name": "Wrexham vs Cardiff",
+     "for": "welsh-local",
+     "copy": "Big Welsh derby alert! Wrexham take on Cardiff City in the Championship on Monday. Who's got the bragging rights?",
      "channels": [
       "instagram",
       "facebook",
@@ -105,21 +109,22 @@
      ],
      "time": "14:00",
      "tags": [
-      "#Wales #Festival"
+      "#WxmAFC",
+      "#Bluebirds"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-aug14",
-   "off": 0,
-   "type": "culture",
+   "id": "premier-league-starts",
+   "off": 6,
+   "type": "sport",
    "hot": true,
-   "title": "UK Chart No.1: Sam Fender & Olivia Dean",
-   "blurb": "Sam Fender and Olivia Dean hold the Official UK Singles Chart number one with 'Rein Me In' for a record-breaking 21st non-consecutive week, while Madonna and Kylie Minogue debut in the Top 10.",
+   "title": "Premier League Returns Next Week",
+   "blurb": "The 2026-27 Premier League season is set to begin on Friday, August 21st, after an extended break due to the expanded World Cup.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
+    "l": "PremierLeague.com",
+    "u": "https://www.premierleague.com/news/4130089"
    },
    "fits": [
     {
@@ -129,125 +134,24 @@
    ],
    "angles": [
     {
-     "name": "Chart Toppers",
-     "for": "nation-hits",
-     "copy": "Still at number one! Sam Fender and Olivia Dean's 'Rein Me In' makes it a record 21 weeks at the top of the Official UK Singles Chart! Huge congrats!",
+     "name": "Countdown to PL",
+     "for": "nation-network",
+     "copy": "Not long now! The Premier League returns next Friday, August 21st. Which fixture are you most looking forward to?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "11:00",
+     "time": "13:00",
      "tags": [
-      "#UKChart #NumberOne"
+      "#PremierLeague"
      ]
     },
     {
-     "name": "Pop Legends",
-     "for": "nation-80s",
-     "copy": "Queens of Pop unite! Madonna and Kylie Minogue's 'Love Sensation' has debuted in the Official UK Top 10! What a collaboration!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#Madonna #KylieMinogue"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "summer-holiday-vibes-2026",
-   "off": 0,
-   "type": "seasonal",
-   "hot": false,
-   "title": "UK Summer Holidays Roll On",
-   "blurb": "The UK is still firmly in the swing of summer holidays, with many families enjoying their last weeks off before schools return.",
-   "source": {
-    "l": "UK Government School Term Dates",
-    "u": "https://www.gov.uk/school-term-dates-and-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Summer Fun",
-     "for": "",
-     "copy": "Still making the most of the summer holidays? Whether it's staycations or adventures abroad, enjoy these last weeks of freedom!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#SummerHolidays #UKSummer"
-     ]
-    },
-    {
-     "name": "End of Summer",
-     "for": "",
-     "copy": "The summer holidays are slowly winding down for many across the UK. What's been your favourite summer memory so far?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#SummerVibes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "summer-bank-holiday-countdown-2026",
-   "off": 16,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Summer Bank Holiday Countdown",
-   "blurb": "The last bank holiday of the summer is approaching fast, with the UK set for a long weekend on Monday, August 31st.",
-   "source": {
-    "l": "UK Government Bank Holidays",
-    "u": "https://www.gov.uk/bank-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Long Weekend Anticipation",
-     "for": "",
-     "copy": "Counting down to the last long weekend of summer! The August Bank Holiday is just over two weeks away – how are you planning to spend it?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#BankHoliday #AugustBankHoliday"
-     ]
-    },
-    {
-     "name": "Planning Ahead",
-     "for": "",
-     "copy": "Don't forget: the Summer Bank Holiday is on August 31st! Time to start making those plans for a well-deserved extra day off.",
+     "name": "PL Predictions",
+     "for": "nation-network",
+     "copy": "Who's winning the Premier League this season? With the kick-off just days away, make your predictions now!",
      "channels": [
       "instagram",
       "facebook",
@@ -255,7 +159,862 @@
      ],
      "time": "16:00",
      "tags": [
-      "#LongWeekend"
+      "#FantasyFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scottish-premiership-underway",
+   "off": -15,
+   "type": "sport",
+   "hot": false,
+   "title": "Scottish Premiership Season Kicks Off",
+   "blurb": "The 2026-27 Scottish Premiership season began on July 31st, with a full slate of opening weekend matches broadcast live.",
+   "source": {
+    "l": "Scottish Premiership / Sky Sports",
+    "u": "https://www.skysports.com/football/news/11095/13181812/scottish-premiership-2026-27-fixtures-dates-schedule-every-match-across-opening-weekend-live-on-sky-sports"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish Football is Back",
+     "for": "nation-network",
+     "copy": "The Scottish Premiership is already back in full swing! Catch up on all the action from the opening weeks of the season.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#ScottishPrem"
+     ]
+    },
+    {
+     "name": "Scottish Teams",
+     "for": "nation-network",
+     "copy": "With the Scottish Premiership underway, who are you tipping for the title this year? Celtic or Rangers, or a surprise challenger?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#SPFL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-festival",
+   "off": 12,
+   "type": "gig",
+   "hot": true,
+   "title": "Reading & Leeds Festivals Approaching",
+   "blurb": "The twin Reading & Leeds Festivals are just around the corner, taking place from August 27-30, promising a diverse lineup across multiple genres.",
+   "source": {
+    "l": "Reading & Leeds Official",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "for": "decades-genres",
+     "copy": "Who's ready for Reading & Leeds? The festivals kick off next week, August 27-30! What acts are you desperate to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Festival Lineup",
+     "for": "decades-genres",
+     "copy": "Reading & Leeds is packed with rock, pop, and dance acts this year. Tell us your must-see artists!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#FestivalSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "creamfields-festival",
+   "off": 12,
+   "type": "gig",
+   "hot": true,
+   "title": "Creamfields Festival Returns",
+   "blurb": "Creamfields, one of the UK's biggest electronic music festivals, is set to electrify Daresbury Estate from August 27-30 with a stellar DJ lineup.",
+   "source": {
+    "l": "Creamfields Official",
+    "u": "https://creamfields.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Festival Vibes",
+     "for": "decades-genres",
+     "copy": "Creamfields is almost here! Get ready for four days of the best electronic music from August 27-30. Who are you buzzing to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Creamfields"
+     ]
+    },
+    {
+     "name": "Electronic Lineup",
+     "for": "decades-genres",
+     "copy": "The Creamfields lineup is stacked! Calvin Harris, Swedish House Mafia, Tiesto – it's going to be huge. What's your anthem for the weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#DanceMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "we-out-here-festival",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "We Out Here Festival Next Week",
+   "blurb": "Gilles Peterson's We Out Here Festival returns to Dorset from August 20-23, celebrating world-class music, wellness, and culture across genres like soul, hip hop, and jazz.",
+   "source": {
+    "l": "We Out Here Official",
+    "u": "https://www.weoutherefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jazz & Soul Festival",
+     "for": "decades-genres",
+     "copy": "We Out Here Festival is just days away! Head to Dorset from August 20-23 for an incredible blend of jazz, soul, hip hop and electronic sounds.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#WeOutHere"
+     ]
+    },
+    {
+     "name": "Festival for Music Lovers",
+     "for": "decades-genres",
+     "copy": "Curated by Gilles Peterson, We Out Here is a must for true music lovers. What's your favourite genre to hear live?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#GillesPeterson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "arctangent-festival",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "ArcTanGent Festival Begins",
+   "blurb": "The ArcTanGent Festival, known for its focus on experimental and heavy music, starts on August 19th and runs until August 22nd.",
+   "source": {
+    "l": "eFestivals",
+    "u": "https://www.efestivals.co.uk/festivals/arctangent/2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Heavy Music Fest",
+     "for": "decades-genres",
+     "copy": "ArcTanGent kicks off on Wednesday! Get ready for four days of the best in experimental and heavy music.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ArcTanGent"
+     ]
+    },
+    {
+     "name": "Festival for Rock Fans",
+     "for": "decades-genres",
+     "copy": "For rock and metal fans, ArcTanGent is the place to be next week. Who's heading to Bristol for the festival?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#ProgRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "green-man-festival",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Green Man Festival",
+   "blurb": "The Green Man Festival, a popular independent music and arts festival, takes place from August 20-23 in the Brecon Beacons, Wales.",
+   "source": {
+    "l": "Green Man Official",
+    "u": "https://www.greenman.net/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh Festival",
+     "for": "welsh-local",
+     "copy": "Green Man Festival starts next Thursday in the beautiful Brecon Beacons! Who's heading to Wales for the music and arts?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#GreenMan26"
+     ]
+    },
+    {
+     "name": "Independent Festival",
+     "for": "decades-genres",
+     "copy": "Celebrating independent music and arts, Green Man Festival brings its unique magic to Wales next week. What's your favourite independent festival?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#IndieMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-come-dancing-return",
+   "off": 35,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing Launch",
+   "blurb": "Strictly Come Dancing returns for its 24th series with a pre-recorded launch show on September 9th, expected to air on BBC One on September 19th, featuring new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
+   "source": {
+    "l": "BBC / TV Zone",
+    "u": "https://www.tvzoneuk.com/post/strictly2026-launchdate"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly Is Back",
+     "for": "nation-network",
+     "copy": "Get ready to cha-cha-cha! Strictly Come Dancing's launch show is recorded early September, airing on the 19th. Who are you hoping to see on the dancefloor?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#StrictlyComeDancing"
+     ]
+    },
+    {
+     "name": "New Strictly Hosts",
+     "for": "nation-network",
+     "copy": "New hosts Emma Willis, Josh Widdicombe, and Johannes Radebe are taking over Strictly! What do you think of the new presenting line-up?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Strictly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "great-british-bake-off-return",
+   "off": 18,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off Season 16",
+   "blurb": "The Great British Bake Off is set to return for its 16th season on Channel 4 on September 2nd, bringing a fresh batch of bakers to the tent.",
+   "source": {
+    "l": "The Cake & Bake Show",
+    "u": "https://thecakeandbakeshow.co.uk/the-great-british-bake-off-returns/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off Is Back",
+     "for": "nation-network",
+     "copy": "On your marks, get set, BAKE! The Great British Bake Off returns on September 2nd. Who's excited for soggy bottoms and showstoppers?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "Bake Off Lineup",
+     "for": "nation-network",
+     "copy": "The new Bake Off lineup sounds wild – a 'Yeastie Boy' and a drag king among them! What's the most unusual bake you've ever attempted?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#BakeOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday-england-wales",
+   "off": 16,
+   "type": "seasonal",
+   "hot": true,
+   "title": "August Bank Holiday Approaching",
+   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31st, providing a final long weekend before autumn.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/bank-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bank Holiday Plans",
+     "for": "nation-network",
+     "copy": "Only a couple of weeks until the August Bank Holiday! What are your plans for the last long weekend of summer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "Long Weekend Getaway",
+     "for": "radio-exe",
+     "copy": "Devon, get ready for the August Bank Holiday weekend! Are you planning a staycation or a trip away?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#DevonLife"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-joe-jonas",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 37th to Joe Jonas",
+   "blurb": "Joe Jonas, member of Jonas Brothers and DNCE, celebrates his 37th birthday today, August 15th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joe_Jonas"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Joe Jonas Birthday",
+     "for": "decades-genres",
+     "copy": "Sending birthday love to Joe Jonas, who turns 37 today! What's your favourite Jonas Brothers or DNCE track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JoeJonas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-madonna",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Madonna Turns 68",
+   "blurb": "The Queen of Pop, Madonna, celebrates her 68th birthday tomorrow, August 16th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Madonna"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Madonna's Birthday",
+     "for": "decades-genres",
+     "copy": "Happy 68th birthday to the legendary Madonna tomorrow! What's her most iconic song for you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Madonna"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-belinda-carlisle",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Belinda Carlisle is 68",
+   "blurb": "Singer Belinda Carlisle, famed for hits like 'Heaven Is a Place on Earth', celebrates her 68th birthday on August 17th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Belinda_Carlisle"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Belinda Carlisle Bday",
+     "for": "decades-genres",
+     "copy": "Wishing a very happy 68th birthday to Belinda Carlisle on Monday! What's your favourite Go-Go's or solo track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BelindaCarlisle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-fat-joe",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Fat Joe Turns 56",
+   "blurb": "American rapper Fat Joe, known for tracks like 'Lean Back' and 'What's Luv?', celebrates his 56th birthday on August 19th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Fat_Joe"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Fat Joe Birthday",
+     "for": "decades-genres",
+     "copy": "Happy 56th birthday to the one and only Fat Joe on Wednesday! What's your go-to track from the Bronx legend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FatJoe"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-robert-plant",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Robert Plant is 78",
+   "blurb": "Led Zeppelin frontman Robert Plant celebrates his 78th birthday on August 20th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Robert_Plant"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Robert Plant Bday",
+     "for": "decades-genres",
+     "copy": "Wishing a very happy 78th birthday to the iconic voice of Led Zeppelin, Robert Plant, on Thursday! What's your favourite Zeppelin track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#RobertPlant"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-demi-lovato",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Demi Lovato Turns 34",
+   "blurb": "Pop sensation Demi Lovato celebrates their 34th birthday on August 20th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Demi_Lovato"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Demi Lovato Bday",
+     "for": "decades-genres",
+     "copy": "Happy 34th birthday to the incredible Demi Lovato on Thursday! What's your favourite song from their amazing career?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#DemiLovato"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-dua-lipa",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Dua Lipa is 31",
+   "blurb": "Global pop superstar Dua Lipa celebrates her 31st birthday on August 22nd.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dua Lipa Birthday",
+     "for": "decades-genres",
+     "copy": "Wishing a very happy 31st birthday to the sensational Dua Lipa on Saturday! What's your ultimate Dua Lipa dancefloor filler?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DuaLipa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-julian-casablancas",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Julian Casablancas Turns 48",
+   "blurb": "The Strokes frontman Julian Casablancas celebrates his 48th birthday on August 23rd.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Julian_Casablancas"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strokes Singer Bday",
+     "for": "decades-genres",
+     "copy": "Happy 48th birthday to Julian Casablancas of The Strokes on Sunday! What's your favourite track from the indie rock icons?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#JulianCasablancas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-billy-ray-cyrus",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Billy Ray Cyrus is 65",
+   "blurb": "Country music star Billy Ray Cyrus, known for 'Achy Breaky Heart' and 'Old Town Road', celebrates his 65th birthday on August 25th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Billy_Ray_Cyrus"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Billy Ray Cyrus Bday",
+     "for": "decades-genres",
+     "copy": "Wishing a happy 65th birthday to Billy Ray Cyrus on Tuesday! What's your favourite song from the country legend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#BillyRayCyrus"
      ]
     }
    ]
