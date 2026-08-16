@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-16T09:14:34.849Z",
+ "updated": "2026-08-16T10:11:32.558Z",
  "moments": [
   {
    "id": "community-shield-2026",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Community Shield Showdown",
-   "blurb": "Arsenal and Manchester City clash today in the annual curtain-raiser for the English football season at Cardiff's Principality Stadium.",
+   "title": "Community Shield Showdown in Cardiff",
+   "blurb": "Today, Premier League champions Arsenal face FA Cup holders Manchester City in the Community Shield at Principality Stadium in Cardiff.",
    "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/news/11661/12937965/premier-league-pre-season-friendlies-2023-24-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps"
+    "l": "Groundhopper Guides",
+    "u": "https://groundhopperguides.com/when-does-the-2026-27-premier-league-season-start/"
    },
    "fits": [
     {
@@ -28,8 +28,9 @@
    ],
    "angles": [
     {
-     "name": "Match Hype",
-     "copy": "Today! The Community Shield kicks off the new season as Arsenal take on Manchester City. Who are you backing for the first silverware?",
+     "name": "Match Day Hype",
+     "for": "nation-network",
+     "copy": "It's the traditional curtain-raiser! Arsenal vs Man City in the Community Shield today. Who's taking home the first silverware of the season?",
      "channels": [
       "instagram",
       "facebook",
@@ -41,14 +42,15 @@
      ]
     },
     {
-     "name": "Welsh Local Angle",
+     "name": "Cardiff Host City",
      "for": "welsh-local",
-     "copy": "The Principality Stadium in Cardiff hosts a massive game today as Arsenal face Man City in the Community Shield. Great to have such a big fixture in Wales!",
+     "copy": "Principality Stadium hosts the Community Shield today! All eyes on Cardiff as Arsenal take on Manchester City. Buzzing!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "13:00",
      "tags": [
       "#Cardiff"
      ]
@@ -56,15 +58,15 @@
    ]
   },
   {
-   "id": "championship-kickoff",
-   "off": 0,
+   "id": "premier-league-kick-off",
+   "off": 5,
    "type": "sport",
    "hot": true,
-   "title": "Championship Season Begins",
-   "blurb": "The EFL Championship kicks off today, with West Ham United facing Burnley live on Sky Sports, and Watford taking on Southampton.",
+   "title": "Premier League 2026/27 Kicks Off",
+   "blurb": "The 2026/27 Premier League season officially begins on Friday, August 21st, with Arsenal defending their title.",
    "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/burnley-vs-west-ham-united/preview/490805"
+    "l": "DAZN News US",
+    "u": "https://www.dazn.com/en-US/news/soccer/when-does-the-2026-27-premier-league-season-start/1500000000000000000000000000000000000000"
    },
    "fits": [
     {
@@ -74,8 +76,72 @@
    ],
    "angles": [
     {
-     "name": "Season Start",
-     "copy": "The Championship is back! West Ham United are away to Burnley in today's big kick-off, live on Sky Sports. Who's ready for some second-tier drama?",
+     "name": "Season Start Excitement",
+     "copy": "The wait is almost over! The Premier League is back this Friday, August 21st. Who are you tipping for the title this season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Opening Weekend Tease",
+     "copy": "Just 5 days until Premier League football returns! Get ready for the drama, goals, and glory. What game are you most looking forward to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#PLKickOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "official-singles-chart-no1",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean Top UK Chart",
+   "blurb": "'Rein Me In' by Sam Fender and Olivia Dean is the current Official UK Singles Chart number one for the week ending August 20, 2026.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Toppers",
+     "copy": "And your Official UK Number 1 is... 'Rein Me In' by Sam Fender & Olivia Dean! Big congrats to the chart-topping duo.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#OfficialChart"
+     ]
+    },
+    {
+     "name": "Weekend Vibe",
+     "copy": "Soundtracking your Sunday: the UK's current Number 1, 'Rein Me In' from Sam Fender and Olivia Dean. What a tune!",
      "channels": [
       "instagram",
       "facebook",
@@ -83,36 +149,81 @@
      ],
      "time": "15:00",
      "tags": [
-      "#Championship"
-     ]
-    },
-    {
-     "name": "Local Team Focus",
-     "for": "nation-network",
-     "copy": "Watford also get their Championship campaign underway today against Southampton. Huge season ahead for all these clubs!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#EFL"
+      "#NumberOne"
      ]
     }
    ]
   },
   {
-   "id": "green-man-festival-finale",
-   "off": 0,
+   "id": "we-out-here-festival",
+   "off": 4,
    "type": "gig",
    "hot": true,
-   "title": "Green Man Festival Concludes",
-   "blurb": "The Green Man Festival, Wales' renowned independent music and arts event in the Brecon Beacons, wraps up its 2026 edition today.",
+   "title": "We Out Here Festival Begins",
+   "blurb": "The sold-out We Out Here Festival, curated by Gilles Peterson, kicks off on August 20th in Wimborne St Giles, Dorset, celebrating soul, hip hop, house, afro, electronica, and jazz.",
+   "source": {
+    "l": "We Out Here Festival",
+    "u": "https://weoutherefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Excitement",
+     "copy": "We Out Here Festival starts this Thursday in Dorset! Four days of incredible soul, hip hop, house & jazz. Who's got tickets to the sold-out event?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#WeOutHere"
+     ]
+    },
+    {
+     "name": "Gilles Peterson's Creation",
+     "copy": "Gilles Peterson's We Out Here Festival returns to Dorset this week, bringing a world-class line-up of genre-defying music. Get ready to dance!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FestivalVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "green-man-festival",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Green Man Festival in Brecon Beacons",
+   "blurb": "The Green Man Festival, featuring headliners Mogwai, Wilco, Four Tet, and Wolf Alice, takes place from August 20-23 in the Brecon Beacons, Wales.",
    "source": {
     "l": "Green Man Festival",
     "u": "https://www.greenman.net/"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
     {
      "g": "welsh-local",
      "sub": ""
@@ -128,29 +239,86 @@
    ],
    "angles": [
     {
-     "name": "Festival Farewell",
-     "copy": "It's the final day of Green Man Festival! What an incredible weekend of music, arts and good vibes in the Brecon Beacons. Who was there?",
+     "name": "Welsh Festival Buzz",
+     "for": "welsh-local",
+     "copy": "Green Man Festival kicks off this Thursday in the stunning Brecon Beacons! Mogwai, Wilco, Four Tet and Wolf Alice lead an amazing line-up.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "10:30",
      "tags": [
-      "#GreenMan2026"
+      "#GreenManFestival"
      ]
     },
     {
-     "name": "Welsh Festival Pride",
-     "for": "welsh-local",
-     "copy": "Another fantastic Green Man Festival comes to a close today in the beautiful Welsh countryside. We're already buzzing for next year!",
+     "name": "Indie & Rock Line-up",
+     "for": "decades-genres",
+     "copy": "Ready for some incredible live music? Green Man Festival brings Mogwai, Wilco, Four Tet & Wolf Alice to Wales this week!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "16:00",
      "tags": [
-      "#GreenManFestival"
+      "#IndieMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-build-up",
+   "off": 11,
+   "type": "gig",
+   "hot": true,
+   "title": "Reading & Leeds Festivals Approaching",
+   "blurb": "The twin Reading & Leeds Festivals, featuring headliners like Charli XCX, Dave, Florence + The Machine, and Chase & Status, are just over a week away, running August 27-30.",
+   "source": {
+    "l": "Reading Festival",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "copy": "Reading & Leeds are just around the corner! Who are you most excited to see – Charli XCX, Dave, Florence + The Machine or Chase & Status?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Bank Holiday Plans",
+     "copy": "Start planning your Bank Holiday weekend! Reading & Leeds Festivals are gearing up for a massive few days of music, Aug 27-30.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#FestivalSeason"
      ]
     }
    ]
@@ -160,11 +328,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 68th to Madonna",
-   "blurb": "The Queen of Pop, Madonna, celebrates her 68th birthday today, August 16, continuing her reign as one of music's most influential artists.",
+   "title": "Madonna's 68th Birthday",
+   "blurb": "Pop icon Madonna turns 68 today, August 16th, continuing her influential career across music, dance, and fashion.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/madonna.html"
+    "l": "JING Tea",
+    "u": "https://www.jingtea.com/madonna-age-2026-pop-icon-nears-milestone-birthday-following-historic-world-tour/"
    },
    "fits": [
     {
@@ -177,31 +345,37 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Pop Icon",
-     "copy": "Happy 68th Birthday to the one and only Madonna! From 'Like a Virgin' to 'Vogue', she's still got us dancing.",
+     "name": "Happy Birthday Queen",
+     "copy": "Happy 68th Birthday to the one and only Queen of Pop, Madonna! Still influencing generations. What's your favourite Madonna track?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#Madonna"
      ]
     },
     {
-     "name": "Queen of Pop",
-     "copy": "68 today! Madonna has redefined pop music for decades. What's your all-time favourite track from the Queen of Pop?",
+     "name": "Iconic Influence",
+     "copy": "68 today and still setting trends! Celebrating the legendary Madonna – an artist who constantly reinvents and inspires.",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "12:00",
      "tags": [
       "#QueenOfPop"
      ]
@@ -209,298 +383,30 @@
    ]
   },
   {
-   "id": "vanessa-carlton-birthday",
-   "off": 0,
+   "id": "kacey-musgraves-birthday",
+   "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Vanessa Carlton is 46",
-   "blurb": "American singer-songwriter Vanessa Carlton, known for her hit single 'A Thousand Miles,' celebrates her 46th birthday today.",
+   "title": "Kacey Musgraves Turns 38",
+   "blurb": "Grammy-winning country and pop artist Kacey Musgraves celebrates her 38th birthday on August 21st.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/vanessa-carlton.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Sing-along Birthday",
-     "copy": "Happy 46th Birthday to Vanessa Carlton! We're definitely walking a thousand miles down memory lane with her biggest hit today.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#VanessaCarlton"
-     ]
-    },
-    {
-     "name": "00s Throwback",
-     "copy": "It's Vanessa Carlton's birthday! 'A Thousand Miles' is still an absolute anthem. What's your favourite 00s piano pop track?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#AThousandMiles"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ariana-grande-o2",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Ariana Grande at The O2",
-   "blurb": "Pop superstar Ariana Grande continues her 'Eternal Sunshine Tour' with a show at London's O2 Arena tonight, and again on August 19th.",
-   "source": {
-    "l": "The O2",
-    "u": "https://www.theo2.co.uk/events/detail/ariana-grande-eternal-sunshine-tour"
+    "l": "National Today",
+    "u": "https://nationaltoday.com/kacey-musgraves-birthday/"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Spectacle",
-     "copy": "Ariana Grande is at The O2 tonight for her 'Eternal Sunshine Tour'! Expect hits, high notes, and stunning visuals. Who's going?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#ArianaGrande"
-     ]
-    },
-    {
-     "name": "London Gig",
-     "for": "nation-network",
-     "copy": "London is buzzing tonight as Ariana Grande brings her 'Eternal Sunshine Tour' to The O2. A must-see for pop fans!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#TheO2"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-weeknd-wembley",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "The Weeknd at Wembley",
-   "blurb": "The Weeknd continues his 'After Hours Til Dawn Tour' with a performance at Wembley Stadium in London tonight, with further dates on August 18th and 19th.",
-   "source": {
-    "l": "Wembley Stadium",
-    "u": "https://www.wembleystadium.com/events/2026/the-weeknd-after-hours-til-dawn-tour"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Stadium Show",
-     "copy": "Wembley Stadium lights up tonight for The Weeknd's 'After Hours Til Dawn Tour'! Get ready for a massive show.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#TheWeeknd"
-     ]
-    },
-    {
-     "name": "London Calling",
-     "for": "nation-network",
-     "copy": "Another huge night for London music fans! The Weeknd takes over Wembley Stadium with his incredible 'After Hours Til Dawn Tour'.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "18:30",
-     "tags": [
-      "#Wembley"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bbc-proms-ongoing",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "BBC Proms Continues",
-   "blurb": "The BBC Proms season is in full swing at the Royal Albert Hall, with concerts today featuring the Swedish Chamber Orchestra and Elgar's Cello Concerto.",
-   "source": {
-    "l": "Royal Albert Hall",
-    "u": "https://www.royalalberthall.com/tickets/proms-2026/"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Classical Highlight",
-     "copy": "Experience the magic of the BBC Proms today at the Royal Albert Hall, with performances including Elgar's Cello Concerto. A true British institution!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BBCProms"
-     ]
-    },
-    {
-     "name": "London Culture",
-     "for": "nation-network",
-     "copy": "The BBC Proms continue to enchant audiences in London. What a cultural highlight in the heart of the city!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#RoyalAlbertHall"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "current-singles-chart",
-   "off": 0,
-   "type": "chart",
-   "hot": true,
-   "title": "Official Singles Chart Update",
-   "blurb": "Sam Fender & Olivia Dean hold the top spot on the Official UK Singles Chart this week with 'Rein Me In', followed by Shakira & Burna Boy's 'Dai Dai'.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/20260814/7501/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Toppers",
-     "copy": "Still at No. 1! Sam Fender & Olivia Dean's 'Rein Me In' reigns supreme on the Official Singles Chart. Is it your favourite right now?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Top 5 Buzz",
-     "copy": "Shakira & Burna Boy are holding strong at No. 2, with Ella Langley, Hugel/Imael Angel/Ultra Nate, and Olivia Rodrigo completing the Top 5. What's your pick of the chart?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "robert-plant-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Robert Plant Turns 78",
-   "blurb": "Legendary Led Zeppelin frontman Robert Plant will celebrate his 78th birthday on August 20th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Robert_Plant"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend",
-     "copy": "On August 20th, we're wishing a very Happy 78th Birthday to the iconic voice of Led Zeppelin, Robert Plant! What's your favourite Zeppelin track?",
+     "name": "Country Star Birthday",
+     "copy": "Sending birthday wishes to the brilliant Kacey Musgraves, who turns 38 on August 21st! Her unique sound continues to captivate.",
      "channels": [
       "instagram",
       "facebook",
@@ -508,44 +414,49 @@
      ],
      "time": "09:00",
      "tags": [
-      "#RobertPlant"
+      "#KaceyMusgraves"
      ]
     },
     {
-     "name": "Birthday Shoutout",
-     "copy": "Get ready to celebrate a rock legend! Robert Plant turns 78 this Thursday. His influence is still massive!",
+     "name": "Music & Lyrics",
+     "copy": "Happy 38th Birthday to Kacey Musgraves on Thursday! A true songwriter known for her insightful lyrics and genre-blending sound.",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "13:00",
      "tags": [
-      "#LedZeppelin"
+      "#CountryPop"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-kickoff",
+   "id": "liam-howlett-birthday",
    "off": 5,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Season Kicks Off",
-   "blurb": "The 2026/27 Premier League season officially begins on Friday, August 21st, with Arsenal hosting newly-promoted Coventry City.",
+   "type": "birthday",
+   "hot": false,
+   "title": "Liam Howlett (The Prodigy) Turns 55",
+   "blurb": "Liam Howlett, the mastermind behind electronic music pioneers The Prodigy, celebrates his 55th birthday on August 21st.",
    "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/news/3536855"
+    "l": "Music History Calendar",
+    "u": "https://www.thisdayinmusic.com/artists/liam-howlett/"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Football's Back",
-     "copy": "The wait is almost over! The Premier League returns on Friday with Arsenal vs. Coventry City. Who's excited for the new season?",
+     "name": "Electronic Legend Birthday",
+     "copy": "Happy 55th Birthday to Liam Howlett of The Prodigy this Thursday! Still bringing the fire to electronic music.",
      "channels": [
       "instagram",
       "facebook",
@@ -553,33 +464,34 @@
      ],
      "time": "10:00",
      "tags": [
-      "#PremierLeague"
+      "#TheProdigy"
      ]
     },
     {
-     "name": "Opening Weekend",
-     "copy": "Get ready for a massive weekend of football! The Premier League kicks off on Friday, with Hull City vs. Man Utd among Saturday's big games. Predictions?",
+     "name": "Iconic Sound",
+     "copy": "Celebrating Liam Howlett's 55th on Aug 21st. The man who shaped the sound of The Prodigy and countless rave anthems!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#PLKickOff"
+      "#RaveCulture"
      ]
     }
    ]
   },
   {
-   "id": "reading-leeds-festivals",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Reading & Leeds Festivals Begin",
-   "blurb": "The iconic Reading & Leeds Festivals return from August 21st to 26th, bringing a massive lineup of music to two sites across the UK.",
+   "id": "julian-casablancas-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Julian Casablancas (The Strokes) Turns 48",
+   "blurb": "Julian Casablancas, frontman of indie rock band The Strokes, celebrates his 48th birthday on August 23rd.",
    "source": {
-    "l": "Reading & Leeds Festivals",
-    "u": "https://www.readingfestival.com/"
+    "l": "Taddlr",
+    "u": "https://taddlr.com/celebrity/julian-casablancas/"
    },
    "fits": [
     {
@@ -588,17 +500,13 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Festival Fever",
-     "copy": "Reading & Leeds Festivals kick off this Friday! Who are you most looking forward to seeing on the main stage?",
+     "name": "Indie Icon Birthday",
+     "copy": "Happy 48th Birthday to The Strokes' enigmatic frontman, Julian Casablancas, this Sunday! What's your favourite Strokes track?",
      "channels": [
       "instagram",
       "facebook",
@@ -606,49 +514,58 @@
      ],
      "time": "11:00",
      "tags": [
-      "#RandL2026"
+      "#TheStrokes"
      ]
     },
     {
-     "name": "Yorkshire Excitement",
-     "for": "nation-network",
-     "copy": "Leeds Festival is almost here! Get ready for a huge weekend of music in Bramham Park. Who's got their tickets?",
+     "name": "Garage Rock Revival",
+     "copy": "Celebrating Julian Casablancas' 48th on August 23rd. The voice that defined a generation of indie rock!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "15:00",
      "tags": [
-      "#LeedsFestival"
+      "#IndieRock"
      ]
     }
    ]
   },
   {
-   "id": "liam-payne-birthday",
-   "off": 5,
+   "id": "billy-ray-cyrus-birthday",
+   "off": 9,
    "type": "birthday",
-   "hot": true,
-   "title": "Liam Payne Turns 33",
-   "blurb": "Former One Direction member Liam Payne celebrates his 33rd birthday on Friday, August 21st.",
+   "hot": false,
+   "title": "Billy Ray Cyrus Turns 65",
+   "blurb": "Country music star Billy Ray Cyrus, known for 'Achy Breaky Heart' and his collaborations, celebrates his 65th birthday on August 25th.",
    "source": {
-    "l": "AP News",
-    "u": "https://apnews.com/article/celebrity-birthdays-august-16-22-b5e28a554a904d9c7e090a98075f7004"
+    "l": "National Today",
+    "u": "https://nationaltoday.com/billy-ray-cyrus-birthday/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 10s"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Boyband Birthday",
-     "copy": "Happy 33rd Birthday to Liam Payne this Friday! From One Direction superstardom to solo success, what's your favourite of his tracks?",
+     "name": "Country Legend Birthday",
+     "copy": "Happy 65th Birthday to Billy Ray Cyrus on Tuesday! From 'Achy Breaky Heart' to 'Old Town Road', a true country icon.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BillyRayCyrus"
+     ]
+    },
+    {
+     "name": "Music Crossover",
+     "copy": "Celebrating Billy Ray Cyrus's 65th on August 25th. Still breaking hearts and breaking records!",
      "channels": [
       "instagram",
       "facebook",
@@ -656,19 +573,107 @@
      ],
      "time": "13:00",
      "tags": [
-      "#LiamPayne"
+      "#AchyBreakyHeart"
      ]
+    }
+   ]
+  },
+  {
+   "id": "gene-simmons-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Gene Simmons (Kiss) Turns 77",
+   "blurb": "Gene Simmons, the iconic bassist and co-lead singer of rock legends Kiss, celebrates his 77th birthday on August 25th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/gene-simmons.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
-     "name": "1D Throwback",
-     "copy": "Wishing Liam Payne a fantastic birthday on Friday! Who remembers his One Direction days?",
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock God Birthday",
+     "copy": "Happy 77th Birthday to the one and only Demon, Gene Simmons of Kiss, this Tuesday! Still rocking and rolling all night.",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "10:00",
      "tags": [
-      "#OneDirection"
+      "#GeneSimmons"
+     ]
+    },
+    {
+     "name": "Kiss Legend",
+     "copy": "Celebrating Kiss legend Gene Simmons' 77th on August 25th. The bassist and co-lead singer who co-founded one of rock's greatest bands!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#KISS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rob-halford-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Rob Halford (Judas Priest) Turns 75",
+   "blurb": "Rob Halford, the 'Metal God' and lead vocalist of heavy metal band Judas Priest, celebrates his 75th birthday on August 25th.",
+   "source": {
+    "l": "How Old Is Rob Halford?",
+    "u": "https://howoldis.net/rob-halford-age-2026"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal God Birthday",
+     "copy": "Happy 75th Birthday to the undisputed 'Metal God', Rob Halford of Judas Priest, this Tuesday! A true pioneer of heavy metal.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RobHalford"
+     ]
+    },
+    {
+     "name": "Heavy Metal Icon",
+     "copy": "Celebrating Rob Halford's 75th on August 25th. The powerful voice and iconic image that defined Judas Priest!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#JudasPriest"
      ]
     }
    ]
