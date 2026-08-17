@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-17T12:16:09.186Z",
+ "updated": "2026-08-17T13:30:49.253Z",
  "moments": [
   {
-   "id": "premier-league-kickoff-2026",
+   "id": "premier-league-kickoff",
    "off": 4,
    "type": "sport",
    "hot": true,
-   "title": "Premier League 2026/27 Kicks Off",
-   "blurb": "The new Premier League season begins this Friday, August 21st, with defending champions Arsenal hosting newly promoted Coventry City in the opening fixture.",
+   "title": "Premier League Kicks Off",
+   "blurb": "The 2026/27 Premier League season begins this Friday, with defending champions Arsenal hosting newly promoted Coventry City in the opening fixture.",
    "source": {
-    "l": "Premier League Official Site",
+    "l": "Premier League",
     "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
@@ -21,7 +21,8 @@
    "angles": [
     {
      "name": "Opening Weekend Buzz",
-     "copy": "The wait is over! The Premier League 2026/27 season kicks off this Friday. Who are you backing for the title this year?",
+     "for": "",
+     "copy": "The wait is over! The Premier League is BACK this Friday. Who are you backing for the title this season?",
      "channels": [
       "instagram",
       "facebook",
@@ -29,38 +30,50 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Coventry's Big Return",
-     "copy": "Coventry City are back in the Premier League after 25 years and face a huge opener against the champions Arsenal on Friday night. What a welcome back!",
+     "name": "Promoted Teams Challenge",
+     "for": "",
+     "copy": "Coventry City kick off their Premier League return against champions Arsenal this Friday. Can they cause an upset?",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "10:30",
      "tags": [
       "#COVARS"
      ]
+    },
+    {
+     "name": "Weekend Fixture Preview",
+     "for": "",
+     "copy": "Hull City vs Man Utd, Newcastle vs Liverpool, Man City vs Bournemouth... the Premier League opening weekend is packed! Which game are you most excited for?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#PLReturns"
+     ]
     }
    ]
   },
   {
-   "id": "reading-leeds-festival-2026",
-   "off": 10,
-   "type": "gig",
+   "id": "european-athletics-recap",
+   "off": -1,
+   "type": "sport",
    "hot": true,
-   "title": "Reading & Leeds Festival Approaching",
-   "blurb": "The twin Reading & Leeds Festivals are set to take place over the UK August Bank Holiday weekend, from Thursday 27th to Sunday 30th August 2026, featuring a diverse lineup across multiple genres.",
+   "title": "European Athletics Championships Wrap",
+   "blurb": "The European Athletics Championships concluded yesterday in Birmingham, marking the first time the UK has hosted the prestigious event.",
    "source": {
-    "l": "Reading & Leeds Festival",
-    "u": "https://www.readingfestival.com/"
+    "l": "European Athletics",
+    "u": "https://www.european-athletics.com/"
    },
    "fits": [
     {
@@ -68,8 +81,92 @@
      "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birmingham's Success",
+     "for": "",
+     "copy": "What a week for athletics! Birmingham hosted a fantastic European Athletics Championships, showcasing incredible talent. What was your highlight?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#EuroAthletics"
+     ]
+    },
+    {
+     "name": "British Medal Haul",
+     "for": "",
+     "copy": "Big congratulations to all the British athletes who competed at the European Athletics Championships in Birmingham! Share your favourite moment from the track and field.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Athletics"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fa-community-shield-recap",
+   "off": -2,
+   "type": "sport",
+   "hot": true,
+   "title": "Community Shield Decided",
+   "blurb": "The FA Community Shield, the traditional curtain-raiser for the English football season, was played on Saturday at Wembley Stadium.",
+   "source": {
+    "l": "The FA",
+    "u": "https://www.thefa.com/competitions/thefacup/fa-community-shield"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "First Trophy of the Season",
+     "for": "",
+     "copy": "The first silverware of the season has been claimed! Who lifted the FA Community Shield at Wembley on Saturday?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#CommunityShield"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ariana-grande-london",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Ariana Grande in London",
+   "blurb": "Pop superstar Ariana Grande continues her 'The Eternal Sunshine Tour' at The O2 Arena in London this week, with multiple dates including tonight.",
+   "source": {
+    "l": "The O2",
+    "u": "https://www.theo2.co.uk/events/detail/ariana-grande-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
@@ -78,8 +175,23 @@
    ],
    "angles": [
     {
-     "name": "Festival Countdown",
-     "copy": "Counting down to the August Bank Holiday! Reading & Leeds Festival is just over a week away. Who's got their tickets ready?",
+     "name": "Tonight's Show",
+     "for": "Nation Radio London",
+     "copy": "Ariana Grande takes over The O2 tonight for her 'Eternal Sunshine' tour! Who's heading to Greenwich for some pop magic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ArianaGrande"
+     ]
+    },
+    {
+     "name": "Tour Buzz",
+     "for": "Nation Hits",
+     "copy": "Still buzzing from the 'Eternal Sunshine' tour? Ariana Grande is bringing her incredible show to London this week!",
      "channels": [
       "instagram",
       "facebook",
@@ -87,23 +199,428 @@
       "tiktok",
       "threads"
      ],
-     "time": "11:00",
+     "time": "16:00",
      "tags": [
-      "#RandL26"
+      "#EternalSunshineTour"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-weeknd-london",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "The Weeknd at Wembley",
+   "blurb": "The Weeknd's 'After Hours Til Dawn Tour' continues its UK leg with multiple dates at Wembley Stadium this week, starting tonight.",
+   "source": {
+    "l": "Wembley Stadium",
+    "u": "https://www.wembleystadium.com/events/2026/the-weeknd"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wembley Takeover",
+     "for": "Nation Radio London",
+     "copy": "The Weeknd is lighting up Wembley Stadium this week! Who's ready for the 'After Hours Til Dawn' experience?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#TheWeeknd"
      ]
     },
     {
-     "name": "Bank Holiday Plans",
-     "copy": "Forget the weather, it's almost time for Reading & Leeds! The UK's biggest rock, pop and indie festival is back for the Bank Holiday weekend. What's your favourite festival memory?",
+     "name": "Global Superstar",
+     "for": "Nation Hits",
+     "copy": "If you're heading to see The Weeknd at Wembley this week, prepare for an epic show! What's your favourite track to hear live?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#AfterHoursTilDawn"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hollywood-vampires-uk",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Hollywood Vampires UK Gigs",
+   "blurb": "Rock supergroup Hollywood Vampires play Glasgow's OVO Hydro tonight, followed by Utilita Arena Birmingham on Wednesday.",
+   "source": {
+    "l": "Hollywood Vampires",
+    "u": "https://www.hollywoodvampires.com/tour/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Royalty in Glasgow",
+     "for": "Nation Radio Scotland",
+     "copy": "Alice Cooper, Johnny Depp, Joe Perry – Hollywood Vampires are at the OVO Hydro in Glasgow tonight! Who's going?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#HollywoodVampires"
+     ]
+    },
+    {
+     "name": "Supergroup Alert",
+     "for": "Nation Rocks",
+     "copy": "Hollywood Vampires bring their rock 'n' roll spectacle to Glasgow tonight and Birmingham on Wednesday. Expect anthems and theatrics!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#FestivalSeason"
+      "#RockMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-cure-manchester",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "The Cure in Manchester",
+   "blurb": "The iconic band The Cure will play a major show at Wythenshawe Park in Manchester this Friday, August 21st.",
+   "source": {
+    "l": "Gigs and Tours",
+    "u": "https://www.gigsandtours.com/tour/the-cure"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s Legends Live",
+     "for": "Nation 80s",
+     "copy": "Get ready, Manchester! The Cure are playing Wythenshawe Park this Friday. What's your ultimate Cure track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheCure"
+     ]
+    },
+    {
+     "name": "Gothic Rock Icons",
+     "for": "Nation Rocks",
+     "copy": "This Friday, The Cure bring their legendary sound to Manchester's Wythenshawe Park. A must-see for rock fans!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#LiveMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lewis-capaldi-manchester",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Lewis Capaldi in Manchester",
+   "blurb": "Scottish singer-songwriter Lewis Capaldi is set to perform at Wythenshawe Park in Manchester this Saturday, August 22nd.",
+   "source": {
+    "l": "Gigs and Tours",
+    "u": "https://www.gigsandtours.com/tour/lewis-capaldi"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Capaldi's Return",
+     "for": "Nation Hits",
+     "copy": "Lewis Capaldi is back on stage in Manchester this Saturday! Who's looking forward to singing along?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#LewisCapaldi"
+     ]
+    },
+    {
+     "name": "Scottish Star Live",
+     "for": "Nation Radio Scotland",
+     "copy": "Our very own Lewis Capaldi is playing a huge show in Manchester this weekend. Sending him all the love from Scotland!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ScottishMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "official-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "New UK Singles Chart",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' holds the top spot on the Official UK Singles Chart, with Madonna & Kylie Minogue's 'Love Sensation' entering at number 8.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "for": "Nation Hits",
+     "copy": "Still at Number 1! Sam Fender & Olivia Dean are holding strong with 'Rein Me In' on the Official Singles Chart. Are you still streaming it?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Pop Royalty",
+     "for": "Nation 80s",
+     "copy": "An iconic collaboration! Madonna & Kylie Minogue's 'Love Sensation' is a brand new entry on the UK Singles Chart at No. 8! What a team-up!",
+     "channels": [
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#MadonnaKylie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-voice-uk-return",
+   "off": 5,
+   "type": "tv",
+   "hot": true,
+   "title": "The Voice UK Returns",
+   "blurb": "A new series of The Voice UK is set to premiere this Saturday, August 22nd, at 7pm on ITV1.",
+   "source": {
+    "l": "ITV",
+    "u": "https://www.itv.com/thevoiceuk"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Series Excitement",
+     "for": "",
+     "copy": "Get ready for some vocal fireworks! The Voice UK is back with a brand new series this Saturday on ITV1. Who's excited?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheVoiceUK"
+     ]
+    },
+    {
+     "name": "Coaches Ready",
+     "for": "",
+     "copy": "The spinning chairs are ready! The Voice UK returns this weekend – who do you think will be crowned this year's champion?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BlindAuditions"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ludwig-season-2",
+   "off": 3,
+   "type": "tv",
+   "hot": true,
+   "title": "Ludwig Season 2 Premiere",
+   "blurb": "David Mitchell returns as John 'Ludwig' Taylor in the second season of the popular BBC drama, starting August 20th on BBC One and iPlayer.",
+   "source": {
+    "l": "BBC",
+    "u": "https://www.bbc.co.uk/programmes/p0hv5z1h"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Detective's Return",
+     "for": "",
+     "copy": "Great news for drama fans! David Mitchell's 'Ludwig' is back for a second season this Thursday on BBC One. Ready for more Cambridge mysteries?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#LudwigBBC"
+     ]
+    },
+    {
+     "name": "Binge-Watch Alert",
+     "for": "",
+     "copy": "Your next binge-watch is sorted! Season 2 of Ludwig drops on BBC iPlayer this Thursday. Who's tuning in?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#BBCDrama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday",
+   "off": 14,
+   "type": "seasonal",
+   "hot": true,
+   "title": "August Bank Holiday Approaching",
+   "blurb": "The late Summer Bank Holiday for England, Wales, and Northern Ireland is just two weeks away, falling on Monday, August 31st.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/bank-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Long Weekend Plans",
+     "for": "",
+     "copy": "Two weeks until the August Bank Holiday! Who's already making plans for that extra long weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "Local Getaways",
+     "for": "welsh-local",
+     "copy": "Just two weeks to go until the August Bank Holiday! How are you planning to enjoy the long weekend here in Wales?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#WalesBankHoliday"
      ]
     }
    ]
@@ -113,11 +630,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Belinda Carlisle turns 68",
-   "blurb": "Pop icon Belinda Carlisle, lead vocalist of The Go-Go's and a successful solo artist, celebrates her 68th birthday today.",
+   "title": "Belinda Carlisle's Birthday",
+   "blurb": "Belinda Carlisle, lead singer of The Go-Go's and successful solo artist, turns 68 today.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august17.html"
+    "u": "https://www.famousbirthdays.com/people/belinda-carlisle.html"
    },
    "fits": [
     {
@@ -127,65 +644,34 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Heaven Is A Place On Earth",
-     "copy": "Happy 68th Birthday to the incredible Belinda Carlisle! 'Heaven Is A Place On Earth' is still an absolute anthem. What's your favourite track?",
+     "name": "80s Icon",
+     "for": "Nation 80s",
+     "copy": "Happy 68th Birthday to the incredible Belinda Carlisle! 'Heaven Is a Place on Earth' still sounds as good as ever!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:00",
+     "time": "09:00",
      "tags": [
       "#BelindaCarlisle"
      ]
-    }
-   ]
-  },
-  {
-   "id": "donnie-wahlberg-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Donnie Wahlberg turns 57",
-   "blurb": "Donnie Wahlberg, a founding member of the iconic boy band New Kids on the Block and acclaimed actor, celebrates his 57th birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august17.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Blockhead Birthday",
-     "copy": "Happy 57th Birthday to New Kids on the Block's very own Donnie Wahlberg! Still got 'The Right Stuff' after all these years. What's your top NKOTB song?",
+     "name": "Go-Go's Legend",
+     "for": "Nation Classic Hits",
+     "copy": "Celebrating the birthday of Belinda Carlisle today! From The Go-Go's to her solo hits, what's your favourite of her tracks?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "12:00",
      "tags": [
-      "#DonnieWahlberg"
+      "#TheGoGos"
      ]
     }
    ]
@@ -195,11 +681,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Phoebe Bridgers turns 32",
-   "blurb": "Critically acclaimed singer-songwriter Phoebe Bridgers, known for her indie-folk sound, celebrates her 32nd birthday today.",
+   "title": "Phoebe Bridgers' Birthday",
+   "blurb": "Acclaimed indie singer-songwriter Phoebe Bridgers, known for her melancholic folk sound, turns 32 today.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august17.html"
+    "u": "https://www.famousbirthdays.com/people/phoebe-bridgers.html"
    },
    "fits": [
     {
@@ -213,158 +699,9 @@
    ],
    "angles": [
     {
-     "name": "Indie Darling Birthday",
-     "copy": "Sending a huge Happy 32nd Birthday to the brilliant Phoebe Bridgers! Her songwriting is truly something special. Which of her tracks is your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#PhoebeBridgers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-kid-laroi-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "The Kid Laroi turns 23",
-   "blurb": "Australian rapper and singer The Kid Laroi, who rose to global fame with hits like 'Stay', celebrates his 23rd birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august17.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star Birthday",
-     "copy": "Happy 23rd Birthday to The Kid Laroi! From 'Stay' to 'Without You', he's had some massive hits. What's your go-to Laroi track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TheKidLaroi"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mika-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Mika turns 43",
-   "blurb": "Lebanese-British singer-songwriter Mika, known for his vibrant pop hits, will celebrate his 43rd birthday tomorrow, August 18th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august18.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Grace Kelly Birthday",
-     "copy": "Getting ready to wish Mika a very Happy 43rd Birthday tomorrow! 'Grace Kelly' is still an absolute bop. What's your favourite Mika song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Mika"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "aphex-twin-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Aphex Twin turns 55",
-   "blurb": "Influential electronic music artist Richard D. James, better known as Aphex Twin, will celebrate his 55th birthday tomorrow, August 18th.",
-   "source": {
-    "l": "This Day In Music",
-    "u": "https://www.thisdayinmusic.com/birthdays/richard-d-james-aphex-twin/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Electronic Genius Birthday",
-     "copy": "Tomorrow, we celebrate the 55th birthday of the legendary Aphex Twin! An undisputed pioneer of electronic music. Which track defined him for you?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#AphexTwin"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ian-gillan-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Ian Gillan turns 81",
-   "blurb": "Deep Purple's iconic lead singer, Ian Gillan, will celebrate his 81st birthday on Wednesday, August 19th.",
-   "source": {
-    "l": "This Day In Music",
-    "u": "https://www.thisdayinmusic.com/birthdays/ian-gillan/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend Birthday",
-     "copy": "Happy 81st Birthday to the incredible Ian Gillan of Deep Purple this Wednesday! 'Smoke On The Water' remains a timeless classic. What's your favourite Deep Purple track?",
+     "name": "Indie Darling",
+     "for": "Nation Rocks",
+     "copy": "Happy 32nd Birthday to the brilliant Phoebe Bridgers! What's your go-to song from her incredible catalogue?",
      "channels": [
       "instagram",
       "facebook",
@@ -372,131 +709,20 @@
      ],
      "time": "10:00",
      "tags": [
-      "#IanGillan"
+      "#PhoebeBridgers"
      ]
-    }
-   ]
-  },
-  {
-   "id": "john-deacon-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "John Deacon turns 75",
-   "blurb": "Queen's legendary bassist and songwriter, John Deacon, will celebrate his 75th birthday on Wednesday, August 19th.",
-   "source": {
-    "l": "This Day In Music",
-    "u": "https://www.thisdayinmusic.com/birthdays/john-deacon/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen Bassist Birthday",
-     "copy": "Wishing a very Happy 75th Birthday to Queen's John Deacon this Wednesday! The man behind some of their biggest hits. What's your favourite Deacon-penned song?",
+     "name": "Boygenius Star",
+     "for": "Nation Hits",
+     "copy": "Wishing a very Happy Birthday to Phoebe Bridgers! Celebrating her amazing music today.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "13:00",
      "tags": [
-      "#JohnDeacon"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "robert-plant-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Robert Plant turns 78",
-   "blurb": "Led Zeppelin frontman and rock icon Robert Plant will celebrate his 78th birthday on Thursday, August 20th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august20.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Golden God Birthday",
-     "copy": "Happy 78th Birthday to the legendary Robert Plant this Thursday! The voice of Led Zeppelin and a true rock icon. Which Zeppelin song is his finest vocal performance?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RobertPlant"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "demi-lovato-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Demi Lovato turns 34",
-   "blurb": "Singer, songwriter, and actress Demi Lovato will celebrate their 34th birthday on Thursday, August 20th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august20.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star Birthday",
-     "copy": "Wishing a very Happy 34th Birthday to Demi Lovato this Thursday! From Disney to global superstar. What's your favourite Demi track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#DemiLovato"
+      "#Boygenius"
      ]
     }
    ]
@@ -506,17 +732,13 @@
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Kelis turns 47",
-   "blurb": "Grammy-nominated R&B and soul singer Kelis, known for hits like 'Milkshake', will celebrate her 47th birthday on Friday, August 21st.",
+   "title": "Kelis's Birthday",
+   "blurb": "American R&B and soul singer Kelis, famous for hits like 'Milkshake' and 'Caught Out There', turns 47 on August 21st.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august21.html"
+    "u": "https://www.famousbirthdays.com/people/kelis.html"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
@@ -524,37 +746,7 @@
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Milkshake Birthday",
-     "copy": "Happy 47th Birthday to the one and only Kelis this Friday! Her milkshake brought all the boys to the yard. What's your favourite Kelis banger?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Kelis"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kacey-musgraves-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Kacey Musgraves turns 38",
-   "blurb": "Award-winning country and pop artist Kacey Musgraves will celebrate her 38th birthday on Friday, August 21st.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august21.html"
-   },
-   "fits": [
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
@@ -562,17 +754,86 @@
    ],
    "angles": [
     {
-     "name": "Country Queen Birthday",
-     "copy": "Wishing a very Happy 38th Birthday to the brilliant Kacey Musgraves this Friday! Her music transcends genres. What's your favourite Kacey song?",
+     "name": "R&B Queen",
+     "for": "Nation 00s",
+     "copy": "Get ready to celebrate! Kelis turns 47 this Wednesday. What's your favourite track from the R&B queen?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "11:30",
+     "time": "09:00",
      "tags": [
-      "#KaceyMusgraves"
+      "#Kelis"
+     ]
+    },
+    {
+     "name": "Milkshake Memories",
+     "for": "Nation Dance",
+     "copy": "Kelis's birthday is coming up this Wednesday! We'll be cranking up 'Milkshake' to celebrate!",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Milkshake"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "liam-howlett-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Liam Howlett's Birthday",
+   "blurb": "Liam Howlett, co-founder and mastermind of electronic music pioneers The Prodigy, turns 55 on August 21st.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/21"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Legend",
+     "for": "Nation Dance",
+     "copy": "Big birthday shout out to Liam Howlett of The Prodigy, turning 55 this Wednesday! What's your ultimate Prodigy anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheProdigy"
+     ]
+    },
+    {
+     "name": "Rave Architect",
+     "for": "Nation 90s",
+     "copy": "Celebrating Liam Howlett's birthday this Wednesday! The man behind The Prodigy's groundbreaking sound.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#LiamHowlett"
      ]
     }
    ]
@@ -582,22 +843,27 @@
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Dua Lipa turns 31",
-   "blurb": "Global pop superstar Dua Lipa will celebrate her 31st birthday on Saturday, August 22nd.",
+   "title": "Dua Lipa's Birthday",
+   "blurb": "Global pop sensation Dua Lipa, known for her disco-infused hits, turns 31 on August 22nd.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august22.html"
+    "u": "https://www.famousbirthdays.com/people/dua-lipa.html"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Future Nostalgia Birthday",
-     "copy": "Get ready to dance! Dua Lipa turns 31 this Saturday. From 'New Rules' to 'Dance The Night', she's got endless bops. What's your favourite?",
+     "name": "Pop Queen",
+     "for": "Nation Hits",
+     "copy": "Future Nostalgia for a birthday queen! Dua Lipa turns 31 this Thursday. What's your favourite track from her?",
      "channels": [
       "instagram",
       "facebook",
@@ -605,9 +871,22 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
       "#DuaLipa"
+     ]
+    },
+    {
+     "name": "Birthday Grooves",
+     "for": "Nation Dance",
+     "copy": "Wishing a very Happy Birthday to Dua Lipa this Thursday! Get ready to dance to her biggest hits all day.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#FutureNostalgia"
      ]
     }
    ]
@@ -617,11 +896,11 @@
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Tori Amos turns 63",
-   "blurb": "Influential singer-songwriter and pianist Tori Amos will celebrate her 63rd birthday on Saturday, August 22nd.",
+   "title": "Tori Amos's Birthday",
+   "blurb": "Alternative rock icon and acclaimed singer-songwriter Tori Amos turns 63 on August 22nd.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august22.html"
+    "u": "https://www.famousbirthdays.com/people/tori-amos.html"
    },
    "fits": [
     {
@@ -631,24 +910,34 @@
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Piano Queen Birthday",
-     "copy": "Wishing a very Happy 63rd Birthday to the incomparable Tori Amos this Saturday! A true original. What's your favourite Tori Amos album?",
+     "name": "Alt-Rock Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 63rd Birthday to the extraordinary Tori Amos this Thursday! Celebrating a true pioneer of alternative music.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
       "#ToriAmos"
+     ]
+    },
+    {
+     "name": "90s Icon",
+     "for": "Nation 90s",
+     "copy": "Wishing a very Happy Birthday to Tori Amos! Her iconic sound defined a generation.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#90sMusic"
      ]
     }
    ]
@@ -658,11 +947,11 @@
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Roland Orzabal turns 65",
-   "blurb": "Roland Orzabal, co-founder and lead singer of the iconic band Tears for Fears, will celebrate his 65th birthday on Saturday, August 22nd.",
+   "title": "Roland Orzabal's Birthday",
+   "blurb": "Roland Orzabal, co-founder and lead singer of the iconic band Tears for Fears, turns 65 on August 22nd.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august22.html"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/22"
    },
    "fits": [
     {
@@ -676,16 +965,81 @@
    ],
    "angles": [
     {
-     "name": "Tears For Fears Birthday",
-     "copy": "Happy 65th Birthday to Roland Orzabal of Tears for Fears this Saturday! The voice behind 'Everybody Wants To Rule The World'. What's your top Tears for Fears track?",
+     "name": "Tears for Fears Legend",
+     "for": "Nation 80s",
+     "copy": "Happy 65th Birthday to Roland Orzabal of Tears for Fears this Thursday! Still 'Shouting Out' for classic tunes?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "11:00",
      "tags": [
       "#TearsForFears"
+     ]
+    },
+    {
+     "name": "British Music Icon",
+     "for": "Nation Classic Hits",
+     "copy": "Celebrating Roland Orzabal's birthday this Thursday! The voice behind so many timeless Tears for Fears tracks.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "julian-casablancas-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Julian Casablancas's Birthday",
+   "blurb": "Julian Casablancas, frontman of The Strokes and The Voidz, turns 48 on August 23rd.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/august/23"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Indie Rock Star",
+     "for": "Nation Rocks",
+     "copy": "Happy 48th Birthday to Julian Casablancas of The Strokes this Friday! What's your favourite Strokes anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#TheStrokes"
+     ]
+    },
+    {
+     "name": "Voice of a Generation",
+     "for": "Nation 00s",
+     "copy": "Wishing a very Happy Birthday to Julian Casablancas this Friday! Still sounding 'Last Nite' good!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#JulianCasablancas"
      ]
     }
    ]
@@ -695,11 +1049,11 @@
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Shaun Ryder turns 64",
-   "blurb": "Happy Mondays and Black Grape frontman Shaun Ryder will celebrate his 64th birthday on Sunday, August 23rd.",
+   "title": "Shaun Ryder's Birthday",
+   "blurb": "Shaun Ryder, charismatic frontman of Happy Mondays and Black Grape, turns 64 on August 23rd.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august23.html"
+    "u": "https://www.famousbirthdays.com/people/shaun-ryder.html"
    },
    "fits": [
     {
@@ -709,65 +1063,34 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Madchester Icon Birthday",
-     "copy": "Wishing a very Happy 64th Birthday to the legendary Shaun Ryder this Sunday! From Happy Mondays to Black Grape, a true British music icon. What's your favourite track?",
+     "name": "Madchester Legend",
+     "for": "Nation 90s",
+     "copy": "Happy 64th Birthday to the one and only Shaun Ryder this Friday! Get your 'Step On' moves ready!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "11:30",
      "tags": [
       "#ShaunRyder"
      ]
-    }
-   ]
-  },
-  {
-   "id": "rick-springfield-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Rick Springfield turns 77",
-   "blurb": "Australian musician, singer, and actor Rick Springfield, famous for 'Jessie's Girl', will celebrate his 77th birthday on Sunday, August 23rd.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august23.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jessie's Girl Birthday",
-     "copy": "Happy 77th Birthday to Rick Springfield this Sunday! 'Jessie's Girl' is still a karaoke classic. What's your favourite power pop anthem?",
+     "name": "True Original",
+     "for": "Nation Rocks",
+     "copy": "Wishing a very Happy Birthday to Shaun Ryder this Friday! A true icon of British music.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "14:30",
      "tags": [
-      "#RickSpringfield"
+      "#HappyMondays"
      ]
     }
    ]
