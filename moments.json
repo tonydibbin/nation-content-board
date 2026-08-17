@@ -1,33 +1,56 @@
 {
- "updated": "2026-08-17T00:26:57.538Z",
+ "updated": "2026-08-17T02:11:30.236Z",
  "moments": [
   {
    "id": "premier-league-kickoff",
    "off": 4,
    "type": "sport",
    "hot": true,
-   "title": "Premier League 2026/27 Kicks Off",
-   "blurb": "The new Premier League season begins this Friday with a packed weekend of fixtures across the UK.",
+   "title": "Premier League Returns",
+   "blurb": "The 2026/27 Premier League season kicks off this weekend, with Arsenal v Coventry City on Friday, and Hull City v Manchester United among Saturday's fixtures.",
    "source": {
     "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/fixtures"
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Anticipation",
-     "copy": "It's almost here! The 2026/27 Premier League season kicks off this Friday. What game are you most looking forward to?",
+     "name": "Kick-off excitement",
+     "for": "",
+     "copy": "The whistle blows! Premier League 2026/27 season is officially underway this weekend. Who are you backing for the title?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "08:00",
      "tags": [
@@ -35,34 +58,109 @@
      ]
     },
     {
-     "name": "Weekend Fixtures",
-     "copy": "Your weekend plans are sorted! Premier League football returns with matches from Friday through Sunday. Who are you backing?",
+     "name": "Weekend fixtures spotlight",
+     "for": "",
+     "copy": "Football is back! Your weekend plans are sorted with Premier League action kicking off. Hull City vs Man Utd, Arsenal vs Coventry... get ready!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "10:30",
      "tags": [
-      "#FootballIsBack"
+      "#PLKickOff"
      ]
     }
    ]
   },
   {
-   "id": "the-hundred-results",
-   "off": -1,
+   "id": "efl-fixtures-cardiff-wrexham",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "The Hundred 2026 Crowns Champions",
-   "blurb": "The Hundred cricket season concluded yesterday with the men's and women's finals at Lord's, seeing Manchester Super Giants and Trent Rockets lift the trophies.",
+   "title": "EFL Action: Cardiff vs Wrexham",
+   "blurb": "Cardiff City host newly promoted Wrexham in an EFL fixture tonight, closing out the opening weekend of the EFL season.",
    "source": {
-    "l": "The Hundred Official Site",
-    "u": "https://www.thehundred.com/"
+    "l": "EFL Official Site",
+    "u": "https://www.efl.com/fixtures-and-results/"
    },
    "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Derby Day anticipation",
+     "for": "welsh-local",
+     "copy": "Tonight's the night! Cardiff City take on Wrexham in a huge EFL clash. Who's bringing home the points in this Welsh derby?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#WelshFootball"
+     ]
+    },
+    {
+     "name": "Wrexham's big test",
+     "for": "dragon",
+     "copy": "Wrexham face a big test tonight against Cardiff City in the EFL. Can the Red Dragons upset the odds?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:30",
+     "tags": [
+      "#WrexhamAFC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "we-out-here-festival",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "We Out Here Festival Begins",
+   "blurb": "Gilles Peterson's We Out Here Festival, celebrating soul, hip hop, house, afro, electronica, and jazz, kicks off in Dorset from August 20-23. The festival is officially sold out.",
+   "source": {
+    "l": "We Out Here Festival",
+    "u": "https://weoutherefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
     {
      "g": "nation-network",
      "sub": ""
@@ -70,54 +168,126 @@
    ],
    "angles": [
     {
-     "name": "Finals Recap",
-     "copy": "What a weekend for cricket! The Hundred 2026 finals delivered thrilling action as the Manchester Super Giants and Trent Rockets were crowned champions. Did your team win?",
+     "name": "Festival vibes start",
+     "for": "",
+     "copy": "We Out Here Festival is almost here! Get ready for four days of incredible music and good vibes in Dorset, starting Thursday. Who's got their tickets?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "09:30",
+     "time": "11:00",
      "tags": [
-      "#TheHundred"
+      "#WeOutHere"
      ]
     },
     {
-     "name": "Winning Teams",
-     "copy": "Huge congratulations to the Manchester Super Giants (men's) and Trent Rockets (women's) on their Hundred 2026 victories! Relive the highlights.",
+     "name": "Sold out success",
+     "for": "nation-network",
+     "copy": "It's a sell-out! We Out Here Festival is ready to bring the best in soul, jazz & dance to Dorset this weekend. Festival season is in full swing!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#Cricket"
+      "#FestivalSeason"
      ]
     }
    ]
   },
   {
-   "id": "all-points-east-2026",
-   "off": 4,
+   "id": "green-man-festival",
+   "off": 3,
    "type": "gig",
    "hot": true,
-   "title": "All Points East Festival Begins",
-   "blurb": "London's All Points East festival kicks off this Friday at Victoria Park, featuring headline sets from Lorde, Tyler, The Creator and more over two weekends.",
+   "title": "Green Man Festival",
+   "blurb": "The Green Man Festival, nestled in the Brecon Beacons, Wales, runs from August 20-23, offering a blend of music, arts, and family-friendly activities. The festival is sold out.",
    "source": {
-    "l": "All Points East Official",
-    "u": "https://www.allpointseastfestival.com/"
+    "l": "Green Man Festival",
+    "u": "https://www.greenman.net/"
    },
    "fits": [
     {
-     "g": "nation-network",
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
      "sub": ""
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": "Nation Radio Wales"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh festival excitement",
+     "for": "nation-network",
+     "copy": "Green Man Festival is back this Thursday! The Brecon Beacons will be buzzing with music, arts, and good times. Who's heading to Wales for the weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#GreenManFestival"
+     ]
+    },
+    {
+     "name": "Sold out Welsh gem",
+     "for": "dragon",
+     "copy": "Another sold-out year for Green Man! Starting Thursday, it's set to be an incredible weekend in the heart of the Brecon Beacons. Enjoy the magic, Wales!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#GreenMan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trentham-live",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Trentham Live Festival",
+   "blurb": "Trentham Live, a four-day music festival, takes place at The Trentham Estate in Staffordshire from August 20-23.",
+   "source": {
+    "l": "Trentham Live",
+    "u": "https://www.trentham.co.uk/events/trentham-live/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio West Midlands"
     },
     {
      "g": "decades-genres",
@@ -130,45 +300,360 @@
    ],
    "angles": [
     {
-     "name": "Festival Fever",
-     "copy": "All Points East is almost here! London's Victoria Park transforms into a festival site this weekend. Who are you most excited to see?",
+     "name": "Staffordshire's big gig",
+     "for": "nation-network",
+     "copy": "Trentham Live kicks off Thursday! Four days of fantastic music at The Trentham Estate. Who are you excited to see?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#AllPointsEast"
+      "#TrenthamLive"
      ]
     },
     {
-     "name": "London Calling",
-     "copy": "If you're in London, All Points East starts this Friday! Lorde, Tyler, The Creator and loads more. Get ready!",
+     "name": "Live music in the Midlands",
+     "for": "nation-network",
+     "copy": "Staffordshire, get ready! Trentham Live is bringing the noise this weekend. Perfect for a summer festival experience.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#APELondon"
+      "#MidlandsMusic"
      ]
     }
    ]
   },
   {
-   "id": "reading-leeds-2026",
+   "id": "official-singles-chart-rein-me-in",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "UK No.1 Single: Sam Fender & Olivia Dean",
+   "blurb": "Sam Fender & Olivia Dean hold the top spot on the UK Official Singles Chart (August 14-19, 2026) with 'REIN ME IN'.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart topper celebration",
+     "for": "",
+     "copy": "Still reigning supreme! Sam Fender & Olivia Dean are holding strong at UK No.1 with 'REIN ME IN'. What a track!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Weekend soundtrack",
+     "for": "decades-genres",
+     "copy": "Your weekend soundtrack just got confirmed: 'REIN ME IN' by Sam Fender & Olivia Dean is still the UK's No.1! Tune in and turn it up.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SamFender"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "julian-casablancas-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Julian Casablancas' 48th Birthday",
+   "blurb": "Julian Casablancas, frontman of The Strokes, turns 48 on August 23rd. He was born in 1978.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strokes legend birthday",
+     "for": "decades-genres",
+     "copy": "Happy 48th Birthday to The Strokes' iconic frontman, Julian Casablancas! Still making 'Is This It' sound fresh.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#JulianCasablancas"
+     ]
+    },
+    {
+     "name": "Indie icon celebration",
+     "for": "decades-genres",
+     "copy": "Wishing a very Happy 48th Birthday to Julian Casablancas! What's your favourite Strokes track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#TheStrokes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shaun-ryder-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Shaun Ryder's 64th Birthday",
+   "blurb": "Shaun Ryder, the legendary frontman of Happy Mondays and Black Grape, turns 64 on August 23rd. He was born in 1962.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Madchester icon birthday",
+     "for": "decades-genres",
+     "copy": "Get your baggy trousers on! Happy 64th Birthday to the one and only Shaun Ryder of Happy Mondays and Black Grape fame. A true legend!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ShaunRyder"
+     ]
+    },
+    {
+     "name": "Happy Mondays celebration",
+     "for": "decades-genres",
+     "copy": "Wishing a very Happy 64th Birthday to the inimitable Shaun Ryder! What's your favourite Happy Mondays anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#HappyMondays"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rick-springfield-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Rick Springfield's 77th Birthday",
+   "blurb": "Australian pop-rock icon Rick Springfield, known for 'Jessie's Girl', turns 77 on August 23rd. He was born in 1949.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Rick_Springfield"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s pop-rock hero",
+     "for": "decades-genres",
+     "copy": "Don't wish you had 'Jessie's Girl' – wish Rick Springfield a very Happy 77th Birthday! A true 80s icon.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RickSpringfield"
+     ]
+    },
+    {
+     "name": "Classic hitmaker",
+     "for": "decades-genres",
+     "copy": "Happy 77th Birthday to the legendary Rick Springfield! Still rockin' after all these years. What's your favourite hit from him?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#JessiesGirl"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bobby-g-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Bobby G's 73rd Birthday",
+   "blurb": "Bobby G, member of the Eurovision-winning group Bucks Fizz, turns 73 on August 23rd. He was born in 1953.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Bobby_G"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Eurovision star birthday",
+     "for": "decades-genres",
+     "copy": "Making your mind up for a birthday wish? Happy 73rd Birthday to Bobby G from the iconic Bucks Fizz!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BucksFizz"
+     ]
+    },
+    {
+     "name": "Pop legend celebration",
+     "for": "decades-genres",
+     "copy": "Wishing a very Happy 73rd Birthday to Bobby G! A true pop legend who brought us some unforgettable hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#BobbyG"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edwyn-collins-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Edwyn Collins' 67th Birthday",
+   "blurb": "Scottish singer-songwriter Edwyn Collins, known for his work with Orange Juice and solo hit 'A Girl Like You', turns 67 on August 23rd. He was born in 1959.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Edwyn_Collins"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Indie icon's special day",
+     "for": "decades-genres",
+     "copy": "A very Happy 67th Birthday to the brilliant Edwyn Collins! From Orange Juice to solo success, a true music innovator.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#EdwynCollins"
+     ]
+    },
+    {
+     "name": "Girl Like You hitmaker",
+     "for": "decades-genres",
+     "copy": "Wishing a Happy 67th to Edwyn Collins! The voice behind 'A Girl Like You' and so many more fantastic tracks. What's your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#OrangeJuice"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-festival-countdown",
    "off": 10,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festival Countdown",
-   "blurb": "The UK's iconic Reading & Leeds Festivals are just over a week away, with headliners like Charli XCX, Chase & Status, and Florence + The Machine.",
+   "title": "Reading & Leeds Festivals Next Week",
+   "blurb": "The iconic Reading & Leeds Festivals take place next week, from August 27-30, marking the UK's August Bank Holiday weekend with a massive lineup.",
    "source": {
-    "l": "Reading & Leeds Official",
+    "l": "Reading & Leeds Festivals",
     "u": "https://www.readingfestival.com/"
    },
    "fits": [
@@ -178,603 +663,41 @@
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
      "sub": "Nation Radio London"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Festival Buzz",
-     "copy": "It's nearly time for Reading & Leeds! The countdown is on for the bank holiday weekend. Who's got their tickets?",
+     "name": "Bank Holiday festival buzz",
+     "for": "nation-network",
+     "copy": "Less than a week to go until Reading & Leeds! Who's ready for the biggest Bank Holiday weekend festival in the UK?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#RandL26"
      ]
     },
     {
-     "name": "Headliner Hype",
-     "copy": "Reading & Leeds Festival is bringing the noise with Charli XCX, Chase & Status, Florence + The Machine and more. Who are your must-see acts?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ReadingAndLeeds"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-rein-me-in",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean Make Chart History",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' holds the UK Number 1 spot for a record-breaking 21st non-consecutive week on the Official Singles Chart.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Record",
-     "copy": "History made! Sam Fender & Olivia Dean's 'Rein Me In' is Number 1 for an incredible 21st week – the longest-running UK Number 1 ever! Have you heard it?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Still Dominant",
-     "copy": "Still at the top! 'Rein Me In' by Sam Fender & Olivia Dean continues its reign. What an achievement!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#NumberOne"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-madonna-kylie",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Madonna & Kylie Minogue in Top 10",
-   "blurb": "Madonna and Kylie Minogue's collaboration 'Love Sensation' has debuted at Number 8 on the Official UK Singles Chart.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Royalty",
-     "copy": "Queens of Pop unite! Madonna & Kylie Minogue's 'Love Sensation' is a brand new Top 10 hit. Are you loving this collaboration?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#MadonnaKylie"
-     ]
-    },
-    {
-     "name": "New Entry",
-     "copy": "Massive new entry on the chart! Madonna and Kylie Minogue's 'Love Sensation' debuts at Number 8. What a track!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#LoveSensation"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing-lineup",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing Line-up Complete",
-   "blurb": "The full celebrity line-up for Strictly Come Dancing 2026 was completed on August 12, ahead of the launch show in September.",
-   "source": {
-    "l": "BBC",
-    "u": "https://www.bbc.co.uk/strictly"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly Stars",
-     "copy": "The Strictly Come Dancing 2026 line-up is officially complete! Who are you excited to see hit the dancefloor this autumn?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#Strictly"
-     ]
-    },
-    {
-     "name": "Anticipation",
-     "copy": "With the full Strictly line-up revealed, the glitterball countdown officially begins! Who do you think will win this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#Strictly2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bake-off-nigella",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Nigella Lawson Joins Bake Off",
-   "blurb": "Nigella Lawson has been confirmed as a new judge for The Great British Bake Off 2026, joining Paul Hollywood in the tent.",
-   "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off News",
-     "copy": "Breaking news from the tent! Nigella Lawson is joining The Great British Bake Off as a new judge. Are you excited for her debut?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "New Judge",
-     "copy": "Nigella Lawson in the Bake Off tent? Yes please! Get ready for some deliciously witty critiques this September.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "big-brother-returns",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Big Brother 2026 Launching Soon",
-   "blurb": "Big Brother is set to return on ITV2 and ITVX this September, with the new eye logo revealed and a reported launch date of September 13.",
-   "source": {
-    "l": "ITV",
-    "u": "https://www.itv.com/bigbrother"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Big Brother Eye",
-     "copy": "The Big Brother eye has been revealed! The iconic reality show returns this September. Who's ready for some drama?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#BigBrotherUK"
-     ]
-    },
-    {
-     "name": "September Launch",
-     "copy": "Mark your calendars! Big Brother is reportedly launching on September 13th. What are your predictions for this series?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#BB2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "summer-bank-holiday",
-   "off": 14,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Summer Bank Holiday Approaches",
-   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland is just two weeks away, falling on Monday, August 31st.",
-   "source": {
-    "l": "GOV.UK",
-    "u": "https://www.gov.uk/bank-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Long Weekend Prep",
-     "copy": "Two weeks until the Summer Bank Holiday! How are you planning to make the most of the long weekend?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#BankHoliday"
-     ]
-    },
-    {
-     "name": "August Plans",
-     "copy": "That last bank holiday of summer is nearly here (August 31st)! What's on your agenda for the extra day off?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#SummerVibes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-dennis-elliott",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Dennis Elliott (Foreigner) Turns 76",
-   "blurb": "Dennis Elliott, the original drummer for rock legends Foreigner, celebrates his 76th birthday tomorrow.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Dennis_Elliott"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend",
-     "copy": "Happy 76th birthday to Dennis Elliott, the powerhouse drummer from Foreigner! What's your favourite Foreigner track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Foreigner"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-mika",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Mika Turns 43",
-   "blurb": "British singer-songwriter Mika, known for hits like 'Grace Kelly' and 'Relax, Take It Easy', celebrates his 43rd birthday tomorrow.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/mika.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Star Birthday",
-     "copy": "Sending birthday wishes to Mika, who turns 43 tomorrow! What's your go-to Mika song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Mika"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-robert-plant",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Robert Plant Turns 78",
-   "blurb": "The legendary voice of Led Zeppelin, Robert Plant, celebrates his 78th birthday this Thursday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Robert_Plant"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Icon",
-     "copy": "Happy 78th birthday to the one and only Robert Plant! What's your favourite Led Zeppelin anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#RobertPlant"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-dua-lipa",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Dua Lipa Turns 31",
-   "blurb": "Global pop superstar Dua Lipa celebrates her 31st birthday this Sunday.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/dua-lipa.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Queen",
-     "copy": "Future Nostalgia Queen! Dua Lipa turns 31 this Sunday. What's your favourite track from her?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DuaLipa"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-tori-amos",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Tori Amos Turns 63",
-   "blurb": "Acclaimed singer-songwriter and alt-rock icon Tori Amos celebrates her 63rd birthday this Sunday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Tori_Amos"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Alt-Rock Icon",
-     "copy": "Happy 63rd birthday to the incredible Tori Amos this Sunday! Which of her powerful songs resonates most with you?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ToriAmos"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-roland-orzabal",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Roland Orzabal (Tears for Fears) Turns 66",
-   "blurb": "Roland Orzabal, co-founder and lead vocalist of Tears for Fears, celebrates his 66th birthday this Sunday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Roland_Orzabal"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Legend",
-     "copy": "Shout out to Roland Orzabal from Tears for Fears, who turns 66 this Sunday! What's your favourite song from the iconic duo?",
+     "name": "Lineup anticipation",
+     "for": "decades-genres",
+     "copy": "The countdown is on for Reading & Leeds! Get ready for a huge weekend of music across both sites. What acts are you most excited for?",
      "channels": [
       "instagram",
       "facebook",
@@ -782,122 +705,108 @@
      ],
      "time": "14:00",
      "tags": [
-      "#TearsForFears"
+      "#ReadingFestival"
      ]
     }
    ]
   },
   {
-   "id": "birthday-julian-casablancas",
-   "off": 6,
-   "type": "birthday",
+   "id": "victorious-festival-countdown",
+   "off": 11,
+   "type": "gig",
    "hot": true,
-   "title": "Julian Casablancas (The Strokes) Turns 48",
-   "blurb": "Julian Casablancas, frontman of indie rock band The Strokes, celebrates his 48th birthday this Monday.",
+   "title": "Victorious Festival Approaching",
+   "blurb": "Victorious Festival, located in Portsmouth, is set for the August Bank Holiday weekend, running from August 28-30.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Julian_Casablancas"
+    "l": "Victorious Festival",
+    "u": "https://www.victoriousfestival.co.uk/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": "Nation Radio South"
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Indie Icon",
-     "copy": "Happy 48th birthday to Julian Casablancas from The Strokes this Monday! Which of their tracks gets you moving?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#TheStrokes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-shaun-ryder",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shaun Ryder (Happy Mondays) Turns 64",
-   "blurb": "Happy Mondays and Black Grape frontman Shaun Ryder celebrates his 64th birthday this Monday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shaun_Ryder"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Madchester Legend",
-     "copy": "Happy 64th birthday to the one and only Shaun Ryder this Monday! What's your favourite Happy Mondays or Black Grape classic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ShaunRyder"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-lianne-la-havas",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Lianne La Havas Turns 37",
-   "blurb": "British folk and soul singer-songwriter Lianne La Havas celebrates her 37th birthday this Monday.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/lianne-la-havas.html"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Soulful Birthday",
-     "copy": "Wishing a very happy 37th birthday to the incredibly talented Lianne La Havas this Monday! What's your favourite track from her?",
+     "name": "Portsmouth festival buzz",
+     "for": "nation-network",
+     "copy": "Victorious Festival is just around the corner! Get ready for an amazing Bank Holiday weekend by the sea in Portsmouth.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "10:00",
      "tags": [
-      "#LianneLaHavas"
+      "#VictoriousFestival"
+     ]
+    },
+    {
+     "name": "Last chance for tickets",
+     "for": "nation-network",
+     "copy": "Planning your Bank Holiday? Victorious Festival is happening next weekend in Portsmouth! Don't miss out on the fun.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Portsmouth"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday-weather",
+   "off": 14,
+   "type": "seasonal",
+   "hot": true,
+   "title": "August Bank Holiday Weather Outlook",
+   "blurb": "The August Bank Holiday weekend (August 29-31, 2026) is approaching, with typical mild to warm UK weather expected, including sunny spells and a chance of showers.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bank Holiday forecast check",
+     "for": "",
+     "copy": "The August Bank Holiday is just two weeks away! Time to start planning those long weekend activities. What's the weather looking like for you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "Making the most of the long weekend",
+     "for": "",
+     "copy": "Sun or showers, we're ready for the August Bank Holiday! How are you planning to make the most of the extra long weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#UKWeather"
      ]
     }
    ]
