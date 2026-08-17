@@ -1,33 +1,83 @@
 {
- "updated": "2026-08-17T06:26:34.172Z",
+ "updated": "2026-08-17T07:40:54.287Z",
  "moments": [
   {
-   "id": "cardiff-wrexham-derby",
+   "id": "premier-league-kickoff",
+   "off": 4,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Kicks Off 2026/27 Season",
+   "blurb": "The new Premier League season begins this weekend with a host of exciting fixtures across Friday, Saturday, Sunday and Monday, including newly promoted Coventry City facing champions Arsenal.",
+   "source": {
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "General Excitement",
+     "copy": "The wait is over! The Premier League is BACK this weekend. Who are you backing for glory, and who's in for a shocker on opening day?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Promoted Teams",
+     "copy": "Welcome to the big time! Newly promoted Coventry City kick off their Premier League campaign against champions Arsenal on Friday. Ipswich Town and Hull City also begin their top-flight journeys. Massive weekend ahead!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PLKickOff"
+     ]
+    },
+    {
+     "name": "Key Fixtures",
+     "copy": "Arsenal vs Coventry, Hull vs Man Utd, Newcastle vs Liverpool... the Premier League opening weekend has some crackers! What's your must-watch match?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#FootballIsBack"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "efl-championship-wrexham-cardiff",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Cardiff City vs Wrexham Championship Opener",
-   "blurb": "An all-Welsh Championship derby kicks off the season as newly-promoted Cardiff City host Wrexham at Cardiff City Stadium tonight.",
+   "title": "EFL Championship: Wrexham vs Cardiff City",
+   "blurb": "Wrexham face fellow Welsh club Cardiff City in the EFL Championship tonight, marking a significant early season clash for both teams.",
    "source": {
-    "l": "OneFootball",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp2wtnNfoc1EP7oTCbINz9Zy_KMiuUmoUy7idGmcNFwbpkTnGZthiasornqAl445UzohXCezRIuzX-MTq8On0hOzOgwwZjKs_AJosiL1qQz8YuN0jq6H5bi4JUBCpBQCNAk6UJQzYcE-dRiwUgBEHXrixRAJlSvV1Af0pWwLg_oqJnndM5nyMA4zSeGiMiWPX6RinB5r-rvZAe-ejhUAhmA68nPjNTXvVPawxSwar8YR0Yc1wUKRi1QWbu"
+    "l": "Sky Sports",
+    "u": "https://www.skysports.com/football/championship-fixtures"
    },
    "fits": [
     {
      "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
+     "sub": ""
     },
     {
      "g": "dragon",
@@ -35,50 +85,54 @@
     },
     {
      "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Radio Wales"
     }
    ],
    "angles": [
     {
-     "name": "Match Hype",
-     "copy": "Cardiff City vs Wrexham! It's an all-Welsh Championship opener tonight at Cardiff City Stadium. Who are you backing for the first points of the season?",
+     "name": "Welsh Derby Today",
+     "copy": "It's a huge Welsh derby tonight in the Championship! Wrexham host Cardiff City. Who are you rooting for? Kick-off at 8pm.",
      "channels": [
+      "instagram",
       "facebook",
       "x",
-      "instagram",
       "threads"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#CardiffCity",
-      "#WrexhamAFC"
+      "#WRECAR #EFLChampionship"
      ]
     },
     {
-     "name": "Local Derby Buzz",
-     "copy": "Derby Day in the Championship! Cardiff City and Wrexham go head-to-head tonight. Expect fireworks and passion as these Welsh rivals clash.",
+     "name": "Local Pride",
+     "copy": "The battle for Welsh bragging rights! Wrexham and Cardiff City go head-to-head in the Championship tonight. Get behind your team!",
      "channels": [
-      "x",
+      "instagram",
       "facebook",
-      "instagram"
+      "x",
+      "threads"
      ],
-     "time": "17:00",
+     "time": "18:00",
      "tags": [
-      "#WelshDerby"
+      "#WelshFootball"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-kickoff",
-   "off": 4,
+   "id": "efl-championship-weekend",
+   "off": 5,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Season Kicks Off",
-   "blurb": "The 2026/27 Premier League season officially begins this Friday, August 21st, with Arsenal hosting newly-promoted Coventry City.",
+   "title": "EFL Championship Matches This Weekend",
+   "blurb": "The EFL Championship continues this Saturday, August 22nd, with a full slate of fixtures including Swansea vs Sheff Utd and Derby vs Cardiff.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHobKdShrLq-pAvigQsV0HxnFhOnfLD8L5spSNr09hbCLWm6WvuE1gGxdDh7fC2nCWu7AecqWLgD-lAgKjdbrbO_tK7IvgQWkNQFMbHgq5PEzIrkL2OS0e2_oDjQUxI8o_YkhpQUp2k0q-GIjVXE11KU6mRyOgf0utftiWUCWjFsFSDi4IzFsJCHKyacPlCCGoTwiAd-spX5w"
+    "l": "The Guardian",
+    "u": "https://www.theguardian.com/football/championship/fixtures"
    },
    "fits": [
     {
@@ -86,154 +140,59 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Opening Weekend Hype",
-     "copy": "It's almost here! The Premier League returns this Friday. Arsenal kick things off against Coventry City. Who are you tipping for glory this season?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Promoted Teams Challenge",
-     "copy": "Coventry City, Hull City, and Ipswich Town all begin their Premier League journey this weekend. Can they cause an upset in their opening fixtures?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#PLKickOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-rein-me-in",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean Eye 21st Week at No.1",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' is still dominating the UK Singles Chart, chasing an incredible 21st non-consecutive week at number one.",
-   "source": {
-    "l": "Music Week",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3W0AjAVH7F7CAtouARtyH180lW7oAlV47_JtozdlC34PaE--qynx3YoxipJh5hGEyKxanDZ4G0D0Xp7TbQRzu5jFoxKBl0-lWvyWW0IPXmdlS0Yl8tT0aA5AHfuOhpKdTkDvRWhKIWbfbGCOBFuFwzga7RD8h0hH27TkPGwmWNStQIb891EihanGh5h8-zLe2_UTf"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
+     "g": "welsh-local",
      "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Radio Wales"
     }
    ],
    "angles": [
     {
-     "name": "Chart Domination",
-     "copy": "Unstoppable! Sam Fender & Olivia Dean are still holding strong at UK No.1 with 'Rein Me In', eyeing a monumental 21st week at the top! Is it one of the greatest chart runs ever?",
+     "name": "Championship Saturday",
+     "copy": "Another big weekend in the Championship! Saturday sees Swansea take on Sheffield United, plus Cardiff City are away at Derby. Who's picking up crucial early points?",
      "channels": [
+      "instagram",
       "facebook",
       "x",
-      "instagram",
       "threads"
      ],
      "time": "09:00",
      "tags": [
-      "#UKCharts"
+      "#EFLChampionship"
      ]
     },
     {
-     "name": "Record Breaker",
-     "copy": "Could 'Rein Me In' make history this week? Sam Fender & Olivia Dean are on track for their 21st week at No.1. That's some serious staying power!",
+     "name": "Midlands vs Wales",
+     "copy": "Cardiff City travel to Derby on Saturday for their second match of the Championship season. Can they grab an away win?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
      "time": "11:00",
      "tags": [
-      "#SamFender",
-      "#OliviaDean"
+      "#CardiffCity"
      ]
     }
    ]
   },
   {
-   "id": "katseye-chart-debut",
-   "off": 0,
-   "type": "culture",
+   "id": "madonna-birthday",
+   "off": -1,
+   "type": "birthday",
    "hot": true,
-   "title": "KATSEYE Eyeing First UK Top 10",
-   "blurb": "Pop group KATSEYE are looking to secure their first ever UK Top 10 single with 'Animal', while 'Hootie Frutti' is this week's highest new entry.",
+   "title": "Madonna Turned 68 Yesterday",
+   "blurb": "The undisputed Queen of Pop, Madonna, celebrated her 68th birthday yesterday, August 16th.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrjZamICxuruMBqjzrvxT-5LwsE-cT1JO8mRyM7u0V5PO_aIWktIWccdVN-lChFXP7YZGAC5CvEO2raaJMXhEC0vYmGuHD-rXp2po4w4PlRS46mkoe8XPy2oejD2qefiCBtvhWzFdHLeQj6Iings8fHXvgM4b7wggiCESVnP1_CSTnM0ZFV5HthnI0LSFYKnKJcajlRyygWXTY"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Pop On The Block",
-     "copy": "New music alert! KATSEYE are making waves on the UK charts, with 'Animal' set to be their first Top 10 hit. Have you heard their new EP 'WILD' yet?",
-     "channels": [
-      "tiktok",
-      "instagram",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#KATSEYE",
-      "#NewMusic"
-     ]
-    },
-    {
-     "name": "Chart Climbers",
-     "copy": "KATSEYE are climbing fast! 'Animal' could break into the Top 10, and 'Hootie Frutti' is the highest new entry this week. Big things for the pop group!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "madonna-kylie-love-sensation",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Madonna & Kylie Minogue Collab in Top 10",
-   "blurb": "Pop icons Madonna and Kylie Minogue have teamed up for 'Love Sensation', which debuted at No.8 on the UK Singles Chart last week, marking a significant return for both.",
-   "source": {
-    "l": "Wikipedia (UK Top 10 Singles)",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnGHgxBY6Js80OSMB_mVjJFII4ad9AWw58XrVWtBNbYRHA4-0F-ANOy-pL14l00coOdUZ-G2tIWNibUqt0_TK4YyC39Qpxza0XcKt5SFQ3ZeuV2HnNmhwjJqSvyrKE_OpECtc4KPD92N09myJ02Cgf8cajY7MNP3hdvQ=="
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Madonna"
    },
    "fits": [
     {
@@ -246,463 +205,38 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Royalty",
-     "copy": "Two legends unite! Madonna and Kylie Minogue's 'Love Sensation' hit the Top 10 last week. What a collaboration!",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Madonna",
-      "#KylieMinogue"
-     ]
-    },
-    {
-     "name": "Chart Comeback",
-     "copy": "Madonna and Kylie are back in the Top 10 with 'Love Sensation'! Who else loves seeing these pop queens on the charts?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ariana-grande-o2-residency",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Ariana Grande's O2 Arena Residency Continues",
-   "blurb": "Ariana Grande's 'Eternal Sunshine Tour' continues its ten-night residency at London's O2 Arena this week, with dates on August 19, 20, 23, 24, 27, and 28.",
-   "source": {
-    "l": "London Theatreland",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-jPnwSeNqqw9X7iiL10UBkI1EnaRmnfUUMGFX1G5Vy60-KEaz5ClO-adticwfSMtg92FuGz-dDbH9oelq-suumf_Ul1lPGNT3C3DHKHjtuqHtI85PZK5XG5JpPaJlcFD8E3rxPtFf3tiV_gU5Zup0crqluw-2vNtqdDE"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "London Calling Arianators",
-     "copy": "London Arianators, assemble! Ariana Grande's 'Eternal Sunshine Tour' residency at the O2 continues this week. Who's got tickets?",
+     "name": "Queen of Pop's Birthday",
+     "copy": "Still reinventing and reigning supreme! The iconic Madonna celebrated her 68th birthday yesterday. What's your favourite Madonna era or track?",
      "channels": [
       "instagram",
+      "facebook",
+      "x",
       "tiktok",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ArianaGrande",
-      "#EternalSunshine"
-     ]
-    },
-    {
-     "name": "Biggest Gig In Town",
-     "copy": "Still buzzing from Ariana Grande at the O2? Her epic residency continues with multiple dates this week. The pop event of the summer!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#TheO2"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-weeknd-wembley-finale",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "The Weeknd's Wembley Residency Ends This Week",
-   "blurb": "The Weeknd's record-breaking 'After Hours Til Dawn' tour concludes its five-night Wembley Stadium run with its final show on Wednesday, August 19th.",
-   "source": {
-    "l": "Time Out London",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFZpxtoTj1PwvtlWDTThvCNtOOYQq9knEk8kr5bE-EjfM-1muSJWL5DuYrTrah6V6efXz3pWY6HzRgqHzxpIBcdFQ1_xz6HG5iXUWQxZNIRx1T6qgRn7X_rdZoVQONNdHkGsg1TZ3pc75DFzUPVQxLvZ6oYRmPDeeJiaW4gV-LWnxvMJpq4XzzBg"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wembley Farewell",
-     "copy": "Last chance to see The Weeknd at Wembley! His 'After Hours Til Dawn' tour wraps up its incredible run this Wednesday. Who's been?",
-     "channels": [
-      "instagram",
-      "x",
-      "facebook"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#TheWeeknd",
-      "#Wembley"
-     ]
-    },
-    {
-     "name": "R&B Stadium Tour",
-     "copy": "The biggest R&B stadium tour in history concludes its London leg this week. The Weeknd has truly delivered at Wembley!",
-     "channels": [
-      "tiktok",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#AfterHoursTilDawn"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "beautiful-days-festival",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "Beautiful Days Festival Returns to Devon",
-   "blurb": "The family-friendly Beautiful Days festival takes place this weekend, August 21-23, at Escot Park in Ottery St Mary, Devon.",
-   "source": {
-    "l": "Music Festival Wizard",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzNgK51p-tOFN9gFoQWmLBl4xbsSeuj8Kler19z90hSBzbmJvyLrGLqCoNBovRsWq6Z843QbfMllpoZMiqhiET_tDVcGVTpMJ7EnBgLZhD6UjX3ukud0WPXE0cJSop_EscCl19Q0EUw-cnQ1Q6ryaxLAyLojZnE4ijJw"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Devon Festival Fun",
-     "copy": "Beautiful Days Festival is back in Devon this weekend! Who's heading to Escot Park for three days of music and good vibes?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#BeautifulDays",
-      "#Devon"
-     ]
-    },
-    {
-     "name": "Local Festival Buzz",
-     "copy": "Excitement building for Beautiful Days in Ottery St Mary! Get ready for a fantastic weekend of music right here in Devon.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ExeterEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "we-out-here-festival",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "We Out Here Festival Kicks Off in Dorset",
-   "blurb": "Gilles Peterson's award-winning We Out Here Festival, celebrating world-class music across genres, is sold out and runs August 20-23 in Wimborne St Giles, Dorset.",
-   "source": {
-    "l": "We Out Here Festival Official Site",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6F-PaNVoEVpvM4Aqnj3tJXqExGgMw5nBKpMZZ-hjtyjqAr5nHJeC-XVwBb1N5sf-AyGjU4g9wzNDKzjqXJEZ_74l-6Ir49-4FDlQ5p5hcPKq14ekSl7g4"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dorset Festival Vibes",
-     "copy": "We Out Here Festival is just days away! Gilles Peterson's incredible celebration of music in Dorset is sold out and ready to go. Who's lucky enough to be heading there?",
-     "channels": [
-      "instagram",
-      "x",
-      "facebook"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#WeOutHere",
-      "#Festival"
-     ]
-    },
-    {
-     "name": "Sold Out Success",
-     "copy": "It's a sell-out! We Out Here Festival brings its unique blend of soul, hip hop, house and jazz to Dorset from Thursday. Get ready for the sounds!",
-     "channels": [
-      "facebook",
-      "tiktok"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#GillesPeterson"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "all-points-east-festival",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "All Points East Returns to Victoria Park",
-   "blurb": "All Points East festival brings a stellar line-up including Jorja Smith, Lorde, and Tyler, The Creator to Victoria Park, London, across two weekends, starting August 21st.",
-   "source": {
-    "l": "Time Out London",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5vFsea7qvalhMGpMMVm39CrrsOLkjSfmZzRBwpphvGoYjV8yktF91_rbA6zDVdThaop-sdu1Jbr7w_Fe8NthH8quRTtV5MT5xzzV6KH8i3RS1hpKoonMYw0hnda7zsIpQcY9gVY1RNfhbC-qmv-TVrT5ZblE0OrJI"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "East London Festival",
-     "copy": "All Points East is back this Friday! Victoria Park in London is set to host an incredible line-up across two weekends. Who are you most excited to see?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#AllPointsEast",
-      "#LondonMusic"
-     ]
-    },
-    {
-     "name": "Diverse Lineup",
-     "copy": "From Jorja Smith to Tyler, The Creator – All Points East delivers a diverse lineup for music lovers. Get ready for the festival vibes!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#APEFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "belinda-carlisle-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Belinda Carlisle Turns 68",
-   "blurb": "Happy 68th birthday to the iconic lead singer of The Go-Go's and successful solo artist, Belinda Carlisle, born today in 1958.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Belinda_Carlisle"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Icon Birthday",
-     "copy": "Celebrating the fabulous Belinda Carlisle, who turns 68 today! From The Go-Go's to 'Heaven Is a Place on Earth', what's your favourite hit?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#BelindaCarlisle",
-      "#80sMusic"
-     ]
-    },
-    {
-     "name": "Go-Go's Legend",
-     "copy": "Happy birthday to the legend that is Belinda Carlisle! Still looking and sounding amazing at 68. Feel-good vibes all day!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TheGoGos"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "donny-osmond-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Donny Osmond Celebrates 69th Birthday",
-   "blurb": "Happy 69th birthday to beloved singer, actor, and TV personality Donny Osmond, born today in 1957.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Donny_Osmond"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Idol Birthday",
-     "copy": "Wishing a very happy 69th birthday to the one and only Donny Osmond! From teen idol to Las Vegas legend, what's your top Donny track?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
+      "threads"
      ],
      "time": "09:00",
      "tags": [
-      "#DonnyOsmond",
-      "#ClassicPop"
+      "#Madonna"
      ]
     },
     {
-     "name": "Osmonds Star",
-     "copy": "Happy 69th to Donny Osmond! Still got it. Relive some classic Osmonds hits today!",
+     "name": "Enduring Influence",
+     "copy": "From 'Like A Virgin' to 'Hung Up', Madonna has shaped pop music for decades. Happy 68th to the one and only Queen of Pop!",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "tiktok"
+      "tiktok",
+      "threads"
      ],
      "time": "13:00",
      "tags": [
-      "#TheOsmonds"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "john-deacon-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Queen's John Deacon Turns 75",
-   "blurb": "Wishing a very happy 75th birthday to the legendary bassist of Queen, John Deacon, born on August 19, 1951.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/John_Deacon"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Royalty Birthday",
-     "copy": "Happy 75th birthday to Queen's incredible bassist, John Deacon! The man behind some of their most iconic basslines. What's your favourite Queen song he wrote?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#JohnDeacon",
-      "#Queen"
-     ]
-    },
-    {
-     "name": "Queen Bassist",
-     "copy": "Celebrating the songwriting genius and steady rhythm of John Deacon, who turns 75 on Wednesday. A true rock legend!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#RockMusic"
+      "#QueenOfPop"
      ]
     }
    ]
@@ -712,8 +246,8 @@
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Robert Plant Celebrates 78th Birthday",
-   "blurb": "Happy 78th birthday to the iconic voice of Led Zeppelin and acclaimed solo artist, Robert Plant, born on August 20, 1948.",
+   "title": "Robert Plant Turns 78",
+   "blurb": "Legendary Led Zeppelin frontman Robert Plant celebrates his 78th birthday on August 20th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Robert_Plant"
@@ -725,52 +259,102 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation 60s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Led Zeppelin Legend",
-     "copy": "Happy 78th birthday to the one and only Robert Plant! The golden god of rock still sounds incredible. What's your favourite Led Zeppelin track?",
+     "name": "Rock Icon's Birthday",
+     "copy": "Happy 78th birthday this Thursday to the iconic voice of Led Zeppelin, Robert Plant! What's your ultimate Plant vocal moment?",
      "channels": [
+      "instagram",
       "facebook",
       "x",
-      "instagram"
+      "threads"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#RobertPlant",
-      "#LedZeppelin"
+      "#RobertPlant #LedZeppelin"
      ]
     },
     {
-     "name": "Rock Icon",
-     "copy": "Wishing a very happy 78th birthday to Robert Plant! His voice defined a generation. Crank up some Zeppelin today!",
+     "name": "Golden God",
+     "copy": "From the thunderous highs of 'Immigrant Song' to his incredible solo work, Robert Plant is a true rock legend. Wishing him a very happy 78th birthday on August 20th!",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#RockNRoll"
+      "#RockLegend"
      ]
     }
    ]
   },
   {
-   "id": "liam-payne-birthday",
-   "off": 4,
+   "id": "andrew-garfield-birthday",
+   "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Liam Payne Turns 33",
-   "blurb": "Happy 33rd birthday to former One Direction star and solo artist Liam Payne, born on August 21, 1993.",
+   "title": "Andrew Garfield Turns 43",
+   "blurb": "Award-winning British-American actor Andrew Garfield, known for roles in 'Spider-Man' and 'The Social Network', celebrates his 43rd birthday on August 20th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Liam_Payne"
+    "u": "https://en.wikipedia.org/wiki/Andrew_Garfield"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Spidey",
+     "copy": "He's won awards, he's saved the world (a few times!). Andrew Garfield turns 43 this Thursday. What's your favourite Andrew Garfield role?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#AndrewGarfield"
+     ]
+    },
+    {
+     "name": "Versatile Actor",
+     "copy": "From intense dramas to blockbuster superhero flicks, Andrew Garfield always delivers. Wishing the Epsom-raised actor a very happy 43rd birthday on August 20th!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#HappyBirthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "demi-lovato-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Demi Lovato Turns 34",
+   "blurb": "Pop superstar Demi Lovato celebrates their 34th birthday on August 20th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Demi_Lovato"
    },
    "fits": [
     {
@@ -784,280 +368,167 @@
    ],
    "angles": [
     {
-     "name": "One Direction Birthday",
-     "copy": "Happy 33rd birthday to Liam Payne! From One Direction superstardom to his solo career, what's your favourite Liam moment?",
+     "name": "Pop Star Birthday",
+     "copy": "From Disney star to pop powerhouse, Demi Lovato turns 34 this Thursday! What's your go-to Demi track?",
      "channels": [
+      "instagram",
       "facebook",
       "x",
-      "instagram"
+      "tiktok",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#LiamPayne",
-      "#OneDirection"
+      "#DemiLovato"
      ]
     },
     {
-     "name": "Pop Star Birthday",
-     "copy": "Wishing a great 33rd birthday to Liam Payne on Friday! Still making great music. What's your top track from him?",
+     "name": "Still Confident",
+     "copy": "Happy 34th birthday to the incredible Demi Lovato on August 20th! Their music has inspired so many. Celebrate with your favourite song!",
      "channels": [
+      "instagram",
+      "facebook",
+      "x",
       "tiktok",
-      "x"
+      "threads"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#PopMusic"
+      "#HappyBirthdayDemi"
      ]
     }
    ]
   },
   {
-   "id": "gene-simmons-birthday",
-   "off": 8,
+   "id": "dua-lipa-birthday",
+   "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "KISS's Gene Simmons Turns 77",
-   "blurb": "Happy 77th birthday to the legendary 'Demon' of KISS, Gene Simmons, born on August 25, 1949.",
+   "title": "Dua Lipa Turns 31",
+   "blurb": "Global pop sensation Dua Lipa, known for hits like 'Levitating' and 'New Rules', celebrates her 31st birthday on August 22nd.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
+    "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Rock Legend Birthday",
-     "copy": "Happy 77th birthday to the one and only Gene Simmons! The KISS 'Demon' is still rocking. What's your favourite KISS anthem?",
+     "name": "Future Nostalgia Birthday",
+     "copy": "Get ready to dance! The fantastic Dua Lipa turns 31 this Saturday. What's the Dua Lipa song that always gets you moving?",
      "channels": [
+      "instagram",
       "facebook",
       "x",
-      "instagram"
+      "tiktok",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#GeneSimmons",
-      "#KISS"
+      "#DuaLipa"
      ]
     },
     {
-     "name": "God of Thunder",
-     "copy": "Wishing a very happy 77th birthday to Gene Simmons! From epic stage shows to timeless rock, he's a true original.",
+     "name": "Pop Superstar",
+     "copy": "From 'New Rules' to 'Radical Optimism', Dua Lipa continues to dominate the charts. Wishing her a very happy 31st birthday on August 22nd!",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "tiktok"
+      "tiktok",
+      "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#RockAndRoll"
+      "#HappyBirthdayDuaLipa"
      ]
     }
    ]
   },
   {
-   "id": "shirley-manson-birthday",
-   "off": 9,
-   "type": "birthday",
+   "id": "end-of-summer-holidays",
+   "off": 14,
+   "type": "seasonal",
    "hot": true,
-   "title": "Shirley Manson Celebrates 60th Birthday",
-   "blurb": "Happy 60th birthday to the iconic lead singer of Garbage, Shirley Manson, born on August 26, 1966.",
+   "title": "End of Summer Holidays / Back to School",
+   "blurb": "While Scottish schools have largely returned, the rest of the UK is gearing up for the end of the summer holidays and the return to school in early September.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
+    "l": "UK School Holidays",
+    "u": "https://www.icelolly.com/blog/uk-school-holidays-and-half-term-dates"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "nation-network",
+     "sub": ""
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "90s Icon Birthday",
-     "copy": "Happy 60th birthday to the incredible Shirley Manson! The voice of Garbage and a true 90s icon. What's your favourite Garbage track?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ShirleyManson",
-      "#Garbage"
-     ]
+     "sub": "Nation Radio Scotland"
     },
     {
-     "name": "Rock Goddess",
-     "copy": "Wishing a very happy 60th birthday to Shirley Manson! Still fierce, still fabulous. Celebrate with some classic Garbage today!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#90sRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-city-vs-accrington",
-   "off": 5,
-   "type": "sport",
-   "hot": true,
-   "title": "Exeter City Host Accrington Stanley",
-   "blurb": "Exeter City play their first home league game of the season this Saturday, August 22nd, welcoming Accrington Stanley to St James Park.",
-   "source": {
-    "l": "Exeter City FC Official Site",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtKUYnfB6jhBDPfSpWzs-j3wMwpD2CBdnal5006vUKWrv4Z2F5Svy9v3VwYsAnSLUOmw3rqbmsTnOVVI3lPpZ2EBbqrmiTH3PyVfBQ7L_3Pa3y-7HGCk_gpfD7OzeycWo96zs"
-   },
-   "fits": [
+     "g": "welsh-local",
+     "sub": ""
+    },
     {
      "g": "radio-exe",
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Home Opener Hype",
-     "copy": "Exeter City are back at St James Park this Saturday for their first home league game! Who's heading down to cheer on the Grecians against Accrington Stanley?",
+     "name": "Scotland Back to School",
+     "for": "Nation Radio Scotland",
+     "copy": "Bags packed, pencils sharpened! Most Scottish schools are back in session this week. How was your summer, and how's that first week back feeling?",
      "channels": [
+      "instagram",
       "facebook",
       "x",
-      "instagram"
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#BackToSchoolScotland"
+     ]
+    },
+    {
+     "name": "Last Week of Freedom (England/Wales/NI)",
+     "copy": "The final countdown! For many in England, Wales, and Northern Ireland, this is the last week of the summer holidays before schools return in early September. Making the most of it?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
      ],
      "time": "11:00",
      "tags": [
-      "#ECFC",
-      "#ExeterCity"
+      "#SummerHolidays #BackToSchool"
      ]
     },
     {
-     "name": "League Two Action",
-     "copy": "Big game for Exeter City this weekend! After a tough start, can they get three points at home against Accrington? Get behind the team!",
+     "name": "Devon School Returns",
+     "for": "radio-exe",
+     "copy": "Enjoying the last few days of freedom? Devon schools are preparing to welcome students back in early September. What's on your end-of-summer bucket list?",
      "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LeagueTwo"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "swansea-city-vs-sheff-utd",
-   "off": 5,
-   "type": "sport",
-   "hot": true,
-   "title": "Swansea City Host Sheffield United",
-   "blurb": "Swansea City play their first home Championship match of the season this Saturday, August 22nd, against Sheffield United.",
-   "source": {
-    "l": "Swansea City AFC NewsNow",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG61EK7UmgROGlymnSYjBXqxhUcrtVvAnpizUJuKQu9RIPLZVzSbNxY_lxuWjSYQrrluQoRvNFOd6SC1zo1f9_GWVo9LWONS2kWhhA_FefaqW8g4WWH6q5o4SCPkOml7k5HvT04NDgjH1Miov3OmxoXbDX6FV-In7OF3fPsqrU"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Swans Home Opener",
-     "copy": "The Swans are back at home this Saturday! Swansea City take on Sheffield United in their first Championship match at the Swansea.com Stadium. Come on you Swans!",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Swans",
-      "#SwanseaCity"
-     ]
-    },
-    {
-     "name": "Championship Clash",
-     "copy": "Huge Championship game for Swansea City this weekend against Sheffield United. Can they bounce back with a win at home?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Championship"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "august-bank-holiday-uk",
-   "off": 14,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August Bank Holiday Approaching",
-   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland is just two weeks away, falling on Monday, August 31st, marking the unofficial end of summer.",
-   "source": {
-    "l": "GOV.UK",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOnY9PTv72QBmrWvoEfXiwZ05edfH8b3OIPBOJU065C9jUHthGP0VsG3Mm19OWQ_pinThWNcruYcVWv7JQSx68xlHr8k2ygPQ3FtvKQSl6ojTFSyzoNAgk-zU"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Long Weekend Countdown",
-     "copy": "Two weeks until the August Bank Holiday! Who's already planning their long weekend getaway for August 31st? Last chance for a summer escape!",
-     "channels": [
-      "facebook",
-      "x",
       "instagram",
+      "facebook",
+      "x",
       "threads"
      ],
-     "time": "09:00",
+     "time": "13:00",
      "tags": [
-      "#BankHoliday",
-      "#Summer"
-     ]
-    },
-    {
-     "name": "End of Summer Vibes",
-     "copy": "That bittersweet feeling! The August Bank Holiday is on the horizon, marking the unofficial end of summer for many. How are you spending it?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#AugustBankHoliday"
+      "#DevonSchools #SummerBreak"
      ]
     }
    ]
