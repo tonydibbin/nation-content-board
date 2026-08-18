@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-18T10:15:26.729Z",
+ "updated": "2026-08-18T11:13:54.858Z",
  "moments": [
   {
    "id": "premier-league-kickoff",
    "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "Premier League 2026/27 Kicks Off",
-   "blurb": "The new Premier League season begins this Friday, with defending champions Arsenal hosting newly promoted Coventry City in the opening match.",
+   "title": "Premier League Kicks Off",
+   "blurb": "The 2026/27 Premier League season begins this Friday, August 21st, with Arsenal hosting newly promoted Coventry City in the opening match.",
    "source": {
     "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com"
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
@@ -40,7 +40,7 @@
    ],
    "angles": [
     {
-     "name": "Opening Weekend Buzz",
+     "name": "Opening Weekend Excitement",
      "copy": "Football's back! The Premier League season kicks off this Friday. Who are you backing for the title this year?",
      "channels": [
       "instagram",
@@ -55,7 +55,23 @@
     },
     {
      "name": "Coventry's Return",
-     "copy": "After 25 years, Coventry City are back in the Premier League! They face champions Arsenal on Friday night. Huge moment for the Sky Blues.",
+     "for": "nation-network",
+     "copy": "After 25 years, Coventry City are back in the Premier League! They face champions Arsenal on opening night. Big ask!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#CoventryCity"
+     ]
+    },
+    {
+     "name": "Local Teams in Action",
+     "for": "welsh-local",
+     "copy": "The Premier League returns this weekend! Who will you be supporting, and can we see some Welsh talent shine this season?",
      "channels": [
       "instagram",
       "facebook",
@@ -64,12 +80,63 @@
      ],
      "time": "11:00",
      "tags": [
-      "#PUSB"
+      "#WelshFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-festival",
+   "off": 9,
+   "type": "gig",
+   "hot": true,
+   "title": "Reading & Leeds Festival",
+   "blurb": "Reading & Leeds Festival returns from August 27th to 30th, promising a massive bank holiday weekend of music across both sites.",
+   "source": {
+    "l": "Reading & Leeds Festival Official",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "copy": "Only 9 days until Reading & Leeds Festival kicks off! Who's heading to Richfield Avenue or Bramham Park for the bank holiday weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#RandL26"
      ]
     },
     {
-     "name": "Weekend Fixtures Preview",
-     "copy": "Beyond Friday's opener, the Premier League weekend sees Man Utd, Liverpool, Chelsea, and Man City all in action. Which game are you most excited for?",
+     "name": "Bank Holiday Plans",
+     "for": "nation-network",
+     "copy": "Festival season wraps up for many with Reading & Leeds next weekend. What are your bank holiday plans?",
      "channels": [
       "instagram",
       "facebook",
@@ -78,272 +145,44 @@
      ],
      "time": "14:00",
      "tags": [
-      "#EPL"
+      "#AugustBankHoliday"
      ]
     }
    ]
   },
   {
-   "id": "community-shield-review",
-   "off": -2,
-   "type": "sport",
-   "hot": true,
-   "title": "Community Shield Aftermath",
-   "blurb": "Manchester City defeated Arsenal in the Community Shield in Cardiff on Sunday, securing the first silverware of the 2026/27 season.",
-   "source": {
-    "l": "BBC Sport",
-    "u": "https://www.bbc.co.uk/sport"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "First Trophy Won",
-     "copy": "The Community Shield is in the bag! What a start to the season for Manchester City after their win over Arsenal in Cardiff.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#CommunityShield"
-     ]
-    },
-    {
-     "name": "Cardiff Hosts Big Game",
-     "copy": "Cardiff played host to the Community Shield on Sunday, bringing a major curtain-raiser to Principality Stadium. Great to see top-flight football in Wales!",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "edinburgh-fringe-2026",
+   "id": "official-singles-chart",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "Edinburgh Fringe Festival Ongoing",
-   "blurb": "The world's largest arts festival, the Edinburgh Fringe, continues until August 31st, bringing thousands of performers and shows to Scotland's capital.",
+   "title": "Official Singles Chart & Trending",
+   "blurb": "Sam Fender & Olivia Dean hold strong at Number 1 on the Official Singles Chart, while Madonna & Kylie Minogue enter the Top 10. KATSEYE leads the Official Trending Chart with 'Animal'.",
    "source": {
-    "l": "Edinburgh Fringe Official Site",
-    "u": "https://www.edfringe.com/"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fringe Fever",
-     "copy": "Edinburgh is alive with the sound of laughter, music, and drama! The Fringe Festival is in full swing until the end of the month.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#EdinburghFringe"
-     ]
-    },
-    {
-     "name": "Scotland's Cultural Hub",
-     "copy": "From comedy to cabaret, theatre to dance, the Edinburgh Fringe is showcasing incredible talent across the city. What's been your highlight so far?",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "green-man-festival-2026",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Green Man Festival Kicks Off",
-   "blurb": "The Green Man Festival, a beloved independent music and arts festival in the Brecon Beacons, Wales, runs from August 20th to 23rd.",
-   "source": {
-    "l": "Green Man Festival Official Site",
-    "u": "https://www.greenman.net/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Indie"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Green Man Begins",
-     "copy": "Get ready for some magic! Green Man Festival opens its gates in the beautiful Brecon Beacons this Thursday. Who's heading to Wales for the weekend?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#GreenMan2026"
-     ]
-    },
-    {
-     "name": "Welsh Festival Vibes",
-     "copy": "The Brecon Beacons will be buzzing with music, arts, and good vibes as Green Man Festival kicks off on Thursday. Wishing everyone a legendary weekend!",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "we-out-here-festival-2026",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "We Out Here Festival Underway",
-   "blurb": "Gilles Peterson's We Out Here Festival, celebrating world-class music, wellness, and culture, takes place in Wimborne St Giles, Dorset, from August 20th to 23rd.",
-   "source": {
-    "l": "We Out Here Festival Official Site",
-    "u": "https://weoutherefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dorset Groove",
-     "copy": "We Out Here Festival starts this Thursday in Dorset! Get ready for four days of incredible music, good food, and great vibes curated by Gilles Peterson.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#WeOutHere"
-     ]
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
-     "name": "Sold Out Success",
-     "copy": "It's a sold-out success for We Out Here Festival! If you're lucky enough to be heading to Dorset this weekend, prepare for an unforgettable experience.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#FestivalLife"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "arctangent-festival-2026",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "ArcTanGent Festival Begins",
-   "blurb": "The ArcTanGent Festival, known for its focus on experimental rock and metal, runs from August 19th to 22nd in Compton Martin, Somerset.",
-   "source": {
-    "l": "ArcTanGent Official Site",
-    "u": "https://arctangent.co.uk/"
-   },
-   "fits": [
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Alt-Rock Alert",
-     "copy": "ArcTanGent Festival kicks off tomorrow in Somerset! Three days of the best in experimental rock and metal are about to descend.",
+     "name": "Chart Toppers",
+     "copy": "Sam Fender & Olivia Dean are still at Number 1! Who's your favourite on the Official Singles Chart right now?",
      "channels": [
       "instagram",
       "facebook",
@@ -352,160 +191,28 @@
      ],
      "time": "12:00",
      "tags": [
-      "#ATGFestival"
+      "#UKChart"
      ]
     },
     {
-     "name": "Metal Mayhem",
-     "copy": "Calling all rock and metal fans! ArcTanGent is here, bringing a heavy lineup to Somerset from Wednesday. Who are you most hyped to see?",
+     "name": "Pop Royalty Team Up",
+     "for": "decades-genres",
+     "copy": "Madonna and Kylie Minogue together in the Top 10! 'Love Sensation' is giving us all the pop royalty vibes.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "17:00",
+     "time": "15:00",
      "tags": [
-      "#RockMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-voice-uk-returns",
-   "off": 4,
-   "type": "tv",
-   "hot": true,
-   "title": "The Voice UK Returns to ITV1",
-   "blurb": "A new series of The Voice UK, the popular singing competition, premieres on ITV1 this Saturday, August 22nd at 7pm.",
-   "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/hub/the-voice-uk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Voice Season",
-     "copy": "The spinning chairs are back! The Voice UK returns for a brand new series this Saturday on ITV1 at 7pm. Who's ready for some incredible voices?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#TheVoiceUK"
+      "#MadonnaKylie"
      ]
     },
     {
-     "name": "Saturday Night TV",
-     "copy": "Your Saturday night TV just got a boost! The Voice UK is back this weekend. Who do you think will be on the coaching panel this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#WeekendTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "liam-howlett-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Liam Howlett (The Prodigy) Turns 55",
-   "blurb": "Liam Howlett, co-founder and mastermind of electronic music pioneers The Prodigy, celebrates his 55th birthday on August 21st.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/liam-howlett.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Prodigy Legend's Birthday",
-     "copy": "Firestarter! Liam Howlett of The Prodigy turns 55 this Friday. What's your favourite track from the electronic trailblazers?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#TheProdigy"
-     ]
-    },
-    {
-     "name": "Still a Force",
-     "copy": "Happy 55th to Liam Howlett, the driving force behind The Prodigy! His influence on dance and rock music is undeniable.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#LiamHowlett"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "serj-tankian-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Serj Tankian (System Of A Down) Turns 59",
-   "blurb": "Serj Tankian, the iconic lead vocalist of System Of A Down, celebrates his 59th birthday this Friday, August 21st.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/serj-tankian.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "SOAD Frontman's Day",
-     "copy": "Happy 59th birthday to the one and only Serj Tankian from System Of A Down this Friday! What's your go-to SOAD anthem?",
+     "name": "Trending Tracks",
+     "for": "decades-genres",
+     "copy": "KATSEYE's 'Animal' is dominating the Trending Chart, plus Tame Impala and Steve Lacy are surging thanks to 'Spiderman: Brand New Day'. What's your top trending track?",
      "channels": [
       "instagram",
       "facebook",
@@ -515,141 +222,296 @@
      ],
      "time": "10:00",
      "tags": [
-      "#SerjTankian"
+      "#TrendingChart"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "bake-off-buzz",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off Anticipation",
+   "blurb": "The Great British Bake Off is set to return to Channel 4 in September, with Nigella Lawson joining as a new judge alongside Paul Hollywood, Alison Hammond, and Noel Fielding.",
+   "source": {
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/tv/entertainment/reality-tv/great-british-bake-off-2026-release-date/"
+   },
+   "fits": [
     {
-     "name": "Metal Legend",
-     "copy": "Celebrating Serj Tankian's 59th this Friday! The voice behind System Of A Down's biggest hits, still rocking strong.",
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off Returns",
+     "copy": "Get ready, Bake Off is back next month! Nigella Lawson joins the tent as a new judge. Who's excited for soggy bottoms and showstoppers?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "16:30",
+     "time": "09:30",
      "tags": [
-      "#SystemOfADown"
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "Nigella in the Tent",
+     "copy": "Nigella Lawson as a Bake Off judge – what a brilliant addition! We can't wait to see her bring her warmth and wit to the tent.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#NigellaBakeOff"
      ]
     }
    ]
   },
   {
-   "id": "kelis-birthday",
-   "off": 3,
-   "type": "birthday",
+   "id": "strictly-come-dancing-buzz",
+   "off": 0,
+   "type": "tv",
    "hot": true,
-   "title": "Kelis Turns 47",
-   "blurb": "Grammy-nominated R&B and soul singer Kelis, known for hits like 'Milkshake' and 'Caught Out There', celebrates her 47th birthday on August 21st.",
+   "title": "Strictly Come Dancing Pre-Season Buzz",
+   "blurb": "Strictly Come Dancing is building excitement for its September launch with new hosts Emma Willis, Josh Widdicombe, Johannes Radebe, and an announced celebrity line-up including Melanie Walters and John Nellis.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/kelis.html"
+    "l": "Wales Online",
+    "u": "https://www.walesonline.co.uk/whats-on/tv/bbc-strictly-2026-rumoured-start-29683935"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "nation-network",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "g": "welsh-local",
+     "sub": "Bridge FM"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Kelis's Birthday Vibes",
-     "copy": "My milkshake brings all the boys to the yard... because it's Kelis's 47th birthday this Friday! What's your favourite track from the R&B queen?",
+     "name": "Strictly Stars Unveiled",
+     "copy": "The Strictly Come Dancing line-up is officially out! Who are you most excited to see hit the dancefloor this September?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "11:00",
      "tags": [
-      "#Kelis"
+      "#Strictly2026"
      ]
     },
     {
-     "name": "R&B Icon",
-     "copy": "Wishing a very happy 47th birthday to the incredible Kelis this Friday, August 21st. Her music always gets us moving!",
+     "name": "Welsh Talent on Strictly",
+     "for": "welsh-local",
+     "copy": "Our very own Melanie Walters from Gavin & Stacey is joining Strictly! We'll be cheering her on every week!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "14:00",
+     "time": "12:30",
      "tags": [
-      "#RNB"
+      "#MelanieWalters",
+      "#Strictly"
      ]
     }
    ]
   },
   {
-   "id": "kacey-musgraves-birthday",
-   "off": 3,
+   "id": "august-bank-holiday",
+   "off": 13,
+   "type": "seasonal",
+   "hot": true,
+   "title": "August Bank Holiday Approaches",
+   "blurb": "The August Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31st, marking a three-day weekend for many and the traditional Notting Hill Carnival in London.",
+   "source": {
+    "l": "Time and Date",
+    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Long Weekend Plans",
+     "copy": "Who's already planning their August Bank Holiday weekend? Only 13 days to go until that much-needed long weekend!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "Notting Hill Carnival",
+     "for": "nation-network",
+     "copy": "London is gearing up for Notting Hill Carnival over the Bank Holiday weekend! Get ready for incredible music, costumes, and culture.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#NottingHillCarnival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dua-lipa-birthday",
+   "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Kacey Musgraves Turns 38",
-   "blurb": "Grammy-winning country and pop star Kacey Musgraves, known for her critically acclaimed albums, celebrates her 38th birthday on August 21st.",
+   "title": "Dua Lipa's Birthday",
+   "blurb": "Pop superstar Dua Lipa turns 31 on August 22nd.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/kacey-musgraves.html"
+    "u": "https://www.famousbirthdays.com/people/dua-lipa.html"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Country Star's Birthday",
-     "copy": "Happy 38th birthday to the brilliant Kacey Musgraves this Friday! What's your favourite song from the 'Golden Hour' singer?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#KaceyMusgraves"
-     ]
-    },
-    {
-     "name": "Modern Country Icon",
-     "copy": "Celebrating Kacey Musgraves turning 38 this Friday! An artist who consistently pushes boundaries and delivers amazing music.",
+     "name": "Celebrating Dua Lipa",
+     "copy": "Future Nostalgia Queen Dua Lipa turns 31 this Saturday! What's your favourite track from her?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "17:30",
+     "time": "09:00",
      "tags": [
-      "#CountryMusic"
+      "#DuaLipa"
      ]
     }
    ]
   },
   {
-   "id": "glenn-hughes-birthday",
-   "off": 3,
+   "id": "elvis-costello-birthday",
+   "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Glenn Hughes (Deep Purple) Turns 74",
-   "blurb": "Legendary rock bassist and vocalist Glenn Hughes, known for his work with Deep Purple and Black Sabbath, celebrates his 74th birthday on August 21st.",
+   "title": "Elvis Costello's Birthday",
+   "blurb": "Influential rock singer-songwriter Elvis Costello turns 72 on August 25th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/glenn-hughes.html"
+    "l": "Infoplease",
+    "u": "https://www.infoplease.com/day/august-25"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Elvis Costello",
+     "copy": "Happy 72nd Birthday to the legendary Elvis Costello on Tuesday! What's his quintessential track for you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ElvisCostello"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gene-simmons-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Gene Simmons' Birthday",
+   "blurb": "Kiss co-founder and bassist Gene Simmons turns 77 on August 25th.",
+   "source": {
+    "l": "Infoplease",
+    "u": "https://www.infoplease.com/day/august-25"
    },
    "fits": [
     {
@@ -659,16 +521,12 @@
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rock Legend's Birthday",
-     "copy": "Happy 74th birthday to the 'Voice of Rock' himself, Glenn Hughes of Deep Purple and Black Sabbath fame, this Friday! What a career!",
+     "name": "Kiss Legend Birthday",
+     "copy": "Rock icon Gene Simmons of Kiss celebrates his 77th birthday on Tuesday! Shout out your favourite Kiss anthem!",
      "channels": [
       "instagram",
       "facebook",
@@ -677,225 +535,47 @@
      ],
      "time": "13:00",
      "tags": [
-      "#GlennHughes"
-     ]
-    },
-    {
-     "name": "Deep Purple Icon",
-     "copy": "Celebrating the incredible talent of Glenn Hughes, who turns 74 this Friday. His basslines and vocals are legendary.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#DeepPurple"
+      "#GeneSimmons",
+      "#Kiss"
      ]
     }
    ]
   },
   {
-   "id": "back-to-school-scotland",
-   "off": -6,
-   "type": "seasonal",
+   "id": "shirley-manson-birthday",
+   "off": 8,
+   "type": "birthday",
    "hot": true,
-   "title": "Scotland Schools Return",
-   "blurb": "Schools across Scotland have largely returned from their summer break this week, with pupils in areas like Glasgow and Edinburgh heading back to classrooms.",
+   "title": "Shirley Manson's Birthday",
+   "blurb": "Garbage frontwoman Shirley Manson turns 60 on August 26th.",
    "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-holiday-dates"
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-august-23-29-2026-c2a4f4d2f07f9c3f19e4879201a08466"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Back to School Scotland",
-     "copy": "It's back to school for many across Scotland this week! Hope everyone had a great summer and is ready for the new term.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#BackToSchoolScotland"
-     ]
-    },
-    {
-     "name": "Summer's End",
-     "copy": "The summer holidays are officially over for Scottish pupils! What's the one thing you're looking forward to (or dreading!) this new school year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ScottishSchools"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-summer-weather",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Continued Warm UK Weather",
-   "blurb": "The UK is expected to see continued above-average temperatures and drier conditions through much of August, particularly in Southern regions.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Summer Sticking Around",
-     "copy": "Looks like summer's not quite done with us yet! Expect more warm weather and sunshine across much of the UK this week.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#UKWeather"
-     ]
-    },
-    {
-     "name": "Devon Sunshine",
-     "copy": "More sunny intervals and mild temperatures are on the cards for Devon this week! Perfect for making the most of the last of the summer.",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "reading-leeds-anticipation",
-   "off": 9,
-   "type": "gig",
-   "hot": true,
-   "title": "Reading & Leeds Festivals Approaching",
-   "blurb": "The twin Reading & Leeds Festivals are set to take place over the August Bank Holiday weekend, from August 27th to 30th, with tickets currently on sale.",
-   "source": {
-    "l": "Reading Festival",
-    "u": "https://www.readingfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Festival Countdown",
-     "copy": "Just over a week until Reading & Leeds Festivals! Who's counting down the days to the August Bank Holiday weekend?",
+     "name": "Celebrating Shirley Manson",
+     "copy": "Happy 60th Birthday to the incredible Shirley Manson of Garbage on Wednesday! What's your go-to Garbage track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Lineup Buzz",
-     "copy": "Reading & Leeds is almost here! With a massive lineup spanning rock, pop, and dance, it's set to be an epic bank holiday. Have you got your tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ReadingFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "battle-atlantic-tv",
-   "off": 2,
-   "type": "tv",
-   "hot": true,
-   "title": "Battle of the Atlantic Docuseries",
-   "blurb": "A new docuseries, 'Battle of the Atlantic: The U-Boat War', offering fresh insights into the naval conflict of WWII, starts streaming this Thursday, August 20th.",
-   "source": {
-    "l": "The British TV Place",
-    "u": "https://thebritishtvplace.com/2026/07/31/british-tv-premieres-august-2026-chelsea-detective-hardacres-undeclared-war-more/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "WWII Docuseries",
-     "copy": "For history buffs: 'Battle of the Atlantic: The U-Boat War' begins streaming this Thursday, shedding new light on the crucial WWII conflict.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#WWIIHistory"
-     ]
-    },
-    {
-     "name": "New Historical Drama",
-     "copy": "Dive deep into a pivotal moment in history. 'Battle of the Atlantic: The U-Boat War' is a must-watch, starting Thursday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Documentary"
+      "#ShirleyManson",
+      "#Garbage"
      ]
     }
    ]
