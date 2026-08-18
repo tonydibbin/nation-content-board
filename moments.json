@@ -1,31 +1,44 @@
 {
- "updated": "2026-08-18T05:18:32.385Z",
+ "updated": "2026-08-18T06:20:10.507Z",
  "moments": [
   {
-   "id": "premier-league-aug21-24",
+   "id": "premier-league-kickoff-26",
    "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Kicks Off Weekend Fixtures",
-   "blurb": "The 2026/27 Premier League season is in full swing with Matchday 1 continuing with a packed schedule of games from Friday, August 21 to Monday, August 24.",
+   "title": "Premier League 2026/27 Kicks Off",
+   "blurb": "The 2026/27 Premier League season begins this Friday, August 21st, with defending champions Arsenal hosting newly promoted Coventry City in the opening fixture.",
    "source": {
     "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/fixtures"
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Weekend Football Fever",
-     "copy": "Premier League is back with a bang! Who's ready for a weekend packed with top-flight football? Arsenal face Coventry, Hull host Man Utd, and Newcastle take on Liverpool. Get your predictions in! #PremierLeague",
+     "name": "Opening Day Excitement",
+     "copy": "New season, new hopes! The Premier League is BACK this Friday. Who are you backing for the title, and which newly promoted side will surprise everyone?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "08:00",
@@ -34,8 +47,22 @@
      ]
     },
     {
-     "name": "Friday Night Kick-off",
-     "copy": "It all starts Friday night as Arsenal host newly-promoted Coventry City at the Emirates! Big start for the Gunners, or a shock on the cards? Tune in from 8 PM. #ARSCFC",
+     "name": "Arsenal's Title Defence",
+     "copy": "Arsenal kick off their title defence at home against Coventry City this Friday. Can they start strong and set the tone for another dominant season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Arsenal"
+     ]
+    },
+    {
+     "name": "Promoted Teams Ready",
+     "copy": "Coventry City, Ipswich Town, and Hull City are back in the Premier League! Get ready for some fresh faces and underdog stories this season. Who's your pick to stay up?",
      "channels": [
       "instagram",
       "facebook",
@@ -43,40 +70,83 @@
      ],
      "time": "15:00",
      "tags": [
-      "#ARSCFC"
-     ]
-    },
-    {
-     "name": "Monday Night Football",
-     "copy": "Wrap up your weekend football with Monday Night Football! Fulham welcome Chelsea to Craven Cottage in a West London derby. Expect fireworks! #FULCHE",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#FULCHE"
+      "#EFL"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-aug22",
-   "off": 4,
-   "type": "culture",
+   "id": "reading-leeds-fest-26",
+   "off": 9,
+   "type": "gig",
    "hot": true,
-   "title": "New Official UK Singles Chart Revealed",
-   "blurb": "The Official UK Singles Chart is refreshed on Friday, August 22, revealing the biggest songs across the country based on sales, downloads, and streams.",
+   "title": "Reading & Leeds Festival 2026",
+   "blurb": "Reading & Leeds Festival takes place from August 27th-30th, featuring headliners like Charli XCX, Dave, Florence + The Machine, Fontaines D.C., Chase & Status Live, and Raye.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Reading & Leeds Festival",
+    "u": "https://www.readingfestival.com/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "copy": "Reading & Leeds is just over a week away! Who are you most excited to see? Charli XCX, Florence + The Machine, Dave... the lineup is stacked!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Florence + The Machine at R&L",
+     "copy": "Florence + The Machine are headlining Reading & Leeds next week! Get ready for some magic under the festival lights. Which song are you hoping to hear?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FlorenceAndTheMachine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "creamfields-26",
+   "off": 9,
+   "type": "gig",
+   "hot": true,
+   "title": "Creamfields 2026 Celebrates 20 Years",
+   "blurb": "Creamfields returns to Daresbury, Cheshire, from August 27th-30th, celebrating its 20th anniversary at the site with a massive lineup including Swedish House Mafia, Calvin Harris, Disclosure, and Becky Hill.",
+   "source": {
+    "l": "Creamfields Official Site",
+    "u": "https://creamfields.com/"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
@@ -88,78 +158,106 @@
    ],
    "angles": [
     {
-     "name": "Chart Countdown Buzz",
-     "copy": "It's almost Friday! That means a brand new Official UK Singles Chart is dropping. What do you think will be this week's Number 1? Any new entries you're rooting for? #OfficialCharts",
+     "name": "Creamfields Anniversary",
+     "copy": "20 years strong in Daresbury! Creamfields is back next week for its anniversary, bringing the biggest names in dance music. Who's ready to hit the fields?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
      "time": "10:00",
+     "tags": [
+      "#Creamfields"
+     ]
+    },
+    {
+     "name": "Dance Music Icons",
+     "copy": "Swedish House Mafia, Calvin Harris, Disclosure, Becky Hill – the Creamfields lineup is legendary! What's your must-see set next weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#DanceMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "us-open-fan-week-26",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "US Open Tennis Fan Week Begins",
+   "blurb": "Fan Week for the US Open tennis tournament officially begins this Sunday, August 23rd, at the USTA Billie Jean King National Tennis Center in New York, offering free grounds admission.",
+   "source": {
+    "l": "US Open Official Site",
+    "u": "https://www.usopen.org/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tennis Season Finale",
+     "copy": "The final Grand Slam of the year is almost here! US Open Fan Week kicks off this Sunday. Who's your pick for the title this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#USOpen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "singles-chart-rein-me-in",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean make chart history",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' has made UK chart history, spending a record-breaking 21st non-consecutive week at No. 1 on the Official Singles Chart.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Record Breakers",
+     "copy": "21 weeks at No. 1! Sam Fender & Olivia Dean have officially made history with 'Rein Me In'. What an incredible achievement! Have you streamed it today?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "07:00",
      "tags": [
       "#OfficialCharts"
      ]
     },
     {
-     "name": "Who's Top of the Pops?",
-     "copy": "The battle for the top spot heats up! The new UK Singles Chart is out this Friday. Will your favourite track make it to Number 1? Or will a new release steal the crown? #MusicChart",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MusicChart"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "john-deacon-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Queen's John Deacon Turns 75",
-   "blurb": "John Deacon, the legendary bassist for Queen, celebrates his 75th birthday on Wednesday, August 19.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/john-deacon.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday John Deacon",
-     "copy": "Wishing a very Happy 75th Birthday to the incredible John Deacon of Queen! The man behind some of the greatest basslines in rock history. What's your favourite Queen track featuring John's iconic work? #JohnDeacon #Queen",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Queen"
-     ]
-    },
-    {
-     "name": "Bass Legend at 75",
-     "copy": "From 'Another One Bites the Dust' to 'Under Pressure', John Deacon's basslines are unforgettable. Happy 75th Birthday to the quiet genius of Queen! #QueenBassist",
+     "name": "The Reign of Rein Me In",
+     "copy": "Still at the top! 'Rein Me In' by Sam Fender & Olivia Dean just keeps going, breaking records for longest-running No. 1. What makes this track so special?",
      "channels": [
       "instagram",
       "facebook",
@@ -167,146 +265,130 @@
      ],
      "time": "13:00",
      "tags": [
-      "#QueenBassist"
+      "#SamFender"
      ]
     }
    ]
   },
   {
-   "id": "robert-plant-birthday",
-   "off": 2,
-   "type": "birthday",
+   "id": "singles-chart-madonna-kylie",
+   "off": 0,
+   "type": "culture",
    "hot": true,
-   "title": "Led Zeppelin's Robert Plant Turns 78",
-   "blurb": "Robert Plant, the iconic frontman of Led Zeppelin, celebrates his 78th birthday on Thursday, August 20.",
+   "title": "Madonna & Kylie Minogue enter Top 10",
+   "blurb": "Pop legends Madonna and Kylie Minogue have debuted at No. 8 on the Official Singles Chart with their new collaboration 'Love Sensation'.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/robert-plant.html"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Robert Plant",
-     "copy": "Wishing a massive Happy 78th Birthday to the one and only Robert Plant! The golden god of rock, Led Zeppelin's legendary voice. What's your favourite Plant vocal? #RobertPlant #LedZeppelin",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#LedZeppelin"
-     ]
-    },
-    {
-     "name": "Rock Icon at 78",
-     "copy": "The voice that defined a generation! Happy 78th Birthday to Robert Plant. From 'Stairway to Heaven' to his incredible solo work, a true legend. #RockLegend",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#RockLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kelis-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Kelis Turns 47",
-   "blurb": "Grammy-nominated R&B and soul singer Kelis Rogers, known for hits like 'Milkshake' and 'Caught Out There', celebrates her 47th birthday on Friday, August 21.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/kelis.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Kelis",
-     "copy": "Happy 47th Birthday to the iconic Kelis! From 'Caught Out There' to 'Milkshake', her tracks are pure fire. What's your go-to Kelis anthem? #Kelis #HappyBirthdayKelis",
+     "name": "Pop Queen Collab",
+     "copy": "A legendary team-up! Madonna and Kylie Minogue's 'Love Sensation' has landed in the Top 10. Are you loving this iconic collaboration?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:30",
      "tags": [
-      "#Kelis"
+      "#Madonna"
      ]
     },
     {
-     "name": "Kelis's Sound",
-     "copy": "Celebrating Kelis's 47th Birthday today! Her unique blend of R&B, soul, and dance has given us so many unforgettable songs. Time to turn up the volume! #RnbDiva",
+     "name": "Kylie & Madonna Chart Success",
+     "copy": "Two pop icons, one hit! Kylie Minogue and Madonna are back in the Top 10 together. What a moment for pop music!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "14:30",
      "tags": [
-      "#RnbDiva"
+      "#KylieMinogue"
      ]
     }
    ]
   },
   {
-   "id": "dua-lipa-birthday",
-   "off": 4,
-   "type": "birthday",
+   "id": "gbbo-returns-26",
+   "off": 15,
+   "type": "tv",
    "hot": true,
-   "title": "Dua Lipa Celebrates 31st Birthday",
-   "blurb": "Global pop superstar Dua Lipa, known for chart-toppers like 'New Rules' and 'Levitating', turns 31 on Saturday, August 22.",
+   "title": "Great British Bake Off Returns",
+   "blurb": "The Great British Bake Off is set to return to Channel 4 in early September, with filming wrapped and Nigella Lawson joining as a new judge.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/dua-lipa.html"
+    "l": "Channel 4",
+    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Dua Lipa",
-     "copy": "Sending huge Happy 31st Birthday wishes to the incredible Dua Lipa! From 'New Rules' to 'Radical Optimism', she keeps delivering the hits. What's your favourite Dua track? #DuaLipa #HappyBirthdayDuaLipa",
+     "name": "Bake Off Tent Reopens",
+     "copy": "Get ready for soggy bottoms and Hollywood handshakes! The Great British Bake Off is back on Channel 4 next month with a new judge – Nigella Lawson! Who's excited?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "Nigella Joins Bake Off",
+     "copy": "Nigella Lawson in the Bake Off tent?! This changes everything! We can't wait to see what she brings as the new judge. Will you be tuning in?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#NigellaLawson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-come-dancing-26",
+   "off": 32,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing Launch Approaching",
+   "blurb": "The launch show for the 24th series of Strictly Come Dancing was pre-recorded on September 9th and is expected to air on Saturday, September 19th, with new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
+   "source": {
+    "l": "BBC One",
+    "u": "https://www.bbc.co.uk/programmes/b006m8dq"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly's New Era",
+     "copy": "A new era for Strictly! Emma Willis, Josh Widdicombe, and Johannes Radebe are taking over hosting duties. The launch show airs in September – are you ready for the glitterball?",
      "channels": [
       "instagram",
       "facebook",
@@ -314,198 +396,33 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "11:30",
      "tags": [
-      "#DuaLipa"
+      "#Strictly"
      ]
     },
     {
-     "name": "Pop Princess at 31",
-     "copy": "Future Nostalgia Queen! Happy 31st Birthday to Dua Lipa, a true force in pop music. Get ready to dance to her biggest hits today! #PopStar",
+     "name": "Countdown to Strictly",
+     "copy": "The Strictly Come Dancing launch show is just around the corner! Get ready for new celebs, new dances, and a fresh judging panel. Who do you think will lift the trophy this year?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "17:00",
      "tags": [
-      "#PopStar"
+      "#StrictlyComeDancing"
      ]
     }
    ]
   },
   {
-   "id": "roland-orzabal-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Tears for Fears' Roland Orzabal Turns 65",
-   "blurb": "Roland Orzabal, co-founder, guitarist, and primary songwriter for the iconic band Tears for Fears, celebrates his 65th birthday on Saturday, August 22.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/roland-orzabal.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Roland Orzabal",
-     "copy": "Happy 65th Birthday to the brilliant Roland Orzabal of Tears for Fears! The creative force behind timeless hits like 'Everybody Wants To Rule The World' and 'Shout'. What's your favourite TFF song? #RolandOrzabal #TearsForFears",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TearsForFears"
-     ]
-    },
-    {
-     "name": "Tears for Fears' Visionary",
-     "copy": "From 'Mad World' to 'Sowing the Seeds of Love', Roland Orzabal's songwriting is legendary. Wishing him a very Happy 65th Birthday today! #80sMusic",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gene-simmons-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "KISS's Gene Simmons Turns 77",
-   "blurb": "Gene Simmons, the legendary 'Demon' bassist and co-lead singer of KISS, celebrates his 77th birthday on Tuesday, August 25.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/gene-simmons.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Gene Simmons",
-     "copy": "You wanted the best, you got the best! Wishing a fire-breathing Happy 77th Birthday to the one and only Gene Simmons of KISS! What's your favourite KISS anthem? #GeneSimmons #KISS",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#KISS"
-     ]
-    },
-    {
-     "name": "The Demon is 77",
-     "copy": "The iconic 'Demon' of rock, Gene Simmons, is 77 today! Still rocking and rolling all nite. Send your birthday wishes to the KISS legend! #RockAndRollAllNite",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#RockAndRollAllNite"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "elvis-costello-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Elvis Costello Celebrates 72nd Birthday",
-   "blurb": "Influential singer-songwriter Elvis Costello, known for his diverse discography and hits like 'Oliver's Army' and 'Alison', turns 72 on Tuesday, August 25.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/elvis-costello.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Elvis Costello",
-     "copy": "Wishing a very Happy 72nd Birthday to the incomparable Elvis Costello! A true musical chameleon who's given us decades of brilliant songs. What's your all-time favourite? #ElvisCostello #HappyBirthday",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ElvisCostello"
-     ]
-    },
-    {
-     "name": "Musical Chameleon at 72",
-     "copy": "From new wave to country, Elvis Costello has mastered it all. Celebrating his 72nd Birthday today! What's the first song that comes to mind when you think of him? #NewWaveLegend",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#NewWaveLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "august-bank-holiday-prep",
+   "id": "summer-bank-holiday-uk",
    "off": 13,
    "type": "seasonal",
    "hot": true,
-   "title": "August Bank Holiday Weekend Planning",
-   "blurb": "The August Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31, and many people are starting to plan their long weekend getaways.",
+   "title": "Upcoming UK Summer Bank Holiday",
+   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland is on Monday, August 31st, marking the unofficial end of the summer holidays for many.",
    "source": {
     "l": "GOV.UK",
     "u": "https://www.gov.uk/bank-holidays"
@@ -520,40 +437,429 @@
      "sub": ""
     },
     {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
      "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Long Weekend Plans",
-     "copy": "The August Bank Holiday weekend is just around the corner! Who's already planning a getaway, a BBQ with friends, or just a well-deserved lie-in? Tell us your plans! #BankHoliday #LongWeekend",
+     "name": "Bank Holiday Plans",
+     "copy": "Just under two weeks until the Summer Bank Holiday! What are your plans for the long weekend? Making the most of the last blast of summer?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
       "#BankHoliday"
      ]
     },
     {
-     "name": "Making the Most of It",
-     "copy": "Three-day weekend vibes incoming! The August Bank Holiday is on the horizon. What are your top tips for making the most of the extra day off? #AugustBankHoliday",
+     "name": "End of Summer vibes",
+     "copy": "The August Bank Holiday is often seen as the last hurrah of summer. How are you celebrating the long weekend before autumn officially arrives?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "14:00",
      "tags": [
-      "#AugustBankHoliday"
+      "#Summer2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-sarah-brightman",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 66th to Sarah Brightman",
+   "blurb": "Today, August 18th, is the 66th birthday of English soprano, singer, and actress Sarah Brightman, born in 1960.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Sarah_Brightman"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Sarah Brightman Birthday",
+     "copy": "Wishing a very Happy 66th Birthday to the incredible Sarah Brightman today! From West End stages to global tours, her voice is truly iconic. What's your favourite song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "07:30",
+     "tags": [
+      "#SarahBrightman"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-mika",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 43rd to Mika",
+   "blurb": "Today, August 18th, is the 43rd birthday of British singer-songwriter Mika, born in 1983.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mika_(singer)"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Mika Birthday",
+     "copy": "It's a Happy 43rd Birthday to the one and only Mika today! We're still 'Relax, Take It Easy' whenever his tracks come on. What's your favourite Mika hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Mika"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-ian-gillan",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 81st to Ian Gillan",
+   "blurb": "Tomorrow, August 19th, marks the 81st birthday of Ian Gillan, the legendary lead singer of Deep Purple, born in 1945.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ian_Gillan"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Ian Gillan Birthday",
+     "copy": "Rock legend alert! Tomorrow, Ian Gillan of Deep Purple turns 81. His voice is still as powerful as ever! What's your favourite Deep Purple track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#DeepPurple"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-john-deacon",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 75th to John Deacon",
+   "blurb": "Tomorrow, August 19th, is the 75th birthday of John Deacon, the iconic bassist of Queen, born in 1951.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/John_Deacon"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "John Deacon Birthday",
+     "copy": "Wishing a very Happy 75th Birthday for tomorrow to the brilliant John Deacon, bassist for Queen! His basslines are legendary. What's your favourite Queen song he wrote?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Queen"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-robert-plant",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 78th to Robert Plant",
+   "blurb": "On August 20th, the iconic frontman of Led Zeppelin, Robert Plant, celebrates his 78th birthday, born in 1948.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Robert_Plant"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Robert Plant Birthday",
+     "copy": "The golden god of rock, Robert Plant, turns 78 on Wednesday! What's your all-time favourite Led Zeppelin track that showcases his incredible vocals?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#RobertPlant"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-dua-lipa",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 31st to Dua Lipa",
+   "blurb": "This Saturday, August 22nd, marks the 31st birthday of global pop superstar Dua Lipa, born in 1995.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dua Lipa Birthday",
+     "copy": "Get ready to dance! This Saturday, Dua Lipa turns 31! Which of her massive hits will you be spinning to celebrate?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#DuaLipa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-gene-simmons",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 77th to Gene Simmons",
+   "blurb": "Next Monday, August 25th, is the 77th birthday of KISS co-founder and bassist Gene Simmons, born in 1949.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Gene Simmons Birthday",
+     "copy": "Next Monday, the Demon himself, Gene Simmons of KISS, turns 77! What's your favourite KISS anthem that gets you rocking all night?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#KISS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-shirley-manson",
+   "off": 8,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 60th to Shirley Manson",
+   "blurb": "Next Tuesday, August 26th, marks the 60th birthday of Shirley Manson, the iconic lead singer of Garbage, born in 1966.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Shirley Manson Birthday",
+     "copy": "Wishing a very Happy 60th Birthday for next Tuesday to the incredible Shirley Manson from Garbage! Her attitude and vocals are unmatched. What's your favourite Garbage track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Garbage"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-shania-twain",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 61st to Shania Twain",
+   "blurb": "Next Thursday, August 28th, is the 61st birthday of country-pop icon Shania Twain, born in 1965.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Shania Twain Birthday",
+     "copy": "Let's go girls! Next Thursday, Shania Twain turns 61! We're celebrating with all her classic hits. Which one always gets you singing along?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#ShaniaTwain"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-florence-welch",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 40th to Florence Welch",
+   "blurb": "Next Thursday, August 28th, marks the 40th birthday of Florence Welch, the captivating frontwoman of Florence + The Machine, born in 1986.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Florence_Welch"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Florence Welch Birthday",
+     "copy": "Happy 40th Birthday for next Thursday to the incredible Florence Welch! Her voice and stage presence are mesmerising. What's your favourite Florence + The Machine song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#FlorenceAndTheMachine"
      ]
     }
    ]
