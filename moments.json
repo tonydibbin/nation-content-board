@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-18T15:19:27.309Z",
+ "updated": "2026-08-18T18:18:12.340Z",
  "moments": [
   {
-   "id": "premier-league-mw2",
-   "off": 4,
+   "id": "premier-league-kickoff-2026",
+   "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Matchweek 2 Kicks Off",
-   "blurb": "The second round of Premier League fixtures takes place this weekend, with major clashes including Manchester United vs Chelsea and Arsenal vs Liverpool.",
+   "title": "Premier League 26/27 Kicks Off",
+   "blurb": "The 2026/27 Premier League season officially kicks off this Friday, with defending champions Arsenal hosting newly-promoted Coventry City.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/fixtures"
+    "l": "Premier League Official Site / The Standard",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
@@ -22,22 +22,24 @@
      "sub": ""
     },
     {
-     "g": "dragon",
+     "g": "radio-exe",
      "sub": ""
     },
     {
-     "g": "radio-exe",
+     "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Weekend Football Fever",
-     "copy": "Premier League Matchweek 2 is here! Who are you backing for glory this weekend? Expect fireworks at Old Trafford and the Emirates.",
+     "name": "Opening Match Excitement",
+     "copy": "It's almost here! The Premier League season kicks off this Friday with Arsenal taking on newly-promoted Coventry. Who's ready for the drama? #PremierLeague",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "09:00",
      "tags": [
@@ -45,29 +47,45 @@
      ]
     },
     {
-     "name": "Big Game Buzz",
-     "copy": "Man Utd vs Chelsea, Arsenal vs Liverpool. This weekend's Premier League is serving up some serious drama. Predictions?",
+     "name": "New Season, New Hope",
+     "copy": "After a long wait, Premier League football is BACK this Friday! Three new teams are in the mix – Hull City, Coventry, and Ipswich. What are your predictions for the opening weekend?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "tiktok",
+      "threads"
      ],
-     "time": "11:30",
+     "time": "12:00",
      "tags": [
-      "#PL"
+      "#PLKickOff"
+     ]
+    },
+    {
+     "name": "Local Team Interest",
+     "for": "nation-network",
+     "copy": "The new Premier League season starts this Friday! With Hull City, Coventry, and Ipswich Town all promoted, which game are you most looking forward to?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#FootballIsBack"
      ]
     }
    ]
   },
   {
-   "id": "the-hundred-finals",
-   "off": 5,
+   "id": "community-shield-recap",
+   "off": -2,
    "type": "sport",
    "hot": true,
-   "title": "The Hundred Season Nears Finals",
-   "blurb": "Cricket's fast-paced The Hundred tournament continues with crucial group stage matches leading into the finals weekend.",
+   "title": "Arsenal Win Community Shield",
+   "blurb": "Arsenal lifted the Community Shield trophy on Sunday, beating Manchester City 3-0 in a dominant performance at Principality Stadium.",
    "source": {
-    "l": "The Hundred Official Site",
-    "u": "https://www.thehundred.com/"
+    "l": "The Standard / Premier League",
+    "u": "https://www.standard.co.uk/sport/football/arsenal-community-shield-man-city-result-report-b1210217.html"
    },
    "fits": [
     {
@@ -75,47 +93,55 @@
      "sub": ""
     },
     {
-     "g": "radio-exe",
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Cricket Countdown",
-     "copy": "The Hundred is heating up! Who's making it to the finals? Catch the last few group games this week.",
+     "name": "Early Season Statement",
+     "copy": "A huge statement from Arsenal on Sunday, beating Manchester City 3-0 to win the Community Shield! Does this set them up for a strong Premier League campaign?",
      "channels": [
       "instagram",
-      "x"
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "08:00",
      "tags": [
-      "#TheHundred"
+      "#CommunityShield"
      ]
     },
     {
-     "name": "Fast-Paced Cricket",
-     "copy": "Still time to jump on The Hundred bandwagon! Fast, furious, and full of big hits. What's been your favourite moment so far?",
+     "name": "Cardiff Hosts Big Game",
+     "for": "welsh-local",
+     "copy": "Cardiff's Principality Stadium hosted the Community Shield on Sunday, seeing Arsenal beat Man City 3-0! What a start to the football season in Wales.",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#Cricket"
+      "#CardiffFootball"
      ]
     }
    ]
   },
   {
-   "id": "f1-dutch-gp",
-   "off": 5,
-   "type": "sport",
+   "id": "uk-weather-outlook-aug26",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Formula 1 Dutch Grand Prix",
-   "blurb": "The Formula 1 season heads to Zandvoort for the Dutch Grand Prix, with practice and qualifying sessions throughout the weekend, culminating in Sunday's race.",
+   "title": "UK Weather: Warm South, Wet North",
+   "blurb": "The UK is experiencing a mixed bag of weather this week, with warmer, drier conditions expected in the south and south-east, while northern and western areas see more cloud and showers, some potentially heavy.",
    "source": {
-    "l": "Formula 1 Official Site",
-    "u": "https://www.formula1.com/"
+    "l": "Met Office / AccuWeather",
+    "u": "https://www.accuweather.com/en/gb/london/ec4a-2/august-weather/328328"
    },
    "fits": [
     {
@@ -125,320 +151,267 @@
     {
      "g": "radio-exe",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "F1 Zandvoort",
-     "copy": "Orange army assemble! It's the Dutch Grand Prix this weekend. Can anyone stop Max on home turf?",
+     "name": "Sunshine vs Showers",
+     "copy": "Sun's out in the South-East, but don't forget your brolly if you're further North or West! Typical August, keeping us on our toes.",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "instagram"
+      "threads"
      ],
-     "time": "16:00",
+     "time": "07:30",
      "tags": [
-      "#F1"
+      "#UKWeather"
      ]
     },
     {
-     "name": "Grand Prix Weekend",
-     "copy": "Get ready for high-speed action! The Formula 1 Dutch Grand Prix weekend is upon us. Who's your pick for the podium?",
+     "name": "Devon Forecast",
+     "for": "radio-exe",
+     "copy": "Devon, get ready for a mix this week! While the south of the UK sees more warmth, we might catch some of those showers. Fingers crossed for more sunshine!",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#DutchGP"
+      "#DevonWeather"
      ]
     }
    ]
   },
   {
-   "id": "reading-leeds-festival",
-   "off": 4,
-   "type": "gig",
+   "id": "britbox-cooper-fry-vanity-fair",
+   "off": 0,
+   "type": "tv",
    "hot": true,
-   "title": "Reading & Leeds Festival 2026",
-   "blurb": "The iconic Reading & Leeds Festivals return this weekend, August 22nd-24th, with a huge lineup across multiple stages.",
+   "title": "New Dramas on BritBox",
+   "blurb": "BritBox continues its August premieres with the crime drama 'Cooper & Fry' available now, and a new adaptation of 'Vanity Fair' streaming from tomorrow.",
    "source": {
-    "l": "Reading & Leeds Festivals",
-    "u": "https://www.readingfestival.com/"
+    "l": "Brit + Co",
+    "u": "https://www.brit.co/best-britbox-shows-august-2026/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Festival Season Finale",
-     "copy": "Reading & Leeds are HERE! Who are you most excited to see this weekend? Don't forget your wellies!",
+     "name": "New British Crime",
+     "copy": "Your next British crime drama obsession just dropped! 'Cooper & Fry' is streaming now on BritBox. Who's settling in tonight?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "12:00",
+     "time": "18:00",
      "tags": [
-      "#RandL26"
+      "#BritBox"
      ]
     },
     {
-     "name": "Festival Lineup",
-     "copy": "From rock legends to chart-toppers, Reading & Leeds has it all. What's your must-see act of the weekend?",
+     "name": "Classic Adaption",
+     "copy": "Love a period drama? A new adaptation of Thackeray's 'Vanity Fair' arrives on BritBox tomorrow. Rebecca Sharp's ambition knows no bounds!",
      "channels": [
+      "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "15:00",
+     "time": "10:00",
      "tags": [
-      "#ReadingFestival",
-      "#LeedsFestival"
+      "#VanityFair"
      ]
     }
    ]
   },
   {
-   "id": "creamfields-north",
-   "off": 4,
-   "type": "gig",
+   "id": "bday-mika-18aug",
+   "off": 0,
+   "type": "birthday",
    "hot": true,
-   "title": "Creamfields North 2026",
-   "blurb": "The UK's premier electronic music festival, Creamfields North, takes over Daresbury from August 22nd-24th.",
+   "title": "Happy Birthday Mika",
+   "blurb": "Lebanese-British singer-songwriter Mika, known for hits like 'Grace Kelly' and 'Relax, Take It Easy', turns 43 today.",
    "source": {
-    "l": "Creamfields",
-    "u": "https://www.creamfields.com/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/mika.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Mika's Big Day",
+     "copy": "Happy 43rd Birthday to the incredibly talented Mika! What's your favourite track from the 'Grace Kelly' singer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Mika"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-aphex-twin-18aug",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Aphex Twin",
+   "blurb": "Groundbreaking electronic music artist Aphex Twin (Richard David James) celebrates his 55th birthday today.",
+   "source": {
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Aphex_Twin"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Dance Festival Begins",
-     "copy": "Creamfields North is GO! Get ready for a weekend of the biggest names in dance music. Who's hitting the main stage?",
+     "name": "Electronic Icon Turns 55",
+     "copy": "Wishing a very Happy 55th Birthday to the legendary electronic music innovator, Aphex Twin! What track first got you hooked?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
      "time": "13:00",
      "tags": [
-      "#Creamfields"
-     ]
-    },
-    {
-     "name": "Electronic Music Mecca",
-     "copy": "The dance music faithful are descending on Creamfields! What's your essential setlist for the weekend?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#CreamfieldsNorth"
+      "#AphexTwin"
      ]
     }
    ]
   },
   {
-   "id": "official-singles-chart",
-   "off": 3,
-   "type": "culture",
+   "id": "bday-mc-eric-18aug",
+   "off": 0,
+   "type": "birthday",
    "hot": true,
-   "title": "New Official UK Singles Chart Due",
-   "blurb": "The latest Official UK Singles Chart Top 40 will be announced this Friday, revealing the biggest tracks in the country.",
+   "title": "Happy Birthday MC Eric",
+   "blurb": "Cardiff-born rapper MC Eric, known for his work with Technotronic on hits like 'Pump Up the Jam', turns 58 today.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/MC_Eric"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh Rap Legend",
+     "for": "welsh-local",
+     "copy": "Happy 58th Birthday to Cardiff's own MC Eric! From Technotronic to global fame, he helped 'Pump Up the Jam'. What a legend!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#MCEric"
+     ]
+    },
+    {
+     "name": "90s Dance Star",
+     "copy": "Remember 'Pump Up the Jam'? Happy 58th Birthday to MC Eric of Technotronic! Still a massive track!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Technotronic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-ian-gillan-19aug",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Ian Gillan",
+   "blurb": "Deep Purple's iconic frontman Ian Gillan celebrates his 81st birthday tomorrow.",
+   "source": {
+    "l": "Wikipedia / This Day In Music",
+    "u": "https://en.wikipedia.org/wiki/Ian_Gillan"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Rocks"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Chart Race Intensifies",
-     "copy": "Who's going to claim the Official UK Number 1 this Friday? Any new entries you're rooting for?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Your Chart Predictions",
-     "copy": "The next Official Singles Chart is just days away. What's your guess for the Top 3?",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#UKChart"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "great-british-bake-off",
-   "off": 1,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off Returns",
-   "blurb": "The highly anticipated new series of The Great British Bake Off begins tomorrow (Wednesday, August 19th) on Channel 4.",
-   "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Is Back!",
-     "copy": "Get your aprons ready! The Great British Bake Off returns tomorrow. Who's excited for soggy bottoms and showstoppers?",
+     "name": "Rock Legend Turns 81",
+     "copy": "Tomorrow, we're wishing a huge Happy 81st Birthday to the incredible voice of Deep Purple, Ian Gillan! What's your favourite Deep Purple track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "New Bakers Incoming",
-     "copy": "It's almost time for a fresh batch of bakers to enter the tent. What's your favourite ever Bake Off challenge?",
-     "channels": [
-      "x",
-      "facebook"
+      "x"
      ],
      "time": "17:00",
      "tags": [
-      "#BakeOff"
+      "#IanGillan"
      ]
     }
    ]
   },
   {
-   "id": "vigil-series3-premiere",
-   "off": 12,
-   "type": "tv",
-   "hot": true,
-   "title": "Vigil Series 3 Premiere",
-   "blurb": "Suranne Jones and Rose Leslie return in the critically acclaimed thriller Vigil, with Series 3 premiering on BBC One and iPlayer on Sunday, August 30th.",
-   "source": {
-    "l": "BBC",
-    "u": "https://www.bbc.co.uk/programmes/p09h2z6b"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Arctic Thrills Ahead",
-     "copy": "DCI Amy Silva is back! Vigil Series 3 takes us to the Arctic for a brand new murder mystery. Get ready for twists and turns from August 30th.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#Vigil"
-     ]
-    },
-    {
-     "name": "Must-Watch Drama",
-     "copy": "The trailer for Vigil Series 3 has dropped, and it looks intense! Mark your calendars for the August 30th premiere on BBC One.",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#BBCDrama"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "robert-plant-birthday",
-   "off": 2,
+   "id": "bday-john-deacon-19aug",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 78th to Robert Plant",
-   "blurb": "Legendary Led Zeppelin frontman Robert Plant turns 78 on August 20th.",
+   "title": "Happy Birthday John Deacon",
+   "blurb": "Queen's legendary bassist and songwriter John Deacon will be 75 tomorrow.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Robert_Plant"
+    "l": "Wikipedia / This Day In Music",
+    "u": "https://en.wikipedia.org/wiki/John_Deacon"
    },
    "fits": [
     {
@@ -456,154 +429,39 @@
    ],
    "angles": [
     {
-     "name": "Rock God's Birthday",
-     "copy": "Happy 78th Birthday to the iconic voice of Led Zeppelin, Robert Plant! What's your all-time favourite Zep track?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RobertPlant"
-     ]
-    },
-    {
-     "name": "Golden God Turns 78",
-     "copy": "Celebrating Robert Plant's 78th birthday! The man who gave us 'Stairway to Heaven' and countless rock anthems. Still got it!",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#LedZeppelin"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kelis-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 47th to Kelis",
-   "blurb": "Grammy-nominated singer-songwriter Kelis, known for hits like 'Milkshake' and 'Caught Out There', celebrates her 47th birthday on August 21st.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Kelis"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Milkshake Maker's Day",
-     "copy": "Happy 47th Birthday to the incredible Kelis! Which of her iconic tracks gets you dancing every time?",
+     "name": "Queen's Bass Master",
+     "copy": "A very Happy 75th Birthday for tomorrow to the quiet genius of Queen, John Deacon! Responsible for some of their biggest hits. What's your favourite Deacon-penned song?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "19:00",
      "tags": [
-      "#Kelis"
-     ]
-    },
-    {
-     "name": "Celebrating Kelis",
-     "copy": "From 'Caught Out There' to 'Trick Me', Kelis always brings the fire. Wishing her a very happy 47th birthday!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RnB"
+      "#JohnDeacon"
      ]
     }
    ]
   },
   {
-   "id": "dua-lipa-birthday",
-   "off": 4,
+   "id": "bday-robert-plant-20aug",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 31st to Dua Lipa",
-   "blurb": "Global pop superstar Dua Lipa, known for mega-hits like 'New Rules' and 'Levitating', celebrates her 31st birthday on August 22nd.",
+   "title": "Happy Birthday Robert Plant",
+   "blurb": "Led Zeppelin's iconic vocalist Robert Plant celebrates his 78th birthday on Thursday.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/robert-plant.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Princess Turns 31",
-     "copy": "Wishing a very Happy 31st Birthday to the one and only Dua Lipa! What's your favourite track from her incredible discography?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#DuaLipa"
-     ]
-    },
-    {
-     "name": "Celebrating Dua",
-     "copy": "From 'Future Nostalgia' to 'Radical Optimism', Dua Lipa keeps delivering bangers. Happy 31st to a true pop icon!",
-     "channels": [
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "roland-orzabal-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 66th to Roland Orzabal",
-   "blurb": "Roland Orzabal, co-founder and lead singer of the iconic band Tears for Fears, celebrates his 66th birthday on August 22nd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Roland_Orzabal"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
@@ -612,41 +470,227 @@
    ],
    "angles": [
     {
-     "name": "Tears for Fears Legend",
-     "copy": "Happy 66th Birthday to Roland Orzabal of Tears for Fears! From 'Shout' to 'Everybody Wants to Rule the World', what's their ultimate song for you?",
+     "name": "The Golden God Turns 78",
+     "copy": "On Thursday, we're celebrating the 78th Birthday of the one and only Robert Plant! What's your essential Led Zeppelin track?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#TearsForFears"
-     ]
-    },
-    {
-     "name": "Celebrating Orzabal",
-     "copy": "The voice behind so many 80s classics. Wishing Roland Orzabal a fantastic 66th birthday!",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#80sMusic"
+      "#RobertPlant"
      ]
     }
    ]
   },
   {
-   "id": "julian-casablancas-birthday",
+   "id": "bday-demi-lovato-20aug",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Demi Lovato",
+   "blurb": "Pop superstar Demi Lovato, known for hits like 'Sorry Not Sorry' and 'Cool for the Summer', turns 34 on Thursday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/demi-lovato.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Queen's Birthday",
+     "copy": "Wishing a fabulous 34th Birthday to Demi Lovato on Thursday! What's your favourite Demi hit to blast out?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#DemiLovato"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-kelis-21aug",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Kelis",
+   "blurb": "American singer-songwriter Kelis, famous for 'Milkshake' and 'Caught Out There', will be 46 on Friday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/kelis.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Kelis Turns 46",
+     "copy": "It's Kelis's 46th Birthday on Friday! You know her for 'Milkshake', but what's your other go-to Kelis track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Kelis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-liam-howlett-21aug",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Liam Howlett",
+   "blurb": "Liam Howlett, the mastermind behind The Prodigy, celebrates his 55th birthday this Friday.",
+   "source": {
+    "l": "Wikipedia / This Day In Music",
+    "u": "https://en.wikipedia.org/wiki/Liam_Howlett"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Prodigy's Main Man",
+     "copy": "A massive Happy 55th Birthday to Liam Howlett of The Prodigy on Friday! Still bringing the fire. What's your favourite Prodigy anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#TheProdigy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-dua-lipa-22aug",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Dua Lipa",
+   "blurb": "Global pop sensation Dua Lipa, known for chart-toppers like 'Levitating' and 'Don't Start Now', turns 31 this Saturday.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/dua-lipa.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Icon Turns 31",
+     "copy": "Get ready to celebrate! Dua Lipa turns 31 this Saturday. What's the ultimate Dua Lipa track to get the party started?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DuaLipa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-tori-amos-22aug",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Tori Amos",
+   "blurb": "Critically acclaimed singer-songwriter Tori Amos, known for her distinctive piano-driven music, celebrates her 63rd birthday on Saturday.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/tori-amos.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Alternative Legend",
+     "copy": "Happy 63rd Birthday to the incredible Tori Amos this Saturday! Her unique sound has captivated audiences for decades. What's your favourite Tori Amos album?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#ToriAmos"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-julian-casablancas-23aug",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 48th to Julian Casablancas",
-   "blurb": "Julian Casablancas, lead singer of influential indie rock band The Strokes, turns 48 on August 23rd.",
+   "title": "Happy Birthday Julian Casablancas",
+   "blurb": "The Strokes frontman Julian Casablancas, an influential figure in indie rock, turns 48 this Sunday.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Julian_Casablancas"
+    "l": "Famous Birthdays / This Day In Music",
+    "u": "https://www.famousbirthdays.com/people/julian-casablancas.html"
    },
    "fits": [
     {
@@ -660,8 +704,8 @@
    ],
    "angles": [
     {
-     "name": "Strokes Frontman's Day",
-     "copy": "Happy 48th Birthday to Julian Casablancas! What's your favourite The Strokes anthem to blast out?",
+     "name": "Indie Icon's Birthday",
+     "copy": "Happy 48th Birthday to The Strokes' enigmatic frontman, Julian Casablancas, this Sunday! Which Strokes track is your all-time favourite?",
      "channels": [
       "instagram",
       "facebook",
@@ -671,88 +715,65 @@
      "tags": [
       "#JulianCasablancas"
      ]
+    }
+   ]
+  },
+  {
+   "id": "bday-shaun-ryder-23aug",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Shaun Ryder",
+   "blurb": "Happy Mondays and Black Grape legend Shaun Ryder celebrates his 64th birthday this Sunday.",
+   "source": {
+    "l": "Famous Birthdays / This Day In Music",
+    "u": "https://www.famousbirthdays.com/people/shaun-ryder.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
-     "name": "Indie Icon at 48",
-     "copy": "From 'Last Nite' to 'Reptilia', Julian Casablancas defined a generation of indie rock. Wishing him a great 48th!",
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Madchester Royalty",
+     "copy": "The one and only Shaun Ryder turns 64 this Sunday! From Happy Mondays to Black Grape, what's your top tune from the Manchester icon?",
      "channels": [
-      "x",
-      "tiktok"
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#TheStrokes"
+      "#ShaunRyder"
      ]
     }
    ]
   },
   {
-   "id": "jean-michel-jarre-birthday",
+   "id": "bday-jean-michel-jarre-24aug",
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 78th to Jean-Michel Jarre",
-   "blurb": "Pioneering French electronic music composer Jean-Michel Jarre, known for his spectacular live shows, celebrates his 78th birthday on August 24th.",
+   "title": "Happy Birthday Jean-Michel Jarre",
+   "blurb": "Pioneering French electronic music composer Jean-Michel Jarre, known for his spectacular live shows, turns 78 on Monday.",
    "source": {
-    "l": "Wikipedia",
+    "l": "Wikipedia / Famous Birthdays",
     "u": "https://en.wikipedia.org/wiki/Jean-Michel_Jarre"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Electronic Maestro's Day",
-     "copy": "Happy 78th Birthday to the visionary Jean-Michel Jarre! His 'Oxygène' still sounds out of this world.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#JeanMichelJarre"
-     ]
-    },
-    {
-     "name": "Celebrating a Pioneer",
-     "copy": "From record-breaking concerts to groundbreaking albums, Jean-Michel Jarre is a legend. Happy 78th!",
-     "channels": [
-      "instagram",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ElectronicMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gene-simmons-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 77th to Gene Simmons",
-   "blurb": "KISS bassist and co-lead singer Gene Simmons, 'The Demon' himself, turns 77 on August 25th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -765,260 +786,30 @@
    ],
    "angles": [
     {
-     "name": "The Demon Turns 77",
-     "copy": "Happy 77th Birthday to the one and only Gene Simmons! What's your favourite KISS track or legendary Gene moment?",
+     "name": "Electronic Visionary",
+     "copy": "A huge Happy 78th Birthday for Monday to the incredible Jean-Michel Jarre! His electronic soundscapes are legendary. What's your favourite piece?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#GeneSimmons"
-     ]
-    },
-    {
-     "name": "KISS Legend's Day",
-     "copy": "From fire-breathing to iconic basslines, Gene Simmons is pure rock and roll. Wishing him a wild 77th birthday!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#KISS"
+      "#JeanMichelJarre"
      ]
     }
    ]
   },
   {
-   "id": "shirley-manson-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 60th to Shirley Manson",
-   "blurb": "Scottish singer Shirley Manson, lead vocalist of the alternative rock band Garbage, celebrates her 60th birthday on August 26th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Garbage Frontwoman's Day",
-     "copy": "Happy 60th Birthday to the brilliant Shirley Manson! What's your go-to Garbage track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ShirleyManson"
-     ]
-    },
-    {
-     "name": "Alt-Rock Icon at 60",
-     "copy": "Celebrating Shirley Manson's 60th! A true force in alternative rock. 'Stupid Girl' or 'Only Happy When It Rains'?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Garbage"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shania-twain-birthday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 61st to Shania Twain",
-   "blurb": "The 'Queen of Country Pop' Shania Twain, known for hits like 'Man! I Feel Like a Woman!' and 'You're Still the One', celebrates her 61st birthday on August 28th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country Pop Queen's Day",
-     "copy": "Happy 61st Birthday to the incredible Shania Twain! Feeling like a woman, or just feeling good?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ShaniaTwain"
-     ]
-    },
-    {
-     "name": "Still The One",
-     "copy": "Celebrating the enduring appeal of Shania Twain on her 61st birthday! What's your go-to Shania singalong?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#CountryPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "florence-welch-birthday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 40th to Florence Welch",
-   "blurb": "Florence Welch, the powerful lead vocalist of Florence + The Machine, celebrates her 40th birthday on August 28th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Florence_Welch"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Florence Turns 40",
-     "copy": "Happy 40th Birthday to the mesmerising Florence Welch! From 'Dog Days Are Over' to 'Shake It Out', she's given us so many anthems.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#FlorenceWelch"
-     ]
-    },
-    {
-     "name": "Machine's Voice at 40",
-     "copy": "Celebrating the incredible talent of Florence Welch on her 40th birthday! What's your favourite Florence + The Machine moment?",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#FlorenceAndTheMachine"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jack-black-birthday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 57th to Jack Black",
-   "blurb": "Actor, comedian, and Tenacious D frontman Jack Black celebrates his 57th birthday on August 28th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jack_Black"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jables Turns 57",
-     "copy": "Happy 57th Birthday to the legendary Jack Black! From School of Rock to Tenacious D, he's pure entertainment. What's your favourite Jack Black role?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#JackBlack"
-     ]
-    },
-    {
-     "name": "Rock & Roll Comedian",
-     "copy": "The man, the myth, the legend! Wishing Jack Black a very happy 57th birthday. Crank up some Tenacious D in his honour!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TenaciousD"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "summer-bank-holiday",
-   "off": 13,
+   "id": "end-of-summer-holidays",
+   "off": 7,
    "type": "seasonal",
    "hot": true,
-   "title": "Summer Bank Holiday Approaches",
-   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31st, providing a long weekend for many.",
+   "title": "Summer Holidays Winding Down",
+   "blurb": "As August draws to a close next week, many families across the UK are preparing for the end of the summer holidays and the return to school.",
    "source": {
-    "l": "GOV.UK",
-    "u": "https://www.gov.uk/bank-holidays"
+    "l": "Met Office",
+    "u": "https://www.facebook.com/metoffice/posts/uk-weather-update-early-august-stays-cooler-and-unsettled-with-showers-and-blust/755319853303640/"
    },
    "fits": [
     {
@@ -1030,38 +821,40 @@
      "sub": ""
     },
     {
-     "g": "dragon",
+     "g": "radio-exe",
      "sub": ""
     },
     {
-     "g": "radio-exe",
+     "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Long Weekend Planning",
-     "copy": "The Summer Bank Holiday is just around the corner on August 31st! What are your plans for the last long weekend of summer?",
+     "name": "Back to School Prep",
+     "copy": "Are you making the most of these last few days of summer freedom? School holidays are winding down for many next week! ☀️📚",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
-      "#BankHoliday"
+      "#SummerHolidays"
      ]
     },
     {
-     "name": "Make the Most of It",
-     "copy": "One more chance for a long weekend lie-in! The Summer Bank Holiday is on Monday, August 31st. How will you be spending it?",
+     "name": "Making Memories",
+     "copy": "The end of summer is in sight for many families. What's been your favourite summer holiday memory this year? Share it with us!",
      "channels": [
-      "x",
-      "facebook"
+      "facebook",
+      "x"
      ],
-     "time": "12:00",
+     "time": "16:30",
      "tags": [
-      "#SummerVibes"
+      "#EndOfSummer"
      ]
     }
    ]
