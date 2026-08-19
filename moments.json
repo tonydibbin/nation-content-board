@@ -1,36 +1,27 @@
 {
- "updated": "2026-08-19T18:14:55.098Z",
+ "updated": "2026-08-19T19:16:13.916Z",
  "moments": [
   {
-   "id": "premier-league-kickoff",
-   "off": 2,
-   "type": "sport",
+   "id": "aug-bank-holiday-uk",
+   "off": 12,
+   "type": "seasonal",
    "hot": true,
-   "title": "Premier League Kicks Off",
-   "blurb": "The 2026/27 Premier League season begins this Friday, August 21st, with Arsenal taking on newly-promoted Coventry City in the opener.",
+   "title": "August Bank Holiday Weekend",
+   "blurb": "The last long weekend of summer for England, Wales, and Northern Ireland arrives on Monday, August 31st.",
    "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/news/11661/13155708/premier-league-2026-27-fixtures-dates-schedule-arsenal-face-coventry-and-liverpool-at-newcastle-in-opening-round"
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Kick-off excitement",
-     "for": "",
-     "copy": "The wait is over! The Premier League is BACK this Friday, with Arsenal kicking off against Coventry City. Who are you backing for the first goal of the season?",
+     "name": "Summer's Last Hurrah",
+     "copy": "Who's making the most of the August Bank Holiday weekend? It's the last long one before Christmas!",
      "channels": [
       "instagram",
       "facebook",
@@ -40,41 +31,157 @@
      ],
      "time": "08:00",
      "tags": [
-      "#PremierLeague"
+      "#BankHoliday"
      ]
     },
     {
-     "name": "Weekend fixtures",
-     "for": "",
-     "copy": "Football fans, clear your weekend! The Premier League is back with a bang, featuring Hull City vs Man Utd, Newcastle vs Liverpool, and more. What match are you most looking forward to?",
+     "name": "Bank Holiday Plans",
+     "copy": "Got big plans for the August Bank Holiday? Three-day weekend incoming for England, Wales & Northern Ireland!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#LongWeekend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-kickoff",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League 2026/27 Kicks Off",
+   "blurb": "The new Premier League season begins this Friday, August 21st, with Arsenal hosting newly-promoted Coventry City.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Season Starter",
+     "copy": "It's back! The Premier League 2026/27 season kicks off this Friday. Are you ready for the drama?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "10:00",
+     "time": "10:30",
      "tags": [
-      "#PLSeason"
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Opening Weekend",
+     "copy": "Arsenal vs Coventry City starts the Premier League weekend on Friday. Who are you backing for the opening fixtures?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#FootballIsBack"
      ]
     }
    ]
   },
   {
-   "id": "reading-leeds-festival",
-   "off": 8,
+   "id": "efl-championship-wrexham",
+   "off": 9,
+   "type": "sport",
+   "hot": true,
+   "title": "Wrexham in Championship Action",
+   "blurb": "Welsh club Wrexham plays their first home Championship match of the season this Friday, August 28th, against Birmingham City.",
+   "source": {
+    "l": "EFL",
+    "u": "https://www.efl.com/fixtures/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wrexham Home Opener",
+     "copy": "A huge night for Wrexham! They host Birmingham City this Friday in their first Championship home game. Good luck, lads!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#WrexhamAFC"
+     ]
+    },
+    {
+     "name": "Welsh Football Pride",
+     "copy": "Wrexham flying the flag for Wales in the Championship! Get behind them this Friday as they take on Birmingham City.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#CymruFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "all-points-east-2026",
+   "off": 2,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festival",
-   "blurb": "Reading and Leeds Festivals are set to take place from August 27th to 30th, featuring headliners like Charli XCX, Chase & Status, Dave, Florence + The Machine, Fontaines D.C., and Raye.",
+   "title": "All Points East Festival Begins",
+   "blurb": "London's All Points East festival kicks off this Friday, August 21st, running until August 30th in Victoria Park with headliners like Lorde, Tyler, The Creator and Deftones.",
    "source": {
-    "l": "eFestivals",
-    "u": "https://www.efestivals.co.uk/festivals/reading/2026/index.shtml"
+    "l": "All Points East",
+    "u": "https://www.allpointseastfestival.com/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
@@ -91,9 +198,8 @@
    ],
    "angles": [
     {
-     "name": "Festival anticipation",
-     "for": "",
-     "copy": "Who's ready for the ultimate Bank Holiday weekend? Reading & Leeds Festival is just around the corner, bringing Charli XCX, Dave, Florence + The Machine and more to the stage!",
+     "name": "London Festival Vibes",
+     "copy": "All Points East returns to Victoria Park this weekend! Who are you excited to see? Lorde, Tyler, The Creator, Deftones and more!",
      "channels": [
       "instagram",
       "facebook",
@@ -101,90 +207,220 @@
       "tiktok",
       "threads"
      ],
-     "time": "11:00",
+     "time": "09:00",
+     "tags": [
+      "#APE2026"
+     ]
+    },
+    {
+     "name": "Festival Lineup",
+     "copy": "London is buzzing! All Points East kicks off Friday with a massive lineup through to August 30th. Get your festival face on!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#AllPointsEast"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-2026",
+   "off": 9,
+   "type": "gig",
+   "hot": true,
+   "title": "Reading & Leeds Festivals Weekend",
+   "blurb": "The iconic Reading and Leeds Festivals take place from August 28th-30th, attracting thousands of music fans across two sites.",
+   "source": {
+    "l": "Reading & Leeds Festivals",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "copy": "Less than 10 days until Reading & Leeds! Who's packing their wellies and getting ready for the ultimate festival weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
      "tags": [
       "#RandL26"
      ]
     },
     {
-     "name": "Headliners spotlight",
-     "for": "",
-     "copy": "From Fontaines D.C. to Raye, this year's Reading & Leeds line-up is HUGE. Which headliner are you most hyped to see tear up the stage?",
+     "name": "Reading or Leeds?",
+     "copy": "Are you Team Reading or Team Leeds this year? The biggest festival weekend of the summer is almost here!",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#FestivalVibes"
+      "#ReadingFestival #LeedsFestival"
      ]
     }
    ]
   },
   {
-   "id": "singles-chart-number-1",
-   "off": 0,
-   "type": "culture",
+   "id": "creamfields-2026",
+   "off": 8,
+   "type": "gig",
    "hot": true,
-   "title": "UK Singles Chart #1",
-   "blurb": "Sam Fender & Olivia Dean hold the top spot on the Official Singles Chart this week (Aug 13-19) with their track 'REIN ME IN'.",
+   "title": "Creamfields Festival Approaches",
+   "blurb": "The UK's premier dance music festival, Creamfields, takes over Cheshire from August 27th-29th.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/20260813/7501/"
+    "l": "Creamfields",
+    "u": "https://www.creamfields.com/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Dance"
     },
     {
      "g": "nation-network",
+     "sub": "Nation Radio North East"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Festival Energy",
+     "copy": "Creamfields is almost here! Get ready for three days of the biggest names in dance music, starting August 27th.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#Creamfields2026"
+     ]
+    },
+    {
+     "name": "Cheshire Calling",
+     "copy": "Who's heading to Creamfields next week? The countdown is on for the UK's biggest electronic music event!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#DanceMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "green-man-2026",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Green Man Festival Underway",
+   "blurb": "Wales' largest independent music and arts festival, Green Man, runs from August 20th-23rd in the stunning Brecon Beacons.",
+   "source": {
+    "l": "Green Man Festival",
+    "u": "https://www.greenman.net/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Chart topper",
-     "for": "",
-     "copy": "Still riding high at Number 1! Sam Fender & Olivia Dean's 'REIN ME IN' is the UK's biggest song this week. Have you been streaming it?",
+     "name": "Welsh Festival Spirit",
+     "copy": "Green Man Festival is ON! Who's soaking up the music, art, and incredible atmosphere in the Brecon Beacons this weekend?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#OfficialCharts"
+      "#GreenManFestival"
      ]
     },
     {
-     "name": "Weekend playlist",
-     "for": "",
-     "copy": "Your weekend playlist needs a refresh! Sam Fender & Olivia Dean are still owning the #1 spot on the Official Singles Chart. What else is on your rotation?",
+     "name": "Brecon Beats",
+     "copy": "From music to comedy, literature to science, Green Man Festival in Wales has it all. What's been your highlight so far?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "16:00",
+     "time": "15:30",
      "tags": [
-      "#NewMusic"
+      "#WelshFestivals"
      ]
     }
    ]
   },
   {
-   "id": "madonna-kylie-new-entry",
+   "id": "official-singles-chart",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "Madonna & Kylie New Chart Entry",
-   "blurb": "Pop legends Madonna and Kylie Minogue have a new entry on the Official Singles Chart this week with 'Love Sensation' debuting at Number 8.",
+   "title": "Official Singles Chart Update",
+   "blurb": "Sam Fender & Olivia Dean hold strong at Number 1 with 'Rein Me In', while Madonna & Kylie Minogue make a splash with 'Love Sensation' debuting at Number 8.",
    "source": {
     "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/20260813/7501/"
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
@@ -197,75 +433,13 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Pop royalty collab",
-     "for": "",
-     "copy": "Talk about a dream team! Madonna and Kylie Minogue have crashed the Top 10 with their new track 'Love Sensation'. Is it an instant classic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#PopRoyalty"
-     ]
-    },
-    {
-     "name": "New music Friday",
-     "for": "",
-     "copy": "Two icons, one track! Madonna & Kylie Minogue are making waves on the charts with 'Love Sensation'. Get it on your Friday playlist!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "loyle-carner-manchester",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Loyle Carner in Manchester",
-   "blurb": "British hip-hop artist Loyle Carner is set to play Wythenshawe Park in Manchester this Saturday, August 22nd.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/loyle-carner-tickets/artist/2347597"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Manchester"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Manchester gig",
-     "for": "",
-     "copy": "Manchester! Get ready for Loyle Carner this Saturday at Wythenshawe Park. Who's going to be there?",
+     "name": "Chart Toppers",
+     "copy": "Sam Fender & Olivia Dean still ruling the Official Singles Chart! Are you loving 'Rein Me In' at Number 1?",
      "channels": [
       "instagram",
       "facebook",
@@ -273,22 +447,24 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#LoyleCarner"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Weekend plans",
-     "for": "",
-     "copy": "Your Saturday night plans are sorted! Loyle Carner live in Manchester – expect soulful beats and sharp lyrics.",
+     "name": "Pop Royalty Collab",
+     "copy": "Madonna and Kylie Minogue together in the Top 10! 'Love Sensation' is the chart entry everyone's talking about. Iconic!",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "14:30",
      "tags": [
-      "#ManchesterGigs"
+      "#Madonna #KylieMinogue"
      ]
     }
    ]
@@ -298,11 +474,11 @@
    "off": 3,
    "type": "tv",
    "hot": true,
-   "title": "The Voice UK Returns",
-   "blurb": "A new series of the popular singing competition 'The Voice UK' premieres this Saturday, August 22nd, on ITV1.",
+   "title": "The Voice UK is Back!",
+   "blurb": "The Voice UK returns for a new series this Saturday, August 22nd, on ITV1, featuring a refreshed coaching lineup and new twists, including Kelly Rowland joining as a coach.",
    "source": {
-    "l": "TV Zone",
-    "u": "https://www.tvzoneuk.com/post/schedules-2228aug26"
+    "l": "Virgin Media TV",
+    "u": "https://www.virginmedia.com/tv/what-to-watch/tv-this-week"
    },
    "fits": [
     {
@@ -312,84 +488,32 @@
    ],
    "angles": [
     {
-     "name": "TV show launch",
-     "for": "",
-     "copy": "The spinning chairs are back! A brand new series of The Voice UK kicks off this Saturday on ITV1. Who are you hoping to see on the judging panel?",
+     "name": "Saturday Night TV",
+     "copy": "Your Saturday night TV just got better! The Voice UK is back this weekend with new coaches and new talent. Who's tuning in?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "11:00",
+     "time": "09:30",
      "tags": [
       "#TheVoiceUK"
      ]
     },
     {
-     "name": "Weekend TV",
-     "for": "",
-     "copy": "Get ready to discover the next big star! The Voice UK returns this weekend – perfect Saturday night viewing. Will you be tuning in?",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#SaturdayNightTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-split-up-drama",
-   "off": 7,
-   "type": "tv",
-   "hot": true,
-   "title": "New Drama 'The Split Up'",
-   "blurb": "A new six-part legal drama, 'The Split Up', set in Manchester's high-net-worth divorce circuit, is set to premiere in August.",
-   "source": {
-    "l": "Freely",
-    "u": "https://www.freely.co.uk/blog/new-tv-shows-2026/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Manchester"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New drama alert",
-     "for": "",
-     "copy": "Love a gripping legal drama? 'The Split Up', a new series set in Manchester, is coming this August. Expect high stakes and family secrets!",
+     "name": "New Coach Alert",
+     "copy": "Welcome to The Voice UK, Kelly Rowland! The Destiny's Child star joins the coaching panel this Saturday on ITV1.",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "13:00",
      "tags": [
-      "#TheSplitUp"
-     ]
-    },
-    {
-     "name": "Manchester on screen",
-     "for": "Nation Radio Manchester",
-     "copy": "Our city takes centre stage! New drama 'The Split Up' is set in Manchester's elite divorce world, coming to screens this month. Will you be watching?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ManchesterTV"
+      "#KellyRowland"
      ]
     }
    ]
@@ -399,11 +523,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 81st to Ian Gillan",
-   "blurb": "Deep Purple's iconic frontman Ian Gillan celebrates his 81st birthday today, August 19th.",
+   "title": "Ian Gillan Turns 81",
+   "blurb": "Today, August 19th, marks the 81st birthday of Ian Gillan, the legendary lead singer of rock band Deep Purple.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/19"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ian_Gillan"
    },
    "fits": [
     {
@@ -417,31 +541,31 @@
    ],
    "angles": [
     {
-     "name": "Rock legend birthday",
-     "for": "",
-     "copy": "Happy 81st Birthday to the one and only Ian Gillan! The voice of Deep Purple still rocking hard. What's your favourite Deep Purple track?",
+     "name": "Rock Legend Birthday",
+     "copy": "Happy 81st Birthday to Deep Purple's iconic frontman, Ian Gillan! What's your favourite Deep Purple track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "08:00",
+     "time": "07:30",
      "tags": [
-      "#IanGillan"
+      "#IanGillan #DeepPurple"
      ]
     },
     {
-     "name": "Deep Purple tribute",
-     "for": "",
-     "copy": "Celebrating 81 years of rock today! Wishing a very happy birthday to Deep Purple's legendary singer, Ian Gillan.",
+     "name": "Celebrating a Voice",
+     "copy": "The voice of 'Smoke On The Water' and so many more! Celebrating Ian Gillan's 81st birthday today. Rock on!",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "12:30",
      "tags": [
-      "#DeepPurple"
+      "#ClassicRock"
      ]
     }
    ]
@@ -451,17 +575,13 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 75th to John Deacon",
-   "blurb": "Queen's bassist and songwriter John Deacon turns 75 today, August 19th.",
+   "title": "John Deacon Turns 75",
+   "blurb": "Queen's bassist and songwriter, John Deacon, celebrates his 75th birthday today, August 19th.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/19"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/John_Deacon"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
@@ -469,13 +589,16 @@
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Queen bassist birthday",
-     "for": "",
-     "copy": "A huge happy 75th birthday to the brilliant John Deacon, legendary bassist and songwriter for Queen! What's your favourite Queen song written by John?",
+     "name": "Queen Bassist Birthday",
+     "copy": "Wishing a very Happy 75th Birthday to the incredible John Deacon of Queen! Responsible for some massive hits!",
      "channels": [
       "instagram",
       "facebook",
@@ -484,50 +607,50 @@
      ],
      "time": "09:00",
      "tags": [
-      "#JohnDeacon"
+      "#JohnDeacon #Queen"
      ]
     },
     {
-     "name": "Queen's quiet genius",
-     "for": "",
-     "copy": "From 'Another One Bites the Dust' to 'I Want to Break Free', John Deacon's contributions to Queen are timeless. Happy 75th Birthday to the bass legend!",
+     "name": "Songwriting Genius",
+     "copy": "From 'Another One Bites the Dust' to 'I Want to Break Free', celebrating Queen's John Deacon on his 75th birthday today!",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#Queen"
+      "#MusicLegend"
      ]
     }
    ]
   },
   {
-   "id": "jack-black-birthday",
-   "off": 9,
+   "id": "joey-tempest-birthday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 57th to Jack Black",
-   "blurb": "Actor, comedian, and Tenacious D frontman Jack Black celebrates his 57th birthday on August 28th.",
+   "title": "Joey Tempest Turns 63",
+   "blurb": "Joey Tempest, the charismatic lead singer of Swedish rock band Europe, celebrates his 63rd birthday today, August 19th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august/28.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joey_Tempest"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 80s"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Hollywood rockstar birthday",
-     "for": "",
-     "copy": "He's a rock god and a movie star! Happy 57th Birthday to the legend that is Jack Black on August 28th. What's your favourite Jack Black moment?",
+     "name": "It's the Final Countdown...",
+     "copy": "Happy 63rd Birthday to Europe's Joey Tempest! Get ready to sing along to 'The Final Countdown' all day!",
      "channels": [
       "instagram",
       "facebook",
@@ -535,45 +658,46 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "08:30",
      "tags": [
-      "#JackBlack"
+      "#JoeyTempest #Europe"
      ]
     },
     {
-     "name": "Tenacious D love",
-     "for": "Nation Rocks",
-     "copy": "From 'Tribute' to 'Peaches', Jack Black brings the rock and the laughs. Wishing the Tenacious D frontman a very happy 57th on the 28th!",
+     "name": "80s Rock Icon",
+     "copy": "Celebrating the birthday of Joey Tempest, frontman of Europe! What's your favourite power ballad or anthem from the band?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "threads"
      ],
-     "time": "16:00",
+     "time": "13:30",
      "tags": [
-      "#TenaciousD"
+      "#80sRock"
      ]
     }
    ]
   },
   {
-   "id": "shania-twain-birthday",
-   "off": 9,
+   "id": "christina-perri-birthday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 61st to Shania Twain",
-   "blurb": "Country-pop superstar Shania Twain celebrates her 61st birthday on August 28th.",
+   "title": "Christina Perri Turns 40",
+   "blurb": "American singer-songwriter Christina Perri, known for hits like 'Jar of Hearts' and 'A Thousand Years', celebrates her 40th birthday today, August 19th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august/28.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Christina_Perri"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Love"
     },
     {
      "g": "decades-genres",
@@ -582,31 +706,84 @@
    ],
    "angles": [
     {
-     "name": "Queen of Country Pop birthday",
-     "for": "",
-     "copy": "Let's go girls! Wishing a very happy 61st birthday to the incredible Shania Twain on August 28th. What's your go-to Shania anthem?",
+     "name": "Birthday Wishes",
+     "copy": "Happy 40th Birthday to the amazing Christina Perri! Which of her beautiful songs is your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "11:00",
+     "time": "09:45",
      "tags": [
-      "#ShaniaTwain"
+      "#ChristinaPerri"
      ]
     },
     {
-     "name": "Iconic hits",
-     "for": "Nation Easy",
-     "copy": "Still owning it after all these years! Happy 61st to Shania Twain, the voice behind classics like 'Man! I Feel Like A Woman!' and 'That Don't Impress Me Much'.",
+     "name": "A Thousand Years of Song",
+     "copy": "Celebrating Christina Perri's 40th today! Her music has soundtracked so many moments. What's your most loved track?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "17:00",
+     "time": "16:00",
      "tags": [
-      "#CountryPop"
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lee-ann-womack-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Lee Ann Womack Turns 60",
+   "blurb": "Grammy-winning country music star Lee Ann Womack, known for hits like 'I Hope You Dance', celebrates her 60th birthday today, August 19th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Lee_Ann_Womack"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Country Star's Birthday",
+     "copy": "Wishing a very Happy 60th Birthday to the incredible country artist Lee Ann Womack! What's your favourite of her songs?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:15",
+     "tags": [
+      "#LeeAnnWomack #CountryMusic"
+     ]
+    },
+    {
+     "name": "Hope You Dance",
+     "copy": "Celebrating the voice behind 'I Hope You Dance'! Happy 60th Birthday to Lee Ann Womack today. A true country legend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#MusicBirthday"
      ]
     }
    ]
