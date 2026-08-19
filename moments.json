@@ -1,22 +1,18 @@
 {
- "updated": "2026-08-19T13:35:18.279Z",
+ "updated": "2026-08-19T14:20:58.656Z",
  "moments": [
   {
-   "id": "uk-singles-chart-rein-me-in",
-   "off": 0,
-   "type": "culture",
+   "id": "premier-league-kickoff",
+   "off": 2,
+   "type": "sport",
    "hot": true,
-   "title": "Sam Fender & Olivia Dean hold UK #1",
-   "blurb": "'Rein Me In' by Sam Fender and Olivia Dean is the current Official UK Singles Chart number one for the week ending August 20, 2026.",
+   "title": "Premier League Kicks Off",
+   "blurb": "The 2026/27 Premier League season begins this Friday, August 21st, with defending champions Arsenal taking on newly-promoted Coventry City in the opening fixture.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
+    "l": "Premier League / SuperSport",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
     {
      "g": "nation-network",
      "sub": ""
@@ -24,8 +20,79 @@
    ],
    "angles": [
     {
-     "name": "Chart Topper",
-     "copy": "Still riding high! Sam Fender and Olivia Dean's 'Rein Me In' holds onto the Official UK Singles Chart Number 1 spot this week. Deserved?",
+     "name": "General Excitement",
+     "for": "",
+     "copy": "Football is BACK! The Premier League 2026/27 season kicks off this Friday. Who are you backing for the title this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Arsenal vs Coventry",
+     "for": "Nation Radio London",
+     "copy": "It's North London vs the Midlands as Arsenal host newly-promoted Coventry City this Friday to open the Premier League season. Big start for the Gunners!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#AFC #CoventryCity"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edinburgh-fringe-ongoing",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Edinburgh Fringe Continues",
+   "blurb": "The world's largest arts festival, the Edinburgh Fringe, is in full swing until August 31st, drawing thousands of performers and visitors to Scotland's capital.",
+   "source": {
+    "l": "Edinburgh Fringe",
+    "u": "https://www.edfringe.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Vibe",
+     "for": "",
+     "copy": "Edinburgh is buzzing! The Fringe Festival is still going strong until August 31st. Have you caught any incredible shows yet?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#EdinburghFringe"
+     ]
+    },
+    {
+     "name": "Scottish Focus",
+     "for": "Nation Radio Scotland",
+     "copy": "Scotland's capital is alive with the Edinburgh Fringe! So much talent on display until the end of the month. What's been your highlight?",
      "channels": [
       "instagram",
       "facebook",
@@ -35,38 +102,81 @@
      ],
      "time": "14:00",
      "tags": [
-      "#UKChart"
+      "#Fringe2026 #Scotland"
      ]
-    },
-    {
-     "name": "Weekend Listen",
-     "copy": "Your weekend soundtrack, straight from the top! 'Rein Me In' by Sam Fender & Olivia Dean is the UK's Number 1 single. Tune in!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": []
     }
    ]
   },
   {
-   "id": "reading-leeds-festival-2026",
-   "off": 9,
+   "id": "we-out-here-festival",
+   "off": 1,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festival returns",
-   "blurb": "The iconic Reading & Leeds Festival is set to take place over the August Bank Holiday weekend, from August 28-30, 2026, featuring a lineup of major artists.",
+   "title": "We Out Here Festival",
+   "blurb": "Gilles Peterson's We Out Here Festival, celebrating genre-hopping music and UK club culture, is happening this weekend, August 20th-23rd, in Wimborne St Giles, Dorset.",
    "source": {
-    "l": "Official Charts Company (mentioning R&L)",
-    "u": "https://www.officialcharts.com/chart-news/reading-and-leeds-festival-ones-to-watch-2026__39191/"
+    "l": "We Out Here Festival",
+    "u": "https://weoutherefestival.com/"
    },
    "fits": [
     {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
      "g": "nation-network",
      "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Kicks Off",
+     "for": "Nation Dance",
+     "copy": "We Out Here Festival kicks off tomorrow! Four days of incredible music and culture in Dorset. Who's heading down?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#WeOutHere #Dorset"
+     ]
     },
+    {
+     "name": "Sold Out Vibes",
+     "for": "Nation Rocks",
+     "copy": "It's a sold-out weekend for We Out Here Festival! Expecting big things from Gilles Peterson's celebration of UK club culture and beyond.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#FestivalSeason #GillesPeterson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-approaching",
+   "off": 8,
+   "type": "gig",
+   "hot": true,
+   "title": "Reading & Leeds Festivals Soon",
+   "blurb": "One of the UK's biggest rock and pop weekends, Reading & Leeds Festivals, is just around the corner, running from August 27th to 30th.",
+   "source": {
+    "l": "Reading & Leeds Festivals",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
@@ -77,55 +187,102 @@
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Festival Countdown",
-     "copy": "It's almost here! Reading & Leeds Festival kicks off next weekend. Who are you buzzing to see on the main stage?",
+     "name": "Anticipation Build",
+     "for": "Nation Rocks",
+     "copy": "The countdown is on! Reading & Leeds Festivals are just over a week away. Who's ready for an epic bank holiday weekend of music?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#RandL26 #Festival"
+     ]
+    },
+    {
+     "name": "Bank Holiday Plans",
+     "for": "",
+     "copy": "Reading & Leeds is calling! If you're heading to one of the biggest festivals of the summer, start planning your set times now – it's next weekend!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
       "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Last Minute Tickets",
-     "copy": "Still hoping for a last-minute ticket to Reading or Leeds? The festival gates open next Friday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ReadingFestival",
-      "#LeedsFestival"
+      "#ReadingFestival #LeedsFestival"
      ]
     }
    ]
   },
   {
-   "id": "august-bank-holiday-2026",
+   "id": "official-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Official Singles Chart Update",
+   "blurb": "Sam Fender & Olivia Dean hold the top spot with \"Rein Me In\" on the Official Singles Chart Top 40, while Madonna & Kylie Minogue enter at number 8 with \"Love Sensation.\"",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "for": "",
+     "copy": "New chart update! Sam Fender & Olivia Dean are still at #1. Can anyone knock them off next week?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#OfficialCharts #NewMusic"
+     ]
+    },
+    {
+     "name": "New Entry Buzz",
+     "for": "Nation Hits",
+     "copy": "A huge new entry from Madonna & Kylie Minogue with 'Love Sensation' straight in at number 8! Iconic collaboration!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Madonna #KylieMinogue"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "summer-bank-holiday",
    "off": 12,
    "type": "seasonal",
    "hot": true,
-   "title": "August Bank Holiday weekend",
-   "blurb": "The Summer Bank Holiday in England, Wales, and Northern Ireland falls on Monday, August 31, 2026, marking a three-day weekend for many.",
+   "title": "Summer Bank Holiday Approaches",
+   "blurb": "The final UK Bank Holiday of the summer for England, Wales, and Northern Ireland is just days away, falling on Monday, August 31st.",
    "source": {
-    "l": "Gov.uk / Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
     {
@@ -137,62 +294,62 @@
      "sub": ""
     },
     {
-     "g": "radio-exe",
+     "g": "dragon",
      "sub": ""
     },
     {
-     "g": "dragon",
+     "g": "radio-exe",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Long Weekend Ahead",
-     "copy": "Three-day weekend incoming! The August Bank Holiday is just around the corner on Monday 31st. How are you planning to make the most of it?",
+     "name": "Holiday Plans",
+     "for": "",
+     "copy": "That glorious August Bank Holiday is nearly here! What are your plans for the last long weekend of summer?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#BankHoliday"
+      "#BankHoliday #Summer2026"
      ]
     },
     {
-     "name": "Bank Holiday Plans",
-     "copy": "Don't forget the Late Summer Bank Holiday is this Monday! Perfect for one last summer hurrah. What's on your agenda?",
+     "name": "Local Reminders",
+     "for": "radio-exe",
+     "copy": "Devon, get ready for a long weekend! The August Bank Holiday is Monday 31st. Perfect for exploring our beautiful county!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "16:00",
+     "time": "09:30",
      "tags": [
-      "#SummerVibes"
+      "#Devon #BankHolidayWeekend"
      ]
     }
    ]
   },
   {
-   "id": "ian-gillan-bday-aug19",
+   "id": "ian-gillan-birthday",
    "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "Ian Gillan is 81",
-   "blurb": "Deep Purple's legendary frontman Ian Gillan celebrates his 81st birthday today, August 19, 2026.",
+   "hot": true,
+   "title": "Ian Gillan's 81st Birthday",
+   "blurb": "Legendary Deep Purple frontman Ian Gillan celebrates his 81st birthday today, August 19th.",
    "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Ian_Gillan"
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-19-2026/"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
@@ -202,38 +359,36 @@
    "angles": [
     {
      "name": "Rock Legend",
-     "copy": "Happy 81st Birthday to Deep Purple's iconic voice, Ian Gillan! Still rocking hard after all these years.",
+     "for": "Nation Rocks",
+     "copy": "Happy 81st Birthday to the incredible voice of Deep Purple, Ian Gillan! What's your favourite track featuring his iconic vocals?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
-      "#IanGillan"
+      "#IanGillan #DeepPurple"
      ]
     }
    ]
   },
   {
-   "id": "john-deacon-bday-aug19",
+   "id": "john-deacon-birthday",
    "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "John Deacon is 75",
-   "blurb": "Queen's bassist and songwriter John Deacon turns 75 today, August 19, 2026.",
+   "hot": true,
+   "title": "John Deacon's 75th Birthday",
+   "blurb": "Queen bassist and songwriter John Deacon turns 75 today, August 19th.",
    "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/John_Deacon"
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-19-2026/"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
@@ -247,403 +402,40 @@
    "angles": [
     {
      "name": "Queen Bassist",
-     "copy": "Sending birthday wishes to the legendary John Deacon! Queen's incredible bassist and hit songwriter turns 75 today.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JohnDeacon"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "robert-plant-bday-aug20",
-   "off": 1,
-   "type": "birthday",
-   "hot": false,
-   "title": "Robert Plant is 78",
-   "blurb": "Led Zeppelin's iconic frontman, Robert Plant, celebrates his 78th birthday on August 20, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Robert_Plant"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Golden God",
-     "copy": "Happy 78th Birthday tomorrow to the one and only Robert Plant! Still got that voice of gold.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#RobertPlant"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "demi-lovato-bday-aug20",
-   "off": 1,
-   "type": "birthday",
-   "hot": false,
-   "title": "Demi Lovato is 34",
-   "blurb": "Pop superstar Demi Lovato turns 34 on August 20, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Demi_Lovato"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Icon",
-     "copy": "Birthday shout-out to Demi Lovato, who turns 34 tomorrow! What's your favourite Demi track?",
+     "for": "Nation 70s",
+     "copy": "Wishing a very Happy 75th Birthday to the brilliant John Deacon, legendary bassist and songwriter for Queen! What's your favourite Queen song he wrote?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#DemiLovato"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kelis-bday-aug21",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Kelis is 46",
-   "blurb": "R&B and soul singer Kelis, known for hits like 'Milkshake', celebrates her 46th birthday on August 21, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Kelis"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "R&B Queen",
-     "copy": "Get ready to celebrate Kelis's birthday on Friday! The 'Milkshake' hitmaker turns 46.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Kelis"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "liam-howlett-bday-aug21",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Liam Howlett is 55",
-   "blurb": "The Prodigy's co-founder and mastermind Liam Howlett celebrates his 55th birthday on August 21, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Liam_Howlett"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Electronic Pioneer",
-     "copy": "Happy 55th Birthday to The Prodigy's Liam Howlett this Friday! Still bringing the fire to the electronic scene.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#TheProdigy"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dua-lipa-bday-aug22",
-   "off": 3,
-   "type": "birthday",
-   "hot": false,
-   "title": "Dua Lipa is 31",
-   "blurb": "Global pop sensation Dua Lipa turns 31 on August 22, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Superstar",
-     "copy": "Future Nostalgia, present birthday! Dua Lipa turns 31 this Saturday. What's her ultimate banger?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "11:30",
      "tags": [
-      "#DuaLipa"
+      "#JohnDeacon #Queen"
      ]
     }
    ]
   },
   {
-   "id": "tori-amos-bday-aug22",
-   "off": 3,
+   "id": "christina-perri-birthday",
+   "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "Tori Amos is 63",
-   "blurb": "Acclaimed singer-songwriter and pianist Tori Amos celebrates her 63rd birthday on August 22, 2026.",
+   "hot": true,
+   "title": "Christina Perri's 40th Birthday",
+   "blurb": "\"Jar of Hearts\" singer-songwriter Christina Perri celebrates her 40th birthday today, August 19th.",
    "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Tori_Amos"
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-19-2026/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Alternative Icon",
-     "copy": "Happy 63rd Birthday to the incredible Tori Amos this Saturday! Her music continues to inspire.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ToriAmos"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shaun-ryder-bday-aug23",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Shaun Ryder is 64",
-   "blurb": "Happy Mondays and Black Grape frontman Shaun Ryder turns 64 on August 23, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Shaun_Ryder"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Madchester Legend",
-     "copy": "Step On! Shaun Ryder, the voice of Happy Mondays, turns 64 this Sunday. What's your favourite tune from the Madchester icon?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ShaunRyder"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "elvis-costello-bday-aug25",
-   "off": 6,
-   "type": "birthday",
-   "hot": false,
-   "title": "Elvis Costello is 72",
-   "blurb": "Influential singer-songwriter Elvis Costello celebrates his 72nd birthday on August 25, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Elvis_Costello"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Wave Icon",
-     "copy": "Happy 72nd Birthday on Tuesday to the brilliant Elvis Costello! An absolute songwriting legend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ElvisCostello"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gene-simmons-bday-aug25",
-   "off": 6,
-   "type": "birthday",
-   "hot": false,
-   "title": "Gene Simmons is 77",
-   "blurb": "KISS bassist and co-lead singer Gene Simmons turns 77 on August 25, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Demon",
-     "copy": "Rock and Roll All Nite! Gene Simmons from KISS celebrates his 77th birthday on Tuesday. What's your favourite KISS anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#GeneSimmons"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shirley-manson-bday-aug26",
-   "off": 7,
-   "type": "birthday",
-   "hot": false,
-   "title": "Shirley Manson is 60",
-   "blurb": "Garbage frontwoman Shirley Manson celebrates her 60th birthday on August 26, 2026.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Love"
     },
     {
      "g": "decades-genres",
@@ -652,30 +444,227 @@
    ],
    "angles": [
     {
-     "name": "Garbage Goddess",
-     "copy": "Happy 60th Birthday to the iconic Shirley Manson from Garbage this Wednesday! Still looking like a superstar.",
+     "name": "Pop Star Birthday",
+     "for": "Nation Hits",
+     "copy": "Happy 40th Birthday to the amazing Christina Perri! Still love 'Jar of Hearts' after all these years. What's your top Christina Perri track?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "14:30",
      "tags": [
-      "#ShirleyManson"
+      "#ChristinaPerri #JarOfHearts"
      ]
     }
    ]
   },
   {
-   "id": "alex-lifeson-bday-aug27",
-   "off": 8,
+   "id": "robert-plant-birthday",
+   "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Alex Lifeson is 73",
-   "blurb": "Rush guitarist and co-founder Alex Lifeson turns 73 on August 27, 2026.",
+   "hot": true,
+   "title": "Robert Plant's 78th Birthday",
+   "blurb": "Led Zeppelin icon and rock legend Robert Plant turns 78 tomorrow, August 20th.",
    "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Alex_Lifeson"
+    "l": "SoulTracks",
+    "u": "https://www.soultracks.com/august"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock God",
+     "for": "Nation Rocks",
+     "copy": "Tomorrow, the one and only Robert Plant celebrates his 78th birthday! Get ready to crank some Led Zeppelin in his honour.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#RobertPlant #LedZeppelin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shaun-ryder-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Shaun Ryder's 64th Birthday",
+   "blurb": "Happy Mondays and Black Grape frontman Shaun Ryder turns 64 this Friday, August 23rd.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august23.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Madchester Icon",
+     "for": "Nation 90s",
+     "copy": "The legendary Shaun Ryder celebrates his 64th this Friday! Get your moves ready for some Happy Mondays and Black Grape tunes.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#ShaunRyder #HappyMondays"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "julian-casablancas-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Julian Casablancas' 47th Birthday",
+   "blurb": "The Strokes' charismatic lead singer Julian Casablancas celebrates his 47th birthday this Friday, August 23rd.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august23.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Indie Icon",
+     "for": "Nation Rocks",
+     "copy": "Wishing a Happy 47th Birthday to Julian Casablancas of The Strokes this Friday! What's your favourite track from the indie legend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#JulianCasablancas #TheStrokes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gene-simmons-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Gene Simmons' 77th Birthday",
+   "blurb": "KISS co-founder and bassist Gene Simmons turns 77 this Sunday, August 25th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "KISS Legend",
+     "for": "Nation Rocks",
+     "copy": "Rock 'n' Roll All Nite! Gene Simmons of KISS celebrates his 77th birthday this Sunday. Send some love to The Demon!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#GeneSimmons #KISS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rob-halford-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Rob Halford's 75th Birthday",
+   "blurb": "Judas Priest's iconic \"Metal God\" frontman Rob Halford celebrates his 75th birthday this Sunday, August 25th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal God",
+     "for": "Nation Rocks",
+     "copy": "Happy 75th Birthday to the one and only Metal God, Rob Halford of Judas Priest! What's your favourite Priest anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#RobHalford #JudasPriest"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "elvis-costello-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Elvis Costello's 72nd Birthday",
+   "blurb": "Influential singer-songwriter Elvis Costello turns 72 this Sunday, August 25th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
    },
    "fits": [
     {
@@ -689,34 +678,83 @@
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Guitar Legend",
-     "copy": "Wishing a very Happy 73rd Birthday to Rush's incredible guitarist, Alex Lifeson, this Thursday!",
+     "name": "Music Icon",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing a very Happy 72nd Birthday to the fantastic Elvis Costello this Sunday! What's the song that first got you into his music?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "14:00",
      "tags": [
-      "#AlexLifeson"
+      "#ElvisCostello #NewWave"
      ]
     }
    ]
   },
   {
-   "id": "glen-matlock-bday-aug27",
-   "off": 8,
+   "id": "amy-macdonald-birthday",
+   "off": 6,
    "type": "birthday",
-   "hot": false,
-   "title": "Glen Matlock is 70",
-   "blurb": "Original Sex Pistols bassist Glen Matlock celebrates his 70th birthday on August 27, 2026.",
+   "hot": true,
+   "title": "Amy Macdonald's 38th Birthday",
+   "blurb": "Scottish singer-songwriter Amy Macdonald, known for hits like \"This Is The Life,\" celebrates her 38th birthday this Sunday, August 25th.",
    "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Glen_Matlock"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish Talent",
+     "for": "Nation Radio Scotland",
+     "copy": "Happy 38th Birthday to Scotland's own Amy Macdonald! Still loving 'This Is The Life' and all her incredible tunes.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#AmyMacdonald #ScottishMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shirley-manson-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Shirley Manson's 60th Birthday",
+   "blurb": "Garbage frontwoman and Scottish music icon Shirley Manson celebrates her 60th birthday on Monday, August 26th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august26.html"
    },
    "fits": [
     {
@@ -725,21 +763,27 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Punk Pioneer",
-     "copy": "Anarchy in the UK! Original Sex Pistols bassist Glen Matlock turns 70 this Thursday. A true punk legend.",
+     "name": "Alternative Icon",
+     "for": "Nation Rocks",
+     "copy": "Happy 60th Birthday to the phenomenal Shirley Manson of Garbage! Still pushing boundaries and sounding incredible.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "13:00",
+     "time": "11:00",
      "tags": [
-      "#GlenMatlock"
+      "#ShirleyManson #Garbage"
      ]
     }
    ]
