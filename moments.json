@@ -1,15 +1,63 @@
 {
- "updated": "2026-08-21T05:21:06.449Z",
+ "updated": "2026-08-21T06:21:44.711Z",
  "moments": [
   {
-   "id": "august-bank-holiday-uk",
+   "id": "premier-league-opening",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League is BACK!",
+   "blurb": "The 2026/27 Premier League season kicks off today, Friday, August 21st, with Arsenal hosting newly-promoted Coventry City.",
+   "source": {
+    "l": "Premier League Official Site / The Guardian",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Opening Day Excitement",
+     "copy": "It's here! The Premier League is back with a bang today as Arsenal take on Coventry City. Who are you backing for the opening weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Weekend Fixtures Buzz",
+     "copy": "Premier League weekend incoming! Hull City face Man Utd tomorrow, while Sunday sees Brighton vs Aston Villa, Man City vs Bournemouth, and Newcastle vs Liverpool. What a start to the season!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#PLKickOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday",
    "off": 10,
    "type": "seasonal",
    "hot": true,
-   "title": "August Bank Holiday Weekend",
-   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31st, marking the unofficial end of summer.",
+   "title": "August Bank Holiday approaches",
+   "blurb": "The Late Summer Bank Holiday for England, Wales, and Northern Ireland is on Monday, August 31st, providing a long weekend to round off the summer.",
    "source": {
-    "l": "Gov.uk",
+    "l": "GOV.UK",
     "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
@@ -20,101 +68,49 @@
    ],
    "angles": [
     {
-     "name": "General Buzz",
-     "for": "",
-     "copy": "Long weekend incoming! Who's making the most of the August Bank Holiday? Sunshine or staycation, tell us your plans! #BankHoliday",
+     "name": "Long Weekend Countdown",
+     "copy": "Counting down to that glorious extra day off! The August Bank Holiday is just over a week away. What are your plans for the long weekend?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "07:00",
+     "time": "09:00",
      "tags": [
       "#BankHoliday"
      ]
     },
     {
-     "name": "Travel/Escape",
-     "for": "",
-     "copy": "Three-day weekend on the horizon! If you're heading out for the August Bank Holiday, remember to plan ahead for traffic. Where are you off to?",
+     "name": "Summer's Last Hurrah",
+     "copy": "The Late Summer Bank Holiday on August 31st is the unofficial end of summer for many. Make the most of it!",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "08:30",
+     "time": "14:00",
      "tags": [
-      "#BankHolidayTravel"
+      "#SummerVibes"
      ]
     }
    ]
   },
   {
-   "id": "creamfields-2026",
+   "id": "reading-leeds-festival",
    "off": 6,
    "type": "gig",
    "hot": true,
-   "title": "Creamfields Festival Kicks Off",
-   "blurb": "One of the UK's biggest electronic music festivals, Creamfields, takes over Daresbury, Cheshire from August 27-30, featuring acts like Calvin Harris, Swedish House Mafia, and Disclosure.",
+   "title": "Reading & Leeds Festival 2026",
+   "blurb": "Reading & Leeds Festival takes place next weekend, August 27-30, with headliners including Charli XCX, Dave, Florence + The Machine, and Fontaines D.C.",
    "source": {
-    "l": "Creamfields Official",
-    "u": "https://www.creamfields.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North West"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Excitement",
-     "for": "Nation Dance",
-     "copy": "It's almost time! Creamfields 2026 kicks off next week in Daresbury. Who's ready for four days of non-stop dance anthems and epic sets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Creamfields2026"
-     ]
-    },
-    {
-     "name": "Lineup Hype",
-     "for": "Nation Dance",
-     "copy": "From Calvin Harris to Swedish House Mafia and Disclosure, the Creamfields lineup is stacked! Who are you most buzzing to see hit the decks?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Creamfields"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "reading-leeds-2026",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Reading & Leeds Festivals Begin",
-   "blurb": "The twin Reading and Leeds Festivals run from August 27-30, bringing huge headliners like Charli XCX, Dave, Florence + The Machine, and Fontaines D.C. to rock fans.",
-   "source": {
-    "l": "Reading Festival",
+    "l": "Reading & Leeds Festival Official",
     "u": "https://www.readingfestival.com/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
@@ -122,21 +118,12 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Festival Countdown",
-     "for": "Nation Rocks",
-     "copy": "Reading & Leeds, we're coming for you! The festivals kick off next Thursday. Who's got their camping gear packed and setlist memorised?",
+     "name": "Festival Fever",
+     "copy": "Reading & Leeds Festival is almost here! Who are you most excited to see next weekend? So many huge names on the bill!",
      "channels": [
       "instagram",
       "facebook",
@@ -150,14 +137,15 @@
      ]
     },
     {
-     "name": "Headliner Spotlight",
-     "for": "Nation Hits",
-     "copy": "Charli XCX, Dave, Florence + The Machine... Reading & Leeds is bringing the biggest names! Which headliner are you hyped for most this year?",
+     "name": "Reading Rock-up",
+     "for": "Nation Rocks",
+     "copy": "Fontaines D.C. and Florence + The Machine are set to smash it at Reading & Leeds next week. Get ready for some serious rock and indie vibes!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "16:00",
      "tags": [
       "#ReadingFestival"
      ]
@@ -165,73 +153,108 @@
    ]
   },
   {
-   "id": "uk-singles-chart-aug21",
-   "off": 0,
-   "type": "culture",
+   "id": "victorious-festival",
+   "off": 7,
+   "type": "gig",
    "hot": true,
-   "title": "UK Official Singles Chart Update",
-   "blurb": "Sam Fender & Olivia Dean hold strong at #1 with 'Rein Me In', while Shakira & Burna Boy's World Cup anthem 'Dai Dai' is at #2, and Madonna & Kylie Minogue debut at #8 with 'Love Sensation'.",
+   "title": "Victorious Festival this weekend",
+   "blurb": "Victorious Festival brings big names to Portsmouth's Southsea Common from August 28-30, coinciding with the bank holiday weekend.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Victorious Festival Official",
+    "u": "https://www.victoriousfestival.co.uk/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Chart Toppers",
-     "for": "Nation Hits",
-     "copy": "The Official Singles Chart is IN! Sam Fender & Olivia Dean are still #1, but Shakira & Burna Boy are right behind them. Any surprises for you?",
+     "name": "Portsmouth Party",
+     "copy": "Victorious Festival is just one week away! Who's heading to Southsea Common for a bank holiday weekend of music by the sea?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "New Entry Buzz",
-     "for": "Nation 80s",
-     "copy": "Iconic collaboration alert! Madonna & Kylie Minogue's 'Love Sensation' is a brand new entry in the Top 10! What a duo!",
-     "channels": [
-      "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "11:00",
      "tags": [
-      "#MadonnaKylie"
+      "#VictoriousFestival"
      ]
     }
    ]
   },
   {
-   "id": "tv-vigil-triggerpoint",
-   "off": 9,
-   "type": "tv",
+   "id": "all-points-east",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "New UK TV Drama Premieres",
-   "blurb": "Two new drama series, 'Vigil' on BBC One and 'Trigger Point' on ITV1, both premiere on Sunday, August 30th, promising gripping viewing.",
+   "title": "All Points East Live in London",
+   "blurb": "The All Points East festival runs from August 21-30 in London, featuring a diverse lineup of artists.",
    "source": {
-    "l": "TV Zone UK",
-    "u": "https://www.tvzonenews.com/"
+    "l": "All Points East Official",
+    "u": "https://www.allpointseastfestival.com/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "East London Festivities",
+     "for": "Nation Radio London",
+     "copy": "All Points East is ON! East London is buzzing with incredible music over the next week. Who are you catching at Victoria Park?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#AllPointsEast"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "we-out-here-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "We Out Here Festival Underway",
+   "blurb": "Gilles Peterson's We Out Here Festival, celebrating jazz and UK club culture, is taking place in Dorset from August 20-23.",
+   "source": {
+    "l": "We Out Here Festival Official",
+    "u": "https://www.weoutherefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
     {
      "g": "nation-network",
      "sub": ""
@@ -239,43 +262,31 @@
    ],
    "angles": [
     {
-     "name": "Sunday Night Drama",
-     "for": "",
-     "copy": "Double bill of new drama this Sunday! Will you be diving into 'Vigil' on BBC One or 'Trigger Point' on ITV1? Decisions, decisions...",
+     "name": "Dorset Dance Delights",
+     "for": "Nation Dance",
+     "copy": "We Out Here Festival is bringing the best of jazz and club culture to Dorset this weekend! Gilles Peterson knows how to throw a party!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "15:00",
      "tags": [
-      "#SundayNightDrama"
-     ]
-    },
-    {
-     "name": "What to Watch",
-     "for": "",
-     "copy": "Get ready for some serious suspense! New series of 'Vigil' and 'Trigger Point' both land on August 30th. Which one has caught your eye?",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "19:30",
-     "tags": [
-      "#NewTV"
+      "#WeOutHere"
      ]
     }
    ]
   },
   {
-   "id": "tv-kill-jackie-wales",
+   "id": "green-man-festival",
    "off": 0,
-   "type": "tv",
-   "hot": false,
-   "title": "Catherine Zeta-Jones Series Filming in Swansea",
-   "blurb": "The new Catherine Zeta-Jones drama series 'Kill Jackie', adapted from Nick Harkaway's novel, is currently filming in locations including Swansea for a 2026 release.",
+   "type": "gig",
+   "hot": true,
+   "title": "Green Man Festival Live in Wales",
+   "blurb": "Wales' largest independent music and arts festival, Green Man, is currently live in the Brecon Beacons, offering a diverse cultural experience.",
    "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/tv/drama/new-uk-drama-2026/"
+    "l": "Green Man Festival Official",
+    "u": "https://www.greenman.net/"
    },
    "fits": [
     {
@@ -285,47 +296,265 @@
     {
      "g": "dragon",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
     }
    ],
    "angles": [
     {
-     "name": "Local Filming Buzz",
-     "for": "welsh-local",
-     "copy": "Hollywood in Wales! Catherine Zeta-Jones' new drama 'Kill Jackie' is filming in Swansea. Keep an eye out for film crews!",
+     "name": "Brecon Beacons Beats",
+     "for": "Nation Radio Wales",
+     "copy": "Green Man Festival is in full swing in the beautiful Brecon Beacons! Who's soaking up the music, arts, and incredible atmosphere this weekend?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "12:30",
      "tags": [
-      "#SwanseaFilm"
+      "#GreenManFestival"
      ]
     },
     {
-     "name": "Welsh Talent Spotlight",
-     "for": "dragon",
-     "copy": "Catherine Zeta-Jones starring in a new drama filming right here in Wales! 'Kill Jackie' sounds like a must-watch for 2026.",
+     "name": "Welsh Festival Vibes",
+     "for": "welsh-local",
+     "copy": "The Brecon Beacons are alive with Green Man Festival this weekend! If you're there, let us know who you're excited to see!",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "17:00",
      "tags": [
-      "#WelshTV"
+      "#GreenMan"
      ]
     }
    ]
   },
   {
-   "id": "bday-julian-casablancas",
-   "off": 2,
+   "id": "strictly-come-dancing-return",
+   "off": 29,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing is back next month!",
+   "blurb": "The 24th series of Strictly Come Dancing is set to launch on September 19th, with new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
+   "source": {
+    "l": "BBC / The Independent",
+    "u": "https://www.bbc.co.uk/strictly"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly Countdown",
+     "copy": "Get your glitterballs ready! Strictly Come Dancing returns next month with a brand new hosting trio. Who's excited for the sequins and salsa?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#Strictly"
+     ]
+    },
+    {
+     "name": "New Hosts Alert",
+     "copy": "Big changes for Strictly this year! Emma Willis, Josh Widdicombe, and Johannes Radebe are taking the reins. What do you think of the new line-up?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Strictly2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "great-british-bake-off-return",
+   "off": 12,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off returns in September",
+   "blurb": "The Great British Bake Off will return to Channel 4 in September, with Nigella Lawson joining as a new judge.",
+   "source": {
+    "l": "Channel 4 / Rayo",
+    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off Buzz",
+     "copy": "The tent is opening soon! The Great British Bake Off is back in September, and Nigella Lawson is joining the judging panel. Who's ready for some showstoppers?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "New Judge Nigella",
+     "copy": "Nigella Lawson in the Bake Off tent! We can't wait to see her critiques and maybe a few 'luscious' moments when the series returns next month.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#BakeOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usain-bolt-birthday",
+   "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "Julian Casablancas turns 48",
-   "blurb": "Julian Casablancas, frontman of The Strokes, celebrates his 48th birthday on August 23rd.",
+   "hot": true,
+   "title": "Usain Bolt turns 40",
+   "blurb": "Jamaican sprinting legend Usain Bolt, the fastest man alive, celebrates his 40th birthday today, August 21st.",
+   "source": {
+    "l": "Wikipedia / Britannica",
+    "u": "https://en.wikipedia.org/wiki/Usain_Bolt"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday for the Fastest Man",
+     "copy": "Happy 40th birthday to the one and only Usain Bolt! The sprinting legend is celebrating today. What's your favourite Bolt moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "07:00",
+     "tags": [
+      "#UsainBolt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kelis-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Kelis!",
+   "blurb": "American R&B singer Kelis, known for hits like 'Milkshake' and 'Caught Out There', celebrates her 46th birthday today.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/julian-casablancas.html"
+    "u": "https://www.famousbirthdays.com/people/kelis.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Kelis Turns 46",
+     "for": "Nation Hits",
+     "copy": "Happy 46th Birthday to the incredible Kelis! What's your go-to track from the 'Milkshake' singer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#Kelis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "liam-howlett-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Liam Howlett (The Prodigy) turns 55",
+   "blurb": "Liam Howlett, co-founder and mastermind of electronic music pioneers The Prodigy, celebrates his 55th birthday today.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Liam_Howlett"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Prodigy Legend's Birthday",
+     "for": "Nation Dance",
+     "copy": "Sending birthday wishes to Liam Howlett of The Prodigy, who turns 55 today! What's your favourite Prodigy anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#TheProdigy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "serj-tankian-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Serj Tankian (System of a Down) turns 59",
+   "blurb": "System of a Down frontman and distinctive vocalist Serj Tankian celebrates his 59th birthday today, August 21st.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/serj-tankian.html"
    },
    "fits": [
     {
@@ -339,262 +568,17 @@
    ],
    "angles": [
     {
-     "name": "Birthday Shoutout",
+     "name": "SOAD Singer's Day",
      "for": "Nation Rocks",
-     "copy": "Happy 48th Birthday to The Strokes' iconic frontman, Julian Casablancas! What's your favourite Strokes track?",
+     "copy": "Happy 59th Birthday to the iconic voice of System of a Down, Serj Tankian! What's your top SOAD track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "13:30",
      "tags": [
-      "#JulianCasablancas"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-shaun-ryder",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Shaun Ryder turns 64",
-   "blurb": "Happy Mondays and Black Grape frontman Shaun Ryder celebrates his 64th birthday on August 23rd.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/shaun-ryder.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday Shoutout",
-     "for": "Nation 90s",
-     "copy": "The one and only Shaun Ryder turns 64 this Sunday! What's your favourite Happy Mondays or Black Grape anthem?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ShaunRyder"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-elvis-costello",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Elvis Costello turns 72",
-   "blurb": "Renowned singer-songwriter Elvis Costello celebrates his 72nd birthday on August 25th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/elvis-costello.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday Wish",
-     "for": "Nation Classic Hits",
-     "copy": "Sending birthday wishes to the legendary Elvis Costello, who turns 72 on Monday! What's your go-to track from his incredible catalogue?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ElvisCostello"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-gene-simmons",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Gene Simmons turns 77",
-   "blurb": "KISS co-founder and bassist Gene Simmons celebrates his 77th birthday on August 25th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/gene-simmons.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend Birthday",
-     "for": "Nation Rocks",
-     "copy": "Happy 77th Birthday to The Demon himself, Gene Simmons of KISS! Which KISS track gets you rocking every time?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#GeneSimmons"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-alex-lifeson",
-   "off": 6,
-   "type": "birthday",
-   "hot": false,
-   "title": "Alex Lifeson turns 73",
-   "blurb": "Rush guitarist and co-founder Alex Lifeson celebrates his 73rd birthday on August 27th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/alex-lifeson.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar Hero Birthday",
-     "for": "Nation Rocks",
-     "copy": "A very happy 73rd Birthday to the legendary Alex Lifeson of Rush! What's your favourite Rush guitar riff?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#AlexLifeson"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-van-morrison",
-   "off": 10,
-   "type": "birthday",
-   "hot": false,
-   "title": "Van Morrison turns 81",
-   "blurb": "Iconic Northern Irish singer-songwriter Van Morrison celebrates his 81st birthday on August 31st.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/van-morrison.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday Tribute",
-     "for": "Nation Classic Hits",
-     "copy": "Happy 81st Birthday to the incomparable Van Morrison! From 'Brown Eyed Girl' to 'Moondance', his music is timeless. What's your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#VanMorrison"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-debbie-gibson",
-   "off": 10,
-   "type": "birthday",
-   "hot": false,
-   "title": "Debbie Gibson turns 56",
-   "blurb": "Pop sensation Debbie Gibson, known for hits like 'Foolish Beat' and 'Lost In Your Eyes', celebrates her 56th birthday on August 31st.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/debbie-gibson.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Princess Birthday",
-     "for": "Nation 80s",
-     "copy": "Wishing a very Happy 56th Birthday to the original pop princess, Debbie Gibson! What's your favourite track from her teen idol days?",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#DebbieGibson"
+      "#SerjTankian"
      ]
     }
    ]
