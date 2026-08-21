@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-21T15:20:48.636Z",
+ "updated": "2026-08-21T16:17:40.606Z",
  "moments": [
   {
-   "id": "premier-league-return",
+   "id": "premier-league-kickoff-2026",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Kicks Off",
-   "blurb": "The new Premier League season begins this weekend, with matches running from August 21-24, 2026, including Arsenal vs Coventry City and Newcastle United vs Liverpool.",
+   "title": "Premier League 2026/27 Kicks Off",
+   "blurb": "The 2026/27 Premier League season begins this weekend, with matches scheduled from Friday, August 21st to Monday, August 24th.",
    "source": {
-    "l": "Inapub Magazine",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiTtv0TBpbswMq2MvImkbDv3JMsCvse-n42Muk6HnPF0j6olTimg01LuEKEALyCFBsk40gJyqNVaCQBnob131v1lY0jZ_SAZH6IG12gpDbA1aqsiynjKQCOhEkghQ0IxRTNhMHTp_hqRAlu71J628FCEiJE-sNV_07SFechXxvA-HzGtM="
+    "l": "Premier League Official Site / OneFootball",
+    "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
     {
@@ -21,7 +21,7 @@
    "angles": [
     {
      "name": "Opening Weekend Buzz",
-     "copy": "Football is BACK! The Premier League season kicks off today, bringing all the drama, goals, and glory we've been waiting for. Who are you backing for the title?",
+     "copy": "It's BACK! The Premier League 2026/27 season kicks off today, bringing top-flight football back to our screens. Who are you backing for the title this year?",
      "channels": [
       "instagram",
       "facebook",
@@ -29,370 +29,334 @@
       "tiktok",
       "threads"
      ],
-     "time": "16:00",
+     "time": "10:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Your Team's Opener",
-     "copy": "That Friday feeling just hit different! Your team is back in action as the Premier League season begins. What's your score prediction for the opening fixture?",
+     "name": "Big Match Focus",
+     "copy": "Huge weekend of football ahead! Arsenal face Coventry tonight, Hull host Man Utd tomorrow, and Sunday sees Man City vs Bournemouth and Newcastle vs Liverpool. What's your must-watch game?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "17:30",
+     "time": "12:00",
      "tags": [
       "#PLKickOff"
+     ]
+    },
+    {
+     "name": "Local Team Shoutout",
+     "copy": "Your team is back in action! The Premier League season is officially underway. Get ready for all the drama, goals, and glory.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FootballIsBack"
      ]
     }
    ]
   },
   {
-   "id": "official-singles-chart",
+   "id": "all-points-east-2026",
    "off": 0,
-   "type": "culture",
+   "type": "gig",
    "hot": true,
-   "title": "New UK Singles Chart Toppers",
-   "blurb": "Sam Fender & Olivia Dean hold the number one spot with 'Rein Me In' on the Official Singles Chart Top 40 for August 13-19, 2026, while Madonna & Kylie Minogue enter at number 8 with 'Love Sensation'.",
+   "title": "All Points East Festival Underway",
+   "blurb": "The All Points East festival in London's Victoria Park is running from August 21st to 30th, featuring a diverse lineup of artists.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3QpRYC3HXWiIntGc1E9lDAgXcDjXkKnDPmI5WM0s9eQzhke1byoSMl22kXWoRJPuj3mxj4tfaG_EV0MSlJGutdNsZzlVVOsP6ACCXEEOcaw6Ohmve52BeJwO-vlUmGH2V4kaUJh2PleGyBBxQSJQ-2-c7Nzkg85xv"
+    "l": "All Points East Official Site",
+    "u": "https://www.allpointseastfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London Festival Vibes",
+     "copy": "Victoria Park is alive! All Points East is happening right now in London. Who's heading down for some incredible live music?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#AllPointsEast"
+     ]
+    },
+    {
+     "name": "Weekend Music Plans",
+     "copy": "If you're in London, All Points East is the place to be this weekend! Catch some of the hottest acts and soak up the festival atmosphere.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#LondonGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "we-out-here-festival-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "We Out Here Festival Wraps Up",
+   "blurb": "Gilles Peterson's We Out Here Festival, celebrating jazz, club culture, soul, and electronic music, concludes this weekend in Wimborne St Giles, Dorset, having run from August 20th-23rd.",
+   "source": {
+    "l": "We Out Here Festival Official Site",
+    "u": "https://www.weoutherefestival.com/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Dance"
     },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Finish",
+     "copy": "Last chance to catch the vibes at We Out Here Festival! Gilles Peterson's eclectic event wraps up this weekend in Dorset. Pure musical escapism.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#WeOutHere"
+     ]
+    },
+    {
+     "name": "Dorset Groove",
+     "copy": "From jazz to house, soul to hip hop - We Out Here Festival is bringing all the best sounds to Dorset this weekend. Who's immersed in the groove?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#FestivalLife"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rewind-festival-south-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "REWIND Festival South This Weekend",
+   "blurb": "The REWIND Festival South, a celebration of 80s music, is taking place this weekend, August 21st-23rd, in Henley-On-Thames.",
+   "source": {
+    "l": "REWIND Festival Official Site",
+    "u": "https://south.rewindfestival.com/"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Chart Topper",
-     "copy": "Still reigning supreme! Sam Fender & Olivia Dean are number one on the Official Singles Chart. Is 'Rein Me In' your anthem right now?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Pop Legends Unite",
-     "copy": "Madonna and Kylie Minogue together? Yes please! Their new track 'Love Sensation' has landed in the Top 10. What an iconic collab!",
+     "name": "80s Rewind",
+     "copy": "Get ready to go back to the 80s! REWIND Festival South is on this weekend in Henley-On-Thames. Dust off your leg warmers!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "18:00",
+     "time": "11:30",
      "tags": [
-      "#PopIcons"
+      "#REWINDFestival"
+     ]
+    },
+    {
+     "name": "Totally 80s",
+     "copy": "If you're at REWIND Festival this weekend, you're in for a treat of 80s classics! What's your favourite 80s anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "green-man-festival-fire-ban",
-   "off": 0,
+   "id": "victorious-festival-2026",
+   "off": 7,
    "type": "gig",
    "hot": true,
-   "title": "Green Man Festival: No Burning of the Green Man",
-   "blurb": "Due to extremely dry conditions and high fire risk, the traditional burning of the Green Man effigy at the Green Man Festival (August 20-23, 2026) has been cancelled, with an alternative send-off planned.",
+   "title": "Victorious Festival Next Weekend",
+   "blurb": "Victorious Festival, a major multi-genre music event, takes place on Southsea Common in Portsmouth from August 28th-30th.",
    "source": {
-    "l": "Nation.Cymru",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSj5SaW-G-Io4ydpQEoYP0NjVR-Ddbdb3o1wB46fy0sKBD_A1_hoT9P6j0Z2faOUbZtBt1-TrFoz20AAeg48Sg7rCQs0UQZt9PhBTbq-Fw5euTBVC4oUsr4z2j2ygW0Kwy5mZFfxltzhD4w87r02nF10rdPb82nHIWXNFNvTn9RmM3CDeRXjSN_8CxRmOLNwQk_UJh8_gC9w6syBoX_ik="
+    "l": "Victorious Festival Official Site",
+    "u": "https://www.victoriousfestival.co.uk/"
    },
    "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
     {
      "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Green Man adapts",
-     "copy": "Big news from Green Man Festival! Due to fire risks, the iconic burning of the Green Man won't go ahead this year, but organisers promise an alternative, special send-off. Safety first!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#GreenManFestival"
-     ]
+     "sub": ""
     },
-    {
-     "name": "Festival Weather Watch",
-     "copy": "Heading to Green Man this weekend? Remember the fire ban is in place due to dry conditions. Stay safe, stay hydrated, and enjoy the incredible music!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#GM26"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ariana-grande-o2",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Ariana Grande's London Residency Continues",
-   "blurb": "Ariana Grande's 'Eternal Sunshine Tour' continues its ten-night residency at The O2 in London, with shows running until September 1, 2026.",
-   "source": {
-    "l": "Time Out London",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9SBBI_Fq9Um_0ln978zKsuuiol-ZMn1uhKdQ7H9mfXyEYJrAUg6RG7_sec_v0HMZahiGevn6wVFhjA5br_E_DhP6gLvxnAPM_7G14vfEAfGSk_1SJ_5AB6E36iMvJuvfMPyTS5pYn30fTHDcJmWUgUdVq4UjOHxxzqH1hsYlOocxBPQOXZhQWrbk="
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Ariana Live in London",
-     "copy": "Still time to catch Ariana Grande! Her 'Eternal Sunshine' residency at The O2 is dazzling London audiences until September 1st. Who's got tickets?",
+     "name": "Seaside Festival Countdown",
+     "copy": "One week to go until Victorious Festival! Portsmouth is getting ready for a huge weekend of music by the sea. Who's excited?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "19:00",
+     "time": "10:00",
      "tags": [
-      "#ArianaGrande"
+      "#VictoriousFestival"
      ]
     },
     {
-     "name": "Eternal Sunshine Tour",
-     "copy": "Lavish production and all the hits! Ariana Grande is still bringing her 'Eternal Sunshine' tour to The O2. A must-see for pop fans!",
+     "name": "Bank Holiday Plans",
+     "copy": "Planning your Bank Holiday weekend? Victorious Festival is bringing the party to Portsmouth next Friday! Get your tickets sorted.",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "threads"
      ],
-     "time": "18:30",
+     "time": "14:00",
      "tags": [
-      "#EternalSunshine"
+      "#Portsmouth"
      ]
     }
    ]
   },
   {
-   "id": "big-food-festival-aberystwyth",
-   "off": 0,
-   "type": "seasonal",
+   "id": "shambala-festival-2026",
+   "off": 6,
+   "type": "gig",
    "hot": true,
-   "title": "Big Food Festival Aberystwyth",
-   "blurb": "The Big Food Festival, featuring street food and drink, is taking place in Aberystwyth from August 21-23, 2026, with free entry.",
+   "title": "Shambala Festival Approaches",
+   "blurb": "The independent and sustainable Shambala Festival, known for its eclectic and genre-hopping lineup, runs from August 27th-30th.",
    "source": {
-    "l": "News from Wales",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVEA8L9lUYY15_vaKI97ejfgg15SAwbexFWz7k9Ousa7mrVSgeXecOhidgWDOv7ufYIEttAwrC6618q9oBPNEf1T9lCPpTrNlpjihtH0cpBE_BwKspEdt-7LLdiVE2vZGIDudRFDPufz7XXpaF8Pn9nUpUGKx4PldK5AmBPF62gPA="
+    "l": "Shambala Festival Official Site",
+    "u": "https://www.shambalafestival.org/"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
      "g": "nation-network",
-     "sub": "Nation Radio Wales"
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Aberystwyth Foodie Weekend",
-     "copy": "Calling all foodies in Wales! The Big Food Festival is in Aberystwyth this weekend (Aug 21-23) with delicious street food and free entry. Get stuck in!",
+     "name": "Utopia Awaits",
+     "copy": "Adventures in Utopia are calling! Shambala Festival kicks off next Thursday, bringing its unique blend of music, art, and sustainability. Ready for it?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "12:00",
+     "time": "10:00",
      "tags": [
-      "#AberystwythFoodFest"
+      "#Shambala"
      ]
     },
     {
-     "name": "Taste of Wales",
-     "copy": "Looking for weekend plans? Head to Aberystwyth for the Big Food Festival! Three days of amazing street food and drink, all free!",
+     "name": "Eclectic Vibes",
+     "copy": "Shambala is almost here! If you love discovering new sounds and immersive experiences, this festival is for you. What are you looking forward to?",
      "channels": [
       "instagram",
       "facebook",
-      "tiktok"
+      "x",
+      "threads"
      ],
      "time": "13:00",
      "tags": [
-      "#WelshFood"
+      "#FestivalSeason"
      ]
     }
    ]
   },
   {
-   "id": "the-prodigy-milton-keynes",
-   "off": 1,
+   "id": "reading-leeds-festivals-2026",
+   "off": 7,
    "type": "gig",
    "hot": true,
-   "title": "The Prodigy in Milton Keynes",
-   "blurb": "The Prodigy are set to perform at The National Bowl in Milton Keynes on Saturday, August 22, 2026.",
+   "title": "Reading & Leeds Festivals Next Weekend",
+   "blurb": "The iconic Reading & Leeds Festivals, featuring major rock, indie, and alternative acts, are set for August 28th-30th.",
    "source": {
-    "l": "Trip.com",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_-nbqkR9f5qJ3mVn46QxoodfzT44n5L-wAH0TmGvuKLD7s_OpIvveQOx3YW-0y94JsQRQWTNk4VHVsl9qKjgHVDiJmJQ5GLB6J4VgLDVXYc90FUZhScA7ZVy1gvd8mlYpwZ2q_dDvTGYzWNadfZEPoih9FOA7WL-IdcQ0-V9ht4GwFTK3dYyVqQ="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Firestarter Live",
-     "copy": "Get ready for a massive night! The Prodigy are bringing their electrifying show to The National Bowl in Milton Keynes tomorrow. Who's going?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:30",
-     "tags": [
-      "#TheProdigy"
-     ]
-    },
-    {
-     "name": "Milton Keynes Rave",
-     "copy": "Still got tickets for The Prodigy in Milton Keynes tomorrow? Prepare for an unforgettable rave experience!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#ProdigyLive"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tv-new-series-august",
-   "off": 1,
-   "type": "tv",
-   "hot": true,
-   "title": "New TV Shows This Weekend",
-   "blurb": "A host of new TV series are launching this weekend, including the new series of 'The Voice UK' on ITV1 on Saturday, August 22nd, and crime drama 'This City is Ours' (Season 2) on BBC One in August.",
-   "source": {
-    "l": "TV Zone",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_FC3bDJP4GHA4kX30sa38hP_urxihroO1MchB_NfPLpWQEP9BM9mg7-i-bSQfxmIZg3n2qeGmwTjVLBM8Dus8p2QbAkIvXsg3Dwuzwi0FlNdlonu9jjNb_Ci_nlmeO72g9lnSmyvCE2iNU4eCDULdE7WorA=="
+    "l": "Reading & Leeds Festivals Official Site",
+    "u": "https://www.readingfestival.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Weekend TV Guide",
-     "copy": "Your weekend TV is sorted! The new series of The Voice UK kicks off tomorrow on ITV1, plus new dramas and factual shows hitting screens. What are you watching?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:45",
-     "tags": [
-      "#TheVoiceUK"
-     ]
-    },
-    {
-     "name": "New TV Alert",
-     "copy": "Tune in this weekend! From singing competitions to gripping crime dramas like 'This City is Ours', there's plenty of new TV to get stuck into.",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "17:15",
-     "tags": [
-      "#NewTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jesse-rutherford-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Jesse Rutherford",
-   "blurb": "Jesse Rutherford, frontman of The Neighbourhood, turns 35 today, August 21, 2026.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi8TKveQkmjLuCRVPqx5G14CSPRmSc9ab_rw8Hhy-rZKQBPZN7000PyYs87DTeU77cXZDNE_PV5hlSV200pBJpsJa43Pb5_Ig2cUjXhgo8cVhM-hM-2KUhMYim66GWSFprYYA2RXym9xkCxs9MXZfeRFFV0Q=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -400,13 +364,17 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Jesse's Big Day",
-     "copy": "Happy 35th Birthday to The Neighbourhood's incredible frontman, Jesse Rutherford! What's your favourite track from the band?",
+     "name": "Festival Frenzy",
+     "copy": "Reading & Leeds are just one week away! Get ready for the UK's biggest rock and indie festival. Who's got their wellies packed?",
      "channels": [
       "instagram",
       "facebook",
@@ -416,82 +384,99 @@
      ],
      "time": "09:00",
      "tags": [
-      "#JesseRutherford"
+      "#RandL26"
      ]
     },
     {
-     "name": "Music Birthday",
-     "copy": "Sending birthday wishes to Jesse Rutherford! Hope he has a fantastic day.",
+     "name": "Leeds Local Buzz",
+     "copy": "Leeds Festival is nearly here! The countdown is on for a massive weekend of music. Who's heading to Bramham Park?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "threads"
      ],
      "time": "12:00",
      "tags": [
-      "#TheNeighbourhood"
+      "#LeedsFestival"
+     ]
+    },
+    {
+     "name": "Reading Rock Out",
+     "copy": "Reading Festival is calling! The bank holiday weekend will be epic. What bands are you most excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ReadingFestival"
      ]
     }
    ]
   },
   {
-   "id": "kacey-musgraves-birthday",
-   "off": 0,
-   "type": "birthday",
+   "id": "strictly-come-dancing-return-talk",
+   "off": 29,
+   "type": "tv",
    "hot": true,
-   "title": "Happy Birthday Kacey Musgraves",
-   "blurb": "Grammy-winning country singer Kacey Musgraves celebrates her 38th birthday today, August 21, 2026.",
+   "title": "Strictly Come Dancing Buzz Builds",
+   "blurb": "Anticipation is growing for the 24th series of Strictly Come Dancing, with the launch show reportedly set for September 19th and the live shows beginning September 26th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi8TKveQkmjLuCRVPqx5G14CSPRmSc9ab_rw8Hhy-rZKQBPZN7000PyYs87DTeU77cXZDNE_PV5hlSV200pBJpsJa43Pb5_Ig2cUjXhgo8cVhM-hM-2KUhMYim66GWSFprYYA2RXym9xkCxs9MXZfeRFFV0Q=="
+    "l": "Entertainment Daily / TV Guide",
+    "u": "https://www.entertainmentdaily.co.uk/tv/strictly-come-dancing-2026-start-date-confirmed/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Country Queen's Birthday",
-     "copy": "Happy 38th Birthday to the one and only Kacey Musgraves! What's your favourite song from the country superstar?",
+     "name": "Strictly Countdown",
+     "copy": "The glitterball is almost back! Strictly Come Dancing is reportedly launching on September 19th. Who's ready for sequins, spray tans, and sensational dances?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "09:30",
      "tags": [
-      "#KaceyMusgraves"
+      "#Strictly"
      ]
     },
     {
-     "name": "Golden Hour for Kacey",
-     "copy": "Wishing a very Happy Birthday to Kacey Musgraves! Hope she's having a 'Golden Hour' today.",
+     "name": "New Hosts, New Season",
+     "copy": "New hosts Emma Willis, Josh Widdicombe, and Johannes Radebe are taking the reins for Strictly 2026. What do you think of the new line-up?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "13:00",
+     "time": "14:30",
      "tags": [
-      "#CountryMusic"
+      "#StrictlyComeDancing"
      ]
     }
    ]
   },
   {
-   "id": "serj-tankian-birthday",
+   "id": "bday-serj-tankian",
    "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Happy Birthday Serj Tankian",
-   "blurb": "Serj Tankian, the iconic frontman of System Of A Down, turns 59 today, August 21, 2026.",
+   "blurb": "Serj Tankian, frontman of System of a Down, turns 59 today. He was born on August 21, 1967.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi8TKveQkmjLuCRVPqx5G14CSPRmSc9ab_rw8Hhy-rZKQBPZN7000PyYs87DTeU77cXZDNE_PV5hlSV200pBJpsJa43Pb5_Ig2cUjXhgo8cVhM-hM-2KUhMYim66GWSFprYYA2RXym9xkCxs9MXZfeRFFV0Q=="
+    "u": "https://www.famousbirthdays.com/august/21.html"
    },
    "fits": [
     {
@@ -501,42 +486,31 @@
    ],
    "angles": [
     {
-     "name": "SOAD Legend's Birthday",
-     "copy": "Happy 59th Birthday to the incredible Serj Tankian from System Of A Down! What's your favourite SOAD anthem?",
+     "name": "SOAD Legend",
+     "copy": "Happy 59th Birthday to System of a Down's incredible frontman, Serj Tankian! What's your favourite SOAD track?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
       "#SerjTankian"
-     ]
-    },
-    {
-     "name": "Rock Icon Birthday",
-     "copy": "Wishing a very Happy Birthday to the powerful voice of System Of A Down, Serj Tankian!",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SystemOfADown"
      ]
     }
    ]
   },
   {
-   "id": "kelis-birthday",
+   "id": "bday-kelis",
    "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Happy Birthday Kelis",
-   "blurb": "R&B and soul singer Kelis, known for hits like 'Milkshake', celebrates her 46th birthday today, August 21, 2026.",
+   "blurb": "R&B singer Kelis, known for hits like 'Milkshake', celebrates her 47th birthday today. She was born on August 21, 1979.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi8TKveQkmjLuCRVPqx5G14CSPRmSc9ab_rw8Hhy-rZKQBPZN7000PyYs87DTeU77cXZDNE_PV5hlSV200pBJpsJa43Pb5_Ig2cUjXhgo8cVhM-hM-2KUhMYim66GWSFprYYA2RXym9xkCxs9MXZfeRFFV0Q=="
+    "u": "https://www.famousbirthdays.com/august/21.html"
    },
    "fits": [
     {
@@ -549,102 +523,36 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Kelis Turns 46",
-     "copy": "Her milkshake brings all the boys to the yard! Happy 46th Birthday to the amazing Kelis! What's your favourite Kelis track?",
+     "name": "Milkshake Queen",
+     "copy": "Happy 47th Birthday to the amazing Kelis! From 'Caught Out There' to 'Milkshake', she's given us so many bangers. What's your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "10:30",
+     "time": "11:00",
      "tags": [
       "#Kelis"
      ]
-    },
-    {
-     "name": "R&B Birthday",
-     "copy": "Wishing a very Happy Birthday to the fabulous Kelis! Hope she has a fantastic day.",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#RnbMusic"
-     ]
     }
    ]
   },
   {
-   "id": "glenn-hughes-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Glenn Hughes",
-   "blurb": "Legendary rock bassist and vocalist Glenn Hughes, known for his work with Deep Purple and Black Sabbath, turns 74 today, August 21, 2026.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi8TKveQkmjLuCRVPqx5G14CSPRmSc9ab_rw8Hhy-rZKQBPZN7000PyYs87DTeU77cXZDNE_PV5hlSV200pBJpsJa43Pb5_Ig2cUjXhgo8cVhM-hM-2KUhMYim66GWSFprYYA2RXym9xkCxs9MXZfeRFFV0Q=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend's Birthday",
-     "copy": "Happy 74th Birthday to the voice of rock, Glenn Hughes! From Deep Purple to Black Sabbath, what's your favourite era of his incredible career?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#GlennHughes"
-     ]
-    },
-    {
-     "name": "Deep Purple Icon",
-     "copy": "Sending birthday wishes to the legendary Glenn Hughes! A true icon of rock music.",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#DeepPurple"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "liam-howlett-birthday",
+   "id": "bday-liam-howlett",
    "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Happy Birthday Liam Howlett",
-   "blurb": "Liam Howlett, the mastermind behind The Prodigy, celebrates his 55th birthday today, August 21, 2026.",
+   "blurb": "Liam Howlett, the mastermind behind The Prodigy, turns 55 today. He was born on August 21, 1971.",
    "source": {
-    "l": "Music History Calendar",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx-dhntCOcd77nMrlxZ5olGFydIvthRNjVfp16iZ_YwZOeOL8ICz190mtiRdGk-mtUH-s6SC0lM4hEJhsY7oib3p2jSPGYH_2g2IMSQ3jgaMXojgfVxlg0quDYTy4k0NzaugKTiUgGZwC8eVziA7lI2As3iLdmuLTS"
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Liam_Howlett"
    },
    "fits": [
     {
@@ -654,31 +562,23 @@
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Prodigy Creator's Birthday",
-     "copy": "Happy 55th Birthday to Liam Howlett, the genius producer and founder of The Prodigy! What's your ultimate Prodigy track?",
+     "name": "Prodigy Pioneer",
+     "copy": "Happy 55th Birthday to Liam Howlett of The Prodigy! The electronic music legend continues to push boundaries. What's your go-to Prodigy track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "12:30",
-     "tags": [
-      "#LiamHowlett"
-     ]
-    },
-    {
-     "name": "Electronic Pioneer",
-     "copy": "Wishing a very Happy Birthday to Liam Howlett! The man who brought us so many electronic anthems.",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "15:00",
+     "time": "13:00",
      "tags": [
       "#TheProdigy"
      ]
@@ -686,36 +586,58 @@
    ]
   },
   {
-   "id": "guildhall-live-exeter",
-   "off": 8,
-   "type": "gig",
+   "id": "bday-shaun-ryder",
+   "off": 2,
+   "type": "birthday",
    "hot": true,
-   "title": "Guildhall Live: 50 Years of Music Festival",
-   "blurb": "Exeter's Guildhall Live festival celebrates 50 years of music with three days of free live tribute acts and local talent in Market Square from August 29-31, 2026.",
+   "title": "Happy Birthday Shaun Ryder",
+   "blurb": "Shaun Ryder, the iconic frontman of Happy Mondays and Black Grape, will turn 64 on Sunday, August 23rd. He was born in 1962.",
    "source": {
-    "l": "Visit Devon",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlPKGhh4UnwM3JFZ00JxNL6TDOlIlERLjaXSiV20PqSq9SrLSLvMWwsBzCyZjjXef_ONZ-f5WTAFGgA5m6negOROfqK5QM0E2vq0VL22Vd0O6hTh9-78Sc6wgmouBlzQdSkIl-fasSF4nF09r-CM2xDKI3JeS3fBye6knJ"
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Shaun_Ryder"
    },
    "fits": [
     {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
      "g": "decades-genres",
      "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Madchester Legend",
+     "copy": "Celebrating the one and only Shaun Ryder's 64th birthday this Sunday! Happy Mondays and Black Grape wouldn't be the same without him. What's your favourite lyric from Shaun?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ShaunRyder"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-julian-casablancas",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Julian Casablancas",
+   "blurb": "Julian Casablancas, the distinctive voice of The Strokes, celebrates his 48th birthday on Sunday, August 23rd. He was born in 1978.",
+   "source": {
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Julian_Casablancas"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -724,139 +646,366 @@
    ],
    "angles": [
     {
-     "name": "Exeter's Free Music Fest",
-     "for": "radio-exe",
-     "copy": "Get ready, Exeter! Guildhall Live is bringing three days of FREE music to Market Square from August 29-31, celebrating 50 years of hits and local talent. Don't miss it!",
+     "name": "Strokes Icon",
+     "copy": "Sending birthday wishes to The Strokes' frontman, Julian Casablancas, turning 48 this Sunday! Which Strokes song is your ultimate indie anthem?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ExeterEvents"
-     ]
-    },
-    {
-     "name": "Bank Holiday Beats",
-     "for": "radio-exe",
-     "copy": "Your August Bank Holiday weekend plans are sorted! Guildhall Live in Exeter promises tribute acts and local performers across five decades of music. Which era are you most excited for?",
-     "channels": [
-      "instagram",
-      "facebook",
+      "x",
       "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#GuildhallLive"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "margam-park-food-festival",
-   "off": 8,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Great British Food Festival at Margam Park",
-   "blurb": "The Great British Food Festival returns to Margam Country Park in Wales for three days of food, drink, and festivities during the August Bank Holiday weekend, from August 29-31, 2026.",
-   "source": {
-    "l": "News from Wales",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQCsMwcTP1YFWuADf2vguz7O5FoeZr-pFPVdSGJNVkEO0p5b7wsPQxf3cqpgxxjxU9k_XqBiPLToixMZXQa6NdUwlSJvuYnoZRWiyHpT8w_jrl0-NDgvpL-rkDVmuYPGwcpqF77MEh7AMI252BvS5gHB_zJb_MVBnRvRBsu8KHb7n8YoPOaBa8yS4rFlXgy_6uL7nX78w="
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Foodie Bank Holiday",
-     "copy": "Planning your Bank Holiday weekend? The Great British Food Festival is back at Margam Park from Aug 29-31! Get ready for a feast of local delights.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MargamPark"
-     ]
-    },
-    {
-     "name": "Welsh Food Fest",
-     "copy": "Three days of deliciousness are coming to Margam Country Park! The Great British Food Festival is perfect for families and food lovers. Who's coming?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#WelshFoodFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "martletwy-agricultural-show",
-   "off": 5,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Martletwy Agricultural Show in Pembrokeshire",
-   "blurb": "The 73rd Martletwy & District Young Farmers' Club Agricultural Show is set to take place at Carew Airfield, Pembrokeshire, on Wednesday, August 26, 2026.",
-   "source": {
-    "l": "News from Wales",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVEA8L9lUYY15_vaKI97ejfgg15SAwbexFWz7k9Ousa7mrVSgeXecOhidgWDOv7ufYIEttAwrC6618q9oBPNEf1T9lCPpTrNlpjihtH0cpBE_BwKspEdt-7LLdiVE2vZGIDudRFDPufz7XXpaF8Pn9nUpUGKx4PldK5AmBPF62gPA="
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pembrokeshire Show Time",
-     "copy": "Get ready for a fantastic day out in Pembrokeshire! The Martletwy Agricultural Show is on August 26th at Carew Airfield, celebrating the best of rural life.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Pembrokeshire"
-     ]
-    },
-    {
-     "name": "Family Fun in Pembrokeshire",
-     "copy": "Looking for family fun next week? Head to the Martletwy Agricultural Show on Wednesday for a taste of farming, food, and countryside life!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "tiktok"
      ],
      "time": "12:00",
      "tags": [
-      "#MartletwyShow"
+      "#JulianCasablancas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-elvis-costello",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Elvis Costello",
+   "blurb": "The influential rock and new wave artist Elvis Costello will turn 71 on Monday, August 25th. He was born in 1954.",
+   "source": {
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Elvis_Costello"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Music Legend",
+     "copy": "Happy 71st Birthday to the incredible Elvis Costello on Monday! A true songwriting genius. What's your favourite album from his vast catalogue?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ElvisCostello"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-gene-simmons",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Gene Simmons",
+   "blurb": "Gene Simmons, the iconic bassist and co-lead singer of KISS, celebrates his 77th birthday on Monday, August 25th. He was born in 1949.",
+   "source": {
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "KISS Icon",
+     "copy": "The Demon turns 77 on Monday! Happy Birthday to KISS legend Gene Simmons. What's your favourite KISS track to crank up?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#GeneSimmons"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-shirley-manson",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Shirley Manson",
+   "blurb": "Shirley Manson, the fierce lead singer of Garbage, celebrates her 60th birthday on Tuesday, August 26th. She was born in 1966 in Edinburgh, Scotland.",
+   "source": {
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Garbage Queen",
+     "copy": "Happy 60th Birthday to the incredible Shirley Manson of Garbage this Tuesday! A true rock icon. What's your favourite Garbage song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ShirleyManson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-mae-muller",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Mae Muller",
+   "blurb": "British pop singer Mae Muller, who represented the UK at Eurovision 2023, turns 29 on Tuesday, August 26th. She was born in 1997.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/26.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "UK Pop Star",
+     "copy": "Happy 29th Birthday to our very own Mae Muller this Tuesday! What's your favourite track from the Eurovision star?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#MaeMuller"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-glen-matlock",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Glen Matlock",
+   "blurb": "Glen Matlock, the original bassist for the Sex Pistols, celebrates his 70th birthday on Wednesday, August 27th. He was born in 1956 in London.",
+   "source": {
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Glen_Matlock"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Punk Pioneer",
+     "copy": "Happy 70th Birthday to Sex Pistols legend Glen Matlock this Wednesday! A true punk icon. What's your favourite track from the early days?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#GlenMatlock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-alex-lifeson",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Alex Lifeson",
+   "blurb": "Alex Lifeson, the acclaimed guitarist for Canadian rock band Rush, turns 73 on Wednesday, August 27th. He was born in 1953.",
+   "source": {
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Alex_Lifeson"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rush Guitar God",
+     "copy": "Wishing a very Happy 73rd Birthday to Rush's brilliant guitarist, Alex Lifeson, this Wednesday! What's your favourite Rush epic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#AlexLifeson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-mase",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Mase",
+   "blurb": "Rapper Mase, known for his 90s and 00s hits, celebrates his 49th birthday on Wednesday, August 27th. He was born in 1977.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/27.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Harlem World Rapper",
+     "copy": "Happy 49th Birthday to the one and only Mase this Wednesday! 'Feel So Good' is still a vibe. What's your favourite Mase track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Mase"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday-2026",
+   "off": 10,
+   "type": "seasonal",
+   "hot": true,
+   "title": "August Bank Holiday Approaching",
+   "blurb": "The Late Summer Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31st, marking the unofficial end of the summer holidays.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/bank-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Long Weekend Plans",
+     "copy": "The August Bank Holiday is just around the corner on Monday 31st! Who's making plans for a long weekend getaway or a local staycation?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "End of Summer",
+     "copy": "It's almost the last Bank Holiday of summer! Make the most of it before the kids go back to school. What are your Bank Holiday traditions?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#SummerVibes"
+     ]
+    },
+    {
+     "name": "Local Bank Holiday",
+     "copy": "Get ready for the August Bank Holiday this Monday! Whether you're in Wales or Devon, it's a chance for a well-deserved break. What's on your agenda?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#AugustBankHoliday"
      ]
     }
    ]
