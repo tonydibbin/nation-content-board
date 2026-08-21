@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-21T09:23:39.830Z",
+ "updated": "2026-08-21T10:17:14.994Z",
  "moments": [
   {
    "id": "premier-league-kickoff",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Kicks Off!",
-   "blurb": "The 2026/27 Premier League season begins today, Friday August 21st, with Arsenal taking on newly-promoted Coventry City.",
+   "title": "Premier League 2026/27 Kicks Off",
+   "blurb": "The new Premier League season for 2026/27 begins today, Friday, August 21st, with Arsenal hosting Coventry City, followed by a packed weekend of fixtures across the UK.",
    "source": {
-    "l": "Premier League Official Site",
+    "l": "Premier League",
     "u": "https://www.premierleague.com/"
    },
    "fits": [
@@ -18,8 +18,28 @@
      "sub": ""
     },
     {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
      "g": "welsh-local",
-     "sub": ""
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
     },
     {
      "g": "radio-exe",
@@ -32,62 +52,153 @@
    ],
    "angles": [
     {
-     "name": "Opening Match Excitement",
-     "for": "",
-     "copy": "Game on! The Premier League 2026/27 season officially kicks off today. Who are you backing for the title this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Arsenal vs Coventry",
-     "for": "",
-     "copy": "Arsenal start their title defence against newly-promoted Coventry City tonight. Big test for the new boys!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ARSCFC"
-     ]
-    },
-    {
-     "name": "Weekend Fixtures",
-     "for": "",
-     "copy": "It's a huge weekend of Premier League football! What matches are you most looking forward to?",
+     "name": "Opening Day Excitement",
+     "copy": "It's here! The Premier League 2026/27 season is officially underway. Who are you backing for glory this year?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "10:30",
      "tags": [
-      "#PLReturns"
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Weekend Fixtures",
+     "copy": "A huge weekend of football ahead as the Premier League season kicks off! Catch Arsenal, Man Utd, Chelsea, Liverpool, and more in action.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#PL"
+     ]
+    },
+    {
+     "name": "Local Team Focus",
+     "for": "nation-network",
+     "copy": "Your team is back! The Premier League season starts today. Get ready for all the drama, goals, and glory.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FootballIsBack"
      ]
     }
    ]
   },
   {
-   "id": "us-open-tennis-fanweek",
-   "off": 2,
+   "id": "scottish-prem-matches",
+   "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "US Open Tennis Starts Fan Week",
-   "blurb": "Fan Week and qualifying rounds for the US Open 2026 begin on Sunday, August 23rd, at Flushing Meadows, New York, leading into the main draw on August 30th.",
+   "title": "Scottish Premiership Weekend Action",
+   "blurb": "The Scottish Premiership continues this weekend, with Dundee United taking on Dundee in a local derby on Saturday, August 22nd, and Aberdeen facing Rangers on Sunday, August 30th.",
    "source": {
-    "l": "US Open Official Site",
-    "u": "https://www.usopen.org/"
+    "l": "SPFL",
+    "u": "https://spfl.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dundee Derby",
+     "copy": "It's the Dundee derby tomorrow! Who's taking the bragging rights in the Scottish Premiership? Dundee United vs Dundee kicks off at 5:45 PM.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#ScottishPremiership"
+     ]
+    },
+    {
+     "name": "Rangers vs Aberdeen",
+     "copy": "Mark your calendars! Aberdeen host Rangers in a big Scottish Premiership clash next Sunday, August 30th.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#SPFL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "super-league-round",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Super League Round 24",
+   "blurb": "Betfred Super League Round 24 features a full schedule of matches this weekend, including Leigh Leopards vs Bradford Bulls and Wigan Warriors vs Wakefield Trinity tonight, August 21st.",
+   "source": {
+    "l": "Super League",
+    "u": "https://www.superleague.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tonight's Rugby League",
+     "copy": "Super League action tonight! Leigh Leopards take on Bradford Bulls and Wigan Warriors face Wakefield Trinity. Who are you backing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#SuperLeague"
+     ]
+    },
+    {
+     "name": "Weekend Rugby",
+     "copy": "Round 24 of the Betfred Super League is in full swing this weekend. Catch all the hard-hitting action!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#RugbyLeague"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f1-dutch-gp",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "F1 Dutch Grand Prix Weekend",
+   "blurb": "Formula 1 is at Zandvoort for the Dutch Grand Prix this weekend, with practice and Sprint Qualifying today, the Sprint race tomorrow, and the main Grand Prix on Sunday, August 23rd.",
+   "source": {
+    "l": "Formula 1",
+    "u": "https://www.formula1.com/"
    },
    "fits": [
     {
@@ -97,65 +208,66 @@
    ],
    "angles": [
     {
-     "name": "Grand Slam Season Finale",
-     "for": "",
-     "copy": "The final Grand Slam of the year is almost here! US Open Fan Week kicks off Sunday. Who's your pick for the trophy?",
+     "name": "Zandvoort Race Weekend",
+     "copy": "Lights out, and away we go! It's the Dutch Grand Prix weekend, with all the F1 action from Zandvoort kicking off today. Who's your favourite to take pole?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "10:00",
      "tags": [
-      "#USOpen"
+      "#F1"
      ]
     },
     {
-     "name": "Qualifying Action",
-     "for": "",
-     "copy": "The road to the US Open main draw starts Sunday with the qualifying rounds. Could we see a new star emerge?",
+     "name": "Sprint Race Tomorrow",
+     "copy": "Get ready for the F1 Sprint race tomorrow at the Dutch Grand Prix! Plus, the main event on Sunday. Don't miss a minute!",
      "channels": [
       "instagram",
+      "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#Tennis"
+      "#DutchGP"
      ]
     }
    ]
   },
   {
-   "id": "creamfields-festival",
-   "off": 6,
+   "id": "all-points-east",
+   "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Creamfields Festival This Weekend",
-   "blurb": "One of the UK's biggest electronic dance music festivals, Creamfields, takes over Daresbury, Cheshire from August 27th to 30th.",
+   "title": "All Points East Festival Underway",
+   "blurb": "All Points East Festival runs from August 21st to 30th in Victoria Park, London, with headline shows this weekend and next, featuring Jorja Smith, Tems, Lorde, Deftones, Tyler, The Creator, and Twenty One Pilots.",
    "source": {
-    "l": "Creamfields Official Site",
-    "u": "https://www.creamfields.com/"
+    "l": "All Points East",
+    "u": "https://www.allpointseastfestival.com/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Festival Countdown",
-     "for": "Nation Dance",
-     "copy": "The countdown is ON! Creamfields kicks off next Thursday. Who are you buzzing to see on the decks?",
+     "name": "Festival Kicks Off",
+     "copy": "All Points East is ON! Victoria Park is buzzing with live music from today until August 30th. Who are you excited to see?",
      "channels": [
       "instagram",
       "facebook",
@@ -165,21 +277,34 @@
      ],
      "time": "11:00",
      "tags": [
-      "#Creamfields"
+      "#APE2026"
      ]
     },
     {
-     "name": "Weekend Plans",
-     "for": "",
-     "copy": "If you're heading to Creamfields this Bank Holiday weekend, get ready for four days of massive beats and incredible energy!",
+     "name": "This Weekend's Headliners",
+     "copy": "Lorde, Jorja Smith, Tems, and Deftones are hitting the All Points East stages this weekend. What's your top pick?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#FestivalSeason"
+      "#LondonGigs"
+     ]
+    },
+    {
+     "name": "Next Week's Highlights",
+     "copy": "Looking ahead at All Points East, Tyler, The Creator and Twenty One Pilots are set to headline next weekend. Planning your trip?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#VictoriaPark"
      ]
     }
    ]
@@ -189,13 +314,17 @@
    "off": 6,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festival Weekend",
-   "blurb": "The twin Reading & Leeds Festivals run from August 27th-30th, featuring headliners like Charli XCX, Dave, Florence + The Machine, and Fontaines D.C.",
+   "title": "Reading & Leeds Festival Next Week",
+   "blurb": "The Reading & Leeds Festivals take place next weekend, August 27-30th, featuring headliners like Charli XCX, Dave, Florence + The Machine, and Fontaines D.C.",
    "source": {
-    "l": "Reading & Leeds Official Site",
+    "l": "Reading & Leeds Festival",
     "u": "https://www.readingfestival.com/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
@@ -206,55 +335,48 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Who's Going?",
-     "for": "Nation Rocks",
-     "copy": "Reading & Leeds is just a week away! Which stage will you be glued to, and who's on your must-see list?",
+     "name": "Festival Countdown",
+     "copy": "Just one week to go until Reading & Leeds Festival! Who's got their tickets and is ready for a massive bank holiday weekend of music?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "12:00",
+     "time": "10:00",
      "tags": [
       "#RandL26"
      ]
     },
     {
-     "name": "Bank Holiday Beats",
-     "for": "Nation Hits",
-     "copy": "Get ready for a massive Bank Holiday weekend as Reading & Leeds bring the biggest names in music to the UK!",
+     "name": "Headliner Hype",
+     "copy": "Florence + The Machine, Charli XCX, Dave, and Fontaines D.C. are among the huge names at Reading & Leeds next weekend. Which stage will you be at?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "14:00",
      "tags": [
-      "#FestivalVibes"
+      "#FestivalSeason"
      ]
     }
    ]
   },
   {
-   "id": "strictly-come-dancing-build-up",
+   "id": "strictly-come-dancing-return",
    "off": 29,
    "type": "tv",
    "hot": true,
-   "title": "Strictly Buzz Builds",
-   "blurb": "Excitement is building for the 24th series of Strictly Come Dancing, with the full celebrity lineup confirmed and a launch show expected on September 19th.",
+   "title": "Strictly Come Dancing Nears Return",
+   "blurb": "Strictly Come Dancing is reportedly set to launch its new series on Saturday, September 19th, with live shows beginning a week later, featuring new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
    "source": {
-    "l": "BBC Official Site",
+    "l": "BBC",
     "u": "https://www.bbc.co.uk/strictly"
    },
    "fits": [
@@ -265,45 +387,43 @@
    ],
    "angles": [
     {
-     "name": "Strictly Countdown",
-     "for": "",
-     "copy": "The Strictly Come Dancing launch is just weeks away! Who are you most excited to see hit the ballroom?",
+     "name": "Strictly Launch Date",
+     "copy": "Get ready to cha-cha-cha! Strictly Come Dancing is reportedly returning on September 19th. Who's excited for the new line-up and hosts?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "09:30",
+     "time": "10:00",
      "tags": [
-      "#Strictly"
+      "#StrictlyComeDancing"
      ]
     },
     {
-     "name": "New Hosts & Judges",
-     "for": "",
-     "copy": "New hosts Emma Willis, Josh Widdicombe, Johannes Radebe, and new It Takes Two presenter Ellie Taylor are set to shake things up on Strictly this year!",
+     "name": "New Hosts",
+     "copy": "Emma Willis, Josh Widdicombe, and Johannes Radebe are taking over the Strictly hosting duties! What do you make of the new trio?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:30",
+     "time": "15:00",
      "tags": [
-      "#Strictly2026"
+      "#Strictly"
      ]
     }
    ]
   },
   {
-   "id": "gbbo-returns-september",
+   "id": "great-british-bake-off-return",
    "off": 12,
    "type": "tv",
    "hot": true,
-   "title": "Bake Off Teasers Out Now",
-   "blurb": "The Great British Bake Off is set to return to Channel 4 in September, with trailers already airing and Nigella Lawson joining as a new judge.",
+   "title": "Great British Bake Off Back Soon",
+   "blurb": "The Great British Bake Off is confirmed to return to Channel 4 in September, with reports suggesting a launch on September 2nd or 24th, and Nigella Lawson joining as a new judge.",
    "source": {
-    "l": "Channel 4 Official Site",
+    "l": "Channel 4",
     "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
    },
    "fits": [
@@ -314,9 +434,8 @@
    ],
    "angles": [
     {
-     "name": "Bake Off Tent Reopens",
-     "for": "",
-     "copy": "The Great British Bake Off tent is almost open for business! Trailers are out and we're ready for new bakers and Nigella Lawson joining the panel.",
+     "name": "Bake Off Teasers",
+     "copy": "The tent is almost open! The Great British Bake Off returns to Channel 4 next month. Who's ready for some showstoppers and soggy bottoms?",
      "channels": [
       "instagram",
       "facebook",
@@ -324,21 +443,20 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:30",
+     "time": "11:30",
      "tags": [
       "#GBBO"
      ]
     },
     {
-     "name": "New Judge Excitement",
-     "for": "",
-     "copy": "Nigella Lawson in the Bake Off tent? We can't wait to see what she brings to the judging panel this series!",
+     "name": "Nigella in the Tent",
+     "copy": "Nigella Lawson is joining Paul Hollywood as a judge in the new series of Bake Off! What do you think she'll bring to the judging panel?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "16:30",
      "tags": [
       "#BakeOff"
      ]
@@ -346,15 +464,15 @@
    ]
   },
   {
-   "id": "kacey-musgraves-bday",
-   "off": 0,
+   "id": "dua-lipa-birthday",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Kacey Musgraves!",
-   "blurb": "Grammy-winning country and pop singer-songwriter Kacey Musgraves turns 38 today.",
+   "title": "Happy 31st Birthday Dua Lipa",
+   "blurb": "Pop superstar Dua Lipa turns 31 tomorrow, August 22nd.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Kacey_Musgraves"
+    "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
    },
    "fits": [
     {
@@ -363,106 +481,49 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Golden Hour Vibes",
-     "for": "Nation Hits",
-     "copy": "Happy 38th Birthday to the incredible Kacey Musgraves! What's your favourite track from the 'Golden Hour' singer?",
+     "name": "Dua Lipa Turns 31",
+     "copy": "Wishing a very happy 31st birthday to the incredible Dua Lipa tomorrow! What's your favourite track from her?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
-      "#KaceyMusgraves"
+      "#DuaLipa"
      ]
     },
     {
-     "name": "Country Queen",
-     "for": "Nation Love",
-     "copy": "Sending birthday wishes to the one and only Kacey Musgraves! Play a Kacey hit to celebrate her special day.",
+     "name": "Pop Queen Birthday",
+     "copy": "Get ready to celebrate! Dua Lipa hits the big 3-1 tomorrow. We'll be playing her biggest hits all day!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "14:00",
      "tags": [
-      "#HappyBirthdayKacey"
+      "#HappyBirthdayDuaLipa"
      ]
     }
    ]
   },
   {
-   "id": "kelis-bday",
-   "off": 0,
+   "id": "julian-casablancas-birthday",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Kelis!",
-   "blurb": "The iconic R&B and pop singer, known for hits like 'Milkshake' and 'Caught Out There', Kelis Rogers turns 47 today.",
+   "title": "Julian Casablancas Turns 48",
+   "blurb": "The Strokes frontman Julian Casablancas celebrates his 48th birthday on Sunday, August 23rd.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Kelis"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Milkshake Maker",
-     "for": "Nation Hits",
-     "copy": "Happy 47th Birthday to the legendary Kelis! What's your go-to track from this R&B queen?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Kelis"
-     ]
-    },
-    {
-     "name": "R&B Icon",
-     "for": "Nation 00s",
-     "copy": "Wishing a very Happy Birthday to Kelis! Still loving her incredible sound and style.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#HappyBirthdayKelis"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "serj-tankian-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Serj Tankian!",
-   "blurb": "The powerful frontman of System of a Down, Serj Tankian, celebrates his 59th birthday today.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Serj_Tankian"
+    "u": "https://en.wikipedia.org/wiki/Julian_Casablancas"
    },
    "fits": [
     {
@@ -476,42 +537,40 @@
    ],
    "angles": [
     {
-     "name": "System of a Down Icon",
-     "for": "Nation Rocks",
-     "copy": "Happy 59th Birthday to the one and only Serj Tankian! What's your favourite System of a Down anthem?",
+     "name": "Strokes Singer Birthday",
+     "copy": "Happy 48th birthday to The Strokes' iconic frontman, Julian Casablancas, this Sunday! What's your top Strokes song?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#SerjTankian"
+      "#JulianCasablancas"
      ]
     },
     {
-     "name": "Powerful Vocals",
-     "for": "Nation Rocks",
-     "copy": "Wishing a very Happy Birthday to Serj Tankian! His voice is still as incredible as ever.",
+     "name": "Indie Icon",
+     "copy": "Raise a glass for Julian Casablancas, turning 48 on Sunday! We're celebrating the voice of The Strokes with some classic indie anthems.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#SOAD"
+      "#TheStrokes"
      ]
     }
    ]
   },
   {
-   "id": "gene-simmons-bday",
+   "id": "gene-simmons-birthday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Gene Simmons!",
-   "blurb": "The legendary 'Demon' of KISS, Gene Simmons, will celebrate his 77th birthday on Monday, August 25th.",
+   "title": "Gene Simmons Turns 77",
+   "blurb": "KISS co-founder and bassist Gene Simmons celebrates his 77th birthday on Tuesday, August 25th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
@@ -532,29 +591,27 @@
    ],
    "angles": [
     {
-     "name": "Rock Legend",
-     "for": "Nation Rocks",
-     "copy": "Get ready to rock! Gene Simmons of KISS turns 77 on Monday. What's your favourite KISS track?",
+     "name": "KISS Legend Birthday",
+     "copy": "Happy 77th birthday to the Demon himself, Gene Simmons of KISS, on Tuesday! What's your favourite KISS track to rock out to?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "10:30",
      "tags": [
       "#GeneSimmons"
      ]
     },
     {
-     "name": "The Demon",
-     "for": "Nation 70s",
-     "copy": "Wishing a very Happy Birthday to the iconic Gene Simmons this Monday! Still rocking after all these years.",
+     "name": "Rock Icon",
+     "copy": "77 years young! We're celebrating the birthday of rock legend Gene Simmons this Tuesday. Get ready for some classic KISS!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "16:00",
      "tags": [
       "#KISS"
      ]
@@ -562,12 +619,12 @@
    ]
   },
   {
-   "id": "elvis-costello-bday",
+   "id": "elvis-costello-birthday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Elvis Costello!",
-   "blurb": "Influential singer-songwriter Elvis Costello celebrates his 72nd birthday on Monday, August 25th.",
+   "title": "Elvis Costello Turns 72",
+   "blurb": "Influential singer-songwriter Elvis Costello will be 72 on Tuesday, August 25th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Elvis_Costello"
@@ -575,7 +632,7 @@
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
@@ -583,55 +640,53 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "New Wave Icon",
-     "for": "Nation Classic Hits",
-     "copy": "Happy 72nd Birthday to the brilliant Elvis Costello on Monday! Which of his classic hits is your favourite?",
+     "name": "Music Legend Birthday",
+     "copy": "Happy 72nd birthday to the brilliant Elvis Costello this Tuesday! What's your all-time favourite song from his incredible catalogue?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
       "#ElvisCostello"
      ]
     },
     {
-     "name": "Still Rocking",
-     "for": "Nation Rocks",
-     "copy": "Wishing a very Happy Birthday to the legendary Elvis Costello this Monday! What an incredible career.",
+     "name": "Costello Classics",
+     "copy": "Celebrating Elvis Costello's 72nd birthday on Tuesday with a dive into his classic tracks. Tune in for some timeless tunes!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "17:30",
      "tags": [
-      "#HappyBirthday"
+      "#NewWave"
      ]
     }
    ]
   },
   {
-   "id": "shirley-manson-bday",
-   "off": 5,
+   "id": "shania-twain-birthday",
+   "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Shirley Manson!",
-   "blurb": "The distinctive voice and frontwoman of Garbage, Shirley Manson, turns 60 on Tuesday, August 26th.",
+   "title": "Shania Twain Turns 61",
+   "blurb": "Country-pop icon Shania Twain celebrates her 61st birthday on Friday, August 28th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
+    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
@@ -640,49 +695,107 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Garbage Queen",
-     "for": "Nation Rocks",
-     "copy": "Happy 60th Birthday to the iconic Shirley Manson of Garbage on Tuesday! Still one of the coolest voices in rock.",
+     "name": "Queen of Country Pop",
+     "copy": "Happy 61st birthday to the one and only Shania Twain this Friday! What's your favourite hit from the country-pop legend?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#ShirleyManson"
+      "#ShaniaTwain"
      ]
     },
     {
-     "name": "90s Alt Legend",
-     "for": "Nation 90s",
-     "copy": "Wishing a very Happy Birthday to Shirley Manson this Tuesday! What's your favourite Garbage track?",
+     "name": "Man! I Feel Like A Birthday!",
+     "copy": "Get ready to sing along! Shania Twain turns 61 on Friday, and we're celebrating with her biggest anthems. You can't miss it!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "14:00",
      "tags": [
-      "#Garbage"
+      "#HappyBirthdayShania"
      ]
     }
    ]
   },
   {
-   "id": "uk-chart-update",
-   "off": 0,
-   "type": "culture",
+   "id": "florence-welch-birthday",
+   "off": 7,
+   "type": "birthday",
    "hot": true,
-   "title": "UK Chart Update",
-   "blurb": "Keep an eye on the official UK Singles Chart today for the latest movers, shakers, and potential new number ones.",
+   "title": "Florence Welch Turns 40",
+   "blurb": "Florence + The Machine frontwoman Florence Welch celebrates her 40th birthday on Friday, August 28th.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Florence_Welch"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Florence Turns 40",
+     "copy": "A very happy 40th birthday to the incredible Florence Welch of Florence + The Machine this Friday! What's your favourite song to get lost in?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FlorenceWelch"
+     ]
+    },
+    {
+     "name": "Musical Milestone",
+     "copy": "Celebrating Florence Welch's 40th this Friday! We're diving into the magical world of Florence + The Machine to mark the occasion.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#FlorenceAndTheMachine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "liam-payne-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Liam Payne Turns 33",
+   "blurb": "Former One Direction member Liam Payne celebrates his 33rd birthday on Saturday, August 29th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Liam_Payne"
    },
    "fits": [
     {
@@ -690,52 +803,159 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 10s"
     }
    ],
    "angles": [
     {
-     "name": "New Chart Friday",
-     "for": "Nation Hits",
-     "copy": "It's New Music Friday and time for the Official UK Singles Chart update! Who do you think will be at Number 1?",
+     "name": "1D Star's Birthday",
+     "copy": "Happy 33rd birthday to Liam Payne this Saturday! What's your favourite One Direction hit or Liam's solo track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
      "time": "10:00",
      "tags": [
-      "#OfficialCharts"
+      "#LiamPayne"
      ]
     },
     {
-     "name": "Who's Trending?",
-     "for": "",
-     "copy": "The UK charts are always buzzing! Which artists and tracks are you hoping to see climb the ranks today?",
+     "name": "Pop Celebration",
+     "copy": "Celebrating Liam Payne's 33rd birthday this Saturday! We'll be playing hits from his One Direction days and beyond.",
      "channels": [
       "instagram",
+      "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#ChartUpdate"
+      "#OneDirection"
      ]
     }
    ]
   },
   {
-   "id": "summer-weather-outlook",
-   "off": 0,
+   "id": "bebe-rexha-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Bebe Rexha Turns 37",
+   "blurb": "Singer-songwriter Bebe Rexha celebrates her 37th birthday on Sunday, August 30th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Bebe_Rexha"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bebe Rexha Birthday",
+     "copy": "Wishing a very happy 37th birthday to the fantastic Bebe Rexha this Sunday! What's your favourite banger from her?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BebeRexha"
+     ]
+    },
+    {
+     "name": "Pop & Dance Queen",
+     "copy": "It's Bebe Rexha's birthday this Sunday! We're turning up the volume on her biggest pop and dance hits to celebrate.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#HappyBirthdayBebe"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "van-morrison-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Van Morrison Turns 81",
+   "blurb": "Legendary Northern Irish singer-songwriter Van Morrison celebrates his 81st birthday on Monday, August 31st.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Van_Morrison"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Van The Man Turns 81",
+     "copy": "Happy 81st birthday to the iconic Van Morrison this Monday! What's the Van track that always gets you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#VanMorrison"
+     ]
+    },
+    {
+     "name": "Music Legend's Birthday",
+     "copy": "Celebrating the enduring career of Van Morrison, who turns 81 this Monday. We'll be playing his timeless classics all day!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Legend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday",
+   "off": 10,
    "type": "seasonal",
    "hot": true,
-   "title": "Warm & Sunny Weekend Ahead",
-   "blurb": "The UK is set for more sunny intervals and mild temperatures this weekend, with London reaching up to 26°C by Monday and discussions continuing about 2026 potentially being the warmest summer on record.",
+   "title": "August Bank Holiday Weekend",
+   "blurb": "The UK's August Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31st, marking the unofficial end of summer.",
    "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/"
+    "l": "Time and Date",
+    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
    },
    "fits": [
     {
@@ -743,42 +963,56 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
     },
     {
      "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Weekend Forecast",
-     "for": "",
-     "copy": "Sunny intervals and mild temperatures are on the cards for most of the UK this weekend! Perfect for enjoying the last of summer.",
+     "name": "Long Weekend Approaching",
+     "copy": "That's right, the August Bank Holiday is just around the corner on Monday, August 31st! What are your plans for the long weekend?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#UKWeather"
+      "#BankHoliday"
      ]
     },
     {
-     "name": "Hottest Summer Ever?",
-     "for": "",
-     "copy": "With temperatures set to climb, 2026 could be the UK's warmest summer on record! How are you making the most of it?",
+     "name": "End of Summer",
+     "copy": "The last Bank Holiday of summer is next Monday! Making the most of the long weekend before autumn officially arrives?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "13:00",
      "tags": [
-      "#Summer2026"
+      "#SummerVibes"
      ]
     }
    ]
