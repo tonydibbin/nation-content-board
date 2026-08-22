@@ -1,71 +1,29 @@
 {
- "updated": "2026-08-22T07:22:37.660Z",
+ "updated": "2026-08-22T08:14:38.235Z",
  "moments": [
   {
-   "id": "aug-bank-holiday-2026",
-   "off": 2,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August Bank Holiday Weekend",
-   "blurb": "The UK is gearing up for the last Bank Holiday of summer on Monday, August 24, 2026, marking a final chance for long weekend fun.",
-   "source": {
-    "l": "UK Government",
-    "u": "https://www.gov.uk/bank-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bank Holiday Plans",
-     "copy": "Three-day weekend incoming! What are your big plans for the August Bank Holiday? Making the most of the last official long weekend of summer?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#BankHoliday"
-     ]
-    },
-    {
-     "name": "Escape the Bank Holiday Rush",
-     "copy": "Dodging the Bank Holiday crowds or diving headfirst into the action? Tell us your strategy for the long weekend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#AugustBankHoliday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "reading-leeds-2026",
+   "id": "reading-leeds-festival-2026",
    "off": 6,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festival Kicks Off",
-   "blurb": "The iconic Reading and Leeds Festivals are set to dominate the UK music scene this Bank Holiday weekend, from August 28-30, 2026, with major headliners and rising stars.",
+   "title": "Reading & Leeds Festival Returns",
+   "blurb": "The iconic Reading & Leeds Festival is set to take over the August Bank Holiday weekend, bringing the biggest names in music to two sites across the UK.",
    "source": {
-    "l": "Reading & Leeds Festival",
+    "l": "Festival Official Site",
     "u": "https://www.readingfestival.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     },
     {
      "g": "decades-genres",
@@ -78,8 +36,8 @@
    ],
    "angles": [
     {
-     "name": "Festival Vibe",
-     "copy": "Reading & Leeds Festival is just days away! Who are you most hyped to see on the main stage this Bank Holiday weekend?",
+     "name": "Festival Line-up Hype",
+     "copy": "Reading & Leeds is almost here! Who are you most excited to see tear up the main stage this Bank Holiday weekend?",
      "channels": [
       "instagram",
       "facebook",
@@ -87,121 +45,14 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#RandL26"
      ]
     },
     {
-     "name": "Leeds vs Reading",
-     "copy": "It's the annual debate: Reading or Leeds? Which festival has the best atmosphere, best line-up, best everything?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ReadingFestival",
-      "#LeedsFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "creamfields-2026",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Creamfields North Returns",
-   "blurb": "Creamfields North, one of the world's leading electronic music festivals, takes over Cheshire this Bank Holiday weekend, August 28-30, 2026, bringing together top DJs and dance acts.",
-   "source": {
-    "l": "Creamfields",
-    "u": "https://www.creamfields.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Creamfields Countdown",
-     "copy": "Who's ready for Creamfields North? The Bank Holiday weekend is about to get LOUD! What sets are you absolutely not missing?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#Creamfields2026"
-     ]
-    },
-    {
-     "name": "Dance Anthem Prep",
-     "copy": "Getting your Creamfields playlist ready? What's the one track that HAS to be dropped this weekend?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#DanceMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "official-singles-chart",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Latest UK Official Singles Chart",
-   "blurb": "The UK's Official Singles Chart Top 40 was announced yesterday, with a new number one potentially shaking up the summer soundtrack.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Chart Topper",
-     "copy": "The latest Official Singles Chart is out! Has your favourite made it to Number 1, or is there a new contender for the top spot?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#OfficialChart"
-     ]
-    },
-    {
-     "name": "Chart Movers",
-     "copy": "Who's climbing and who's dropping in the latest Official Singles Chart? Any surprise entries or long-standing favourites holding strong?",
+     "name": "Bank Holiday Weekend Plans",
+     "copy": "Forget the tent, just imagine the tunes! Reading & Leeds is the ultimate Bank Holiday soundtrack. What's your festival anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -211,68 +62,133 @@
      ],
      "time": "12:00",
      "tags": [
-      "#UKChart"
+      "#BankHolidayWeekend"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-august-2026",
-   "off": 0,
-   "type": "sport",
+   "id": "august-bank-holiday-uk",
+   "off": 9,
+   "type": "seasonal",
    "hot": true,
-   "title": "Premier League & EFL Season Underway",
-   "blurb": "The Premier League and EFL Championship seasons are in full swing this August, with teams battling it out across the UK.",
+   "title": "August Bank Holiday Weekend",
+   "blurb": "The late August Bank Holiday is approaching on Monday, August 31st, for England, Wales, and Northern Ireland, marking the unofficial end of summer.",
    "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/"
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Football Weekend",
-     "copy": "It's another big weekend in English football! Who are you backing in the Premier League and EFL fixtures?",
+     "name": "Bank Holiday Countdown",
+     "copy": "Three-day weekend incoming! The August Bank Holiday is just around the corner. What are your last-gasp summer plans?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
-      "#PremierLeague",
-      "#EFL"
+      "#BankHoliday"
      ]
     },
     {
-     "name": "Early Season Form",
-     "copy": "Two weeks into the season, which teams are already looking like title contenders or relegation candidates? Discuss!",
+     "name": "Local Bank Holiday Vibes",
+     "copy": "Long weekend loading for Wales, England & NI! How are you making the most of the August Bank Holiday in your local area?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "10:30",
+     "time": "14:00",
      "tags": [
-      "#Football"
+      "#AugustBankHoliday"
      ]
     }
    ]
   },
   {
-   "id": "dua-lipa-bday",
+   "id": "strictly-come-dancing-2026-buzz",
+   "off": 28,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing Buzz Builds",
+   "blurb": "Anticipation is high as the celebrity line-up for Strictly Come Dancing 2026 has been announced, with the launch show reportedly set for September 19th.",
+   "source": {
+    "l": "BBC",
+    "u": "https://www.bbc.co.uk/strictly"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly Line-up Chat",
+     "copy": "The sequins are being polished! The Strictly 2026 line-up is out, and the countdown to the September 19th launch is ON. Who are you rooting for this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#StrictlyComeDancing"
+     ]
+    },
+    {
+     "name": "New Hosts Reaction",
+     "copy": "New era, new hosts! Emma Willis, Josh Widdicombe and Johannes Radebe are taking the Strictly reins this year. Thoughts?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Strictly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dua-lipa-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 31st Birthday Dua Lipa",
-   "blurb": "Today, August 22, 2026, marks the 31st birthday of global pop superstar Dua Lipa, known for hits like 'New Rules' and 'Levitating'.",
+   "title": "Dua Lipa turns 31",
+   "blurb": "Today, August 22nd, marks the 31st birthday of global pop superstar Dua Lipa, known for hits like 'New Rules' and 'Levitating'.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august22.html"
    },
    "fits": [
     {
@@ -281,17 +197,13 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Dua Lipa Turns 31",
-     "copy": "Sending huge birthday wishes to the incredible Dua Lipa, who turns 31 today! What's your favourite track from the pop queen?",
+     "name": "Happy Birthday Dua Lipa",
+     "copy": "Sending big birthday love to Dua Lipa, who turns 31 today! What's your favourite track from the pop queen?",
      "channels": [
       "instagram",
       "facebook",
@@ -299,33 +211,34 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:30",
      "tags": [
       "#DuaLipa"
      ]
     },
     {
-     "name": "Pop Powerhouse",
-     "copy": "Happy Birthday to Dua Lipa! From 'New Rules' to 'Dance The Night', she consistently delivers. What's her most iconic song?",
+     "name": "Dua Lipa Top Track",
+     "copy": "From 'IDGAF' to 'Dance The Night', Dua Lipa is 31 today! Which of her incredible songs is always on repeat for you?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "13:00",
      "tags": [
-      "#HappyBirthdayDuaLipa"
+      "#PopMusic"
      ]
     }
    ]
   },
   {
-   "id": "roland-orzabal-bday",
+   "id": "roland-orzabal-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 65th Birthday Roland Orzabal",
-   "blurb": "Roland Orzabal, co-founder of the iconic British band Tears for Fears, celebrates his 65th birthday today, August 22, 2026.",
+   "title": "Roland Orzabal is 65",
+   "blurb": "Roland Orzabal, co-founder, singer, and guitarist of the iconic band Tears for Fears, celebrates his 65th birthday on August 22nd.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Roland_Orzabal"
@@ -338,51 +251,49 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Tears for Fears Legend",
-     "copy": "Wishing a very Happy 65th Birthday to Roland Orzabal of Tears for Fears! What's the ultimate TFF anthem for you?",
+     "name": "Tears for Fears Tribute",
+     "copy": "Happy 65th birthday to Roland Orzabal of Tears for Fears! From 'Everybody Wants To Rule The World' to 'Shout', what's their ultimate hit for you?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "09:30",
      "tags": [
       "#TearsForFears"
      ]
     },
     {
-     "name": "Shout Out to Roland",
-     "copy": "Happy 65th Birthday to the songwriting genius Roland Orzabal! 'Everybody Wants to Rule the World' or 'Shout'? Which is your pick?",
+     "name": "Orzabal's Influence",
+     "copy": "Celebrating Roland Orzabal's 65th today! The voice behind so many 80s anthems. What's your go-to Tears for Fears track?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "16:00",
+     "time": "14:30",
      "tags": [
-      "#RolandOrzabal"
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "howie-dorough-bday",
+   "id": "howie-dorough-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 53rd Birthday Howie Dorough",
-   "blurb": "Howie Dorough, a beloved member of the legendary boy band Backstreet Boys, turns 53 today, August 22, 2026.",
+   "title": "Howie Dorough turns 53",
+   "blurb": "Backstreet Boy Howie Dorough, a beloved member of the iconic boyband, celebrates his 53rd birthday today, August 22nd.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Howie_Dorough"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august22.html"
    },
    "fits": [
     {
@@ -400,43 +311,32 @@
    ],
    "angles": [
     {
-     "name": "Backstreet's Back Birthday",
-     "copy": "Happy 53rd Birthday to Howie Dorough from the Backstreet Boys! Get ready to sing along to your favourite BSB track today!",
+     "name": "Boyband Legend Birthday",
+     "copy": "Everybody (yeah!) wish Howie Dorough of the Backstreet Boys a very happy 53rd birthday! What's your favourite BSB singalong?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "11:30",
+     "time": "10:30",
      "tags": [
       "#BackstreetBoys"
-     ]
-    },
-    {
-     "name": "Howie D Day",
-     "copy": "Wishing a fantastic 53rd Birthday to Howie Dorough! Which Backstreet Boys song brings back the best memories for you?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#HowieDorough"
      ]
     }
    ]
   },
   {
-   "id": "tori-amos-bday",
-   "off": 0,
+   "id": "shaun-ryder-birthday",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 63rd Birthday Tori Amos",
-   "blurb": "The influential singer-songwriter and pianist Tori Amos celebrates her 63rd birthday today, August 22, 2026.",
+   "title": "Shaun Ryder is 64",
+   "blurb": "Tomorrow, August 23rd, the legendary frontman of Happy Mondays and Black Grape, Shaun Ryder, turns 64.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Tori_Amos"
+    "u": "https://en.wikipedia.org/wiki/Shaun_Ryder"
    },
    "fits": [
     {
@@ -450,93 +350,31 @@
    ],
    "angles": [
     {
-     "name": "Tori Amos at 63",
-     "copy": "Happy 63rd Birthday to the unique and brilliant Tori Amos! Her music has touched so many. What's your go-to Tori track?",
+     "name": "Madchester Icon",
+     "copy": "The 'Madchester' icon, Shaun Ryder, turns 64 tomorrow! Get ready to celebrate the Happy Mondays and Black Grape legend. What's his best track?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "13:00",
+     "time": "16:00",
      "tags": [
-      "#ToriAmos"
-     ]
-    },
-    {
-     "name": "Piano Queen Birthday",
-     "copy": "Celebrating the incredible Tori Amos on her 63rd Birthday! An artist like no other. Which album is your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#HappyBirthdayToriAmos"
+      "#ShaunRyder"
      ]
     }
    ]
   },
   {
-   "id": "rick-springfield-bday",
+   "id": "julian-casablancas-birthday",
    "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 77th Birthday Rick Springfield",
-   "blurb": "Australian musician, singer, songwriter, and actor Rick Springfield, famous for 'Jessie's Girl', turns 77 tomorrow, August 23, 2026.",
+   "title": "Julian Casablancas turns 48",
+   "blurb": "Julian Casablancas, the distinctive voice and frontman of The Strokes, celebrates his 48th birthday tomorrow, August 23rd.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Rick_Springfield"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jessie's Girl Turns 77",
-     "copy": "Tomorrow, Rick Springfield celebrates his 77th Birthday! Time to blast 'Jessie's Girl' at full volume. What's your favourite 80s earworm from him?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#RickSpringfield"
-     ]
-    },
-    {
-     "name": "Rock Star Birthday",
-     "copy": "Getting ready to wish Rick Springfield a Happy 77th Birthday tomorrow! What's the best Rick Springfield song that isn't 'Jessie's Girl'?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#HappyBirthdayRick"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "julian-casablancas-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 48th Birthday Julian Casablancas",
-   "blurb": "Julian Casablancas, frontman of the influential indie rock band The Strokes, celebrates his 48th birthday tomorrow, August 23, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Julian_Casablancas"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august23.html"
    },
    "fits": [
     {
@@ -550,94 +388,28 @@
    ],
    "angles": [
     {
-     "name": "Strokes Singer Turns 48",
-     "copy": "Tomorrow, we're wishing Julian Casablancas of The Strokes a Happy 48th Birthday! What's your favourite track from the indie rock icon?",
+     "name": "Strokes Leader's Birthday",
+     "copy": "Tomorrow, raise a glass to Julian Casablancas of The Strokes, turning 48! What's your favourite indie anthem from the band?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "16:30",
+     "time": "17:00",
      "tags": [
       "#TheStrokes"
      ]
-    },
-    {
-     "name": "Indie Icon Birthday",
-     "copy": "Happy 48th to Julian Casablancas tomorrow! 'Last Nite' or 'Someday'? What's your ultimate Strokes track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#JulianCasablancas"
-     ]
     }
    ]
   },
   {
-   "id": "marshall-thompson-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 84th Birthday Marshall Thompson",
-   "blurb": "Marshall Thompson, a founding member and drummer of the legendary soul group The Chi-Lites, turns 84 on Monday, August 24, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Marshall_Thompson"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chi-Lites Legend",
-     "copy": "Wishing Marshall Thompson of The Chi-Lites a very Happy 84th Birthday this Monday! What's your favourite soul classic from the band?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#TheChiLites"
-     ]
-    },
-    {
-     "name": "Soulful Birthday",
-     "copy": "Happy 84th Birthday to Marshall Thompson on Monday! 'Oh Girl' or 'Have You Seen Her'? Which Chi-Lites hit is your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MarshallThompson"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "elvis-costello-bday",
+   "id": "elvis-costello-birthday",
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 72nd Birthday Elvis Costello",
-   "blurb": "The acclaimed English singer-songwriter Elvis Costello, known for his prolific career and diverse musical styles, celebrates his 72nd birthday on Tuesday, August 25, 2026.",
+   "title": "Elvis Costello is 72",
+   "blurb": "The influential singer-songwriter Elvis Costello will celebrate his 72nd birthday on Tuesday, August 25th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Elvis_Costello"
@@ -649,56 +421,40 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Costello at 72",
-     "copy": "On Tuesday, we're wishing a Happy 72nd Birthday to the one and only Elvis Costello! What's your favourite track from the legend?",
+     "name": "Rock Legend Birthday",
+     "copy": "Happy 72nd birthday to the incomparable Elvis Costello this Tuesday! Which of his genre-spanning tracks is your all-time favourite?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "10:30",
+     "time": "09:00",
      "tags": [
       "#ElvisCostello"
-     ]
-    },
-    {
-     "name": "New Wave Icon",
-     "copy": "Happy 72nd Birthday to Elvis Costello on Tuesday! 'Pump It Up' or 'Oliver's Army'? What's your pick?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#HappyBirthdayElvis"
      ]
     }
    ]
   },
   {
-   "id": "gene-simmons-bday",
+   "id": "gene-simmons-birthday",
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 77th Birthday Gene Simmons",
-   "blurb": "Gene Simmons, the iconic 'Demon' bassist and co-lead singer of the legendary rock band Kiss, turns 77 on Tuesday, August 25, 2026.",
+   "title": "Gene Simmons turns 77",
+   "blurb": "Kiss bassist and co-lead singer, Gene Simmons, will be celebrating his 77th birthday on Tuesday, August 25th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
    },
    "fits": [
     {
@@ -712,94 +468,28 @@
    ],
    "angles": [
     {
-     "name": "Kiss Legend Turns 77",
-     "copy": "Rock 'n' Roll All Nite! Wishing a huge Happy 77th Birthday to Kiss's Gene Simmons on Tuesday! What's your favourite Kiss anthem?",
+     "name": "Kiss Icon Birthday",
+     "copy": "The 'Demon' himself, Gene Simmons, turns 77 on Tuesday! Get ready to rock and roll all night to celebrate the Kiss legend.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "12:00",
+     "time": "11:00",
      "tags": [
       "#KissArmy"
      ]
-    },
-    {
-     "name": "Demon's Birthday",
-     "copy": "Happy 77th Birthday to the one and only Gene Simmons this Tuesday! What's the most outrageous Kiss moment you remember?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#GeneSimmons"
-     ]
     }
    ]
   },
   {
-   "id": "billy-ray-cyrus-bday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 65th Birthday Billy Ray Cyrus",
-   "blurb": "Country music star Billy Ray Cyrus, known for 'Achy Breaky Heart' and his acting career, celebrates his 65th birthday on Tuesday, August 25, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Billy_Ray_Cyrus"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Achy Breaky Birthday",
-     "copy": "Howdy! Happy 65th Birthday to Billy Ray Cyrus on Tuesday! What's your favourite country-pop classic from him?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#BillyRayCyrus"
-     ]
-    },
-    {
-     "name": "Country Icon",
-     "copy": "Wishing Billy Ray Cyrus a very Happy 65th Birthday this Tuesday! Still got 'Achy Breaky Heart' stuck in your head?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:30",
-     "tags": [
-      "#HappyBirthdayBillyRay"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shirley-manson-bday",
+   "id": "shirley-manson-birthday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 60th Birthday Shirley Manson",
-   "blurb": "Shirley Manson, the fierce and distinctive lead singer of the Scottish-American rock band Garbage, celebrates her 60th birthday on Wednesday, August 26, 2026.",
+   "title": "Shirley Manson is 60",
+   "blurb": "The fierce and iconic frontwoman of Garbage, Shirley Manson, celebrates her 60th birthday on Wednesday, August 26th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
@@ -812,156 +502,32 @@
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Garbage Frontwoman at 60",
-     "copy": "Wishing a very Happy 60th Birthday to the iconic Shirley Manson of Garbage on Wednesday! What's your favourite track from the Scottish rock queen?",
+     "name": "Garbage Queen Birthday",
+     "copy": "Happy 60th to the incredible Shirley Manson of Garbage this Wednesday! What's your top track from the grunge-pop legends?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#ShirleyManson"
-     ]
-    },
-    {
-     "name": "Alt-Rock Legend",
-     "copy": "Happy 60th Birthday to Shirley Manson this Wednesday! From 'Stupid Girl' to 'Only Happy When It Rains', which Garbage song do you love most?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#Garbage"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "valerie-simpson-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 78th Birthday Valerie Simpson",
-   "blurb": "Valerie Simpson, half of the legendary R&B songwriting and performing duo Ashford & Simpson, celebrates her 78th birthday on Wednesday, August 26, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Valerie_Simpson"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Ashford & Simpson Icon",
-     "copy": "Wishing a joyous Happy 78th Birthday to the incredible Valerie Simpson on Wednesday! Her music with Nick Ashford defined an era. What's your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#AshfordAndSimpson"
-     ]
-    },
-    {
-     "name": "Soulful Birthday",
-     "copy": "Happy 78th Birthday to Valerie Simpson this Wednesday! 'Ain't No Mountain High Enough' or 'Solid'? What's your go-to track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ValerieSimpson"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "glen-matlock-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 70th Birthday Glen Matlock",
-   "blurb": "Glen Matlock, the original bassist and songwriter for the legendary punk rock band the Sex Pistols, turns 70 on Thursday, August 27, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Glen_Matlock"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Punk Rock Pioneer",
-     "copy": "Happy 70th Birthday to punk rock legend Glen Matlock of the Sex Pistols on Thursday! What's your favourite Sex Pistols track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#SexPistols"
-     ]
-    },
-    {
-     "name": "God Save The Queen Bday",
-     "copy": "Wishing a very Happy 70th Birthday to Glen Matlock this Thursday! The man who helped shape punk rock history. What's your top punk anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#GlenMatlock"
+      "#ShirleyManson"
      ]
     }
    ]
   },
   {
-   "id": "alex-lifeson-bday",
+   "id": "alex-lifeson-birthday",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 73rd Birthday Alex Lifeson",
-   "blurb": "Alex Lifeson, the iconic guitarist and co-founder of the progressive rock band Rush, celebrates his 73rd birthday on Thursday, August 27, 2026.",
+   "title": "Alex Lifeson turns 73",
+   "blurb": "Alex Lifeson, the influential guitarist and co-founder of the progressive rock band Rush, celebrates his 73rd birthday on Thursday, August 27th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Alex_Lifeson"
@@ -973,48 +539,36 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
      "name": "Rush Guitar God",
-     "copy": "Happy 73rd Birthday to the incredible Alex Lifeson of Rush on Thursday! His guitar work is legendary. What's your favourite Rush epic?",
+     "copy": "Wishing a very happy 73rd birthday to Rush's guitar legend, Alex Lifeson, this Thursday! What's your favourite Rush epic?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "12:30",
+     "time": "11:30",
      "tags": [
       "#RushBand"
-     ]
-    },
-    {
-     "name": "Lifeson at 73",
-     "copy": "Wishing a fantastic 73rd Birthday to Alex Lifeson this Thursday! Celebrate with some classic Rush – what's your go-to track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#AlexLifeson"
      ]
     }
    ]
   },
   {
-   "id": "shania-twain-bday",
+   "id": "shania-twain-birthday",
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 61st Birthday Shania Twain",
-   "blurb": "The 'Queen of Country Pop', Shania Twain, known for massive hits like 'Man! I Feel Like A Woman!' and 'That Don't Impress Me Much', turns 61 on Friday, August 28, 2026.",
+   "title": "Shania Twain is 61",
+   "blurb": "The 'Queen of Country Pop', Shania Twain, will turn 61 on Friday, August 28th, known for global hits like 'Man! I Feel Like A Woman!'.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august28.html"
    },
    "fits": [
     {
@@ -1023,21 +577,13 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Shania Turns 61",
-     "copy": "Man! She feels like a woman! Happy 61st Birthday to the one and only Shania Twain this Friday! What's your all-time favourite Shania hit?",
+     "name": "Shania's Big Day",
+     "copy": "Let's go girls! Shania Twain turns 61 this Friday. What's your ultimate feel-good Shania anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -1045,36 +591,23 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "12:00",
      "tags": [
       "#ShaniaTwain"
-     ]
-    },
-    {
-     "name": "Country Pop Royalty",
-     "copy": "Wishing the Queen of Country Pop, Shania Twain, a very Happy 61st Birthday this Friday! Which of her iconic anthems gets you singing every time?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HappyBirthdayShania"
      ]
     }
    ]
   },
   {
-   "id": "jack-black-bday",
+   "id": "florence-welch-birthday",
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 57th Birthday Jack Black",
-   "blurb": "Actor, comedian, and musician Jack Black, known for Tenacious D and his roles in countless films, celebrates his 57th birthday on Friday, August 28, 2026.",
+   "title": "Florence Welch turns 40",
+   "blurb": "Florence Welch, the enigmatic frontwoman of Florence + The Machine, celebrates her 40th birthday on Friday, August 28th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jack_Black"
+    "u": "https://en.wikipedia.org/wiki/Florence_Welch"
    },
    "fits": [
     {
@@ -1082,66 +615,18 @@
      "sub": "Nation Rocks"
     },
     {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Legend of the Fall Birthday",
-     "copy": "Happy 57th Birthday to the legendary Jack Black this Friday! What's your favourite Tenacious D song or Jack Black movie moment?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#JackBlack"
-     ]
-    },
-    {
-     "name": "Tenacious D Day",
-     "copy": "It's Jack Black's 57th Birthday on Friday! Time to crank up some Tenacious D and celebrate the ultimate rock-comedy icon. Which song is a must-play?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#TenaciousD"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bebe-rexha-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 37th Birthday Bebe Rexha",
-   "blurb": "American singer-songwriter Bebe Rexha, known for her chart-topping collaborations and solo hits, turns 37 on Sunday, August 30, 2026.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bebe_Rexha"
-   },
-   "fits": [
-    {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Bebe Rexha at 37",
-     "copy": "Wishing a very Happy 37th Birthday to the incredible Bebe Rexha this Sunday! What's your favourite track from the pop superstar?",
+     "name": "Florence's Fortieth",
+     "copy": "Happy 40th to the magnificent Florence Welch this Friday! Which Florence + The Machine masterpiece is your favourite?",
      "channels": [
       "instagram",
       "facebook",
@@ -1149,22 +634,93 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "13:30",
      "tags": [
-      "#BebeRexha"
+      "#FlorenceAndTheMachine"
      ]
+    }
+   ]
+  },
+  {
+   "id": "van-morrison-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Van Morrison is 81",
+   "blurb": "The legendary Northern Irish singer-songwriter Van Morrison will celebrate his 81st birthday on Monday, August 31st.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Van_Morrison"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     },
     {
-     "name": "Pop Star Birthday",
-     "copy": "Happy 37th Birthday to Bebe Rexha on Sunday! Get ready to play 'Meant to Be' or 'I'm a Mess' to celebrate. Which is your favourite?",
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Music Icon Birthday",
+     "copy": "Happy 81st birthday to the iconic Van Morrison this Bank Holiday Monday! From 'Brown Eyed Girl' to 'Moondance', what's his greatest hit?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "09:00",
      "tags": [
-      "#HappyBirthdayBebe"
+      "#VanMorrison"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debbie-gibson-birthday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Debbie Gibson turns 56",
+   "blurb": "Pop sensation Debbie Gibson, who made waves in the 80s, will celebrate her 56th birthday on Monday, August 31st.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august31.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s Pop Princess",
+     "copy": "Wishing a very happy 56th birthday to 80s pop princess Debbie Gibson this Monday! Which of her catchy tunes takes you back?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#DebbieGibson"
      ]
     }
    ]
