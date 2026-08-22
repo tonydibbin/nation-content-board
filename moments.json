@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-22T16:09:35.071Z",
+ "updated": "2026-08-22T19:13:43.705Z",
  "moments": [
   {
-   "id": "premier-league-kickoff-2026",
+   "id": "premier-league-mw1",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Kicks Off!",
-   "blurb": "The 2026/27 Premier League season officially starts today, Saturday August 22nd, with a packed schedule of opening weekend fixtures across the UK.",
+   "title": "Premier League Opening Weekend",
+   "blurb": "The 2026/27 Premier League season kicked off on Friday, August 21st, with Matchweek 1 continuing through the weekend and Monday.",
    "source": {
     "l": "Premier League Official",
-    "u": "https://www.premierleague.com/"
+    "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
     {
@@ -20,41 +20,29 @@
    ],
    "angles": [
     {
-     "name": "General Excitement",
-     "copy": "It's back! The Premier League season 2026/27 kicks off today. Who are you backing for the title?",
+     "name": "Title Contenders",
+     "copy": "The Premier League is back! Who's already looking like title contenders and who's got a point to prove after the opening weekend?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Local Team Focus",
-     "copy": "Your team is back in action! Premier League is LIVE today – catch all the opening weekend drama.",
+     "name": "Weekend Highlights",
+     "copy": "First games, first goals, first upsets! What's been your highlight of the Premier League's return so far?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "12:00",
-     "tags": [
-      "#FootballIsBack"
-     ]
-    },
-    {
-     "name": "Weekend Plans",
-     "copy": "Football fans, your weekend plans are sorted! The new Premier League season is officially underway.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "tiktok"
-     ],
-     "time": "14:00",
      "tags": [
       "#PL"
      ]
@@ -62,21 +50,235 @@
    ]
   },
   {
-   "id": "all-points-east-2026",
-   "off": 0,
+   "id": "creamfields-2026",
+   "off": 5,
    "type": "gig",
    "hot": true,
-   "title": "All Points East Festival Continues",
-   "blurb": "London's All Points East festival is in full swing this weekend, with Lorde headlining tonight (Saturday 22nd) and Deftones on Sunday 23rd, before returning next weekend with Tyler, The Creator and Twenty One Pilots.",
+   "title": "Creamfields Festival",
+   "blurb": "Creamfields, one of the UK's biggest electronic dance music festivals, takes place in Daresbury, Cheshire from August 27th to 30th.",
    "source": {
-    "l": "All Points East",
-    "u": "https://www.allpointseastfestival.com/"
+    "l": "Creamfields Official",
+    "u": "https://www.creamfields.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North West"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Buzzing for Creamfields",
+     "copy": "Creamfields is almost here! Who are you buzzing to see on the Arc Stage or in the Steel Yard this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Creamfields"
+     ]
+    },
+    {
+     "name": "Rave Gear Ready",
+     "copy": "Get your rave gear ready! Creamfields is set to take over Cheshire next week. Any last-minute tips for first-timers?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#EDM"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-2026",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Reading & Leeds Festivals",
+   "blurb": "The twin Reading and Leeds Festivals run from August 28th to 30th, featuring headliners like Charli XCX, Dave, Florence + The Machine, and Fontaines D.C.",
+   "source": {
+    "l": "Reading Festival Official",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Headliner Excitement",
+     "copy": "Reading & Leeds weekend is just around the corner! Which headliner has you most excited to hit the fields?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Festival Prep",
+     "copy": "Tent packed, wellies ready? Reading & Leeds is about to kick off. Who's making the pilgrimage this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#FestivalSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "notting-hill-carnival-2026",
+   "off": 8,
+   "type": "culture",
+   "hot": true,
+   "title": "Notting Hill Carnival",
+   "blurb": "Europe's largest street festival, Notting Hill Carnival, returns to West London from August 30th to 31st, with the Steel Band competition on Saturday the 29th.",
+   "source": {
+    "l": "Notting Hill Carnival Official",
+    "u": "https://nhcarnival.org/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
     },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Carnival Vibes",
+     "copy": "Notting Hill Carnival is set to bring incredible vibes to London this Bank Holiday weekend! Who's ready for the parades and sound systems?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#NottingHillCarnival"
+     ]
+    },
+    {
+     "name": "Favourite Part",
+     "copy": "Get ready for the colours and sounds of Notting Hill Carnival! What's your favourite part of London's biggest street party?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#NHC26"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "manchester-pride-2026",
+   "off": 6,
+   "type": "culture",
+   "hot": true,
+   "title": "Manchester Pride Festival",
+   "blurb": "Manchester Pride Festival takes place from August 28th to 31st, celebrating the LGBTQ+ community with a parade on Saturday, August 29th.",
+   "source": {
+    "l": "Manchester Pride Official",
+    "u": "https://www.manchesterpride.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North West"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Celebrate Pride",
+     "copy": "Manchester Pride is back this Bank Holiday weekend! Ready to celebrate love and community in the Gay Village?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#ManchesterPride"
+     ]
+    },
+    {
+     "name": "Parade Excitement",
+     "copy": "The Manchester Pride Parade is happening next Saturday! What are you most looking forward to at this year's festival?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Pride2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-rein-me-in",
+   "off": 0,
+   "type": "music",
+   "hot": true,
+   "title": "UK Singles Chart #1",
+   "blurb": "Sam Fender and Olivia Dean's \"Rein Me In\" holds the top spot on the Official UK Singles Chart for the week of August 20-26, 2026.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
@@ -88,167 +290,150 @@
    ],
    "angles": [
     {
-     "name": "Saturday Headliner",
-     "copy": "Lorde takes the stage tonight at All Points East! Who's at Victoria Park for the atmospheric pop queen?",
+     "name": "Still Number 1",
+     "copy": "Still reigning supreme! Sam Fender & Olivia Dean hold onto #1 on the UK Singles Chart with 'Rein Me In'. Is it your song of the summer?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "17:00",
+     "time": "09:30",
      "tags": [
-      "#APELondon"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Weekend Vibes",
-     "copy": "All Points East is delivering the goods this weekend! Deftones tomorrow, Lorde tonight - London is rocking.",
+     "name": "Top 10 Favourite",
+     "copy": "The UK's Official Number 1 is 'Rein Me In' by Sam Fender & Olivia Dean! What's your favourite track in the Top 10 right now?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#AllPointsEast"
-     ]
-    },
-    {
-     "name": "Next Weekend Tease",
-     "copy": "Still buzzing from All Points East? Tyler, The Creator and Twenty One Pilots are still to come next weekend!",
-     "channels": [
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "10:00",
+     "time": "13:00",
      "tags": [
-      "#LondonMusic"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
-   "id": "we-out-here-festival-finale",
+   "id": "uk-weather-august",
    "off": 0,
-   "type": "gig",
+   "type": "seasonal",
    "hot": true,
-   "title": "We Out Here Festival Wraps Up",
-   "blurb": "The Gilles Peterson-curated We Out Here Festival in Dorset concludes today, Saturday August 22nd, after four days celebrating jazz, soul, hip hop, and UK club culture.",
+   "title": "UK Weather - Late Summer Warmth",
+   "blurb": "Much of the UK, especially the South East, is expecting mild temperatures and sunny intervals this week, with highs potentially reaching 26°C by mid-week.",
    "source": {
-    "l": "We Out Here Festival",
-    "u": "https://www.weoutherefestival.com/"
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Last Day Energy",
-     "copy": "It's the final day of We Out Here Festival in Dorset! Who's soaking up the last of the incredible jazz, soul, and club sounds?",
+     "name": "Sunny Spell",
+     "copy": "Sun's out, stay out! Enjoying the mild, sunny spell across the UK this week before the Bank Holiday weekend.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "08:30",
      "tags": [
-      "#WeOutHere"
+      "#UKWeather"
      ]
     },
     {
-     "name": "Festival Recap",
-     "copy": "What a weekend at We Out Here! Gilles Peterson's festival wraps up today, leaving us with some amazing musical memories.",
+     "name": "Summer Plans",
+     "copy": "A lovely week ahead with temperatures climbing! Perfect weather for those late summer plans.",
      "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#SummerVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "european-athletics-birmingham",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "European Athletics Championships Birmingham",
+   "blurb": "Birmingham is hosting the European Athletics Championships, the first time Britain has welcomed the prestigious event.",
+   "source": {
+    "l": "European Athletics",
+    "u": "https://www.european-athletics.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Standout Star",
+     "copy": "What an incredible week of athletics in Birmingham! Who's been your standout star at the European Championships?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#EuroAthletics"
+     ]
+    },
+    {
+     "name": "Britain Hosting",
+     "copy": "Britain making history hosting the European Athletics Championships! Have you been following the action from Birmingham?",
+     "channels": [
+      "instagram",
+      "facebook",
       "x",
       "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#Dorset"
+      "#Birmingham2026"
      ]
     }
    ]
   },
   {
-   "id": "wilco-glasgow",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Wilco Live in Glasgow",
-   "blurb": "American alt-rock pioneers Wilco bring their iconic sound to the Glasgow Royal Concert Hall tonight, Saturday August 22nd, celebrating 30 years in independent music.",
-   "source": {
-    "l": "Go Radio Glasgow",
-    "u": "https://www.thisisgoradio.com/events/wilco/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tonight's Gig",
-     "copy": "Glasgow! Wilco are in town tonight at the Royal Concert Hall. Ready for a night of their pioneering alt-rock?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#WilcoGlasgow"
-     ]
-    },
-    {
-     "name": "30 Years of Wilco",
-     "copy": "Celebrating 30 years of Wilco's incredible music tonight in Glasgow! What's your favourite Wilco track?",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#AltRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-david-marks-beach-boys",
+   "id": "bday-debbi-peterson",
    "off": 0,
    "type": "birthday",
-   "hot": true,
-   "title": "Happy 78th to David Marks",
-   "blurb": "David Marks, guitarist and early member of The Beach Boys, celebrates his 78th birthday today, Saturday August 22nd.",
+   "hot": false,
+   "title": "Birthday - Debbi Peterson (The Bangles)",
+   "blurb": "Debbi Peterson, drummer and vocalist for The Bangles, turns 65 today.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/David_Marks"
+    "u": "https://en.wikipedia.org/wiki/Debbi_Peterson"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
@@ -257,8 +442,8 @@
    ],
    "angles": [
     {
-     "name": "Beach Boys Legend",
-     "copy": "Happy 78th Birthday to David Marks, an original Beach Boy! Still surfing through the years.",
+     "name": "Happy Birthday Debbi",
+     "copy": "Happy 65th birthday to Debbi Peterson, the powerhouse drummer and vocalist from The Bangles! What's your favourite Bangles track?",
      "channels": [
       "instagram",
       "facebook",
@@ -266,30 +451,31 @@
      ],
      "time": "09:00",
      "tags": [
-      "#BeachBoys"
+      "#TheBangles"
      ]
     },
     {
-     "name": "Guitar Hero",
-     "copy": "Wishing a very happy 78th to David Marks, the talented guitarist who helped shape The Beach Boys' early sound!",
+     "name": "Still Rocking",
+     "copy": "Celebrating Debbi Peterson of The Bangles on her 65th birthday today! Still rocking after all these years.",
      "channels": [
-      "x",
-      "threads"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "12:00",
+     "time": "13:00",
      "tags": [
-      "#SurfRock"
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "bday-roland-orzabal-tears-for-fears",
+   "id": "bday-roland-orzabal",
    "off": 0,
    "type": "birthday",
-   "hot": true,
-   "title": "Happy 65th to Roland Orzabal",
-   "blurb": "Roland Orzabal, co-founder, singer, and songwriter of the iconic duo Tears For Fears, turns 65 today, Saturday August 22nd.",
+   "hot": false,
+   "title": "Birthday - Roland Orzabal (Tears for Fears)",
+   "blurb": "Roland Orzabal, co-founder of the iconic band Tears for Fears, celebrates his 66th birthday today.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Roland_Orzabal"
@@ -306,303 +492,48 @@
    ],
    "angles": [
     {
-     "name": "80s Icon",
-     "copy": "Happy 65th Birthday to Roland Orzabal of Tears For Fears! What's your go-to track from the synth-pop legends?",
+     "name": "Happy Birthday Roland",
+     "copy": "Wishing a very happy 66th birthday to Roland Orzabal, the creative force behind Tears for Fears! What's your go-to song from them?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
       "#TearsForFears"
      ]
     },
     {
-     "name": "Mad World",
-     "copy": "Shout out to Roland Orzabal, 65 today! Still ruling the world with those incredible Tears For Fears hits.",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-tori-amos",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 63rd to Tori Amos",
-   "blurb": "The influential singer-songwriter and pianist Tori Amos celebrates her 63rd birthday today, Saturday August 22nd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Tori_Amos"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Alternative Legend",
-     "copy": "Wishing a very Happy 63rd Birthday to the unique and brilliant Tori Amos! What's your favourite album from her incredible discography?",
+     "name": "Ruling The Waves",
+     "copy": "Tears for Fears legend Roland Orzabal turns 66 today! Still ruling the waves and making us 'Shout' with his music.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
-     "tags": [
-      "#ToriAmos"
-     ]
-    },
-    {
-     "name": "Piano Powerhouse",
-     "copy": "Happy Birthday to the one and only Tori Amos, 63 today! A true pioneer in music.",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#90sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-dua-lipa",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 31st to Dua Lipa",
-   "blurb": "Global pop superstar Dua Lipa celebrates her 31st birthday today, Saturday August 22nd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Queen",
-     "copy": "Happy 31st Birthday to the incredible Dua Lipa! Get ready to dance the night away to her hits.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#DuaLipa"
-     ]
-    },
-    {
-     "name": "Future Nostalgia",
-     "copy": "Dua Lipa turns 31 today! What's your favourite track from the queen of pop?",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "creamfields-2026",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Creamfields Returns Next Weekend",
-   "blurb": "The UK's biggest dance festival, Creamfields, takes over Daresbury, Cheshire from Thursday August 27th to Sunday August 30th, featuring headline sets from Swedish House Mafia, Calvin Harris, Disclosure and more.",
-   "source": {
-    "l": "Creamfields",
-    "u": "https://creamfields.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Countdown",
-     "copy": "5 days to go until Creamfields 2026! Who's heading to Daresbury for the ultimate dance music experience?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Creamfields"
-     ]
-    },
-    {
-     "name": "Lineup Hype",
-     "copy": "Ready for Swedish House Mafia, Calvin Harris, Disclosure and more? Creamfields is almost here!",
-     "channels": [
-      "x",
-      "threads"
-     ],
      "time": "14:00",
      "tags": [
-      "#DanceMusic"
+      "#80sPop"
      ]
     }
    ]
   },
   {
-   "id": "reading-leeds-2026",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Reading & Leeds Festivals Next Week",
-   "blurb": "Reading & Leeds Festivals are set to rock Richfield Avenue and Bramham Park from Friday August 28th to Sunday August 30th, bringing a huge lineup of rock, indie, and alternative acts.",
+   "id": "bday-julian-casablancas",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Birthday - Julian Casablancas (The Strokes)",
+   "blurb": "Julian Casablancas, frontman of The Strokes and The Voidz, turns 48 tomorrow.",
    "source": {
-    "l": "Reading & Leeds Festivals",
-    "u": "https://www.readingfestival.com/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Julian_Casablancas"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Excitement",
-     "copy": "Who's ready for Reading & Leeds next weekend?! The countdown is on for one of the biggest festivals of the summer.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Headliner Tease",
-     "copy": "Reading or Leeds? Whatever your choice, get ready for an epic weekend of music from Friday!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FestivalSeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "big-city-festival-glasgow",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "Big City Festival in Glasgow",
-   "blurb": "Glasgow's Big City Festival returns to Queen's Park on Saturday August 29th, featuring Super Furry Animals, Spiritualized and more.",
-   "source": {
-    "l": "Trip.com",
-    "u": "https://uk.trip.com/travel-guide/glasgow-1150/music-festival-in-glasgow-2026-146313264/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Scottish Festival",
-     "copy": "Big City Festival is coming to Glasgow next Saturday! Super Furry Animals and Spiritualized in Queen's Park – who's in?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BigCityGlasgow"
-     ]
-    },
-    {
-     "name": "Indie Legends",
-     "copy": "Super Furry Animals and Spiritualized in Glasgow next weekend! Get ready for some indie classics at Big City Festival.",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#GlasgowMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mcfly-glasgow",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "McFly Live in Glasgow",
-   "blurb": "Pop-rock legends McFly are set to play Glasgow's Queen's Park on Thursday August 27th as part of Summer Nights on the Southside 2026.",
-   "source": {
-    "l": "What's On Glasgow",
-    "u": "https://www.whatsonglasgow.co.uk/events/mcfly-live-at-queens-park/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -611,61 +542,8 @@
    ],
    "angles": [
     {
-     "name": "McFly Mania",
-     "copy": "McFly are heading to Glasgow next Thursday! Who's ready to sing along to all their hits at Queen's Park?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#McFlyGlasgow"
-     ]
-    },
-    {
-     "name": "Summer Nights",
-     "copy": "Catch McFly live in Glasgow next week! A perfect summer night out with the pop-rock legends.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SummerNights"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-rob-halford-judas-priest",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 75th to Rob Halford",
-   "blurb": "Rob Halford, the iconic frontman of heavy metal band Judas Priest, celebrates his 75th birthday on Tuesday August 25th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Rob_Halford"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal God",
-     "copy": "Happy 75th Birthday to the Metal God himself, Rob Halford of Judas Priest! What's your favourite Priest anthem?",
+     "name": "Happy Birthday Julian",
+     "copy": "Happy 48th birthday for tomorrow to Julian Casablancas! What's your favourite Strokes anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -673,87 +551,31 @@
      ],
      "time": "09:00",
      "tags": [
-      "#RobHalford"
+      "#TheStrokes"
      ]
     },
     {
-     "name": "Legendary Voice",
-     "copy": "Wishing a thunderous 75th to Rob Halford! His voice defined generations of heavy metal.",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#JudasPriest"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-elvis-costello",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 72nd to Elvis Costello",
-   "blurb": "Influential rock singer-songwriter Elvis Costello turns 72 on Tuesday August 25th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Elvis_Costello"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Musical Maverick",
-     "copy": "Happy 72nd Birthday to the brilliant Elvis Costello! From 'Pump It Up' to 'She', his catalogue is timeless.",
+     "name": "Effortlessly Cool",
+     "copy": "Celebrating Julian Casablancas of The Strokes, who turns 48 tomorrow! Still effortlessly cool.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "13:00",
      "tags": [
-      "#ElvisCostello"
-     ]
-    },
-    {
-     "name": "Still Amazing",
-     "copy": "72 today! Happy Birthday to Elvis Costello, a true legend of rock and new wave.",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#NewWave"
+      "#IndieRock"
      ]
     }
    ]
   },
   {
-   "id": "bday-gene-simmons-kiss",
+   "id": "bday-gene-simmons",
    "off": 3,
    "type": "birthday",
-   "hot": true,
-   "title": "Happy 77th to Gene Simmons",
-   "blurb": "Gene Simmons, the iconic 'Demon' bassist and co-founder of rock legends KISS, celebrates his 77th birthday on Tuesday August 25th.",
+   "hot": false,
+   "title": "Birthday - Gene Simmons (KISS)",
+   "blurb": "KISS bassist and co-lead singer Gene Simmons will celebrate his 77th birthday on Tuesday.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
@@ -766,16 +588,58 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Rock Icon",
-     "copy": "Happy 77th Birthday to the one and only Gene Simmons! Still rocking and rolling all nite.",
+     "name": "Happy Birthday Gene",
+     "copy": "The Demon turns 77 on Tuesday! Happy birthday to KISS legend Gene Simmons. What's your favourite KISS track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#KISS"
+     ]
+    },
+    {
+     "name": "Rock N Roll All Night",
+     "copy": "Gene Simmons of KISS celebrates his 77th birthday on Tuesday! Still rock 'n' rolling all night and partying every day.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#HardRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-rob-halford",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "Birthday - Rob Halford (Judas Priest)",
+   "blurb": "Rob Halford, the iconic frontman of Judas Priest, turns 75 on Tuesday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Rob_Halford"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Rob",
+     "copy": "Happy 75th birthday on Tuesday to the Metal God himself, Rob Halford of Judas Priest! What's your ultimate Priest track?",
      "channels": [
       "instagram",
       "facebook",
@@ -783,79 +647,250 @@
      ],
      "time": "11:00",
      "tags": [
-      "#GeneSimmons"
+      "#JudasPriest"
      ]
     },
     {
-     "name": "KISS Legend",
-     "copy": "Shout out to Gene Simmons, 77 today! The 'Demon' of KISS still commands the stage.",
+     "name": "Metal God",
+     "copy": "Celebrating Rob Halford, the legendary voice of Judas Priest, who turns 75 on Tuesday! Still breaking the law and sounding incredible.",
      "channels": [
-      "x",
-      "threads"
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "15:00",
      "tags": [
-      "#KISS"
+      "#HeavyMetal"
      ]
     }
    ]
   },
   {
-   "id": "august-bank-holiday-2026",
-   "off": 9,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August Bank Holiday Weekend",
-   "blurb": "The UK's August Bank Holiday weekend (England, Wales, and Northern Ireland) falls on Monday August 31st, marking the unofficial end of summer.",
+   "id": "bday-shirley-manson",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Birthday - Shirley Manson (Garbage)",
+   "blurb": "Shirley Manson, the distinctive voice of Garbage, will celebrate her 60th birthday on Wednesday.",
    "source": {
-    "l": "GOV.UK",
-    "u": "https://www.gov.uk/bank-holidays"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Long Weekend Prep",
-     "copy": "Get ready for the last long weekend of summer! The August Bank Holiday is just around the corner, Monday 31st!",
+     "name": "Happy Birthday Shirley",
+     "copy": "Happy 60th birthday for Wednesday to the incredible Shirley Manson from Garbage! What's your favourite Garbage hit?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
-      "#BankHoliday"
+      "#Garbage"
      ]
     },
     {
-     "name": "End of Summer Plans",
-     "copy": "August Bank Holiday weekend is next week! How are you planning to make the most of the unofficial end of summer?",
+     "name": "Pushing Boundaries",
+     "copy": "Shirley Manson of Garbage turns 60 on Wednesday! Still pushing boundaries and making amazing music.",
      "channels": [
-      "x",
-      "threads"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#SummerVibes"
+      "#90sAlternative"
      ]
     }
    ]
   },
   {
-   "id": "bday-debbie-gibson",
-   "off": 9,
+   "id": "bday-shania-twain",
+   "off": 6,
    "type": "birthday",
-   "hot": true,
-   "title": "Happy 56th to Debbie Gibson",
-   "blurb": "80s pop sensation Debbie Gibson, known for hits like 'Foolish Beat' and 'Lost In Your Eyes', celebrates her 56th birthday on Monday August 31st.",
+   "hot": false,
+   "title": "Birthday - Shania Twain",
+   "blurb": "Country-pop superstar Shania Twain celebrates her 61st birthday on Friday.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Debbie_Gibson"
+    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Shania",
+     "copy": "Happy 61st birthday on Friday to the one and only Shania Twain! What's your favourite hit from the Queen of Country Pop?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ShaniaTwain"
+     ]
+    },
+    {
+     "name": "Let's Go Girls",
+     "copy": "Let's go girls! Shania Twain turns 61 on Friday. Still looking good, still sounding great!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#CountryPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-florence-welch",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Birthday - Florence Welch (Florence + The Machine)",
+   "blurb": "Florence Welch, lead singer of Florence + The Machine, turns 40 on Friday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Florence_Welch"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Florence",
+     "copy": "Happy 40th birthday on Friday to the incredible Florence Welch! What's your favourite Florence + The Machine track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FlorenceAndTheMachine"
+     ]
+    },
+    {
+     "name": "Enchanting Vocals",
+     "copy": "Celebrating the magnificent Florence Welch, who turns 40 on Friday! Still enchanting us with her powerful vocals.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#IndiePop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-van-morrison",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Birthday - Van Morrison",
+   "blurb": "Legendary singer-songwriter Van Morrison celebrates his 81st birthday on Bank Holiday Monday, August 31st.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Van_Morrison"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Van",
+     "copy": "Wishing a very happy 81st birthday on Bank Holiday Monday to the one and only Van Morrison! What's your favourite 'Moondance' moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#VanMorrison"
+     ]
+    },
+    {
+     "name": "Soulful Magic",
+     "copy": "The legendary Van Morrison turns 81 on Monday! Still bringing that soulful magic.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ClassicRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-gloria-estefan",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Birthday - Gloria Estefan",
+   "blurb": "Pop icon Gloria Estefan celebrates her 69th birthday on Tuesday, September 1st.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gloria_Estefan"
    },
    "fits": [
     {
@@ -868,13 +903,17 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "80s Pop Princess",
-     "copy": "Happy 56th Birthday to the original pop princess, Debbie Gibson! Still shining bright since 'Out of the Blue'.",
+     "name": "Happy Birthday Gloria",
+     "copy": "Get on your feet! Happy 69th birthday for Tuesday to the incredible Gloria Estefan! What's your favourite Miami Sound Machine hit?",
      "channels": [
       "instagram",
       "facebook",
@@ -882,17 +921,18 @@
      ],
      "time": "09:00",
      "tags": [
-      "#DebbieGibson"
+      "#GloriaEstefan"
      ]
     },
     {
-     "name": "Teen Idol",
-     "copy": "Remember 'Foolish Beat'? Happy 56th to the incredible Debbie Gibson, a true teen idol of the 80s!",
+     "name": "Feel The Rhythm",
+     "copy": "Celebrating the legendary Gloria Estefan, who turns 69 on Tuesday! Still making us dance and feel the rhythm.",
      "channels": [
-      "x",
-      "threads"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "12:00",
+     "time": "13:00",
      "tags": [
       "#80sPop"
      ]
