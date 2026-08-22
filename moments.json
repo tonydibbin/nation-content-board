@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-22T00:27:18.852Z",
+ "updated": "2026-08-22T03:31:01.967Z",
  "moments": [
   {
-   "id": "reading-leeds-2026",
-   "off": 6,
-   "type": "gig",
+   "id": "premier-league-kickoff",
+   "off": 0,
+   "type": "sport",
    "hot": true,
-   "title": "Reading & Leeds Festival Kicks Off",
-   "blurb": "The iconic Reading & Leeds Festival returns for the August Bank Holiday weekend, bringing huge names to stages across the UK from August 28-30.",
+   "title": "Premier League Weekend Kicks Off",
+   "blurb": "The 2026/27 Premier League season is in full swing, with Matchweek 1 continuing today and tomorrow, featuring major clubs like Manchester United, Tottenham, Manchester City, and Liverpool.",
    "source": {
-    "l": "NME.com",
-    "u": "https://www.nme.com/reading-leeds-2026-dates-tickets"
+    "l": "Premier League Official Site / The Guardian",
+    "u": "https://www.premierleague.com / https://www.theguardian.com/football/fixtures"
    },
    "fits": [
     {
@@ -19,26 +19,21 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Festival Countdown",
-     "for": "",
-     "copy": "Only 6 days to go until Reading & Leeds Festival takes over the Bank Holiday weekend! Who's got their wellies ready?",
+     "name": "Today's Games",
+     "copy": "Premier League Matchweek 1 continues! Today's fixtures include Hull City vs Manchester United, Brentford vs Tottenham Hotspur, and more. Who are you backing?",
      "channels": [
       "instagram",
       "facebook",
@@ -48,35 +43,94 @@
      ],
      "time": "09:00",
      "tags": [
-      "#RandL26"
+      "#PremierLeague"
      ]
     },
     {
-     "name": "Headline Hype",
-     "for": "Nation Rocks",
-     "copy": "Reading & Leeds incoming! Expecting massive sets from the rock and indie titans on the lineup. What's your must-see band?",
+     "name": "Weekend Football Fever",
+     "copy": "It's a massive weekend for football fans as the Premier League season gets underway. Manchester City, Liverpool, and Chelsea all play tomorrow. Don't miss a kick!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "12:00",
      "tags": [
-      "#ReadingFestival"
+      "#PL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "efl-fixtures-local",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "EFL & Local Football Action",
+   "blurb": "Beyond the Premier League, the Championship, League One, and League Two also have a full schedule of matches today, including Cardiff City and Exeter City.",
+   "source": {
+    "l": "The Guardian",
+    "u": "https://www.theguardian.com/football/fixtures"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff City Play Away",
+     "for": "welsh-local",
+     "copy": "Cardiff City are on the road today in the Championship, facing Derby. Huge support from back home in Wales!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#CardiffCity"
+     ]
+    },
+    {
+     "name": "Exeter City at Home",
+     "for": "radio-exe",
+     "copy": "It's a big match for Exeter City today in League Two as they host Accrington. Let's get behind the Grecians!",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#ECFC"
      ]
     }
    ]
   },
   {
    "id": "creamfields-2026",
-   "off": 6,
+   "off": 5,
    "type": "gig",
    "hot": true,
-   "title": "Creamfields North Returns",
-   "blurb": "Creamfields North, one of the UK's biggest electronic music festivals, is set to electrify Daresbury, Cheshire, from August 28-30 for the Bank Holiday weekend.",
+   "title": "Creamfields Festival Approaches",
+   "blurb": "The UK's biggest electronic music festival, Creamfields, takes place next weekend, August 27-30, in Daresbury, Cheshire, featuring huge names like Swedish House Mafia, Calvin Harris, and Tiësto.",
    "source": {
-    "l": "Skiddle.com",
-    "u": "https://www.skiddle.com/festivals/creamfields-north-2026/"
+    "l": "Creamfields Official Site",
+    "u": "https://creamfields.com/"
    },
    "fits": [
     {
@@ -86,13 +140,16 @@
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Dance Anthem Prep",
-     "for": "Nation Dance",
-     "copy": "Creamfields North is just around the corner! Get ready for three days of the biggest dance anthems and electrifying sets. Who's making the pilgrimage to Daresbury?",
+     "name": "Creamfields Countdown",
+     "copy": "Just days to go until Creamfields! Who are you most hyped to see on the lineup? Swedish House Mafia, Calvin Harris, Tiësto... the list goes on!",
      "channels": [
       "instagram",
       "facebook",
@@ -100,91 +157,34 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:30",
+     "time": "11:00",
      "tags": [
-      "#Creamfields"
+      "#Creamfields2026"
      ]
     },
     {
-     "name": "Bank Holiday Beats",
-     "for": "",
-     "copy": "Thinking Bank Holiday? Think Creamfields! If you're heading to Cheshire for the ultimate dance party, let us know your favourite DJ!",
+     "name": "Dance Music Mecca",
+     "copy": "Creamfields is almost here! Four days of the world's best electronic artists ready to take over Daresbury. Get ready to dance!",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "14:00",
+     "time": "16:00",
      "tags": [
-      "#BankHolidayWeekend"
+      "#ElectronicMusic"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-aug22",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Weekend Kicks Off",
-   "blurb": "The Premier League season continues this weekend with a full slate of fixtures, including a highly anticipated clash between Manchester United and Liverpool today.",
-   "source": {
-    "l": "PremierLeague.com",
-    "u": "https://www.premierleague.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Match Day Build Up",
-     "for": "",
-     "copy": "It's Premier League matchday! Man Utd vs Liverpool headlines a packed Saturday. What are your predictions for today's games?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PL"
-     ]
-    },
-    {
-     "name": "Weekend Football Fever",
-     "for": "radio-exe",
-     "copy": "Football is back! Your Premier League weekend kicks off. Any big upsets on the cards or will the favourites dominate? Let us know, Devon!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#DevonFootball"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dua-lipa-31st-bday",
+   "id": "dua-lipa-bday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Dua Lipa Turns 31",
-   "blurb": "Global pop superstar Dua Lipa celebrates her 31st birthday today, August 22nd. She was born in London in 1995.",
+   "title": "Happy Birthday Dua Lipa!",
+   "blurb": "Chart-topping British-Albanian singer Dua Lipa turns 31 today, August 22nd, known for hits like 'New Rules' and 'Levitating'.",
    "source": {
-    "l": "Wikipedia",
+    "l": "Wikipedia / Britannica",
     "u": "https://en.wikipedia.org/wiki/Dua_Lipa"
    },
    "fits": [
@@ -194,18 +194,17 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Dance"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Pop Queen Birthday",
-     "for": "Nation Hits",
-     "copy": "Happy 31st Birthday to the incredible Dua Lipa! What's your favourite track from the pop queen?",
+     "name": "Celebrating Dua Lipa",
+     "copy": "A huge happy 31st birthday to the incredible Dua Lipa today! Which of her massive tracks is your all-time favourite?",
      "channels": [
       "instagram",
       "facebook",
@@ -219,31 +218,29 @@
      ]
     },
     {
-     "name": "London's Own Star",
-     "for": "Nation Radio London",
-     "copy": "London's own global superstar, Dua Lipa, celebrates her 31st birthday today! We're celebrating with all her biggest hits.",
+     "name": "Pop Queen's Birthday",
+     "copy": "Wishing a very happy birthday to the one and only Dua Lipa! From 'New Rules' to 'Levitating', she keeps the hits coming.",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "13:00",
      "tags": [
-      "#LondonMusic"
+      "#PopMusic"
      ]
     }
    ]
   },
   {
-   "id": "roland-orzabal-65th-bday",
-   "off": 0,
+   "id": "rick-springfield-bday",
+   "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Roland Orzabal Turns 65",
-   "blurb": "Roland Orzabal, co-founder, guitarist, and co-lead vocalist of the iconic 80s band Tears for Fears, celebrates his 65th birthday today, August 22nd.",
+   "hot": true,
+   "title": "Rick Springfield Turns 77",
+   "blurb": "Australian-American rock legend Rick Springfield, famous for his 1981 hit 'Jessie's Girl', celebrates his 77th birthday tomorrow, August 23rd.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Roland_Orzabal"
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Rick_Springfield"
    },
    "fits": [
     {
@@ -252,213 +249,49 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "80s Legend Birthday",
-     "for": "Nation 80s",
-     "copy": "Wishing a very Happy 65th Birthday to Roland Orzabal of Tears for Fears! What's your go-to track from the 80s legends?",
+     "name": "Jessie's Girl Hitmaker",
+     "copy": "Tomorrow, Rick Springfield turns 77! Still rocking after all these years. What's your favourite track from the 'Jessie's Girl' singer?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "10:00",
      "tags": [
-      "#TearsForFears"
+      "#RickSpringfield"
      ]
     },
     {
-     "name": "Shout Out to Roland",
-     "for": "Nation Classic Hits",
-     "copy": "Everybody Wants To Rule The World... and today we're celebrating Roland Orzabal's 65th birthday! An absolute icon of classic pop.",
+     "name": "80s Icon Birthday",
+     "copy": "Wishing a future happy 77th birthday to the 80s icon, Rick Springfield! Get ready to crank up some classic rock tomorrow.",
      "channels": [
-      "facebook",
+      "instagram",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#ClassicHits"
+      "#80sRock"
      ]
     }
    ]
   },
   {
-   "id": "august-bank-holiday-2026",
-   "off": 7,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August Bank Holiday Weekend Approaches",
-   "blurb": "The UK's last Bank Holiday of the summer is just a week away, falling on Monday, August 31st, promising a long weekend for many.",
-   "source": {
-    "l": "GOV.UK",
-    "u": "https://www.gov.uk/bank-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Long Weekend Plans",
-     "for": "",
-     "copy": "One week to go until the August Bank Holiday! What are your plans for the last long weekend of summer? Festivals, BBQ, or relaxing?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BankHoliday"
-     ]
-    },
-    {
-     "name": "Local Bank Holiday Buzz",
-     "for": "radio-exe",
-     "copy": "Devon, the August Bank Holiday is approaching! What local events or beautiful spots are you planning to visit?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#DevonLife"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-aug22",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "New UK Singles Chart Revealed",
-   "blurb": "The Official UK Singles Chart has been updated today, revealing the nation's new number one song and biggest climbers.",
-   "source": {
-    "l": "OfficialCharts.com",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper Reaction",
-     "for": "Nation Hits",
-     "copy": "The new Official UK Singles Chart is OUT! Who's at number one this week? Any surprises or did your favourite hold strong?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "New Music Friday Chart",
-     "for": "",
-     "copy": "It's the first chart of the weekend! What new music made it into the top 40? Tune in to hear the biggest hits!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "julian-casablancas-48th-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": false,
-   "title": "Julian Casablancas Turns 48",
-   "blurb": "Julian Casablancas, the distinctive frontman and primary songwriter of The Strokes, celebrates his 48th birthday on August 23rd. He was born in New York City in 1978.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Julian_Casablancas"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strokes Icon Birthday",
-     "for": "Nation Rocks",
-     "copy": "Tomorrow, The Strokes' legendary frontman Julian Casablancas turns 48! What's your favourite track from the indie rock icon?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#TheStrokes"
-     ]
-    },
-    {
-     "name": "00s Indie King",
-     "for": "Nation 00s",
-     "copy": "Get ready to celebrate! Julian Casablancas, the voice of the 00s indie scene with The Strokes, has his 48th birthday tomorrow!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#JulianCasablancas"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gene-simmons-77th-bday",
+   "id": "gene-simmons-bday",
    "off": 3,
    "type": "birthday",
-   "hot": false,
-   "title": "Gene Simmons Turns 77",
-   "blurb": "The legendary 'Demon' of KISS, Gene Simmons, celebrates his 77th birthday on August 25th. He was born in Haifa, Israel, in 1949.",
+   "hot": true,
+   "title": "Gene Simmons' 77th Birthday",
+   "blurb": "KISS bassist and co-lead singer, the iconic Gene Simmons, celebrates his 77th birthday on Tuesday, August 25th.",
    "source": {
-    "l": "Wikipedia",
+    "l": "Wikipedia / National Today",
     "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
    },
    "fits": [
@@ -473,212 +306,91 @@
    ],
    "angles": [
     {
-     "name": "Rock God Birthday",
-     "for": "Nation Rocks",
-     "copy": "He wanted the best, he got the best! Happy 77th Birthday to the one and only Gene Simmons from KISS! Rock and Roll All Nite to celebrate!",
+     "name": "Kiss Legend Birthday",
+     "copy": "Get ready to salute the Demon! Gene Simmons of KISS turns 77 on Tuesday. What's your ultimate KISS anthem?",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "11:00",
+     "time": "10:30",
      "tags": [
-      "#KISS"
+      "#GeneSimmons"
      ]
     },
     {
-     "name": "Classic Rock Icon",
-     "for": "Nation Classic Hits",
-     "copy": "From the stage to the screen, Gene Simmons is a true rock icon. Wishing the KISS legend a very Happy 77th Birthday on Tuesday!",
+     "name": "Rock Icon Celebrates",
+     "copy": "From the stage to the screen, Gene Simmons is a true rock icon. Wishing him a very happy 77th birthday this Tuesday!",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#GeneSimmons"
+      "#KISS"
      ]
     }
    ]
   },
   {
-   "id": "shirley-manson-60th-bday",
+   "id": "shirley-manson-bday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Shirley Manson's 60th Birthday",
-   "blurb": "Shirley Manson, the powerful Scottish frontwoman of Garbage, reaches a milestone 60th birthday on August 26th. She was born in Edinburgh in 1966.",
+   "title": "Shirley Manson Turns 60",
+   "blurb": "Scottish singer-songwriter Shirley Manson, best known as the lead vocalist of the alternative rock band Garbage, celebrates her 60th birthday on Wednesday, August 26th.",
    "source": {
-    "l": "Wikipedia",
+    "l": "Wikipedia / Famous Birthdays",
     "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation 90s"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Garbage Queen 60",
-     "for": "Nation Rocks",
-     "copy": "Happy 60th Birthday to the phenomenal Shirley Manson of Garbage! A true force in alternative rock. What's your favourite Garbage track?",
+     "name": "Garbage Frontwoman's Birthday",
+     "copy": "Happy 60th birthday to the incredible Shirley Manson of Garbage this Wednesday! Which of their iconic tracks is your favourite?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "09:30",
      "tags": [
       "#ShirleyManson"
      ]
     },
     {
-     "name": "Scottish Icon",
-     "for": "Nation Radio Scotland",
-     "copy": "Edinburgh's own rock icon, Shirley Manson, celebrates her 60th birthday this Wednesday! We're cranking up Garbage to celebrate!",
+     "name": "Alt Rock Queen",
+     "copy": "Celebrating the enduring influence of Shirley Manson, who turns 60 on Wednesday. A true queen of alternative rock!",
      "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ScottishMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "macaulay-culkin-46th-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Macaulay Culkin Turns 46",
-   "blurb": "90s child star and cultural icon Macaulay Culkin celebrates his 46th birthday on August 26th. He was born in New York City in 1980.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Macaulay_Culkin"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Home Alone Hero",
-     "for": "Nation 90s",
-     "copy": "Can you believe Macaulay Culkin is turning 46 this Wednesday? From Home Alone to iconic music videos, he defined a generation!",
-     "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "facebook"
      ],
-     "time": "13:00",
+     "time": "15:30",
      "tags": [
-      "#MacaulayCulkin"
-     ]
-    },
-    {
-     "name": "90s Movie Legend",
-     "for": "",
-     "copy": "Happy 46th Birthday to Macaulay Culkin this week! What's your favourite movie moment from the ultimate 90s kid?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#90sMovies"
+      "#Garbage"
      ]
     }
    ]
   },
   {
-   "id": "shania-twain-61st-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shania Twain Turns 61",
-   "blurb": "Country-pop superstar Shania Twain celebrates her 61st birthday on August 28th. She was born in Windsor, Ontario, Canada, in 1965.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen of Country Pop",
-     "for": "Nation Classic Hits",
-     "copy": "Man! I Feel Like A Woman! Shania Twain turns 61 this Friday! Celebrate with us by naming your all-time favourite Shania hit!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ShaniaTwain"
-     ]
-    },
-    {
-     "name": "Still The One",
-     "for": "Nation Love",
-     "copy": "Happy 61st Birthday to the incredible Shania Twain on Friday! Her love songs are truly 'Still The One' for us.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#CountryPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "florence-welch-40th-bday",
+   "id": "florence-welch-bday",
    "off": 6,
    "type": "birthday",
    "hot": true,
    "title": "Florence Welch's 40th Birthday",
-   "blurb": "Florence Welch, the captivating lead singer of Florence + The Machine, celebrates her 40th birthday on August 28th. She was born in London in 1986.",
+   "blurb": "Florence Welch, the captivating lead vocalist and primary songwriter of Florence + The Machine, celebrates her 40th birthday on Friday, August 28th.",
    "source": {
-    "l": "Wikipedia",
+    "l": "Wikipedia / Britannica",
     "u": "https://en.wikipedia.org/wiki/Florence_Welch"
    },
    "fits": [
@@ -691,52 +403,56 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Indie Queen 40th",
-     "for": "Nation Rocks",
-     "copy": "Big Birthday incoming! Florence Welch of Florence + The Machine turns 40 this Friday. What's your favourite powerful anthem from her?",
+     "name": "Happy 40th Florence!",
+     "copy": "Wishing a magical 40th birthday to the phenomenal Florence Welch this Friday! What's your favourite Florence + The Machine song?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "12:30",
+     "time": "08:30",
      "tags": [
-      "#FlorenceAndTheMachine"
+      "#FlorenceWelch"
      ]
     },
     {
-     "name": "London's Songbird",
-     "for": "Nation Radio London",
-     "copy": "London's own enchanting voice, Florence Welch, celebrates her 40th birthday on Friday! We're playing her biggest hits all day.",
+     "name": "Florence + The Machine Lead",
+     "copy": "An iconic voice turns 40 this Friday! Celebrate Florence Welch's birthday by blasting some Florence + The Machine hits!",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "16:00",
+     "time": "13:30",
      "tags": [
-      "#FlorenceWelch"
+      "#FlorenceAndTheMachine"
      ]
     }
    ]
   },
   {
-   "id": "billy-ray-cyrus-65th-bday",
-   "off": 3,
+   "id": "shania-twain-bday",
+   "off": 6,
    "type": "birthday",
-   "hot": false,
-   "title": "Billy Ray Cyrus Turns 65",
-   "blurb": "Country music star Billy Ray Cyrus, known for 'Achy Breaky Heart', celebrates his 65th birthday on August 25th. He was born in Flatwoods, Kentucky, in 1961.",
+   "hot": true,
+   "title": "Shania Twain Turns 61",
+   "blurb": "Canadian superstar Shania Twain, the 'Queen of Country Pop' and one of the best-selling female artists of all time, celebrates her 61st birthday on Friday, August 28th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Billy_Ray_Cyrus"
+    "l": "Wikipedia / National Today",
+    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
@@ -744,38 +460,91 @@
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Achy Breaky Birthday",
-     "for": "Nation Classic Hits",
-     "copy": "Don't tell my heart, my achy breaky heart... that Billy Ray Cyrus turns 65 this Tuesday! Wishing a big Happy Birthday to the country legend!",
+     "name": "Queen of Country Pop",
+     "copy": "Let's go girls! Shania Twain turns 61 this Friday! Get ready to celebrate the Queen of Country Pop with her greatest hits.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "10:30",
+     "time": "11:30",
      "tags": [
-      "#BillyRayCyrus"
+      "#ShaniaTwain"
      ]
     },
     {
-     "name": "Country Icon",
-     "for": "Nation 90s",
-     "copy": "From 'Achy Breaky Heart' to 'Old Town Road' features, Billy Ray Cyrus is 65 on Tuesday! What's your favourite era of his music?",
+     "name": "Still the One",
+     "copy": "Wishing a very happy 61st birthday to the legendary Shania Twain this Friday! She's still the one who can get us singing along.",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "15:30",
+     "time": "16:30",
      "tags": [
-      "#90sCountry"
+      "#CountryPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday",
+   "off": 9,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Summer Bank Holiday Approaching",
+   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland is just over a week away, falling on Monday, August 31st, marking the unofficial end of summer.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/bank-holidays"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bank Holiday Plans",
+     "copy": "The August Bank Holiday is just around the corner! What are your plans for the long weekend? Making the most of the last blast of summer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "Long Weekend Ahead",
+     "copy": "Get ready for a long weekend! The Summer Bank Holiday on August 31st means an extra day off for many across England, Wales, and Northern Ireland. Start planning now!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SummerVibes"
      ]
     }
    ]
