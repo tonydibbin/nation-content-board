@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-23T00:29:25.294Z",
+ "updated": "2026-08-23T02:16:39.064Z",
  "moments": [
   {
-   "id": "premier-league-start",
+   "id": "premier-league-wk1-2",
    "off": 0,
    "type": "sport",
    "hot": true,
    "title": "Premier League Season Kicks Off",
-   "blurb": "The 2026/27 English Premier League season has just begun, with matches continuing this weekend across the UK.",
+   "blurb": "The 2026/27 Premier League season has begun, with Matchweek 1 fixtures wrapping up today and Matchweek 2 set to start on Friday.",
    "source": {
-    "l": "PremierLeague.com / The Guardian",
-    "u": "https://www.premierleague.com / https://www.theguardian.com/football/fixtures"
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
@@ -20,8 +20,9 @@
    ],
    "angles": [
     {
-     "name": "General Excitement",
-     "copy": "The new Premier League season is officially underway! Who are you backing for the title this year?",
+     "name": "Opening Weekend Excitement",
+     "for": "",
+     "copy": "The Premier League is back! Matchweek 1 has delivered goals, drama and surprises. Who impressed you most on the opening weekend?",
      "channels": [
       "instagram",
       "facebook",
@@ -35,8 +36,9 @@
      ]
     },
     {
-     "name": "Weekend Fixtures Tease",
-     "copy": "Big weekend of Premier League football ahead! What match are you most looking forward to?",
+     "name": "Looking Ahead to Matchweek 2",
+     "for": "",
+     "copy": "Still buzzing from the Premier League's return? Get ready for Matchweek 2, kicking off this Friday! Which fixture are you most looking forward to?",
      "channels": [
       "instagram",
       "facebook",
@@ -44,129 +46,29 @@
       "tiktok",
       "threads"
      ],
-     "time": "10:00",
-     "tags": [
-      "#PLKickOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-fixtures-sat",
-   "off": 6,
-   "type": "sport",
-   "hot": true,
-   "title": "Saturday Premier League Clashes",
-   "blurb": "Saturday, August 29th, sees major Premier League fixtures including Liverpool vs Nottingham Forest and Spurs vs Newcastle.",
-   "source": {
-    "l": "The Guardian / Sky Sports",
-    "u": "https://www.theguardian.com/football/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Match Day Build-up",
-     "copy": "Saturday sees some cracking Premier League action! Liverpool host Nottingham Forest and Spurs take on Newcastle. Big points up for grabs!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
      "time": "14:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "London Derby Angle (Spurs)",
-     "copy": "North London will be buzzing this Saturday as Spurs face Newcastle in the Premier League. Can they kick off the season with a home win?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#COYS"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-fixtures-sun",
-   "off": 7,
-   "type": "sport",
-   "hot": true,
-   "title": "Sunday Premier League Showdowns",
-   "blurb": "Sunday, August 30th, features more Premier League action with Chelsea vs Brighton and Manchester United vs Ipswich.",
-   "source": {
-    "l": "The Guardian",
-    "u": "https://www.theguardian.com/football/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Sunday Football Focus",
-     "copy": "Wrap up your weekend with Sunday Premier League football! Chelsea are at home to Brighton, and Man Utd face Ipswich. Predictions?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
      "tags": [
       "#PL"
      ]
-    },
-    {
-     "name": "Man Utd Home Game",
-     "copy": "Old Trafford welcomes Ipswich on Sunday for Manchester United's first home Premier League game of the season. Can they start strong?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#MUFC"
-     ]
     }
    ]
   },
   {
-   "id": "green-man-festival-ends",
-   "off": 0,
-   "type": "gig",
+   "id": "summer-bank-holiday",
+   "off": 8,
+   "type": "seasonal",
    "hot": true,
-   "title": "Green Man Festival Concludes",
-   "blurb": "The Green Man Festival, one of Wales' most beloved music and arts events in the Brecon Beacons, concludes its 2026 edition today.",
+   "title": "Summer Bank Holiday Approaching",
+   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland is on Monday, August 31st, marking the last long weekend of the season for many.",
    "source": {
-    "l": "Green Man Festival",
-    "u": "https://www.greenman.net/"
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "welsh-local",
      "sub": ""
@@ -176,74 +78,15 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Wrap-up",
-     "copy": "That's a wrap for Green Man 2026! Hope everyone had an incredible time in the Brecon Beacons. What were your highlights?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#GreenManFestival"
-     ]
-    },
-    {
-     "name": "Welsh Culture",
-     "copy": "Celebrating Welsh culture and music one last time today as Green Man Festival draws to a close. Diolch yn fawr to all the Settlers!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Wales"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "reading-leeds-festival",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "Reading & Leeds Festivals This Week",
-   "blurb": "Reading & Leeds Festivals, two of the UK's biggest music events, kick off this Thursday, August 27th, running until Sunday, August 30th.",
-   "source": {
-    "l": "Reading & Leeds Festivals",
-    "u": "https://www.readingfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
+     "g": "radio-exe",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Festival Excitement",
-     "copy": "Who's ready for Reading & Leeds this week? The countdown is on for one of the biggest weekends in UK music!",
+     "name": "Bank Holiday Plans",
+     "for": "",
+     "copy": "Only one week to go until the Summer Bank Holiday! How are you planning to make the most of the long weekend?",
      "channels": [
       "instagram",
       "facebook",
@@ -253,263 +96,34 @@
      ],
      "time": "10:00",
      "tags": [
-      "#RandL26"
+      "#BankHoliday"
      ]
     },
     {
-     "name": "Lineup Tease",
-     "copy": "Reading & Leeds is almost here! What acts are you absolutely buzzing to see from this year's incredible lineup?",
+     "name": "Last Blast of Summer",
+     "for": "",
+     "copy": "The countdown is on to the last Bank Holiday of summer on August 31st. Are you hoping for sunshine or planning a cosy indoor escape?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#FestivalVibes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "notting-hill-carnival",
-   "off": 6,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Notting Hill Carnival Approaches",
-   "blurb": "London's iconic Notting Hill Carnival, Europe's largest street party, returns this weekend from August 29th-31st.",
-   "source": {
-    "l": "Notting Hill Carnival",
-    "u": "https://nhcarnival.org/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Carnival Countdown",
-     "copy": "Get ready, London! Notting Hill Carnival is just days away. Who's excited for the colours, music and incredible atmosphere?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#NottingHillCarnival"
-     ]
-    },
-    {
-     "name": "Music & Culture",
-     "copy": "From steel bands to soca, calypso to reggae – Notting Hill Carnival brings the best of Caribbean culture to the streets of London this weekend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LondonEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "pulp-manchester",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Pulp Live in Manchester",
-   "blurb": "Britpop legends Pulp are set to play a huge show at Wythenshawe Park in Manchester this Friday, August 28th.",
-   "source": {
-    "l": "GIGSANDTOURS",
-    "u": "https://www.gigsandtours.com/tour/pulp"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Manchester"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Britpop Icons",
-     "copy": "Common People, get ready! Pulp are bringing their iconic sound to Wythenshawe Park in Manchester this Friday. Who's got tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Pulp"
-     ]
-    },
-    {
-     "name": "Manchester Gig",
-     "copy": "Manchester is ready for Pulp! The Britpop legends play a massive outdoor show on Friday. What's your favourite Pulp track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
       "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#ManchesterMusic"
+      "#SummerVibes"
      ]
     }
    ]
   },
   {
-   "id": "bon-jovi-uk",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Bon Jovi UK Tour Starts",
-   "blurb": "Rock legends Bon Jovi kick off their highly anticipated 'Forever Tour' in the UK this Friday, August 28th, with shows in London and Edinburgh.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/bon-jovi-tickets/artist/734710"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legends Return",
-     "copy": "Bon Jovi are back! Their 'Forever Tour' hits the UK this Friday. Who's ready to sing along to all the classics in London or Edinburgh?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#BonJovi"
-     ]
-    },
-    {
-     "name": "UK Tour",
-     "copy": "It's been seven years, but Bon Jovi are finally back in the UK! Kicking off their tour on Friday, it's going to be a wild one!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#RockMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "prodigy-tour",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "The Prodigy UK Dates",
-   "blurb": "The Prodigy continue their UK tour this week, with dates running through to Sunday, August 30th.",
-   "source": {
-    "l": "GIGSANDTOURS",
-    "u": "https://www.gigsandtours.com/tour/the-prodigy"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dance Icons Live",
-     "copy": "Still buzzing from The Prodigy's shows this week? Their UK tour continues, bringing the fire to crowds nationwide!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#TheProdigy"
-     ]
-    },
-    {
-     "name": "Energy Levels",
-     "copy": "Nobody does it like The Prodigy. If you're catching them this week, prepare for an absolute energy overload!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#Firestarter"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-aug26",
+   "id": "uk-singles-chart",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "New UK Singles Chart Topper",
-   "blurb": "Sam Fender & Olivia Dean hold the #1 spot on the Official UK Singles Chart for August 20-26 with 'Rein Me In'.",
+   "title": "Sam Fender & Olivia Dean Hold UK No.1",
+   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' continues its record-breaking run, holding the UK Official Singles Chart Number 1 for an incredible 22nd week.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
@@ -520,14 +134,71 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Chart Reaction",
-     "copy": "It's official! Sam Fender & Olivia Dean are still at #1 with 'Rein Me In' on the UK Singles Chart! What do you think of this week's top spot?",
+     "name": "Chart Reign",
+     "for": "Nation Hits",
+     "copy": "Still unstoppable! Sam Fender & Olivia Dean's 'Rein Me In' is Number 1 for another week. Can anyone dethrone them?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#UKCharts"
+     ]
+    },
+    {
+     "name": "Longest Running No.1",
+     "for": "Nation Rocks",
+     "copy": "A piece of chart history! 'Rein Me In' by Sam Fender & Olivia Dean continues its unprecedented run at the top. What's your favourite long-running Number 1?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SamFender"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-voice-uk-returns",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "The Voice UK is Back",
+   "blurb": "The Voice UK returned to ITV1 on Saturday, August 22nd, for a brand new series featuring a refreshed coaching line-up including Kelly Rowland.",
+   "source": {
+    "l": "Virgin Media TV",
+    "u": "https://www.virginmedia.com/virgin-tv-edit/whats-on/what-to-watch-on-tv-this-week-wednesday-19th-to-friday-28th-august"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Series Excitement",
+     "for": "",
+     "copy": "The famous red chairs are spinning again! The Voice UK is back, with Kelly Rowland joining the coaching panel. Who are you rooting for?",
      "channels": [
       "instagram",
       "facebook",
@@ -537,73 +208,195 @@
      ],
      "time": "09:00",
      "tags": [
-      "#OfficialCharts"
+      "#TheVoiceUK"
      ]
     },
     {
-     "name": "New Music Focus",
-     "copy": "Catching up on the new UK Singles Chart? Sam Fender & Olivia Dean are holding strong at the top. Any new entries you're loving?",
+     "name": "Kelly Rowland's Debut",
+     "for": "Nation Hits",
+     "copy": "New season, new coach! Kelly Rowland has made her debut on The Voice UK. What did you think of her first blind auditions?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "13:00",
      "tags": [
-      "#NewMusic"
+      "#KellyRowland"
      ]
     }
    ]
   },
   {
-   "id": "bbc-proms-mozart",
-   "off": 0,
-   "type": "culture",
+   "id": "victorious-festival",
+   "off": 5,
+   "type": "gig",
    "hot": true,
-   "title": "BBC Proms: Mozart's 'Haffner' Symphony",
-   "blurb": "The BBC Proms continue today, August 23rd, at the Royal Albert Hall with a performance featuring Mozart's 'Haffner' Symphony.",
+   "title": "Victorious Festival This Weekend",
+   "blurb": "Victorious Festival returns to Southsea Common in Portsmouth this Bank Holiday weekend, August 28-30, with a huge lineup of artists.",
    "source": {
-    "l": "Royal Albert Hall",
-    "u": "https://www.royalalberthall.com/tickets/proms/bbc-proms-2026/"
+    "l": "Victorious Festival",
+    "u": "https://www.victoriousfestival.co.uk/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": ""
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Classical Sunday",
-     "copy": "A perfect Sunday afternoon with the BBC Proms! Today features Mozart's 'Haffner' Symphony live from the Royal Albert Hall.",
+     "name": "Festival Countdown",
+     "for": "",
+     "copy": "The Bank Holiday weekend means one thing for many: Victorious Festival! Who are you excited to see in Portsmouth this year?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "14:00",
+     "time": "10:30",
      "tags": [
-      "#BBCOutside"
+      "#VictoriousFestival"
      ]
     },
     {
-     "name": "Proms Highlights",
-     "copy": "The Proms are in full swing! Tonight, immerse yourself in the brilliance of Mozart's 'Haffner' Symphony. Tune in or catch up!",
+     "name": "Southsea Common Takeover",
+     "for": "",
+     "copy": "Portsmouth is gearing up for Victorious Festival! Sun, sea, and incredible live music – sounds like the perfect Bank Holiday. Are you going?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#FestivalSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-festivals",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Reading & Leeds Festivals Weekend",
+   "blurb": "The iconic Reading & Leeds Festivals are set to take place simultaneously from August 28-30, bringing major headliners to rock and indie fans.",
+   "source": {
+    "l": "Reading Festival",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rocking the Bank Holiday",
+     "for": "Nation Rocks",
+     "copy": "Reading & Leeds Festivals are just days away! Who's packing their tent and getting ready for an unforgettable Bank Holiday weekend?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
-     "time": "17:00",
+     "time": "11:30",
      "tags": [
-      "#Proms2026"
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Festival Lineup Excitement",
+     "for": "Nation Hits",
+     "copy": "Whether you're heading to Reading or Leeds, this weekend promises massive acts and festival vibes. Which stage will you be at?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#ReadingFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "special-olympics-games-birmingham",
+   "off": 4,
+   "type": "sport",
+   "hot": true,
+   "title": "Special Olympics National Summer Games",
+   "blurb": "Birmingham is hosting the Special Olympics National Summer Games from August 27-30, celebrating the achievements of athletes with intellectual disabilities.",
+   "source": {
+    "l": "Special Olympics GB",
+    "u": "https://www.specialolympicsgb.org.uk/national-summer-games"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Inspiring Athletes",
+     "for": "",
+     "copy": "The Special Olympics National Summer Games kick off in Birmingham this week! Get ready to cheer on incredible athletes and celebrate their inspiring achievements.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#SpecialOlympics"
+     ]
+    },
+    {
+     "name": "Community Spirit",
+     "for": "",
+     "copy": "Birmingham is buzzing as it prepares to host the Special Olympics National Summer Games. It's a fantastic showcase of talent, determination, and community spirit.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#Birmingham"
      ]
     }
    ]
@@ -613,11 +406,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Julian Casablancas' 48th Birthday",
-   "blurb": "Julian Casablancas, frontman of The Strokes and The Voidz, turns 48 today, August 23rd.",
+   "title": "Julian Casablancas Turns 48",
+   "blurb": "Julian Casablancas, dynamic frontman of The Strokes, celebrates his 48th birthday today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/julian-casablancas.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Julian_Casablancas"
    },
    "fits": [
     {
@@ -631,14 +424,13 @@
    ],
    "angles": [
     {
-     "name": "Rock Icon Birthday",
-     "copy": "Happy 48th Birthday to Julian Casablancas! The Strokes frontman has given us so many indie anthems. What's your favourite?",
+     "name": "Happy Birthday Julian",
+     "for": "Nation Rocks",
+     "copy": "Happy 48th Birthday to The Strokes' iconic frontman, Julian Casablancas! What's your go-to Strokes anthem?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "09:30",
      "tags": [
@@ -646,69 +438,17 @@
      ]
     },
     {
-     "name": "Music Trivia",
-     "copy": "Did you know The Strokes' Julian Casablancas celebrates his 48th birthday today? Still sounding as fresh as ever!",
+     "name": "Strokes Classic",
+     "for": "Nation 00s",
+     "copy": "Celebrating Julian Casablancas' 48th birthday today! From 'Last Nite' to 'Reptilia', The Strokes defined an era. What's your favourite track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#TheStrokes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shaun-ryder-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shaun Ryder's 64th Birthday",
-   "blurb": "Happy Mondays and Black Grape frontman Shaun Ryder celebrates his 64th birthday today, August 23rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shaun_Ryder"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Madchester Legend",
-     "copy": "Step On! Happy 64th Birthday to the one and only Shaun Ryder! What's your top track from Happy Mondays or Black Grape?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ShaunRyder"
-     ]
-    },
-    {
-     "name": "Iconic Voice",
-     "copy": "Celebrating Shaun Ryder's 64th today! A true icon of British music, known for his unique lyrics and unmistakable voice.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#HappyMondays"
+      "#TheStrokes"
      ]
     }
    ]
@@ -719,7 +459,7 @@
    "type": "birthday",
    "hot": true,
    "title": "Gene Simmons' 77th Birthday",
-   "blurb": "KISS bassist and co-lead singer Gene Simmons will turn 77 on Tuesday, August 25th.",
+   "blurb": "The legendary 'Demon' of Kiss, Gene Simmons, will be celebrating his 77th birthday on Tuesday, August 25th.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
@@ -740,13 +480,13 @@
    ],
    "angles": [
     {
-     "name": "Rock Legend Birthday",
-     "copy": "Get ready to rock and roll all night! Gene Simmons of KISS turns 77 this Tuesday. What's your favourite KISS anthem?",
+     "name": "Rock Icon Birthday",
+     "for": "Nation Rocks",
+     "copy": "Get ready to rock! Kiss icon Gene Simmons turns 77 this Tuesday. What's your favourite Kiss track to blast out?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "10:00",
      "tags": [
@@ -754,31 +494,31 @@
      ]
     },
     {
-     "name": "KISS Legacy",
-     "copy": "The Demon turns 77 on Tuesday! Celebrating the legendary Gene Simmons and his incredible impact on rock music with KISS.",
+     "name": "The Demon's Day",
+     "for": "Nation 70s",
+     "copy": "Happy Birthday wishes go out to the one and only Gene Simmons, who celebrates turning 77 on August 25th! Destroyer, Love Gun, Dynasty... so many classic albums.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "15:00",
+     "time": "15:30",
      "tags": [
-      "#KISS"
+      "#Kiss"
      ]
     }
    ]
   },
   {
-   "id": "ryan-ross-bday",
-   "off": 7,
+   "id": "elvis-costello-bday",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Ryan Ross' 40th Birthday",
-   "blurb": "Ryan Ross, former guitarist and lyricist for Panic! At The Disco, will celebrate his 40th birthday on Sunday, August 30th.",
+   "title": "Elvis Costello Turns 72",
+   "blurb": "Influential singer-songwriter Elvis Costello will celebrate his 72nd birthday on Tuesday, August 25th.",
    "source": {
-    "l": "idobi Radio",
-    "u": "https://idobi.com/features/12-alternative-musicians-celebrating-birthdays-this-august/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Elvis_Costello"
    },
    "fits": [
     {
@@ -787,61 +527,82 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Alt-Rock Birthday",
-     "copy": "Happy 40th Birthday to Ryan Ross this Sunday! A huge influence on a generation of alternative music fans with Panic! At The Disco.",
+     "name": "Songwriting Genius",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing a very Happy 72nd Birthday to the incomparable Elvis Costello this Tuesday! What's your favourite song from his incredible catalogue?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "11:00",
      "tags": [
-      "#RyanRoss"
+      "#ElvisCostello"
      ]
     },
     {
-     "name": "Panic! At The Disco",
-     "copy": "Celebrating Ryan Ross's 40th on Sunday! What's your favourite Panic! At The Disco track from his era?",
+     "name": "Pump It Up",
+     "for": "Nation Rocks",
+     "copy": "From 'Pump It Up' to 'Alison', Elvis Costello's songwriting is timeless. Celebrating his 72nd birthday on August 25th!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "16:00",
      "tags": [
-      "#PATD"
+      "#NewWave"
      ]
     }
    ]
   },
   {
-   "id": "august-bank-holiday",
-   "off": 8,
-   "type": "seasonal",
+   "id": "shania-twain-bday",
+   "off": 5,
+   "type": "birthday",
    "hot": true,
-   "title": "August Bank Holiday Weekend",
-   "blurb": "The last bank holiday until Christmas is approaching, providing a long weekend for many across the UK on Monday, August 31st.",
+   "title": "Shania Twain's 61st Birthday",
+   "blurb": "Country-pop icon Shania Twain will celebrate her 61st birthday on Thursday, August 28th.",
    "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/bank-holidays"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Long Weekend Anticipation",
-     "copy": "Who's already planning their August Bank Holiday weekend? The last long weekend until Christmas is nearly here!",
+     "name": "Let's Go Girls!",
+     "for": "Nation 90s",
+     "copy": "Man! I Feel Like A Woman! Shania Twain turns 61 this Thursday. What's your favourite anthem from the Queen of Country Pop?",
      "channels": [
       "instagram",
       "facebook",
@@ -851,35 +612,35 @@
      ],
      "time": "09:00",
      "tags": [
-      "#BankHoliday"
+      "#ShaniaTwain"
      ]
     },
     {
-     "name": "Weekend Plans",
-     "copy": "That August Bank Holiday feeling is setting in! What are your plans for the extra-long weekend?",
+     "name": "Still The One",
+     "for": "Nation Hits",
+     "copy": "Happy 61st Birthday to the legendary Shania Twain on August 28th! Her hits still sound as fresh as ever. Which one gets you singing along?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "15:00",
+     "time": "14:30",
      "tags": [
-      "#LongWeekend"
+      "#CountryPop"
      ]
     }
    ]
   },
   {
-   "id": "special-olympics-bham",
-   "off": 4,
-   "type": "sport",
+   "id": "professor-t-itv",
+   "off": 1,
+   "type": "tv",
    "hot": true,
-   "title": "Special Olympics National Summer Games",
-   "blurb": "The Special Olympics National Summer Games begin this Thursday, August 27th, in Birmingham, featuring multiple sports until August 30th.",
+   "title": "Professor T Continues on ITV",
+   "blurb": "The current series of the popular crime drama Professor T, starring Ben Miller, continues to air on ITV.",
    "source": {
-    "l": "Special Olympics Great Britain",
-    "u": "https://www.specialolympicsgb.org.uk/national-summer-games"
+    "l": "VODzilla.co",
+    "u": "https://vodzilla.co/blog/august-2026-watchlist-the-tv-shows-to-watch-this-week-and-month/"
    },
    "fits": [
     {
@@ -887,37 +648,85 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Birmingham"
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Inclusivity in Sport",
-     "copy": "Huge week for sport! The Special Olympics National Summer Games kick off in Birmingham on Thursday. Wishing all the athletes the best of luck!",
+     "name": "Who's Watching Professor T?",
+     "for": "",
+     "copy": "Are you hooked on Professor T? The latest series is still airing, bringing more intriguing mysteries and Ben Miller's unique detective.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "19:00",
      "tags": [
-      "#SpecialOlympicsGB"
+      "#ProfessorT"
      ]
     },
     {
-     "name": "Birmingham Event",
-     "copy": "Birmingham is hosting the Special Olympics National Summer Games from Thursday! Get ready for incredible achievements and inspiring stories.",
+     "name": "Devon's TV Connection",
+     "for": "radio-exe",
+     "copy": "Professor T is on ITV, and did you know Season 5 is currently filming right here in Devon? Keep an eye out for familiar sights!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "14:00",
+     "time": "11:00",
      "tags": [
-      "#Birmingham"
+      "#Devon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-piano-finale",
+   "off": 5,
+   "type": "tv",
+   "hot": true,
+   "title": "The Piano Live Finale",
+   "blurb": "The emotional live finale of Channel 4's The Piano, hosted by Claudia Winkleman, airs on Thursday, August 28th, crowning the UK's most talented amateur pianist.",
+   "source": {
+    "l": "Virgin Media TV",
+    "u": "https://www.virginmedia.com/virgin-tv-edit/whats-on/what-to-watch-on-tv-this-week-wednesday-19th-to-friday-28th-august"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Emotional Finale",
+     "for": "",
+     "copy": "Who will be crowned the winner? The live finale of Channel 4's The Piano is this Thursday! Have you got a favourite to win?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ThePiano"
+     ]
+    },
+    {
+     "name": "Inspiring Talent",
+     "for": "",
+     "copy": "The Piano has showcased some truly incredible talent. Don't miss the emotional live finale on Channel 4 this Thursday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Channel4"
      ]
     }
    ]
