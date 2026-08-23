@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-22T21:09:38.046Z",
+ "updated": "2026-08-23T00:29:25.294Z",
  "moments": [
   {
-   "id": "premier-league-sat",
+   "id": "premier-league-start",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Weekend Kicks Off",
-   "blurb": "The 2026/27 Premier League season is underway, with today seeing Hull City take on Manchester United and Brentford facing Spurs later.",
+   "title": "Premier League Season Kicks Off",
+   "blurb": "The 2026/27 English Premier League season has just begun, with matches continuing this weekend across the UK.",
    "source": {
-    "l": "Premier League Official",
-    "u": "https://www.premierleague.com/fixtures"
+    "l": "PremierLeague.com / The Guardian",
+    "u": "https://www.premierleague.com / https://www.theguardian.com/football/fixtures"
    },
    "fits": [
     {
@@ -20,12 +20,67 @@
    ],
    "angles": [
     {
-     "name": "Today's Matches",
-     "copy": "Premier League is back! Today's big clashes include Hull City vs Manchester United and Brentford vs Spurs. Who are you backing?",
+     "name": "General Excitement",
+     "copy": "The new Premier League season is officially underway! Who are you backing for the title this year?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Weekend Fixtures Tease",
+     "copy": "Big weekend of Premier League football ahead! What match are you most looking forward to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PLKickOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-fixtures-sat",
+   "off": 6,
+   "type": "sport",
+   "hot": true,
+   "title": "Saturday Premier League Clashes",
+   "blurb": "Saturday, August 29th, sees major Premier League fixtures including Liverpool vs Nottingham Forest and Spurs vs Newcastle.",
+   "source": {
+    "l": "The Guardian / Sky Sports",
+    "u": "https://www.theguardian.com/football/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Day Build-up",
+     "copy": "Saturday sees some cracking Premier League action! Liverpool host Nottingham Forest and Spurs take on Newcastle. Big points up for grabs!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
      ],
      "time": "14:00",
      "tags": [
@@ -33,30 +88,31 @@
      ]
     },
     {
-     "name": "Weekend Football",
-     "copy": "Football fans, your Saturday is sorted! Catch the Premier League action today. Will there be any early upsets?",
+     "name": "London Derby Angle (Spurs)",
+     "copy": "North London will be buzzing this Saturday as Spurs face Newcastle in the Premier League. Can they kick off the season with a home win?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "12:00",
+     "time": "15:30",
      "tags": [
-      "#PL"
+      "#COYS"
      ]
     }
    ]
   },
   {
-   "id": "official-singles-chart",
-   "off": 0,
-   "type": "culture",
+   "id": "premier-league-fixtures-sun",
+   "off": 7,
+   "type": "sport",
    "hot": true,
-   "title": "UK Singles Chart Update",
-   "blurb": "Sam Fender & Olivia Dean hold the top spot for a second week with 'Rein Me In' on the Official UK Singles Chart, while Shakira & Burna Boy are holding strong at number two.",
+   "title": "Sunday Premier League Showdowns",
+   "blurb": "Sunday, August 30th, features more Premier League action with Chelsea vs Brighton and Manchester United vs Ipswich.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "The Guardian",
+    "u": "https://www.theguardian.com/football/fixtures"
    },
    "fits": [
     {
@@ -64,46 +120,48 @@
      "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Chart Toppers",
-     "copy": "Still reigning supreme! Sam Fender & Olivia Dean are Number 1 for another week with 'Rein Me In'. Any challengers for next week?",
+     "name": "Sunday Football Focus",
+     "copy": "Wrap up your weekend with Sunday Premier League football! Chelsea are at home to Brighton, and Man Utd face Ipswich. Predictions?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "16:00",
      "tags": [
-      "#OfficialCharts"
+      "#PL"
      ]
     },
     {
-     "name": "New Music Vibes",
-     "copy": "Shakira & Burna Boy's 'Dai Dai' is holding strong at Number 2 on the Official Singles Chart. What are your weekend listening essentials?",
+     "name": "Man Utd Home Game",
+     "copy": "Old Trafford welcomes Ipswich on Sunday for Manchester United's first home Premier League game of the season. Can they start strong?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "18:00",
+     "time": "17:00",
      "tags": [
-      "#UKChart"
+      "#MUFC"
      ]
     }
    ]
   },
   {
-   "id": "green-man-closing",
-   "off": 1,
+   "id": "green-man-festival-ends",
+   "off": 0,
    "type": "gig",
    "hot": true,
    "title": "Green Man Festival Concludes",
-   "blurb": "Wales' Green Man Festival wraps up tomorrow, Sunday 23rd August, after a weekend featuring Mogwai, Four Tet, Wilco, and Wolf Alice, with the traditional Green Man burning cancelled due to fire risk.",
+   "blurb": "The Green Man Festival, one of Wales' most beloved music and arts events in the Brecon Beacons, concludes its 2026 edition today.",
    "source": {
     "l": "Green Man Festival",
     "u": "https://www.greenman.net/"
@@ -119,410 +177,53 @@
     },
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio Wales"
     },
     {
-     "g": "decades-genres",
+     "g": "nation-network",
      "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Festival Finale",
-     "copy": "It's the final day of Green Man Festival tomorrow! Who caught Mogwai, Four Tet, or Wolf Alice? Sad to hear the Green Man burning is off.",
+     "name": "Festival Wrap-up",
+     "copy": "That's a wrap for Green Man 2026! Hope everyone had an incredible time in the Brecon Beacons. What were your highlights?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "20:00",
-     "tags": [
-      "#GreenMan2026"
-     ]
-    },
-    {
-     "name": "Welsh Festival Wrap",
-     "copy": "Big crowds and great music at Green Man this weekend, even with the Green Man burning cancelled due to dry conditions. What was your festival highlight?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WelshFestivals"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shaun-ryder-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Shaun Ryder!",
-   "blurb": "Happy 64th Birthday tomorrow to Happy Mondays and Black Grape frontman, Shaun Ryder, born August 23, 1962.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august23.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Madchester Icon",
-     "copy": "Happy 64th Birthday to the one and only Shaun Ryder tomorrow! The Happy Mondays and Black Grape legend. What's your favourite Ryder track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
      "time": "11:00",
      "tags": [
-      "#ShaunRyder"
+      "#GreenManFestival"
      ]
     },
     {
-     "name": "Indie Royalty",
-     "copy": "Step On! Tomorrow, we're celebrating the 64th birthday of Happy Mondays' main man, Shaun Ryder. Still bringing the noise!",
+     "name": "Welsh Culture",
+     "copy": "Celebrating Welsh culture and music one last time today as Green Man Festival draws to a close. Diolch yn fawr to all the Settlers!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#HappyMondays"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "julian-casablancas-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Julian Casablancas!",
-   "blurb": "The Strokes frontman Julian Casablancas turns 48 tomorrow, August 23rd, born in 1978.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/23"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strokes Icon",
-     "copy": "Is This It? Nope, it's Julian Casablancas' 48th birthday tomorrow! Happy Birthday to The Strokes' iconic frontman.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "13:00",
      "tags": [
-      "#TheStrokes"
-     ]
-    },
-    {
-     "name": "Indie Legend",
-     "copy": "Tomorrow, we're raising a glass to Julian Casablancas on his 48th birthday. Still one of the coolest voices in indie rock.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#JulianCasablancas"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-mon",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Monday Night Football",
-   "blurb": "Matchweek 2 of the Premier League kicks off with Fulham hosting Chelsea on Monday, August 24.",
-   "source": {
-    "l": "Premier League Official",
-    "u": "https://www.premierleague.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "MNF",
-     "copy": "Monday Night Football is back! Fulham vs Chelsea on August 24th. Who's taking the three points?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#MNF"
-     ]
-    },
-    {
-     "name": "London Derby",
-     "copy": "A London derby to start the week! Fulham host Chelsea on Monday. Get ready for some capital city rivalry!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LondonDerby"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gene-simmons-bday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Gene Simmons!",
-   "blurb": "Kiss bassist and co-founder Gene Simmons turns 77 on Tuesday, August 25th, born in 1949.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august25.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend",
-     "copy": "You wanted the best, you got the best! Happy 77th Birthday to Kiss legend Gene Simmons on Tuesday. What's your favourite Kiss anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#GeneSimmons"
-     ]
-    },
-    {
-     "name": "Demon Birthday",
-     "copy": "Tuesday marks the 77th birthday of The Demon himself, Gene Simmons! Still rocking after all these years.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#KissArmy"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "elvis-costello-bday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Elvis Costello!",
-   "blurb": "The legendary singer-songwriter Elvis Costello celebrates his 72nd birthday on Tuesday, August 25th, born in 1954.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/August_25"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Wave Icon",
-     "copy": "Happy 72nd Birthday on Tuesday to the incredible Elvis Costello! A true songwriting genius.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ElvisCostello"
-     ]
-    },
-    {
-     "name": "Still Brilliant",
-     "copy": "From 'Pump It Up' to 'Alison', Elvis Costello's catalogue is timeless. Wishing him a very Happy 72nd Birthday on August 25th!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#NewWave"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shirley-manson-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Shirley Manson!",
-   "blurb": "Garbage frontwoman Shirley Manson turns 60 on Wednesday, August 26th, born in 1966.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/26"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Grunge Queen",
-     "copy": "Happy 60th Birthday to the iconic Shirley Manson of Garbage on Wednesday! Still pushing boundaries after all these years.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ShirleyManson"
-     ]
-    },
-    {
-     "name": "Garbage Star",
-     "copy": "Only Happy When It Rains... but we're happy to celebrate Shirley Manson's 60th birthday on August 26th! What's your favourite Garbage track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#Garbage"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "valerie-simpson-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Valerie Simpson!",
-   "blurb": "Motown legend Valerie Simpson, half of the iconic duo Ashford & Simpson, celebrates her 78th birthday on Wednesday, August 26th, born in 1948.",
-   "source": {
-    "l": "National Day Calendar",
-    "u": "https://nationaldaycalendar.com/august-26-birthdays-and-events/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Soulful Songwriter",
-     "copy": "Ain't No Mountain High Enough to stop us celebrating Valerie Simpson's 78th birthday on Wednesday! A true Motown and soul icon.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ValerieSimpson"
-     ]
-    },
-    {
-     "name": "Ashford & Simpson",
-     "copy": "Wishing a very Happy 78th Birthday to the incredible Valerie Simpson on August 26th. Her songwriting legacy is unparalleled!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#Motown"
+      "#Wales"
      ]
     }
    ]
   },
   {
    "id": "reading-leeds-festival",
-   "off": 5,
+   "off": 4,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festival Weekend",
-   "blurb": "The iconic Reading & Leeds Festivals kick off on Thursday, August 27th, running through the Bank Holiday weekend with headliners including Chase & Status, Dave, and Charli XCX.",
+   "title": "Reading & Leeds Festivals This Week",
+   "blurb": "Reading & Leeds Festivals, two of the UK's biggest music events, kick off this Thursday, August 27th, running until Sunday, August 30th.",
    "source": {
-    "l": "Reading & Leeds Festival",
+    "l": "Reading & Leeds Festivals",
     "u": "https://www.readingfestival.com/"
    },
    "fits": [
@@ -531,22 +232,33 @@
      "sub": ""
     },
     {
-     "g": "decades-genres",
+     "g": "nation-network",
      "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
+     "g": "nation-network",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Festival Alert",
-     "copy": "Reading & Leeds Festivals are almost here! Kicking off Thursday for the Bank Holiday weekend. Who are you most excited to see?",
+     "name": "Festival Excitement",
+     "copy": "Who's ready for Reading & Leeds this week? The countdown is on for one of the biggest weekends in UK music!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Lineup Tease",
+     "copy": "Reading & Leeds is almost here! What acts are you absolutely buzzing to see from this year's incredible lineup?",
      "channels": [
       "instagram",
       "facebook",
@@ -556,34 +268,21 @@
      ],
      "time": "14:00",
      "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Bank Holiday Beats",
-     "copy": "Get ready for the biggest Bank Holiday party! Reading & Leeds bring the noise from Thursday. Expect huge sets and festival vibes.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#LeedsFestival"
+      "#FestivalVibes"
      ]
     }
    ]
   },
   {
-   "id": "all-points-east",
+   "id": "notting-hill-carnival",
    "off": 6,
-   "type": "gig",
+   "type": "seasonal",
    "hot": true,
-   "title": "All Points East Begins",
-   "blurb": "London's All Points East Festival starts on Friday, August 28th, bringing a huge line-up to Victoria Park across the weekend.",
+   "title": "Notting Hill Carnival Approaches",
+   "blurb": "London's iconic Notting Hill Carnival, Europe's largest street party, returns this weekend from August 29th-31st.",
    "source": {
-    "l": "All Points East",
-    "u": "https://www.allpointseastfestival.com/"
+    "l": "Notting Hill Carnival",
+    "u": "https://nhcarnival.org/"
    },
    "fits": [
     {
@@ -591,8 +290,8 @@
      "sub": "Nation Radio London"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "nation-network",
+     "sub": ""
     },
     {
      "g": "decades-genres",
@@ -601,99 +300,326 @@
    ],
    "angles": [
     {
-     "name": "London Festival",
-     "copy": "Victoria Park, get ready! All Points East kicks off on Friday, August 28th. Who's heading to London for the festival fun?",
+     "name": "Carnival Countdown",
+     "copy": "Get ready, London! Notting Hill Carnival is just days away. Who's excited for the colours, music and incredible atmosphere?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#AllPointsEast"
+      "#NottingHillCarnival"
      ]
     },
     {
-     "name": "East London Vibes",
-     "copy": "Big weekend of music coming to East London with All Points East starting Friday. Perfect for that Bank Holiday weekend build-up!",
+     "name": "Music & Culture",
+     "copy": "From steel bands to soca, calypso to reggae – Notting Hill Carnival brings the best of Caribbean culture to the streets of London this weekend!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#APELondon"
+      "#LondonEvents"
      ]
     }
    ]
   },
   {
-   "id": "shania-twain-bday",
-   "off": 6,
-   "type": "birthday",
+   "id": "pulp-manchester",
+   "off": 5,
+   "type": "gig",
    "hot": true,
-   "title": "Happy Birthday Shania Twain!",
-   "blurb": "Country-pop superstar Shania Twain turns 61 on Friday, August 28th, born in 1965.",
+   "title": "Pulp Live in Manchester",
+   "blurb": "Britpop legends Pulp are set to play a huge show at Wythenshawe Park in Manchester this Friday, August 28th.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august28.html"
+    "l": "GIGSANDTOURS",
+    "u": "https://www.gigsandtours.com/tour/pulp"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "nation-network",
+     "sub": "Nation Radio Manchester"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Country Queen",
-     "copy": "Let's Go Girls! Happy 61st Birthday to the one and only Shania Twain on Friday. Still sounds good, looks good, feels good!",
+     "name": "Britpop Icons",
+     "copy": "Common People, get ready! Pulp are bringing their iconic sound to Wythenshawe Park in Manchester this Friday. Who's got tickets?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "12:00",
+     "time": "11:00",
      "tags": [
-      "#ShaniaTwain"
+      "#Pulp"
      ]
     },
     {
-     "name": "Music Icon",
-     "copy": "From 'Man! I Feel Like A Woman!' to 'That Don't Impress Me Much', Shania Twain is a legend. Happy 61st Birthday on August 28th!",
+     "name": "Manchester Gig",
+     "copy": "Manchester is ready for Pulp! The Britpop legends play a massive outdoor show on Friday. What's your favourite Pulp track?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "17:00",
+     "time": "15:00",
      "tags": [
-      "#CountryPop"
+      "#ManchesterMusic"
      ]
     }
    ]
   },
   {
-   "id": "florence-welch-bday",
-   "off": 6,
-   "type": "birthday",
+   "id": "bon-jovi-uk",
+   "off": 5,
+   "type": "gig",
    "hot": true,
-   "title": "Happy Birthday Florence Welch!",
-   "blurb": "Florence + The Machine frontwoman Florence Welch celebrates her 40th birthday on Friday, August 28th, born in 1986.",
+   "title": "Bon Jovi UK Tour Starts",
+   "blurb": "Rock legends Bon Jovi kick off their highly anticipated 'Forever Tour' in the UK this Friday, August 28th, with shows in London and Edinburgh.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/28"
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/bon-jovi-tickets/artist/734710"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Legends Return",
+     "copy": "Bon Jovi are back! Their 'Forever Tour' hits the UK this Friday. Who's ready to sing along to all the classics in London or Edinburgh?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#BonJovi"
+     ]
+    },
+    {
+     "name": "UK Tour",
+     "copy": "It's been seven years, but Bon Jovi are finally back in the UK! Kicking off their tour on Friday, it's going to be a wild one!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#RockMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prodigy-tour",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "The Prodigy UK Dates",
+   "blurb": "The Prodigy continue their UK tour this week, with dates running through to Sunday, August 30th.",
+   "source": {
+    "l": "GIGSANDTOURS",
+    "u": "https://www.gigsandtours.com/tour/the-prodigy"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Icons Live",
+     "copy": "Still buzzing from The Prodigy's shows this week? Their UK tour continues, bringing the fire to crowds nationwide!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#TheProdigy"
+     ]
+    },
+    {
+     "name": "Energy Levels",
+     "copy": "Nobody does it like The Prodigy. If you're catching them this week, prepare for an absolute energy overload!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#Firestarter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-aug26",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "New UK Singles Chart Topper",
+   "blurb": "Sam Fender & Olivia Dean hold the #1 spot on the Official UK Singles Chart for August 20-26 with 'Rein Me In'.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Reaction",
+     "copy": "It's official! Sam Fender & Olivia Dean are still at #1 with 'Rein Me In' on the UK Singles Chart! What do you think of this week's top spot?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Music Focus",
+     "copy": "Catching up on the new UK Singles Chart? Sam Fender & Olivia Dean are holding strong at the top. Any new entries you're loving?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bbc-proms-mozart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "BBC Proms: Mozart's 'Haffner' Symphony",
+   "blurb": "The BBC Proms continue today, August 23rd, at the Royal Albert Hall with a performance featuring Mozart's 'Haffner' Symphony.",
+   "source": {
+    "l": "Royal Albert Hall",
+    "u": "https://www.royalalberthall.com/tickets/proms/bbc-proms-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Classical Sunday",
+     "copy": "A perfect Sunday afternoon with the BBC Proms! Today features Mozart's 'Haffner' Symphony live from the Royal Albert Hall.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#BBCOutside"
+     ]
+    },
+    {
+     "name": "Proms Highlights",
+     "copy": "The Proms are in full swing! Tonight, immerse yourself in the brilliance of Mozart's 'Haffner' Symphony. Tune in or catch up!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Proms2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "julian-casablancas-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Julian Casablancas' 48th Birthday",
+   "blurb": "Julian Casablancas, frontman of The Strokes and The Voidz, turns 48 today, August 23rd.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/julian-casablancas.html"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
@@ -705,52 +631,103 @@
    ],
    "angles": [
     {
-     "name": "Indie Powerhouse",
-     "copy": "Happy 40th Birthday to the incredible Florence Welch on Friday! Her voice is pure magic.",
+     "name": "Rock Icon Birthday",
+     "copy": "Happy 48th Birthday to Julian Casablancas! The Strokes frontman has given us so many indie anthems. What's your favourite?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "09:30",
      "tags": [
-      "#FlorenceAndTheMachine"
+      "#JulianCasablancas"
      ]
     },
     {
-     "name": "Musical Force",
-     "copy": "From 'Dog Days Are Over' to 'Shake It Out', Florence Welch has given us so many anthems. Wishing her a fantastic 40th on August 28th!",
+     "name": "Music Trivia",
+     "copy": "Did you know The Strokes' Julian Casablancas celebrates his 48th birthday today? Still sounding as fresh as ever!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "19:00",
+     "time": "13:30",
      "tags": [
-      "#FlorenceWelch"
+      "#TheStrokes"
      ]
     }
    ]
   },
   {
-   "id": "guildhall-live-exeter",
-   "off": 7,
-   "type": "gig",
+   "id": "shaun-ryder-bday",
+   "off": 0,
+   "type": "birthday",
    "hot": true,
-   "title": "Guildhall Live Festival in Exeter",
-   "blurb": "Exeter's Guildhall Live, a free three-day music festival, takes over Market Square from Saturday 29th to Monday 31st August, celebrating 50 years of Guildhall Shopping Exeter with tribute acts and local talent.",
+   "title": "Shaun Ryder's 64th Birthday",
+   "blurb": "Happy Mondays and Black Grape frontman Shaun Ryder celebrates his 64th birthday today, August 23rd.",
    "source": {
-    "l": "Visit Devon",
-    "u": "https://www.visitdevon.co.uk/whats-on/guildhall-live-2026-p3043813"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shaun_Ryder"
    },
    "fits": [
     {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Madchester Legend",
+     "copy": "Step On! Happy 64th Birthday to the one and only Shaun Ryder! What's your top track from Happy Mondays or Black Grape?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ShaunRyder"
+     ]
+    },
+    {
+     "name": "Iconic Voice",
+     "copy": "Celebrating Shaun Ryder's 64th today! A true icon of British music, known for his unique lyrics and unmistakable voice.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#HappyMondays"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gene-simmons-bday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Gene Simmons' 77th Birthday",
+   "blurb": "KISS bassist and co-lead singer Gene Simmons will turn 77 on Tuesday, August 25th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -759,56 +736,98 @@
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Exeter Festival",
-     "copy": "Free music alert for Exeter! Guildhall Live brings three days of tribute acts and local talent to Market Square from Saturday 29th August. Don't miss it!",
+     "name": "Rock Legend Birthday",
+     "copy": "Get ready to rock and roll all night! Gene Simmons of KISS turns 77 this Tuesday. What's your favourite KISS anthem?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#ExeterEvents"
+      "#GeneSimmons"
      ]
     },
     {
-     "name": "Devon Bank Holiday",
-     "copy": "Planning your Bank Holiday weekend in Devon? Guildhall Live in Exeter is serving up free music from the 70s to today, Saturday to Monday!",
+     "name": "KISS Legacy",
+     "copy": "The Demon turns 77 on Tuesday! Celebrating the legendary Gene Simmons and his incredible impact on rock music with KISS.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#DevonLive"
+      "#KISS"
      ]
     }
    ]
   },
   {
-   "id": "summer-bank-holiday",
-   "off": 9,
+   "id": "ryan-ross-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Ryan Ross' 40th Birthday",
+   "blurb": "Ryan Ross, former guitarist and lyricist for Panic! At The Disco, will celebrate his 40th birthday on Sunday, August 30th.",
+   "source": {
+    "l": "idobi Radio",
+    "u": "https://idobi.com/features/12-alternative-musicians-celebrating-birthdays-this-august/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Alt-Rock Birthday",
+     "copy": "Happy 40th Birthday to Ryan Ross this Sunday! A huge influence on a generation of alternative music fans with Panic! At The Disco.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RyanRoss"
+     ]
+    },
+    {
+     "name": "Panic! At The Disco",
+     "copy": "Celebrating Ryan Ross's 40th on Sunday! What's your favourite Panic! At The Disco track from his era?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#PATD"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday",
+   "off": 8,
    "type": "seasonal",
    "hot": true,
-   "title": "August Bank Holiday Monday",
-   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31st, marking a long weekend for many.",
+   "title": "August Bank Holiday Weekend",
+   "blurb": "The last bank holiday until Christmas is approaching, providing a long weekend for many across the UK on Monday, August 31st.",
    "source": {
     "l": "Gov.uk",
     "u": "https://www.gov.uk/bank-holidays"
@@ -817,28 +836,17 @@
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Long Weekend Prep",
-     "copy": "Who's ready for the August Bank Holiday weekend? Monday, August 31st means an extra day off for England, Wales, and Northern Ireland!",
+     "name": "Long Weekend Anticipation",
+     "copy": "Who's already planning their August Bank Holiday weekend? The last long weekend until Christmas is nearly here!",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "09:00",
@@ -847,16 +855,69 @@
      ]
     },
     {
-     "name": "End of Summer",
-     "copy": "Make the most of the last long weekend of summer! The August Bank Holiday is just around the corner on Monday 31st. How are you spending it?",
+     "name": "Weekend Plans",
+     "copy": "That August Bank Holiday feeling is setting in! What are your plans for the extra-long weekend?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "16:00",
+     "time": "15:00",
      "tags": [
-      "#SummerVibes"
+      "#LongWeekend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "special-olympics-bham",
+   "off": 4,
+   "type": "sport",
+   "hot": true,
+   "title": "Special Olympics National Summer Games",
+   "blurb": "The Special Olympics National Summer Games begin this Thursday, August 27th, in Birmingham, featuring multiple sports until August 30th.",
+   "source": {
+    "l": "Special Olympics Great Britain",
+    "u": "https://www.specialolympicsgb.org.uk/national-summer-games"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Birmingham"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Inclusivity in Sport",
+     "copy": "Huge week for sport! The Special Olympics National Summer Games kick off in Birmingham on Thursday. Wishing all the athletes the best of luck!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SpecialOlympicsGB"
+     ]
+    },
+    {
+     "name": "Birmingham Event",
+     "copy": "Birmingham is hosting the Special Olympics National Summer Games from Thursday! Get ready for incredible achievements and inspiring stories.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Birmingham"
      ]
     }
    ]
