@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-23T06:18:51.548Z",
+ "updated": "2026-08-23T07:23:05.460Z",
  "moments": [
   {
-   "id": "aug-bank-holiday",
-   "off": 8,
-   "type": "seasonal",
+   "id": "prem-league-sun",
+   "off": 0,
+   "type": "sport",
    "hot": true,
-   "title": "August Bank Holiday Weekend",
-   "blurb": "The last long weekend of the summer for England, Wales and Northern Ireland arrives on Monday, August 31, 2026.",
+   "title": "Premier League Sunday Showdowns",
+   "blurb": "The Premier League season continues today with three big matches, including Newcastle vs Liverpool, after a thrilling opening weekend.",
    "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/bank-holidays"
+    "l": "Football Web Pages / Xinhua",
+    "u": "https://www.footballwebpages.co.uk/premier-league/fixtures-results/august/2026"
    },
    "fits": [
     {
@@ -20,45 +20,124 @@
    ],
    "angles": [
     {
-     "name": "Anticipation",
-     "copy": "Who's already counting down the hours to the August Bank Holiday weekend? Last chance for a proper summer send-off! #BankHoliday",
+     "name": "Matchday Buzz",
+     "for": "",
+     "copy": "Sunday Funday in the Premier League! Newcastle host Liverpool, while Brighton take on Aston Villa and Man City face Bournemouth. Who's getting the points today?",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "08:00",
+     "time": "12:00",
      "tags": [
-      "#BankHoliday"
+      "#PremierLeague"
      ]
     },
     {
-     "name": "Plans",
-     "copy": "Sun's out (hopefully!), BBQ fired up, or a last-minute getaway? What are your big plans for the August Bank Holiday weekend?",
+     "name": "Weekend Recap",
+     "for": "",
+     "copy": "What a start to the Premier League season! Hull beat Man Utd, Ipswich edged Sunderland, and Leeds snatched a late winner at Forest. Catch up before today's games!",
      "channels": [
-      "instagram",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#PL"
+     ]
+    },
+    {
+     "name": "Local Team Focus (if applicable)",
+     "for": "Nation Radio London",
+     "copy": "Arsenal kicked off their Premier League campaign with a dominant 3-0 win over Coventry on Friday! What did you make of the Gunners' performance?",
+     "channels": [
       "facebook",
       "x"
      ],
      "time": "10:00",
      "tags": [
-      "#SummerVibes"
+      "#Arsenal"
      ]
     }
    ]
   },
   {
-   "id": "notting-hill-carnival",
-   "off": 7,
-   "type": "culture",
+   "id": "womens-rugby-wc-wales-scotland",
+   "off": 0,
+   "type": "sport",
    "hot": true,
-   "title": "Notting Hill Carnival Returns",
-   "blurb": "Europe's largest street festival, Notting Hill Carnival, brings vibrant Caribbean culture, music, and parades to West London on August 30-31, 2026.",
+   "title": "Women's Rugby World Cup: Scotland vs Wales",
+   "blurb": "The Women's Rugby World Cup continues today with a highly anticipated clash between Scotland and Wales in Manchester.",
    "source": {
-    "l": "Notting Hill Carnival",
-    "u": "https://nhcarnival.org/"
+    "l": "Londonseprimarypehwb",
+    "u": "https://www.londonseprimarypehwb.co.uk/sports-calendar-2026"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Game Day Excitement",
+     "for": "welsh-local",
+     "copy": "It's a huge day for Welsh rugby! Our women's team takes on Scotland in the World Cup today in Manchester. Good luck, girls!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#WalesRugby"
+     ]
+    },
+    {
+     "name": "National Pride",
+     "for": "nation-network",
+     "copy": "The Women's Rugby World Cup is heating up! Scotland faces Wales today in a massive Group Stage encounter. Who are you backing?",
+     "channels": [
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#RugbyWC"
+     ]
+    },
+    {
+     "name": "Manchester Host",
+     "for": "nation-network",
+     "copy": "Manchester is hosting a big Women's Rugby World Cup clash today as Scotland meet Wales! Get down there if you can!",
+     "channels": [
+      "facebook"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#WomensRugby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "all-points-east-deftones",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "All Points East: Deftones Headline",
+   "blurb": "All Points East festival continues today in London's Victoria Park with rock legends Deftones headlining, following Lorde's performance yesterday.",
+   "source": {
+    "l": "AXS US / All Points East",
+    "u": "https://www.axs.com/series/24430/all-points-east-2026-tickets"
    },
    "fits": [
     {
@@ -66,201 +145,65 @@
      "sub": "Nation Radio London"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Excitement",
-     "copy": "Get ready for the biggest street party in Europe! Notting Hill Carnival is back this Bank Holiday weekend, filling West London with colour and sound.",
+     "name": "Live from APE",
+     "for": "Nation Radio London",
+     "copy": "Victoria Park is buzzing! Deftones are taking over All Points East today – what an end to the first weekend of the festival!",
      "channels": [
       "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "13:00",
      "tags": [
-      "#NottingHillCarnival"
+      "#AllPointsEast"
      ]
     },
     {
-     "name": "Vibes",
-     "copy": "Steel pans, incredible floats, and non-stop energy – Notting Hill Carnival kicks off Sunday for two days of pure joy. Who's heading to the streets?",
+     "name": "Rock Out Sunday",
+     "for": "Nation Rocks",
+     "copy": "If you're at All Points East today, you're in for a treat! Deftones are bringing the heavy to London. What's your favourite Deftones track?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#Carnival"
+      "#Deftones"
+     ]
+    },
+    {
+     "name": "Festival Vibes",
+     "for": "",
+     "copy": "All Points East is in full swing! Deftones headline today, with more huge acts like Tyler, The Creator and Twenty One Pilots to come next weekend.",
+     "channels": [
+      "instagram"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#APE2026"
      ]
     }
    ]
   },
   {
-   "id": "pl-sun-aug23",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Sunday Clashes",
-   "blurb": "Today's Premier League action includes Brighton vs Aston Villa, Manchester City vs Bournemouth (both 2pm), and Newcastle United vs Liverpool (4:30pm).",
-   "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/premier-league-fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Match Day",
-     "copy": "Super Sunday in the Premier League! Big games today including Brighton v Villa, Man City v Bournemouth, and Newcastle v Liverpool. Which one are you glued to?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Fan Chat",
-     "copy": "Newcastle vs Liverpool: a clash of titans this afternoon! Who's taking home the points at St. James' Park?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#NEWLIV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "efl-wrexham-birmingham",
-   "off": 5,
-   "type": "sport",
-   "hot": true,
-   "title": "Wrexham vs Birmingham City",
-   "blurb": "Wrexham host Birmingham City in the EFL Championship on Friday, August 28, 2026, kicking off at 8pm.",
-   "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/championship-fixtures"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Wrexham"
-    },
-    {
-     "g": "dragon",
-     "sub": "Wrexham"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Local Football",
-     "copy": "Friday night lights! Wrexham take on Birmingham City in what's set to be a cracker in the Championship. Come on the Red Dragons!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#WxmAFC"
-     ]
-    },
-    {
-     "name": "Fan Anticipation",
-     "copy": "Can Wrexham grab those crucial three points at home against Birmingham? Predictions for Friday's big game?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Championship"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "reading-leeds-festivals",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Reading & Leeds Festivals",
-   "blurb": "The iconic Reading & Leeds Festivals take place over the Bank Holiday weekend, August 28-30, 2026, featuring a huge lineup of rock, indie, and alternative acts.",
-   "source": {
-    "l": "Reading & Leeds",
-    "u": "https://www.readingfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Buzz",
-     "copy": "It's almost time! Reading & Leeds Festivals hit this Bank Holiday weekend. Who are you most excited to see on the main stages?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Rock Out",
-     "copy": "Three days of pure festival energy. Reading & Leeds is the place to be for rock, indie, and alternative fans this weekend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FestivalVibes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "creamfields-festival",
+   "id": "creamfields-preview",
    "off": 4,
    "type": "gig",
    "hot": true,
-   "title": "Creamfields Festival",
-   "blurb": "One of the UK's biggest dance music festivals, Creamfields, takes over Daresbury Estate from August 27-29, 2026.",
+   "title": "Creamfields Festival Kicks Off This Week",
+   "blurb": "The UK's biggest electronic dance music festival, Creamfields, takes over Daresbury, Cheshire from Thursday for the August Bank Holiday weekend.",
    "source": {
-    "l": "Creamfields",
-    "u": "https://www.creamfields.com/"
+    "l": "Creamfields Festival",
+    "u": "https://creamfields.com/"
    },
    "fits": [
     {
@@ -269,50 +212,133 @@
     },
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
     }
    ],
    "angles": [
     {
-     "name": "Dance Anthem",
-     "copy": "Get ready to rave! Creamfields is just days away, bringing the biggest names in dance music to Daresbury. Who's got their tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Creamfields"
-     ]
-    },
-    {
-     "name": "Weekend Warmup",
-     "copy": "The countdown is ON for Creamfields! Expect epic sets and an unforgettable atmosphere at this year's festival.",
+     "name": "Dance Nation Anticipation",
+     "for": "Nation Dance",
+     "copy": "Creamfields is just days away! Ready for a massive Bank Holiday weekend of the best in dance music? Who are you most excited to see?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "10:00",
      "tags": [
-      "#DanceMusic"
+      "#Creamfields"
+     ]
+    },
+    {
+     "name": "Bank Holiday Plans",
+     "for": "",
+     "copy": "Final countdown to Creamfields! Kicking off on Thursday, it's set to be a huge Bank Holiday weekend for dance music fans.",
+     "channels": [
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "Cheshire Calling",
+     "for": "nation-network",
+     "copy": "Daresbury, get ready! Creamfields is back this Bank Holiday weekend with Calvin Harris, Swedish House Mafia, Disclosure and more!",
+     "channels": [
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Creamfields2026"
      ]
     }
    ]
   },
   {
-   "id": "julian-casablancas-bday",
+   "id": "reading-leeds-preview",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Reading & Leeds Festival Returns",
+   "blurb": "Reading and Leeds Festivals are set to host a massive Bank Holiday weekend, kicking off on Thursday with headliners including Charli XCX, Dave, and Florence + The Machine.",
+   "source": {
+    "l": "Reading Festival",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Countdown",
+     "for": "",
+     "copy": "Who's heading to Reading or Leeds this Bank Holiday weekend? Get ready for Charli XCX, Dave, Florence + The Machine and so much more!",
+     "channels": [
+      "instagram",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Lineup Hype",
+     "for": "Nation Hits",
+     "copy": "From Charli XCX to Dave, the Reading & Leeds lineup is stacked this year! What acts are you buzzing to catch?",
+     "channels": [
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#ReadingFestival"
+     ]
+    },
+    {
+     "name": "Bank Holiday Festival",
+     "for": "nation-network",
+     "copy": "The Bank Holiday weekend means one thing for many: Reading & Leeds Festival! Kicking off on Thursday, it's going to be huge.",
+     "channels": [
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#LeedsFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-julian-casablancas",
    "off": 0,
    "type": "birthday",
    "hot": false,
-   "title": "Julian Casablancas' 48th Birthday",
-   "blurb": "Julian Casablancas, frontman of The Strokes, turns 48 today.",
+   "title": "Happy 48th, Julian Casablancas!",
+   "blurb": "The Strokes frontman, Julian Casablancas, celebrates his 48th birthday today, known for his distinctive voice and influential indie rock sound.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/julian-casablancas.html"
+    "l": "Bored Panda / Musicians Born on August 23",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-23-2026/"
    },
    "fits": [
     {
@@ -326,30 +352,42 @@
    ],
    "angles": [
     {
-     "name": "Rock Icon",
-     "copy": "Happy 48th Birthday to the distinctive voice of The Strokes, Julian Casablancas! What's your favourite track from the indie rock legend?",
+     "name": "Strokes Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 48th birthday to the one and only Julian Casablancas! What's your favourite track from The Strokes?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#JulianCasablancas"
+     ]
+    },
+    {
+     "name": "Indie Icon",
+     "for": "Nation 00s",
+     "copy": "Celebrating Julian Casablancas of The Strokes, who turns 48 today! An indie rock icon, no doubt.",
+     "channels": [
+      "instagram"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheStrokes"
      ]
     }
    ]
   },
   {
-   "id": "shaun-ryder-bday",
+   "id": "bday-shaun-ryder",
    "off": 0,
    "type": "birthday",
    "hot": false,
-   "title": "Shaun Ryder's 64th Birthday",
-   "blurb": "Happy Mondays and Black Grape frontman, Shaun Ryder, celebrates his 64th birthday today.",
+   "title": "Shaun Ryder Turns 64!",
+   "blurb": "Happy Mondays and Black Grape frontman Shaun Ryder celebrates his 64th birthday today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/shaun-ryder.html"
+    "l": "Musicians Born on August 23",
+    "u": "https://www.famousbirthdays.com/august/23.html"
    },
    "fits": [
     {
@@ -364,205 +402,86 @@
    "angles": [
     {
      "name": "Madchester Legend",
-     "copy": "The one and only Shaun Ryder turns 64 today! Wishing a very happy birthday to the Happy Mondays and Black Grape icon.",
+     "for": "Nation 90s",
+     "copy": "Happy 64th birthday to the legendary Shaun Ryder of Happy Mondays and Black Grape! Still a true original.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "09:00",
      "tags": [
       "#ShaunRyder"
      ]
-    }
-   ]
-  },
-  {
-   "id": "rick-springfield-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Rick Springfield's 77th Birthday",
-   "blurb": "Australian rock icon Rick Springfield, known for 'Jessie's Girl', turns 77 today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/rick-springfield.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Superstar",
-     "copy": "Happy 77th Birthday to the legendary Rick Springfield! Still got 'Jessie's Girl' stuck in your head?",
+     "name": "Rocker's Birthday",
+     "for": "Nation Rocks",
+     "copy": "Wishing a very Happy 64th Birthday to Shaun Ryder! What's your favourite Happy Mondays or Black Grape classic?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "instagram"
      ],
-     "time": "12:00",
+     "time": "11:00",
      "tags": [
-      "#RickSpringfield"
+      "#HappyMondays"
      ]
     }
    ]
   },
   {
-   "id": "chrissy-costanza-bday",
+   "id": "bday-lil-yachty",
    "off": 0,
    "type": "birthday",
    "hot": false,
-   "title": "Chrissy Costanza's 30th Birthday",
-   "blurb": "Chrissy Costanza, lead singer of the pop-rock band Against The Current, celebrates her 30th birthday today.",
+   "title": "Lil Yachty is 29 Today!",
+   "blurb": "American rapper and singer Lil Yachty, known for his unique sound, celebrates his 29th birthday.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/chrissy-costanza.html"
+    "l": "Bored Panda / foxy99.com",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-23-2026/"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Pop-Rock Voice",
-     "copy": "Happy 30th Birthday to the incredible Chrissy Costanza of Against The Current! What's your favourite ATC track?",
+     "name": "Hip-Hop Birthday",
+     "for": "Nation Hits",
+     "copy": "Happy 29th Birthday to Lil Yachty! What's your favourite track from the genre-bending artist?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "12:30",
      "tags": [
-      "#ChrissyCostanza"
+      "#LilYachty"
+     ]
+    },
+    {
+     "name": "Birthday Beats",
+     "for": "Nation Hits",
+     "copy": "Wishing a big Happy Birthday to Lil Yachty, who turns 29 today! Keep making those waves!",
+     "channels": [
+      "instagram"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Birthday"
      ]
     }
    ]
   },
   {
-   "id": "sonu-nigam-london",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Sonu Nigam at OVO Arena Wembley",
-   "blurb": "Bollywood playback singing legend Sonu Nigam performs live at the OVO Arena Wembley in London tonight.",
-   "source": {
-    "l": "OVO Arena Wembley",
-    "u": "https://www.ovoarena.co.uk/events/detail/sonu-nigam-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Live Music",
-     "copy": "Tonight in London: The legendary Sonu Nigam takes to the stage at OVO Arena Wembley for an unforgettable night of music!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SonuNigam"
-     ]
-    },
-    {
-     "name": "Bollywood Star",
-     "copy": "Fans are buzzing for Sonu Nigam's performance at Wembley tonight, celebrating decades of his iconic Bollywood hits.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#Wembley"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ariana-grande-o2",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Ariana Grande at The O2",
-   "blurb": "Pop superstar Ariana Grande performs at The O2 in London tonight, as part of her extended 'Eternal Sunshine Tour'.",
-   "source": {
-    "l": "The O2",
-    "u": "https://www.theo2.co.uk/events/detail/ariana-grande-2026"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Sensation",
-     "copy": "London Arianators, assemble! Ariana Grande is live at The O2 tonight for her 'Eternal Sunshine Tour'. Get ready for an incredible show!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#ArianaGrande"
-     ]
-    },
-    {
-     "name": "Concert Excitement",
-     "copy": "The O2 is buzzing for Ariana Grande! What's the one song you're desperate to hear tonight?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#EternalSunshineTour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "florence-welch-bday",
-   "off": 5,
+   "id": "bday-gene-simmons",
+   "off": 2,
    "type": "birthday",
    "hot": false,
-   "title": "Florence Welch's 40th Birthday",
-   "blurb": "Florence Welch, the powerful voice behind Florence + The Machine, turns 40 on August 28.",
+   "title": "Gene Simmons Turns 77!",
+   "blurb": "KISS bassist and co-lead singer Gene Simmons celebrates his 77th birthday on Tuesday.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/florence-welch.html"
+    "l": "Celebrity birthdays for the week of Aug. 23-29",
+    "u": "https://apnews.com/article/celebrity-birthdays-august-23-29-2026-6a9b4004c3c6d6a5c2f0f4a47530e37b"
    },
    "fits": [
     {
@@ -571,43 +490,47 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Birthday Shoutout",
-     "copy": "Wishing a very happy 40th Birthday to the mesmerising Florence Welch on August 28! What's your favourite Florence + The Machine track?",
+     "name": "Rock Legend",
+     "for": "Nation Rocks",
+     "copy": "On Tuesday, the Demon himself, Gene Simmons of KISS, turns 77! Send him some rock 'n' roll birthday wishes!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "08:30",
      "tags": [
-      "#FlorenceWelch"
+      "#GeneSimmons"
+     ]
+    },
+    {
+     "name": "KISS Army",
+     "for": "Nation 70s",
+     "copy": "Happy 77th Birthday to KISS legend Gene Simmons this Tuesday! What's your favourite KISS anthem?",
+     "channels": [
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#KISS"
      ]
     }
    ]
   },
   {
-   "id": "shania-twain-bday",
+   "id": "bday-shania-twain",
    "off": 5,
    "type": "birthday",
    "hot": false,
-   "title": "Shania Twain's 61st Birthday",
-   "blurb": "Country-pop superstar Shania Twain celebrates her 61st birthday on August 28.",
+   "title": "Shania Twain's 61st Birthday!",
+   "blurb": "Country music icon Shania Twain celebrates her 61st birthday on Thursday.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/shania-twain.html"
+    "l": "Celebrity birthdays for the week of Aug. 23-29",
+    "u": "https://apnews.com/article/celebrity-birthdays-august-23-29-2026-6a9b4004c3c6d6a5c2f0f4a47530e37b"
    },
    "fits": [
     {
@@ -621,209 +544,138 @@
    ],
    "angles": [
     {
-     "name": "Country Queen",
-     "copy": "Let's go girls! Shania Twain turns 61 on August 28. What's your go-to anthem from the Queen of Country Pop?",
+     "name": "Queen of Country",
+     "for": "Nation Classic Hits",
+     "copy": "Man! I Feel Like A Woman! Shania Twain turns 61 on Thursday! What's your favourite hit from the country superstar?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:30",
+     "time": "09:00",
      "tags": [
       "#ShaniaTwain"
      ]
-    }
-   ]
-  },
-  {
-   "id": "leann-rimes-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": false,
-   "title": "LeAnn Rimes' 44th Birthday",
-   "blurb": "Grammy-winning singer LeAnn Rimes, known for hits like 'How Do I Live', turns 44 on August 28.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/leann-rimes.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Vocal Powerhouse",
-     "copy": "Wishing a very happy 44th Birthday to the incredible LeAnn Rimes on August 28! Which of her timeless ballads is your favourite?",
+     "name": "90s Icon",
+     "for": "Nation 90s",
+     "copy": "Celebrating the incredible Shania Twain on her 61st birthday this Thursday! Still got it!",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#LeAnnRimes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "asap-rocky-uk-tour",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "A$AP Rocky UK Tour Dates",
-   "blurb": "A$AP Rocky brings his 'Don't Be Dumb World Tour' to the UK with multiple dates starting August 30 and running until September 5, 2026.",
-   "source": {
-    "l": "Ticketmaster",
-    "u": "https://www.ticketmaster.co.uk/asap-rocky-tickets"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hip-Hop Hype",
-     "copy": "Get ready for the 'Don't Be Dumb' tour! A$AP Rocky is hitting the UK from August 30 for a series of huge shows. Who's got tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ASAPRocky"
-     ]
-    },
-    {
-     "name": "Tour Buzz",
-     "copy": "A$AP Rocky's UK tour kicks off this Bank Holiday weekend! Expect an explosive live performance from the rap superstar.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#DontBeDumbTour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "daniel-caesar-o2",
-   "off": 10,
-   "type": "gig",
-   "hot": false,
-   "title": "Daniel Caesar at The O2",
-   "blurb": "Grammy-winning R&B artist Daniel Caesar brings his 'Son of Spergy Tour' to The O2 in London on Wednesday, September 2, 2026.",
-   "source": {
-    "l": "The O2",
-    "u": "https://www.theo2.co.uk/events/detail/daniel-caesar-2026"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "R&B Night",
-     "copy": "Mark your calendars! Daniel Caesar is at The O2 next Wednesday, September 2. Get ready for a night of soulful R&B.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#DanielCaesar"
-     ]
-    },
-    {
-     "name": "Soulful Sounds",
-     "copy": "Who's looking forward to Daniel Caesar's 'Son of Spergy Tour' stopping at The O2 next week? Expect smooth vocals and incredible vibes.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TheO2"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bbc-proms-bond-beyond",
-   "off": 2,
-   "type": "tv",
-   "hot": false,
-   "title": "BBC Proms: Bond and Beyond",
-   "blurb": "The BBC Proms continues at the Royal Albert Hall with 'Bond and Beyond' on Tuesday, August 25, 2026, celebrating iconic film scores.",
-   "source": {
-    "l": "Royal Albert Hall",
-    "u": "https://www.royalalberthall.com/tickets/proms/2026/bond-and-beyond/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Film Music",
-     "copy": "Shaken, not stirred! The BBC Proms presents 'Bond and Beyond' this Tuesday, a spectacular night of film music at the Royal Albert Hall.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BBCProms"
-     ]
-    },
-    {
-     "name": "Cultural Highlight",
-     "copy": "From 007 to other cinematic masterpieces, 'Bond and Beyond' promises an evening of unforgettable scores at the Proms.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "instagram"
      ],
      "time": "13:00",
      "tags": [
-      "#FilmScore"
+      "#CountryPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-florence-welch",
+   "off": 5,
+   "type": "birthday",
+   "hot": false,
+   "title": "Florence Welch Turns 40!",
+   "blurb": "Florence + The Machine frontwoman Florence Welch celebrates her 40th birthday on Thursday.",
+   "source": {
+    "l": "Celebrity birthdays for the week of Aug. 23-29",
+    "u": "https://apnews.com/article/celebrity-birthdays-august-23-29-2026-6a9b4004c3c6d6a5c2f0f4a47530e37b"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Indie Pop Powerhouse",
+     "for": "Nation Hits",
+     "copy": "Happy 40th Birthday to the phenomenal Florence Welch of Florence + The Machine this Thursday! What's your go-to track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#FlorenceWelch"
+     ]
+    },
+    {
+     "name": "Vocals for Days",
+     "for": "Nation Rocks",
+     "copy": "Wishing a very happy 40th to Florence Welch on Thursday! Her voice is truly a force of nature.",
+     "channels": [
+      "instagram"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#FlorenceAndTheMachine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-summer-weather",
+   "off": 0,
+   "type": "seasonal",
+   "hot": false,
+   "title": "UK Summer Weather Outlook",
+   "blurb": "The UK is enjoying sunny intervals and mild temperatures today, but a change to more unsettled, wet, and humid weather is forecast from Wednesday.",
+   "source": {
+    "l": "Met Office / AccuWeather",
+    "u": "https://www.accuweather.com/en/gb/london/ec4a-2/august-weather/328328"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Weekend Weather",
+     "for": "",
+     "copy": "Enjoying the sunny spells today? It's a mild Sunday across much of the UK, perfect for getting out and about!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#UKWeather"
+     ]
+    },
+    {
+     "name": "Midweek Change",
+     "for": "",
+     "copy": "Heads up! After a pleasant start to the week, expect more unsettled, wet, and humid conditions from Wednesday. Don't forget your brolly!",
+     "channels": [
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#WeatherForecast"
+     ]
+    },
+    {
+     "name": "Summer Vibes",
+     "for": "",
+     "copy": "It's still feeling like summer! Sunny intervals and comfortable temperatures today, but a shift is coming midweek. How are you spending your Sunday?",
+     "channels": [
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#SummerUK"
      ]
     }
    ]
