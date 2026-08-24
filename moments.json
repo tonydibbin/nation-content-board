@@ -1,336 +1,71 @@
 {
- "updated": "2026-08-24T21:17:03.044Z",
+ "updated": "2026-08-24T22:12:44.081Z",
  "moments": [
   {
-   "id": "aug-bank-holiday-washout",
+   "id": "august-bank-holiday-uk",
    "off": 7,
    "type": "seasonal",
    "hot": true,
-   "title": "Bank Holiday Weather Warning",
-   "blurb": "The August Bank Holiday weekend in England, Wales, and Northern Ireland is set for heavy rain and thunderstorms, following a summer of heatwaves.",
+   "title": "August Bank Holiday Weekend",
+   "blurb": "The UK is gearing up for the August Bank Holiday weekend, marking the unofficial end of summer for many in England, Wales, and Northern Ireland on Monday, August 31st.",
    "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk"
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Rainy Forecast",
-     "copy": "Get ready for a soggy Bank Holiday weekend! The Met Office is warning of heavy rain and thunderstorms across England, Wales & Northern Ireland. Time to dig out the wellies! #BankHolidayWeather",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#BankHolidayWeather"
-     ]
-    },
-    {
-     "name": "Indoor Plans",
-     "copy": "Looks like the Bank Holiday weekend is best spent indoors! Heavy rain and thunder expected. What are your last-minute indoor plans? 🌧️☔",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#IndoorPlans"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "creamfields-2026",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Creamfields Kicks Off",
-   "blurb": "Creamfields, one of the UK's biggest electronic dance music festivals, runs from August 27-30 in Daresbury, Cheshire, featuring headliners like Calvin Harris, Underworld, and Swedish House Mafia.",
-   "source": {
-    "l": "Creamfields Official",
-    "u": "https://creamfields.com"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North West"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Buzz",
-     "copy": "Creamfields is almost here! Daresbury is about to get loud with Calvin Harris, Underworld, Swedish House Mafia & more from Thursday. Who's ready to rave? #Creamfields2026",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Creamfields2026"
-     ]
-    },
-    {
-     "name": "Dance Anthem Prep",
-     "copy": "Getting in the mood for Creamfields 2026! What tracks are you hoping to hear from Calvin Harris, Disclosure and Tiësto this weekend? Drop your anthems! #CreamfieldsAnthems",
+     "name": "Bank Holiday Travel",
+     "copy": "Bank Holiday getaway chaos or smooth sailing? Wherever you're heading this long weekend, we've got the soundtrack. What are your travel plans?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "07:00",
      "tags": [
-      "#CreamfieldsAnthems"
+      "#BankHoliday"
      ]
-    }
-   ]
-  },
-  {
-   "id": "reading-leeds-2026",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "Reading & Leeds Festival Weekend",
-   "blurb": "The twin Reading & Leeds Festivals take place from August 28-30, with headliners including Charli XCX, Dave, Florence + The Machine, and Fontaines D.C.",
-   "source": {
-    "l": "Reading & Leeds Festivals",
-    "u": "https://www.readingfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Countdown",
-     "copy": "Reading & Leeds is just days away! Charli XCX, Dave, Florence + The Machine are set to headline. Who are you most excited to see? #RandL26",
+     "name": "Last Taste of Summer",
+     "copy": "Squeezing every last drop out of summer! The August Bank Holiday is almost here, bringing with it one more chance for BBQs, beach trips, or just chilling out. How are you celebrating?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
      "time": "12:00",
      "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Headliner Hype",
-     "copy": "The biggest weekend in UK music is almost here! Reading & Leeds brings an incredible lineup including Fontaines D.C. and Raye. Let's hear your festival predictions! #ReadingLeeds",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ReadingLeeds"
+      "#SummerVibes"
      ]
     }
    ]
   },
   {
-   "id": "all-points-east-closing",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "All Points East Final Weekend",
-   "blurb": "London's All Points East festival concludes its run from August 28-30, with headline sets from Tyler, The Creator, Twenty One Pilots, and Deftones.",
-   "source": {
-    "l": "All Points East",
-    "u": "https://www.allpointseastfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "London Festival Vibes",
-     "copy": "Last chance to catch All Points East! Tyler, The Creator, Twenty One Pilots & Deftones wrap up the festival this weekend in Victoria Park. Who's heading down? #APE26",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#APE26"
-     ]
-    },
-    {
-     "name": "Community Days Wrap",
-     "copy": "It's been a busy week at All Points East! After the free 'In The Neighbourhood' community days, the festival goes big for its final weekend. What's been your highlight? #AllPointsEast",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#AllPointsEast"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "roseshires-festival",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Roseshire Festival Debut",
-   "blurb": "The brand-new Roseshire Festival debuts on August 29-30 in Northamptonshire, featuring indie and alternative sounds on Saturday (The Charlatans, Embrace) and pop/90s nostalgia on Sunday.",
-   "source": {
-    "l": "Roseshire Festival",
-    "u": "https://roseshirefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Festival Alert",
-     "copy": "Northamptonshire gets a brand new festival this weekend! Roseshire Festival brings The Charlatans, Embrace & more for a mix of indie, alternative & 90s pop. Who's checking it out? #RoseshireFestival",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RoseshireFestival"
-     ]
-    },
-    {
-     "name": "90s Nostalgia",
-     "copy": "Fancy a trip back to the 90s this weekend? Roseshire Festival is serving up nostalgia with a full day of feel-good pop. What's your favourite 90s track? #90sVibes",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#90sVibes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fender-dean-chart",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean hold UK #1",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' holds the Official UK Singles Chart #1 spot for an incredible 22nd consecutive week (chart dated Aug 21-27, 2026).",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Domination",
-     "copy": "Still number one! Sam Fender & Olivia Dean make it 22 weeks at the top of the Official UK Singles Chart with 'Rein Me In'. A true modern classic! #UKChart",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#UKChart"
-     ]
-    },
-    {
-     "name": "Power Duo",
-     "copy": "22 weeks at #1 for Sam Fender & Olivia Dean! 'Rein Me In' is unstoppable. What other tracks are you loving on the latest Official Singles Chart? #SamFender #OliviaDean",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#SamFender"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fulham-chelsea-derby",
+   "id": "premier-league-matchweek1-2",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "West London Derby Tonight",
-   "blurb": "Fulham take on Chelsea in a West London derby tonight in the Premier League, kicking off at 10 PM UK time.",
+   "title": "Premier League Kicks Off Matchweek 2",
+   "blurb": "The Premier League 2026/27 season is in full swing, with Matchweek 1 concluding tonight and Matchweek 2 fixtures starting this Friday, including Fulham vs Chelsea today.",
    "source": {
     "l": "Premier League",
     "u": "https://www.premierleague.com/fixtures"
@@ -339,6 +74,99 @@
     {
      "g": "nation-network",
      "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tonight's Match",
+     "copy": "Premier League action tonight! Fulham take on Chelsea in the final game of Matchweek 1. Who are you backing to grab the points?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#PL"
+     ]
+    },
+    {
+     "name": "Weekend Ahead",
+     "copy": "Get ready for more Premier League drama! Matchweek 2 kicks off this Friday, with big clashes all weekend. Who's your team playing, and are you feeling confident?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wythenshawe-park-gigs",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Live From Wythenshawe Park Continues",
+   "blurb": "Manchester's Live From Wythenshawe Park summer concert series continues this week with headline sets from Pulp (August 28), Courteeners (August 29), and The Prodigy (August 30).",
+   "source": {
+    "l": "Visit Manchester",
+    "u": "https://www.visitmanchester.com/whats-on/music-and-gigs/live-from-wythenshawe-park-2026-p418461"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Manchester"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Manchester's Big Weekend",
+     "copy": "Manchester, get ready! Pulp, Courteeners, and The Prodigy are all set to rock Wythenshawe Park this Bank Holiday weekend. Which gig are you buzzing for?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#WythenshawePark"
+     ]
+    },
+    {
+     "name": "Pulp Fiction Live",
+     "copy": "Common People of Manchester, Pulp are headlining Wythenshawe Park this Friday! Expect a legendary night of indie anthems. Who's in?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Pulp"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ariana-grande-o2",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Ariana Grande at The O2 London",
+   "blurb": "Pop superstar Ariana Grande is performing at The O2 Arena in London tonight, August 24th, as part of her highly anticipated tour.",
+   "source": {
+    "l": "The O2",
+    "u": "https://www.theo2.co.uk/events/detail/ariana-grande-2026"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
      "g": "nation-network",
@@ -347,78 +175,22 @@
    ],
    "angles": [
     {
-     "name": "Match Day Build Up",
-     "copy": "It's derby day in West London! Fulham host Chelsea tonight in the Premier League. Who are you backing for the win? Kick-off at 10 PM. #FULCHE #PremierLeague",
+     "name": "Ariana Takes London",
+     "copy": "London, get ready for an 'Eternal Sunshine' night! Ariana Grande is at The O2 tonight. If you're going, have the best time!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
      "time": "17:00",
      "tags": [
-      "#FULCHE"
+      "#ArianaGrande"
      ]
     },
     {
-     "name": "Local Rivalry",
-     "copy": "Under the lights tonight: Fulham vs Chelsea! The West London derby always delivers. What are your score predictions? #LondonDerby",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#LondonDerby"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "florence-welch-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 40th to Florence Welch",
-   "blurb": "Florence Welch, the iconic frontwoman of Florence + The Machine, celebrates her 40th birthday on August 28. (Born 1986).",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Florence_Welch"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday Shoutout",
-     "copy": "Wishing a very Happy 40th Birthday to the incredible Florence Welch! Her powerful vocals and unique style continue to inspire. What's your favourite Florence + The Machine song? #FlorenceWelch",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#FlorenceWelch"
-     ]
-    },
-    {
-     "name": "Iconic Tracks",
-     "copy": "Happy Birthday to Florence Welch! From 'Dog Days Are Over' to 'Shake It Out', her music is timeless. What's the Florence + The Machine track that always gets you? #FlorenceAndTheMachine",
+     "name": "Pop Royalty",
+     "copy": "Ariana Grande is bringing her incredible vocals and stage presence to The O2 tonight. What's your favourite Ariana track?",
      "channels": [
       "instagram",
       "facebook",
@@ -426,54 +198,146 @@
      ],
      "time": "12:00",
      "tags": [
-      "#FlorenceAndTheMachine"
+      "#TheO2"
      ]
     }
    ]
   },
   {
-   "id": "shania-twain-bday",
-   "off": 5,
-   "type": "birthday",
+   "id": "glasgow-gigs-lateaug",
+   "off": 2,
+   "type": "gig",
    "hot": true,
-   "title": "Happy 61st to Shania Twain",
-   "blurb": "Country-pop superstar Shania Twain celebrates her 61st birthday on August 29. (Born 1965).",
+   "title": "Big Gigs in Glasgow This Week",
+   "blurb": "Glasgow hosts a busy week of live music, featuring Geese at Barrowland Ballroom (August 26), McFly at Queen's Park (August 27), The Waterboys at OVO Hydro (August 29), and Scissor Sisters at Queen's Park (August 30).",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
+    "l": "TheTopConcerts",
+    "u": "https://www.thetopconcerts.com/glasgow"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Birthday Country Queen",
-     "copy": "Happy 61st Birthday to the one and only Shania Twain! The Queen of Country Pop has given us so many anthems. What's your favourite Shania hit? #ShaniaTwain",
+     "name": "Glasgow's Live Music Hub",
+     "copy": "Glasgow's music scene is buzzing! From Geese to McFly, The Waterboys to Scissor Sisters, there's a huge variety of gigs this week. Which one are you heading to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#GlasgowMusic"
+     ]
+    },
+    {
+     "name": "McFly in the Park",
+     "copy": "Calling all McFly fans! They're hitting Queen's Park in Glasgow on Thursday. Get ready to sing along to all the hits!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#McFly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exeter-guildhall-live",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Exeter Guildhall Live Festival",
+   "blurb": "Guildhall Shopping Exeter celebrates its 50th birthday with Guildhall Live, a free three-day music festival in Market Square from August 29-31, featuring tribute acts and local talent.",
+   "source": {
+    "l": "Visit Devon",
+    "u": "https://www.visitdevon.co.uk/whats-on/guildhall-live-2026-p3002623"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Free Exeter Music",
+     "copy": "Exeter! Get ready for a FREE Bank Holiday weekend of live music at Guildhall Live, celebrating 50 years of Guildhall Shopping Exeter. Who's coming?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "09:00",
      "tags": [
-      "#ShaniaTwain"
+      "#ExeterLive"
      ]
     },
     {
-     "name": "Still The One",
-     "copy": "Man! I Feel Like A Woman! It's Shania Twain's 61st birthday on Thursday. Celebrate by cranking up her greatest hits! #CountryPop",
+     "name": "Bank Holiday Beats",
+     "copy": "Looking for Bank Holiday plans in Exeter? Guildhall Live has three days of free music, tributes, and local acts from Saturday. Perfect for all the family!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "tiktok"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#DevonEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "faye-webster-cardiff",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Faye Webster Live in Cardiff",
+   "blurb": "American singer-songwriter Faye Webster is performing in Cardiff tonight, August 24th, bringing her unique blend of indie and R&B to Welsh fans.",
+   "source": {
+    "l": "TheTopConcerts",
+    "u": "https://www.thetopconcerts.com/cardiff"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff's Indie Night",
+     "copy": "Faye Webster is in Cardiff tonight! If you're heading out to see her, prepare for some seriously smooth indie tunes. Enjoy the show!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#FayeWebster"
+     ]
+    },
+    {
+     "name": "Live in Wales",
+     "copy": "Welsh fans, Faye Webster is bringing her captivating sound to Cardiff tonight! What's your top track to hear live?",
      "channels": [
       "instagram",
       "facebook",
@@ -481,48 +345,54 @@
      ],
      "time": "14:00",
      "tags": [
-      "#CountryPop"
+      "#CardiffMusic"
      ]
     }
    ]
   },
   {
-   "id": "elvis-costello-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 72nd to Elvis Costello",
-   "blurb": "Influential rock and new wave artist Elvis Costello celebrates his 72nd birthday on August 25. (Born 1954).",
+   "id": "uk-singles-chart-latest",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Latest UK Official Singles Chart Update",
+   "blurb": "The UK Official Singles Chart is fresh with new entries and big movers, including tracks from Sam Fender & Olivia Dean, Katseye, Phoebe Bridgers, and Olivia Rodrigo.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Elvis_Costello"
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Birthday Rock Legend",
-     "copy": "Happy 72nd Birthday to the legendary Elvis Costello! From 'Pump It Up' to 'Oliver's Army', his music remains iconic. What's your favourite track? #ElvisCostello",
+     "name": "Chart Toppers",
+     "copy": "Who's ruling the Official Singles Chart this week? Sam Fender and Olivia Dean are still up there, but new entries from Katseye and Phoebe Bridgers are making waves! What's your current #1?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Music Alert",
+     "copy": "Fresh tracks hitting the charts! Keep an ear out for Katseye and Phoebe Bridgers making their mark. Any new favourites for you?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "16:00",
      "tags": [
-      "#ElvisCostello"
+      "#NewMusic"
      ]
     }
    ]
@@ -531,27 +401,23 @@
    "id": "gene-simmons-bday",
    "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 77th to Gene Simmons",
-   "blurb": "KISS bassist and co-founder Gene Simmons celebrates his 77th birthday on August 25. (Born 1949).",
+   "hot": true,
+   "title": "Gene Simmons Turns 77",
+   "blurb": "KISS co-founder, bassist, and rock icon Gene Simmons celebrates his 77th birthday tomorrow, August 25th, 2026.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
+    "l": "Biography.com",
+    "u": "https://www.biography.com/musicians/gene-simmons"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Rock God Birthday",
-     "copy": "Happy 77th Birthday to the Demon himself, Gene Simmons of KISS! Rock and Roll All Nite and party every day! #GeneSimmons #KISS",
+     "name": "Rock Legend Birthday",
+     "copy": "Tomorrow, the Demon turns 77! Happy Birthday to KISS legend Gene Simmons. What's your favourite KISS track or Gene moment?",
      "channels": [
       "instagram",
       "facebook",
@@ -561,60 +427,84 @@
      "tags": [
       "#GeneSimmons"
      ]
-    }
-   ]
-  },
-  {
-   "id": "alex-lifeson-bday",
-   "off": 3,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 73rd to Alex Lifeson",
-   "blurb": "Rush guitarist Alex Lifeson celebrates his 73rd birthday on August 27. (Born 1953).",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Alex_Lifeson"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar Hero Birthday",
-     "copy": "Happy 73rd Birthday to the incredible Alex Lifeson, legendary guitarist of Rush! What's your favourite Rush riff? #AlexLifeson #Rush",
+     "name": "KISS Icon",
+     "copy": "77 years young! Gene Simmons, the iconic bassist from KISS, celebrates his birthday tomorrow. Let's blast some KISS loud!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "09:00",
+     "time": "15:00",
      "tags": [
-      "#AlexLifeson"
+      "#KISS"
      ]
     }
    ]
   },
   {
-   "id": "billy-ray-cyrus-bday",
-   "off": 1,
+   "id": "shirley-manson-bday",
+   "off": 2,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 65th to Billy Ray Cyrus",
-   "blurb": "Country music star Billy Ray Cyrus celebrates his 65th birthday on August 25. (Born 1961).",
+   "hot": true,
+   "title": "Shirley Manson Turns 60",
+   "blurb": "Garbage frontwoman and alternative rock icon Shirley Manson celebrates her 60th birthday on Wednesday, August 26th, 2026.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Billy_Ray_Cyrus"
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/shirley-manson-mn0000078712/biography"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Garbage Queen Birthday",
+     "copy": "Happy 60th Birthday to the incredible Shirley Manson of Garbage this Wednesday! Still looking and sounding absolutely iconic. What's your go-to Garbage song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ShirleyManson"
+     ]
+    },
+    {
+     "name": "Alt-Rock Icon",
+     "copy": "From 'Stupid Girl' to 'Only Happy When It Rains', Shirley Manson has given us so many anthems. Wishing her a very happy 60th on Wednesday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Garbage"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "florence-welch-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Florence Welch Turns 40",
+   "blurb": "Florence + The Machine lead singer Florence Welch celebrates her 40th birthday on Thursday, August 28th, 2026.",
+   "source": {
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/florence-welch-mn0002167732/biography"
    },
    "fits": [
     {
@@ -623,74 +513,106 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Country Birthday",
-     "copy": "Happy 65th Birthday to Billy Ray Cyrus! Still 'Achy Breaky Heart' after all these years? We're celebrating his country hits today! #BillyRayCyrus",
+     "name": "Florence's Big 4-0",
+     "copy": "Happy 40th Birthday to the wonderfully enchanting Florence Welch this Thursday! Her voice is pure magic. What's your favourite Florence + The Machine song?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#BillyRayCyrus"
+      "#FlorenceWelch"
+     ]
+    },
+    {
+     "name": "Queen of Indie Pop",
+     "copy": "From 'Dog Days Are Over' to 'Shake It Out', Florence Welch has given us so many incredible tracks. Wishing her a fantastic 40th on Thursday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FlorenceAndTheMachine"
      ]
     }
    ]
   },
   {
-   "id": "jean-michel-jarre-bday",
-   "off": 0,
+   "id": "liam-payne-bday",
+   "off": 5,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 78th to Jean-Michel Jarre",
-   "blurb": "Pioneering electronic and ambient music composer Jean-Michel Jarre celebrates his 78th birthday today, August 24. (Born 1948).",
+   "hot": true,
+   "title": "Liam Payne Turns 33",
+   "blurb": "Former One Direction member and solo artist Liam Payne celebrates his 33rd birthday on Friday, August 29th, 2026.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Jean-Michel_Jarre"
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/liam-payne-mn0003444053/biography"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Electronic Pioneer",
-     "copy": "Happy 78th Birthday to the electronic music visionary, Jean-Michel Jarre! His groundbreaking soundscapes continue to captivate. What's your favourite of his albums? #JeanMichelJarre",
+     "name": "1D Star's Birthday",
+     "copy": "Happy 33rd Birthday to Liam Payne this Friday! From One Direction to his solo hits, he's given us plenty of bangers. What's your favourite Liam track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
+     "time": "09:00",
+     "tags": [
+      "#LiamPayne"
+     ]
+    },
+    {
+     "name": "Pop Prince Turns 33",
+     "copy": "He's turning 33! Wishing a very happy birthday to Liam Payne on Friday. Time to blast some 1D throwbacks!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
      "time": "13:00",
      "tags": [
-      "#JeanMichelJarre"
+      "#OneDirection"
      ]
     }
    ]
   },
   {
-   "id": "marshall-thompson-bday",
-   "off": 0,
+   "id": "van-morrison-bday",
+   "off": 7,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 84th to Marshall Thompson",
-   "blurb": "Marshall Thompson, co-founder and last surviving original member of The Chi-Lites, celebrates his 84th birthday today, August 24. (Born 1942).",
+   "hot": true,
+   "title": "Van Morrison Turns 81",
+   "blurb": "Iconic Northern Irish singer-songwriter Van Morrison celebrates his 81st birthday on Monday, August 31st, 2026.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Marshall_Thompson"
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/van-morrison-mn0000078235/biography"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 60s"
@@ -702,16 +624,25 @@
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Soul Legend Birthday",
-     "copy": "Wishing a very Happy 84th Birthday to Marshall Thompson of The Chi-Lites! Thank you for the timeless soul classics like 'Oh Girl' and 'Have You Seen Her'. #TheChiLites",
+     "name": "Legend's Birthday",
+     "copy": "The legendary Van Morrison turns 81 this Bank Holiday Monday! From 'Brown Eyed Girl' to 'Moondance', his catalogue is timeless. What's your favourite Van the Man song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#VanMorrison"
+     ]
+    },
+    {
+     "name": "Celebrating Van the Man",
+     "copy": "81 years of pure musical genius! Happy Birthday to Van Morrison on Monday. Perfect excuse for a weekend soundtrack filled with his classics.",
      "channels": [
       "instagram",
       "facebook",
@@ -719,87 +650,62 @@
      ],
      "time": "15:00",
      "tags": [
-      "#TheChiLites"
+      "#MusicLegend"
      ]
     }
    ]
   },
   {
-   "id": "lorde-gigs",
-   "off": 0,
-   "type": "gig",
+   "id": "gloria-estefan-bday",
+   "off": 8,
+   "type": "birthday",
    "hot": true,
-   "title": "Lorde Live in UK",
-   "blurb": "Lorde is playing live in London and Glasgow until August 25, part of her ongoing UK dates.",
+   "title": "Gloria Estefan Turns 69",
+   "blurb": "Cuban-American pop superstar Gloria Estefan celebrates her 69th birthday on Tuesday, September 1st, 2026.",
    "source": {
-    "l": "Ticketmaster",
-    "u": "https://www.ticketmaster.co.uk/lorde-tickets/"
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/gloria-estefan-mn0000057008/biography"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 80s"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "decades-genres",
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Lorde in London/Glasgow",
-     "copy": "Lorde's UK shows continue tonight and tomorrow! If you're catching her in London or Glasgow, get ready for an unforgettable night. What's your favourite Lorde track to hear live? #Lorde",
+     "name": "Conga Queen Birthday",
+     "copy": "Get On Your Feet and celebrate! The incredible Gloria Estefan turns 69 this Tuesday. What's your favourite Miami Sound Machine hit?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "16:30",
+     "time": "11:00",
      "tags": [
-      "#Lorde"
+      "#GloriaEstefan"
      ]
-    }
-   ]
-  },
-  {
-   "id": "florence-machine-gigs",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Florence + The Machine UK Dates",
-   "blurb": "Florence + The Machine continue their UK tour with dates running until August 26.",
-   "source": {
-    "l": "Ticketmaster",
-    "u": "https://www.ticketmaster.co.uk/florence-the-machine-tickets"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Florence Live",
-     "copy": "Catch Florence + The Machine live in the UK! Their tour continues until Wednesday. Who's seen them on this run? Share your highlights! #FlorenceAndTheMachine",
+     "name": "Pop Icon Turns 69",
+     "copy": "Wishing a very happy 69th birthday to the one and only Gloria Estefan on Tuesday! Her music still makes us want to 'Rhythm of the Night'.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "17:30",
+     "time": "16:00",
      "tags": [
-      "#FlorenceAndTheMachine"
+      "#80sPop"
      ]
     }
    ]
