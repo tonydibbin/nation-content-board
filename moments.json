@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-24T18:20:44.108Z",
+ "updated": "2026-08-24T20:15:09.657Z",
  "moments": [
   {
-   "id": "august-bank-holiday-2026",
+   "id": "august-bank-holiday",
    "off": 7,
    "type": "seasonal",
    "hot": true,
-   "title": "Summer Bank Holiday Monday",
-   "blurb": "The Summer Bank Holiday in England, Wales, and Northern Ireland falls on Monday, August 31st, marking the unofficial end of summer.",
+   "title": "UK Summer Bank Holiday",
+   "blurb": "The UK Summer Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31st, marking a long weekend for many.",
    "source": {
     "l": "Gov.uk",
     "u": "https://www.gov.uk/bank-holidays"
@@ -16,44 +16,57 @@
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Last long weekend",
-     "copy": "One last hurrah before autumn officially kicks in! Who's making the most of the Summer Bank Holiday weekend?",
+     "name": "Long Weekend Excitement",
+     "for": "",
+     "copy": "Long weekend incoming! Who's making the most of the August Bank Holiday with a last blast of summer fun?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#BankHolidayWeekend"
+     ]
+    },
+    {
+     "name": "Bank Holiday Traditions",
+     "for": "",
+     "copy": "Three-day weekend vibes! What's your top Bank Holiday tradition – BBQ, beach, or just chilling out?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "08:00",
-     "tags": [
-      "#BankHoliday"
-     ]
-    },
-    {
-     "name": "Relax or road trip",
-     "copy": "Beach trips, BBQs, or city breaks? How are you spending your August Bank Holiday Monday?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#SummerVibes"
-     ]
-    },
-    {
-     "name": "Monday off",
-     "copy": "That Bank Holiday feeling: more time for tunes and chilling. What's on your playlist today?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
      "time": "12:00",
+     "tags": [
+      "#AugustBankHoliday"
+     ]
+    },
+    {
+     "name": "Wishing a Good One",
+     "for": "",
+     "copy": "That Bank Holiday feeling! Wishing everyone in England, Wales, and Northern Ireland a fantastic long weekend.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
      "tags": [
       "#LongWeekend"
      ]
@@ -61,17 +74,21 @@
    ]
   },
   {
-   "id": "premier-league-man-utd-ipswich",
-   "off": 6,
-   "type": "sport",
+   "id": "creamfields-festival",
+   "off": 3,
+   "type": "gig",
    "hot": true,
-   "title": "Premier League: Man Utd vs Ipswich",
-   "blurb": "Manchester United host newly-promoted Ipswich Town in a Premier League clash at Old Trafford on Sunday, August 30th.",
+   "title": "Creamfields Festival Kicks Off",
+   "blurb": "Creamfields, one of the UK's biggest electronic dance music festivals, takes over Daresbury, Cheshire from Thursday, August 27th to Sunday, August 30th.",
    "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/fixtures"
+    "l": "Creamfields Official",
+    "u": "https://www.creamfields.com/"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
     {
      "g": "nation-network",
      "sub": ""
@@ -79,546 +96,45 @@
    ],
    "angles": [
     {
-     "name": "Big game build-up",
-     "copy": "Old Trafford is set for a Sunday showdown! Can Ipswich cause an upset against Manchester United?",
+     "name": "Festival Start",
+     "for": "",
+     "copy": "Creamfields is ON! Kicking off this Thursday in Daresbury – who's ready for four days of the biggest electronic acts?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MUNIPS"
-     ]
-    },
-    {
-     "name": "Premier League Sunday",
-     "copy": "Massive Premier League Sunday coming up! Man Utd face Ipswich – who are you backing?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Ipswich challenge",
-     "copy": "Ipswich's biggest test yet? Heading to Old Trafford to face Man Utd this Sunday. Score predictions?",
-     "channels": [
       "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-aston-villa-arsenal",
-   "off": 7,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League: Aston Villa vs Arsenal",
-   "blurb": "Monday Night Football sees Aston Villa take on Arsenal at Villa Park on August 31st.",
-   "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Monday Night Football",
-     "copy": "Big Premier League action on Bank Holiday Monday! Aston Villa go head-to-head with Arsenal. Who wins?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "tiktok",
+      "threads"
      ],
      "time": "09:00",
      "tags": [
-      "#AVLAR"
+      "#Creamfields2026"
      ]
     },
     {
-     "name": "Villa vs Gunners",
-     "copy": "Can Aston Villa hold off Arsenal at home? Monday night under the lights is going to be fierce!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#MNF"
-     ]
-    },
-    {
-     "name": "Crucial points",
-     "copy": "Two teams battling for early season form: Aston Villa vs Arsenal. What's your match prediction?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-rein-me-in",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "UK Singles Chart: Sam Fender & Olivia Dean's record",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' made history on the Official UK Singles Chart (chart from August 14th, valid this week) by becoming the longest-running UK number one single of all time.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart history",
-     "copy": "History made! Sam Fender & Olivia Dean's 'Rein Me In' is the longest-running UK Number 1 single ever. What a track!",
+     "name": "Hyped for the Lineup",
+     "for": "",
+     "copy": "Daresbury is about to be taken over by Creamfields! Who are you most hyped to see on the lineup this weekend?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Still number one",
-     "copy": "Still got 'Rein Me In' on repeat? Sam Fender & Olivia Dean's record-breaking single is making waves. Catch it on Nation Hits!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SamFender"
-     ]
-    },
-    {
-     "name": "Longest reign",
-     "copy": "61 weeks and counting! Sam Fender & Olivia Dean are officially chart legends. What's your favourite long-running Number 1?",
-     "channels": [
       "x",
       "threads"
      ],
-     "time": "16:00",
-     "tags": [
-      "#OliviaDean"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-jean-michel-jarre",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Jean-Michel Jarre turns 78",
-   "blurb": "Pioneering French electronic music composer Jean-Michel Jarre celebrates his 78th birthday today, August 24th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august24.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Electronic pioneer",
-     "copy": "Happy 78th birthday to electronic music legend Jean-Michel Jarre! Still sounds out of this world.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#JeanMichelJarre"
-     ]
-    },
-    {
-     "name": "Jarre's soundscapes",
-     "copy": "From 'Oxygène' to 'Équinoxe', Jean-Michel Jarre redefined electronic music. Wishing him a very happy 78th today!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
      "time": "13:00",
      "tags": [
-      "#ElectronicMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-gene-simmons",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Gene Simmons (KISS) turns 77",
-   "blurb": "KISS co-founder and 'Demon' bassist Gene Simmons celebrates his 77th birthday tomorrow, August 25th.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/25"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock legend's birthday",
-     "copy": "Get ready to rock! KISS's own Gene Simmons turns 77 tomorrow. What's your favourite KISS anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#GeneSimmons"
+      "#EDMFestival"
      ]
     },
     {
-     "name": "The Demon turns 77",
-     "copy": "From stage theatrics to iconic basslines, Gene Simmons is a true rock icon. Happy 77th for tomorrow!",
+     "name": "Countdown to Creamfields",
+     "for": "",
+     "copy": "The countdown to Creamfields is almost over! Get ready for world-class DJs and an epic atmosphere starting Thursday.",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
      "time": "17:00",
-     "tags": [
-      "#KISS"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-elvis-costello",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Elvis Costello turns 72",
-   "blurb": "The influential singer-songwriter Elvis Costello celebrates his 72nd birthday tomorrow, August 25th.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/25"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Musical icon",
-     "copy": "Happy 72nd birthday to the brilliant Elvis Costello tomorrow! What's his best track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ElvisCostello"
-     ]
-    },
-    {
-     "name": "Costello's classics",
-     "copy": "From 'Oliver's Army' to 'Everyday I Write the Book', Elvis Costello's songwriting is timeless. Wishing him a great birthday for Aug 25th!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#NewWave"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-shirley-manson",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shirley Manson (Garbage) turns 60",
-   "blurb": "Garbage frontwoman Shirley Manson, known for her distinctive vocals and fierce stage presence, turns 60 on August 26th.",
-   "source": {
-    "l": "IMDb",
-    "u": "https://www.imdb.com/name/nm0544154/bio/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Garbage icon's birthday",
-     "copy": "Happy 60th birthday to the incredible Shirley Manson from Garbage! Still sounds amazing.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ShirleyManson"
-     ]
-    },
-    {
-     "name": "Alternative queen",
-     "copy": "From 'Stupid Girl' to 'Only Happy When It Rains', Shirley Manson is an alternative rock legend. Celebrate her 60th on August 26th!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Garbage"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-florence-welch",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Florence Welch (Florence + The Machine) turns 40",
-   "blurb": "Florence Welch, the enigmatic lead singer of Florence + The Machine, celebrates her 40th birthday on August 28th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august28.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Big birthday for Florence",
-     "copy": "Can you believe Florence Welch is turning 40 on August 28th? Still sounds as magical as ever!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#FlorenceWelch"
-     ]
-    },
-    {
-     "name": "Florence + The Machine",
-     "copy": "From 'Dog Days Are Over' to 'Shake It Out', Florence Welch's voice is unmistakable. Happy 40th to the powerhouse!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FlorenceAndTheMachine"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-shania-twain",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shania Twain turns 61",
-   "blurb": "Country-pop superstar Shania Twain, known for hits like 'Man! I Feel Like a Woman!', celebrates her 61st birthday on August 28th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august28.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen of Country Pop",
-     "copy": "Let's go girls! Shania Twain turns 61 on August 28th. What's your go-to Shania track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ShaniaTwain"
-     ]
-    },
-    {
-     "name": "Still the one",
-     "copy": "Six decades of Shania! Wishing the iconic country-pop star a very happy 61st birthday on the 28th.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#CountryPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-paul-oakenfold",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Paul Oakenfold turns 63",
-   "blurb": "Legendary DJ and producer Paul Oakenfold, a pivotal figure in electronic dance music, celebrates his 63rd birthday on August 30th.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/august/30"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Trance pioneer's birthday",
-     "copy": "Happy 63rd birthday to the absolute legend Paul Oakenfold on August 30th! Still bringing the beats.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#PaulOakenfold"
-     ]
-    },
-    {
-     "name": "Iconic DJ",
-     "copy": "From Ibiza to global stages, Paul Oakenfold shaped a generation of dance music. Celebrate his 63rd this Friday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
      "tags": [
       "#DanceMusic"
      ]
@@ -626,154 +142,93 @@
    ]
   },
   {
-   "id": "bday-van-morrison",
-   "off": 7,
-   "type": "birthday",
+   "id": "premier-league-matchweek-2",
+   "off": 4,
+   "type": "sport",
    "hot": true,
-   "title": "Van Morrison turns 81",
-   "blurb": "The iconic Northern Irish singer-songwriter Van Morrison, known as 'Van the Man', celebrates his 81st birthday on August 31st.",
+   "title": "Premier League Matchweek 2",
+   "blurb": "The Premier League's second matchweek features several key fixtures this weekend, including Crystal Palace vs. Manchester City on Friday, August 28th and Liverpool vs. Nottingham Forest on Saturday, August 29th.",
    "source": {
-    "l": "IMDb",
-    "u": "https://www.imdb.com/name/nm0606771/bio/"
+    "l": "Premier League Official",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Football Weekend",
+     "for": "",
+     "copy": "Premier League weekend is here! Who are you backing in Matchweek 2? Crystal Palace vs. Man City kicks things off Friday night.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Match Highlight",
+     "for": "",
+     "copy": "Football fix incoming! Don't miss the Premier League action this weekend – big games include Liverpool vs. Nottingham Forest on Saturday.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PL"
+     ]
+    },
+    {
+     "name": "Early Season Drama",
+     "for": "",
+     "copy": "Early season drama! Which Premier League fixture are you most looking forward to this weekend?",
+     "channels": [
+      "instagram",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Football"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Official UK Singles Chart Latest",
+   "blurb": "Sam Fender & Olivia Dean hold the #1 spot on the Official UK Singles Chart with 'Rein Me In', followed by Shakira & Burna Boy's 'Dai Dai' at #2 and Ella Langley's 'Choosin' Texas' at #3 (chart for Aug 20-26, 2026).",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Van the Man at 81",
-     "copy": "Happy 81st birthday to the one and only Van Morrison on August 31st! What's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#VanMorrison"
-     ]
-    },
-    {
-     "name": "Timeless talent",
-     "copy": "From 'Brown Eyed Girl' to 'Moondance', Van Morrison's music is pure soul. Wishing him a fantastic 81st!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ClassicRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-barry-gibb",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Barry Gibb (Bee Gees) turns 80",
-   "blurb": "Barry Gibb, the legendary co-founder of the Bee Gees and an iconic songwriter, celebrates his 80th birthday on September 1st.",
-   "source": {
-    "l": "IMDb",
-    "u": "https://www.imdb.com/name/nm0316719/bio/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bee Gee's 80th",
-     "copy": "Happy 80th birthday to the incredible Barry Gibb on September 1st! A true music icon.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BarryGibb"
-     ]
-    },
-    {
-     "name": "Disco king",
-     "copy": "From 'Stayin' Alive' to 'How Deep Is Your Love', Barry Gibb's voice and songwriting are legendary. Celebrate his 80th!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BeeGees"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-gloria-estefan",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Gloria Estefan turns 69",
-   "blurb": "Cuban-American superstar Gloria Estefan, known for her Latin pop and dance hits, celebrates her 69th birthday on September 1st.",
-   "source": {
-    "l": "IMDb",
-    "u": "https://www.imdb.com/name/nm0002063/bio/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -781,6 +236,221 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Chart Topper",
+     "for": "",
+     "copy": "New UK #1! Sam Fender & Olivia Dean reign supreme with 'Rein Me In'. Are you loving the top spot?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#UKCharts"
+     ]
+    },
+    {
+     "name": "Top 3 Shoutout",
+     "for": "",
+     "copy": "The UK Singles Chart is in! Sam Fender & Olivia Dean are still at #1, with Shakira & Burna Boy and Ella Langley in the Top 3. Who else made your playlist this week?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#NewMusic"
+     ]
+    },
+    {
+     "name": "Chart Battle",
+     "for": "",
+     "copy": "Chart battle! Sam Fender & Olivia Dean hold strong at #1 this week. Tune in to hear the biggest hits right now.",
+     "channels": [
+      "instagram",
+      "x",
+      "threads"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "florence-welch-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Florence Welch's 40th Birthday",
+   "blurb": "Florence Welch, the iconic lead singer of Florence + The Machine, celebrates her 40th birthday on Thursday, August 28th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Florence_Welch"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy 40th",
+     "for": "",
+     "copy": "Happy 40th birthday to the incredible Florence Welch this Thursday! What's your favourite Florence + The Machine anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#FlorenceWelch"
+     ]
+    },
+    {
+     "name": "Iconic Tracks",
+     "for": "",
+     "copy": "Celebrating Florence Welch turning 40 on Thursday! From 'Lungs' to 'Dance Fever', she's given us so many iconic tracks.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#FlorenceAndTheMachine"
+     ]
+    },
+    {
+     "name": "Big 4-0",
+     "for": "",
+     "copy": "The voice of Florence + The Machine, Florence Welch, hits the big 4-0 this week! Let's crank up some of her magic.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#IndieRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shania-twain-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Shania Twain's 61st Birthday",
+   "blurb": "The 'Queen of Country Pop' and global superstar Shania Twain turns 61 on Thursday, August 28th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Let's Go Girls!",
+     "for": "",
+     "copy": "Let's go girls! Shania Twain celebrates her 61st birthday this Thursday. What's your go-to Shania hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ShaniaTwain"
+     ]
+    },
+    {
+     "name": "Still The One",
+     "for": "",
+     "copy": "Happy birthday to the legendary Shania Twain, turning 61 on August 28th! Still the one for us.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#CountryPop"
+     ]
+    },
+    {
+     "name": "Iconic Hits",
+     "for": "",
+     "copy": "The icon Shania Twain celebrates her birthday this week! Get ready to sing along to her greatest hits.",
+     "channels": [
+      "instagram",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#QueenOfCountryPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gloria-estefan-birthday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Gloria Estefan's 69th Birthday",
+   "blurb": "Cuban-American singer-songwriter and 'Queen of Latin Pop' Gloria Estefan will celebrate her 69th birthday on Tuesday, September 1st.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gloria_Estefan"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Easy"
     },
     {
@@ -790,78 +460,118 @@
    ],
    "angles": [
     {
-     "name": "Conga Queen's birthday",
-     "copy": "Get on your feet! Happy 69th birthday to the sensational Gloria Estefan on September 1st!",
+     "name": "Get On Your Feet",
+     "for": "",
+     "copy": "Get on your feet! Gloria Estefan turns 69 on September 1st. What's your favourite Miami Sound Machine classic?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "10:00",
+     "time": "08:45",
      "tags": [
       "#GloriaEstefan"
      ]
     },
     {
-     "name": "Rhythm is gonna get you",
-     "copy": "From Miami Sound Machine to solo success, Gloria Estefan's music is pure joy. Wishing her a fabulous 69th!",
+     "name": "Happy 69th",
+     "for": "",
+     "copy": "Wishing a very happy 69th birthday to the incredible Gloria Estefan next Tuesday! Her music still makes us want to dance.",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "15:00",
+     "time": "12:45",
      "tags": [
       "#LatinPop"
+     ]
+    },
+    {
+     "name": "Legendary Birthday",
+     "for": "",
+     "copy": "The legendary Gloria Estefan celebrates her birthday next week! Time to relive some of her timeless hits.",
+     "channels": [
+      "instagram",
+      "threads"
+     ],
+     "time": "16:45",
+     "tags": [
+      "#MiamiSoundMachine"
      ]
     }
    ]
   },
   {
-   "id": "bday-steve-jones",
-   "off": 10,
+   "id": "beyonce-birthday",
+   "off": 11,
    "type": "birthday",
    "hot": true,
-   "title": "Steve Jones (Sex Pistols) turns 71",
-   "blurb": "Steve Jones, the iconic guitarist for punk rock pioneers the Sex Pistols, celebrates his 71st birthday on September 3rd.",
+   "title": "Beyoncé's 45th Birthday",
+   "blurb": "Global superstar Beyoncé will celebrate her 45th birthday on Friday, September 4th.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/september/3"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Punk rock royalty",
-     "copy": "Happy 71st birthday to Sex Pistols legend Steve Jones on September 3rd! Still causing a ruckus.",
+     "name": "Queen Bey's Birthday",
+     "for": "",
+     "copy": "All hail Queen Bey! Beyoncé celebrates her 45th birthday next Friday. What's your ultimate Beyoncé power anthem?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "09:15",
      "tags": [
-      "#SteveJones"
+      "#Beyonce"
      ]
     },
     {
-     "name": "God Save The Queen",
-     "copy": "From 'Anarchy in the U.K.' to 'God Save The Queen', Steve Jones' guitar defined punk. Wishing him a rebellious 71st!",
+     "name": "Celebrating Eras",
+     "for": "",
+     "copy": "Get ready to celebrate! Beyoncé turns 45 on September 4th. Which of her eras is your favourite?",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "13:15",
      "tags": [
-      "#SexPistols"
+      "#QueenBey"
+     ]
+    },
+    {
+     "name": "Happy Almost Birthday",
+     "for": "",
+     "copy": "Happy almost birthday to the one and only Beyoncé! We're celebrating her incredible career all week.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "17:15",
+     "tags": [
+      "#Beyhive"
      ]
     }
    ]
