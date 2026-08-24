@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-24T03:41:50.300Z",
+ "updated": "2026-08-24T04:33:12.535Z",
  "moments": [
   {
-   "id": "us-open-tennis-qualifying",
+   "id": "premier-league-aug24",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "US Open Tennis Kicks Off",
-   "blurb": "The final Grand Slam of the year, the US Open, begins today with qualifying rounds and the mixed doubles championship in New York, leading up to the main draw on August 30.",
+   "title": "Premier League Action Continues",
+   "blurb": "The Premier League season is in full swing, with teams battling it out in Matchweek 2 or 3 of the 2026/2027 season.",
    "source": {
-    "l": "US Open Official Site",
-    "u": "https://www.usopen.org/"
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
@@ -20,8 +20,22 @@
    ],
    "angles": [
     {
-     "name": "Serve it up",
-     "copy": "Tennis fever is officially back! The US Open kicks off today with qualifying and mixed doubles. Who are you backing for glory in New York?",
+     "name": "General Excitement",
+     "copy": "Another week, another round of Premier League drama! Who are you backing for glory today?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Weekend Recap/Lookahead",
+     "copy": "Goals, drama, and unexpected results – the Premier League never disappoints. Catch up on the weekend's action and look ahead to next.",
      "channels": [
       "instagram",
       "facebook",
@@ -29,36 +43,111 @@
       "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "09:00",
      "tags": [
-      "#USOpen"
-     ]
-    },
-    {
-     "name": "Grand Slam action",
-     "copy": "It's the last Grand Slam of the year! The US Open is underway, with the main draws starting on Sunday. Get ready for two weeks of incredible tennis.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Tennis"
+      "#PL"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-fulham-chelsea",
+   "id": "efl-championship-wales",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League: Fulham vs Chelsea",
-   "blurb": "Tonight sees a West London derby as Fulham host Chelsea in the Premier League at 8pm BST.",
+   "title": "Welsh Teams in EFL Championship",
+   "blurb": "Cardiff City and Swansea City continue their campaigns in the EFL Championship, with important fixtures this week.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/"
+    "l": "EFL Championship",
+    "u": "https://www.efl.com/leagues-and-competitions/sky-bet-championship/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff Focus",
+     "for": "Bridge FM",
+     "copy": "Bluebirds on the pitch! How are Cardiff City looking in the Championship this week? Get your matchday thoughts in!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#CardiffCity"
+     ]
+    },
+    {
+     "name": "Swansea Focus",
+     "for": "Swansea Bay Radio",
+     "copy": "It's a big week for the Swans! Can Swansea City pick up crucial points in the Championship? Let us know your predictions.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#SwanseaCity"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "efl-leagueone-exe",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Exeter City in League One",
+   "blurb": "Exeter City continues its League One season, with key matches impacting their position in the table.",
+   "source": {
+    "l": "EFL League One",
+    "u": "https://www.efl.com/leagues-and-competitions/sky-bet-league-one/"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Exeter Focus",
+     "copy": "Grecians in action! How crucial are this week's League One fixtures for Exeter City? Discuss!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#ExeterCity"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "creamfields-2026",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Creamfields Festival Kicks Off",
+   "blurb": "One of the UK's biggest electronic dance music festivals, Creamfields, takes over Daresbury, Cheshire, from August 27-30, 2026.",
+   "source": {
+    "l": "Creamfields",
+    "u": "https://www.creamfields.com/"
    },
    "fits": [
     {
@@ -66,57 +155,8 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Derby Night",
-     "copy": "Monday night football! It's a West London derby tonight as Fulham take on Chelsea. Who's taking the bragging rights?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#FULCHE"
-     ]
-    },
-    {
-     "name": "Monday Night Football",
-     "copy": "Don't miss a minute of Premier League action tonight! Fulham host Chelsea at 8pm. Predictions?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "edinburgh-summer-sessions",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Edinburgh Summer Sessions Ongoing",
-   "blurb": "The Edinburgh Summer Sessions festival continues today and runs until August 29th, bringing live music to the Scottish capital.",
-   "source": {
-    "l": "Edinburgh Summer Sessions",
-    "u": "https://www.smmrsessions.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
@@ -125,88 +165,155 @@
    ],
    "angles": [
     {
-     "name": "Edinburgh Vibes",
-     "copy": "Still buzzing in Edinburgh! Summer Sessions continues this week with more live music. Who's been or is heading there?",
+     "name": "Festival Excitement",
+     "copy": "Creamfields is almost here! Who's heading to Daresbury this Bank Holiday for four days of the best electronic music? 🎶",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#EdinburghSummerSessions"
+      "#Creamfields"
      ]
     },
     {
-     "name": "Scotland Live Music",
-     "copy": "Live music in Scotland! The Edinburgh Summer Sessions are in full swing until Saturday. Catch some incredible artists this week!",
+     "name": "Anticipation",
+     "copy": "The countdown is on for Creamfields 2026! Get ready for a huge weekend of world-class DJs and unforgettable sets. What's on your must-see list?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "12:00",
      "tags": [
-      "#ScottishMusic"
+      "#Creamfields2026"
      ]
     }
    ]
   },
   {
-   "id": "rein-me-in-chart-run",
-   "off": 0,
-   "type": "culture",
+   "id": "reading-leeds-2026",
+   "off": 4,
+   "type": "gig",
    "hot": true,
-   "title": "Sam Fender & Olivia Dean Still #1",
-   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' remains at Number 1 on the UK Official Singles Chart for an incredible 22nd non-consecutive week, with the new chart out this Friday.",
+   "title": "Reading & Leeds Festival Weekend",
+   "blurb": "The iconic Reading and Leeds Festivals bring huge headliners and emerging acts to Richfield Avenue and Bramham Park from August 28-30, 2026.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
+    "l": "Reading & Leeds",
+    "u": "https://www.readingfestival.com/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Chart Domination",
-     "copy": "Still at Number 1! Sam Fender & Olivia Dean's 'Rein Me In' makes it 22 weeks at the top. Can anyone knock them off this Friday?",
+     "name": "Festival Buzz",
+     "copy": "Reading & Leeds is just days away! Who's got their wellies packed and is ready for the biggest weekend of music? 🎸",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "11:00",
      "tags": [
-      "#OfficialCharts"
+      "#RandL26"
      ]
     },
     {
-     "name": "Longest Reign",
-     "copy": "History makers! 'Rein Me In' continues its chart domination. What's your favourite Sam Fender or Olivia Dean track?",
+     "name": "Headliner Hype",
+     "copy": "From rock legends to chart-toppers, Reading & Leeds has it all. Who are you most excited to see on the main stages this year?",
      "channels": [
+      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#SamFender #OliviaDean"
+      "#ReadingFestival"
      ]
     }
    ]
   },
   {
-   "id": "august-bank-holiday",
+   "id": "f1-dutch-gp-2026",
+   "off": -1,
+   "type": "sport",
+   "hot": true,
+   "title": "F1 Dutch Grand Prix Concludes",
+   "blurb": "The Formula 1 Dutch Grand Prix at Zandvoort concluded yesterday, August 23, 2026, marking Round 12 of the 2026 Formula 1 World Championship.",
+   "source": {
+    "l": "Formula 1",
+    "u": "https://www.formula1.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Race Recap",
+     "copy": "What a race at Zandvoort! Who took the chequered flag at the Dutch Grand Prix yesterday? Catch up on all the F1 action.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#F1 #DutchGP"
+     ]
+    },
+    {
+     "name": "Driver Performance",
+     "copy": "Drama, overtakes, and unexpected twists! Which driver impressed you most at the Dutch Grand Prix? Let us know!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Formula1"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "august-bank-holiday-2026",
    "off": 7,
    "type": "seasonal",
    "hot": true,
-   "title": "Late August Bank Holiday Weekend",
-   "blurb": "The UK's final Bank Holiday of the summer takes place this weekend, on Monday, August 31st.",
+   "title": "August Bank Holiday Weekend Approaching",
+   "blurb": "The August Bank Holiday weekend for England, Wales, and Northern Ireland is just days away, falling on Monday, August 31, 2026.",
    "source": {
     "l": "Gov.uk",
     "u": "https://www.gov.uk/bank-holidays"
@@ -219,8 +326,8 @@
    ],
    "angles": [
     {
-     "name": "Bank Holiday Plans",
-     "copy": "The last Bank Holiday of summer is just days away! What are your plans for the long weekend?",
+     "name": "Weekend Plans",
+     "copy": "Bank Holiday vibes incoming! What are your plans for the last long weekend of summer? Making the most of it?",
      "channels": [
       "instagram",
       "facebook",
@@ -234,242 +341,126 @@
      ]
     },
     {
-     "name": "Summer's Last Hurrah",
-     "copy": "It's almost here! The August Bank Holiday is traditionally the last hurrah of summer. Make it count!",
+     "name": "Travel Alert",
+     "copy": "Planning a Bank Holiday getaway? Remember to check travel updates before you set off for the long weekend!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "07:00",
      "tags": [
-      "#SummerVibes"
+      "#UKTraffic"
      ]
     }
    ]
   },
   {
-   "id": "creamfields-festival",
-   "off": 3,
-   "type": "gig",
+   "id": "bbc-proms-aug24",
+   "off": 0,
+   "type": "culture",
    "hot": true,
-   "title": "Creamfields Approaches",
-   "blurb": "The massive dance music festival Creamfields returns to Daresbury, Cheshire, from August 27th to 30th.",
+   "title": "BBC Proms Season Continues",
+   "blurb": "The BBC Proms, the world's largest classical music festival, continues its run at the Royal Albert Hall and other venues until September 12, 2026, featuring a diverse program of concerts.",
    "source": {
-    "l": "Creamfields Official Site",
-    "u": "https://www.creamfields.com/"
+    "l": "BBC Proms",
+    "u": "https://www.bbc.co.uk/proms"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tonight's Proms",
+     "copy": "The BBC Proms are in full swing! What's on your classical playlist tonight? Tune in for another incredible performance.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#BBCHProms"
+     ]
+    },
+    {
+     "name": "Festival Highlight",
+     "copy": "Celebrating the best of classical music all summer long. Have you experienced the magic of the BBC Proms this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Proms2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "marsha-ambrosius-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Marsha Ambrosius Turns 49",
+   "blurb": "British R&B and Neo-Soul singer-songwriter Marsha Ambrosius, known for her work with Floetry, celebrates her 49th birthday today.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Marsha_Ambrosius"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio North West"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Creamfields Countdown",
-     "copy": "The countdown is ON! Creamfields kicks off this Thursday. Who's ready to hit the fields in Daresbury?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Creamfields"
-     ]
-    },
-    {
-     "name": "Festival Weekend",
-     "copy": "Creamfields is almost here! Get ready for a huge weekend of dance music. What acts are you most excited to see?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#DanceMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "reading-leeds-festivals",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Reading & Leeds Festivals This Weekend",
-   "blurb": "Two of the UK's biggest music festivals, Reading and Leeds, take place simultaneously from August 27th to 30th.",
-   "source": {
-    "l": "Reading & Leeds Festivals",
-    "u": "https://www.readingfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Festival Frenzy",
-     "copy": "Reading or Leeds? The ultimate festival showdown is just days away! Who's heading to which site this Bank Holiday weekend?",
+     "name": "Birthday Shoutout",
+     "copy": "Sending birthday love to the incredibly talented Marsha Ambrosius! What's your favourite track from the Neo-Soul queen?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#ReadingFestival #LeedsFestival"
+      "#MarshaAmbrosius"
      ]
     },
     {
-     "name": "Weekend Headliners",
-     "copy": "It's almost time for Reading & Leeds! Get ready for a massive weekend of music across both sites.",
+     "name": "Floetry Flashback",
+     "copy": "From Floetry to solo success, Marsha Ambrosius has blessed us with so much good music. Happy 49th Birthday!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#Festivals"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mark-bedford-madness-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Mark Bedford",
-   "blurb": "Mark Bedford, the bassist for iconic British band Madness, turns 65 today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Madness Legend",
-     "copy": "Happy 65th Birthday to Mark Bedford of the legendary band Madness! What's your favourite Madness track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Madness"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jean-michel-jarre-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Jean-Michel Jarre",
-   "blurb": "Pioneering electronic music composer Jean-Michel Jarre celebrates his 78th birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Electronic Pioneer",
-     "copy": "Wishing a very Happy 78th Birthday to the incredible Jean-Michel Jarre! His influence on electronic music is undeniable.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JeanMichelJarre #ElectronicMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jeffrey-daniel-shalamar-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Jeffrey Daniel",
-   "blurb": "Jeffrey Daniel, best known as a member of the R&B group Shalamar and for his iconic dance moves, turns 71 today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Shalamar Legend",
-     "copy": "Happy 71st Birthday to the incredible Jeffrey Daniel of Shalamar! Those dance moves are still legendary.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Shalamar #JeffreyDaniel"
+      "#Floetry"
      ]
     }
    ]
@@ -478,49 +469,59 @@
    "id": "gene-simmons-bday",
    "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Gene Simmons",
-   "blurb": "The legendary 'Demon' from KISS, Gene Simmons, celebrates his 77th birthday tomorrow.",
+   "hot": true,
+   "title": "Gene Simmons Turns 77",
+   "blurb": "KISS bassist and co-lead singer Gene Simmons celebrates his 77th birthday tomorrow, August 25, 2026.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rock Icon",
-     "copy": "Tomorrow, the one and only Gene Simmons from KISS turns 77! Get ready to rock and roll all night.",
+     "name": "Rock Legend Birthday",
+     "copy": "Tomorrow, the Demon turns 77! Happy early birthday to KISS co-founder Gene Simmons. What's your favourite KISS anthem?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "16:00",
      "tags": [
       "#GeneSimmons #KISS"
      ]
+    },
+    {
+     "name": "KISS Tribute",
+     "copy": "Shout out to the legendary Gene Simmons, celebrating his 77th birthday tomorrow! Rock and Roll All Nite!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#KISSArmy"
+     ]
     }
    ]
   },
   {
-   "id": "robb-halford-bday",
+   "id": "rob-halford-bday",
    "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Rob Halford",
-   "blurb": "Rob Halford, the iconic frontman of Judas Priest, turns 75 tomorrow.",
+   "hot": true,
+   "title": "Rob Halford Turns 75",
+   "blurb": "Judas Priest frontman and 'Metal God' Rob Halford celebrates his 75th birthday tomorrow, August 25, 2026.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Rob_Halford"
    },
    "fits": [
     {
@@ -530,70 +531,81 @@
    ],
    "angles": [
     {
-     "name": "Metal God",
-     "copy": "Tomorrow we celebrate the 'Metal God' himself! Happy 75th Birthday to Judas Priest's legendary frontman, Rob Halford.",
+     "name": "Metal God Birthday",
+     "copy": "Happy 75th Birthday for tomorrow to the iconic Metal God himself, Rob Halford of Judas Priest! What's your favourite Priest track?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "17:00",
+     "time": "15:00",
      "tags": [
       "#RobHalford #JudasPriest"
      ]
-    }
-   ]
-  },
-  {
-   "id": "between-the-trees-festival",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Between The Trees Festival in Wales",
-   "blurb": "Between The Trees Festival, a nature-inspired music and arts event, takes place in Candleston Wood, Bridgend, Wales, from August 27th-30th.",
-   "source": {
-    "l": "Between The Trees Festival",
-    "u": "https://betweenthetrees.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
     },
     {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Festival Fun",
-     "copy": "Calling all Welsh festival-goers! Between The Trees kicks off near Bridgend this Thursday for a weekend of music and nature. Who's going?",
+     "name": "Heavy Metal Icon",
+     "copy": "Celebrating a true heavy metal legend! Wishing Rob Halford a very happy 75th birthday tomorrow.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "11:00",
      "tags": [
-      "#BetweenTheTrees #WelshFestivals"
+      "#MetalGod"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "florence-welch-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Florence Welch Turns 40",
+   "blurb": "Florence Welch, the powerhouse vocalist and songwriter of Florence + The Machine, celebrates her 40th birthday on August 28, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Florence_Welch"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Shoutout",
+     "copy": "Happy 40th Birthday to the incredible Florence Welch on Thursday! What's your go-to Florence + The Machine song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FlorenceWelch"
      ]
     },
     {
-     "name": "Bridgend Event",
-     "for": "Bridge FM",
-     "copy": "Live music in Bridgend! Between The Trees Festival brings a unique vibe to Candleston Wood from Thursday. Don't miss out!",
+     "name": "Musical Influence",
+     "copy": "Celebrating the unique artistry of Florence Welch, turning 40 this week! Her music continues to inspire.",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:30",
+     "time": "15:00",
      "tags": [
-      "#BridgendEvents"
+      "#FlorenceAndTheMachine"
      ]
     }
    ]
@@ -602,17 +614,21 @@
    "id": "shania-twain-bday",
    "off": 4,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Shania Twain",
-   "blurb": "The Queen of Country Pop, Shania Twain, will celebrate her 61st birthday on Thursday.",
+   "hot": true,
+   "title": "Shania Twain Turns 61",
+   "blurb": "The 'Queen of Country Pop,' Shania Twain, celebrates her 61st birthday on August 28, 2026.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     },
     {
      "g": "decades-genres",
@@ -625,53 +641,30 @@
    ],
    "angles": [
     {
-     "name": "Country Queen",
-     "copy": "Let's go girls! On Thursday, we're wishing a very Happy 61st Birthday to the one and only Shania Twain!",
+     "name": "Birthday Wishes",
+     "copy": "Man! I Feel Like A Woman! Happy 61st Birthday to the one and only Shania Twain on Thursday! What's your favourite track?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "11:00",
      "tags": [
       "#ShaniaTwain"
      ]
-    }
-   ]
-  },
-  {
-   "id": "florence-welch-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Florence Welch",
-   "blurb": "Florence Welch, the lead singer of Florence + The Machine, turns 40 on Thursday.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Florence Turns 40",
-     "copy": "Happy 40th Birthday to the incredible Florence Welch from Florence + The Machine this Thursday! What's your favourite track?",
+     "name": "Country Icon",
+     "copy": "Still the one! Wishing a very happy 61st birthday to country-pop superstar Shania Twain this week.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "16:00",
      "tags": [
-      "#FlorenceWelch"
+      "#QueenOfCountryPop"
      ]
     }
    ]
@@ -680,45 +673,126 @@
    "id": "liam-payne-bday",
    "off": 5,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Liam Payne",
-   "blurb": "Former One Direction member Liam Payne celebrates his 33rd birthday on Friday.",
+   "hot": true,
+   "title": "Liam Payne Would Have Been 33",
+   "blurb": "Liam Payne, former member of One Direction, would have celebrated his 33rd birthday on August 29, 2026.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Liam_Payne"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "One Direction Star",
-     "copy": "Wishing a very Happy 33rd Birthday to Liam Payne this Friday! What's your favourite 1D song?",
+     "name": "Tribute to Liam",
+     "copy": "Remembering Liam Payne, who would have turned 33 on Friday. His music continues to resonate with so many. #LiamPayne",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LiamPayne"
+     ]
+    },
+    {
+     "name": "One Direction Memories",
+     "copy": "Thinking of Liam Payne, who would have celebrated his 33rd birthday this Friday. What's your favourite One Direction memory?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "14:00",
      "tags": [
-      "#LiamPayne #OneDirection"
+      "#OneDirection"
      ]
     }
    ]
   },
   {
-   "id": "debbie-gibson-bday",
+   "id": "van-morrison-bday",
    "off": 7,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Debbie Gibson",
-   "blurb": "80s pop icon Debbie Gibson turns 56 on Monday, August 31st.",
+   "hot": true,
+   "title": "Van Morrison Turns 81",
+   "blurb": "Legendary Northern Irish singer-songwriter Van Morrison, known for hits like 'Brown Eyed Girl' and 'Moondance,' celebrates his 81st birthday on August 31, 2026.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Van_Morrison"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Shoutout",
+     "copy": "Happy 81st Birthday to the iconic Van Morrison on Bank Holiday Monday! What's your go-to Van the Man track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#VanMorrison"
+     ]
+    },
+    {
+     "name": "Musical Legacy",
+     "copy": "Celebrating the enduring legacy of Van Morrison, turning 81 this week. A true legend of rock, R&B, and folk.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#VanTheMan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gloria-estefan-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Gloria Estefan Turns 69",
+   "blurb": "Cuban-American singer Gloria Estefan, a global icon of Latin pop and dance music, celebrates her 69th birthday on September 1, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gloria_Estefan"
    },
    "fits": [
     {
@@ -728,53 +802,89 @@
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "80s Pop Princess",
-     "copy": "Still 'Lost in Your Eyes'! Happy 56th Birthday to the amazing Debbie Gibson this Monday!",
+     "name": "Birthday Celebration",
+     "copy": "Get On Your Feet! Happy 69th Birthday to the incredible Gloria Estefan on Tuesday! What's your favourite Miami Sound Machine hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#GloriaEstefan"
+     ]
+    },
+    {
+     "name": "Latin Pop Queen",
+     "copy": "Celebrating the Queen of Latin Pop, Gloria Estefan, turning 69 this week! Her music still makes us want to dance.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "15:00",
      "tags": [
-      "#DebbieGibson #80sPop"
+      "#MiamiSoundMachine"
      ]
     }
    ]
   },
   {
-   "id": "van-morrison-bday",
-   "off": 7,
+   "id": "kian-egan-bday",
+   "off": 9,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy Birthday Van Morrison",
-   "blurb": "Legendary singer-songwriter Van Morrison will celebrate his 81st birthday on Monday, August 31st.",
+   "hot": true,
+   "title": "Kian Egan Turns 46",
+   "blurb": "Westlife member Kian Egan celebrates his 46th birthday on September 2, 2026.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Kian_Egan"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation 00s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Music Legend",
-     "copy": "A huge Happy 81st Birthday to the iconic Van Morrison this Monday! What's your go-to Van the Man track?",
+     "name": "Westlife Birthday",
+     "copy": "Wishing a very Happy 46th Birthday to Westlife's Kian Egan on Wednesday! What's your favourite Westlife ballad?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#KianEgan #Westlife"
+     ]
+    },
+    {
+     "name": "Boyband Icon",
+     "copy": "Celebrating a true boyband icon! Happy 46th Birthday to Kian Egan this week. What's your favourite Westlife memory?",
      "channels": [
       "instagram",
       "facebook",
@@ -782,85 +892,7 @@
      ],
      "time": "14:00",
      "tags": [
-      "#VanMorrison"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "end-of-the-road-festival",
-   "off": 10,
-   "type": "gig",
-   "hot": false,
-   "title": "End Of The Road Festival",
-   "blurb": "The End Of The Road Festival, known for its curated indie and alternative lineup, kicks off on September 3rd and runs until September 6th.",
-   "source": {
-    "l": "End Of The Road Festival",
-    "u": "https://endoftheroadfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Indie Festival Vibes",
-     "copy": "End Of The Road Festival is almost here! Kicking off on September 3rd, get ready for a weekend of amazing indie and alternative music.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#EndOfTheRoad"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lindisfarne-festival",
-   "off": 10,
-   "type": "gig",
-   "hot": false,
-   "title": "Lindisfarne Festival Starts",
-   "blurb": "The Lindisfarne Festival, a music and arts event in the North East, runs from September 3rd to 5th.",
-   "source": {
-    "l": "Lindisfarne Festival",
-    "u": "https://lindisfarnefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North East"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "North East Festival",
-     "copy": "North East! Lindisfarne Festival kicks off on September 3rd for three days of music and good times. Who's joining the party?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#LindisfarneFestival"
+      "#WestlifeFamily"
      ]
     }
    ]
