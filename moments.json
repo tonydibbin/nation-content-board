@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T08:26:24.801Z",
+ "updated": "2026-08-25T09:22:44.529Z",
  "moments": [
   {
    "id": "august-bank-holiday-2026",
@@ -7,10 +7,10 @@
    "type": "seasonal",
    "hot": true,
    "title": "August Bank Holiday Weekend",
-   "blurb": "The last long weekend of summer arrives as the August Bank Holiday falls on Monday, August 31st across England, Wales, and Northern Ireland.",
+   "blurb": "The late August Bank Holiday weekend officially begins, offering a final chance for many across England, Wales, and Northern Ireland to enjoy the summer before autumn.",
    "source": {
-    "l": "Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
     {
@@ -22,50 +22,38 @@
      "sub": ""
     },
     {
-     "g": "radio-exe",
+     "g": "dragon",
      "sub": ""
     },
     {
-     "g": "dragon",
+     "g": "radio-exe",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Last chance for summer fun",
-     "copy": "Who's making the most of the last bank holiday of summer? Hands up if you're already planning that extra day off! #BankHoliday",
+     "name": "Travel Alert",
+     "copy": "Packing for the Bank Holiday getaway? Get set for a busy one on the roads and rails across England, Wales & Northern Ireland as the long weekend kicks off. Plan ahead!",
      "channels": [
-      "instagram",
       "facebook",
       "x",
-      "threads"
+      "instagram"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#BankHoliday"
      ]
     },
     {
-     "name": "Travel Alert",
-     "copy": "Bank Holiday travel warning! Expect busy roads and potential train disruptions across the UK this weekend. Plan ahead!",
+     "name": "Weekend Vibes",
+     "copy": "Last long weekend of the summer for many! How are you making the most of the August Bank Holiday? Beach, BBQ or just chilling? Let us know!",
      "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TravelAlert"
-     ]
-    },
-    {
-     "name": "What are your plans?",
-     "copy": "Beach trip, BBQ, or binge-watching? What's your ideal way to spend the August Bank Holiday weekend?",
-     "channels": [
-      "instagram",
       "facebook",
-      "tiktok"
+      "x",
+      "instagram",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "10:00",
      "tags": [
       "#SummerVibes"
      ]
@@ -73,15 +61,15 @@
    ]
   },
   {
-   "id": "reading-leeds-festival-2026",
+   "id": "creamfields-leeds-reading-2026",
    "off": 2,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festival Kicks Off",
-   "blurb": "The iconic Reading and Leeds festivals take over Richfield Avenue and Bramham Park from August 27-30, featuring headliners like Charli XCX, Dave, Florence + The Machine, and Fontaines D.C.",
+   "title": "UK Festival Weekend Kicks Off",
+   "blurb": "Major UK festivals including Creamfields, Leeds Festival, and Reading Festival all kick off this weekend, bringing huge acts and thousands of music fans together.",
    "source": {
-    "l": "Reading Festival",
-    "u": "https://www.readingfestival.com/"
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/festival-guide"
    },
    "fits": [
     {
@@ -90,10 +78,6 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
@@ -102,137 +86,31 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Festival Buzz",
-     "copy": "Who's ready for the biggest weekend of the year? Reading & Leeds Festival kicks off on Thursday! What acts are you desperate to see?",
+     "name": "Festival Fever",
+     "copy": "It's THE weekend! Creamfields, Leeds, Reading – where are you pitching your tent (or just dancing in a field)? The UK festival season is going out with a bang!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "10:00",
-     "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Headliner Highlight",
-     "copy": "Charli XCX, Dave, Florence + The Machine, Fontaines D.C. – the Reading & Leeds headliners are HUGE! Who's taking the main stage for you?",
-     "channels": [
-      "x",
-      "instagram"
-     ],
-     "time": "13:00",
+     "time": "09:30",
      "tags": [
       "#FestivalSeason"
      ]
     },
     {
-     "name": "Road to the Festival",
-     "copy": "Packing the tent or just heading for a day? Good luck to everyone travelling to Reading & Leeds this week!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#FestivalTravel"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "all-points-east-2026",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "All Points East Returns to London",
-   "blurb": "All Points East Festival brings a packed lineup to Victoria Park, London, on August 28-29, promising two days of diverse music.",
-   "source": {
-    "l": "All Points East",
-    "u": "https://www.allpointseastfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "London Festival",
-     "copy": "Victoria Park, get ready! All Points East is back this weekend, bringing big names to London. Who's got their tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#APELondon"
-     ]
-    },
-    {
-     "name": "East London Vibes",
-     "copy": "East London is about to get loud! All Points East kicks off on Friday. Expect big tunes and even bigger vibes.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#VictoriaPark"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "edinburgh-summer-sessions-2026",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Edinburgh Summer Sessions Live",
-   "blurb": "The Edinburgh Summer Sessions continue through August 29, bringing live music to the Scottish capital's Princes Street Gardens.",
-   "source": {
-    "l": "Edinburgh Summer Sessions",
-    "u": "https://www.smmrsessions.com/edinburgh"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Scotland's Summer Sounds",
-     "copy": "Edinburgh Summer Sessions is in full swing! If you're in Scotland, who are you hoping to catch before it wraps up on Saturday?",
+     "name": "Leeds & Reading",
+     "copy": "Reading and Leeds Festivals are about to explode! Who are you most hyped to see on the main stages this weekend? Let the festival anthems begin!",
      "channels": [
       "instagram",
       "facebook",
@@ -240,46 +118,87 @@
      ],
      "time": "11:00",
      "tags": [
-      "#EdinburghSummerSessions"
-     ]
-    },
-    {
-     "name": "Garden Gigs",
-     "copy": "Live music in the heart of Edinburgh? Yes please! Princes Street Gardens is the place to be this week.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#ScottishMusic"
+      "#RandL26"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-matchweek-2",
+   "id": "victorious-festival-2026",
    "off": 3,
-   "type": "sport",
+   "type": "gig",
    "hot": true,
-   "title": "Premier League Matchweek 2 Continues",
-   "blurb": "The Premier League 2026/27 season heats up with Matchweek 2 fixtures from Friday, August 28, through the Bank Holiday Monday.",
+   "title": "Victorious Festival Returns to Portsmouth",
+   "blurb": "Victorious Festival, the UK's most beautifully located festival, begins this Friday in Portsmouth, promising a bank holiday seaside celebration with a diverse lineup.",
    "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/fixtures"
+    "l": "Victorious Festival",
+    "u": "https://www.victoriousfestival.co.uk/"
    },
    "fits": [
     {
      "g": "nation-network",
+     "sub": "Nation Radio South"
+    },
+    {
+     "g": "nation-network",
      "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Portsmouth Party",
+     "copy": "Portsmouth! Victorious Festival is almost here, bringing huge acts and that incredible seaside vibe. Who's ready for a bank holiday weekend by the beach, soundtracked by the best music?",
+     "channels": [
+      "facebook",
+      "instagram",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#VictoriousFestival"
+     ]
+    },
+    {
+     "name": "Family Festival",
+     "copy": "Looking for the ultimate family-friendly festival experience this Bank Holiday? Victorious Festival in Portsmouth has something for everyone! Music, sun, sea... what more could you want?",
+     "channels": [
+      "facebook",
+      "instagram"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#FamilyFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "between-the-trees-2026",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Between The Trees Festival in Bridgend",
+   "blurb": "Between The Trees Festival kicks off this Thursday in Bridgend, offering a unique blend of music, art, and nature in a beautiful Welsh setting.",
+   "source": {
+    "l": "eFestivals",
+    "u": "https://www.efestivals.co.uk/festivals/betweenthetrees/2026/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
     },
     {
      "g": "welsh-local",
-     "sub": ""
+     "sub": "Radio Carmarthenshire"
     },
     {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
     },
     {
      "g": "dragon",
@@ -288,151 +207,237 @@
    ],
    "angles": [
     {
-     "name": "Weekend Football",
-     "copy": "Premier League weekend incoming! Matchweek 2 brings us Crystal Palace v Man City on Friday and a Bank Holiday Monday clash with Fulham v Chelsea. Who are you backing?",
+     "name": "Welsh Festival Fun",
+     "copy": "Bridgend is buzzing! Between The Trees Festival starts this Thursday, bringing an amazing atmosphere and incredible music to South Wales. Who's heading along?",
      "channels": [
+      "facebook",
       "x",
-      "facebook"
+      "instagram"
      ],
-     "time": "09:30",
+     "time": "10:30",
      "tags": [
-      "#PremierLeague"
+      "#BetweenTheTrees"
      ]
     },
     {
-     "name": "Key Matchups",
-     "copy": "Liverpool vs Nottingham Forest on Saturday, Spurs vs Newcastle too! What's the standout fixture for you this Premier League weekend?",
+     "name": "Bridgend Beats",
+     "copy": "Get ready, Bridgend! Your very own Between The Trees Festival is almost here. Expect good vibes, great music and a fantastic start to the Bank Holiday weekend!",
      "channels": [
-      "instagram",
-      "x"
+      "facebook",
+      "instagram"
      ],
-     "time": "12:00",
+     "time": "15:00",
      "tags": [
-      "#PL"
+      "#BridgendEvents"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-rein-me-in",
+   "id": "the-good-ship-murder-s3",
    "off": 0,
-   "type": "chart",
+   "type": "tv",
    "hot": true,
-   "title": "Sam Fender & Olivia Dean Hold UK #1 Single",
-   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' continues its incredible run, holding the number one spot on the UK Singles Chart.",
+   "title": "The Good Ship Murder S3 on BritBox",
+   "blurb": "The third season of 'The Good Ship Murder' premieres today for regular BritBox subscribers, with Shayne Ward returning as the cabaret singer detective.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "BritBox",
+    "u": "https://www.britbox.com"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Chart Reign",
-     "copy": "Still at number one! Sam Fender & Olivia Dean's 'Rein Me In' is dominating the UK Singles Chart. Can anyone knock them off?",
+     "name": "New Mystery Today",
+     "copy": "All aboard for murder! The Good Ship Murder Season 3 sets sail today for regular BritBox subscribers. Get ready for more sun-drenched mysteries with Shayne Ward!",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "Record Breaker",
-     "copy": "'Rein Me In' made history as the longest-running UK #1 single of all time earlier this summer! Amazing achievement.",
-     "channels": [
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SamFender"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-albums-chart-phoebe-bridgers",
-   "off": 0,
-   "type": "chart",
-   "hot": true,
-   "title": "Phoebe Bridgers Claims UK #1 Album",
-   "blurb": "Phoebe Bridgers' 'Lost Weekend' hit the top spot on the UK Official Albums Chart last week.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/albums-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Album Chart Topper",
-     "copy": "New music at the top! Phoebe Bridgers' 'Lost Weekend' is your UK #1 album. Have you streamed it yet?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#PhoebeBridgers"
-     ]
-    },
-    {
-     "name": "Indie Success",
-     "copy": "Phoebe Bridgers taking the album chart by storm! A huge win for indie music. What's your favourite track from 'Lost Weekend'?",
-     "channels": [
       "x",
+      "instagram",
       "threads"
      ],
-     "time": "15:30",
+     "time": "09:00",
      "tags": [
-      "#NewMusic"
+      "#BritBox"
+     ]
+    },
+    {
+     "name": "Shayne Ward Returns",
+     "copy": "Shayne Ward is back as the singing detective! The Good Ship Murder Season 3 hits BritBox today. Perfect viewing for a Tuesday night, if you ask us.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#TheGoodShipMurder"
      ]
     }
    ]
   },
   {
-   "id": "shania-twain-birthday",
-   "off": 3,
+   "id": "billy-ray-cyrus-bday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 61st Birthday, Shania Twain",
-   "blurb": "Country-pop superstar Shania Twain, known for hits like 'Man! I Feel Like a Woman!' and 'That Don't Impress Me Much,' celebrates her 61st birthday on August 28th.",
+   "title": "Billy Ray Cyrus is 65 Today",
+   "blurb": "Country music icon Billy Ray Cyrus, known for 'Achy Breaky Heart' and 'Old Town Road', celebrates his 65th birthday today.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august/28/shania-twain.html"
+    "u": "https://www.famousbirthdays.com/august/25.html"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Country Legend's Birthday",
+     "copy": "Happy 65th Birthday to the one and only Billy Ray Cyrus! Still 'Achy Breaky' after all these years? We're playing his biggest hits right now!",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BillyRayCyrus"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gene-simmons-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Gene Simmons Turns 77",
+   "blurb": "KISS co-founder and bassist Gene Simmons, the 'Demon' himself, celebrates his 77th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/25.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Icon's Birthday",
+     "copy": "Happy 77th Birthday to KISS legend Gene Simmons! Still rocking and rolling all night (and partying every day). What's your favourite KISS track?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#GeneSimmons"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "robb-halford-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Rob Halford is 75 Today",
+   "blurb": "Judas Priest frontman and 'Metal God' Rob Halford celebrates his 75th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/25.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal God's Birthday",
+     "copy": "Raise your horns! Happy 75th Birthday to the incredible Rob Halford of Judas Priest. The 'Metal God' is still going strong!",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#RobHalford"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "elvis-costello-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Elvis Costello Turns 72",
+   "blurb": "Influential singer-songwriter Elvis Costello, known for hits like 'Oliver's Army' and 'Alison', celebrates his 72nd birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/25.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Wave Legend",
+     "copy": "Happy 72nd Birthday to the brilliant Elvis Costello! Still delivering those sharp lyrics and unforgettable melodies. What's your favourite of his tracks?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#ElvisCostello"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shirley-manson-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Shirley Manson is 60 Tomorrow",
+   "blurb": "Garbage frontwoman Shirley Manson, known for her distinctive vocals and fierce stage presence, celebrates her 60th birthday tomorrow.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/26.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -445,193 +450,71 @@
    ],
    "angles": [
     {
-     "name": "Queen of Country Pop",
-     "copy": "Let's go girls! Wishing a very happy 61st birthday to the one and only Shania Twain! What's your favourite Shania song?",
+     "name": "Garbage Queen",
+     "copy": "Tomorrow, the incredible Shirley Manson of Garbage turns 60! Get ready to celebrate a true rock icon. What's your favourite Garbage track?",
      "channels": [
-      "instagram",
       "facebook",
       "x",
-      "tiktok"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#ShaniaTwain"
-     ]
-    },
-    {
-     "name": "Timeless Hits",
-     "copy": "Still sounds as good today! 'Man! I Feel Like a Woman!' and 'That Don't Impress Me Much' are just two of Shania Twain's timeless tracks. Happy Birthday!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#HappyBirthdayShania"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "florence-welch-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 40th Birthday, Florence Welch",
-   "blurb": "Florence Welch, the iconic lead singer of Florence + The Machine, celebrates her 40th birthday on August 28th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august/28/florence-welch.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Alt-Pop Icon",
-     "copy": "Happy 40th Birthday to the incredible Florence Welch! From 'Dog Days Are Over' to 'Shake It Out,' her music is pure magic. What's your favourite Florence + The Machine track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#FlorenceWelch"
-     ]
-    },
-    {
-     "name": "Vocal Powerhouse",
-     "copy": "A truly unique voice in music! Celebrating the brilliant Florence Welch's 40th today. Here's to many more years of amazing music!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#FlorenceAndTheMachine"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jack-black-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 57th Birthday, Jack Black",
-   "blurb": "Actor, comedian, and lead singer of Tenacious D, Jack Black, celebrates his 57th birthday on August 28th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august/28/jack-black.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock God Birthday",
-     "copy": "From School of Rock to Tenacious D, the legendary Jack Black turns 57 today! What's your favourite Jables moment?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JackBlack"
-     ]
-    },
-    {
-     "name": "Comedy & Rock",
-     "copy": "The man, the myth, the legend! Happy Birthday to Jack Black – bringing joy and rock anthems to the world for 57 years.",
-     "channels": [
-      "x"
+      "instagram"
      ],
      "time": "14:00",
      "tags": [
-      "#TenaciousD"
+      "#ShirleyManson"
      ]
     }
    ]
   },
   {
-   "id": "al-jardine-birthday",
-   "off": 9,
+   "id": "alex-lifeson-bday",
+   "off": 2,
    "type": "birthday",
-   "hot": false,
-   "title": "Al Jardine (The Beach Boys) Turns 84",
-   "blurb": "Al Jardine, co-founder and rhythm guitarist of The Beach Boys, celebrates his 84th birthday on September 3rd.",
+   "hot": true,
+   "title": "Alex Lifeson Turns 73",
+   "blurb": "Rush guitarist Alex Lifeson, a progressive rock legend, celebrates his 73rd birthday on Wednesday.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/3/al-jardine.html"
+    "u": "https://www.famousbirthdays.com/august/27.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Beach Boys Legend",
-     "copy": "Happy 84th Birthday to Al Jardine of The Beach Boys! Thank you for the endless summer vibes. What's your favourite Beach Boys classic?",
+     "name": "Prog Rock Royalty",
+     "copy": "On Wednesday, we're celebrating the 73rd birthday of Rush's phenomenal guitarist, Alex Lifeson! What's your favourite Rush epic?",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "09:00",
+     "time": "15:00",
      "tags": [
-      "#TheBeachBoys"
-     ]
-    },
-    {
-     "name": "Surf Rock Icon",
-     "copy": "Still making waves! Celebrating Al Jardine's 84th today. A true legend of surf rock.",
-     "channels": [
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#AlJardine"
+      "#AlexLifeson"
      ]
     }
    ]
   },
   {
-   "id": "steve-jones-birthday",
-   "off": 9,
+   "id": "glen-matlock-bday",
+   "off": 2,
    "type": "birthday",
-   "hot": false,
-   "title": "Steve Jones (Sex Pistols) Turns 71",
-   "blurb": "Steve Jones, the influential guitarist of punk rock pioneers the Sex Pistols, celebrates his 71st birthday on September 3rd.",
+   "hot": true,
+   "title": "Glen Matlock is 70",
+   "blurb": "Glen Matlock, original bassist for the Sex Pistols and co-writer of many of their early hits, celebrates his 70th birthday on Wednesday.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/3/steve-jones.html"
+    "u": "https://www.famousbirthdays.com/august/27.html"
    },
    "fits": [
     {
@@ -645,41 +528,147 @@
    ],
    "angles": [
     {
-     "name": "Punk Rock Pioneer",
-     "copy": "Anarchy in the UK! Happy 71st Birthday to Steve Jones, legendary guitarist of the Sex Pistols. What's your favourite punk anthem?",
+     "name": "Punk Pioneer",
+     "copy": "Happy 70th Birthday to punk rock legend Glen Matlock, original bassist for the Sex Pistols! A true innovator in music history.",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "10:00",
+     "time": "16:00",
      "tags": [
-      "#SexPistols"
-     ]
-    },
-    {
-     "name": "Guitar Hero",
-     "copy": "Still sounds as raw and revolutionary as ever! Celebrating Steve Jones' birthday today. A true punk icon.",
-     "channels": [
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SteveJones"
+      "#GlenMatlock"
      ]
     }
    ]
   },
   {
-   "id": "we-out-here-2027-tickets",
-   "off": 2,
-   "type": "gig",
+   "id": "shania-twain-bday",
+   "off": 3,
+   "type": "birthday",
    "hot": true,
-   "title": "We Out Here Festival 2027 Loyalty Tickets on Sale",
-   "blurb": "Loyalty tickets for Gilles Peterson's We Out Here Festival 2027, celebrating soul, hip hop, house, and jazz, go on sale on Thursday, August 27th.",
+   "title": "Shania Twain Turns 61",
+   "blurb": "Country-pop superstar Shania Twain, known for anthems like 'Man! I Feel Like a Woman!', celebrates her 61st birthday on Thursday.",
    "source": {
-    "l": "We Out Here Festival",
-    "u": "https://www.weoutherefestival.com/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/28.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen of Country Pop",
+     "copy": "Let's go girls! Shania Twain turns 61 on Thursday! Get ready to celebrate the Queen of Country Pop with her greatest hits.",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ShaniaTwain"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "florence-welch-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Florence Welch is 40",
+   "blurb": "Florence + The Machine's enchanting frontwoman, Florence Welch, celebrates her 40th birthday on Thursday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/28.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy 40th Florence",
+     "copy": "Happy 40th Birthday to the mesmerising Florence Welch! We're celebrating the incredible voice and artistry of Florence + The Machine all day Thursday.",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FlorenceAndTheMachine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jack-black-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jack Black Turns 57",
+   "blurb": "Actor, comedian, and Tenacious D frontman Jack Black celebrates his 57th birthday on Thursday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/28.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock & Comedy King",
+     "copy": "It's Jack Black's 57th Birthday on Thursday! From Tenacious D to Hollywood blockbusters, he truly is a legend. What's your favourite Jack Black moment?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#JackBlack"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-oakenfold-bday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Paul Oakenfold is 63",
+   "blurb": "Legendary DJ and trance producer Paul Oakenfold, a pioneer of electronic music, celebrates his 63rd birthday on Saturday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/30.html"
    },
    "fits": [
     {
@@ -688,37 +677,112 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 90s"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Early Bird Alert",
-     "copy": "Don't miss out! Loyalty tickets for We Out Here Festival 2027 go on sale this Thursday. Get ready for Gilles Peterson's incredible curation!",
+     "name": "Trance Titan",
+     "copy": "Get ready to drop the beat! On Saturday, the iconic DJ Paul Oakenfold turns 63. We're spinning some of his biggest tracks to celebrate!",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#WeOutHere"
-     ]
-    },
-    {
-     "name": "Festival Planning",
-     "copy": "Thinking ahead to 2027? We Out Here Festival loyalty tickets drop on Thursday. Who are you taking?",
-     "channels": [
       "x",
-      "threads"
+      "instagram"
      ],
      "time": "12:00",
      "tags": [
-      "#FestivalTickets"
+      "#PaulOakenfold"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "van-morrison-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Van Morrison Turns 81",
+   "blurb": "Northern Irish singer-songwriter Van Morrison, famous for 'Brown Eyed Girl' and 'Moondance', celebrates his 81st birthday on Bank Holiday Monday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/31.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bank Holiday Blues & Soul",
+     "copy": "On Bank Holiday Monday, the legendary Van Morrison turns 81! Get ready for a day of 'Brown Eyed Girl' and 'Moondance' as we celebrate the Belfast Cowboy.",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#VanMorrison"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "debbie-gibson-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Debbie Gibson is 56",
+   "blurb": "Pop sensation Debbie Gibson, who rose to fame as a teen idol in the late 80s, celebrates her 56th birthday on Bank Holiday Monday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august/31.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s Pop Princess",
+     "copy": "Remember 'Foolish Beat'? It's Debbie Gibson's 56th Birthday on Bank Holiday Monday! We're throwing back to the 80s for the ultimate pop princess.",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DebbieGibson"
      ]
     }
    ]
