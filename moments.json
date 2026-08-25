@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-25T19:21:32.290Z",
+ "updated": "2026-08-25T20:13:57.618Z",
  "moments": [
   {
-   "id": "premier-league-gw2",
+   "id": "premier-league-mw2",
    "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Gameweek 2 Kicks Off",
-   "blurb": "The second weekend of the 2026/27 Premier League season gets underway, with big fixtures including Crystal Palace v Coventry City on Friday and Newcastle United v Liverpool on Sunday.",
+   "title": "Premier League Matchweek 2 & 3",
+   "blurb": "The 2026/27 Premier League season is underway, with Matchweek 2 action kicking off on Friday and Matchweek 3 starting next week.",
    "source": {
-    "l": "Premier League Official Site / Sports Mole",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG-PVYr75xDeQvo0K7S2gOCe1D0lUTA-L3qGuxQj2LFS1tIPCFNfA90q9QYMtcHgHSEkKbqRZSmqy3i0NPL-nBswYMtuDCIx3_lQI6FQxDdzIBWezd4vEmSuE4Pjmw6ACFVSeZyaO9JtXvu7E7e2R89A4WRTl_0yJtI65DD82OJyvtSjPKEecp72BNfb4WFF4FxfoJpfpzRC84"
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
     {
@@ -20,9 +20,9 @@
    ],
    "angles": [
     {
-     "name": "Kick-off excitement",
+     "name": "Weekend Fixtures",
      "for": "",
-     "copy": "Premier League Gameweek 2 is here! Who are you backing this weekend? Crystal Palace vs Coventry City kicks us off Friday night.",
+     "copy": "Premier League Matchweek 2 is almost here! Crystal Palace vs Man City on Friday, then Liverpool, Man Utd, Chelsea and Spurs all in action this weekend. What's your prediction?",
      "channels": [
       "instagram",
       "facebook",
@@ -34,15 +34,14 @@
      ]
     },
     {
-     "name": "Weekend fixtures highlight",
-     "for": "",
-     "copy": "Loads of Premier League action this weekend: Hull City vs Man Utd, Brentford vs Spurs, and Newcastle vs Liverpool. What's your top pick?",
+     "name": "Big Game Preview",
+     "for": "Nation Radio London",
+     "copy": "London derby alert! Chelsea face Brighton & Hove Albion on Sunday, while Arsenal travel to Aston Villa on Monday. Who's taking maximum points?",
      "channels": [
       "instagram",
-      "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "11:00",
      "tags": [
       "#PL"
      ]
@@ -50,197 +49,58 @@
    ]
   },
   {
-   "id": "transfer-deadline-day",
-   "off": 6,
-   "type": "sport",
+   "id": "ariana-grande-o2",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "Transfer Deadline Day",
-   "blurb": "The summer transfer window for the Premier League closes at 23:00 BST on September 1, 2026, promising a flurry of last-minute deals and drama.",
+   "title": "Ariana Grande at The O2",
+   "blurb": "Ariana Grande's 'The Eternal Sunshine Tour' continues its run at London's O2 Arena, with shows until September 1st.",
    "source": {
-    "l": "Premier League / Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXwsnsIclyOd9cXj8bsPE_2RYYm1RARnjcM_IQX-z9xiI1VSoXD3btz0JWyhbJBb9ru5eIvHdfyhHYmfQkrftgN0KM9xUx9aTC1JpXO17seuVurAqmxqmb-QJ8RgZSOJ76eLd46FYVjNQv5URvzf21zBlVag6V6Q"
+    "l": "O2 Arena",
+    "u": "https://www.theo2.co.uk/events/detail/ariana-grande-the-eternal-sunshine-tour"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 10s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Deadline countdown",
-     "for": "",
-     "copy": "It's almost here! Transfer Deadline Day is September 1st. Will your club make that crucial last-minute signing?",
+     "name": "Live in London",
+     "for": "Nation Radio London",
+     "copy": "Ariana Grande is lighting up The O2 Arena all this week with her 'Eternal Sunshine Tour'. Who's managed to get tickets?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
-     "tags": [
-      "#DeadlineDay"
-     ]
-    },
-    {
-     "name": "Anticipation",
-     "for": "",
-     "copy": "Who's moving where? The summer transfer window slams shut on September 1st. Get ready for the drama!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#FootballTransfers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-no1",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean hold UK #1",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' remains at number one on the Official UK Singles Chart for the week ending August 27, 2026, making it the longest-running British number one ever.",
-   "source": {
-    "l": "Official Charts Company / Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5zmiGbRCjZMCziBGVjxI3Ljg5XQo6_BoyergrpcMZkppRJcBXkoxPPuPA1mlrU8I12tQ4dt6TdvYqYj8SCA2ovB2qJ17uFaFu9JmyBILqV3u_kkenWH9bTS9xHOdMyCiTgdR1sowJtU6HTqLZd_KE5J0F6k797epElQA"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart topper",
-     "for": "Nation Hits",
-     "copy": "Still reigning! Sam Fender & Olivia Dean's 'Rein Me In' is your UK #1. An incredible run for a massive track!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "British record",
-     "for": "Nation Rocks",
-     "copy": "History made! Sam Fender & Olivia Dean have the longest-running British #1 single ever with 'Rein Me In'. What a tune!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#SamFender"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bon-jovi-uk-tour",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Bon Jovi's 'Forever' UK Tour",
-   "blurb": "Rock legends Bon Jovi bring their 'Forever' tour to the UK, with dates in London and Edinburgh from August 28 to September 4, marking their first UK shows in seven years.",
-   "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpjGDwAwhldpKt-0k6kLNiBA5Zoqlq2nHkw94O4_2TSvZsHI5sm8yynWlkFasX5PoIgC84pet6lUAKnQOMWL_-VMzwJ-1kkCQ9TldNatOtTCK90950VeDOurZXegPVMZzS46vUkN1JzMtbywTX0oTAUHwlGgvOOev5GJTXi6quqmVT-QTOcE4"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock legends return",
-     "for": "",
-     "copy": "Bon Jovi are back! Their 'Forever' tour hits London and Edinburgh this week. Who's got tickets to see the rock legends?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BonJovi"
-     ]
-    },
-    {
-     "name": "Seven year wait",
-     "for": "",
-     "copy": "It's been seven years, but Bon Jovi are finally back on UK soil! Catch them in London and Edinburgh over the next week.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#JonBonJovi"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ariana-grande-o2",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Ariana Grande's 'Eternal Sunshine' O2 Residency",
-   "blurb": "Ariana Grande continues her ten-night 'Eternal Sunshine' residency at London's The O2, with multiple dates this week including August 27, 28, and 31, and September 1.",
-   "source": {
-    "l": "UK Concerts & Tours Guide",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ-bOD9gbBy0TMEEwOM8DzIiWyQM4DQkP8QTl8F2EeMTpFoZDao6cvireKsL6Kb3usXJ0EbGqKXCWuQQz3GFsjTc0eEw-zzTyrNzCvIGdeKWkoWjCaNUxGWd7oov2jrGEnvdVHS7vJzpVkUkTtjSgBiNCqrOzrPLyoOJUcMSq-Wyx3F9-bZetvlp4"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop princess in London",
-     "for": "",
-     "copy": "Ariana Grande is lighting up The O2! Her 'Eternal Sunshine' residency continues with shows this week. Are you seeing her?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
+     "time": "10:30",
      "tags": [
       "#ArianaGrande"
      ]
     },
     {
-     "name": "Residency buzz",
-     "for": "",
-     "copy": "Ten nights of Ariana Grande at The O2! If you're heading to one of her shows this week, get ready for an unforgettable night.",
+     "name": "Pop Perfection",
+     "for": "Nation Hits",
+     "copy": "Still buzzing from Ariana Grande's incredible 'Eternal Sunshine Tour' shows in London this week. What's your favourite track from the album?",
      "channels": [
       "instagram",
-      "facebook",
-      "x",
-      "tiktok"
+      "facebook"
      ],
-     "time": "18:00",
+     "time": "13:00",
      "tags": [
       "#EternalSunshine"
      ]
@@ -248,301 +108,90 @@
    ]
   },
   {
-   "id": "jay-z-london",
-   "off": 10,
+   "id": "reading-leeds-fest",
+   "off": 3,
    "type": "gig",
    "hot": true,
-   "title": "Jay-Z Live in London",
-   "blurb": "Hip-hop icon Jay-Z will be performing in London on September 4th and 5th, bringing his legendary live show to the capital.",
+   "title": "Reading & Leeds Festivals Weekend",
+   "blurb": "The iconic Reading & Leeds Festivals take place this Bank Holiday weekend, August 28-30, with headliners including Chase & Status, Dave, Charli XCX, Florence + The Machine, Fontaines D.C., and Raye.",
    "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpjGDwAwhldpKt-0k6kLNiBA5Zoqlq2nHkw94O4_2TSvZsHI5sm8yynWlkFasX5PoIgC84pet6lUAKnQOMWL_-VMzwJ-1kkCQ9TldNatOtTCK90950VeDOurZXegPVMZzS46vUkN1JzMtbywTX0oTAUHwlGgvOOev5GJTXi6quqmVT-QTOcE4"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hova in the house",
-     "for": "",
-     "copy": "Jay-Z is hitting London on September 4th & 5th! Who's ready to see the legend live?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#JayZ"
-     ]
-    },
-    {
-     "name": "Iconic performance",
-     "for": "",
-     "copy": "London, get ready! Jay-Z is bringing his iconic show to town next week. Don't miss out!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#Hova"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "august-bank-holiday",
-   "off": 6,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August Bank Holiday Weekend",
-   "blurb": "The Summer Bank Holiday for England, Wales, and Northern Ireland falls on Monday, August 31, marking the unofficial end of summer for many, with the Notting Hill Carnival also taking place.",
-   "source": {
-    "l": "Time and Date / National Rail",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGNAgp3x6mr3xOwPfimHNWjVMu6j4JmPjcMcm29JHvd0qdo1D8s1yYo_Kfk7Cee-lxE1PgbwgpLrkEFGP72_U_2g3BEgGKkW507Vtp0QmojyMILZxHA9_7DF0942ZWic4BKiZX4DWuYvll38Q4pdwhx0Uc5deq"
+    "l": "Reading & Leeds Festivals",
+    "u": "https://www.readingfestival.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
     },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Long weekend vibes",
-     "for": "",
-     "copy": "It's the last Bank Holiday of summer this Monday! What are your plans for the long weekend?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#BankHoliday"
-     ]
-    },
-    {
-     "name": "End of summer",
-     "for": "",
-     "copy": "The August Bank Holiday weekend is nearly here – signalling the end of summer for many. Make the most of it!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Summer2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "notting-hill-carnival",
-   "off": 4,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Notting Hill Carnival Returns",
-   "blurb": "London's iconic Notting Hill Carnival takes over the streets this August Bank Holiday weekend (August 29-31), celebrating Caribbean culture with vibrant parades and music.",
-   "source": {
-    "l": "Time and Date",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGNAgp3x6mr3xOwPfimHNWjVMu6j4JmPjcMcm29JHvd0qdo1D8s1yYo_Kfk7Cee-lxE1PgbwgpLrkEFGP72_U_2g3BEgGKkW507Vtp0QmojyMILZxHA9_7DF0942ZWic4BKiZX4DWuYvll38Q4pdwhx0Uc5deq"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Carnival countdown",
-     "for": "Nation Radio London",
-     "copy": "Notting Hill Carnival is just days away! Who's ready for the UK's biggest street party this Bank Holiday weekend?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#NottingHillCarnival"
-     ]
-    },
-    {
-     "name": "Culture celebration",
-     "for": "",
-     "copy": "Get ready for the colours, sounds, and energy of Notting Hill Carnival! A highlight of the UK summer, happening this weekend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#Carnival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "back-to-school-2026",
-   "off": 7,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Back to School Season Begins",
-   "blurb": "Schools across England and Wales prepare to reopen in early September, marking the end of the summer holidays and the start of a new academic year, with new uniform rules coming into force.",
-   "source": {
-    "l": "Save the Children / Holiday Extras",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOoj7AC5AikjmYCTz9iajg9vFJvZlRLklv4vNMYS9E2_V0kapH00oSigyvdvfySprZtJEBRBP8vHZvkREa8IPYm-z3CWjssWiPWhc_Z1YlePTLloJ8emhtQRFLM0VzkqwdJtGg7mKsoIUvQDBPBxTbQefkowhHa_qd3_LJ4D3jsg98"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "School's out for... summer's over!",
-     "for": "",
-     "copy": "The summer holidays are winding down! Are you ready for the kids to go back to school next week?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BackToSchool"
-     ]
-    },
-    {
-     "name": "New term, new rules",
-     "for": "",
-     "copy": "New school uniform rules kick in this September in England. Are you sorted for the new academic year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#SchoolLife"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "billy-ray-cyrus-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Billy Ray Cyrus is 65 today",
-   "blurb": "American country music singer and actor Billy Ray Cyrus celebrates his 65th birthday today, known for hits like 'Achy Breaky Heart' and his role in 'Hannah Montana'.",
-   "source": {
-    "l": "Facebook / Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz0olARQd71lUWMJYWbtNWTE29E5zxTLTxZz4eJMzUavi8hwL4ugW3FD4UpZ3_gCNohYEOX2h6XX8poR6VQ3fn0RAV3V0FRUAJO4FVytXfg2ozWb7UMXot1RfEwIV9mXU39cKtlTCzAyUo7SMTQ3rWmUSGhMz7NSzufYLzIHOqJ9AsBg"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country legend birthday",
-     "for": "",
-     "copy": "Happy 65th Birthday to the one and only Billy Ray Cyrus! Still got 'Achy Breaky Heart' stuck in your head?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BillyRayCyrus"
-     ]
-    },
-    {
-     "name": "Music and TV star",
-     "for": "",
-     "copy": "From country charts to 'Hannah Montana', celebrating Billy Ray Cyrus's 65th birthday today! What's your favourite of his tracks?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#AchyBreakyHeart"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shirley-manson-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shirley Manson is 60 tomorrow",
-   "blurb": "Scottish singer-songwriter Shirley Manson, lead vocalist of the alternative rock band Garbage, turns 60 tomorrow, August 26.",
-   "source": {
-    "l": "Wikipedia / Songfacts",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwwhr483O63onZ7See93AsZyJGN5fWduif0T9X0MoHA-_UI3Sq8Se1XCioxR2l-dp5On7V6Xr4zTu8Tzmmb7mTb4X4H28HQ0lTUtCRb9Ed1MSPSottn7BJMut-8QfokA3qKKdCicnb4Y40BYhxGKr32tEp4V1OnJmj7ZE"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Hits"
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Garbage frontwoman",
-     "for": "Nation Rocks",
-     "copy": "Happy 60th Birthday to the incredible Shirley Manson from Garbage, tomorrow! What's your favourite Garbage track?",
+     "name": "Festival Countdown",
+     "for": "",
+     "copy": "It's almost time! Reading & Leeds Festivals kick off this Bank Holiday weekend. Who are you most excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Leeds Local Angle",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Huge weekend ahead for Leeds as the festival takes over! Get ready for Chase & Status, Dave, Charli XCX and more. Who's heading down?",
+     "channels": [
+      "instagram",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#LeedsFestival"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "UK Singles Chart Latest",
+   "blurb": "Sam Fender & Olivia Dean hold the top spot on the Official UK Singles Chart for an incredible 22nd week with 'Rein Me In'.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Reign",
+     "for": "Nation Hits",
+     "copy": "22 weeks at Number 1! Sam Fender & Olivia Dean are still dominating the Official UK Singles Chart with 'Rein Me In'. Is it still your favourite?",
      "channels": [
       "instagram",
       "facebook",
@@ -550,35 +199,34 @@
      ],
      "time": "10:00",
      "tags": [
-      "#ShirleyManson"
+      "#UKChart"
      ]
     },
     {
-     "name": "Scottish icon",
-     "for": "Nation Radio Scotland",
-     "copy": "Tomorrow, Edinburgh's own Shirley Manson turns 60! Celebrate the Garbage frontwoman's birthday with us.",
+     "name": "Climbers & Re-entries",
+     "for": "Nation Hits",
+     "copy": "Stella Lefty's 'Boston' climbs to #5 and Olivia Rodrigo's 'The Cure' re-enters at #8 on the Official UK Singles Chart. What else is new in your playlist?",
      "channels": [
       "instagram",
-      "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#Garbage"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
-   "id": "alex-lifeson-bday",
-   "off": 2,
+   "id": "gene-simmons-bday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Alex Lifeson is 73 on Wednesday",
-   "blurb": "Canadian musician Alex Lifeson, best known as the guitarist and co-founder of the progressive rock band Rush, celebrates his 73rd birthday on Wednesday, August 27.",
+   "title": "Happy 77th Birthday Gene Simmons",
+   "blurb": "Legendary KISS bassist and co-founder Gene Simmons celebrates his 77th birthday today.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Alex_Lifeson"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
    },
    "fits": [
     {
@@ -588,13 +236,123 @@
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Rush legend",
+     "name": "KISS Icon",
      "for": "Nation Rocks",
-     "copy": "Wishing a huge Happy 73rd Birthday to Rush guitar maestro, Alex Lifeson, this Wednesday! What's your favourite Rush riff?",
+     "copy": "Happy 77th Birthday to the one and only Demon, Gene Simmons of KISS! What's your favourite KISS anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#GeneSimmons"
+     ]
+    },
+    {
+     "name": "Rock Legend",
+     "for": "Nation 70s",
+     "copy": "Celebrating the 77th birthday of rock icon Gene Simmons today! From 'Rock and Roll All Nite' to global superstardom, he's truly a legend.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#KISS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "elvis-costello-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 72nd Birthday Elvis Costello",
+   "blurb": "Influential English singer-songwriter Elvis Costello turns 72 today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Wave King",
+     "for": "Nation Rocks",
+     "copy": "Happy 72nd Birthday to the brilliant Elvis Costello! His sharp songwriting and genre-bending sound still resonate today. What's your top track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ElvisCostello"
+     ]
+    },
+    {
+     "name": "British Icon",
+     "for": "Nation 70s",
+     "copy": "From 'Pump It Up' to 'Alison', wishing a very Happy 72nd Birthday to the iconic Elvis Costello, born today in London! A true British music legend.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#NewWave"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alexandra-burke-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 38th Birthday Alexandra Burke",
+   "blurb": "X Factor winner and pop/R&B star Alexandra Burke celebrates her 38th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "X Factor Star",
+     "for": "Nation Hits",
+     "copy": "Happy 38th Birthday to the incredible Alexandra Burke! From X Factor winner to stage star, what's your favourite Alexandra track?",
      "channels": [
       "instagram",
       "facebook",
@@ -602,13 +360,58 @@
      ],
      "time": "11:00",
      "tags": [
-      "#AlexLifeson"
+      "#AlexandraBurke"
      ]
     },
     {
-     "name": "Prog rock icon",
-     "for": "Nation 70s",
-     "copy": "Celebrate the legendary Alex Lifeson's 73rd birthday on Wednesday! The Rush co-founder is a true prog-rock icon.",
+     "name": "R&B Pop",
+     "for": "Nation 00s",
+     "copy": "Celebrating Alexandra Burke's 38th birthday! Still loving 'Hallelujah' and 'Bad Boys'. What's your favourite memory of her music?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shirley-manson-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Shirley Manson turns 60",
+   "blurb": "Garbage frontwoman and Scottish rock icon Shirley Manson celebrates her 60th birthday tomorrow.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august26.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Garbage Queen",
+     "for": "Nation Rocks",
+     "copy": "Wishing a very Happy 60th Birthday for tomorrow to the iconic Shirley Manson of Garbage! 'Stupid Girl' or 'Only Happy When It Rains'?",
      "channels": [
       "instagram",
       "facebook",
@@ -616,7 +419,75 @@
      ],
      "time": "16:00",
      "tags": [
-      "#Rush"
+      "#ShirleyManson"
+     ]
+    },
+    {
+     "name": "Scottish Rocker",
+     "for": "Nation Radio Scotland",
+     "copy": "Scottish legend Shirley Manson celebrates her 60th birthday tomorrow! Raise a glass to the incredible frontwoman of Garbage.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Garbage"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "valerie-simpson-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Valerie Simpson turns 80",
+   "blurb": "Motown legend and half of the iconic duo Ashford & Simpson, Valerie Simpson, celebrates her 80th birthday tomorrow.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august26.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Motown Royalty",
+     "for": "Nation Easy",
+     "copy": "Wishing a very Happy 80th Birthday for tomorrow to the incredible Valerie Simpson! Her songwriting with Nick Ashford gave us so many timeless hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#ValerieSimpson"
+     ]
+    },
+    {
+     "name": "Soulful Sounds",
+     "for": "Nation Classic Hits",
+     "copy": "From 'Ain't No Mountain High Enough' to 'Solid', celebrating Valerie Simpson's 80th birthday tomorrow. An absolute icon of soul music!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#AshfordAndSimpson"
      ]
     }
    ]
@@ -626,47 +497,46 @@
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Shania Twain is 61 on Thursday",
-   "blurb": "Canadian singer and songwriter Shania Twain, one of the best-selling music artists of all time, will be 61 on Thursday, August 28.",
+   "title": "Shania Twain turns 61",
+   "blurb": "Country-pop superstar Shania Twain celebrates her 61st birthday on Thursday.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august28.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Queen of Country Pop",
-     "for": "Nation Easy",
-     "copy": "She don't impress much! Happy 61st Birthday to the incredible Shania Twain this Thursday! What's your go-to Shania anthem?",
+     "name": "Let's Go Girls",
+     "for": "Nation 90s",
+     "copy": "Happy 61st Birthday for Thursday to the one and only Shania Twain! Still 'Man! I Feel Like A Woman!' after all these years. What's your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "11:00",
      "tags": [
       "#ShaniaTwain"
      ]
     },
     {
-     "name": "Still the one",
-     "for": "Nation 90s",
-     "copy": "Feeling like a woman? Shania Twain turns 61 on Thursday! Send her your birthday wishes and favourite hits!",
+     "name": "Country Queen",
+     "for": "Nation Classic Hits",
+     "copy": "Celebrating the enduring appeal of Shania Twain, who turns 61 on Thursday! Her music truly crosses generations.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "15:00",
      "tags": [
       "#CountryPop"
      ]
@@ -678,13 +548,17 @@
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Florence Welch is 40 on Thursday",
-   "blurb": "English singer Florence Welch, lead vocalist of Florence + The Machine, celebrates her 40th birthday on Thursday, August 28.",
+   "title": "Florence Welch turns 40",
+   "blurb": "Florence + The Machine frontwoman Florence Welch celebrates her 40th birthday on Thursday.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Florence_Welch"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august28.html"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
@@ -695,89 +569,35 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 10s"
     }
    ],
    "angles": [
     {
-     "name": "Happy 40th Florence",
-     "for": "Nation Hits",
-     "copy": "Happy 40th Birthday to the majestic Florence Welch of Florence + The Machine this Thursday! What's your favourite song from her?",
+     "name": "Happy Birthday Florence",
+     "for": "Nation Rocks",
+     "copy": "Happy 40th Birthday for Thursday to the magnificent Florence Welch! What's your favourite Florence + The Machine song to belt out?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "13:00",
      "tags": [
       "#FlorenceWelch"
      ]
     },
     {
-     "name": "Indie icon turns 40",
-     "for": "Nation Rocks",
-     "copy": "From 'Dog Days Are Over' to modern classics – Florence Welch turns 40 on Thursday! Celebrate the Florence + The Machine frontwoman.",
+     "name": "Indie Icon",
+     "for": "Nation Hits",
+     "copy": "Celebrating Florence Welch's 40th this Thursday! Her incredible voice and unique style have given us so many unforgettable moments.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "17:30",
      "tags": [
       "#FlorenceAndTheMachine"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "liam-payne-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Liam Payne is 33 on Friday",
-   "blurb": "English singer Liam Payne, formerly of the immensely popular boy band One Direction, turns 33 on Friday, August 29.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Liam_Payne"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "One Direction star",
-     "for": "Nation Hits",
-     "copy": "Wishing a very Happy 33rd Birthday to Liam Payne this Friday! What's your favourite One Direction or solo track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#LiamPayne"
-     ]
-    },
-    {
-     "name": "33 for Liam",
-     "for": "Nation 00s",
-     "copy": "Can you believe Liam Payne is 33 this Friday? Celebrate the One Direction star's birthday with us!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#OneDirection"
      ]
     }
    ]
@@ -787,8 +607,8 @@
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Van Morrison is 81 on Monday",
-   "blurb": "Northern Irish singer-songwriter Van Morrison, known for his distinctive blend of soul, R&B, and Celtic influences, turns 81 on Monday, August 31.",
+   "title": "Van Morrison turns 81",
+   "blurb": "Legendary Northern Irish singer-songwriter Van Morrison celebrates his 81st birthday on Monday, August 31st.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Van_Morrison"
@@ -800,10 +620,6 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation 60s"
     },
     {
@@ -813,65 +629,9 @@
    ],
    "angles": [
     {
-     "name": "The Bard of Belfast",
+     "name": "The Belfast Cowboy",
      "for": "Nation Classic Hits",
-     "copy": "Happy 81st Birthday to the legendary Van Morrison on Monday! What's your all-time favourite Van the Man song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#VanMorrison"
-     ]
-    },
-    {
-     "name": "Musical icon",
-     "for": "Nation Easy",
-     "copy": "Celebrating 81 years of musical genius! Van Morrison's birthday is Monday – a true icon of our airwaves.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Moondance"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gloria-estefan-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Gloria Estefan is 69 next Tuesday",
-   "blurb": "Cuban-American singer Gloria Estefan, known as the 'Queen of Latin Pop' and frontwoman of Miami Sound Machine, turns 69 next Tuesday, September 1.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Gloria_Estefan"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Latin pop queen",
-     "for": "Nation Easy",
-     "copy": "Get on your feet! The incredible Gloria Estefan turns 69 next Tuesday. What's your favourite Miami Sound Machine hit?",
+     "copy": "Wishing a very Happy 81st Birthday to the incomparable Van Morrison on Monday! From 'Brown Eyed Girl' to 'Moondance', a true musical giant.",
      "channels": [
       "instagram",
       "facebook",
@@ -879,81 +639,20 @@
      ],
      "time": "10:00",
      "tags": [
-      "#GloriaEstefan"
+      "#VanMorrison"
      ]
     },
     {
-     "name": "Rhythm is gonna get you",
-     "for": "Nation Love",
-     "copy": "Wishing a very Happy 69th Birthday to the legendary Gloria Estefan next Tuesday! Her music always makes us 'Conga'!",
+     "name": "Timeless Tunes",
+     "for": "Nation 60s",
+     "copy": "Monday marks Van Morrison's 81st birthday! His enduring influence on rock and soul is undeniable. What's your favourite era of his music?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#MiamiSoundMachine"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "barry-gibb-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Barry Gibb is 80 next Tuesday",
-   "blurb": "British musician, singer, songwriter, and record producer Barry Gibb, best known as a co-founder of the Bee Gees, turns 80 next Tuesday, September 1.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Barry_Gibb"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bee Gees icon",
-     "for": "Nation Classic Hits",
-     "copy": "Happy 80th Birthday to the legendary Barry Gibb of the Bee Gees next Tuesday! What's your favourite Bee Gees track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BarryGibb"
-     ]
-    },
-    {
-     "name": "Disco King",
-     "for": "Nation 70s",
-     "copy": "The 'Stayin' Alive' legend, Barry Gibb, turns 80 next Tuesday! Celebrate the Bee Gees icon with his timeless hits.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#BeeGees"
+      "#MusicLegend"
      ]
     }
    ]
@@ -963,11 +662,11 @@
    "off": 10,
    "type": "birthday",
    "hot": true,
-   "title": "Beyoncé is 45 next Friday",
-   "blurb": "American singer, songwriter, and businesswoman Beyoncé Knowles-Carter celebrates her 45th birthday next Friday, September 4.",
+   "title": "Beyoncé turns 45",
+   "blurb": "Global superstar Beyoncé celebrates her 45th birthday on Friday, September 4th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september4.html"
    },
    "fits": [
     {
@@ -977,18 +676,21 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 10s"
     }
    ],
    "angles": [
     {
-     "name": "Queen Bey's birthday",
+     "name": "Queen Bey",
      "for": "Nation Hits",
-     "copy": "All hail Queen Bey! Beyoncé turns 45 next Friday. Drop your favourite Beyoncé anthem to celebrate!",
+     "copy": "Get ready to celebrate! Queen Bey, Beyoncé, turns 45 this Friday. What's your all-time favourite Beyoncé track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
      "time": "10:00",
      "tags": [
@@ -996,15 +698,14 @@
      ]
     },
     {
-     "name": "Icon turns 45",
+     "name": "Iconic Performer",
      "for": "Nation 00s",
-     "copy": "From Destiny's Child to global superstar, Beyoncé celebrates her 45th birthday next Friday! What an icon.",
+     "copy": "From Destiny's Child to solo superstardom, wishing a very Happy 45th Birthday to Beyoncé on Friday. A true icon!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
       "#QueenBey"
      ]
@@ -1012,114 +713,97 @@
    ]
   },
   {
-   "id": "mark-ronson-bday",
-   "off": 10,
-   "type": "birthday",
+   "id": "welsh-police-charges",
+   "off": 2,
+   "type": "culture",
    "hot": true,
-   "title": "Mark Ronson is 51 next Friday",
-   "blurb": "British-American DJ, songwriter, and record producer Mark Ronson, known for hits like 'Uptown Funk' and his work with Amy Winehouse, turns 51 next Friday, September 4.",
+   "title": "Former South Wales Police Officer in Court",
+   "blurb": "A former South Wales police officer, Rikki Hall, is due to appear in Bristol Magistrates' Court on August 27th, charged with two counts of rape and one count of non-fatal strangulation.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mark_Ronson"
+    "l": "ITV News",
+    "u": "https://www.itv.com/news/wales/2026-08-25/former-south-wales-police-officer-charged-with-rape-and-strangulation"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Producer legend",
-     "for": "Nation Dance",
-     "copy": "Happy 51st Birthday to the super-producer Mark Ronson next Friday! What's your favourite track he's worked on?",
+     "name": "Local Justice",
+     "for": "welsh-local",
+     "copy": "A former South Wales police officer is due in court this Thursday facing serious charges. Developing story in the region.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#MarkRonson"
+      "#SouthWalesPolice"
      ]
     },
     {
-     "name": "Uptown Funk star",
-     "for": "Nation Hits",
-     "copy": "Next Friday, Mark Ronson turns 51! Celebrate the man behind some of the biggest hits of the last two decades.",
+     "name": "Wales News",
+     "for": "dragon",
+     "copy": "Rikki Hall, 33, will appear in court on Thursday following an IOPC investigation. We'll be following the latest on this significant local story.",
      "channels": [
-      "instagram",
-      "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#UptownFunk"
+      "#WalesNews"
      ]
     }
    ]
   },
   {
-   "id": "abba-voyage-london",
+   "id": "exeter-homelessness-funding",
    "off": 0,
-   "type": "gig",
+   "type": "culture",
    "hot": true,
-   "title": "ABBA Voyage Continues in London",
-   "blurb": "The groundbreaking ABBA Voyage concert experience, featuring 'ABBAtars' of the band's prime, continues its run at the custom-built ABBA Arena in London.",
+   "title": "£2m Funding for Exeter Homelessness",
+   "blurb": "Exeter is set to receive almost £2 million in government funding to tackle rough sleeping and help people into accommodation.",
    "source": {
-    "l": "London Theatreland",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5UGrx5yEQNryWCoYNF-HuUxH7lX4O0TcvjsKDtl9k42d7VPZLIVBDHMKveFeAFkOdPsRSoGb6N-ZCEantNiu9wwJBWsspaZOYJA5iJT5fZPU91S4u9mwKWmx6yMjIVAsgEOygsNVkZZAiDPaH4c0Ef_FaTPznH0aMELt8Gq0"
+    "l": "East Devon News",
+    "u": "https://eastdevonnews.co.uk/2026/08/21/government-pledges-2million-to-tackle-rough-sleeping-in-exeter/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Experience the ABBAtars",
-     "for": "Nation Radio London",
-     "copy": "Still haven't seen ABBA Voyage? The incredible 'ABBAtar' concert experience is ongoing in London! Who's been?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ABBAVoyage"
-     ]
-    },
-    {
-     "name": "Timeless ABBA",
-     "for": "Nation Classic Hits",
-     "copy": "Relive the magic of ABBA with the revolutionary ABBA Voyage show in London. A must-see for any fan!",
+     "name": "Exeter Support",
+     "for": "radio-exe",
+     "copy": "Great news for Exeter! The city is getting nearly £2 million in government money to help tackle rough sleeping and support those experiencing homelessness.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "09:30",
      "tags": [
-      "#ABBA"
+      "#ExeterHelp"
+     ]
+    },
+    {
+     "name": "Community Impact",
+     "for": "radio-exe",
+     "copy": "This new £2 million funding for Exeter aims to provide settled homes and wraparound support for people facing long-term homelessness. A vital step for our community.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ExeterCommunity"
      ]
     }
    ]
