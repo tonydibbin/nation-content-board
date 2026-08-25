@@ -1,18 +1,72 @@
 {
- "updated": "2026-08-25T13:39:29.455Z",
+ "updated": "2026-08-25T14:33:01.611Z",
  "moments": [
   {
-   "id": "reading-leeds-2026",
-   "off": 3,
-   "type": "gig",
+   "id": "august-bank-holiday",
+   "off": 6,
+   "type": "seasonal",
    "hot": true,
-   "title": "Reading & Leeds Festival Kicks Off",
-   "blurb": "The iconic Reading & Leeds festivals return this Bank Holiday weekend, August 28-30, with a huge lineup across multiple stages, attracting hundreds of thousands of music fans.",
+   "title": "August Bank Holiday Weekend",
+   "blurb": "The last long weekend of summer for England, Wales, and Northern Ireland arrives, with many making plans for travel and events.",
    "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/august-festivals"
+    "l": "Time and Date",
+    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Travel Alert",
+     "for": "nation-network",
+     "copy": "August Bank Holiday weekend is almost here! Expect busy roads and some rail disruptions, especially around London King's Cross. Plan ahead!",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "Last Taste of Summer",
+     "for": "nation-network",
+     "copy": "Your final chance for a long weekend lie-in before autumn truly kicks in! How are you spending the August Bank Holiday?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SummerVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reading-leeds-festival",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Reading & Leeds Festivals Kick Off",
+   "blurb": "The twin Reading and Leeds Festivals return this Bank Holiday weekend, August 27-30, with headliners including Charli XCX, Dave, Florence + The Machine, and Fontaines D.C.",
+   "source": {
+    "l": "Reading Festival",
+    "u": "https://www.readingfestival.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
@@ -20,55 +74,49 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Festival Vibe",
-     "for": "",
-     "copy": "Reading & Leeds are GO! Who's packing their wellies and ready for a weekend of pure festival madness? Let us know your must-see acts! #RandL26",
+     "name": "Festival Fever",
+     "for": "nation-network",
+     "copy": "Reading & Leeds kicks off this Thursday! Who are you most excited to see? Charli XCX, Dave, Florence + The Machine, Fontaines D.C. – it's a huge line-up!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "08:00",
+     "time": "11:00",
      "tags": [
       "#RandL26"
      ]
     },
     {
-     "name": "Headliner Hype",
-     "for": "Nation Rocks",
-     "copy": "The biggest names in rock and alternative are taking over Reading & Leeds this weekend! Which headliner are you most hyped to see?",
+     "name": "Rock & Pop Weekend",
+     "for": "decades-genres",
+     "copy": "From rock anthems to chart-topping pop, Reading & Leeds has it all this weekend. Get ready for some massive live sets!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "14:00",
      "tags": [
-      "#ReadingFestival",
-      "#LeedsFestival"
+      "#ReadingFestival"
      ]
     }
    ]
   },
   {
-   "id": "creamfields-2026",
+   "id": "creamfields-festival",
    "off": 2,
    "type": "gig",
    "hot": true,
-   "title": "Creamfields Festival Returns",
-   "blurb": "One of the world's leading electronic music festivals, Creamfields, takes over Daresbury Estate from August 27-29, featuring massive DJs and live acts.",
+   "title": "Creamfields Festival Weekend",
+   "blurb": "Creamfields, one of the UK's leading electronic dance music festivals, takes over Daresbury, Cheshire from August 27-30 with Calvin Harris, Swedish House Mafia, and Martin Garrix.",
    "source": {
-    "l": "Ticketmaster UK",
-    "u": "https://www.ticketmaster.co.uk/august-festivals"
+    "l": "Creamfields",
+    "u": "https://creamfields.com/"
    },
    "fits": [
     {
@@ -76,116 +124,50 @@
      "sub": "Nation Dance"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
      "g": "nation-network",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Dance Anthem Countdown",
-     "for": "Nation Dance",
-     "copy": "Creamfields is almost here! What's the one anthem you NEED to hear on the main stage this weekend? Get your predictions in!",
+     "name": "Dance Nation Unite",
+     "for": "decades-genres",
+     "copy": "Creamfields is almost here! Get ready for four days of non-stop beats from Calvin Harris, Swedish House Mafia, Martin Garrix and more. Who's heading to Daresbury?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "09:00",
-     "tags": [
-      "#Creamfields"
-     ]
-    },
-    {
-     "name": "Festival Prep",
-     "for": "",
-     "copy": "From tent pitching to dance moves, who's ready for Creamfields? Send us your festival prep tips!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
+     "time": "12:00",
      "tags": [
       "#Creamfields2026"
      ]
-    }
-   ]
-  },
-  {
-   "id": "august-bank-holiday",
-   "off": 6,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK August Bank Holiday Weekend",
-   "blurb": "The last Monday in August marks the Summer Bank Holiday in England, Wales, and Northern Ireland, creating a long weekend perfect for travel and events.",
-   "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/bank-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
     },
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Long Weekend Plans",
-     "for": "",
-     "copy": "Three-day weekend incoming! What are your big plans for the August Bank Holiday? Road trip, BBQ, or festival fun?",
+     "name": "Festival Countdown",
+     "for": "nation-network",
+     "copy": "The August Bank Holiday weekend means one thing for dance fans: Creamfields! Gates open Thursday for a massive electronic music celebration.",
      "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BankHoliday"
-     ]
-    },
-    {
-     "name": "Local Weekend Events",
-     "for": "radio-exe",
-     "copy": "Devon, what are you getting up to this Bank Holiday weekend? Let us know your favourite local spots and events!",
-     "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "15:00",
      "tags": [
-      "#DevonEvents"
+      "#Daresbury"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-games",
-   "off": 4,
+   "id": "premier-league-matchweek-2",
+   "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Weekend Fixtures",
-   "blurb": "The Premier League season continues with a full schedule of matches across the Bank Holiday weekend, featuring key clashes and rivalries.",
+   "title": "Premier League Matchweek 2 Continues",
+   "blurb": "The second weekend of the Premier League season features Crystal Palace v Manchester City on Friday, Spurs v Newcastle on Saturday, and Aston Villa v Arsenal on Monday.",
    "source": {
-    "l": "Premier League Official Site",
+    "l": "Premier League",
     "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
@@ -196,80 +178,179 @@
    ],
    "angles": [
     {
-     "name": "Match Day Build Up",
-     "for": "",
-     "copy": "It's a Bank Holiday football feast! Which Premier League match are you most looking forward to this weekend? Score predictions, please!",
+     "name": "Football Friday",
+     "for": "nation-network",
+     "copy": "Premier League Matchweek 2 kicks off Friday night with Crystal Palace hosting Manchester City. Who's taking the points?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Fantasy Football Check",
-     "for": "",
-     "copy": "Last-minute Fantasy Football changes for the Bank Holiday fixtures? Who's in your starting XI this weekend?",
-     "channels": [
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#FantasyFootball"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "billy-ray-cyrus-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Billy Ray Cyrus Turns 65",
-   "blurb": "American country music star Billy Ray Cyrus, known for 'Achy Breaky Heart' and co-starring in 'Hannah Montana', celebrates his 65th birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/billy-cyrus.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Achy Breaky Icon",
-     "for": "Nation 90s",
-     "copy": "Happy 65th birthday to the legend that is Billy Ray Cyrus! Still got 'Achy Breaky Heart' on repeat? We definitely do!",
+     "name": "Bank Holiday Football",
+     "for": "nation-network",
+     "copy": "Spurs v Newcastle on Saturday, Aston Villa v Arsenal on Bank Holiday Monday! This weekend's Premier League action is unmissable.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "18:00",
      "tags": [
-      "#BillyRayCyrus"
+      "#PL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gene-simmons-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 77th Birthday, Gene Simmons!",
+   "blurb": "KISS co-founder, bassist, and co-lead vocalist Gene Simmons, known as 'The Demon', celebrates his 77th birthday today.",
+   "source": {
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-25-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Demon's Birthday",
+     "for": "decades-genres",
+     "copy": "Happy 77th Birthday to the one and only Demon, Gene Simmons of KISS! What's your favourite KISS track to crank up?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#GeneSimmons"
      ]
     },
     {
-     "name": "Musical Family",
-     "for": "Nation Easy",
-     "copy": "From country hits to Hollywood fame, Billy Ray Cyrus is 65 today! What's your favourite track from the musical patriarch?",
+     "name": "Rock Legend",
+     "for": "decades-genres",
+     "copy": "The man behind the makeup, Gene Simmons, turns 77 today. A true rock icon!",
+     "channels": [
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#KISS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "elvis-costello-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 72nd Birthday, Elvis Costello!",
+   "blurb": "Influential British singer-songwriter Elvis Costello, known for hits like 'Oliver's Army' and 'Pump It Up', celebrates his 72nd birthday today.",
+   "source": {
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-25-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Wave Icon",
+     "for": "decades-genres",
+     "copy": "Happy 72nd Birthday to the brilliant Elvis Costello! Which of his classic tracks is on your playlist today?",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "13:30",
+     "time": "10:30",
      "tags": [
-      "#CountryMusic"
+      "#ElvisCostello"
+     ]
+    },
+    {
+     "name": "Songwriter's Birthday",
+     "for": "decades-genres",
+     "copy": "Celebrating the enduring artistry of Elvis Costello on his 72nd birthday. A true master of lyrics and melody.",
+     "channels": [
+      "instagram"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#NewWave"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rob-halford-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 75th Birthday, Rob Halford!",
+   "blurb": "The 'Metal God' himself, Judas Priest frontman Rob Halford, known for his powerful vocals and iconic stage presence, turns 75 today.",
+   "source": {
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-25-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal God's Day",
+     "for": "decades-genres",
+     "copy": "Raise your horns! Happy 75th Birthday to the legendary Rob Halford from Judas Priest!",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RobHalford"
+     ]
+    },
+    {
+     "name": "Judas Priest Icon",
+     "for": "decades-genres",
+     "copy": "Celebrating the incredible vocal talent and influence of Rob Halford on his 75th birthday. What's your favourite Judas Priest song?",
+     "channels": [
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#MetalGod"
      ]
     }
    ]
@@ -278,12 +359,12 @@
    "id": "shirley-manson-bday",
    "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Shirley Manson Turns 60",
-   "blurb": "Scottish singer-songwriter Shirley Manson, lead vocalist of the iconic alternative rock band Garbage, celebrates her 60th birthday tomorrow.",
+   "hot": true,
+   "title": "Happy 60th Birthday, Shirley Manson!",
+   "blurb": "Scottish singer and Garbage frontwoman Shirley Manson, known for her distinctive vocals and fierce stage persona, celebrates her 60th birthday tomorrow.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
+    "l": "Famous Musicians' Birthdays",
+    "u": "https://www.famousbirthdays.com/musician/shirley-manson.html"
    },
    "fits": [
     {
@@ -298,30 +379,82 @@
    "angles": [
     {
      "name": "Garbage Queen",
-     "for": "Nation Rocks",
-     "copy": "The incredible Shirley Manson turns 60 tomorrow! What's your all-time favourite Garbage track to celebrate the Scottish rock icon?",
+     "for": "decades-genres",
+     "copy": "Wishing a very Happy 60th Birthday to the iconic Shirley Manson of Garbage tomorrow! Still rocking as hard as ever.",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "16:00",
+     "time": "19:00",
      "tags": [
-      "#ShirleyManson",
-      "#Garbage"
+      "#ShirleyManson"
      ]
     },
     {
-     "name": "90s Icon",
-     "for": "Nation 90s",
-     "copy": "Celebrating the fierce and unforgettable Shirley Manson, who's 60 tomorrow! Her influence on '90s alternative rock is undeniable.",
+     "name": "90s Alt-Rock Star",
+     "for": "decades-genres",
+     "copy": "Shirley Manson turns 60 tomorrow! What's your favourite track from Garbage?",
      "channels": [
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "18:00",
+     "time": "20:00",
      "tags": [
-      "#90sMusic"
+      "#Garbage"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shania-twain-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 61st Birthday, Shania Twain!",
+   "blurb": "The 'Queen of Country Pop' Shania Twain, known for global hits like 'Man! I Feel Like A Woman!' and 'That Don't Impress Me Much', celebrates her 61st birthday on August 28.",
+   "source": {
+    "l": "Famous Musicians' Birthdays",
+    "u": "https://www.famousbirthdays.com/musician/shania-twain.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Country Pop Queen",
+     "for": "decades-genres",
+     "copy": "Man! She feels like a woman, and she's turning 61! Happy Birthday to the incredible Shania Twain on August 28th!",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ShaniaTwain"
+     ]
+    },
+    {
+     "name": "Still the One",
+     "for": "decades-genres",
+     "copy": "Celebrating the enduring legacy of Shania Twain as she turns 61. What's your go-to Shania anthem?",
+     "channels": [
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#QueenOfCountryPop"
      ]
     }
    ]
@@ -330,12 +463,12 @@
    "id": "florence-welch-bday",
    "off": 3,
    "type": "birthday",
-   "hot": false,
-   "title": "Florence Welch Turns 40",
-   "blurb": "English singer Florence Welch, the captivating frontwoman of Florence + The Machine, celebrates her 40th birthday on Thursday.",
+   "hot": true,
+   "title": "Happy 40th Birthday, Florence Welch!",
+   "blurb": "Florence Welch, the captivating frontwoman of Florence + The Machine, known for her powerful vocals and ethereal style, turns 40 on August 28.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/florence-welch.html"
+    "l": "Famous Musicians' Birthdays",
+    "u": "https://www.famousbirthdays.com/musician/florence-welch.html"
    },
    "fits": [
     {
@@ -353,28 +486,27 @@
    ],
    "angles": [
     {
-     "name": "Indie Queen",
-     "for": "Nation Hits",
-     "copy": "Happy 40th birthday to the phenomenal Florence Welch on Thursday! What Florence + The Machine song gets you every time?",
+     "name": "Indie Icon",
+     "for": "decades-genres",
+     "copy": "Happy 40th Birthday to the magnificent Florence Welch of Florence + The Machine on August 28th! What's your favourite track from her?",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "10:00",
+     "time": "11:30",
      "tags": [
       "#FlorenceWelch"
      ]
     },
     {
-     "name": "Lyrical Genius",
-     "for": "Nation Rocks",
-     "copy": "From 'Dog Days Are Over' to 'Shake It Out', Florence Welch turns 40 this week! Celebrate her incredible songwriting with us.",
+     "name": "Big Voice Big Day",
+     "for": "decades-genres",
+     "copy": "The incredibly talented Florence Welch celebrates her 40th this week! Send her some birthday love.",
      "channels": [
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "14:00",
+     "time": "16:30",
      "tags": [
       "#FlorenceAndTheMachine"
      ]
@@ -382,17 +514,71 @@
    ]
   },
   {
-   "id": "shania-twain-bday",
-   "off": 3,
+   "id": "ryan-ross-bday",
+   "off": 5,
    "type": "birthday",
-   "hot": false,
-   "title": "Shania Twain Turns 61",
-   "blurb": "The 'Queen of Country Pop', Canadian superstar Shania Twain, known for hits like 'Man! I Feel Like a Woman!', celebrates her 61st birthday on Thursday.",
+   "hot": true,
+   "title": "Happy 40th Birthday, Ryan Ross!",
+   "blurb": "Former Panic! At The Disco guitarist and lyricist Ryan Ross, a key figure in their early sound, celebrates his 40th birthday on August 30.",
    "source": {
-    "l": "National Today",
-    "u": "https://nationaltoday.com/shania-twain-birthday/"
+    "l": "idobi Radio",
+    "u": "https://idobi.com/features/12-alternative-musicians-celebrating-birthdays-this-august/"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Panic! Legend",
+     "for": "decades-genres",
+     "copy": "Happy 40th Birthday to Ryan Ross, formerly of Panic! At The Disco, on August 30th! What's your favourite early P!ATD track?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#RyanRoss"
+     ]
+    },
+    {
+     "name": "Emo Icon Turns 40",
+     "for": "decades-genres",
+     "copy": "Celebrating Ryan Ross's 40th this weekend! His songwriting shaped a generation of alternative music.",
+     "channels": [
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#PanicAtTheDisco"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gloria-estefan-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 69th Birthday, Gloria Estefan!",
+   "blurb": "Cuban-American singer Gloria Estefan, known for her Latin pop fusion with Miami Sound Machine and her solo career, turns 69 on September 1. ",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gloria_Estefan"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
@@ -408,141 +594,178 @@
    ],
    "angles": [
     {
-     "name": "Country Pop Queen",
-     "for": "Nation 90s",
-     "copy": "Happy 61st birthday to the one and only Shania Twain this Thursday! What's your favourite Shania anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ShaniaTwain"
-     ]
-    },
-    {
-     "name": "From This Moment On",
-     "for": "Nation Love",
-     "copy": "Feeling like a woman! Shania Twain turns 61 on Thursday. Send us your favourite love song by the country legend!",
+     "name": "Conga Queen",
+     "for": "decades-genres",
+     "copy": "Get On Your Feet! Happy 69th Birthday to the incredible Gloria Estefan on September 1st! What's your favourite track? ",
      "channels": [
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "15:00",
-     "tags": [
-      "#CountryPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "van-morrison-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": false,
-   "title": "Van Morrison Turns 81",
-   "blurb": "Northern Irish singer-songwriter and legend Van Morrison, famous for 'Brown Eyed Girl' and 'Moondance', celebrates his 81st birthday on Monday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Van_Morrison"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Music Legend",
-     "for": "Nation Classic Hits",
-     "copy": "Happy 81st birthday to the iconic Van Morrison on Monday! Which of his timeless tracks is your absolute favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#VanMorrison"
-     ]
-    },
-    {
-     "name": "Brown Eyed Girl",
-     "for": "Nation 60s",
-     "copy": "Celebrating 81 years of the inimitable Van Morrison this Monday! Still getting down to 'Brown Eyed Girl'?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#60sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gloria-estefan-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": false,
-   "title": "Gloria Estefan Turns 69",
-   "blurb": "Cuban-American superstar Gloria Estefan, the 'Queen of Latin Pop' and lead singer of Miami Sound Machine, celebrates her 69th birthday next Tuesday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Gloria_Estefan"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Get On Your Feet",
-     "for": "Nation 80s",
-     "copy": "Get on your feet and celebrate! The incredible Gloria Estefan turns 69 next Tuesday. What's your favourite Miami Sound Machine hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
+     "time": "09:30",
      "tags": [
       "#GloriaEstefan"
      ]
     },
     {
-     "name": "Latin Pop Queen",
-     "for": "Nation Easy",
-     "copy": "Wishing a very happy 69th birthday to the legendary Gloria Estefan next week! Her voice is pure sunshine.",
+     "name": "Latin Pop Legend",
+     "for": "decades-genres",
+     "copy": "Celebrating the timeless music of Gloria Estefan as she turns 69. A true icon! ",
+     "channels": [
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#MiamiSoundMachine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gbbo-returns",
+   "off": 30,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off Returns",
+   "blurb": "Season 16 of The Great British Bake Off is set to return to Channel 4 on Tuesday, September 24, with Nigella Lawson joining as a new judge.",
+   "source": {
+    "l": "The Cake & Bake Show",
+    "u": "https://www.thecakeandbakeshow.co.uk/bake-off-is-back-the-cake-bake-show-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off Is Back",
+     "for": "nation-network",
+     "copy": "Get your spatulas ready! The Great British Bake Off returns to Channel 4 on September 24th, with Nigella Lawson joining Paul Hollywood in the tent!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "New Judge Alert",
+     "for": "nation-network",
+     "copy": "Nigella Lawson in the Bake Off tent? Yes please! The new series starts September 24th. Who's excited for soggy bottoms and showstoppers?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#BakeOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-come-dancing-launch",
+   "off": 25,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing Launch Show",
+   "blurb": "The pre-recorded launch show for Strictly Come Dancing 2026 is expected to air on BBC One on Saturday, September 19, revealing the celebrity-pro pairings.",
+   "source": {
+    "l": "BBC",
+    "u": "https://www.bbc.co.uk/programmes/b006m8dq"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly Is Back!",
+     "for": "nation-network",
+     "copy": "Dust off your dancing shoes! The Strictly Come Dancing launch show is expected to hit our screens September 19th! Who are you hoping to see paired up?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#StrictlyComeDancing"
+     ]
+    },
+    {
+     "name": "New Hosts, New Season",
+     "for": "nation-network",
+     "copy": "Emma Willis, Josh Widdicombe, and Johannes Radebe take the helm for Strictly 2026! Catch the launch show September 19th.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#Strictly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Official Singles Chart Top 40 Update",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' holds the UK Official Singles Chart Number 1 spot for an impressive 22nd week.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Reign",
+     "for": "decades-genres",
+     "copy": "22 WEEKS AT NUMBER 1! Sam Fender & Olivia Dean are still dominating the Official Singles Chart with 'Rein Me In'. Can anyone stop them?",
      "channels": [
       "facebook",
       "x",
-      "threads"
+      "instagram",
+      "tiktok"
      ],
-     "time": "14:30",
+     "time": "10:00",
      "tags": [
-      "#LatinPop"
+      "#OfficialChart"
+     ]
+    },
+    {
+     "name": "New Music & Movers",
+     "for": "decades-genres",
+     "copy": "Beyond the top spot, the Official Singles Chart is buzzing with new entries and big movers this week! What's your favourite new track?",
+     "channels": [
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#UKChart"
      ]
     }
    ]
@@ -551,12 +774,12 @@
    "id": "beyonce-bday",
    "off": 10,
    "type": "birthday",
-   "hot": false,
-   "title": "Beyoncé Turns 45",
-   "blurb": "Global icon Beyoncé, the 'Queen Bey' herself, celebrates her 45th birthday next Friday.",
+   "hot": true,
+   "title": "Happy 45th Birthday, Beyoncé!",
+   "blurb": "Global superstar and cultural icon Beyoncé, known for her groundbreaking music and performances, celebrates her 45th birthday on September 4. ",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/beyonce.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Beyoncé"
    },
    "fits": [
     {
@@ -578,9 +801,9 @@
    ],
    "angles": [
     {
-     "name": "Queen Bey",
-     "for": "Nation Hits",
-     "copy": "All hail Queen Bey! The incomparable Beyoncé turns 45 next Friday. What's your ultimate Beyoncé power anthem?",
+     "name": "Queen Bey's Birthday",
+     "for": "decades-genres",
+     "copy": "All hail Queen Bey! The legendary Beyoncé turns 45 on September 4th. What's your ultimate Beyoncé anthem? ",
      "channels": [
       "instagram",
       "facebook",
@@ -588,235 +811,21 @@
       "tiktok",
       "threads"
      ],
-     "time": "08:30",
+     "time": "09:00",
      "tags": [
       "#Beyonce"
      ]
     },
     {
-     "name": "Iconic Career",
-     "for": "Nation 00s",
-     "copy": "From Destiny's Child to solo superstardom, Beyoncé is 45 next week! Celebrate her incredible career with your favourite throwback track.",
+     "name": "Icon Turns 45",
+     "for": "decades-genres",
+     "copy": "Celebrating the one and only Beyoncé as she approaches her 45th birthday. Her influence is undeniable! ",
      "channels": [
-      "facebook",
       "x"
      ],
-     "time": "16:30",
+     "time": "13:00",
      "tags": [
       "#QueenBey"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mark-ronson-bday",
-   "off": 10,
-   "type": "birthday",
-   "hot": false,
-   "title": "Mark Ronson Turns 51",
-   "blurb": "Grammy-winning British-American DJ, songwriter, and producer Mark Ronson, known for 'Uptown Funk' and his work with Amy Winehouse, celebrates his 51st birthday next Friday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mark_Ronson"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Uptown Funk",
-     "for": "Nation Dance",
-     "copy": "Get ready to 'Uptown Funk'! The brilliant Mark Ronson turns 51 next Friday. What's your favourite track he's produced?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#MarkRonson"
-     ]
-    },
-    {
-     "name": "Production Wizard",
-     "for": "Nation Hits",
-     "copy": "Celebrating the genius of Mark Ronson, who's 51 next week! From Amy Winehouse to Bruno Mars, his touch is golden.",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#MusicProducer"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "back-to-school-uk",
-   "off": 7,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Back To School Season Begins",
-   "blurb": "As the August Bank Holiday passes, many children across the UK will be preparing to return to school in the first week of September.",
-   "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-dates-and-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Summer's End",
-     "for": "",
-     "copy": "The long summer holidays are drawing to a close! Who's ready for back to school? (Parents, we see you!)",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "07:30",
-     "tags": [
-      "#BackToSchool"
-     ]
-    },
-    {
-     "name": "School Run Prep",
-     "for": "",
-     "copy": "Uniforms ironed, lunchboxes packed? The great back-to-school scramble begins! Any tips for a smooth return?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#SchoolHolidays"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-bake-off-launch",
-   "off": 7,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly & Bake Off Season Launches",
-   "blurb": "Anticipation builds as popular TV shows like 'Strictly Come Dancing' and 'The Great British Bake Off' are expected to launch their new series around the first week of September.",
-   "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/tv/what-to-watch"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Autumn TV Kicks Off",
-     "for": "",
-     "copy": "Glitterballs and soggy bottoms! Autumn TV is about to kick off with the return of Strictly and Bake Off. Which are you tuning into?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Strictly",
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "Bake Off Buzz",
-     "for": "Nation Easy",
-     "copy": "The tent is open! Who's excited for new bakers and even more incredible creations on The Great British Bake Off?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ariana-grande-london",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Ariana Grande's London Residency Continues",
-   "blurb": "Ariana Grande continues her ten-night 'Eternal Sunshine Tour' residency at The O2 in London this week, with multiple dates including August 27, 28, and 31.",
-   "source": {
-    "l": "London Theatreland",
-    "u": "https://www.londontheatreland.com/london-events/concerts"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Ariana Live",
-     "for": "Nation Hits",
-     "copy": "London Arianators, get ready! @ArianaGrande's 'Eternal Sunshine Tour' residency at The O2 continues this week. Who's got tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ArianaGrande",
-      "#EternalSunshineTour"
-     ]
-    },
-    {
-     "name": "O2 Buzz",
-     "for": "Nation Radio London",
-     "copy": "The O2 is buzzing with @ArianaGrande this week! If you're heading to the show, what's your favourite track from 'Eternal Sunshine'?",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#TheO2"
      ]
     }
    ]
