@@ -1,26 +1,18 @@
 {
- "updated": "2026-08-25T21:15:22.140Z",
+ "updated": "2026-08-25T22:12:53.008Z",
  "moments": [
   {
-   "id": "reading-leeds-2026",
-   "off": 3,
-   "type": "gig",
+   "id": "uk-summer-bank-holiday-2026",
+   "off": 6,
+   "type": "seasonal",
    "hot": true,
-   "title": "Reading & Leeds Festival Kicks Off",
-   "blurb": "The iconic Reading & Leeds festivals return this Bank Holiday weekend, bringing together huge names in rock, indie, and alternative music.",
+   "title": "Summer Bank Holiday Weekend",
+   "blurb": "The last Monday of August marks the Summer Bank Holiday in England, Wales and Northern Ireland, providing a long weekend to wrap up the summer season.",
    "source": {
-    "l": "Reading & Leeds Festival Official Site",
-    "u": "https://www.readingfestival.com/"
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
     {
      "g": "nation-network",
      "sub": ""
@@ -28,8 +20,8 @@
    ],
    "angles": [
     {
-     "name": "Festival Buzz",
-     "copy": "Reading & Leeds is HERE! Who are you buzzing to see on stage this weekend?",
+     "name": "General Excitement",
+     "copy": "Three-day weekend incoming! The Summer Bank Holiday is almost here, how are you planning to make the most of it?",
      "channels": [
       "instagram",
       "facebook",
@@ -39,12 +31,98 @@
      ],
      "time": "08:00",
      "tags": [
-      "#RandL26"
+      "#BankHoliday"
      ]
     },
     {
-     "name": "Live Music Vibe",
-     "copy": "Festival season peaks this Bank Holiday with Reading & Leeds. What's your ultimate festival anthem?",
+     "name": "Travel/Plans",
+     "copy": "Long weekend travel plans? Remember the Summer Bank Holiday on Monday might mean busier roads and public transport. Plan ahead!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BankHolidayWeekend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-heatwave-aug2026",
+   "off": 1,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Hot Weather Returns",
+   "blurb": "Parts of the UK, especially the South East and Greater London, are set for another spell of hot weather this week, with temperatures potentially reaching up to 29C.",
+   "source": {
+    "l": "Met Office / AccuWeather",
+    "u": "https://www.accuweather.com/en/gb/london/ec4a-2/august-weather/328328"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Heatwave Alert",
+     "for": "Nation Radio London",
+     "copy": "Another mini-heatwave for London and the South East! Temperatures climbing to 29C this week. Stay cool and hydrated!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#LondonHeatwave"
+     ]
+    },
+    {
+     "name": "General UK Weather",
+     "copy": "Summer's not over yet! Hot weather is making a comeback across parts of the UK this week, with some areas hitting the high 20s. Perfect for those last BBQs.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#UKWeather"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-aug28",
+   "off": 3,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Friday Night Football",
+   "blurb": "Matchweek 2 of the Premier League continues this Friday, August 28, with Crystal Palace hosting Manchester City.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Build-up",
+     "copy": "Friday Night Football is back! Crystal Palace take on Manchester City this Friday. Who's taking home the points?",
      "channels": [
       "instagram",
       "facebook",
@@ -52,32 +130,35 @@
      ],
      "time": "12:00",
      "tags": [
-      "#ReadingFestival",
-      "#LeedsFestival"
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Prediction Call",
+     "copy": "Crystal Palace vs Man City on Friday. Big test for both sides early in the season. Your predictions?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#CPFC #MCFC"
      ]
     }
    ]
   },
   {
-   "id": "creamfields-2026",
-   "off": 2,
-   "type": "gig",
+   "id": "premier-league-aug29",
+   "off": 4,
+   "type": "sport",
    "hot": true,
-   "title": "Creamfields Takes Over Cheshire",
-   "blurb": "Creamfields, one of the UK's biggest electronic dance music festivals, returns to Daresbury, Cheshire this Bank Holiday weekend with a massive line-up.",
+   "title": "Premier League Saturday Showdowns",
+   "blurb": "A busy Saturday for the Premier League on August 29, featuring Liverpool vs Nottingham Forest, Bournemouth vs Everton, Coventry vs Hull, and Spurs vs Newcastle.",
    "source": {
-    "l": "Creamfields Official Site",
-    "u": "https://creamfields.com/"
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
     {
      "g": "nation-network",
      "sub": ""
@@ -85,8 +166,200 @@
    ],
    "angles": [
     {
-     "name": "Dance Anthem Countdown",
-     "copy": "Creamfields is about to drop! Who's ready for a weekend of non-stop dance anthems and epic sets in Cheshire?",
+     "name": "Saturday Kick-offs",
+     "copy": "Premier League Saturday is packed! Liverpool, Spurs, Bournemouth, Coventry all in action. Which game are you most excited for?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PL"
+     ]
+    },
+    {
+     "name": "Team Focus",
+     "copy": "Can Liverpool bounce back against Nottingham Forest on Saturday? Huge games across the Premier League!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#LFC #COYS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-aug30-31",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Sunday & Bank Holiday Monday",
+   "blurb": "Premier League action continues Sunday, August 30 with Chelsea vs Brighton, Leeds vs Brentford, Sunderland vs Fulham, and Man Utd vs Ipswich. The week concludes on Bank Holiday Monday, August 31, with Aston Villa vs Arsenal.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Weekend Wrap-up",
+     "copy": "Your Premier League weekend isn't over! Sunday sees Chelsea, Man Utd and Leeds in action, then a Bank Holiday Monday clash: Aston Villa vs Arsenal!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Monday Night Football",
+     "copy": "What a way to end the Bank Holiday weekend! Aston Villa vs Arsenal on Monday night. Who's got the edge?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#AVFC #AFC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "efl-cup-aug25",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "EFL Cup Second Round Tonight",
+   "blurb": "The EFL Cup (Carabao Cup) Second Round kicks off tonight, August 25, with Nottingham Forest facing Leeds United live on ITV1 and Sky Sports Football.",
+   "source": {
+    "l": "Sky Sports",
+    "u": "https://www.skysports.com/carabao-cup-fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cup Action",
+     "copy": "Tonight's the night for cup football! Nottingham Forest vs Leeds United in the EFL Cup Second Round. Who's progressing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#CarabaoCup"
+     ]
+    },
+    {
+     "name": "Broadcast Info",
+     "copy": "Catch Nottingham Forest vs Leeds United live on ITV1 and Sky Sports Football tonight in the EFL Cup! Don't miss it.",
+     "channels": [
+      "x"
+     ],
+     "time": "18:30",
+     "tags": [
+      "#NFFC #LUFC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sam-fender-olivia-dean-rein-me-in",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean Hold UK #1",
+   "blurb": "Sam Fender and Olivia Dean's collaboration 'Rein Me In' maintains its record-breaking run at #1 on the Official UK Singles Chart for a 22nd non-consecutive week.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Dominance",
+     "copy": "Unstoppable! Sam Fender & Olivia Dean's 'Rein Me In' makes it 22 weeks at UK #1. An absolute phenomenon!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#UKChart"
+     ]
+    },
+    {
+     "name": "Artist Shout-out",
+     "copy": "Huge congrats to Sam Fender & Olivia Dean! 'Rein Me In' is still dominating the charts. What a track!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#SamFender #OliviaDean"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ariana-grande-o2-london",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Ariana Grande's O2 Residency Continues",
+   "blurb": "Ariana Grande's 'The Eternal Sunshine Tour' residency at London's O2 Arena continues this week with shows on August 27, 28, 31, and September 1.",
+   "source": {
+    "l": "The O2 Arena",
+    "u": "https://www.theo2.co.uk/events/detail/ariana-grande"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London Gig Buzz",
+     "for": "Nation Radio London",
+     "copy": "Ariana Grande fans, get ready! Her 'Eternal Sunshine' residency at the O2 continues this week. Who's heading to see her?",
      "channels": [
       "instagram",
       "facebook",
@@ -94,14 +367,14 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "10:30",
      "tags": [
-      "#Creamfields2026"
+      "#ArianaGrande #TheO2"
      ]
     },
     {
-     "name": "Festival Mode Activated",
-     "copy": "Sun's out, beats are loud: Creamfields is ON this Bank Holiday weekend! What's your favourite dance track to get the party started?",
+     "name": "Pop Event",
+     "copy": "The pop event of the summer is still going strong! Ariana Grande's London O2 dates this week are unmissable.",
      "channels": [
       "instagram",
       "facebook",
@@ -109,256 +382,136 @@
      ],
      "time": "14:00",
      "tags": [
-      "#DanceMusic",
-      "#FestivalVibes"
+      "#EternalSunshineTour"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-matchweek3",
-   "off": 4,
-   "type": "sport",
+   "id": "bon-jovi-uk-tour",
+   "off": 3,
+   "type": "gig",
    "hot": true,
-   "title": "Premier League Matchweek 3",
-   "blurb": "The Premier League season continues with Matchweek 3 fixtures taking place across Saturday and Sunday.",
+   "title": "Bon Jovi Return to UK Stages",
+   "blurb": "Rock legends Bon Jovi are back in the UK for their 'Forever Tour', with dates in London and Edinburgh from August 28 to September 4.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/fixtures"
+    "l": "Live Nation",
+    "u": "https://www.livenation.co.uk/artist-bon-jovi-363"
    },
    "fits": [
     {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio London"
     },
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Weekend Football",
-     "copy": "Premier League Matchweek 3 is here! Which game are you most looking forward to this weekend?",
+     "name": "Rock Legends",
+     "copy": "It's happening! Bon Jovi are bringing their 'Forever Tour' to the UK this week in London and Edinburgh. Get ready to rock!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#PremierLeague"
+      "#BonJovi"
      ]
     },
     {
-     "name": "Score Predictions",
-     "copy": "It's a big weekend for Premier League football. Drop your score predictions below!",
+     "name": "Concert Excitement",
+     "for": "Nation Rocks",
+     "copy": "Living on a Prayer and heading to see Bon Jovi? The rock giants are playing London and Edinburgh this week!",
      "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RockMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jack-white-uk-gigs",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Jack White UK Dates",
+   "blurb": "Jack White is performing live in the UK this week, with shows at Eventim Apollo London (August 25, 26) and O2 City Hall Newcastle (August 29).",
+   "source": {
+    "l": "PhotoPitLive",
+    "u": "https://photopitlive.com/gig-guide/august-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Indie Rocker",
+     "copy": "Jack White takes to the stage in London tonight and tomorrow, then Newcastle on Saturday! Who's catching the rock icon live?",
+     "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "16:00",
      "tags": [
-      "#PL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gbbo-returns",
-   "off": 7,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off Returns",
-   "blurb": "The Great British Bake Off is set to return to Channel 4 for a brand new series in early September.",
-   "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Excitement",
-     "copy": "Get your spatulas ready! The Great British Bake Off is back on Channel 4 this week. Who's excited for soggy bottoms and showstoppers?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#GBBO"
+      "#JackWhite"
      ]
     },
     {
-     "name": "Baking Craze",
-     "copy": "Bake Off returns! What's the one thing you'd LOVE to bake in the tent?",
+     "name": "Live Music Alert",
+     "for": "Nation Rocks",
+     "copy": "From White Stripes to solo brilliance, Jack White is playing London and Newcastle this week. Expect an electrifying show!",
      "channels": [
-      "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "19:00",
      "tags": [
-      "#BakeOff"
+      "#LiveMusic"
      ]
     }
    ]
   },
   {
-   "id": "august-bank-holiday",
-   "off": 6,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August Bank Holiday Monday",
-   "blurb": "The August Bank Holiday provides a welcome long weekend across England, Wales, and Northern Ireland.",
-   "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/bank-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Long Weekend Plans",
-     "copy": "Happy Bank Holiday Monday! How are you spending your extra day off?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BankHoliday"
-     ]
-    },
-    {
-     "name": "Bank Holiday Vibes",
-     "copy": "Three-day weekend activated! What's on your Bank Holiday soundtrack?",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#LongWeekend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "back-to-school",
-   "off": 8,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Back to School Week",
-   "blurb": "Schools across England and Wales are preparing to welcome pupils back for the new academic year in early September.",
-   "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-dates-and-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "School's Out For Summer (Almost)",
-     "copy": "It's almost back to school time for many! Are you ready for the new term, or still clinging to summer?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#BackToSchool"
-     ]
-    },
-    {
-     "name": "New Term Excitement",
-     "copy": "New school year, new beginnings! What's the one thing you're looking forward to most this term?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#SchoolLife"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shania-twain-birthday",
+   "id": "pulp-manchester-gig",
    "off": 3,
-   "type": "birthday",
+   "type": "gig",
    "hot": true,
-   "title": "Happy 61st to Shania Twain",
-   "blurb": "Canadian country-pop superstar Shania Twain turns 61 on August 28th, known for hits like 'Man! I Feel Like A Woman!' and 'That Don't Impress Me Much'.",
+   "title": "Pulp Live in Manchester",
+   "blurb": "Britpop legends Pulp are performing at Wythenshawe Park in Manchester on Friday, August 28, for a major outdoor concert.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
+    "l": "Gigsandtours",
+    "u": "https://www.gigsandtours.com/tour/pulp"
    },
    "fits": [
     {
@@ -367,276 +520,344 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen of Country Pop",
-     "copy": "Happy 61st Birthday to the one and only Queen of Country Pop, Shania Twain! What's your favourite Shania anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ShaniaTwain"
-     ]
-    },
-    {
-     "name": "Shania's Hits",
-     "copy": "Let's go girls! Celebrating Shania Twain's 61st today. Turn it up for a true music icon!",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#CountryPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bebe-rexha-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 37th to Bebe Rexha",
-   "blurb": "American singer and songwriter Bebe Rexha celebrates her 37th birthday on August 30th, known for global hits like 'I'm Good (Blue)' and 'Meant to Be'.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bebe_Rexha"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Banger Birthday",
-     "copy": "Wishing a very Happy 37th Birthday to the incredible Bebe Rexha! What's your go-to Bebe track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BebeRexha"
-     ]
-    },
-    {
-     "name": "Celebrating Bebe",
-     "copy": "Get ready to party! It's Bebe Rexha's 37th Birthday today. We're playing her biggest hits to celebrate!",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "van-morrison-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 81st to Van Morrison",
-   "blurb": "Northern Irish music legend Van Morrison turns 81 on August 31st, celebrated for his distinctive voice and extensive catalogue including 'Brown Eyed Girl' and 'Moondance'.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Van_Morrison"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Music Legend",
-     "copy": "Wishing a very Happy 81st Birthday to the incomparable Van Morrison! What's your favourite track from the Belfast Cowboy?",
+     "name": "Britpop Icon",
+     "copy": "Common People, get ready! Pulp are playing Wythenshawe Park, Manchester this Friday. Who's going to see Jarvis and co.?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#VanMorrison"
+      "#Pulp #Britpop"
      ]
     },
     {
-     "name": "Van The Man",
-     "copy": "Celebrate the enduring legacy of Van Morrison on his 81st Birthday today. Tune in for a selection of his greatest hits!",
+     "name": "Manchester Gig",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Manchester is buzzing! Pulp are in Wythenshawe Park this Friday. Expect all the classics!",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "13:00",
+     "time": "14:00",
      "tags": [
-      "#ClassicRock"
+      "#ManchesterGigs"
      ]
     }
    ]
   },
   {
-   "id": "barry-gibb-birthday",
-   "off": 7,
-   "type": "birthday",
+   "id": "sonu-nigam-wembley",
+   "off": 4,
+   "type": "gig",
    "hot": true,
-   "title": "Happy 80th to Barry Gibb",
-   "blurb": "Bee Gees co-founder and music icon Sir Barry Gibb celebrates his 80th birthday on September 1st, known for his unique falsetto and songwriting.",
+   "title": "Sonu Nigam at Wembley Arena",
+   "blurb": "Bollywood playback singer Sonu Nigam brings his spectacular live show to London's OVO Arena Wembley on Saturday, August 29.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Barry_Gibb"
+    "l": "OVO Arena Wembley",
+    "u": "https://www.ovoarena.co.uk/events/detail/sonu-nigam"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Bee Gees Icon",
-     "copy": "Happy 80th Birthday to the legendary Sir Barry Gibb! What's your all-time favourite Bee Gees song?",
+     "name": "Bollywood Star",
+     "for": "Nation Radio London",
+     "copy": "Global superstar Sonu Nigam is at Wembley Arena this Saturday! A night of timeless Bollywood hits awaits.",
      "channels": [
       "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BarryGibb"
-     ]
-    },
-    {
-     "name": "Falsetto King",
-     "copy": "Celebrating the enduring talent of Barry Gibb on his 80th Birthday today. Let's hear it for the voice behind so many classics!",
-     "channels": [
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "11:30",
      "tags": [
-      "#BeeGees"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "redfoo-birthday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 51st to Redfoo (LMFAO)",
-   "blurb": "Redfoo, one half of the electro-pop duo LMFAO, celebrates his 51st birthday on September 3rd, famous for 'Party Rock Anthem' and 'Sexy and I Know It'.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Redfoo"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Party Rock Birthday",
-     "copy": "It's Redfoo's 51st Birthday! Get ready to party rock with some classic LMFAO hits to celebrate!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Redfoo",
-      "#LMFAO"
+      "#SonuNigam #Bollywood"
      ]
     },
     {
-     "name": "Shake That!",
-     "copy": "Happy Birthday to Redfoo! What's your favourite LMFAO banger to get you on the dance floor?",
+     "name": "Cultural Event",
+     "copy": "Experience the magic of Sonu Nigam live at Wembley on Saturday. Celebrating decades of iconic music!",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "16:00",
      "tags": [
-      "#PartyRock"
+      "#Wembley"
      ]
     }
    ]
   },
   {
-   "id": "beyonce-birthday",
-   "off": 10,
+   "id": "great-british-sewing-bee-final",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "The Great British Sewing Bee Final",
+   "blurb": "The highly anticipated final of The Great British Sewing Bee airs tonight, August 25, on BBC One.",
+   "source": {
+    "l": "BBC One",
+    "u": "https://www.bbc.co.uk/programmes/b08709f7"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "TV Tonight",
+     "copy": "Who will be crowned Britain's best amateur sewer? The Great British Sewing Bee Final is on BBC One tonight!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#SewingBee"
+     ]
+    },
+    {
+     "name": "Finale Excitement",
+     "copy": "It's the grand finale! Get your needles ready, The Great British Sewing Bee concludes tonight.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#GBBSB"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-murder-detective-c4",
+   "off": 1,
+   "type": "tv",
+   "hot": true,
+   "title": "The Murder Detective Begins",
+   "blurb": "A new three-part documentary series, 'The Murder Detective', begins Wednesday, August 26, on Channel 4, delving into a real-life murder investigation.",
+   "source": {
+    "l": "Channel 4",
+    "u": "https://www.channel4.com/programmes/the-murder-detectives"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New True Crime",
+     "copy": "Gripping new true-crime alert! 'The Murder Detective' starts tomorrow on Channel 4. Are you ready?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#TrueCrime #Channel4"
+     ]
+    },
+    {
+     "name": "Documentary Watch",
+     "copy": "Channel 4's new series 'The Murder Detective' promises an inside look at a major investigation, starting Wednesday.",
+     "channels": [
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#TVWatch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gene-simmons-bday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 45th to Beyoncé",
-   "blurb": "Global superstar Beyoncé celebrates her 45th birthday on September 4th, known for her groundbreaking albums and electrifying performances.",
+   "title": "Happy 77th to Gene Simmons",
+   "blurb": "Today, August 25, marks the 77th birthday of Gene Simmons, co-founder, bassist, and co-lead vocalist of the iconic rock band KISS.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Icon",
+     "copy": "Happy 77th Birthday to the one and only Gene Simmons! The Demon of KISS is still rocking strong today.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#GeneSimmons #KISS"
+     ]
+    },
+    {
+     "name": "Music Legend",
+     "copy": "Celebrating Gene Simmons' 77th birthday today! What's your favourite KISS track or Gene moment?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#RockLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "elvis-costello-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 72nd to Elvis Costello",
+   "blurb": "Acclaimed British singer-songwriter Elvis Costello turns 72 today, August 25, known for his influential work in punk and new wave.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Wave Legend",
+     "copy": "Happy 72nd Birthday to the brilliant Elvis Costello! From punk to new wave, his impact is undeniable.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ElvisCostello"
+     ]
+    },
+    {
+     "name": "Songwriter Shoutout",
+     "copy": "Celebrating the birthday of the legendary Elvis Costello today! What's your go-to track from his incredible discography?",
+     "channels": [
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#MusicIcon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rob-halford-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 75th to Rob Halford",
+   "blurb": "The 'Metal God' himself, Rob Halford of Judas Priest, celebrates his 75th birthday today, August 25.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Metal God",
+     "copy": "Raise your horns! Happy 75th Birthday to the incredible Rob Halford of Judas Priest. A true metal legend!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RobHalford #JudasPriest"
+     ]
+    },
+    {
+     "name": "Heavy Metal Icon",
+     "copy": "Wishing a very Happy 75th Birthday to Rob Halford! What's your favourite Judas Priest anthem?",
+     "channels": [
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#MetalMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alexandra-burke-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 38th to Alexandra Burke",
+   "blurb": "British singer and X Factor winner Alexandra Burke celebrates her 38th birthday today, August 25.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august25.html"
    },
    "fits": [
     {
@@ -646,43 +867,31 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Queen Bey's Birthday",
-     "copy": "All hail Queen Bey! Wishing a phenomenal Happy 45th Birthday to the one and only Beyoncé! What's your ultimate Beyoncé power anthem?",
+     "name": "Pop Star",
+     "copy": "Happy 38th Birthday to the amazing Alexandra Burke! From X Factor champ to West End star, what a career!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "13:00",
      "tags": [
-      "#Beyonce",
-      "#QueenBey"
+      "#AlexandraBurke"
      ]
     },
     {
-     "name": "Celebrating Beyoncé",
-     "copy": "It's Beyoncé's Birthday! Get ready for a day packed with hits from a true icon. What's your favourite Beyoncé era?",
+     "name": "Birthday Vibes",
+     "copy": "Sending birthday wishes to Alexandra Burke today! What's your favourite song from the vocal powerhouse?",
      "channels": [
-      "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#Beyhive"
+      "#PopMusic"
      ]
     }
    ]
