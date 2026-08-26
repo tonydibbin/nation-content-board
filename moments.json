@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-26T16:08:57.087Z",
+ "updated": "2026-08-26T18:32:07.008Z",
  "moments": [
   {
-   "id": "man-utd-liverpool",
-   "off": 3,
-   "type": "sport",
+   "id": "reading-leeds-festival-2026",
+   "off": 1,
+   "type": "gig",
    "hot": true,
-   "title": "Premier League Showdown: Man Utd vs Liverpool",
-   "blurb": "Manchester United host rivals Liverpool this Saturday in a highly anticipated Premier League fixture as Matchday 3 concludes.",
+   "title": "Reading & Leeds Festival Kicks Off",
+   "blurb": "The UK's biggest music festivals, Reading and Leeds, take place this August Bank Holiday weekend (August 27-30, 2026), featuring headliners Charli XCX, Chase & Status, Dave, Florence + The Machine, Fontaines D.C., and Raye.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/fixtures"
+    "l": "Reading & Leeds Festival Official",
+    "u": "https://www.readingfestival.com/"
    },
    "fits": [
     {
@@ -18,38 +18,30 @@
      "sub": ""
     },
     {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
      "g": "nation-network",
      "sub": "Nation Radio London"
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Match Build-up",
-     "for": "",
-     "copy": "Derby day is coming! Manchester United take on Liverpool at Old Trafford this Saturday. Who's taking the points?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#MUNLIV"
-     ]
-    },
-    {
-     "name": "Weekend Football",
-     "for": "",
-     "copy": "Premier League Matchday 3 wraps up this weekend with a massive clash: Man Utd vs Liverpool. Get your predictions in!",
+     "name": "Festival Vibe",
+     "copy": "Reading & Leeds are ON! Who's heading to Richfield Avenue or Bramham Park this weekend to catch the biggest names in music? #RandL26",
      "channels": [
       "instagram",
       "facebook",
@@ -57,25 +49,190 @@
       "tiktok",
       "threads"
      ],
-     "time": "12:00",
+     "time": "08:00",
      "tags": [
-      "#PremierLeague"
+      "#RandL26"
+     ]
+    },
+    {
+     "name": "Headliner Hype",
+     "copy": "From Charli XCX to Fontaines D.C., and Chase & Status to Florence + The Machine, the Reading & Leeds lineup is stacked. Who are you most excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FestivalWeekend"
+     ]
+    },
+    {
+     "name": "Local Buzz (Leeds)",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Leeds Festival is taking over Bramham Park! Are you ready for a weekend of epic music and Bank Holiday vibes right here in Yorkshire? #LeedsFestival",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LeedsFestival"
      ]
     }
    ]
   },
   {
-   "id": "carabao-cup-upsets",
-   "off": 0,
-   "type": "sport",
+   "id": "august-bank-holiday-2026",
+   "off": 5,
+   "type": "seasonal",
    "hot": true,
-   "title": "Carabao Cup Second Round Shocks",
-   "blurb": "The Carabao Cup Second Round matches were played mid-week, with several Premier League teams facing early exits and big upsets.",
+   "title": "August Bank Holiday Weekend",
+   "blurb": "The August Bank Holiday weekend in England, Wales, and Northern Ireland runs from Saturday, August 29 to Monday, August 31, 2026, marking the unofficial end of summer holidays for many.",
    "source": {
-    "l": "EFL Official Site",
-    "u": "https://www.efl.com/carabao-cup"
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bank Holiday Plans",
+     "copy": "Long weekend incoming! What are your big plans for the August Bank Holiday? Making the most of the last blast of summer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "Travel Alert",
+     "copy": "If you're travelling this Bank Holiday weekend, expect busy roads and check public transport for changes. Plan ahead and stay safe!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#TravelUpdate"
+     ]
+    },
+    {
+     "name": "Local Bank Holiday (Wales)",
+     "for": "welsh-local",
+     "copy": "Dydd Llun Gŵyl y Banc hapus! How are you spending your August Bank Holiday here in Wales? Fingers crossed for sunshine!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#GwylYBanc"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "end-of-meteorological-summer",
+   "off": 5,
+   "type": "seasonal",
+   "hot": false,
+   "title": "End of Meteorological Summer",
+   "blurb": "Monday, August 31, 2026, marks the official end of meteorological summer, with autumn officially beginning on September 1st.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Summer Wrap Up",
+     "copy": "It's the last day of meteorological summer today! What was your favourite summer memory of 2026?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#EndOfSummer"
+     ]
+    },
+    {
+     "name": "Autumn Awaits",
+     "copy": "Summer bows out today, and tomorrow we officially welcome autumn. Are you ready for cosy nights and pumpkin spice everything?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#AutumnIsComing"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-aug26",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "UK Singles Chart Update",
+   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' remains the UK's Official Singles Chart Number 1, making history with its long run, while HUGEL's 'Movin' To The Sun' is a strong contender for next week's top spot.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
     {
      "g": "nation-network",
      "sub": ""
@@ -83,194 +240,26 @@
    ],
    "angles": [
     {
-     "name": "Cup Talk",
-     "for": "",
-     "copy": "Did your team survive the Carabao Cup Second Round? Some big names are already out after this week's shocks!",
+     "name": "Chart Topper",
+     "copy": "Sam Fender and Olivia Dean are still holding strong at UK Number 1 with 'Rein Me In'! An incredible run for the longest-running chart-topper.",
      "channels": [
       "instagram",
       "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Challenger",
+     "copy": "Could we see a new Number 1 next week? HUGEL's 'Movin' To The Sun' is making a big push for the top spot on the Official Singles Chart!",
+     "channels": [
       "x",
       "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#CarabaoCup"
-     ]
-    },
-    {
-     "name": "Mid-week Drama",
-     "for": "",
-     "copy": "The Carabao Cup delivered its usual dose of drama mid-week. Which upset was the biggest surprise for you?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "creamfields-north-2026",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Creamfields North Returns",
-   "blurb": "Creamfields North, one of the UK's biggest electronic dance music festivals, kicks off this Friday (August 28-31) in Daresbury, Cheshire, with headliners like Calvin Harris and Tiësto.",
-   "source": {
-    "l": "Creamfields Official Site",
-    "u": "https://www.creamfields.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Vibe",
-     "for": "Nation Dance",
-     "copy": "Who's ready for Creamfields North? The dance music extravaganza starts this Friday! Get your anthems ready.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#CreamfieldsNorth"
-     ]
-    },
-    {
-     "name": "Weekend Plans",
-     "for": "Nation Hits",
-     "copy": "Creamfields North is almost here! If you're heading to Daresbury this weekend, you're in for a treat.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#FestivalSeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "all-points-east-2026",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "All Points East Kicks Off",
-   "blurb": "London's All Points East festival starts this Friday (August 28 - September 1) in Victoria Park, featuring a diverse line-up including Fred again.. and LCD Soundsystem.",
-   "source": {
-    "l": "All Points East Official Site",
-    "u": "https://www.allpointseastfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "London Festival",
-     "for": "Nation Radio London",
-     "copy": "Victoria Park is about to come alive! All Points East kicks off this Friday with an incredible line-up for London music lovers.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#AllPointsEast"
-     ]
-    },
-    {
-     "name": "Indie & Dance",
-     "for": "Nation Rocks",
-     "copy": "From Fred again.. to LCD Soundsystem, All Points East has something for everyone. Who are you seeing this weekend?",
-     "channels": [
-      "facebook",
-      "x"
      ],
      "time": "16:00",
-     "tags": [
-      "#APEFest"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-update",
-   "off": 2,
-   "type": "culture",
-   "hot": true,
-   "title": "Official UK Singles Chart Update",
-   "blurb": "The Official UK Singles Chart will be updated this Friday, with Nova Bloom's 'Summer Daze' currently holding the Number 1 spot.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Race",
-     "for": "",
-     "copy": "Who will claim the top spot this week? The Official UK Singles Chart gets its big update this Friday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "New Number 1?",
-     "for": "",
-     "copy": "Can Nova Bloom hold onto Number 1 with 'Summer Daze' or will a new track steal the crown? Find out Friday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
      "tags": [
       "#NewMusic"
      ]
@@ -278,157 +267,12 @@
    ]
   },
   {
-   "id": "gbbo-new-season",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off Returns",
-   "blurb": "The new season of 'The Great British Bake Off' premiered last night on Channel 4, bringing back the beloved baking competition.",
-   "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Buzz",
-     "for": "",
-     "copy": "The Great British Bake Off is back! Who watched the first episode last night? Any early favourites?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "Baking Craze",
-     "for": "",
-     "copy": "Get your spatulas ready! The new series of Bake Off has started, inspiring us all to get in the kitchen.",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "house-of-dragon-finale",
-   "off": -3,
-   "type": "tv",
-   "hot": true,
-   "title": "House of the Dragon Season 2 Finale",
-   "blurb": "The highly anticipated Season 2 finale of 'House of the Dragon' aired last Sunday, leaving fans with plenty to discuss.",
-   "source": {
-    "l": "Sky Atlantic / NOW",
-    "u": "https://www.sky.com/watch/channel/sky-atlantic"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Post-Finale Chat",
-     "for": "",
-     "copy": "Still reeling from the House of the Dragon Season 2 finale? What a dramatic end to the series!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#HouseOfTheDragon"
-     ]
-    },
-    {
-     "name": "Dragon Theories",
-     "for": "",
-     "copy": "If you watched the House of the Dragon finale, let's talk theories. What's next for Westeros?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#HOTD"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "vigil-season3-premiere",
-   "off": 4,
-   "type": "tv",
-   "hot": true,
-   "title": "Vigil Season 3 Premieres",
-   "blurb": "The gripping BBC drama 'Vigil' returns for its third season this Sunday, promising more underwater suspense.",
-   "source": {
-    "l": "BBC One",
-    "u": "https://www.bbc.co.uk/programmes/m000l2b8"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Sunday Night Drama",
-     "for": "",
-     "copy": "Get ready for a new season of 'Vigil'! The tense thriller returns to BBC One this Sunday night.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#VigilBBC"
-     ]
-    },
-    {
-     "name": "What to Watch",
-     "for": "",
-     "copy": "Looking for your next TV obsession? Vigil Season 3 premieres Sunday – expect edge-of-your-seat drama.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#BBCDrama"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shirley-manson-60",
+   "id": "shirley-manson-60th-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 60th to Shirley Manson",
-   "blurb": "Shirley Manson, the iconic lead singer of Garbage, celebrates her 60th birthday today.",
+   "title": "Happy 60th Birthday, Shirley Manson!",
+   "blurb": "Shirley Manson, the iconic Scottish lead vocalist of alternative rock band Garbage, celebrates her 60th birthday today, August 26, 2026.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
@@ -436,74 +280,17 @@
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
      "name": "Garbage Icon",
-     "for": "Nation Rocks",
-     "copy": "Wishing a very happy 60th birthday to the incredible Shirley Manson of Garbage! Still rocking after all these years.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#ShirleyManson"
-     ]
-    },
-    {
-     "name": "90s Star",
-     "for": "Nation 90s",
-     "copy": "Happy 60th birthday to the brilliant Shirley Manson! What's your favourite Garbage track?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Garbage"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "alex-lifeson-73",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Alex Lifeson of Rush Turns 73",
-   "blurb": "Alex Lifeson, the legendary guitarist and co-founder of progressive rock band Rush, celebrates his 73rd birthday tomorrow.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Alex_Lifeson"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rush Guitar God",
-     "for": "Nation Rocks",
-     "copy": "Tomorrow, the incredible Alex Lifeson of Rush turns 73! What a career, what a guitarist.",
+     "copy": "Happy 60th Birthday to the incredible Shirley Manson! The voice of Garbage and a true alternative rock legend. What's your favourite Garbage track?",
      "channels": [
       "instagram",
       "facebook",
@@ -511,31 +298,83 @@
      ],
      "time": "10:00",
      "tags": [
-      "#AlexLifeson"
+      "#ShirleyManson"
      ]
     },
     {
-     "name": "Prog Rock Legend",
-     "for": "Nation 70s",
-     "copy": "Celebrating Alex Lifeson's 73rd birthday tomorrow! The Rush legend has influenced generations of musicians.",
+     "name": "90s Rock Royalty",
+     "copy": "Celebrating Shirley Manson's 60th today! From 'Only Happy When It Rains' to 'Stupid Girl,' her impact on 90s rock is undeniable.",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#RushBand"
+      "#Garbage"
      ]
     }
    ]
   },
   {
-   "id": "florence-welch-40",
+   "id": "shania-twain-birthday",
    "off": 2,
    "type": "birthday",
-   "hot": true,
-   "title": "Florence Welch Turns 40",
-   "blurb": "Florence Welch, the captivating frontwoman of Florence + The Machine, celebrates her 40th birthday this Friday.",
+   "hot": false,
+   "title": "Happy Birthday, Shania Twain!",
+   "blurb": "Canadian country-pop superstar Shania Twain, known as the 'Queen of Country Pop,' turns 61 on August 28, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen of Country Pop",
+     "copy": "Happy 61st Birthday to the one and only Shania Twain on Friday! Let's get 'Man! I Feel Like A Woman!' on repeat.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#ShaniaTwain"
+     ]
+    },
+    {
+     "name": "Still The One",
+     "copy": "Celebrating Shania Twain's birthday this week! What's your all-time favourite hit from the country-pop legend? 'You're Still The One' is up there for us!",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#CountryPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "florence-welch-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 40th Birthday, Florence Welch!",
+   "blurb": "Florence Welch, the lead vocalist and songwriter of the acclaimed indie rock band Florence + The Machine, celebrates her 40th birthday on August 28, 2026.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Florence_Welch"
@@ -547,130 +386,66 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Indie Icon",
+     "copy": "Happy 40th Birthday to the incredible Florence Welch on Friday! From 'Lungs' to 'Dance Fever,' her powerful voice continues to captivate.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#FlorenceAndTheMachine"
+     ]
+    },
+    {
+     "name": "Festival Queen",
+     "copy": "Florence Welch is 40 this week! Catch her distinctive sound headlining Reading & Leeds, just in time for her birthday celebrations.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#FlorenceWelch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bebe-rexha-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday, Bebe Rexha!",
+   "blurb": "American singer and songwriter Bebe Rexha, known for hits like 'I'm Good (Blue)' and 'Meant to Be', turns 37 on August 30, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Bebe_Rexha"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Happy 40th",
-     "for": "Nation Hits",
-     "copy": "Can you believe Florence Welch turns 40 this Friday? Happy birthday to the powerhouse voice of Florence + The Machine!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#FlorenceWelch"
-     ]
-    },
-    {
-     "name": "Machine Magic",
-     "for": "Nation Rocks",
-     "copy": "Celebrating Florence Welch's 40th this Friday! Her music with Florence + The Machine is truly iconic.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#FlorenceAndTheMachine"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shania-twain-61",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shania Twain's 61st Birthday",
-   "blurb": "The Queen of Country Pop, Shania Twain, will celebrate her 61st birthday this Friday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shania_Twain"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country Pop Queen",
-     "for": "Nation Easy",
-     "copy": "Happy 61st birthday to the incredible Shania Twain this Friday! What's your favourite hit from the country pop icon?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ShaniaTwain"
-     ]
-    },
-    {
-     "name": "Still the One",
-     "for": "Nation 90s",
-     "copy": "She's still the one! Shania Twain turns 61 this Friday. Relive her biggest 90s and 00s anthems with us.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ManIFeelLikeAWoman"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gene-simmons-77",
-   "off": -1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Gene Simmons Turned 77",
-   "blurb": "Gene Simmons, the legendary bassist and co-lead singer of KISS, celebrated his 77th birthday yesterday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Gene_Simmons"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "KISS Legend",
-     "for": "Nation Rocks",
-     "copy": "A very happy belated 77th birthday to the one and only Gene Simmons! What's your favourite KISS moment?",
+     "name": "Pop Hitmaker",
+     "copy": "Wishing a very Happy 37th Birthday to Bebe Rexha on Sunday! What's your favourite track from the pop hitmaker?",
      "channels": [
       "instagram",
       "facebook",
@@ -678,124 +453,194 @@
      ],
      "time": "10:00",
      "tags": [
-      "#GeneSimmons"
+      "#BebeRexha"
      ]
     },
     {
-     "name": "The Demon",
-     "for": "Nation 70s",
-     "copy": "The Demon turned 77 yesterday! Celebrating the enduring legacy of KISS's Gene Simmons.",
+     "name": "Dance Floor Filler",
+     "copy": "Get ready to dance for Bebe Rexha's birthday this weekend! Her collaborations always bring the party.",
      "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#KISS"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "billy-ray-cyrus-65",
-   "off": -1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Billy Ray Cyrus Turned 65",
-   "blurb": "Country music star Billy Ray Cyrus, known for 'Achy Breaky Heart', celebrated his 65th birthday yesterday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Billy_Ray_Cyrus"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Achy Breaky Birthday",
-     "for": "Nation Easy",
-     "copy": "Belated happy 65th birthday to Billy Ray Cyrus! Still got 'Achy Breaky Heart' stuck in your head?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BillyRayCyrus"
-     ]
-    },
-    {
-     "name": "90s Country",
-     "for": "Nation 90s",
-     "copy": "We're sending belated birthday wishes to Billy Ray Cyrus, who turned 65 yesterday! What a 90s legend.",
-     "channels": [
-      "facebook",
+      "tiktok",
       "x"
      ],
      "time": "16:00",
      "tags": [
-      "#AchyBreakyHeart"
+      "#DancePop"
      ]
     }
    ]
   },
   {
-   "id": "exeter-city-away-york",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "Exeter City Face York City Away",
-   "blurb": "Exeter City FC travel to face York City this Saturday, August 29th, in their latest League Two fixture.",
+   "id": "debbie-gibson-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday, Debbie Gibson!",
+   "blurb": "80s pop sensation Debbie Gibson, who became the youngest artist to write, produce, and perform a Billboard Hot 100 number-one single, turns 56 on August 31, 2026.",
    "source": {
-    "l": "Exeter City FC Official Site",
-    "u": "https://www.exetercityfc.co.uk/matches/fixtures/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Debbie_Gibson"
    },
    "fits": [
     {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Grecians Away",
-     "for": "",
-     "copy": "It's an away day for Exeter City this Saturday as they head to York City! How are you feeling about the match, Grecians?",
+     "name": "80s Pop Icon",
+     "copy": "Happy 56th Birthday to the incredible Debbie Gibson on Monday! Still remember 'Foolish Beat' and 'Lost in Your Eyes'?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
-      "#ECFC"
+      "#DebbieGibson"
      ]
     },
     {
-     "name": "Match Preview",
-     "for": "",
-     "copy": "Exeter City are on the road to York City this weekend. Tune in for all the build-up and match reaction on Radio Exe!",
+     "name": "Teenage Star",
+     "copy": "Celebrating Debbie Gibson's birthday this Bank Holiday! She made history as a teen, writing and producing her own #1 hits. A true talent!",
      "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#80sPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gloria-estefan-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy Birthday, Gloria Estefan!",
+   "blurb": "Cuban-American singer and 'Queen of Latin Pop' Gloria Estefan, known for her work with Miami Sound Machine and solo hits, turns 69 on September 1, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gloria_Estefan"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Latin Pop Queen",
+     "copy": "Wishing a very Happy 69th Birthday to the legendary Gloria Estefan on Tuesday! Get ready to 'Conga!'",
+     "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
+     "time": "08:00",
+     "tags": [
+      "#GloriaEstefan"
+     ]
+    },
+    {
+     "name": "Miami Sound",
+     "copy": "Celebrating Gloria Estefan's birthday this week! Her incredible career with Miami Sound Machine and as a solo artist has given us so many timeless hits.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#MiamiSoundMachine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "barry-gibb-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 80th Birthday, Barry Gibb!",
+   "blurb": "Sir Barry Gibb, the legendary singer, songwriter, and producer, best known as a co-founder of the Bee Gees, turns 80 on September 1, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Barry_Gibb"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bee Gees Legend",
+     "copy": "Happy 80th Birthday to the iconic Barry Gibb on Tuesday! The unmistakable voice behind so many Bee Gees classics. What's your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#BarryGibb"
+     ]
+    },
+    {
+     "name": "Disco King",
+     "copy": "Celebrating 80 years of Barry Gibb! From 'Stayin' Alive' to 'How Deep Is Your Love,' his songwriting and falsetto defined eras. #BeeGees",
+     "channels": [
+      "x",
+      "threads"
+     ],
      "time": "14:00",
      "tags": [
-      "#ExeterCity"
+      "#Disco"
      ]
     }
    ]
