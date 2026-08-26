@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-26T11:17:59.061Z",
+ "updated": "2026-08-26T12:22:20.325Z",
  "moments": [
   {
-   "id": "uk-summer-bank-holiday",
+   "id": "summer-bank-holiday-uk",
    "off": 5,
    "type": "seasonal",
    "hot": true,
    "title": "Summer Bank Holiday Weekend",
-   "blurb": "The Summer Bank Holiday in England, Wales, and Northern Ireland falls on Monday, August 31st, marking the unofficial end of summer.",
+   "blurb": "The UK (excluding Scotland) looks forward to the last long weekend of summer, with the Summer Bank Holiday falling on Monday, August 31st.",
    "source": {
-    "l": "Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
+    "l": "Gov.uk / Time and Date",
+    "u": "https://www.gov.uk/bank-holidays"
    },
    "fits": [
     {
@@ -20,264 +20,99 @@
    ],
    "angles": [
     {
-     "name": "Long Weekend Vibes",
-     "copy": "That glorious three-day weekend feeling is just around the corner! Who's ready for the Summer Bank Holiday? What are your plans?",
+     "name": "Relaxed Vibe",
+     "copy": "That long weekend feeling is almost here! Who's ready for an extra day off to soak up the last of the summer vibes? What are your plans for the Bank Holiday? #BankHoliday",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "08:00",
+     "time": "09:00",
      "tags": [
       "#BankHoliday"
      ]
     },
     {
-     "name": "Last Blast of Summer",
-     "copy": "It's the last Bank Holiday of the summer for England, Wales & Northern Ireland on Monday! Make the most of it before autumn officially arrives.",
+     "name": "Travel & Fun",
+     "copy": "Don't forget, the Summer Bank Holiday is this Monday! Perfect for a last-minute getaway or a local adventure. Where are you heading this weekend?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#SummerVibes"
+      "#SummerBankHoliday"
      ]
     }
    ]
   },
   {
-   "id": "uk-weather-thunderstorms-heat",
-   "off": 0,
-   "type": "seasonal",
+   "id": "champions-league-draw",
+   "off": 1,
+   "type": "sport",
    "hot": true,
-   "title": "UK Weather: Heat & Thunderstorms",
-   "blurb": "Parts of the UK, especially the South East, are experiencing temperatures up to 29C today, while central and southern areas face a risk of heavy thunderstorms and localized flooding.",
+   "title": "Champions League Group Stage Draw",
+   "blurb": "The draw for the 2026/27 UEFA Champions League 'League Phase' takes place tomorrow, Thursday August 27th, at 5pm BST in Monaco, as Europe's elite discover their fate.",
    "source": {
-    "l": "Met Office / WXCharts",
-    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
+    "l": "UEFA.com",
+    "u": "https://www.uefa.com/uefachampionsleague/news/028c-1a28a1923293-9c8742563a6e-1000--league-phase-draw/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Anticipation",
+     "copy": "The biggest club competition in Europe is back! Who do you want your team to draw in tomorrow's Champions League group stage? Drop your predictions!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ChampionsLeagueDraw"
+     ]
     },
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
+     "name": "Team Focus",
+     "copy": "Tomorrow, the road to the Champions League final in Madrid begins. Which English team do you think has the best chance in the draw? #UCL",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#UCL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "all-points-east-2026",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "All Points East Festival Continues",
+   "blurb": "London's All Points East festival continues at Victoria Park through Sunday, August 30th, featuring headline sets from Tyler, The Creator, Lorde, Twenty One Pilots, and Deftones.",
+   "source": {
+    "l": "All Points East Official Site",
+    "u": "https://www.allpointseastfestival.com/"
+   },
+   "fits": [
     {
-     "g": "radio-exe",
+     "g": "nation-network",
      "sub": ""
     },
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Heatwave in the South East",
-     "copy": "Sun's out, thermometers are soaring! Up to 29C in the South East today. Stay cool if you're out and about! #UKWeather",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Heatwave"
-     ]
     },
-    {
-     "name": "Thunderstorm Watch",
-     "copy": "Heads up, central and southern UK! Thunderstorms and heavy rain are on the way today, with a risk of localised flooding. Stay safe on the roads. #WeatherWarning",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Thunderstorms"
-     ]
-    },
-    {
-     "name": "Mixed Forecast",
-     "copy": "From scorchers to downpours! A real mixed bag of weather across the UK today, with highs of 29C in some areas and warnings for heavy rain elsewhere. What's it like where you are?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#UKWeather"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-matchweek2",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Matchweek 2 Continues",
-   "blurb": "The second matchweek of the 2026/27 Premier League season features key fixtures from Friday, August 28th through Sunday, August 30th.",
-   "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Friday Night Football",
-     "copy": "Premier League action is back tonight! Crystal Palace host Manchester City in the opener for Matchweek 2. Who are you backing?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#PL"
-     ]
-    },
-    {
-     "name": "Weekend Premier League",
-     "copy": "Massive Premier League weekend ahead! Liverpool, Spurs, Chelsea, and Man Utd all in action. Who's got the biggest game to watch?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Battle for Points",
-     "copy": "Matchweek 2 is underway! Every point counts this early in the Premier League season. Which fixture are you most looking forward to?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "scottish-premiership-aug30",
-   "off": 4,
-   "type": "sport",
-   "hot": true,
-   "title": "Scottish Premiership: Aberdeen v Rangers",
-   "blurb": "Aberdeen take on Rangers in a Scottish Premiership clash this Sunday, August 30th.",
-   "source": {
-    "l": "Live Football On TV",
-    "u": "https://www.live-footballontv.com/scottish-premiership-fixtures-on-tv-schedule.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Big Scottish Match",
-     "copy": "It's a big one in the Scottish Premiership this Sunday! Aberdeen host Rangers. Who's taking the points at Pittodrie?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SPFL"
-     ]
-    },
-    {
-     "name": "Sunday Football North of the Border",
-     "copy": "Scottish Premiership action this Sunday as Aberdeen face Rangers. Get ready for a classic encounter!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ScottishFootball"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "national-league-fixtures",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "National League Weekend Fixtures",
-   "blurb": "The National League has a full schedule of matches this weekend, including games on Friday, August 28th and the Bank Holiday Monday, August 31st.",
-   "source": {
-    "l": "DAZN News GB",
-    "u": "https://www.dazn.com/en-GB/news/football/national-league-2026-27-schedule-kick-off-times-and-results/11x003e6n7u2b19n6190p3t0w0"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Non-League Action",
-     "copy": "Don't forget the National League! Plenty of action this weekend, including Friday night games and Bank Holiday Monday clashes. Support your local teams!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#NonLeague"
-     ]
-    },
-    {
-     "name": "Bank Holiday Football",
-     "copy": "National League teams are playing over the Bank Holiday weekend! Who are you hoping to see win?",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NationalLeague"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-rein-me-in",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean Hold UK #1",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' maintains its impressive run at the top of the Official UK Singles Chart for a 22nd consecutive week.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
@@ -289,488 +124,99 @@
    ],
    "angles": [
     {
-     "name": "Chart Reign Continues",
-     "copy": "22 weeks at number one! Sam Fender & Olivia Dean are still dominating the Official UK Singles Chart with 'Rein Me In'. What a run!",
+     "name": "Current Buzz",
+     "copy": "All Points East is still rocking Victoria Park! Who are you most excited to see before the festival wraps up this weekend? #APE2026",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "10:00",
-     "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "Still the Top Track",
-     "copy": "Is 'Rein Me In' the song of the summer... and autumn? Sam Fender & Olivia Dean show no signs of budging from the UK #1 spot!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SamFender #OliviaDean"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "valerie-simpson-80",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Valerie Simpson turns 80",
-   "blurb": "Valerie Simpson, half of the iconic R&B songwriting and performing duo Ashford & Simpson, celebrates her 80th birthday today.",
-   "source": {
-    "l": "Daily Press",
-    "u": "https://www.dailypress.com/2026/08/26/almanac-for-aug-26-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "R&B Legend's Birthday",
-     "copy": "Happy 80th Birthday to the incredible Valerie Simpson of Ashford & Simpson! A true legend of soul and R&B.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ValerieSimpson"
-     ]
-    },
-    {
-     "name": "Ashford & Simpson Icon",
-     "copy": "From 'Ain't No Mountain High Enough' to 'Solid', Valerie Simpson has penned hits for decades. Celebrating her 80th birthday today!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
      "time": "13:00",
      "tags": [
-      "#AshfordAndSimpson"
+      "#APE2026"
      ]
-    }
-   ]
-  },
-  {
-   "id": "shirley-manson-60",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shirley Manson turns 60",
-   "blurb": "Shirley Manson, the iconic Scottish singer of the alternative rock band Garbage, celebrates her 60th birthday today.",
-   "source": {
-    "l": "Daily Press",
-    "u": "https://www.dailypress.com/2026/08/26/almanac-for-aug-26-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Garbage Frontwoman's Birthday",
-     "copy": "Happy 60th Birthday to the one and only Shirley Manson! The fierce frontwoman of Garbage still rocking hard.",
+     "name": "London Vibe",
+     "for": "Nation Radio London",
+     "copy": "Victoria Park is buzzing! All Points East continues to bring the biggest names to East London. What's been your highlight so far?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ShirleyManson #Garbage"
-     ]
-    },
-    {
-     "name": "Alt-Rock Icon",
-     "copy": "Celebrating Shirley Manson's 60th today! Her distinctive voice and attitude made Garbage an alt-rock staple. What's your favourite Garbage track?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#AlternativeRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shania-twain-61",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Shania Twain turns 61",
-   "blurb": "Canadian country-pop superstar Shania Twain, known for hits like 'Man! I Feel Like A Woman!', celebrates her 61st birthday on August 28th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august28.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country Queen's Birthday",
-     "copy": "Happy 61st Birthday to the incredible Shania Twain on Friday! Still looking good, still sounding great. What's your go-to Shania song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ShaniaTwain #CountryPop"
-     ]
-    },
-    {
-     "name": "Let's Go Girls!",
-     "copy": "Celebrating the one and only Shania Twain this Friday as she turns 61! From 'Any Man of Mine' to 'That Don't Impress Me Much', she's a legend.",
-     "channels": [
-      "x",
-      "facebook"
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#ManIFeelLikeAWoman"
+      "#AllPointsEast"
      ]
     }
    ]
   },
   {
-   "id": "florence-welch-40",
-   "off": 2,
+   "id": "shirley-manson-bday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Florence Welch turns 40",
-   "blurb": "Florence Welch, the distinctive voice and creative force behind Florence + The Machine, celebrates her 40th birthday on August 28th.",
+   "title": "Happy 60th Birthday, Shirley Manson!",
+   "blurb": "Garbage frontwoman Shirley Manson, known for her distinctive voice and rebellious style, celebrates her 60th birthday today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august28.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Shirley_Manson"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Happy 40th Florence!",
-     "copy": "Happy 40th Birthday to the mesmerising Florence Welch! The powerhouse vocalist of Florence + The Machine. What's your favourite track?",
+     "name": "Iconic Frontwoman",
+     "copy": "Happy 60th Birthday to the incredible Shirley Manson! The iconic voice of Garbage, still as fierce and relevant as ever. What's your favourite Garbage track?",
      "channels": [
       "instagram",
       "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#ShirleyManson"
+     ]
+    },
+    {
+     "name": "Garbage Hits",
+     "copy": "Celebrating Shirley Manson's 60th today! From 'Stupid Girl' to 'Only Happy When It Rains', Garbage's sound defined an era. What's on your playlist?",
+     "channels": [
       "x",
-      "threads"
+      "facebook"
      ],
      "time": "12:00",
      "tags": [
-      "#FlorenceWelch #FlorenceAndTheMachine"
-     ]
-    },
-    {
-     "name": "Indie Icon",
-     "copy": "From 'Dog Days Are Over' to 'Shake It Out', Florence Welch has given us so many anthems. Wishing her a very happy 40th this Friday!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#IndiePop"
+      "#Garbage"
      ]
     }
    ]
   },
   {
-   "id": "gloria-estefan-69",
+   "id": "gloria-estefan-bday",
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Gloria Estefan turns 69",
-   "blurb": "Cuban-American pop icon Gloria Estefan, famous for her work with Miami Sound Machine and her solo career, celebrates her 69th birthday on September 1st.",
+   "title": "Happy 69th Birthday, Gloria Estefan!",
+   "blurb": "Cuban-American superstar Gloria Estefan, the 'Queen of Latin Pop' and Miami Sound Machine lead singer, turns 69 on September 1st.",
    "source": {
-    "l": "myMotherLode.com",
-    "u": "https://www.mymotherlode.com/news/celebrity/324122/celebrity-birthdays-for-the-week-of-aug-30-sept-5-includes-max-greenfield-and-cameron-diaz.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gloria_Estefan"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen of Latin Pop's Birthday",
-     "copy": "Get On Your Feet for Gloria Estefan's 69th birthday this Sunday! A true legend of Latin pop and dance music.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#GloriaEstefan #MiamiSoundMachine"
-     ]
-    },
-    {
-     "name": "Rhythm Is Gonna Get You",
-     "copy": "Wishing a very happy 69th birthday to the incredible Gloria Estefan on September 1st! Her music still makes us want to dance.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#LatinPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "barry-gibb-80",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Barry Gibb turns 80",
-   "blurb": "Sir Barry Gibb, the legendary singer-songwriter and last surviving member of the Bee Gees, celebrates his 80th birthday on September 1st.",
-   "source": {
-    "l": "myMotherLode.com",
-    "u": "https://www.mymotherlode.com/news/celebrity/324122/celebrity-birthdays-for-the-week-of-aug-30-sept-5-includes-max-greenfield-and-cameron-diaz.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bee Gees Legend's Birthday",
-     "copy": "Happy 80th Birthday to the iconic Sir Barry Gibb on Sunday! The voice behind so many timeless Bee Gees hits. What's your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BarryGibb #BeeGees"
-     ]
-    },
-    {
-     "name": "Stayin' Alive at 80",
-     "copy": "From disco anthems to beautiful ballads, Barry Gibb's songwriting is legendary. Wishing him a very happy 80th this September 1st!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Disco #SoftRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "beyonce-45",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Beyoncé turns 45",
-   "blurb": "Global superstar Beyoncé, the multi-Grammy-winning singer, songwriter, and businesswoman, celebrates her 45th birthday on September 4th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september4.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen Bey's Birthday",
-     "copy": "Happy 45th Birthday to the one and only Queen Bey, Beyoncé! Let's get Formation and celebrate this icon on September 4th!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Beyonce #QueenBey"
-     ]
-    },
-    {
-     "name": "Run The World!",
-     "copy": "From Destiny's Child to global domination, Beyoncé has redefined pop music. Wishing her a fabulous 45th birthday next Friday!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PopIcon #R&B"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "james-bay-36",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "James Bay turns 36",
-   "blurb": "British singer-songwriter James Bay, known for his distinctive voice and soulful folk-rock sound, celebrates his 36th birthday on September 4th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september4.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday James Bay",
-     "copy": "Happy 36th Birthday to the talented James Bay next Friday! What's your favourite track from the 'Hold Back The River' singer?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#JamesBay #FolkRock"
-     ]
-    },
-    {
-     "name": "Hold Back The River",
-     "copy": "Celebrating James Bay's birthday on September 4th! His soulful sound has captured hearts worldwide. Send him your birthday wishes!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SingerSongwriter"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "terry-ellis-63",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Terry Ellis turns 63",
-   "blurb": "Terry Ellis, a founding member of the influential R&B group En Vogue, celebrates her 63rd birthday on September 5th.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/september"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -779,47 +225,161 @@
     {
      "g": "decades-genres",
      "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "En Vogue Star's Birthday",
-     "copy": "Wishing a very Happy 63rd Birthday to Terry Ellis of the legendary R&B group En Vogue this Saturday! What's your favourite En Vogue hit?",
+     "name": "Latin Pop Legend",
+     "copy": "Get on your feet and celebrate! Gloria Estefan turns 69 on Sunday. What's your favourite hit from the Queen of Latin Pop?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#TerryEllis #EnVogue"
+      "#GloriaEstefan"
      ]
     },
     {
-     "name": "Never Gonna Get It",
-     "copy": "From 'My Lovin' (You're Never Gonna Get It)' to 'Free Your Mind', Terry Ellis helped define 90s R&B. Celebrating her birthday on September 5th!",
+     "name": "Miami Sound",
+     "copy": "Conga! On September 1st, we're wishing a very happy 69th birthday to Gloria Estefan. Her music with Miami Sound Machine still brings the sunshine!",
      "channels": [
       "x",
       "facebook"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#RNB #90sMusic"
+      "#MiamiSoundMachine"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-new-entries",
-   "off": 0,
+   "id": "premier-league-aug-29-30",
+   "off": 3,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Weekend Action",
+   "blurb": "The Premier League serves up another weekend of action, with fixtures including Liverpool vs Nottingham Forest, Spurs vs Newcastle on Saturday, and Chelsea vs Brighton, Man Utd vs Ipswich on Sunday.",
+   "source": {
+    "l": "PremierLeague.com",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Weekend Kick-off",
+     "copy": "Premier League is back this weekend! Which fixture are you most looking forward to? Can Liverpool continue their strong start or will Spurs stun Newcastle?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "London Derby Focus",
+     "for": "Nation Radio London",
+     "copy": "Big weekend for London clubs! Chelsea host Brighton on Sunday. Who's taking the points in this clash?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#CHEBRI"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-update",
+   "off": 2,
    "type": "culture",
    "hot": true,
-   "title": "New Entries on UK Singles Chart",
-   "blurb": "The latest Official UK Singles Chart sees Madonna & Kylie Minogue enter with 'Love Sensation' and Sabrina Carpenter re-entering with 'Espresso'.",
+   "title": "Official Singles Chart Update",
+   "blurb": "The new Official UK Singles Chart Top 40 will be announced this Friday, with 'Rein Me In' by Sam Fender and Olivia Dean currently holding the Number 1 spot for the week ending August 27th.",
    "source": {
-    "l": "Official Charts Company",
+    "l": "OfficialCharts.com",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Battle",
+     "copy": "Who will be crowned the UK's Official Number 1 this Friday? Sam Fender & Olivia Dean are currently holding strong with 'Rein Me In'! Can anyone knock them off?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Music Friday Prep",
+     "copy": "New music is coming, but who's taking the top spot this week? The Official Singles Chart is updated Friday! What track do you want to see hit Number 1?",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#NewMusicFriday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beyonce-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 45th Birthday, Beyoncé!",
+   "blurb": "Global icon Beyoncé, the multi-Grammy-winning singer, songwriter, and performer, celebrates her 45th birthday on September 4th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
    },
    "fits": [
     {
@@ -828,21 +388,17 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Chart Movers",
-     "copy": "New entries and big climbers on the UK Singles Chart! Madonna & Kylie Minogue teaming up, plus Sabrina Carpenter's 'Espresso' is back in. What's your new favourite?",
+     "name": "Queen Bey",
+     "copy": "Bow down! Queen Bey turns 45 this Friday. Get ready to celebrate Beyoncé's birthday with us! What's your ultimate Beyoncé power anthem?",
      "channels": [
       "instagram",
       "facebook",
@@ -850,21 +406,128 @@
       "tiktok",
       "threads"
      ],
-     "time": "16:00",
+     "time": "09:30",
      "tags": [
-      "#UKCharts"
+      "#Beyonce"
      ]
     },
     {
-     "name": "Pop Royalty Collaboration",
-     "copy": "Madonna and Kylie Minogue together on the charts with 'Love Sensation'! Two pop legends. You love to see it. #PopMusic",
+     "name": "Era Spanning Hits",
+     "copy": "From Destiny's Child to Renaissance, Beyoncé has dominated for decades. Wishing her a very happy 45th birthday on September 4th! Which era of Bey is your favourite?",
      "channels": [
       "x",
       "facebook"
      ],
+     "time": "13:30",
+     "tags": [
+      "#QueenBey"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roger-waters-bday",
+   "off": 11,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 83rd Birthday, Roger Waters!",
+   "blurb": "Pink Floyd co-founder, bassist, and principal songwriter Roger Waters celebrates his 83rd birthday on September 6th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Roger_Waters"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Legend",
+     "copy": "Wishing a very happy 83rd birthday to the legendary Roger Waters on September 6th! A true visionary behind some of Pink Floyd's greatest works. What's your favourite Waters-era track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RogerWaters"
+     ]
+    },
+    {
+     "name": "Pink Floyd Genius",
+     "copy": "The creative force behind 'The Wall' and 'Dark Side of the Moon' turns 83 this Sunday! Happy Birthday, Roger Waters. Tune in for some Pink Floyd classics!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PinkFloyd"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-sep-5-6",
+   "off": 10,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Continues Next Weekend",
+   "blurb": "The Premier League action rolls into next weekend with big matches including Manchester City vs Coventry, Everton vs Manchester United, and Arsenal vs Chelsea.",
+   "source": {
+    "l": "PremierLeague.com",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Upcoming Fixtures",
+     "copy": "Looking ahead to next weekend's Premier League! Who's ready for Everton vs Manchester United and the London derby of Arsenal vs Chelsea? Predictions?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
      "time": "18:00",
      "tags": [
-      "#Madonna #KylieMinogue"
+      "#PL"
+     ]
+    },
+    {
+     "name": "Big Six Clash",
+     "for": "Nation Radio London",
+     "copy": "Arsenal vs Chelsea next Sunday! A huge London derby to kick off September. Which side are you backing to win?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#ARSCHE"
      ]
     }
    ]
