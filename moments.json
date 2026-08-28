@@ -1,87 +1,15 @@
 {
- "updated": "2026-08-28T07:13:22.196Z",
+ "updated": "2026-08-28T19:39:45.357Z",
  "moments": [
   {
-   "id": "august-bank-holiday-uk",
-   "off": 3,
-   "type": "seasonal",
-   "hot": true,
-   "title": "August Bank Holiday Weekend",
-   "blurb": "The last long weekend of summer for England, Wales, and Northern Ireland is here, with the Bank Holiday falling on Monday, August 31st.",
-   "source": {
-    "l": "GOV.UK",
-    "u": "https://www.gov.uk/bank-holidays"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Last chance for summer fun",
-     "copy": "Who's making the most of the August Bank Holiday weekend? One last hurrah before autumn officially kicks in! #BankHoliday",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#BankHoliday"
-     ]
-    },
-    {
-     "name": "Travel chaos watch",
-     "copy": "Planning a Bank Holiday getaway? Remember to check travel updates – those roads and rails will be busy!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#TravelAlert"
-     ]
-    },
-    {
-     "name": "Staycation vibes",
-     "copy": "Three-day weekend incoming! What's on your agenda for the August Bank Holiday? Relaxing at home or exploring locally?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Staycation"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "reading-leeds-festival-2026",
+   "id": "reading-leeds-2026",
    "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Reading & Leeds Festival Kicks Off",
-   "blurb": "The iconic Reading and Leeds Festivals run this weekend, August 27-30, featuring headliners Charli XCX, Dave, Florence + The Machine, Fontaines D.C., Chase & Status, and Raye.",
+   "title": "Reading & Leeds Festivals Underway",
+   "blurb": "The twin music festivals, Reading and Leeds, are in full swing this Bank Holiday weekend, running from August 27th to 30th, featuring headliners like Charli XCX, Chase & Status, Dave, Florence + The Machine, Fontaines D.C., and Raye.",
    "source": {
-    "l": "Reading Festival Official",
+    "l": "Reading & Leeds Festival Official",
     "u": "https://www.readingfestival.com/"
    },
    "fits": [
@@ -96,12 +24,21 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Festival weekend starts",
-     "copy": "Reading & Leeds Festival is officially underway! Who are you most excited to see tear up the stage this weekend?",
+     "name": "Festival Vibe",
+     "for": "",
+     "copy": "Reading & Leeds is officially ON! Who are you buzzing to see this weekend? Drop your must-catch acts below!",
      "channels": [
       "instagram",
       "facebook",
@@ -109,48 +46,425 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#RandL26"
      ]
     },
     {
-     "name": "Headline acts",
-     "copy": "Charli XCX, Dave, Florence + The Machine, Fontaines D.C., Chase & Status, and Raye are leading the charge at Reading & Leeds. What a lineup!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#FestivalVibes"
-     ]
-    },
-    {
-     "name": "Weather watch",
-     "copy": "Sun cream or wellies? Festival-goers at Reading & Leeds, let us know the vibe on the ground!",
+     "name": "Headline Highlight",
+     "for": "Nation Rocks",
+     "copy": "From Fontaines D.C. to Florence + The Machine, the rock and indie legends are owning Reading & Leeds this Bank Holiday. Who's bringing the noise for you?",
      "channels": [
       "instagram",
-      "x",
-      "threads"
+      "facebook",
+      "x"
      ],
-     "time": "14:00",
+     "time": "11:00",
      "tags": [
-      "#FestivalWeather"
+      "#ReadingFestival"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-matchweek-2-3",
+   "id": "bon-jovi-uk-tour",
    "off": 0,
-   "type": "sport",
+   "type": "gig",
    "hot": true,
-   "title": "Premier League Weekend Action",
-   "blurb": "Premier League football continues with Matchweek 2 and 3 fixtures, including Crystal Palace vs Man City tonight (Aug 28) and Aston Villa vs Arsenal on Monday (Aug 31).",
+   "title": "Bon Jovi's 'Forever Tour' Hits UK",
+   "blurb": "Rock icons Bon Jovi are back in the UK for their 'Forever Tour', with dates in London and Edinburgh from August 28th to September 4th.",
    "source": {
-    "l": "Premier League Official",
-    "u": "https://www.premierleague.com/fixtures"
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/bon-jovi-tickets/artist/734493"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tour Kick-off",
+     "for": "Nation Rocks",
+     "copy": "It's happening! Bon Jovi's 'Forever Tour' kicks off in the UK tonight. Who's got tickets and ready to sing along to all the classics?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#BonJoviForever"
+     ]
+    },
+    {
+     "name": "London/Edinburgh Buzz",
+     "for": "Nation Radio London",
+     "copy": "London! Bon Jovi are in town for the 'Forever Tour'. Get ready for a night of stadium rock anthems!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#BonJovi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ariana-grande-london",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Ariana Grande Continues O2 Residency",
+   "blurb": "Ariana Grande's 'The Eternal Sunshine Tour' continues its London O2 residency with shows tonight, August 31st, and September 1st.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/ariana-grande-tickets/artist/1640579"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London Shows",
+     "for": "Nation Radio London",
+     "copy": "Ariana Grande takes over The O2 again tonight! Who's heading to London for 'The Eternal Sunshine Tour'?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#ArianaGrande"
+     ]
+    },
+    {
+     "name": "Pop Queen",
+     "for": "Nation Hits",
+     "copy": "Our pop queen Ariana Grande is blessing London with more 'Eternal Sunshine' this week. What's your favourite track from the new album live?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#EternalSunshine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shania-twain-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 61st Birthday Shania Twain",
+   "blurb": "Country-pop superstar Shania Twain turns 61 today, known for hits like 'Man! I Feel Like A Woman!' and 'That Don't Impress Me Much'.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august28.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Shoutout",
+     "for": "Nation 90s",
+     "copy": "Happy 61st Birthday to the one and only Shania Twain! What's your ultimate Shania anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#ShaniaTwain"
+     ]
+    },
+    {
+     "name": "Icon Status",
+     "for": "Nation Classic Hits",
+     "copy": "Still rocking it at 61! Sending birthday love to country-pop icon Shania Twain today.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#QueenOfCountryPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "florence-welch-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 40th Birthday Florence Welch",
+   "blurb": "Florence Welch, the enigmatic frontwoman of Florence + The Machine, celebrates her 40th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/august28.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Wish",
+     "for": "Nation Rocks",
+     "copy": "Happy 40th Birthday to the incredible Florence Welch! What's your favourite Florence + The Machine track to get lost in?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#FlorenceWelch"
+     ]
+    },
+    {
+     "name": "Musical Influence",
+     "for": "Nation Hits",
+     "copy": "Celebrating 40 years of powerful vocals and ethereal vibes! Happy Birthday, Florence Welch!",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FlorenceAndTheMachine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "singles-chart-update",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sam Fender & Olivia Dean Still UK #1",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' holds the UK Official Singles Chart #1 spot for an incredible 22nd week, with new entries this week from artists including Alex Warren and Ella Langley.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Domination",
+     "for": "Nation Hits",
+     "copy": "22 weeks at #1! Sam Fender & Olivia Dean are still dominating the Official Singles Chart. Is 'Rein Me In' your song of the summer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Music Alert",
+     "for": "Nation Hits",
+     "copy": "New music hitting the charts this week from Alex Warren, Ella Langley, and more! What new track are you rinsing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-prodigy-edinburgh",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "The Prodigy Live in Edinburgh",
+   "blurb": "The Prodigy bring their electrifying live show to the Royal Highland Showgrounds in Edinburgh tomorrow, August 29th.",
+   "source": {
+    "l": "GIGSANDTOURS",
+    "u": "https://www.gigsandtours.com/tour/the-prodigy"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Edinburgh Rave",
+     "for": "Nation Dance",
+     "copy": "Edinburgh! Get ready for The Prodigy tomorrow night. Expect pure fire and classic bangers!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#TheProdigy"
+     ]
+    },
+    {
+     "name": "90s Icons",
+     "for": "Nation 90s",
+     "copy": "Still bringing the energy after decades! The Prodigy are live in Scotland tomorrow. What's your all-time favourite Prodigy track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#Firestarter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jack-white-newcastle",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Jack White Plays Newcastle",
+   "blurb": "Rock maestro Jack White performs at the O2 City Hall in Newcastle tomorrow, August 29th.",
+   "source": {
+    "l": "GIGSANDTOURS",
+    "u": "https://www.gigsandtours.com/tour/jack-white"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Newcastle Rock",
+     "for": "Nation Radio North East",
+     "copy": "Jack White is in Newcastle tomorrow! Who's ready for a night of epic guitar riffs at the O2 City Hall?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#JackWhite"
+     ]
+    },
+    {
+     "name": "Guitar Hero",
+     "for": "Nation Rocks",
+     "copy": "Tomorrow, Jack White brings his unique sound to Newcastle. What's your favourite White Stripes or Raconteurs track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "20:00",
+     "tags": [
+      "#RockAndRoll"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "back-to-school-uk",
+   "off": 4,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Back to School Next Week",
+   "blurb": "Schools across England and Wales are set to reopen for the new academic year from September 1st, with Northern Ireland following on September 2nd.",
+   "source": {
+    "l": "Icelolly.com",
+    "u": "https://www.icelolly.com/blog/uk-school-holidays-and-half-term-dates-2026-27"
    },
    "fits": [
     {
@@ -162,64 +476,50 @@
      "sub": ""
     },
     {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
      "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Friday Night Football",
-     "copy": "It's Friday night football! Crystal Palace take on Man City tonight. Who's getting the points?",
+     "name": "End of Summer",
+     "for": "",
+     "copy": "The summer holidays are drawing to a close! Good luck to everyone heading back to school next week across England and Wales.",
      "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Weekend fixtures",
-     "copy": "Big weekend of Premier League action ahead! Liverpool, Chelsea, Man Utd and more are all playing. Any upsets on the cards?",
-     "channels": [
-      "x",
+      "instagram",
       "facebook",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
-      "#PL"
+      "#BackToSchool"
      ]
     },
     {
-     "name": "Monday Night Football",
-     "copy": "Rounding off the Bank Holiday weekend, Aston Villa host Arsenal on Monday night. Huge game for both sides!",
+     "name": "Welsh Schools",
+     "for": "welsh-local",
+     "copy": "Dydd mawr i bawb sy'n dychwelyd i'r ysgol yr wythnos nesaf! Pob lwc i'r disgyblion a'r athrawon yn ôl yn yr ystafell ddosbarth.",
      "channels": [
-      "x",
-      "facebook"
+      "facebook",
+      "x"
      ],
-     "time": "10:00",
+     "time": "10:30",
      "tags": [
-      "#MNF"
+      "#Ysgol"
      ]
     }
    ]
   },
   {
-   "id": "gbbo-returns-september",
-   "off": 32,
+   "id": "gbbo-returns",
+   "off": 5,
    "type": "tv",
    "hot": true,
-   "title": "Great British Bake Off Return Date",
-   "blurb": "The Great British Bake Off is set to return for its 17th series on Tuesday, September 29, 2026, at 8:00 PM on Channel 4, with Nigella Lawson joining as a new judge.",
+   "title": "Great British Bake Off Returns",
+   "blurb": "Season 17 of 'The Great British Bake Off' begins on Channel 4 on Wednesday, September 2nd at 8:00 PM, with Nigella Lawson joining as a new judge alongside Paul Hollywood.",
    "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/"
+    "l": "The Cake & Bake Show 2026",
+    "u": "https://www.thecakeandbakeshow.co.uk/blog/the-great-british-bake-off-returns"
    },
    "fits": [
     {
@@ -229,8 +529,9 @@
    ],
    "angles": [
     {
-     "name": "Bake Off is back!",
-     "copy": "Get ready for soggy bottoms and Hollywood handshakes! The Great British Bake Off returns September 29th on Channel 4!",
+     "name": "Bake Off Excitement",
+     "for": "",
+     "copy": "Get ready to pre-heat your ovens! The Great British Bake Off is back next Wednesday, Sept 2nd, on Channel 4. Who's excited for the new batch of bakers and new judge Nigella Lawson?",
      "channels": [
       "instagram",
       "facebook",
@@ -244,102 +545,30 @@
      ]
     },
     {
-     "name": "New judge Nigella",
-     "copy": "Nigella Lawson joins Paul Hollywood in the Bake Off tent as the new judge! What do you think of the new line-up?",
+     "name": "New Judge",
+     "for": "",
+     "copy": "Nigella Lawson in the Bake Off tent! We can't wait to see what she brings to the judging panel when GBBO returns next week.",
      "channels": [
-      "x",
       "facebook",
-      "threads"
+      "x"
      ],
-     "time": "13:00",
+     "time": "15:00",
      "tags": [
       "#BakeOff"
      ]
-    },
-    {
-     "name": "Who's your Star Baker?",
-     "copy": "Season 17 of Bake Off is just around the corner. Time to start picking your potential Star Bakers!",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#StarBaker"
-     ]
     }
    ]
   },
   {
-   "id": "strictly-come-dancing-september",
-   "off": 22,
-   "type": "tv",
+   "id": "world-cup-qualifiers",
+   "off": 7,
+   "type": "sport",
    "hot": true,
-   "title": "Strictly Come Dancing Launch",
-   "blurb": "Strictly Come Dancing is scheduled to return with its launch show on Saturday, September 19, 2026, on BBC One, with live shows starting September 26. Emma Willis, Josh Widdicombe, and Johannes Radebe join as new hosts.",
+   "title": "Football World Cup Qualifiers",
+   "blurb": "International football returns with FIFA World Cup qualifiers next week, including Wales, Northern Ireland, Scotland, and England in action between September 4th and 6th.",
    "source": {
-    "l": "BBC One",
-    "u": "https://www.bbc.co.uk/strictly"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly's back!",
-     "copy": "Dust off your glitterball! Strictly Come Dancing is back on BBC One from September 19th! Who are you hoping to see on the dancefloor?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#Strictly"
-     ]
-    },
-    {
-     "name": "New hosts revealed",
-     "copy": "Emma Willis, Josh Widdicombe, and Johannes Radebe are the new hosts for Strictly! Big shoes to fill but what an exciting trio!",
-     "channels": [
-      "x",
-      "facebook",
-      "threads"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#StrictlyHosts"
-     ]
-    },
-    {
-     "name": "Celebrity line-up",
-     "copy": "The celebrity line-up for Strictly 2026 is complete! Get ready for some serious ballroom battles.",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#SCD"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "back-to-school-uk",
-   "off": 4,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Back to School Week",
-   "blurb": "Schools across England and Wales generally return for the new academic year on September 1st, with Northern Ireland following on September 2nd.",
-   "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/school-term-dates-and-holidays"
+    "l": "londonseprimarypehwb.com",
+    "u": "https://www.londonseprimarypehwb.com/sports-calendar-2026"
    },
    "fits": [
     {
@@ -351,450 +580,97 @@
      "sub": ""
     },
     {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
      "g": "dragon",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "End of summer holidays",
-     "copy": "The summer holidays are officially drawing to a close! Wishing all students heading back to school next week a fantastic new term!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#BackToSchool"
-     ]
-    },
-    {
-     "name": "School run prep",
-     "copy": "Parents, the school run is back! Who's ready for early mornings and packed lunches again?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#SchoolRun"
-     ]
-    },
-    {
-     "name": "New term excitement",
-     "copy": "New year, new uniform, new beginnings! What are you most looking forward to about the new school term?",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NewTerm"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "alex-warren-wildchild-album",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "New Album: Alex Warren - WILDCHILD",
-   "blurb": "TikTok star Alex Warren releases his second album, 'WILDCHILD,' today, August 28th, following his successful debut.",
-   "source": {
-    "l": "Official Charts",
-    "u": "https://www.officialcharts.com/chart-news/new-album-releases-2026-dates-for-blossoms-alex-warren-adela-and-more__39031/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New music Friday",
-     "copy": "New Music Friday! Alex Warren drops his highly anticipated second album, 'WILDCHILD', today. Have you had a listen yet?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#NewMusicFriday"
-     ]
-    },
-    {
-     "name": "TikTok star's new album",
-     "copy": "From TikTok sensation to album chart contender! Alex Warren's 'WILDCHILD' is out now. What's your favourite track?",
-     "channels": [
-      "tiktok",
-      "instagram"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#AlexWarren"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "florence-welch-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Florence Welch",
-   "blurb": "Florence Welch, lead singer of Florence + The Machine, turns 40 today, August 28th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august28.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Celebrating Florence",
-     "copy": "Sending big birthday wishes to the incredible Florence Welch, who turns 40 today! What's your go-to Florence + The Machine anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#FlorenceWelch"
-     ]
-    },
-    {
-     "name": "Florence's iconic style",
-     "copy": "Happy 40th to the one and only Florence Welch! Celebrating her powerful vocals and iconic style today.",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#FlorenceAndTheMachine"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shania-twain-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Shania Twain",
-   "blurb": "Country-pop icon Shania Twain celebrates her 61st birthday today, August 28th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august28.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Still the one",
-     "copy": "Happy 61st Birthday to the legendary Shania Twain! What's your favourite song from the Queen of Country Pop?",
+     "name": "International Break",
+     "for": "nation-network",
+     "copy": "The international break is almost here! Our home nations are in World Cup qualifying action next week. Who are you backing?",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#ShaniaTwain"
-     ]
-    },
-    {
-     "name": "Let's go girls!",
-     "copy": "Happy Birthday to Shania Twain! Still 'The Woman In Me' after all these years. Celebrate with her biggest hits!",
-     "channels": [
-      "facebook",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#CountryPop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jack-black-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Jack Black",
-   "blurb": "Actor and Tenacious D frontman Jack Black turns 57 today, August 28th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/august28.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock God's Birthday",
-     "copy": "Happy 57th Birthday to the one and only Jack Black! From Tenacious D to Hollywood, he's a true legend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
      ],
      "time": "11:00",
      "tags": [
-      "#JackBlack"
+      "#WorldCupQualifiers"
      ]
     },
     {
-     "name": "Favourite Jack Black moment",
-     "copy": "Celebrating Jack Black's 57th birthday today! What's your favourite movie role or Tenacious D song?",
+     "name": "Wales Football",
+     "for": "welsh-local",
+     "copy": "Cymru yn chwarae yn erbyn Kazakhstan ar Fedi 4ydd! Pob lwc i'r tîm yn eu gêm gymhwyso Cwpan y Byd. #TogetherStronger",
      "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#TenaciousD"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ryan-ross-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Ryan Ross",
-   "blurb": "Former Panic! At The Disco guitarist and The Young Veins frontman Ryan Ross turns 40 on August 30th.",
-   "source": {
-    "l": "idobi Radio",
-    "u": "https://idobi.com/features/12-alternative-musicians-celebrating-birthdays-this-august/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Panic! icon's birthday",
-     "copy": "Wishing a very Happy 40th Birthday to Ryan Ross on Sunday! Celebrate the former Panic! At The Disco guitarist with some classic tunes.",
-     "channels": [
-      "instagram",
       "facebook",
       "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RyanRoss"
-     ]
-    },
-    {
-     "name": "Throwback to Panic!",
-     "copy": "Happy Birthday to Ryan Ross this Sunday! What's your favourite early Panic! At The Disco track from his era?",
-     "channels": [
-      "tiktok",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PATD"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "beyonce-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Beyoncé",
-   "blurb": "Global superstar Beyoncé celebrates her 45th birthday on September 4th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september4.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen Bey's Birthday",
-     "copy": "All hail Queen Bey! Beyoncé turns 45 on September 4th. Get ready to celebrate with her biggest anthems!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Beyonce"
-     ]
-    },
-    {
-     "name": "Celebrating the icon",
-     "copy": "Mark your calendars! September 4th is Beyoncé's birthday. What's your all-time favourite Beyoncé song or Destiny's Child classic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#QueenBey"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "james-bay-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday James Bay",
-   "blurb": "English singer-songwriter James Bay turns 35 on September 4th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september4.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "James Bay turns 35",
-     "copy": "Happy 35th Birthday to the brilliant James Bay on September 4th! What's your favourite track from the 'Hold Back The River' singer?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#JamesBay"
-     ]
-    },
-    {
-     "name": "Celebrating a talent",
-     "copy": "Wishing James Bay a very Happy Birthday this September 4th! Time to crank up those acoustic anthems.",
-     "channels": [
-      "facebook",
-      "threads"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#SingerSongwriter"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kim-thayil-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Kim Thayil",
-   "blurb": "Soundgarden guitarist Kim Thayil celebrates his 66th birthday on September 4th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/September_4"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Soundgarden legend",
-     "copy": "Happy 66th Birthday to Soundgarden's legendary guitarist, Kim Thayil, on September 4th! What's your favourite Soundgarden riff?",
-     "channels": [
-      "x",
-      "facebook"
      ],
      "time": "12:00",
      "tags": [
-      "#KimThayil"
+      "#Cymru"
      ]
+    }
+   ]
+  },
+  {
+   "id": "jay-z-london",
+   "off": 7,
+   "type": "gig",
+   "hot": true,
+   "title": "JAY-Z Live in London",
+   "blurb": "Hip-hop icon JAY-Z is set to perform in London on September 4th and 5th.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/jay-z-tickets/artist/735070"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
-     "name": "Grunge icon",
-     "copy": "Celebrating grunge icon Kim Thayil's birthday this September 4th. The Soundgarden co-founder's guitar work is still as powerful as ever.",
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hova in London",
+     "for": "Nation Radio London",
+     "copy": "The Jigga Man is coming to London! JAY-Z hits the stage on Sept 4th & 5th. Who's got their tickets ready?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x"
      ],
      "time": "17:00",
      "tags": [
-      "#Soundgarden"
+      "#JAYZ"
+     ]
+    },
+    {
+     "name": "Hip Hop Legend",
+     "for": "Nation Hits",
+     "copy": "It's Hov season in London next week! Get ready for a masterclass from one of hip-hop's greatest, JAY-Z.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#HipHop"
      ]
     }
    ]
@@ -804,11 +680,11 @@
    "off": 7,
    "type": "culture",
    "hot": true,
-   "title": "New Album: Angus & Julia Stone - Karaoke Bar",
-   "blurb": "Australian indie-folk duo Angus & Julia Stone are set to release their new album 'Karaoke Bar' on September 4th.",
+   "title": "Angus & Julia Stone New Album",
+   "blurb": "Angus & Julia Stone release their new album 'Karaoke Bar' on Friday, September 4th.",
    "source": {
     "l": "Official Charts",
-    "u": "https://www.officialcharts.com/chart-news/new-album-releases-2026-dates-for-blossoms-alex-warren-adela-and-more__39031/"
+    "u": "https://www.officialcharts.com/chart-news/new-album-releases-2026-dates-for-blossoms-alex-warren-adela-and-more--40106/"
    },
    "fits": [
     {
@@ -818,14 +694,32 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Angus & Julia Stone new music",
-     "copy": "New music alert! Angus & Julia Stone drop their album 'Karaoke Bar' next Friday, September 4th. Who's excited for some new indie-folk gems?",
+     "name": "New Release Friday",
+     "for": "Nation Hits",
+     "copy": "New music Friday incoming! Angus & Julia Stone drop their album 'Karaoke Bar' next week. What are you hoping to hear?",
      "channels": [
       "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#NewMusicFriday"
+     ]
+    },
+    {
+     "name": "Acoustic Vibes",
+     "for": "Nation Easy",
+     "copy": "Get ready for some soulful new tunes. Angus & Julia Stone's 'Karaoke Bar' arrives next Friday.",
+     "channels": [
       "facebook",
       "x"
      ],
@@ -833,17 +727,107 @@
      "tags": [
       "#AngusJuliaStone"
      ]
+    }
+   ]
+  },
+  {
+   "id": "womens-rugby-world-cup",
+   "off": 9,
+   "type": "sport",
+   "hot": true,
+   "title": "Women's Rugby World Cup UK Matches",
+   "blurb": "The Women's Rugby World Cup kicks off in England in September, with matches including England vs Australia in Brighton and Wales vs Fiji in Exeter on September 6th.",
+   "source": {
+    "l": "londonseprimarypehwb.com",
+    "u": "https://www.londonseprimarypehwb.com/sports-calendar-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
     },
     {
-     "name": "Album release next week",
-     "copy": "Get ready for 'Karaoke Bar' from Angus & Julia Stone, out next week! Any predictions for their new sound?",
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rugby Excitement",
+     "for": "nation-network",
+     "copy": "The Women's Rugby World Cup is nearly here! England, Wales, and Scotland all have matches in the UK next week. Who are you supporting?",
      "channels": [
-      "x",
-      "threads"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "15:00",
+     "time": "10:00",
      "tags": [
-      "#NewAlbum"
+      "#WomensRugby"
+     ]
+    },
+    {
+     "name": "Exeter Matches",
+     "for": "radio-exe",
+     "copy": "Exeter! The Women's Rugby World Cup is coming to Sandy Park on Sept 6th with Wales vs Fiji. Get your tickets and cheer them on!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ExeterRugby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iqfoil-world-championships",
+   "off": 10,
+   "type": "sport",
+   "hot": true,
+   "title": "iQFOil World Championships Start",
+   "blurb": "The iQFOil World Championships, a major international windsurfing event, are set to begin in the UK on September 7th and run until September 12th.",
+   "source": {
+    "l": "UK Sport",
+    "u": "https://www.uksport.gov.uk/events"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Sailing Event",
+     "for": "",
+     "copy": "The iQFOil World Championships start in the UK next Monday! Get ready for some high-speed windsurfing action.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#iQFOil"
+     ]
+    },
+    {
+     "name": "Watersports",
+     "for": "",
+     "copy": "Calling all watersports fans! The iQFOil World Championships bring elite windsurfing to the UK from Sept 7th.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Windsurfing"
      ]
     }
    ]
