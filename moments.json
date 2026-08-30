@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-30T00:51:34.795Z",
+ "updated": "2026-08-30T05:58:51.126Z",
  "moments": [
   {
-   "id": "summer-bank-holiday",
-   "off": 1,
-   "type": "seasonal",
+   "id": "us-open-start",
+   "off": 0,
+   "type": "sport",
    "hot": true,
-   "title": "Summer Bank Holiday Monday",
-   "blurb": "England, Wales, and Northern Ireland observe the Summer Bank Holiday on Monday, August 31st, marking a final long weekend before autumn.",
+   "title": "US Open Kicks Off",
+   "blurb": "The final Grand Slam of the tennis season, the US Open, begins today in New York, running until September 13th.",
    "source": {
-    "l": "Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
+    "l": "US Open Official Site / Wikipedia",
+    "u": "https://www.usopen.org/"
    },
    "fits": [
     {
@@ -20,56 +20,42 @@
    ],
    "angles": [
     {
-     "name": "Relaxed Vibe",
-     "copy": "Three-day weekend incoming! Who's making the most of the Summer Bank Holiday Monday? Lie-ins, day trips or garden parties?",
+     "name": "Grand Slam excitement",
+     "copy": "Game, set, match! The US Open main draw gets underway today in New York. Who are you backing for the final Grand Slam title of 2026?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "08:00",
+     "time": "09:00",
      "tags": [
-      "#BankHoliday"
+      "#USOpen"
      ]
     },
     {
-     "name": "Traffic/Travel Alert",
-     "copy": "Bank Holiday getaway traffic building already! If you're heading out this weekend, expect some busy roads and public transport. Plan ahead!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#BankHolidayTraffic"
-     ]
-    },
-    {
-     "name": "Work vs Play",
-     "copy": "For some, it's a well-deserved day off. For others, it's business as usual. Shout out to everyone working this Bank Holiday Monday!",
+     "name": "British interest",
+     "copy": "Big serves and huge rallies! The US Open is here. Keep an eye on the Brits as they battle it out on the hard courts in Flushing Meadows.",
      "channels": [
       "facebook",
-      "x",
-      "instagram"
+      "x"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#BankHolidayMonday"
+      "#Tennis"
      ]
     }
    ]
   },
   {
-   "id": "reading-leeds-festival-final",
+   "id": "notting-hill-carnival",
    "off": 0,
-   "type": "gig",
+   "type": "culture",
    "hot": true,
-   "title": "Reading & Leeds Festival wraps up",
-   "blurb": "The twin Reading and Leeds Festivals conclude today, Sunday August 30th, after a weekend of headline performances from acts like Charli XCX, Dave, Florence + The Machine, and Raye.",
+   "title": "Notting Hill Carnival Weekend",
+   "blurb": "Europe's largest street festival, Notting Hill Carnival, brings vibrant Caribbean culture, music, and parades to West London this Bank Holiday weekend.",
    "source": {
-    "l": "Reading Festival Official",
-    "u": "https://www.readingfestival.com/"
+    "l": "VisitBritain / London Convention Bureau",
+    "u": "https://www.visitbritain.com/en/things-to-do/events/august"
    },
    "fits": [
     {
@@ -77,8 +63,155 @@
      "sub": ""
     },
     {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Carnival vibes",
+     "copy": "The streets of West London are alive with colour, music, and incredible energy as Notting Hill Carnival takes over for the Bank Holiday weekend! What a vibe!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#NottingHillCarnival"
+     ]
+    },
+    {
+     "name": "London's biggest party",
+     "copy": "It's one of the biggest parties in Europe! Notting Hill Carnival is in full swing, celebrating Caribbean culture right here in London.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#LondonEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aew-all-in",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "AEW All In at Wembley",
+   "blurb": "All Elite Wrestling brings its major 'All In' pay-per-view event to Wembley Stadium today, drawing a massive crowd for the wrestling spectacle.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/All_In_(2026)"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wrestling fever",
+     "copy": "Wembley Stadium is set for a huge night of action as AEW All In takes place today! Who are you hoping to see crowned champion?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#AEWAllIn"
+     ]
+    },
+    {
+     "name": "Live at Wembley",
+     "copy": "It's a huge day for wrestling fans! AEW All In live from Wembley Stadium today – expect fireworks, drama and incredible athleticism.",
+     "channels": [
+      "instagram",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Wembley"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "asap-rocky-o2",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "A$AP Rocky at The O2",
+   "blurb": "US rapper A$AP Rocky plays a major headline show tonight at The O2 Arena in London as part of his 'Don't Be Dumb World Tour'.",
+   "source": {
+    "l": "The O2 / London Theatreland",
+    "u": "https://www.theo2.co.uk/events/detail/a-ap-rocky"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London gig tonight",
+     "copy": "A$AP Rocky takes over The O2 Arena tonight in London! Who's heading down for the 'Don't Be Dumb' tour?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#ASAPRocky"
+     ]
+    },
+    {
+     "name": "Hip-hop headline",
+     "copy": "Big night for hip-hop in London! A$AP Rocky live at The O2. Expect a massive setlist and an electric atmosphere.",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#LondonGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ariana-grande-o2",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Ariana Grande Continues O2 Residency",
+   "blurb": "Ariana Grande continues her 'Eternal Sunshine Tour' residency at The O2 Arena in London this week, with multiple sold-out dates running until September 1st.",
+   "source": {
+    "l": "The O2 / Heathrow Express",
+    "u": "https://www.theo2.co.uk/events/detail/ariana-grande"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
      "g": "decades-genres",
@@ -91,199 +224,237 @@
    ],
    "angles": [
     {
-     "name": "Festival Finale",
-     "copy": "That's a wrap for Reading & Leeds 2026! What was your highlight from the weekend? And who are you desperate to see next year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#RandL26"
-     ]
-    },
-    {
-     "name": "Headliner Shoutout",
-     "copy": "Florence + The Machine, Dave, Charli XCX... the Reading & Leeds headliners brought their A-game. Who delivered your favourite performance?",
-     "channels": [
-      "x",
-      "facebook",
-      "instagram"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ReadingFestival"
-     ]
-    },
-    {
-     "name": "Post-Festival Blues",
-     "copy": "The tents are coming down, the glitter's fading... who's feeling the post-Reading & Leeds blues this Monday morning?",
+     "name": "Pop superstar",
+     "copy": "Still buzzing from the weekend? Ariana Grande's 'Eternal Sunshine' residency continues at The O2 this week! Who managed to grab tickets?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#LeedsFestival"
+      "#ArianaGrande"
+     ]
+    },
+    {
+     "name": "London's pop event",
+     "copy": "Ariana Grande is still lighting up The O2 this week with her incredible 'Eternal Sunshine' shows. If you're going, get ready for a spectacular night!",
+     "channels": [
+      "tiktok",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#TheO2"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-matchweek-3",
+   "id": "bank-holiday",
+   "off": 1,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Summer Bank Holiday",
+   "blurb": "Tomorrow, Monday August 31st, is the Summer Bank Holiday in England, Wales, and Northern Ireland.",
+   "source": {
+    "l": "Rick Steves Europe / London Convention Bureau",
+    "u": "https://www.ricksteves.com/europe/england/festivals"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Long weekend vibes",
+     "copy": "Enjoying the long weekend? Tomorrow is the Summer Bank Holiday – perfect for an extra day of relaxation or fun!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#BankHoliday"
+     ]
+    },
+    {
+     "name": "Monday off",
+     "copy": "That's right, it's a Bank Holiday Monday tomorrow! How are you planning to make the most of your extra day off?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#SummerBankHoliday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bebe-rexha-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Bebe Rexha",
+   "blurb": "Grammy-nominated pop singer Bebe Rexha celebrates her 37th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/bebe-rexha.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop star birthday",
+     "copy": "Wishing a very Happy 37th Birthday to the incredible Bebe Rexha today! What's your favourite track from the pop powerhouse?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "07:30",
+     "tags": [
+      "#BebeRexha"
+     ]
+    },
+    {
+     "name": "Bebe Rexha turns 37",
+     "copy": "It's Bebe Rexha's birthday! Sending love to the 'I'm Good (Blue)' singer as she turns 37 today.",
+     "channels": [
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#HappyBirthdayBebeRexha"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cian-ducrot-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Cian Ducrot",
+   "blurb": "Irish singer-songwriter Cian Ducrot celebrates his 28th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/cian-ducrot.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Irish talent birthday",
+     "copy": "Happy 28th Birthday to the brilliant Cian Ducrot! Celebrating the Irish singer-songwriter today.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#CianDucrot"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-fixtures",
    "off": 5,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Matchweek 3",
-   "blurb": "The Premier League continues with Matchweek 3 from Friday, September 4th, featuring Ipswich Town vs Liverpool, and big clashes like Arsenal vs Chelsea on Sunday, September 6th.",
+   "title": "Premier League Matchweek 3 & 4",
+   "blurb": "The Premier League season continues with Matchweek 3 fixtures on Friday and Saturday, followed by Matchweek 4 on Saturday and Sunday, featuring Arsenal vs Chelsea.",
    "source": {
-    "l": "Premier League Official",
+    "l": "Premier League / Sky Sports",
     "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Weekend Football Ahead",
-     "copy": "Premier League is back this weekend! Which fixture are you most looking forward to? Can Arsenal get one over Chelsea on Sunday?",
+     "name": "Football weekend ahead",
+     "copy": "Premier League football is back in full swing this weekend! Ipswich v Liverpool kicks us off on Friday, with Arsenal v Chelsea on Sunday. Who are you tipping?",
      "channels": [
-      "x",
-      "facebook"
+      "facebook",
+      "x"
      ],
-     "time": "15:00",
+     "time": "16:30",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Team Predictions",
-     "copy": "Ipswich vs Liverpool kicks off Matchweek 3 on Friday. Who's taking all three points in the early game?",
+     "name": "Big London derby",
+     "copy": "Get ready for a massive London derby on Sunday as Arsenal host Chelsea in the Premier League! What's your score prediction?",
      "channels": [
-      "x",
+      "instagram",
       "facebook"
      ],
-     "time": "14:00",
+     "time": "11:00",
      "tags": [
-      "#Football"
-     ]
-    },
-    {
-     "name": "Derby Day",
-     "copy": "Arsenal vs Chelsea on Sunday – always a fiery encounter! Where are you watching the London derby?",
-     "channels": [
-      "x",
-      "facebook",
-      "instagram"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ARSCEL"
+      "#ARSCHE"
      ]
     }
    ]
   },
   {
-   "id": "f1-italian-gp",
-   "off": 5,
-   "type": "sport",
-   "hot": true,
-   "title": "Formula 1 Italian Grand Prix",
-   "blurb": "The Formula 1 season heads to Monza for the Italian Grand Prix, taking place from September 4-6, 2026.",
-   "source": {
-    "l": "Formula 1 Official",
-    "u": "https://www.formula1.com/en/racing/2026/Italy.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Monza Madness",
-     "copy": "It's Monza week! The Italian Grand Prix is known for its incredible atmosphere and high-speed action. Who's your pick for the win?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#ItalianGP"
-     ]
-    },
-    {
-     "name": "Ferrari's Home Race",
-     "copy": "The Tifosi will be out in force for Ferrari's home race. Can the Scuderia deliver a win on home soil?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#F1"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-transfer-deadline",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Transfer Window Closes",
-   "blurb": "The summer Premier League transfer window is set to close on September 1, 2026, at 11 PM BST, as clubs rush to finalize their squads.",
-   "source": {
-    "l": "Premier League Official",
-    "u": "https://www.premierleague.com"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Deadline Day Drama",
-     "copy": "Transfer Deadline Day is looming! Will your team get that crucial last-minute signing? Expect chaos until 11 PM on September 1st!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DeadlineDay"
-     ]
-    },
-    {
-     "name": "Who Needs What?",
-     "copy": "Which Premier League club desperately needs to make a move before the transfer window slams shut on Tuesday?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#TransferNews"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-update",
+   "id": "uk-singles-chart",
    "off": -3,
    "type": "culture",
    "hot": true,
-   "title": "Official UK Singles Chart Latest",
-   "blurb": "The latest Official UK Singles Chart for August 27th sees Sam Fender and Olivia Dean's 'Rein Me In' holding strong at number one for a remarkable 23rd week.",
+   "title": "Sam Fender & Olivia Dean Hold UK No.1",
+   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' remains at number one on the Official UK Singles Chart for an incredible 22nd week, as of August 27th.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
@@ -294,162 +465,57 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Chart Topper",
-     "copy": "23 weeks at Number 1 for Sam Fender & Olivia Dean! Is 'Rein Me In' officially one of the biggest songs of all time? #UKCharts",
+     "name": "Chart domination",
+     "copy": "Still reigning supreme! Sam Fender & Olivia Dean's 'Rein Me In' is Number 1 on the Official UK Singles Chart for 22 weeks. Incredible!",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#Number1"
-     ]
-    },
-    {
-     "name": "New Entries",
-     "copy": "Dolly Parton with multiple re-entries, and Fontaines D.C. hitting the chart with 'Marianne'! What's your favourite new or returning track on the chart?",
-     "channels": [
-      "x",
-      "facebook",
-      "tiktok"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#NewMusic"
-     ]
-    },
-    {
-     "name": "Chart Talk",
-     "copy": "What tracks are you listening to that should be climbing the charts? Let us know your current bangers!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#Music"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tv-vigil-trigger-point",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "New TV Drama Premieres: Vigil & Trigger Point",
-   "blurb": "Sunday, August 30th brings two major new drama series to UK screens: 'Vigil' on BBC One and 'Trigger Point' on ITV1, both starting at 9pm.",
-   "source": {
-    "l": "TV Zone",
-    "u": "https://www.tvzoneuk.com/post/schedules-confirmed-29th-august-04-september-2026-new-and-returning-titles-revealed"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Sunday Night Drama",
-     "copy": "Big night for new TV drama! Will you be watching 'Vigil' on BBC One or 'Trigger Point' on ITV1 tonight? Or both?",
-     "channels": [
-      "x",
-      "facebook",
-      "instagram"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#Vigil #TriggerPoint"
-     ]
-    },
-    {
-     "name": "What's Your Pick?",
-     "copy": "Submarine thriller 'Vigil' or bomb disposal unit 'Trigger Point'? Which new series are you diving into tonight at 9pm?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#NewTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tv-taskmaster-drag-race-uk",
-   "off": 4,
-   "type": "tv",
-   "hot": true,
-   "title": "Taskmaster & RuPaul's Drag Race UK Return",
-   "blurb": "Thursday, September 3rd sees the return of fan favourites 'Taskmaster' and 'RuPaul's Drag Race UK', both airing at 9pm on Channel 4 and BBC Three respectively.",
-   "source": {
-    "l": "TV Zone",
-    "u": "https://www.tvzoneuk.com/post/schedules-confirmed-29th-august-04-september-2026-new-and-returning-titles-revealed"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Thursday Night Fun",
-     "copy": "Thursday night just got a whole lot better! Taskmaster AND RuPaul's Drag Race UK are back on September 3rd. What's first on your watch list?",
-     "channels": [
-      "x",
-      "facebook",
-      "instagram",
-      "tiktok"
      ],
      "time": "10:00",
      "tags": [
-      "#Taskmaster #DragRaceUK"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Comedy vs Camp",
-     "copy": "Get ready for more ridiculous tasks and runway fierce-ness! Who are you most excited to see return to your screens?",
+     "name": "New chart entries",
+     "copy": "Beyond the top spot, the new UK Singles Chart features re-entries from Dolly Parton and new tracks from Katseye. What's your favourite right now?",
      "channels": [
       "x",
-      "facebook"
+      "tiktok"
      ],
-     "time": "12:00",
+     "time": "14:00",
      "tags": [
-      "#NewSeries"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
-   "id": "bday-van-morrison",
+   "id": "van-morrison-bday",
    "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Van Morrison turns 81",
-   "blurb": "Northern Irish singer-songwriter Van Morrison, known for hits like 'Brown Eyed Girl' and 'Moondance', celebrates his 81st birthday on August 31st. He was born in 1945.",
+   "hot": true,
+   "title": "Happy Birthday Van Morrison",
+   "blurb": "Legendary Northern Irish singer-songwriter Van Morrison celebrates his 81st birthday tomorrow.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Van_Morrison"
+    "l": "SFGATE",
+    "u": "https://www.sfgate.com/entertainment/article/Celebrity-birthdays-for-the-week-of-Aug-30-Sept-5-15513220.php"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
@@ -458,30 +524,33 @@
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Legendary Birthday",
-     "copy": "Happy 81st Birthday to the one and only Van Morrison! What's your go-to track from the Belfast Cowboy?",
+     "name": "Music legend birthday",
+     "copy": "Tomorrow, the iconic Van Morrison turns 81! What's your all-time favourite 'Van the Man' song?",
      "channels": [
       "facebook",
-      "x",
-      "instagram"
+      "x"
      ],
-     "time": "09:00",
+     "time": "12:00",
      "tags": [
       "#VanMorrison"
      ]
     },
     {
-     "name": "Music Icon",
-     "copy": "From 'Brown Eyed Girl' to 'Into The Mystic', Van Morrison has given us so many classics. Raise a glass to an absolute legend turning 81 today!",
+     "name": "Celebrating a pioneer",
+     "copy": "Sending early birthday wishes to the one and only Van Morrison, who celebrates his 81st tomorrow. A true musical pioneer!",
      "channels": [
-      "facebook",
+      "instagram",
       "x"
      ],
-     "time": "11:00",
+     "time": "17:00",
      "tags": [
       "#MusicLegend"
      ]
@@ -489,17 +558,25 @@
    ]
   },
   {
-   "id": "bday-gloria-estefan",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Gloria Estefan turns 69",
-   "blurb": "Cuban-American pop icon Gloria Estefan, famous for 'Conga' and 'Rhythm of the Night', celebrates her 69th birthday on September 1st. She was born in 1957.",
+   "id": "bon-jovi-uk-tour",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Bon Jovi UK Tour Dates",
+   "blurb": "Bon Jovi's 'Forever Tour' continues in the UK this week, with shows at Wembley Stadium in London on September 4th, 6th, and 9th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Gloria_Estefan"
+    "l": "Heathrow Express / Ticketmaster",
+    "u": "https://www.heathrowexpress.com/london-activities/concerts-in-london"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
@@ -507,107 +584,137 @@
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Queen of Latin Pop",
-     "copy": "Get On Your Feet! It's Gloria Estefan's 69th birthday today! What's your favourite track from the legendary singer?",
+     "name": "Rock legends live",
+     "copy": "It's Bon Jovi week! The rock legends bring their 'Forever Tour' to Wembley Stadium on September 4th, 6th, and 9th. Get ready to sing along!",
      "channels": [
       "facebook",
-      "x",
-      "instagram"
+      "x"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#GloriaEstefan"
+      "#BonJovi"
      ]
     },
     {
-     "name": "Dance Party",
-     "copy": "From Miami Sound Machine to solo superstardom, Gloria Estefan always brings the party. Wishing a very happy 69th birthday!",
+     "name": "Wembley rock anthem",
+     "copy": "Living on a prayer for Bon Jovi tickets? They're at Wembley Stadium this week! An unmissable show for rock fans.",
+     "channels": [
+      "instagram",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#WembleyStadium"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "end-of-road-festival",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "End Of The Road Festival Kicks Off",
+   "blurb": "The End Of The Road Festival, known for its eclectic line-up and intimate atmosphere, begins on September 3rd in Larmer Tree Gardens, Dorset.",
+   "source": {
+    "l": "eFestivals / Festival Calendar UK",
+    "u": "https://www.efestivals.co.uk/festivals/endoftheroad/2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival season continues",
+     "copy": "Festival season isn't over yet! End Of The Road Festival starts this Thursday in Dorset. Who's heading to Larmer Tree Gardens?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#EndOfRoadFestival"
+     ]
+    },
+    {
+     "name": "Dorset music escape",
+     "copy": "Looking for a unique festival experience? End Of The Road Festival kicks off this week with its curated mix of indie and alternative acts in beautiful Dorset.",
+     "channels": [
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#UKFestivals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ntas-2026",
+   "off": 9,
+   "type": "tv",
+   "hot": true,
+   "title": "National Television Awards 2026",
+   "blurb": "The National Television Awards 2026 will take place on September 8th, celebrating the best of British television.",
+   "source": {
+    "l": "The O2",
+    "u": "https://www.theo2.co.uk/events/detail/national-television-awards-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "TV's big night",
+     "copy": "The National Television Awards are just around the corner on September 8th! Who do you think deserves to win big this year?",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "11:00",
      "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-barry-gibb",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Barry Gibb turns 80",
-   "blurb": "Sir Barry Gibb, the iconic singer, songwriter, and producer best known as a member of the Bee Gees, celebrates his 80th birthday on September 1st. He was born in 1946.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Barry_Gibb"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bee Gees Legend",
-     "copy": "Stayin' Alive and turning 80! Happy Birthday to the incredible Barry Gibb, a true music legend. What's your favourite Bee Gees song?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#BarryGibb"
+      "#NTAs2026"
      ]
     },
     {
-     "name": "Disco King",
-     "copy": "From disco anthems to timeless ballads, Barry Gibb's voice is instantly recognisable. Wishing him a very happy 80th birthday!",
+     "name": "Voting for your favourites",
+     "copy": "Get ready for TV's biggest night! The National Television Awards are next week. Have you cast your votes for your favourite shows and stars?",
      "channels": [
-      "facebook",
+      "instagram",
       "x"
      ],
-     "time": "12:00",
+     "time": "16:00",
      "tags": [
-      "#BeeGees"
+      "#NationalTelevisionAwards"
      ]
     }
    ]
   },
   {
-   "id": "bday-beyonce",
+   "id": "beyonce-bday",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Beyoncé turns 45",
-   "blurb": "Global superstar Beyoncé, the 'Queen Bey' known for her groundbreaking music and performances, celebrates her 45th birthday on September 4th. She was born in 1981.",
+   "title": "Happy Birthday Beyoncé",
+   "blurb": "Global superstar Beyoncé celebrates her 45th birthday on September 4th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    "l": "AM 920 The ANSWER",
+    "u": "https://am920theanswer.com/content/all/celebrity-birthdays-for-the-week-of-aug-30-sept-5-includes-max-greenfield-and-cameron-diaz"
    },
    "fits": [
     {
@@ -620,72 +727,56 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Happy Bey Day",
-     "copy": "All the single ladies, make some noise! It's Beyoncé's 45th birthday on September 4th! What's your ultimate Queen Bey anthem?",
+     "name": "Queen Bey's birthday",
+     "copy": "Get ready to celebrate Queen Bey! Beyoncé turns 45 on September 4th. What's your ultimate Beyoncé anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#Beyonce"
      ]
     },
     {
-     "name": "Iconic Performer",
-     "copy": "From Destiny's Child to global icon, Beyoncé continues to redefine music and pop culture. Wishing Queen Bey a fierce 45th birthday!",
+     "name": "Celebrating a legend",
+     "copy": "Wishing an early Happy Birthday to the one and only Beyoncé! She turns 45 this Friday. Let's hear your favourite Destiny's Child or solo track!",
      "channels": [
-      "x",
-      "facebook",
-      "instagram"
+      "x"
      ],
-     "time": "11:00",
+     "time": "13:00",
      "tags": [
-      "#QueenBey"
-     ]
-    },
-    {
-     "name": "Birthday Playlist",
-     "copy": "Building the ultimate Beyoncé birthday playlist! Which songs are absolutely essential? Drop your top picks!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Beyhive"
+      "#HappyBirthdayBeyonce"
      ]
     }
    ]
   },
   {
-   "id": "bday-mark-ronson",
+   "id": "mark-ronson-bday",
    "off": 5,
    "type": "birthday",
-   "hot": false,
-   "title": "Mark Ronson turns 51",
-   "blurb": "Grammy-winning DJ, songwriter, and producer Mark Ronson, known for hits like 'Uptown Funk' and his work with Amy Winehouse, celebrates his 51st birthday on September 4th. He was born in 1975.",
+   "hot": true,
+   "title": "Happy Birthday Mark Ronson",
+   "blurb": "Award-winning DJ and producer Mark Ronson celebrates his 51st birthday on September 4th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Mark_Ronson"
+    "l": "AM 920 The ANSWER",
+    "u": "https://am920theanswer.com/content/all/celebrity-birthdays-for-the-week-of-aug-30-sept-5-includes-max-greenfield-and-cameron-diaz"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -694,284 +785,27 @@
    ],
    "angles": [
     {
-     "name": "Producer Genius",
-     "copy": "Happy 51st Birthday to the incredibly talented Mark Ronson! From 'Valerie' to 'Uptown Funk', his magic touch is undeniable. What's your favourite Ronson production?",
+     "name": "Producer's birthday",
+     "copy": "Happy 51st Birthday to the incredible Mark Ronson this Friday! From 'Uptown Funk' to 'Valerie', his hits are timeless.",
      "channels": [
       "facebook",
-      "x",
-      "instagram"
+      "x"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#MarkRonson"
      ]
     },
     {
-     "name": "Funk Master",
-     "copy": "He's got that uptown funk! Wishing a very happy birthday to the DJ and producer extraordinaire, Mark Ronson!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#UptownFunk"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-roger-waters",
-   "off": 7,
-   "type": "birthday",
-   "hot": false,
-   "title": "Roger Waters turns 83",
-   "blurb": "Roger Waters, co-founder and principal songwriter of legendary progressive rock band Pink Floyd, celebrates his 83rd birthday on September 6th. He was born in 1943.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Roger_Waters"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pink Floyd Icon",
-     "copy": "Happy 83rd Birthday to Roger Waters! A visionary behind some of Pink Floyd's most iconic albums. What's your all-time favourite Pink Floyd track?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RogerWaters"
-     ]
-    },
-    {
-     "name": "Progressive Rock Legend",
-     "copy": "From 'The Wall' to 'Dark Side of the Moon', Roger Waters' influence on music is immense. Wishing a very happy birthday to a rock legend!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#PinkFloyd"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-macy-gray",
-   "off": 7,
-   "type": "birthday",
-   "hot": false,
-   "title": "Macy Gray turns 59",
-   "blurb": "Distinctive voiced singer-songwriter Macy Gray, known for her hit 'I Try', celebrates her 59th birthday on September 6th. She was born in 1967.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Macy_Gray"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Unique Voice",
-     "copy": "I Try and I Try and I Try to find a voice like hers! Happy 59th Birthday to the incredible Macy Gray! What's your favourite song from her?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MacyGray"
-     ]
-    },
-    {
-     "name": "Soulful Birthday",
-     "copy": "Wishing a very happy 59th birthday to the soulful and unmistakable Macy Gray!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#SoulMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-idris-elba",
-   "off": 7,
-   "type": "birthday",
-   "hot": false,
-   "title": "Idris Elba turns 54",
-   "blurb": "Acclaimed actor, producer, and DJ Idris Elba, known for roles in 'Luther' and 'The Wire', celebrates his 54th birthday on September 6th. He was born in 1972.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Idris_Elba"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Man of Many Talents",
-     "copy": "Actor, DJ, all-round legend! Happy 54th Birthday to the brilliant Idris Elba! What's your favourite of his roles?",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram",
-      "tiktok"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#IdrisElba"
-     ]
-    },
-    {
-     "name": "Birthday Mix",
-     "copy": "If Idris Elba was spinning a birthday set, what tracks would he play? Wishing him a very happy 54th!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ActorDJ"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bday-pink",
-   "off": 9,
-   "type": "birthday",
-   "hot": false,
-   "title": "P!nk turns 47",
-   "blurb": "Grammy-winning pop-rock superstar P!nk, known for her powerful vocals and acrobatic performances, celebrates her 47th birthday on September 8th. She was born in 1979.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Pink_(singer)"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Get The Party Started",
-     "copy": "Raise your glass! It's P!nk's 47th birthday on September 8th! What's your favourite anthem from the pop-rock queen?",
+     "name": "Celebrating a DJ icon",
+     "copy": "Wishing a very Happy Birthday to the legendary DJ and producer Mark Ronson, who turns 51 on September 4th!",
      "channels": [
       "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Pink"
-     ]
-    },
-    {
-     "name": "Pop-Rock Powerhouse",
-     "copy": "From 'Family Portrait' to 'So What', P!nk consistently delivers. Wishing a very happy 47th birthday to an incredible artist!",
-     "channels": [
-      "x",
-      "facebook",
-      "instagram"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#PopRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "back-to-school-england-wales",
-   "off": 2,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Back to School for England & Wales",
-   "blurb": "Most schools in England, Wales, and Northern Ireland are expected to return for the autumn term between Tuesday, September 1st and Friday, September 4th.",
-   "source": {
-    "l": "Remitly",
-    "u": "https://www.remitly.com/gb/en/guides/back-to-school-uk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "School's Out... Back In!",
-     "copy": "The summer holidays are officially over for many! Good luck to all the students, teachers, and parents heading back to school this week across England, Wales & NI!",
-     "channels": [
-      "facebook",
-      "x",
-      "instagram"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#BackToSchool"
-     ]
-    },
-    {
-     "name": "First Day Nerves",
-     "copy": "New year, new uniform, new pencil case! Who's feeling excited (or a little nervous!) about going back to school this week?",
-     "channels": [
-      "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "14:30",
      "tags": [
-      "#SchoolDays"
+      "#DJLife"
      ]
     }
    ]
