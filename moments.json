@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-30T15:32:33.030Z",
+ "updated": "2026-08-30T18:52:06.926Z",
  "moments": [
   {
-   "id": "august-bank-holiday-uk",
-   "off": 1,
-   "type": "seasonal",
+   "id": "womens-rugby-wc-uk",
+   "off": 0,
+   "type": "sport",
    "hot": true,
-   "title": "August Bank Holiday Monday",
-   "blurb": "The August Bank Holiday, also known as the Late Summer Bank Holiday, takes place on Monday, August 31st, in England, Wales, and Northern Ireland, marking a final long weekend of summer for many.",
+   "title": "Women's Rugby World Cup continues in England",
+   "blurb": "The Women's Rugby World Cup is underway in England, with upcoming matches including Wales vs Fiji and England vs Australia in the next week.",
    "source": {
-    "l": "Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/summer-bank-holiday"
+    "l": "VisitBritain / London Se Primary PE HW",
+    "u": "https://www.visitbritain.org/looking-ahead-britains-sporting-highlights-2026"
    },
    "fits": [
     {
@@ -24,145 +24,226 @@
     {
      "g": "radio-exe",
      "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Bank Holiday Plans",
-     "copy": "Extra day off tomorrow! What are your August Bank Holiday plans? Making the most of the last of summer?",
+     "name": "General Update",
+     "copy": "The Women's Rugby World Cup rolls on in England! Who are you backing to lift the trophy? #WRWC2026",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "17:00",
+     "time": "09:00",
      "tags": [
-      "#BankHoliday"
+      "#WRWC2026"
      ]
     },
     {
-     "name": "Travel Alert",
-     "copy": "Planning to travel this Bank Holiday Monday? Expect busier roads and check public transport schedules as many services will be operating on a reduced timetable.",
+     "name": "Wales Specific",
+     "for": "welsh-local",
+     "copy": "Our Welsh women are in action at the Rugby World Cup, with Wales vs Fiji in Exeter on September 6th. Get behind the team!",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "18:30",
+     "time": "10:30",
      "tags": [
-      "#BankHolidayTravel"
+      "#WelshRugby"
+     ]
+    },
+    {
+     "name": "Exeter / Devon Specific",
+     "for": "radio-exe",
+     "copy": "Big rugby coming to Exeter! The Women's Rugby World Cup sees Wales vs Fiji AND Canada vs Scotland play here on September 6th. Who's heading down?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ExeterRugby"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-aug30",
+   "id": "bon-jovi-uk-tour",
    "off": 0,
-   "type": "sport",
+   "type": "gig",
    "hot": true,
-   "title": "Premier League Sunday action",
-   "blurb": "Today sees several Premier League clashes, including Chelsea vs Brighton, Leeds vs Brentford, Sunderland vs Fulham, and Manchester United vs Ipswich Town.",
+   "title": "Bon Jovi's UK 'Forever' Tour hits London",
+   "blurb": "Rock legends Bon Jovi continue their highly anticipated 'Forever' UK tour with multiple dates in London this week, following their Edinburgh show.",
    "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/football/fixtures-results"
+    "l": "Radio Times / Rayo",
+    "u": "https://www.radiotimes.com/music/concerts/uk-tours-concerts-2026-tickets/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "Match Day Buzz",
-     "copy": "Premier League Sunday! Who are you watching today? Big games including Chelsea v Brighton and Man Utd v Ipswich. Get your predictions in!",
+     "name": "Tour Update",
+     "copy": "Bon Jovi are back! Their 'Forever' tour is hitting London's Wembley Stadium this week on September 4th, 6th and 9th. Have you got your tickets?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BonJoviForever"
+     ]
+    },
+    {
+     "name": "Rock Anthem Focus",
+     "copy": "Living on a Prayer in London! Bon Jovi's UK tour continues this week. What's your ultimate Bon Jovi anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Sunday Football",
-     "copy": "Kicking off this afternoon: Chelsea take on Brighton, while Leeds face Brentford. What's your top match to watch?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Football"
+      "#RockLegends"
      ]
     }
    ]
   },
   {
-   "id": "exeter-city-barnet",
-   "off": 2,
-   "type": "sport",
+   "id": "asap-rocky-uk-tour",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "Exeter City vs Barnet",
-   "blurb": "Exeter City will play their next League Two match at home against Barnet on Tuesday, September 1st, at St James Park.",
+   "title": "A$AP Rocky brings 'Don't Be Dumb' tour to UK cities",
+   "blurb": "US rapper A$AP Rocky is performing across the UK this week, with dates in London today, Glasgow, and Manchester.",
    "source": {
-    "l": "Exeter City FC",
-    "u": "https://www.exetercityfc.co.uk/fixtures-results/"
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/music/concerts/uk-tours-concerts-2026-tickets/"
    },
    "fits": [
     {
-     "g": "radio-exe",
-     "sub": "Radio Exe"
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Grecians Home Game",
-     "copy": "The Grecians are back at St James Park on Tuesday! Exeter City host Barnet in League Two. Who's heading down to cheer them on?",
+     "name": "Tour Kick-off",
+     "copy": "A$AP Rocky is in London tonight for his 'Don't Be Dumb' tour! Get ready for a huge show. Who's there?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "16:00",
+     "time": "15:00",
      "tags": [
-      "#ECFC"
+      "#ASAPRockyUK"
      ]
     },
     {
-     "name": "Exeter Football",
-     "copy": "Big match for Exeter City coming up this Tuesday, 1st September, as they welcome Barnet to St James Park for a League Two fixture. Kick-off is 7:45 PM.",
+     "name": "Upcoming Cities",
+     "copy": "Glasgow and Manchester, get ready! A$AP Rocky brings his tour to you on September 4th and 5th. What track are you hoping to hear live?",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "11:00",
+     "time": "17:00",
      "tags": [
-      "#ExeterCity"
+      "#DontBeDumbTour"
      ]
     }
    ]
   },
   {
-   "id": "singles-chart-rein-me-in",
+   "id": "ariana-grande-london-o2",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Ariana Grande's 'Eternal Sunshine' residency concludes",
+   "blurb": "Ariana Grande's ten-night 'Eternal Sunshine' residency at London's The O2 concludes tomorrow, September 1st.",
+   "source": {
+    "l": "UK Concerts & Tours 2026 Guide",
+    "u": "https://ticketsforgood.co.uk/blog/uk-concerts-tours-2026-guide"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Last Chance",
+     "copy": "It's your final chance to catch Ariana Grande's 'Eternal Sunshine' residency at The O2 in London, concluding tomorrow! Did you manage to get tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#ArianaGrande"
+     ]
+    },
+    {
+     "name": "Residency Recap",
+     "copy": "What a run! Ariana Grande wraps up her epic London O2 residency this week. What was your favourite moment if you were lucky enough to go?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#EternalSunshineTour"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "Sam Fender & Olivia Dean still #1",
-   "blurb": "Sam Fender and Olivia Dean's 'Rein Me In' holds the top spot on the UK Official Singles Chart for a record 23rd non-consecutive week.",
+   "title": "Sam Fender & Olivia Dean hold UK #1",
+   "blurb": "Sam Fender and Olivia Dean's collaboration 'Rein Me In' remains at Number 1 on the Official UK Singles Chart for a record 23rd non-consecutive week.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Music-News.com",
+    "u": "https://www.music-news.com/news/UK/197170/HUGEL-Imael-Angel-and-Ultra-Nat-reach-new-UK-singles-chart-peak"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
@@ -174,96 +255,40 @@
    ],
    "angles": [
     {
-     "name": "Chart Dominance",
-     "copy": "Unstoppable! Sam Fender & Olivia Dean's 'Rein Me In' is still number one in the UK for an incredible 23rd week. Are you still loving it?",
+     "name": "Chart Topper",
+     "copy": "Still reigning! Sam Fender and Olivia Dean are Number 1 on the UK Singles Chart for an incredible 23rd week with 'Rein Me In'. A true modern classic!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#UKChart"
+     ]
+    },
+    {
+     "name": "New Peaks",
+     "copy": "Huge week on the charts! HUGEL, Imael Angel & Ultra Naté hit a new peak at #2 with 'Movin' To The Sun', while Stella Lefty's 'Boston' is up to #4. What's your favourite new entry?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "13:00",
      "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "Longest Running #1",
-     "copy": "History in the making! 'Rein Me In' continues its reign as the longest-running Number 1 single in UK chart history. What a track!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SamFender #OliviaDean"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
-   "id": "singles-chart-movin-to-the-sun",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Ultra Naté climbs to #2",
-   "blurb": "HUGEL, Imael Angel & Ultra Naté's 'Movin' To The Sun' hits a new peak at Number 2 on the UK Official Singles Chart, marking Ultra Naté's highest-charting single to date.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dance Chart Success",
-     "copy": "Massive news for dance music! Ultra Naté is back in a big way, hitting Number 2 on the UK charts with 'Movin' To The Sun'. What a summer anthem!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#UltraNate #DanceMusic"
-     ]
-    },
-    {
-     "name": "Ultra Naté Record",
-     "copy": "29 years after 'Free', Ultra Naté breaks her own chart record! 'Movin' To The Sun' is her highest-charting UK single EVER at Number 2. Incredible!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#ChartHistory"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-bebe-rexha",
+   "id": "bebe-rexha-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Bebe Rexha",
-   "blurb": "American singer-songwriter Bebe Rexha, known for hits like 'Meant to Be' and co-writing 'The Monster', turns 37 today.",
+   "title": "Happy 37th Birthday, Bebe Rexha!",
+   "blurb": "American singer-songwriter Bebe Rexha, known for hits like 'Meant to Be' and 'The Monster', celebrates her 37th birthday today.",
    "source": {
     "l": "Bored Panda",
     "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-30-2026/"
@@ -276,306 +301,33 @@
    ],
    "angles": [
     {
-     "name": "Birthday Shoutout",
-     "copy": "Sending big birthday wishes to the incredible Bebe Rexha, who turns 37 today! What's your favourite track from her?",
+     "name": "Birthday Shout-out",
+     "copy": "Wishing a very Happy 37th Birthday to the incredible Bebe Rexha! What's your favourite track from the powerhouse vocalist?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "08:00",
      "tags": [
       "#BebeRexha"
      ]
-    },
-    {
-     "name": "Bebe Rexha Fact",
-     "copy": "Did you know Bebe Rexha co-wrote Eminem and Rihanna's Grammy-winning single 'The Monster'? Happy 37th Birthday to a true talent!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#SingerSongwriter"
-     ]
     }
    ]
   },
   {
-   "id": "birthday-paul-oakenfold",
+   "id": "trevor-jackson-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Paul Oakenfold",
-   "blurb": "Legendary British trance DJ and record producer Paul Oakenfold celebrates his 63rd birthday today.",
+   "title": "Happy 30th Birthday, Trevor Jackson!",
+   "blurb": "Actor and singer Trevor Jackson, known for his roles in 'Grown-ish' and his R&B music, turns 30 today.",
    "source": {
-    "l": "Musicians born on August 30",
-    "u": "https://www.thisdayinmusic.com/artists/musicians-born-on-august-30/"
+    "l": "Bored Panda",
+    "u": "https://www.boredpanda.com/celebrity-birthdays-today-august-30-2026/"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "DJ Legend Birthday",
-     "copy": "Happy 63rd Birthday to the iconic DJ Paul Oakenfold! What's your favourite Oakenfold set or remix?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#PaulOakenfold #Trance"
-     ]
-    },
-    {
-     "name": "Oakenfold Influence",
-     "copy": "A true pioneer! Paul Oakenfold, one of the most influential DJs in trance music, is 63 today. Still spinning those incredible tracks!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#DanceMusicLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-horace-panter",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Horace Panter (The Specials)",
-   "blurb": "Horace Panter, bassist for the legendary 2 Tone ska band The Specials, turns 73 today.",
-   "source": {
-    "l": "Musicians born on August 30",
-    "u": "https://www.thisdayinmusic.com/artists/musicians-born-on-august-30/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Ska Legend Birthday",
-     "copy": "Happy 73rd Birthday to Horace Panter, the brilliant bassist from The Specials! What's your favourite Specials track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#TheSpecials #Ska"
-     ]
-    },
-    {
-     "name": "2 Tone Bassist",
-     "copy": "Celebrating Horace Panter of The Specials on his 73rd birthday! A true icon of the 2 Tone era.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#HoracePanter"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-steve-jones",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Steve Jones (Sex Pistols)",
-   "blurb": "Steve Jones, the influential guitarist for punk rock pioneers The Sex Pistols, celebrates his 71st birthday on September 3rd.",
-   "source": {
-    "l": "Musicians born on September 3",
-    "u": "https://www.thisdayinmusic.com/artists/musicians-born-on-september-3/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Punk Rock Birthday",
-     "copy": "Happy 71st Birthday on Thursday to Steve Jones, the legendary guitarist who helped define punk rock with the Sex Pistols!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#SexPistols #PunkRock"
-     ]
-    },
-    {
-     "name": "God Save The Queen",
-     "copy": "From 'God Save The Queen' to 'Anarchy in the U.K.', Steve Jones' guitar work is iconic. Wishing him a very happy 71st on Thursday!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SteveJones"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-al-jardine",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Al Jardine (The Beach Boys)",
-   "blurb": "Al Jardine, co-founder and guitarist of the legendary surf rock band The Beach Boys, turns 84 on September 3rd.",
-   "source": {
-    "l": "Musicians born on September 3",
-    "u": "https://www.thisdayinmusic.com/artists/musicians-born-on-september-3/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Beach Boy Birthday",
-     "copy": "Good Vibrations! Happy 84th Birthday to Al Jardine, a founding member of The Beach Boys, this Thursday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#TheBeachBoys #AlJardine"
-     ]
-    },
-    {
-     "name": "Surf Rock Icon",
-     "copy": "Wishing a very happy 84th birthday to Al Jardine, the voice and guitar behind so many classic Beach Boys hits.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#SurfRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-beyonce",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Beyoncé",
-   "blurb": "Global superstar Beyoncé, known as Queen Bey, celebrates her 45th birthday on September 4th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september4.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queen Bey's Day",
-     "copy": "All hail Queen Bey! Happy 45th Birthday to the one and only Beyoncé on Friday! What's your ultimate Beyoncé anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Beyonce #QueenBey"
-     ]
-    },
-    {
-     "name": "Birthday Renaissance",
-     "copy": "From Destiny's Child to global icon, Beyoncé turns 45 this Friday. Get ready to celebrate her incredible career!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#HappyBirthdayBeyonce"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-james-bay",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday James Bay",
-   "blurb": "British singer-songwriter James Bay, known for his soulful rock hits like 'Hold Back The River', turns 35 on September 4th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september4.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
@@ -583,108 +335,8 @@
    ],
    "angles": [
     {
-     "name": "James Bay Turns 35",
-     "copy": "Wishing a very happy 35th Birthday to the brilliant James Bay this Friday! What's your go-to track from him?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#JamesBay"
-     ]
-    },
-    {
-     "name": "Hold Back The River",
-     "copy": "From 'Hold Back The River' to his latest tracks, James Bay has given us some incredible music. Celebrate his 35th this Friday!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#SingerSongwriter"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-kim-thayil",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Kim Thayil (Soundgarden)",
-   "blurb": "Kim Thayil, the influential lead guitarist of grunge legends Soundgarden, celebrates his 66th birthday on September 4th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/September_4"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Grunge Guitar Hero",
-     "copy": "Happy 66th Birthday on Friday to Kim Thayil, the guitar wizard from Soundgarden! What's your favourite Soundgarden riff?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Soundgarden #Grunge"
-     ]
-    },
-    {
-     "name": "Thayil's Legacy",
-     "copy": "A true architect of grunge! Kim Thayil's unique guitar style defined Soundgarden's sound. Wishing him a happy 66th this Friday.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#KimThayil"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "birthday-terry-ellis",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Terry Ellis (En Vogue)",
-   "blurb": "Terry Ellis, a founding member and lead vocalist of the iconic R&B group En Vogue, turns 60 on September 5th.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/september-birthdays"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "En Vogue Vocalist",
-     "copy": "Wishing a fabulous 60th Birthday to Terry Ellis of En Vogue on Saturday! What's your favourite En Vogue hit?",
+     "name": "Birthday Shout-out",
+     "copy": "Celebrating Trevor Jackson's 30th Birthday today! From acting to R&B, he does it all. What's your favourite of his songs?",
      "channels": [
       "instagram",
       "facebook",
@@ -693,44 +345,206 @@
      ],
      "time": "09:30",
      "tags": [
-      "#EnVogue #Rnb"
-     ]
-    },
-    {
-     "name": "Funky Divas",
-     "copy": "From 'Free Your Mind' to 'Don't Let Go', Terry Ellis's vocals are unmistakable. Happy 60th to the En Vogue star this Saturday!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#TerryEllis"
+      "#TrevorJackson"
      ]
     }
    ]
   },
   {
-   "id": "birthday-sigrid",
-   "off": 6,
+   "id": "van-morrison-birthday",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Sigrid",
-   "blurb": "Norwegian pop sensation Sigrid, known for her energetic anthems like 'Don't Kill My Vibe', turns 29 on September 5th.",
+   "title": "Van Morrison turns 81 tomorrow",
+   "blurb": "Tomorrow, August 31st, legendary Northern Irish singer-songwriter Van Morrison, known for classics like 'Brown Eyed Girl' and 'Moondance', celebrates his 81st birthday.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september5.html"
+    "l": "50+ World",
+    "u": "https://www.50plusworld.com/august-31st-birthdays/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Upcoming Birthday",
+     "copy": "Tomorrow, the iconic Van Morrison turns 81! What's your all-time favourite 'Van the Man' track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#VanMorrison"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gina-schock-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Gina Schock of The Go-Go's turns 68",
+   "blurb": "Tomorrow, August 31st, Gina Schock, the drummer for the iconic new wave band The Go-Go's, celebrates her 68th birthday.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-aug-31-sept-6-e7e0e4701254d372c3d5964860434b9d"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Shout-out",
+     "copy": "Happy 68th Birthday tomorrow to Gina Schock, the incredible drummer from The Go-Go's! What's your favourite track from the legendary band?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "20:00",
+     "tags": [
+      "#TheGoGos"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "k-ci-hailey-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "K-Ci Hailey of Jodeci / K-Ci & JoJo turns 57",
+   "blurb": "On September 2nd, K-Ci Hailey, the soulful voice from R&B groups Jodeci and K-Ci & JoJo, celebrates his 57th birthday.",
+   "source": {
+    "l": "Royal Examiner",
+    "u": "https://royalexaminer.com/september-celebrity-birthdays/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Birthday Tribute",
+     "copy": "Wishing a Happy 57th Birthday to K-Ci Hailey on September 2nd! From Jodeci to K-Ci & JoJo, his vocals are iconic. What's your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#KCiHailey"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mark-ronson-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Mark Ronson turns 51",
+   "blurb": "On September 4th, acclaimed British music producer and DJ Mark Ronson, known for his work with Amy Winehouse and Bruno Mars, celebrates his 51st birthday.",
+   "source": {
+    "l": "Royal Examiner",
+    "u": "https://royalexaminer.com/september-celebrity-birthdays/"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Pop Star Birthday",
-     "copy": "Happy 29th Birthday to the brilliant Sigrid this Saturday! What's the Sigrid track that always gets you moving?",
+     "name": "Producer Birthday",
+     "copy": "Happy 51st Birthday to the incredible Mark Ronson on September 4th! A true musical mastermind. What's your favourite track he's produced?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MarkRonson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beyonce-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Beyoncé celebrates 45th Birthday",
+   "blurb": "Global superstar Beyoncé, known for her groundbreaking music and performances, will celebrate her 45th birthday on September 4th.",
+   "source": {
+    "l": "National Day Calendar",
+    "u": "https://nationaldaycalendar.com/september-4-birthdays-and-events/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Queen Bey Birthday",
+     "copy": "All hail Queen Bey! On September 4th, Beyoncé turns 45. Celebrate with us by sharing your favourite Beyoncé song!",
      "channels": [
       "instagram",
       "facebook",
@@ -738,21 +552,213 @@
       "tiktok",
       "threads"
      ],
-     "time": "11:30",
+     "time": "12:00",
      "tags": [
-      "#Sigrid #PopMusic"
+      "#Beyonce"
      ]
     },
     {
-     "name": "Don't Kill My Vibe",
-     "copy": "Celebrating Sigrid's 29th birthday this Saturday! Her powerful voice and infectious energy have made her a pop favourite.",
+     "name": "Iconic Tracks",
+     "copy": "Countdown to Beyoncé's 45th on September 4th! From Destiny's Child to solo global domination, her impact is undeniable. What's her most iconic track for you?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "threads"
      ],
-     "time": "15:30",
+     "time": "15:00",
      "tags": [
-      "#HappyBirthday"
+      "#QueenBey"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-bubba-knight-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Merald 'Bubba' Knight turns 84",
+   "blurb": "On September 4th, Merald 'Bubba' Knight, a founding member of the legendary R&B group Gladys Knight & the Pips, celebrates his 84th birthday.",
+   "source": {
+    "l": "National Day Calendar",
+    "u": "https://nationaldaycalendar.com/september-4-birthdays-and-events/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "R&B Legend",
+     "copy": "Happy 84th Birthday to Merald 'Bubba' Knight of Gladys Knight & the Pips on September 4th! An R&B icon. What's your favourite song from the group?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#GladysKnight"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "phil-campbells-bastard-sons-gig",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Phil Campbell's Bastard Sons at Hella Rock Fest",
+   "blurb": "Phil Campbell's Bastard Sons are set to perform at Hella Rock Festival in Coventry on September 5th, paying tribute to the late Motörhead legend Phil Campbell.",
+   "source": {
+    "l": "Rayo",
+    "u": "https://planetradio.co.uk/rayo/rock-metal/news/rock-metal-tours-2026-2027/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Performance",
+     "copy": "Catch Phil Campbell's Bastard Sons at Hella Rock Festival in Coventry on September 5th! Expect a high-energy tribute to a true rock legend. #HellaRockFest",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#PhilCampbellsBastardSons"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t20-blast-quarter-finals",
+   "off": 4,
+   "type": "sport",
+   "hot": true,
+   "title": "Men's T20 Blast Quarter-Finals begin",
+   "blurb": "The Men's T20 Blast cricket quarter-finals are scheduled to take place from September 3rd to 6th, as teams battle for a spot in the semi-finals.",
+   "source": {
+    "l": "London Se Primary PE HW",
+    "u": "https://www.londonseprimarypehwb.com/sportscalendar2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cricket Knockouts",
+     "copy": "It's knockout cricket time! The Men's T20 Blast Quarter-Finals kick off on September 3rd. Which teams are you hoping to see go through?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#T20Blast"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "katseye-uk-gigs",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "KATSEYE bring 'WILDWORLD' tour to the UK",
+   "blurb": "K-Pop girl group KATSEYE, formed from the reality series Dream Academy, are bringing their 'WILDWORLD' tour to the UK with dates from September 3rd to 6th.",
+   "source": {
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/music/concerts/uk-tours-concerts-2026-tickets/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "K-Pop Alert",
+     "copy": "K-Pop sensations KATSEYE are hitting the UK with their 'WILDWORLD' tour from September 3rd! Who's excited to see them live?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#KATSEYE"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evanescence-uk-tour",
+   "off": 9,
+   "type": "gig",
+   "hot": true,
+   "title": "Evanescence start UK tour next week",
+   "blurb": "American rock band Evanescence will kick off the UK leg of their 2026 world tour in Leeds on September 8th.",
+   "source": {
+    "l": "Rayo",
+    "u": "https://planetradio.co.uk/rayo/rock-metal/news/rock-metal-tours-2026-2027/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Tour News",
+     "copy": "Evanescence are bringing their world tour to the UK, starting in Leeds on September 8th! Get ready to rock out. What's your favourite Evanescence track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#Evanescence"
      ]
     }
    ]
