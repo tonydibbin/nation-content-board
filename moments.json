@@ -1,157 +1,98 @@
 {
- "updated": "2026-09-02T15:25:04.460Z",
+ "updated": "2026-09-02T19:00:42.734Z",
  "moments": [
   {
-   "id": "champions-league-md1",
-   "off": 6,
+   "id": "cardiff-qpr-match",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Champions League Kicks Off",
-   "blurb": "The UEFA Champions League 2026-27 season begins its league phase with Matchday 1 from September 8-10, featuring top UK clubs like Manchester City, Arsenal, Liverpool, and Aston Villa in action.",
+   "title": "Cardiff City vs QPR Tonight",
+   "blurb": "Cardiff City are in action tonight against Queens Park Rangers in the Championship at Loftus Road.",
    "source": {
-    "l": "UEFA.com / Sky Sports",
-    "u": "https://www.uefa.com/uefachampionsleague/fixtures-results/"
+    "l": "Cardiff City FC",
+    "u": "https://www.cardiffcityfc.co.uk/fixtures"
    },
    "fits": [
     {
-     "g": "nation-network",
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Big Games",
-     "copy": "Champions League is back! Matchday 1 sees our biggest clubs kick off their European campaigns from September 8th. Who are you backing for glory? #UCL",
+     "name": "Match Preview",
+     "for": "welsh-local",
+     "copy": "Big game tonight for Cardiff City! They face QPR away at Loftus Road. Kick-off is 7:45 PM. Can the Bluebirds grab an important three points on the road?",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#UCL"
-     ]
-    },
-    {
-     "name": "UK Clubs in Action",
-     "copy": "It's a huge week for UK football with Man City, Arsenal, Liverpool, and Aston Villa all playing in the Champions League opening fixtures this week. Tune in!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ChampionsLeague"
-     ]
-    },
-    {
-     "name": "Midweek Football",
-     "copy": "Get ready for midweek football fever! The Champions League group stage starts Sept 8th. Which fixture are you most looking forward to?",
-     "channels": [
-      "tiktok",
-      "instagram"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#FootballIsBack"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-weekend",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Weekend Action",
-   "blurb": "The Premier League continues with a full fixture list this weekend, September 5-6, including Newcastle vs Bournemouth and Arsenal vs Chelsea.",
-   "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Weekend Kick-offs",
-     "copy": "Another massive Premier League weekend is almost here! What's the standout fixture for you on Sept 5th & 6th? #PremierLeague",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PL"
-     ]
-    },
-    {
-     "name": "Derby Day Preview",
-     "copy": "Arsenal v Chelsea on Sunday Sept 6th – big London derby energy! Who's taking the bragging rights this weekend?",
-     "channels": [
-      "x",
-      "facebook"
      ],
      "time": "16:00",
      "tags": [
-      "#LondonDerby"
+      "#Bluebirds"
      ]
     },
     {
-     "name": "Fantasy Football",
-     "copy": "Don't forget to set your Fantasy Premier League teams for the weekend! Games kick off from Saturday, Sept 5th. Any last-minute transfers?",
+     "name": "Game Day Buzz",
+     "for": "dragon",
+     "copy": "It's match day! Cardiff City are playing QPR this evening. Get behind the lads as they battle it out in the Championship.",
      "channels": [
-      "tiktok",
+      "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "17:30",
      "tags": [
-      "#FPL"
+      "#CardiffCity"
      ]
     }
    ]
   },
   {
-   "id": "f1-italian-gp",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "F1 Italian Grand Prix",
-   "blurb": "Formula 1 heads to Monza for the Italian Grand Prix, running from September 4-6, 2026.",
+   "id": "mik-kaminski-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "ELO's Mik Kaminski is 75",
+   "blurb": "Mik Kaminski, the iconic violinist from Electric Light Orchestra, celebrates his 75th birthday today.",
    "source": {
-    "l": "Formula 1 Official Site",
-    "u": "https://www.formula1.com/en/racing/2026/Italy.html"
+    "l": "Noise11 Music News",
+    "u": "https://www.noise11.com/on-this-day-in-music-history-september-2-2025"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Monza Madness",
-     "copy": "The fastest track on the F1 calendar! It's the Italian Grand Prix at Monza this weekend, Sept 4-6. Who's got the pace for pole? #ItalianGP",
+     "name": "Violin Virtuoso",
+     "copy": "Happy 75th to Mik Kaminski! The legendary ELO violinist brought a classical touch to some of the biggest rock anthems. What's your favourite ELO track?",
      "channels": [
       "instagram",
       "facebook",
@@ -159,78 +100,21 @@
      ],
      "time": "09:00",
      "tags": [
-      "#F1"
-     ]
-    },
-    {
-     "name": "Tifosi Roar",
-     "copy": "Feel the passion of the Tifosi! The Italian Grand Prix is iconic. Tune in for all the action from Monza, Sept 4-6.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Formula1"
+      "#ELO"
      ]
     }
    ]
   },
   {
-   "id": "f1-spanish-gp",
-   "off": 9,
-   "type": "sport",
-   "hot": true,
-   "title": "F1 Spanish Grand Prix",
-   "blurb": "The Formula 1 season continues with the Spanish Grand Prix in Madrid from September 11-13, 2026.",
+   "id": "steve-porcaro-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Toto's Steve Porcaro turns 69",
+   "blurb": "Keyboardist and songwriter Steve Porcaro, a founding member of Toto and co-writer of Michael Jackson's 'Human Nature', celebrates his 69th birthday.",
    "source": {
-    "l": "Formula 1 Official Site",
-    "u": "https://www.formula1.com/en/racing/2026/Spain.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Madrid Debut",
-     "copy": "Madrid makes its F1 calendar debut with the Spanish Grand Prix next weekend, September 11-13. A brand new challenge for the drivers! #SpanishGP",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#F1"
-     ]
-    },
-    {
-     "name": "New Track, New Drama",
-     "copy": "The F1 circus heads to Spain for the Madrid Grand Prix, Sept 11-13. Expect new challenges and plenty of drama on this fresh circuit.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Formula1"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bon-jovi-london",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Bon Jovi in London",
-   "blurb": "Rock legends Bon Jovi bring their 'Forever Tour' to London with shows on September 4, 6, and 9.",
-   "source": {
-    "l": "Live Nation",
-    "u": "https://www.livenation.co.uk/artist-bon-jovi-502"
+    "l": "Noise11 Music News",
+    "u": "https://www.noise11.com/on-this-day-in-music-history-september-2-2025"
    },
    "fits": [
     {
@@ -242,165 +126,88 @@
      "sub": "Nation 80s"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Bon Jovi Rocks London",
-     "copy": "It's now or never! Bon Jovi are rocking London this week on September 4th, 6th, and 9th. Are you heading to Wembley? #BonJovi",
+     "name": "Toto Talent",
+     "copy": "From 'Africa' to 'Rosanna', Steve Porcaro's keys defined the Toto sound. Wishing the keyboard legend a very happy 69th birthday!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "10:30",
      "tags": [
-      "#RockLegends"
-     ]
-    },
-    {
-     "name": "Living on a Prayer",
-     "copy": "Bon Jovi's 'Forever Tour' hits London this week! Get ready for a night of anthems. Which classic track do you hope they play?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#80sRock"
+      "#Toto"
      ]
     }
    ]
   },
   {
-   "id": "evanescence-uk-tour",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Evanescence UK Tour",
-   "blurb": "Evanescence kicks off their UK tour in Leeds on September 8, followed by Manchester on September 10 and Birmingham on September 11.",
-   "source": {
-    "l": "TicketSwap",
-    "u": "https://www.ticketswap.uk/blog/concerts-tours-uk"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bring Me To Life",
-     "copy": "Evanescence are bringing their powerful live show to the UK this week, starting in Leeds on Sept 8th! Who's got tickets? #Evanescence",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#RockTour"
-     ]
-    },
-    {
-     "name": "Noughties Nostalgia",
-     "copy": "Get ready for some noughties rock nostalgia! Evanescence hit Leeds, Manchester, and Birmingham this week. What's your favourite Evanescence track?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#00sRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "end-of-road-festival",
+   "id": "al-jardine-bday",
    "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "End of the Road Festival",
-   "blurb": "The End of the Road Festival, known for its eclectic line-up, continues in Larmer Tree Gardens, Dorset, from September 3-6, 2026.",
+   "type": "birthday",
+   "hot": false,
+   "title": "The Beach Boys' Al Jardine is 84",
+   "blurb": "Al Jardine, a co-founder and rhythm guitarist of the legendary Beach Boys, celebrates his 84th birthday tomorrow.",
    "source": {
-    "l": "End of the Road Festival",
-    "u": "https://www.endoftheroadfestival.com/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/List_of_musicians_born_in_September#September_3"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
+     "g": "decades-genres",
+     "sub": "Nation 60s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Festival Vibes",
-     "copy": "The End of the Road Festival is still in full swing until September 6th! Who's enjoying the last of the summer festival vibes in Dorset? #EOTR",
+     "name": "Good Vibrations",
+     "copy": "Sending good vibrations to Al Jardine of The Beach Boys, who turns 84 tomorrow! What's your favourite surf rock anthem from the band?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "09:00",
      "tags": [
-      "#Festival"
-     ]
-    },
-    {
-     "name": "Indie & Folk",
-     "copy": "For fans of indie, folk, and alternative music, End of the Road Festival runs until Sunday. A truly unique atmosphere! #MusicFestival",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Dorset"
+      "#TheBeachBoys"
      ]
     }
    ]
   },
   {
-   "id": "worcester-music-fest",
-   "off": 9,
-   "type": "gig",
-   "hot": true,
-   "title": "Worcester Music Festival",
-   "blurb": "The Worcester Music Festival, the UK's largest donation-entry festival supporting local causes, takes place from September 11-13, 2026.",
+   "id": "steve-jones-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Sex Pistols' Steve Jones turns 71",
+   "blurb": "Steve Jones, the influential guitarist of punk pioneers the Sex Pistols, celebrates his 71st birthday tomorrow.",
    "source": {
-    "l": "Worcester Music Festival",
-    "u": "https://worcestermusicfestival.co.uk/"
+    "l": "Hayward Public Library",
+    "u": "https://hayward.bibliocommons.com/list/share/hpl_emrys/1785535359"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Music for a Cause",
-     "copy": "Discover new music and support local causes at the Worcester Music Festival, Sept 11-13! It's the UK's largest donation-entry festival. #Worcester",
+     "name": "Punk Icon",
+     "copy": "Anarchy in the UK! Happy 71st birthday tomorrow to Steve Jones, the legendary guitarist who helped define punk rock with the Sex Pistols.",
      "channels": [
       "instagram",
       "facebook",
@@ -408,78 +215,21 @@
      ],
      "time": "11:00",
      "tags": [
-      "#LiveMusic"
-     ]
-    },
-    {
-     "name": "Weekend of Tunes",
-     "copy": "Planning your next weekend? Worcester Music Festival promises over 250 performances across 25 venues, Sept 11-13. Get involved!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#FestivalVibes"
+      "#SexPistols"
      ]
     }
    ]
   },
   {
-   "id": "strictly-launch",
-   "off": 7,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing Launch",
-   "blurb": "The launch show for the 24th series of Strictly Come Dancing is being pre-recorded on Wednesday, September 9, with new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
-   "source": {
-    "l": "BBC / Liverpool Echo",
-    "u": "https://www.bbc.co.uk/strictly"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly's Back!",
-     "copy": "The glitterball is almost ready! Strictly Come Dancing's launch show is pre-recording this Wednesday, Sept 9th. Who are you excited to see? #Strictly",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    },
-    {
-     "name": "New Hosts",
-     "copy": "A new era for Strictly! Emma Willis, Josh Widdicombe & Johannes Radebe are taking the reins. The launch show is being taped Sept 9th!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#BBCStrictly"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "beyonce-birthday",
+   "id": "beyonce-bday",
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Beyoncé's 45th Birthday",
-   "blurb": "Global superstar Beyoncé turns 45 on Friday, September 4th. She was born in 1981.",
+   "title": "Beyoncé turns 45",
+   "blurb": "Global superstar Beyoncé celebrates her 45th birthday on Friday, continuing her reign as one of music's most powerful voices.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/4.html"
    },
    "fits": [
     {
@@ -493,46 +243,54 @@
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Queen Bey's Day",
-     "copy": "Happy 45th Birthday to the one and only Queen Bey, Beyoncé, on Friday! What's your ultimate Beyoncé power anthem? #Beyonce",
+     "name": "Queen Bey's Birthday",
+     "copy": "All hail Queen Bey! Beyoncé turns 45 on Friday. What's your ultimate Beyoncé power anthem?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#QueenBey"
+      "#Beyoncé"
      ]
     },
     {
-     "name": "Iconic At 45",
-     "copy": "Celebrating 45 years of greatness! Beyoncé's birthday is this Friday. From Destiny's Child to solo superstardom, what's her most iconic moment for you?",
+     "name": "Celebrating an Icon",
+     "copy": "From Destiny's Child to global icon, Beyoncé celebrates her 45th this Friday. Her influence on music and culture is undeniable. What's your favourite era of Queen Bey?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
       "tiktok"
      ],
-     "time": "11:00",
+     "time": "12:00",
      "tags": [
-      "#HappyBirthdayBeyonce"
+      "#QueenBey"
      ]
     }
    ]
   },
   {
-   "id": "roger-waters-birthday",
+   "id": "roger-waters-bday",
    "off": 4,
    "type": "birthday",
-   "hot": true,
-   "title": "Roger Waters' 83rd Birthday",
-   "blurb": "Pink Floyd co-founder Roger Waters celebrates his 83rd birthday on Sunday, September 6th. He was born in 1943.",
+   "hot": false,
+   "title": "Pink Floyd's Roger Waters is 83",
+   "blurb": "Roger Waters, a co-founder and primary songwriter of Pink Floyd, celebrates his 83rd birthday on Sunday.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Roger_Waters"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/6.html"
    },
    "fits": [
     {
@@ -542,12 +300,16 @@
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rock Legend Turns 83",
-     "copy": "Wishing a very happy 83rd Birthday to Pink Floyd legend Roger Waters on Sunday! What's your favourite track from his incredible career? #RogerWaters",
+     "name": "Pink Floyd Legend",
+     "copy": "Happy 83rd birthday to Pink Floyd's Roger Waters this Sunday! A true visionary who gave us some of rock's most profound albums.",
      "channels": [
       "instagram",
       "facebook",
@@ -557,82 +319,19 @@
      "tags": [
       "#PinkFloyd"
      ]
-    },
-    {
-     "name": "Another Brick in the Wall",
-     "copy": "Roger Waters, the voice and vision behind so many Pink Floyd classics, turns 83 this weekend. A true rock icon! #MusicHistory",
-     "channels": [
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ClassicRock"
-     ]
     }
    ]
   },
   {
-   "id": "chrissie-hynde-birthday",
-   "off": 5,
+   "id": "macy-gray-bday",
+   "off": 4,
    "type": "birthday",
-   "hot": true,
-   "title": "Chrissie Hynde's 75th Birthday",
-   "blurb": "The Pretenders frontwoman Chrissie Hynde turns 75 on Monday, September 7th. She was born in 1951.",
+   "hot": false,
+   "title": "Macy Gray turns 57",
+   "blurb": "Soulful singer Macy Gray, known for her distinctive voice and hits like 'I Try', celebrates her 57th birthday on Sunday.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Chrissie_Hynde"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pretenders Icon",
-     "copy": "Happy 75th Birthday to the legendary Chrissie Hynde of The Pretenders on Monday! An absolute icon of rock. What's your favourite Pretenders hit? #ChrissieHynde",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#ThePretenders"
-     ]
-    },
-    {
-     "name": "Rock 'n' Roll Attitude",
-     "copy": "Celebrating Chrissie Hynde's 75th on Sept 7th! Still rocking with unparalleled attitude. A true trailblazer in music. #RockLegend",
-     "channels": [
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "pink-birthday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "P!nk's 47th Birthday",
-   "blurb": "Pop-rock superstar P!nk celebrates her 47th birthday on Tuesday, September 8th. She was born in 1979.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Pink_(singer)"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/6.html"
    },
    "fits": [
     {
@@ -642,208 +341,38 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Get The Party Started",
-     "copy": "Raise a glass for P!nk's 47th Birthday on Tuesday! An incredible career full of anthems. What's your favourite P!nk track to blast out? #Pink",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#PopRock"
-     ]
-    },
-    {
-     "name": "Still Rocking",
-     "copy": "Celebrating the amazing P!nk, who turns 47 on Sept 8th! From 'Get The Party Started' to her latest hits, she's still an unstoppable force. #HappyBirthdayPink",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#MusicIcon"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "michael-buble-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Michael Bublé's 51st Birthday",
-   "blurb": "Award-winning crooner Michael Bublé turns 51 on Wednesday, September 9th. He was born in 1975.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Michael_Bubl%C3%A9"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Smooth Operator",
-     "copy": "Happy 51st Birthday to the incredible Michael Bublé on Wednesday! Time to put on some smooth tunes. What's your go-to Bublé song? #MichaelBuble",
+     "name": "Unique Voice",
+     "copy": "Nobody sounds quite like Macy Gray! Wishing the incredible singer a very happy 57th birthday this Sunday. What's your favourite track from her?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "13:00",
      "tags": [
-      "#Crooner"
-     ]
-    },
-    {
-     "name": "Feeling Good",
-     "copy": "Celebrating Michael Bublé's 51st on Sept 9th! His voice always makes us 'Feeling Good'. Send him your birthday wishes!",
-     "channels": [
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#EasyListening"
+      "#MacyGray"
      ]
     }
    ]
   },
   {
-   "id": "sept4-album-releases",
-   "off": 2,
-   "type": "culture",
+   "id": "strictly-pre-record",
+   "off": 7,
+   "type": "tv",
    "hot": true,
-   "title": "New Album Releases: Sept 4",
-   "blurb": "New albums drop on Friday, September 4th, including releases from Dexys Midnight Runners, Ellie Goulding, Kasabian, and Lulu.",
+   "title": "Strictly Come Dancing Pre-Record",
+   "blurb": "The launch show for the new series of Strictly Come Dancing is set to be pre-recorded next Wednesday, with a new line-up of hosts and celebrity dancers.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/articles/new-album-releases-2026-dates-for-blossoms-alex-warren-adela-and-more/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Music Friday",
-     "copy": "New Music Friday is here! Fresh albums dropping today from Dexys Midnight Runners, Ellie Goulding, Kasabian, and Lulu. What's first on your listen list? #NewMusicFriday",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#NewAlbum"
-     ]
-    },
-    {
-     "name": "Diverse Drops",
-     "copy": "From indie anthems to pop perfection and classic comebacks, some big names release new albums today, Sept 4th! Which one are you streaming?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MusicNews"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "sept11-album-releases",
-   "off": 9,
-   "type": "culture",
-   "hot": true,
-   "title": "New Album Releases: Sept 11",
-   "blurb": "Next Friday, September 11th, sees new album releases from artists including Bloc Party and The Proclaimers.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/articles/new-album-releases-2026-dates-for-blossoms-alex-warren-adela-and-more/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Anticipated Drops",
-     "copy": "Get ready for next week's New Music Friday! Bloc Party and The Proclaimers are among those dropping new albums on Sept 11th. What are you most excited for? #NewMusic",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#AlbumRelease"
-     ]
-    },
-    {
-     "name": "Friday Tunes",
-     "copy": "Mark your calendars for Sept 11th – new music from Bloc Party and The Proclaimers is on the way! Perfect for your weekend playlist.",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#IndieMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "meteorological-autumn",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Meteorological Autumn Underway",
-   "blurb": "Meteorological autumn officially began on September 1st, marking the start of the season for weather statistics.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/weather/learn-about/weather/seasons/autumn/when-does-autumn-start"
+    "l": "Manchester Evening News",
+    "u": "https://www.manchestereveningnews.co.uk/news/tv/strictly-come-dancing-confirms-major-29705910"
    },
    "fits": [
     {
@@ -853,114 +382,333 @@
    ],
    "angles": [
     {
-     "name": "Autumn Has Arrived",
-     "copy": "It's official: meteorological autumn started on September 1st! Time for cosy jumpers and pumpkin spice. What's your favourite thing about autumn? #Autumn",
+     "name": "Strictly's Back",
+     "copy": "The glitterball is getting polished! Strictly Come Dancing's launch show is pre-recording next Wednesday. Who are you hoping to see on the dance floor this year?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "09:30",
      "tags": [
-      "#AutumnVibes"
+      "#StrictlyComeDancing"
      ]
     },
     {
-     "name": "Goodbye Summer",
-     "copy": "Summer might be over by the meteorological calendar, but we're still hoping for some sunshine! What are your plans for the new season? #HelloAutumn",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Seasonal"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "scottish-rugby-friendly",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "Edinburgh Rugby Friendly",
-   "blurb": "Edinburgh Rugby men's team plays a friendly match against Ulster at Hive Stadium on Friday, September 4, 2026.",
-   "source": {
-    "l": "Scottish Rugby",
-    "u": "https://www.scottishrugby.org/fixtures-and-results"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Edinburgh Rugby Action",
-     "copy": "Get ready for some Friday night rugby! Edinburgh Rugby take on Ulster in a friendly at Hive Stadium this Friday, Sept 4th. Who's going?",
+     "name": "New Hosts Alert",
+     "copy": "Emma Willis, Josh Widdicombe, and Johannes Radebe are taking over Strictly hosting duties! The launch show pre-records next Wednesday – get ready for new energy and dazzling dances.",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#EdinburghRugby"
-     ]
-    },
-    {
-     "name": "Pre-Season Warm-up",
-     "copy": "Edinburgh Rugby's pre-season continues with a home friendly against Ulster on Sept 4th. A chance to see the squad in action before the season proper!",
-     "channels": [
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ScottishRugby"
+      "#Strictly2026"
      ]
     }
    ]
   },
   {
-   "id": "scotland-women-rugby",
-   "off": 10,
-   "type": "sport",
+   "id": "pink-bday",
+   "off": 6,
+   "type": "birthday",
    "hot": true,
-   "title": "Scotland Women WXV Global Series",
-   "blurb": "The Scotland Women's team competes in the WXV Global Series, with a home match against Canada at Hive Stadium on Saturday, September 12, 2026.",
+   "title": "P!nk turns 47",
+   "blurb": "Pop-rock powerhouse P!nk, known for her anthems and acrobatic live shows, celebrates her 47th birthday on Tuesday.",
    "source": {
-    "l": "Scottish Rugby",
-    "u": "https://www.scottishrugby.org/fixtures-and-results"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/8.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Support Scotland Women",
-     "copy": "Huge game for Scotland Women's Rugby next Saturday, Sept 12th, as they face Canada in the WXV Global Series at Hive Stadium! Let's get behind them! #ScotlandRugby",
+     "name": "Get The Party Started",
+     "copy": "Get the party started! P!nk turns 47 on Tuesday. What's your all-time favourite P!nk track?",
      "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Pink"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardiff-stoke-match",
+   "off": 6,
+   "type": "sport",
+   "hot": false,
+   "title": "Cardiff City vs Stoke City",
+   "blurb": "Cardiff City will host Stoke City in a Championship clash next Tuesday at Cardiff City Stadium.",
+   "source": {
+    "l": "Cardiff City FC",
+    "u": "https://www.cardiffcityfc.co.uk/fixtures"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Home Game Hype",
+     "for": "welsh-local",
+     "copy": "Next Tuesday, Cardiff City are back home to face Stoke City! Get your tickets and make some noise for the Bluebirds at Cardiff City Stadium.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#CardiffCity"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joe-perry-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": false,
+   "title": "Aerosmith's Joe Perry is 76",
+   "blurb": "Joe Perry, the legendary lead guitarist of rock giants Aerosmith, celebrates his 76th birthday on Thursday.",
+   "source": {
+    "l": "Noise11 Music News",
+    "u": "https://www.noise11.com/on-this-day-in-music-history-september-10-2025"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock 'n' Roll Icon",
+     "copy": "Walk This Way! Wishing a very happy 76th birthday to Aerosmith's incredible guitarist, Joe Perry, this Thursday. What's your favourite Aerosmith riff?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Aerosmith"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "siobhan-fahey-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": false,
+   "title": "Siobhan Fahey turns 68",
+   "blurb": "Siobhan Fahey, known for her work with Bananarama and Shakespears Sister, celebrates her 68th birthday on Thursday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/List_of_musicians_born_in_September#September_10"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Queen",
+     "copy": "From 'Venus' to 'Stay', Siobhan Fahey has given us so many iconic tracks! Happy 68th birthday to the Bananarama and Shakespears Sister star this Thursday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Bananarama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "richard-ashcroft-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "The Verve's Richard Ashcroft is 55",
+   "blurb": "Richard Ashcroft, the charismatic frontman of The Verve and successful solo artist, celebrates his 55th birthday on Friday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/11.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Mad Richard",
+     "copy": "The 'Drugs Don't Work' hitmaker, Richard Ashcroft, turns 55 this Friday! What's your favourite Verve song or solo track from Mad Richard?",
+     "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "10:00",
      "tags": [
-      "#WXV"
+      "#TheVerve"
      ]
+    }
+   ]
+  },
+  {
+   "id": "moby-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Moby turns 61",
+   "blurb": "Electronic music pioneer Moby, known for his groundbreaking albums like 'Play', celebrates his 61st birthday on Friday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/11.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     },
     {
-     "name": "International Rugby",
-     "copy": "Scotland Women's international rugby is back! They play Canada in Edinburgh on Sept 12th. Don't miss out on the action.",
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Electronic Genius",
+     "copy": "Feeling 'Porcelain'? Moby turns 61 this Friday! The electronic music legend has soundtracked countless moments. What's your top Moby tune?",
      "channels": [
+      "instagram",
+      "facebook",
       "x"
      ],
      "time": "12:00",
      "tags": [
-      "#WomenInRugby"
+      "#Moby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gbbo-returns",
+   "off": 27,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off Returns",
+   "blurb": "The Great British Bake Off is set to return to Channel 4 this September, with new judge Nigella Lawson joining Paul Hollywood. The premiere is expected on Tuesday, September 29.",
+   "source": {
+    "l": "The Version",
+    "u": "https://www.theversion.co.uk/great-british-bake-off-2026-sets-late-september-launch-date/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off Buzz",
+     "copy": "Get ready to pre-heat your ovens! The Great British Bake Off returns this September to Channel 4, with Nigella Lawson joining the judging panel. Who's excited for soggy bottoms and showstoppers?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "New Judge in the Tent",
+     "copy": "Nigella Lawson is joining Paul Hollywood in the Bake Off tent! The new series kicks off late September on Channel 4. What bakes are you hoping to see this year?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#BakeOff"
      ]
     }
    ]
