@@ -1,15 +1,51 @@
 {
- "updated": "2026-09-03T23:36:13.436Z",
+ "updated": "2026-09-04T01:32:23.986Z",
  "moments": [
   {
-   "id": "premier-league-mw3",
+   "id": "met-autumn-2026",
+   "off": 0,
+   "type": "seasonal",
+   "hot": false,
+   "title": "Autumn is Here",
+   "blurb": "Meteorological autumn officially began on September 1st, marking the start of cooler weather, changing leaves, and cosy vibes across the UK.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/learn-about/weather/seasons/autumn/when-does-autumn-start"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Autumnal vibes",
+     "for": "",
+     "copy": "Crisp mornings, pumpkin spice everything, and darker evenings. Meteorological autumn has officially arrived in the UK! What's your favourite thing about this season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#AutumnVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-fri-sat-sun-sept-2026",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Matchweek 3 Kicks Off",
-   "blurb": "The third matchweek of the 2026/27 Premier League season begins today with Ipswich Town vs Liverpool, followed by a packed weekend of fixtures.",
+   "title": "Premier League Weekend Kicks Off",
+   "blurb": "The Premier League weekend begins with Ipswich Town vs Liverpool tonight, followed by a packed Saturday and major clashes like Arsenal vs Chelsea on Sunday.",
    "source": {
-    "l": "Premier League Official Site",
+    "l": "Premier League",
     "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
@@ -21,96 +57,23 @@
    "angles": [
     {
      "name": "Friday Night Football",
-     "copy": "Premier League is BACK tonight! Ipswich Town take on Liverpool to kick off Matchweek 3. Who are you backing for the win?",
+     "for": "",
+     "copy": "Premier League weekend starts early! Ipswich Town host Liverpool tonight. Who are you backing for the first three points?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "15:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Super Saturday",
-     "copy": "Get ready for a HUGE Premier League Saturday! Newcastle, Man City, Spurs, and more are all in action. What game are you most excited for?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#PL"
-     ]
-    },
-    {
-     "name": "Sunday Showdowns",
-     "copy": "Sunday brings two massive Premier League clashes: Everton vs Man Utd, then Arsenal vs Chelsea. Big points on the line!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "swansea-wrexham-derby",
-   "off": 1,
-   "type": "sport",
-   "hot": true,
-   "title": "Swansea City Host Wrexham in Welsh Derby",
-   "blurb": "Swansea City face Welsh rivals Wrexham at home in the Championship this Saturday, a highly anticipated local derby.",
-   "source": {
-    "l": "Swansea City Official Site",
-    "u": "https://www.swanseacity.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Derby Day Buzz",
-     "for": "welsh-local",
-     "copy": "It's DERBY DAY tomorrow! Swansea City host Wrexham in a massive Championship clash. Who's feeling the tension already? #SouthWalesDerby",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Swans"
-     ]
-    },
-    {
-     "name": "Welsh Football Focus",
-     "for": "dragon",
-     "copy": "The big one is almost here! Swansea City vs Wrexham – bragging rights are on the line this Saturday. Where are you watching the game?",
+     "name": "Super Sunday Showdown",
+     "for": "",
+     "copy": "Big one on Sunday! Arsenal take on Chelsea in a massive Premier League London derby. Who's taking bragging rights?",
      "channels": [
       "instagram",
       "facebook",
@@ -119,464 +82,37 @@
      ],
      "time": "18:00",
      "tags": [
-      "#WrexhamAFC"
+      "#ARSCEL"
      ]
     }
    ]
   },
   {
-   "id": "cardiff-city-fixtures",
-   "off": 1,
-   "type": "sport",
+   "id": "roger-waters-birthday-2026",
+   "off": 2,
+   "type": "birthday",
    "hot": true,
-   "title": "Cardiff City's Busy Week",
-   "blurb": "Cardiff City have a busy week ahead in the Championship, with an away trip to Portsmouth on Saturday, followed by a home game against Stoke City on Tuesday.",
+   "title": "Roger Waters Turns 83",
+   "blurb": "Pink Floyd co-founder, bassist, and principal songwriter Roger Waters celebrates his 83rd birthday on September 6th.",
    "source": {
-    "l": "Cardiff City Official Site",
-    "u": "https://www.cardiffcityfc.co.uk/fixtures"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Roger_Waters"
    },
    "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bluebirds on the Road",
-     "for": "welsh-local",
-     "copy": "Cardiff City are away at Portsmouth this Saturday! Can the Bluebirds grab three points on the road?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#CityAsOne"
-     ]
-    },
-    {
-     "name": "Midweek Home Game",
-     "for": "dragon",
-     "copy": "Get ready for midweek football! Cardiff City host Stoke City at home on Tuesday night. Let's get behind the boys!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Bluebirds"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-city-home-games",
-   "off": 1,
-   "type": "sport",
-   "hot": true,
-   "title": "Exeter City's Home Fixtures",
-   "blurb": "Exeter City has two home games this week: against Walsall in League Two on Saturday, and against Tottenham Hotspur U21 in the EFL Trophy on Tuesday.",
-   "source": {
-    "l": "Exeter City Official Site",
-    "u": "https://www.exetercityfc.co.uk/fixtures"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Grecians at Home",
-     "for": "radio-exe",
-     "copy": "Big weekend for Exeter City! They host Walsall at St James Park this Saturday. Get down and support the Grecians!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ECFC"
-     ]
-    },
-    {
-     "name": "EFL Trophy Action",
-     "for": "radio-exe",
-     "copy": "Midweek football for Exeter City! They're in EFL Trophy action at home against Spurs U21 on Tuesday. What are your predictions?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#GrecianPride"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Sam Fender & Olivia Dean Hold UK No.1",
-   "blurb": "Sam Fender & Olivia Dean's 'Rein Me In' remains at number one on the Official UK Singles Chart for an incredible 23rd week, as new entries and re-entries shake up the Top 40.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper",
-     "copy": "23 weeks at #1! Sam Fender & Olivia Dean are still dominating the Official UK Singles Chart with 'Rein Me In'. Is it still your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "New Entries",
-     "copy": "Dolly Parton's back in the charts with 'Jolene', '9 To 5', and 'Islands In the Stream'! Plus new music from Fontaines D.C. and SIENNA SPIRO. What are you listening to?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dolly-parton-reentries",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Dolly Parton Back on the UK Chart",
-   "blurb": "Country legend Dolly Parton sees three classic tracks re-enter the Official UK Singles Chart this week: 'Jolene', '9 To 5', and 'Islands In the Stream'.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Dolly's Chart Comeback",
-     "copy": "She's back! Dolly Parton has three songs re-entering the UK Singles Chart. Proof that true classics never die! Which one are you streaming?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#DollyParton"
-     ]
-    },
-    {
-     "name": "Timeless Tracks",
-     "copy": "'Jolene', '9 To 5', 'Islands In the Stream' – Dolly Parton's iconic hits are back in the Top 40! What's your favourite Dolly track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#CountryMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lindisfarne-festival",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Lindisfarne Festival is Live",
-   "blurb": "The Lindisfarne Festival, a vibrant music and creative arts event, is underway in Northumberland from September 3rd to 6th.",
-   "source": {
-    "l": "Lindisfarne Festival Official Site",
-    "u": "https://lindisfarnefestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North East"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Vibes",
-     "copy": "Lindisfarne Festival is officially LIVE in Northumberland! Who's heading there this weekend for the music and good vibes?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LindisfarneFest"
-     ]
-    },
-    {
-     "name": "Northumberland Party",
-     "copy": "The party is happening in Northumberland! Lindisfarne Festival is bringing the best in music and arts until Sunday. Wish you were there?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#FestivalSeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "british-country-music-festival",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "British Country Music Festival Kicks Off",
-   "blurb": "The British Country Music Festival begins tomorrow in Blackpool, featuring Elles Bailey as the Friday headliner and a weekend of country and Americana artists.",
-   "source": {
-    "l": "The British Country Music Festival Official Site",
-    "u": "https://www.britishcountrymusicfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country Weekend",
-     "copy": "Yee-haw! The British Country Music Festival kicks off tomorrow in Blackpool with Elles Bailey headlining. Who's ready for a weekend of country tunes?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#BCMF"
-     ]
-    },
-    {
-     "name": "Blackpool Bound",
-     "copy": "Calling all country fans! The British Country Music Festival hits Blackpool this weekend. Discover new favourites and hear some incredible live music.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#CountryMusicUK"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "waterworks-festival",
-   "off": 8,
-   "type": "gig",
-   "hot": true,
-   "title": "Waterworks Festival Next Weekend",
-   "blurb": "London's Waterworks Festival, known for its electronic and dance music lineup, returns next weekend, September 12-13, at Gunnersbury Park.",
-   "source": {
-    "l": "Waterworks Festival Official Site",
-    "u": "https://www.waterworksfestival.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dance Festival Countdown",
-     "copy": "Just one week to go until Waterworks Festival takes over Gunnersbury Park! Who's ready to hit the dancefloor next weekend?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#WaterworksFestival"
-     ]
-    },
-    {
-     "name": "London Calling",
-     "copy": "London's biggest electronic music festival, Waterworks, is next weekend! Get ready for two days of incredible DJs and live acts.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#LondonGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing-countdown",
-   "off": 15,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing Launch Nears",
-   "blurb": "The highly anticipated new series of Strictly Come Dancing is set to launch on BBC One on Saturday, September 19th, with new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
-   "source": {
-    "l": "BBC Official Site",
-    "u": "https://www.bbc.co.uk/strictly"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly Is Back",
-     "copy": "The countdown is ON! Strictly Come Dancing returns to BBC One on September 19th. Who are you most excited to see on the dancefloor?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    },
-    {
-     "name": "New Presenters",
-     "copy": "Emma Willis, Josh Widdicombe & Johannes Radebe are taking over the Strictly ballroom! What do you think of the new presenting line-up?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#Strictly"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-weather-outlook",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Mixed UK Weather Ahead",
-   "blurb": "The UK is set for a changeable few days with rain and strong winds in the north and west, but central and southern areas could see some drier, warmer spells reaching the high 20s this weekend.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/10-day-outlook"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Weekend Forecast",
-     "copy": "Mixed bag for the weekend weather! Sunshine and warmth in the south, but get ready for rain and wind up north. What are your plans?",
+     "name": "Prog Rock Legend",
+     "for": "Nation Rocks",
+     "copy": "Happy 83rd Birthday to Roger Waters! The visionary behind so much of Pink Floyd's iconic sound. What's your favourite Waters-era track?",
      "channels": [
       "instagram",
       "facebook",
@@ -585,34 +121,36 @@
      ],
      "time": "09:00",
      "tags": [
-      "#UKWeather"
+      "#RogerWaters"
      ]
     },
     {
-     "name": "Autumn's Arrival",
-     "copy": "Meteorological autumn has arrived, and the weather is definitely feeling it! Expect changeable conditions with some warm pockets this weekend.",
+     "name": "70s Icon",
+     "for": "Nation 70s",
+     "copy": "Wishing a very happy 83rd birthday to Pink Floyd's Roger Waters! From 'The Dark Side of the Moon' to 'The Wall', his influence is undeniable.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "13:00",
+     "time": "12:00",
      "tags": [
-      "#AutumnWeather"
+      "#PinkFloyd"
      ]
     }
    ]
   },
   {
-   "id": "beyonce-birthday",
-   "off": 0,
+   "id": "macy-gray-birthday-2026",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 45th Birthday, Beyoncé!",
-   "blurb": "Global superstar Beyoncé celebrates her 45th birthday today, September 4th.",
+   "title": "Macy Gray Turns 59",
+   "blurb": "Grammy-winning American R&B and soul singer Macy Gray, known for her distinctive raspy voice and hit 'I Try', celebrates her 59th birthday on September 6th.",
    "source": {
-    "l": "Biography.com",
-    "u": "https://www.biography.com/musicians/beyonce"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Macy_Gray"
    },
    "fits": [
     {
@@ -621,7 +159,7 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
@@ -630,65 +168,9 @@
    ],
    "angles": [
     {
-     "name": "Queen Bey's Day",
-     "copy": "Happy 45th Birthday to the one and only Queen Bey, Beyoncé! Celebrate with us by playing your favourite track!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#Beyonce"
-     ]
-    },
-    {
-     "name": "Iconic Artist",
-     "copy": "From Destiny's Child to global icon, Beyoncé turns 45 today! What's your ultimate Beyoncé power anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#HappyBirthdayBeyonce"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "roger-waters-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Roger Waters Turns 83",
-   "blurb": "Pink Floyd co-founder and legendary musician Roger Waters celebrates his 83rd birthday on September 6th.",
-   "source": {
-    "l": "Pink Floyd Official Site",
-    "u": "https://www.pinkfloyd.com/history/biography/roger-waters/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pink Floyd Legend",
-     "copy": "Wishing a very Happy 83rd Birthday to Pink Floyd's iconic Roger Waters on Sunday! What's your favourite Floyd album he worked on?",
+     "name": "Soulful Birthday",
+     "for": "Nation Easy",
+     "copy": "Happy 59th Birthday to the one and only Macy Gray! Still loving that unique voice and timeless hit 'I Try'.",
      "channels": [
       "instagram",
       "facebook",
@@ -697,34 +179,188 @@
      ],
      "time": "10:00",
      "tags": [
-      "#RogerWaters"
+      "#MacyGray"
      ]
     },
     {
-     "name": "Musical Visionary",
-     "copy": "The legendary Roger Waters turns 83 this weekend! Celebrate the musical genius behind some of rock's greatest masterpieces.",
+     "name": "Queen of R&B",
+     "for": "Nation Hits",
+     "copy": "Wishing a very happy 59th to Macy Gray! Her voice is instantly recognisable. What's your top Macy Gray tune?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#PinkFloyd"
+      "#MacyGray"
      ]
     }
    ]
   },
   {
-   "id": "michael-buble-birthday",
-   "off": 5,
+   "id": "gloria-gaynor-birthday-2026",
+   "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Michael Bublé's 51st Birthday",
-   "blurb": "The king of smooth vocals, Michael Bublé, will celebrate his 51st birthday on September 9th.",
+   "title": "Gloria Gaynor Turns 83",
+   "blurb": "Disco and soul legend Gloria Gaynor, celebrated for her anthemic hit 'I Will Survive', marks her 83rd birthday on September 7th.",
    "source": {
-    "l": "Michael Bublé Official Site",
-    "u": "https://www.michaelbuble.com/bio"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gloria_Gaynor"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Disco Queen",
+     "for": "Nation Dance",
+     "copy": "Happy 83rd Birthday to the iconic Gloria Gaynor! Still surviving and thriving, what an absolute legend. What's your go-to 'I Will Survive' moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#GloriaGaynor"
+     ]
+    },
+    {
+     "name": "Timeless Voice",
+     "for": "Nation 70s",
+     "copy": "Wishing a fabulous 83rd birthday to the incredible Gloria Gaynor! Her powerful vocals shaped an era and continue to inspire.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#DiscoLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wiz-khalifa-birthday-2026",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Wiz Khalifa Turns 39",
+   "blurb": "American rapper, singer, and songwriter Wiz Khalifa, known for hits like 'Black and Yellow' and 'See You Again', celebrates his 39th birthday on September 8th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Wiz_Khalifa"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rap Star Birthday",
+     "for": "Nation Hits",
+     "copy": "Happy 39th Birthday to Wiz Khalifa! From Pittsburgh to global charts, his tracks always hit. What's your favourite Wiz Khalifa song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#WizKhalifa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moby-birthday-2026",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Moby Turns 61",
+   "blurb": "Influential American musician, DJ, and animal rights activist Moby, whose electronic music defined the 90s and early 00s, celebrates his 61st birthday on September 11th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Moby"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Electronic Pioneer",
+     "for": "Nation Dance",
+     "copy": "Happy 61st Birthday to the one and only Moby! His groundbreaking electronic tracks still sound fresh. Which Moby album is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#Moby"
+     ]
+    },
+    {
+     "name": "90s/00s Icon",
+     "for": "Nation 90s",
+     "copy": "Wishing a very happy 61st birthday to Moby! A true icon of the 90s and 00s dance scene. What's your favourite track from Play?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#Moby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "harry-connick-jr-birthday-2026",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Harry Connick Jr. Turns 59",
+   "blurb": "Grammy and Emmy-winning American singer, pianist, composer, and actor Harry Connick Jr. celebrates his 59th birthday on September 11th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Harry_Connick_Jr."
    },
    "fits": [
     {
@@ -733,39 +369,93 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Bublé's Big Day",
-     "copy": "Get ready to swoon! Michael Bublé turns 51 on September 9th. What's your go-to Bublé ballad?",
+     "name": "Smooth Jazz Birthday",
+     "for": "Nation Easy",
+     "copy": "Happy 59th Birthday to the effortlessly cool Harry Connick Jr.! His smooth vocals and piano skills are simply timeless. What's your favourite of his songs?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#MichaelBuble"
+      "#HarryConnickJr"
      ]
     },
     {
-     "name": "Smooth Operator",
-     "copy": "Wishing a future Happy 51st Birthday to the incredible Michael Bublé! Perfect music for a chilled out evening.",
+     "name": "Hollywood Crooner",
+     "for": "Nation Classic Hits",
+     "copy": "Wishing a wonderful 59th birthday to Harry Connick Jr.! A true entertainer across music and film. What's your favourite performance?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ClassicHits"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-come-dancing-build-up-2026",
+   "off": 15,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing Buzz Builds",
+   "blurb": "The new series of Strictly Come Dancing is set to launch on September 19th with a pre-recorded show, featuring new hosts and a rumoured Madonna tribute.",
+   "source": {
+    "l": "Liverpool Echo",
+    "u": "https://www.liverpoolecho.co.uk/news/tv/bbc-strictly-come-dancing-launch-29969185"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly's Return",
+     "for": "",
+     "copy": "Get ready to cha-cha-cha! Strictly Come Dancing is almost back on our screens with a new line-up of hosts and celebs. Who are you most excited to see?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
      "time": "16:00",
      "tags": [
-      "#EasyListening"
+      "#StrictlyComeDancing"
+     ]
+    },
+    {
+     "name": "Madonna Tribute Tease",
+     "for": "",
+     "copy": "Rumours are swirling about a huge Madonna tribute for the new Strictly series opener! What classic hits do you hope they dance to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Strictly"
      ]
     }
    ]
