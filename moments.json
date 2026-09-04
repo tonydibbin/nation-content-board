@@ -1,15 +1,15 @@
 {
- "updated": "2026-09-04T18:37:17.243Z",
+ "updated": "2026-09-04T21:06:34.334Z",
  "moments": [
   {
-   "id": "premier-league-sept4-6",
-   "off": 0,
+   "id": "pl-weekend-biggames",
+   "off": 2,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Weekend Kicks Off",
-   "blurb": "Matchweek 3 of the Premier League season continues with a Friday night fixture and a packed weekend of games across England.",
+   "title": "Premier League Weekend Showdowns",
+   "blurb": "Matchweek 3 and 4 of the Premier League features major clashes this weekend, including Everton vs Manchester United and Arsenal vs Chelsea on Sunday.",
    "source": {
-    "l": "Premier League Official Site / Sky Sports",
+    "l": "Premier League Official Site",
     "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
@@ -20,40 +20,28 @@
    ],
    "angles": [
     {
-     "name": "Friday Night Football",
-     "copy": "Premier League football is back tonight! Ipswich Town take on Liverpool at 8pm. Who are you backing for the win? #PremierLeague",
+     "name": "Derby Day Drama",
+     "for": "",
+     "copy": "Sunday's Premier League action is unmissable! Who's taking the points in Everton v Man Utd and Arsenal v Chelsea? Big calls coming! #PremierLeague",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Super Saturday Matches",
-     "copy": "Get ready for a Super Saturday of Premier League action! Newcastle v Bournemouth, Man City v Coventry, Hull v Aston Villa and more. What's your top pick?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
       "#PL"
      ]
     },
     {
-     "name": "Sunday Showdowns",
-     "copy": "Sunday's Premier League clashes are big: Everton host Man Utd, and Arsenal face Chelsea. Which London derby will deliver the most drama?",
+     "name": "Title Race Impact",
+     "for": "",
+     "copy": "Every point counts, even this early! Arsenal, Chelsea, Man Utd - huge games this Sunday that could shape the title race. Where's your money?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "09:00",
+     "time": "12:00",
      "tags": [
       "#Football"
      ]
@@ -61,15 +49,121 @@
    ]
   },
   {
-   "id": "beyonce-birthday-album",
-   "off": 0,
-   "type": "birthday",
+   "id": "exeter-chiefs-v-bristol",
+   "off": 8,
+   "type": "sport",
    "hot": true,
-   "title": "Beyoncé's 45th Birthday & B'Day Rerelease",
-   "blurb": "Global superstar Beyoncé turns 45 today and celebrates by rereleasing her 'B'Day' album with a special 20th Anniversary Deluxe Edition.",
+   "title": "Exeter Chiefs Home Game",
+   "blurb": "Exeter Chiefs play a home fixture against Bristol Bears at Sandy Park on Saturday, September 12th.",
    "source": {
-    "l": "Bored Panda / Washington Post",
-    "u": "https://boredpanda.com/celebrity-birthdays-today-september-4-2026/"
+    "l": "Exeter Chiefs Official Site",
+    "u": "https://www.exeterchiefs.co.uk/fixtures"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chiefs at Sandy Park",
+     "for": "",
+     "copy": "Get ready, Chiefs fans! Exeter Chiefs are back at Sandy Park on Saturday, September 12th, taking on Bristol Bears. Who's heading down?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ExeterChiefs"
+     ]
+    },
+    {
+     "name": "Local Rugby Buzz",
+     "for": "",
+     "copy": "The West Country derby is always a big one! Exeter Chiefs vs Bristol Bears next Saturday, the 12th. Buzzing for it! #DevonRugby",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Rugby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "coldplay-wembley-2026",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Coldplay's Wembley Residency Kicks Off",
+   "blurb": "Coldplay begin their multi-night residency at Wembley Stadium in London on Monday, September 7th, with further dates throughout the week.",
+   "source": {
+    "l": "Wembley Stadium Official Site",
+    "u": "https://www.wembleystadium.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London Calling Coldplay",
+     "for": "Nation Radio London",
+     "copy": "Wembley is about to turn into a 'Sky Full of Stars'! Coldplay's epic London residency starts Monday. Who's got tickets to one of the shows?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ColdplayWembley"
+     ]
+    },
+    {
+     "name": "Global Superstars",
+     "for": "Nation Rocks",
+     "copy": "Coldplay are back! Their massive Wembley run begins Monday, promising incredible live shows. What's your favourite Coldplay track to hear live?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Coldplay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "billie-eilish-new-number1",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "New UK Singles Chart Number 1",
+   "blurb": "The Official UK Singles Chart is updated today, with Billie Eilish's 'Electric Dreams' taking the top spot.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
@@ -79,92 +173,33 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Queen Bey",
-     "copy": "Happy 45th Birthday to the one and only Queen Bey, Beyoncé! Celebrating with a special 'B'Day' 20th Anniversary Deluxe Edition out today. What's your favourite Beyoncé track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#Beyonce"
-     ]
-    },
-    {
-     "name": "B'Day Anniversary",
-     "copy": "It's been 20 years since Beyoncé dropped 'B'Day'! To celebrate, she's rereleased it with bonus tracks. Time to relive the classics and discover new gems.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#BDay20"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "new-music-friday-sept4",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "New Music Friday Releases",
-   "blurb": "Today's New Music Friday brings fresh albums from Sam Tompkins, Ellie Goulding, Kasabian, and ADÉLA, plus new singles from artists like MISSU, Beth McCarthy, and Beyoncé.",
-   "source": {
-    "l": "Official Charts",
-    "u": "https://www.officialcharts.com/chart-news/new-music-friday-miley-adela-kasabian-sam-tompkins-and-more__35133/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fresh Album Drops",
-     "copy": "New Music Friday is stacked! Sam Tompkins, Ellie Goulding, Kasabian, and ADÉLA all have new albums out today. What's first on your playlist?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#NewMusicFriday"
-     ]
-    },
-    {
-     "name": "Singles Spotlight",
-     "copy": "From MISSU's debut to new tracks from Beth McCarthy and James Marriott, plus a new Beyoncé single - loads of fresh tunes hit today! What's your favourite new single?",
+     "name": "Chart Topper",
+     "for": "Nation Hits",
+     "copy": "And your brand new UK Number 1 is... Billie Eilish with 'Electric Dreams'! What a track! Tune in to hear it. #OfficialCharts",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "14:00",
+     "time": "17:30",
+     "tags": [
+      "#BillieEilish"
+     ]
+    },
+    {
+     "name": "Friday Feeling",
+     "for": "",
+     "copy": "Friday feeling just got better! Billie Eilish has officially landed the UK Number 1 with 'Electric Dreams'. Is it on your weekend playlist?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "18:00",
      "tags": [
       "#NewMusic"
      ]
@@ -172,15 +207,15 @@
    ]
   },
   {
-   "id": "uk-rb-chart-launch",
-   "off": 7,
-   "type": "culture",
+   "id": "bday-beyonce",
+   "off": 0,
+   "type": "birthday",
    "hot": true,
-   "title": "Official R&B UK Chart Launch",
-   "blurb": "The Official Charts Company, in collaboration with Everything RNB, is set to launch the first-ever Official R&B UK Chart next Friday, September 11.",
+   "title": "Happy 45th Birthday, Beyoncé!",
+   "blurb": "Global superstar Beyoncé celebrates her 45th birthday today, September 4th, 2026.",
    "source": {
-    "l": "Music Week",
-    "u": "https://www.musicweek.com/labels/read/what-a-time-this-is-occ-and-everything-rnb-to-launch-official-r-b-uk-chart/091219"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
    },
    "fits": [
     {
@@ -189,535 +224,78 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "New Chart Alert",
-     "copy": "A history-making moment for UK R&B! The Official R&B UK Chart launches next Friday, Sept 11, giving homegrown talent the spotlight they deserve.",
+     "name": "Queen Bey",
+     "for": "Nation Hits",
+     "copy": "Happy 45th Birthday to the one and only Queen Bey, Beyoncé! Celebrating an icon today. What's your ultimate Beyoncé anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#UKRnB"
-     ]
-    },
-    {
-     "name": "R&B Recognition",
-     "copy": "The Official R&B UK Chart is coming! Dedicated to showcasing the freshest R&B releases, this is huge for the genre. Who do you think will top the first chart?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing-launch",
-   "off": 15,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing 2026 Launch",
-   "blurb": "The much-anticipated 24th series of Strictly Come Dancing is set to return with its launch show airing on Saturday, September 19, introducing new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
-   "source": {
-    "l": "BBC / Daily Echo",
-    "u": "https://www.bbc.co.uk/strictly"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly's New Era",
-     "copy": "Get ready to cha-cha-change! Strictly Come Dancing returns Sept 19 with a brand new hosting trio: Emma Willis, Josh Widdicombe, and Johannes Radebe. Who's excited?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    },
-    {
-     "name": "Glitterball Season",
-     "copy": "The pre-recorded Strictly launch is set for Sept 9, airing on Sept 19! The live shows kick off Sept 26. Time to dust off those dancing shoes!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Strictly"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "great-british-bake-off-return",
-   "off": 25,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off 2026 Return",
-   "blurb": "The Great British Bake Off is set to return to Channel 4 on Tuesday, September 29, with Nigella Lawson joining as a new judge.",
-   "source": {
-    "l": "The Version / Channel 4",
-    "u": "https://www.theversion.co/entertainment/the-great-british-bake-off-2026-sets-late-september-launch-date/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off is Back",
-     "copy": "Ready your rolling pins! The Great British Bake Off returns Sept 29 on Channel 4, and Nigella Lawson is joining the judging panel! Who's excited for soggy bottoms and Hollywood handshakes?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "Nigella in the Tent",
-     "copy": "Nigella Lawson as a Bake Off judge? This year's series is going to be delicious! Tune in from September 29. What's your favourite Bake Off moment?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "james-bay-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 36th Birthday, James Bay",
-   "blurb": "British singer-songwriter James Bay, known for hits like 'Hold Back The River' and 'Let It Go', celebrates his 36th birthday today.",
-   "source": {
-    "l": "Bored Panda",
-    "u": "https://boredpanda.com/celebrity-birthdays-today-september-4-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Celebrating James Bay",
-     "copy": "Wishing a very Happy 36th Birthday to the incredibly talented James Bay! What's your favourite song from the 'Chaos and the Calm' artist?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JamesBay"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mark-ronson-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 51st Birthday, Mark Ronson",
-   "blurb": "Award-winning British-American DJ and producer Mark Ronson, famous for 'Uptown Funk' and his work with Amy Winehouse, turns 51 today.",
-   "source": {
-    "l": "Bored Panda",
-    "u": "https://boredpanda.com/celebrity-birthdays-today-september-4-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cheers to Mark Ronson",
-     "copy": "Happy 51st Birthday to the genius behind so many hits, Mark Ronson! From 'Uptown Funk' to producing Amy Winehouse, his influence is huge. What's your top Ronson production?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#MarkRonson"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "macy-gray-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 59th Birthday, Macy Gray",
-   "blurb": "Distinctive soul singer Macy Gray, known for her hit 'I Try', will celebrate her 59th birthday on Sunday, September 6.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september6.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Macy Gray's Milestone",
-     "copy": "On Sunday, we're wishing a Happy 59th Birthday to the incredible Macy Gray! Her unique voice is unmistakable. What's your favourite Macy Gray song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MacyGray"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "roger-waters-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 83rd Birthday, Roger Waters",
-   "blurb": "Roger Waters, co-founder and driving force behind Pink Floyd, will turn 83 on Sunday, September 6.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september6.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pink Floyd Legend",
-     "copy": "Wishing a very Happy 83rd Birthday to Pink Floyd legend Roger Waters this Sunday! Which iconic Pink Floyd album with his influence is your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#RogerWaters"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chrissie-hynde-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 75th Birthday, Chrissie Hynde",
-   "blurb": "Chrissie Hynde, the iconic frontwoman of The Pretenders, celebrates her 75th birthday on Monday, September 7.",
-   "source": {
-    "l": "LA NACION",
-    "u": "https://www.lanacion.com.ar/usa/celebrity-birthdays-for-the-week-of-sept-6-12-include-emmy-rossum-and-harry-connick-jr-nid31082026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pretenders Frontwoman",
-     "copy": "Rock icon Chrissie Hynde turns 75 this Monday! From 'Brass in Pocket' to 'Don't Get Me Wrong', The Pretenders' legacy is undeniable. Celebrate with us!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
      ],
      "time": "09:00",
      "tags": [
-      "#ChrissieHynde"
+      "#Beyonce"
      ]
-    }
-   ]
-  },
-  {
-   "id": "pink-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 47th Birthday, Pink",
-   "blurb": "Grammy-winning pop-rock superstar Pink, known for her powerful vocals and acrobatic live performances, will celebrate her 47th birthday on Tuesday, September 8.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september8.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Raise Your Glass for Pink",
-     "copy": "Get ready to 'Raise Your Glass'! The incredible Pink turns 47 on Tuesday. What's your favourite anthemic track from the pop powerhouse?",
+     "name": "Music Legend",
+     "for": "Nation 00s",
+     "copy": "From Destiny's Child to solo superstardom, Beyoncé turns 45 today! A true music legend. Let's blast her biggest hits! #HappyBirthdayBeyonce",
      "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Pink"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "aimee-mann-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 66th Birthday, Aimee Mann",
-   "blurb": "Acclaimed singer-songwriter Aimee Mann, known for her solo work and 'Til Tuesday, will turn 66 on Tuesday, September 8.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september8.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Celebrating Aimee Mann",
-     "copy": "Wishing a Happy 66th Birthday to the brilliant Aimee Mann this Tuesday! From 'Voices Carry' to her acclaimed solo albums, she's a songwriting legend.",
-     "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#AimeeMann"
+      "#MusicIcon"
      ]
     }
    ]
   },
   {
-   "id": "harry-connick-jr-birthday",
-   "off": 7,
+   "id": "bday-markronson",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 59th Birthday, Harry Connick Jr.",
-   "blurb": "Multi-talented singer, pianist, and actor Harry Connick Jr. will celebrate his 59th birthday on Friday, September 11.",
+   "title": "Happy 51st Birthday, Mark Ronson!",
+   "blurb": "Award-winning DJ and producer Mark Ronson celebrates his 51st birthday today, September 4th, 2026.",
    "source": {
-    "l": "LA NACION",
-    "u": "https://www.lanacion.com.ar/usa/celebrity-birthdays-for-the-week-of-sept-6-12-include-emmy-rossum-and-harry-connick-jr-nid31082026/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mark_Ronson"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Jazz & Crooner Icon",
-     "copy": "Wishing a Happy 59th Birthday to the smooth sounds of Harry Connick Jr. this Friday! What's your favourite song from the jazz and swing icon?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#HarryConnickJr"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "september-weather-uk",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK Weather: Mixed but Warmer South",
-   "blurb": "The UK is experiencing mixed weather with rain in the north and west, while the south and east could see drier spells and temperatures potentially reaching 30°C on Sunday.",
-   "source": {
-    "l": "Meteored UK / ITV News",
-    "u": "https://www.meteored.co.uk/news/weather-uk/september-2026-forecast-reveals-where-rain-will-hit-and-where-warmer-weather-could-return.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Weekend Forecast",
-     "copy": "North-west getting rain, but the South-East could hit 30°C this Sunday! What are your weekend plans, rain or shine?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#UKWeather"
-     ]
-    },
-    {
-     "name": "Autumn Heatwave?",
-     "copy": "Could we be seeing a mini-heatwave in the South this weekend with temperatures nearing 30°C? Enjoy it while it lasts!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#SeptemberHeat"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dolly-parton-chart-reentry",
-   "off": -1,
-   "type": "culture",
-   "hot": true,
-   "title": "Dolly Parton's 'Jolene' Re-enters Top 10",
-   "blurb": "Following her recent passing, Dolly Parton's iconic hit 'Jolene' posthumously re-entered the UK Singles Chart Top 10 this week (week ending Sept 3), 50 years after its original peak.",
-   "source": {
-    "l": "Wikipedia (UK top-ten singles in 2026)",
-    "u": "https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_2026"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jolene's Legacy",
-     "copy": "Dolly Parton's 'Jolene' is back in the UK Top 10 this week! A beautiful tribute to a true legend, 50 years after its original peak. What a song.",
+     "name": "Uptown Funk Creator",
+     "for": "Nation Dance",
+     "copy": "Wishing a very Happy 51st Birthday to the incredible Mark Ronson! Responsible for so many bangers. What's your favourite Ronson-produced track?",
      "channels": [
       "instagram",
       "facebook",
@@ -725,20 +303,456 @@
      ],
      "time": "10:30",
      "tags": [
-      "#DollyParton"
+      "#MarkRonson"
      ]
     },
     {
-     "name": "Chart Comeback",
-     "copy": "Iconic tracks never die. Dolly Parton's 'Jolene' has re-entered the Top 10 of the UK Singles Chart. A testament to her incredible music.",
+     "name": "Producer Extraordinaire",
+     "for": "Nation Hits",
+     "copy": "Happy Birthday, Mark Ronson! The man behind some of the biggest hits of the last two decades turns 51 today. Time to celebrate with his sound!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Producer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-rogerwaters",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 83rd Birthday, Roger Waters!",
+   "blurb": "Pink Floyd co-founder Roger Waters celebrates his 83rd birthday on Sunday, September 6th, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Roger_Waters"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Legend",
+     "for": "Nation Rocks",
+     "copy": "Wishing a very Happy 83rd Birthday to Pink Floyd's legendary Roger Waters this Sunday! What's your definitive Floyd track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "09:00",
      "tags": [
-      "#Jolene"
+      "#RogerWaters"
+     ]
+    },
+    {
+     "name": "Iconic Songwriter",
+     "for": "Nation 70s",
+     "copy": "Happy Birthday to the iconic Roger Waters on Sunday! From 'The Wall' to 'Dark Side of the Moon', his influence is immense. Celebrate his legacy!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#PinkFloyd"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-gloriagaynor",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 83rd Birthday, Gloria Gaynor!",
+   "blurb": "Disco icon Gloria Gaynor celebrates her 83rd birthday on Monday, September 7th, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gloria_Gaynor"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Disco Queen",
+     "for": "Nation Dance",
+     "copy": "We will survive! Happy 83rd Birthday to the legendary Gloria Gaynor this Monday! Get your disco shoes on! #GloriaGaynor",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Disco"
+     ]
+    },
+    {
+     "name": "Empowerment Anthem",
+     "for": "Nation Easy",
+     "copy": "Wishing a fantastic 83rd Birthday to Gloria Gaynor on Monday! 'I Will Survive' is still the ultimate empowerment anthem. What a voice!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#MusicLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-p!nk",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 47th Birthday, P!nk!",
+   "blurb": "Pop-rock superstar P!nk celebrates her 47th birthday on Tuesday, September 8th, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Pink_(singer)"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Raise Your Glass",
+     "for": "Nation Hits",
+     "copy": "Raise your glass! It's P!nk's 47th Birthday this Tuesday! An incredible performer and artist. What's your favourite P!nk hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#Pink"
+     ]
+    },
+    {
+     "name": "Pop-Rock Icon",
+     "for": "Nation Rocks",
+     "copy": "Happy Birthday to the phenomenal P!nk this Tuesday! Still selling out stadiums and rocking the charts at 47. A true icon! #HappyBirthdayPink",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PopRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-michaelbuble",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 51st Birthday, Michael Bublé!",
+   "blurb": "Grammy-winning crooner Michael Bublé celebrates his 51st birthday on Wednesday, September 9th, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Michael_Bubl%C3%A9"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Smooth Operator",
+     "for": "Nation Easy",
+     "copy": "Wishing a very Happy 51st Birthday to the king of smooth, Michael Bublé, this Wednesday! Time to put on some timeless tunes. #MichaelBuble",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Crooner"
+     ]
+    },
+    {
+     "name": "Love Songs Maestro",
+     "for": "Nation Love",
+     "copy": "Happy Birthday to the brilliant Michael Bublé on Wednesday! His voice makes every song a classic. What's your favourite Bublé ballad?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LoveSongs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-josefeliciano",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 81st Birthday, Jose Feliciano!",
+   "blurb": "Legendary Puerto Rican singer-songwriter and guitarist Jose Feliciano celebrates his 81st birthday on Thursday, September 10th, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jos%C3%A9_Feliciano"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Feliz Cumpleaños",
+     "for": "Nation Easy",
+     "copy": "Wishing a very Happy 81st Birthday to the legendary Jose Feliciano this Thursday! His 'Feliz Navidad' is iconic, but his other work is incredible. #JoseFeliciano",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#MusicLegend"
+     ]
+    },
+    {
+     "name": "Guitar Virtuoso",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 81st Birthday to the incredible guitarist and singer Jose Feliciano on Thursday! A true master of his craft. #GuitarLegend",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ClassicHits"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-moby",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 61st Birthday, Moby!",
+   "blurb": "Electronic music pioneer Moby celebrates his 61st birthday on Friday, September 11th, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Moby"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Music Icon",
+     "for": "Nation Dance",
+     "copy": "Happy 61st Birthday to the electronic music visionary, Moby, this Friday! From 'Play' to 'Porcelain', his tracks are timeless. #Moby",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#ElectronicMusic"
+     ]
+    },
+    {
+     "name": "90s/00s Sound",
+     "for": "Nation 90s",
+     "copy": "Wishing a fantastic 61st Birthday to Moby on Friday! Still sounds as fresh as ever. What's your go-to Moby track to get you moving? #MusicProducer",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#90sDance"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bday-jenniferhudson",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 45th Birthday, Jennifer Hudson!",
+   "blurb": "Oscar and Grammy-winning singer and actress Jennifer Hudson celebrates her 45th birthday on Saturday, September 12th, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jennifer_Hudson"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Powerhouse Voice",
+     "for": "Nation Hits",
+     "copy": "Happy 45th Birthday to the incredible Jennifer Hudson this Saturday! What a voice, what a talent. Let's celebrate her amazing career! #JenniferHudson",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#MusicStar"
+     ]
+    },
+    {
+     "name": "Dreamgirl to Icon",
+     "for": "Nation Love",
+     "copy": "Wishing a very Happy Birthday to Jennifer Hudson on Saturday! From 'Dreamgirls' to 'The Voice', she truly is a superstar. #HappyBirthday",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Soulful"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "manchester-derby-pl",
+   "off": 9,
+   "type": "sport",
+   "hot": true,
+   "title": "Manchester Derby: Man Utd vs Man City",
+   "blurb": "The first Manchester Derby of the Premier League season takes place on Sunday, September 13th, as Manchester United host Manchester City at Old Trafford.",
+   "source": {
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "City vs United",
+     "for": "",
+     "copy": "It's the biggest game of the season so far! The Manchester Derby - United vs City - this Sunday! Who's taking bragging rights? #ManchesterDerby",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MUFCvMCFC"
+     ]
+    },
+    {
+     "name": "Red or Blue?",
+     "for": "",
+     "copy": "Get ready for fireworks! Manchester United vs Manchester City this Sunday. Which side are you on? #PL",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ManchesterIsRedOrBlue"
      ]
     }
    ]
