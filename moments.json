@@ -1,58 +1,203 @@
 {
- "updated": "2026-09-06T00:18:48.492Z",
+ "updated": "2026-09-06T05:12:25.443Z",
  "moments": [
   {
-   "id": "macy-gray-bday",
+   "id": "f1-italian-gp-finale",
    "off": 0,
-   "type": "birthday",
+   "type": "sport",
    "hot": true,
-   "title": "Macy Gray turns 59",
-   "blurb": "The distinctive-voiced soul singer, known for her hit 'I Try', Macy Gray, celebrates her 59th birthday today.",
+   "title": "F1 Italian Grand Prix Finale",
+   "blurb": "The Formula 1 Pirelli Gran Premio d'Italia 2026 concludes today at Autodromo Nazionale Monza, marking Round 13 of the F1 season.",
    "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/september-soul-music-birthdays"
+    "l": "F1 Official",
+    "u": "https://www.formula1.com/en/racing/2026/Italy.html"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Macy's distinctive voice",
-     "copy": "Happy 59th birthday to the one and only Macy Gray! That voice is still instantly recognisable. What's your favourite Macy Gray track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#MacyGray"
-     ]
-    },
-    {
-     "name": "I Try nostalgia",
-     "copy": "Remember 'I Try'? Today, Macy Gray turns 59! Still sounds as good as ever. Let us know if you're listening to her today.",
+     "name": "Race Day Excitement",
+     "copy": "It's race day at Monza! The F1 Italian Grand Prix wraps up today. Who are you backing for the win?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
+     "time": "09:00",
+     "tags": [
+      "#F1"
+     ]
+    },
+    {
+     "name": "F1 Weekend Wrap",
+     "copy": "The roar of the engines fades as the Italian Grand Prix concludes today. What was your highlight from the Monza weekend?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ItalianGP"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-sun",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Sunday Fixtures",
+   "blurb": "Today's Premier League action sees Everton take on Manchester United at 9 AM ET, followed by Arsenal versus Chelsea at 11:30 AM ET.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Super Sunday Football",
+     "copy": "Premier League Super Sunday! Big games today with Everton v Man Utd and Arsenal v Chelsea. Who's taking maximum points?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Derby Day",
+     "copy": "It's a huge day for London football fans as Arsenal face Chelsea. Who will claim bragging rights?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ARSCEL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "official-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "UK Official Singles Chart Update",
+   "blurb": "Ella Langley's 'Choosin' Texas' holds the #1 spot on the Official Singles Chart for the week of September 3 - September 9, 2026.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Number One",
+     "copy": "Still at #1! Ella Langley's 'Choosin' Texas' reigns supreme on the Official Singles Chart. Have you been streaming it?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#OfficialChart"
+     ]
+    },
+    {
+     "name": "Dolly's Chart Comeback",
+     "copy": "Dolly Parton is dominating the charts with '9 To 5' and 'Jolene' both in the Top 10! Timeless classics back with a bang.",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
      "time": "12:00",
      "tags": [
-      "#ITry"
+      "#DollyParton"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "peter-kay-cardiff",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Peter Kay Live in Cardiff",
+   "blurb": "Comedian Peter Kay performs matinee and evening shows today at the Utilita Arena in Cardiff.",
+   "source": {
+    "l": "Live Nation",
+    "u": "https://www.livenation.co.uk/artist-peter-kay-218"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Comedy Gold",
+     "copy": "Cardiff is in for a treat! Peter Kay is bringing the laughs to Utilita Arena today with two shows.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#PeterKay"
+     ]
+    },
+    {
+     "name": "Weekend Warmup",
+     "copy": "Heading to see Peter Kay in Cardiff today? Get ready for some classic comedy!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#CardiffGigs"
      ]
     }
    ]
@@ -61,12 +206,12 @@
    "id": "roger-waters-bday",
    "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "Roger Waters is 83",
-   "blurb": "Pink Floyd co-founder, bassist, and songwriter Roger Waters celebrates his 83rd birthday today.",
+   "hot": true,
+   "title": "Roger Waters turns 83",
+   "blurb": "Pink Floyd co-founder, singer, and songwriter Roger Waters celebrates his 83rd birthday today.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/September_6"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/september/6"
    },
    "fits": [
     {
@@ -76,16 +221,12 @@
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Pink Floyd legend",
-     "copy": "Sending birthday wishes to Pink Floyd legend Roger Waters, who turns 83 today! What's your go-to Pink Floyd album?",
+     "name": "Rock Legend",
+     "copy": "Happy 83rd Birthday to the legendary Roger Waters of Pink Floyd! What's your favourite Floyd track with his influence?",
      "channels": [
       "instagram",
       "facebook",
@@ -97,14 +238,13 @@
      ]
     },
     {
-     "name": "The Wall",
-     "copy": "From 'The Wall' to 'Dark Side of the Moon', Roger Waters' influence is undeniable. He's 83 today!",
+     "name": "Floyd Icon",
+     "copy": "Celebrating the birthday of Pink Floyd's iconic Roger Waters today! From 'The Wall' to 'Dark Side of the Moon', his impact is undeniable.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
       "#PinkFloyd"
      ]
@@ -112,20 +252,77 @@
    ]
   },
   {
-   "id": "cece-peniston-bday",
+   "id": "macys-gray-bday",
    "off": 0,
    "type": "birthday",
-   "hot": false,
-   "title": "CeCe Peniston turns 57",
-   "blurb": "American dance music star CeCe Peniston, famous for 'Finally', celebrates her 57th birthday.",
+   "hot": true,
+   "title": "Macy Gray turns 59",
+   "blurb": "Grammy-winning soul singer Macy Gray, known for her distinctive voice and hit 'I Try', celebrates her 59th birthday today.",
    "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/september-soul-music-birthdays"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/6/macy-gray.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Soulful Birthday",
+     "copy": "Wishing a very Happy 59th Birthday to the incredible Macy Gray! Time to blast 'I Try' at full volume.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MacyGray"
+     ]
+    },
+    {
+     "name": "Distinctive Voice",
+     "copy": "Macy Gray turns 59 today! Her unique sound has blessed our airwaves for decades. What's your favourite of her tracks?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SoulMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chrissie-hynde-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Chrissie Hynde turns 75",
+   "blurb": "The Pretenders' legendary frontwoman Chrissie Hynde celebrates her 75th birthday tomorrow, September 7th.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/september/7"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
@@ -134,22 +331,8 @@
    ],
    "angles": [
     {
-     "name": "Finally hit",
-     "copy": "It's CeCe Peniston's 57th birthday! Time to crank up 'Finally' and get those weekend vibes going.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#CeCePeniston"
-     ]
-    },
-    {
-     "name": "Dance anthem",
-     "copy": "Happy birthday to the voice behind one of the biggest dance anthems of all time! CeCe Peniston is 57 today.",
+     "name": "Rock Icon Birthday",
+     "copy": "Tomorrow, the one and only Chrissie Hynde of The Pretenders turns 75! A true rock icon.",
      "channels": [
       "instagram",
       "facebook",
@@ -157,7 +340,19 @@
      ],
      "time": "16:00",
      "tags": [
-      "#Finally"
+      "#ChrissieHynde"
+     ]
+    },
+    {
+     "name": "Pretenders Legend",
+     "copy": "Get ready to celebrate! Chrissie Hynde's 75th birthday is tomorrow. What's your top Pretenders song?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#ThePretenders"
      ]
     }
    ]
@@ -167,13 +362,17 @@
    "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Gloria Gaynor turns 83",
-   "blurb": "Disco icon Gloria Gaynor, known for the empowering anthem 'I Will Survive', celebrates her 83rd birthday tomorrow.",
+   "title": "Gloria Gaynor turns 77",
+   "blurb": "Disco superstar Gloria Gaynor, famous for 'I Will Survive', celebrates her 77th birthday tomorrow, September 7th.",
    "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/september-soul-music-birthdays"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/7/gloria-gaynor.html"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
@@ -181,190 +380,12 @@
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "I Will Survive power",
-     "copy": "Tomorrow, the incredible Gloria Gaynor turns 83! Her music still gives us all the strength. What's your favourite lyric from 'I Will Survive'?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#GloriaGaynor"
-     ]
-    },
-    {
-     "name": "Disco queen",
-     "copy": "The original disco queen, Gloria Gaynor, celebrates her 83rd birthday tomorrow. Get ready to dance!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#DiscoLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chrissie-hynde-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": false,
-   "title": "Chrissie Hynde is 75",
-   "blurb": "The Pretenders' legendary frontwoman Chrissie Hynde celebrates her 75th birthday tomorrow.",
-   "source": {
-    "l": "National Day Calendar",
-    "u": "https://nationaldaycalendar.com/september-7-birthdays-and-events/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pretenders icon",
-     "copy": "Happy 75th birthday to the rock icon Chrissie Hynde of The Pretenders, celebrating tomorrow! What's your favourite Pretenders track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ChrissieHynde"
-     ]
-    },
-    {
-     "name": "Brass In Pocket",
-     "copy": "Still rocking after all these years! Chrissie Hynde turns 75 tomorrow. 'Brass In Pocket' anyone?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ThePretenders"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "pink-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Pink turns 47",
-   "blurb": "Global pop-rock superstar Pink (Alecia Moore) celebrates her 47th birthday on Tuesday.",
-   "source": {
-    "l": "Celebrity Birthdays",
-    "u": "https://www.famousbirthdays.com/september/8.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop-punk energy",
-     "copy": "Get the party started! Pink turns 47 on Tuesday. What's your favourite high-energy track from her?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Pink"
-     ]
-    },
-    {
-     "name": "Iconic anthems",
-     "copy": "From 'Get the Party Started' to 'Cover Me In Sunshine', Pink's anthems are legendary. She celebrates her 47th birthday on Tuesday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#AleciaMoore"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wiz-khalifa-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Wiz Khalifa is 39",
-   "blurb": "American rapper Wiz Khalifa, known for hits like 'Black and Yellow' and 'See You Again', turns 39 on Tuesday.",
-   "source": {
-    "l": "Celebrity Birthdays",
-    "u": "https://www.famousbirthdays.com/september/8.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rap superstar",
-     "copy": "Happy 39th birthday to Wiz Khalifa on Tuesday! What's the track that introduced you to his music?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#WizKhalifa"
-     ]
-    },
-    {
-     "name": "See You Again",
-     "copy": "Turning 39 on Tuesday, Wiz Khalifa has given us some massive tracks. 'See You Again' is still a huge one!",
+     "name": "Disco Queen",
+     "copy": "Tomorrow, the legendary Gloria Gaynor turns 77! Get ready to 'Survive' and dance the night away.",
      "channels": [
       "instagram",
       "facebook",
@@ -372,94 +393,49 @@
      ],
      "time": "17:00",
      "tags": [
-      "#BlackAndYellow"
+      "#GloriaGaynor"
+     ]
+    },
+    {
+     "name": "Timeless Anthem",
+     "copy": "Wishing a very Happy 77th Birthday to Gloria Gaynor tomorrow! 'I Will Survive' remains an absolute anthem.",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "20:00",
+     "tags": [
+      "#IWillSurvive"
      ]
     }
    ]
   },
   {
-   "id": "otis-redding-way-dedication",
-   "off": 3,
-   "type": "culture",
+   "id": "uk-weather-warm",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Otis Redding Way dedication",
-   "blurb": "Macon-Bibb County will dedicate portions of Cotton Avenue and Mulberry Street Lane as 'Otis Redding Way' on Wednesday, celebrating what would have been the soul legend's 85th birthday.",
+   "title": "UK Set for Warm Spell",
+   "blurb": "After an unsettled start to September, a brief drier and warmer spell is expected this weekend, with temperatures potentially reaching 23-24°C in southern England today, and up to 26°C in Essex by mid-September.",
    "source": {
-    "l": "Macon-Bibb County Government",
-    "u": "https://www.maconbibb.us/macon-bibb-to-dedicate-otis-redding-way-in-honor-of-music-legend/"
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "nation-network",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Enduring legacy",
-     "copy": "A fantastic tribute! On what would have been his 85th birthday this Wednesday, a street will be dedicated to the legendary Otis Redding. What an enduring legacy!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#OtisRedding"
-     ]
-    },
-    {
-     "name": "Sitting on the Dock",
-     "copy": "They're dedicating 'Otis Redding Way' on Wednesday! His music still moves us decades later. 'Sitting On The Dock Of The Bay' is a timeless classic.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#SoulLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "michael-buble-bday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Michael Bublé turns 51",
-   "blurb": "Canadian crooner and global superstar Michael Bublé celebrates his 51st birthday on Wednesday.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/9.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Smooth vocals",
-     "copy": "Happy 51st birthday to the king of smooth, Michael Bublé, on Wednesday! What's your favourite song to get lost in his voice?",
+     "name": "Indian Summer Vibes",
+     "copy": "A surprise blast of summer is hitting parts of the UK! Temperatures could reach 26°C this week. Are you making the most of it?",
      "channels": [
       "instagram",
       "facebook",
@@ -467,35 +443,33 @@
      ],
      "time": "08:00",
      "tags": [
-      "#MichaelBuble"
+      "#UKWeather"
      ]
     },
     {
-     "name": "Christmas album anticipation",
-     "copy": "It's Michael Bublé's 51st birthday this Wednesday! Does this mean we can start thinking about THAT Christmas album yet? Asking for a friend...",
+     "name": "Weekend Sunshine",
+     "copy": "Sunshine and warmth for many today! Perfect for those last outdoor adventures before autumn truly kicks in.",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "12:00",
+     "time": "11:00",
      "tags": [
-      "#KingOfChristmas"
+      "#SeptemberSunshine"
      ]
     }
    ]
   },
   {
-   "id": "hugh-grant-bday",
-   "off": 3,
-   "type": "birthday",
+   "id": "england-nations-league",
+   "off": 20,
+   "type": "sport",
    "hot": false,
-   "title": "Hugh Grant is 66",
-   "blurb": "Beloved British actor Hugh Grant, known for his roles in classic rom-coms and recent dramatic turns, turns 66 on Wednesday.",
+   "title": "England vs Spain: Nations League",
+   "blurb": "England are scheduled to face Spain in the UEFA Nations League on Saturday, September 26, 2026.",
    "source": {
-    "l": "Celebrity Birthdays",
-    "u": "https://www.famousbirthdays.com/september/9.html"
+    "l": "The FA",
+    "u": "https://www.thefa.com/england/mens-senior-team/fixtures"
    },
    "fits": [
     {
@@ -505,106 +479,45 @@
    ],
    "angles": [
     {
-     "name": "Rom-com king",
-     "copy": "Happy 66th birthday to the quintessential British rom-com king, Hugh Grant, on Wednesday! Which of his films is your favourite?",
+     "name": "Three Lions Prep",
+     "copy": "Mark your calendars! England takes on Spain in the UEFA Nations League on September 26th. Early predictions?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "15:00",
      "tags": [
-      "#HughGrant"
+      "#EnglandFootball"
      ]
     },
     {
-     "name": "Notting Hill forever",
-     "copy": "He's 66 on Wednesday! From floppy hair to dramatic villain, Hugh Grant always delivers. 'Notting Hill' anyone?",
+     "name": "International Football",
+     "copy": "A big international clash coming up as England face Spain in the Nations League later this month. Who's excited?",
      "channels": [
-      "instagram",
-      "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "18:00",
      "tags": [
-      "#NottingHill"
+      "#NationsLeague"
      ]
     }
    ]
   },
   {
-   "id": "joe-perry-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Joe Perry turns 76",
-   "blurb": "Aerosmith's legendary lead guitarist Joe Perry celebrates his 76th birthday on Thursday.",
+   "id": "new-album-ellie-goulding",
+   "off": -2,
+   "type": "culture",
+   "hot": true,
+   "title": "New Music: Ellie Goulding's 'I Know Too Much'",
+   "blurb": "Ellie Goulding released her sixth studio album, 'I Know Too Much', on September 4th, featuring her single 'Black Prada Dress'.",
    "source": {
-    "l": "This Day In Music",
-    "u": "https://www.thisdayinmusic.com/birthdays/september-10/"
+    "l": "Official Charts",
+    "u": "https://www.officialcharts.com/artist/23055/ellie-goulding/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar hero",
-     "copy": "Happy 76th birthday to Aerosmith's guitar hero, Joe Perry, on Thursday! What's your favourite Aerosmith riff?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#JoePerry"
-     ]
-    },
-    {
-     "name": "Walk This Way",
-     "copy": "The 'Toxic Twins' are still going strong! Joe Perry is 76 on Thursday. Time for some 'Walk This Way'!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Aerosmith"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "moby-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": false,
-   "title": "Moby turns 61",
-   "blurb": "Electronic music pioneer Moby, known for his groundbreaking albums like 'Play', celebrates his 61st birthday on Friday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/September_11"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -613,125 +526,248 @@
    ],
    "angles": [
     {
-     "name": "Electronic icon",
-     "copy": "Happy 61st birthday to the electronic music icon Moby, on Friday! Which of his tracks takes you back?",
+     "name": "Fresh Tracks",
+     "copy": "Have you heard it yet? Ellie Goulding dropped her new album 'I Know Too Much' on Friday! What are your first impressions?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "10:30",
      "tags": [
-      "#Moby"
+      "#EllieGoulding"
      ]
     },
     {
-     "name": "Play album",
-     "copy": "Still spinning 'Play' regularly? Moby turns 61 on Friday! A true innovator in electronic music.",
+     "name": "Weekend Listening",
+     "copy": "New music from Ellie Goulding is out! 'I Know Too Much' is perfect for your Sunday playlist.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "13:30",
      "tags": [
-      "#ElectronicMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "harry-connick-jr-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": false,
-   "title": "Harry Connick Jr. is 59",
-   "blurb": "Grammy and Emmy-winning American singer, pianist, and actor Harry Connick Jr. celebrates his 59th birthday on Friday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/September_11"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Multi-talented star",
-     "copy": "Happy 59th birthday to the incredibly talented Harry Connick Jr., on Friday! Singer, pianist, actor – what can't he do?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#HarryConnickJr"
-     ]
-    },
-    {
-     "name": "Smooth jazz & film",
-     "copy": "From smooth jazz to Hollywood roles, Harry Connick Jr. turns 59 on Friday. A true all-rounder!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#JazzMusic"
+      "#NewAlbum"
      ]
     }
    ]
   },
   {
-   "id": "richard-ashcroft-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": false,
-   "title": "Richard Ashcroft turns 55",
-   "blurb": "The Verve's iconic frontman Richard Ashcroft celebrates his 55th birthday on Friday.",
+   "id": "new-album-natalie-imbruglia",
+   "off": -2,
+   "type": "culture",
+   "hot": true,
+   "title": "Natalie Imbruglia's 'Algorithm' Out Now",
+   "blurb": "Natalie Imbruglia released her new album 'Algorithm' on September 4th, her first in five years, exploring themes of empowerment and freedom.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/September_11"
+    "l": "Official Charts",
+    "u": "https://www.officialcharts.com/artist/439/natalie-imbruglia/"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Verve legend",
-     "copy": "Happy 55th birthday to The Verve's legendary frontman, Richard Ashcroft, this Friday! Which Verve song is your anthem?",
+     "name": "Imbruglia's Return",
+     "copy": "Natalie Imbruglia is back! Her new album 'Algorithm' dropped on Friday. Which track is your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "11:30",
      "tags": [
-      "#RichardAshcroft"
+      "#NatalieImbruglia"
      ]
     },
     {
-     "name": "Bittersweet Symphony",
-     "copy": "Still walking the line after all these years! Richard Ashcroft turns 55 on Friday. 'Bittersweet Symphony' is always a good idea.",
+     "name": "New Music Friday Catchup",
+     "copy": "If you missed it, Natalie Imbruglia's 'Algorithm' is out now. A fresh sound from a 90s icon!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-chelsea-detective-returns",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "The Chelsea Detective Returns",
+   "blurb": "The popular crime drama 'The Chelsea Detective' returns this week with a new two-part mystery, 'Myths and Legends'.",
+   "source": {
+    "l": "Virgin Media O2",
+    "u": "https://www.virginmediao2.co.uk/virgin-tv/what-to-watch/september"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Crime Drama Fix",
+     "copy": "Get ready for more mysteries! 'The Chelsea Detective' is back this week with a brand new two-part case.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ChelseaDetective"
+     ]
+    },
+    {
+     "name": "London Crime",
+     "copy": "Our favourite Chelsea Detective is back on screen! Tune in this week for a fresh dose of London crime solving.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#UKTV"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "snl-uk-s2",
+   "off": 0,
+   "type": "tv",
+   "hot": false,
+   "title": "Saturday Night Live UK Season 2",
+   "blurb": "The British incarnation of 'Saturday Night Live' returns for its second season this September on Sky Atlantic.",
+   "source": {
+    "l": "Popped",
+    "u": "https://popped.uk/what-to-watch-on-sky-and-now-in-september-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Live from London",
+     "copy": "Live from London, it's Saturday Night! SNL UK is back for Season 2 this month. Who do you want to see host?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SNLUK"
+     ]
+    },
+    {
+     "name": "Comedy Returns",
+     "copy": "More laughs are on the way as Saturday Night Live UK returns to Sky Atlantic for its second series this September.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#Comedy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drought-update-england",
+   "off": 0,
+   "type": "seasonal",
+   "hot": false,
+   "title": "England Drought Status Continues",
+   "blurb": "Despite recent rainfall, 10 areas in England remain in drought status, with reservoir storage significantly below average nationally.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/government/publications/dry-weather-and-drought-in-england"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Water Watch",
+     "copy": "Even with recent rain, many parts of England are still facing drought conditions. Remember to use water wisely!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#DroughtUK"
+     ]
+    },
+    {
+     "name": "Environmental News",
+     "copy": "Reservoir levels are still a concern across England. Let's all do our bit to conserve water.",
+     "channels": [
+      "x"
+     ],
+     "time": "18:30",
+     "tags": [
+      "#WaterConservation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gracie-abrams-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Gracie Abrams turns 27",
+   "blurb": "Pop singer-songwriter Gracie Abrams, who gained a following for her livestreamed shows, celebrates her 27th birthday tomorrow, September 7th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/7/gracie-abrams.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rising Star Birthday",
+     "copy": "Tomorrow, the brilliant Gracie Abrams turns 27! Get ready to celebrate with her incredible music.",
      "channels": [
       "instagram",
       "facebook",
@@ -739,276 +775,20 @@
      ],
      "time": "18:00",
      "tags": [
-      "#TheVerve"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jennifer-hudson-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Jennifer Hudson turns 45",
-   "blurb": "Oscar and Grammy-winning singer and actress Jennifer Hudson celebrates her 45th birthday on Saturday.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/september-soul-music-birthdays"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Powerhouse vocals",
-     "copy": "Happy 45th birthday to the incredible Jennifer Hudson on Saturday! Her voice is just phenomenal. What's your favourite J-Hud performance?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#JenniferHudson"
+      "#GracieAbrams"
      ]
     },
     {
-     "name": "Dreamgirls star",
-     "copy": "From 'Dreamgirls' to 'The Voice', Jennifer Hudson is a true superstar. She's 45 on Saturday!",
+     "name": "Pop Talent",
+     "copy": "Happy early birthday to Gracie Abrams, who turns 27 tomorrow! A huge talent in the pop world.",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#JHud"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ben-folds-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": false,
-   "title": "Ben Folds turns 60",
-   "blurb": "American singer-songwriter and pianist Ben Folds, known for his solo work and Ben Folds Five, celebrates his 60th birthday on Saturday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Celebrity_birthdays_for_the_week_of_Sept._6-12_include_Emmy_Rossum_and_Harry_Connick_Jr."
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Piano man",
-     "copy": "Happy 60th birthday to the brilliant Ben Folds on Saturday! What's your favourite Ben Folds Five classic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#BenFolds"
-     ]
-    },
-    {
-     "name": "Indie icon",
-     "copy": "Still got 'Brick' on repeat? Indie icon Ben Folds turns 60 on Saturday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#BenFoldsFive"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "niall-horan-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Niall Horan turns 33",
-   "blurb": "Irish singer-songwriter and former One Direction member Niall Horan celebrates his 33rd birthday next Sunday.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/13.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 10s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "One Direction legacy",
-     "copy": "Next Sunday, Niall Horan turns 33! From One Direction to solo success, what's your favourite Niall track?",
-     "channels": [
-      "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "11:00",
+     "time": "21:00",
      "tags": [
-      "#NiallHoran"
-     ]
-    },
-    {
-     "name": "Solo star",
-     "copy": "The Irish charmer Niall Horan celebrates his 33rd next Sunday! Get ready for some 'Slow Hands' this weekend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#OneDirection"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "peter-cetera-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": false,
-   "title": "Peter Cetera is 82",
-   "blurb": "Former Chicago frontman Peter Cetera, known for his distinctive vocals and solo hits, celebrates his 82nd birthday next Sunday.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/13.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chicago legend",
-     "copy": "Happy 82nd birthday to Peter Cetera next Sunday! The voice behind so many Chicago classics.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#PeterCetera"
-     ]
-    },
-    {
-     "name": "Glory of Love",
-     "copy": "From 'Glory of Love' to Chicago's power ballads, Peter Cetera turns 82 next Sunday! What's your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ChicagoBand"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "autumn-equinox-seasonal",
-   "off": 16,
-   "type": "seasonal",
-   "hot": false,
-   "title": "Autumn is here!",
-   "blurb": "Autumn officially began on September 1st, bringing cooler temperatures, changing leaves, and cosy vibes across the UK.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/weather/learn-about/weather/seasons/autumn/when-is-autumn"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cosy season",
-     "copy": "Autumn is officially here! Who's ready for cosy nights in, hot drinks, and all the autumnal vibes?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#AutumnVibes"
-     ]
-    },
-    {
-     "name": "Best of autumn",
-     "copy": "The leaves are changing, the air is crisp – autumn has arrived! What's your favourite thing about this season?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Autumn"
+      "#NewMusic"
      ]
     }
    ]
