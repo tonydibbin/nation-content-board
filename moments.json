@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-09T10:11:44.414Z",
+ "updated": "2026-09-09T14:51:49.234Z",
  "moments": [
   {
-   "id": "worcester-music-fest",
-   "off": 2,
-   "type": "gig",
+   "id": "champions-league-md1",
+   "off": 0,
+   "type": "sport",
    "hot": true,
-   "title": "Worcester Music Festival Kicks Off",
-   "blurb": "The UK's largest donation-entry festival returns to Worcester from September 11-13, featuring over 350 performances across 25 venues, supporting local charities.",
+   "title": "Champions League Group Stage Kicks Off",
+   "blurb": "The UEFA Champions League group stage continues its first matchday with several key fixtures today and tomorrow, featuring top UK clubs.",
    "source": {
-    "l": "Worcester Music Festival",
-    "u": "https://worcestermusicfestival.co.uk/"
+    "l": "UEFA.com",
+    "u": "https://www.uefa.com/uefachampionsleague/fixtures-results/"
    },
    "fits": [
     {
@@ -20,363 +20,94 @@
    ],
    "angles": [
     {
-     "name": "Main Event",
-     "for": "",
-     "copy": "350 acts, 25 venues, all for charity. Worcester Music Festival kicks off this weekend, proving live music can do good. Who are you seeing?",
+     "name": "Matchday Buzz",
+     "for": "nation-network",
+     "copy": "Champions League Matchday 1 is in full swing! Which UK side are you backing to make an early statement today? Let's talk tactics.",
      "channels": [
       "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#WorcesterMusicFest"
-     ]
-    },
-    {
-     "name": "Local Spotlight",
-     "for": "",
-     "copy": "Worcester is buzzing! The city's Music Festival starts Friday, bringing hundreds of artists and raising money for local causes. Support live music and local talent.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "mucky-weekender",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "Mucky Weekender Festival Returns",
-   "blurb": "Barry Ashworth's Mucky Weekender Festival brings an eclectic mix of live bands, DJs, and performers to 28 acres of private parkland from September 10-12.",
-   "source": {
-    "l": "Mucky Weekender Festival",
-    "u": "https://muckyweekender.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Vibe",
-     "for": "",
-     "copy": "Your weekend plans sorted: Mucky Weekender Festival starts tomorrow! Three days of live music and good times. Who's heading there?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#MuckyWeekender"
-     ]
-    },
-    {
-     "name": "Dance Music Angle",
-     "for": "Nation Dance",
-     "copy": "Getting ready for the Mucky Weekender! Expect an epic lineup of live bands and DJs delivering the best beats all weekend. Let's go!",
-     "channels": [
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#DanceFestival"
+      "#UCL"
+     ]
+    },
+    {
+     "name": "UK Clubs in Action",
+     "for": "nation-network",
+     "copy": "Arsenal face Napoli and Liverpool host Atlético Madrid today as Champions League action continues. Big night for English clubs!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#ChampionsLeague"
      ]
     }
    ]
   },
   {
-   "id": "reminisce-festival",
-   "off": 3,
-   "type": "gig",
+   "id": "roger-waters-bday",
+   "off": -3,
+   "type": "birthday",
    "hot": true,
-   "title": "Reminisce Festival Takes Over St Helens",
-   "blurb": "Reminisce Festival celebrates dance music nostalgia on September 12 at Sherdley Park, St Helens, featuring iconic club artists and DJs from the 90s and 00s.",
+   "title": "Roger Waters' 83rd Birthday",
+   "blurb": "Pink Floyd co-founder, bassist, and principal lyricist Roger Waters celebrated his 83rd birthday on September 6th.",
    "source": {
-    "l": "Reminisce Festival",
-    "u": "https://reminiscefestival.com/"
+    "l": "Wikipedia / National Today",
+    "u": "https://en.wikipedia.org/wiki/Roger_Waters"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Throwback Party",
-     "for": "Nation Dance",
-     "copy": "Hands in the air for Reminisce Festival this Saturday! All the best 90s and 00s dance anthems are taking over St Helens. Who's ready to relive it?",
+     "name": "Pink Floyd Legend",
+     "for": "decades-genres:Nation Rocks",
+     "copy": "Still making waves at 83! Roger Waters, the visionary behind so much of Pink Floyd's iconic sound, recently celebrated his birthday.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
      "time": "10:00",
      "tags": [
-      "#ReminisceFestival"
+      "#RogerWaters"
      ]
     },
     {
-     "name": "Nostalgia Trip",
-     "for": "Nation 90s",
-     "copy": "Get ready for a massive dose of nostalgia! Reminisce Festival is bringing back all your favourite 90s and 00s clubland legends this weekend. Which track are you hoping to hear?",
+     "name": "Musical Genius",
+     "for": "decades-genres:Nation 70s",
+     "copy": "From 'The Dark Side of the Moon' to 'The Wall', Roger Waters' influence is undeniable. We're still celebrating his 83rd birthday this week.",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "13:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "little-orchard-festival",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Little Orchard Festival in Cornwall",
-   "blurb": "The Little Orchard Festival in Penhallow, Cornwall, runs from September 11-13, offering a mix of Brit Pop bands and a great way to end the festival season.",
-   "source": {
-    "l": "Little Orchard Festival",
-    "u": "https://www.cornwall.gov.uk/events/little-orchard-festival/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cornwall Calling",
-     "for": "Nation Radio Westcountry",
-     "copy": "Little Orchard Festival is back in Cornwall this weekend! Great music, great cider, and a brilliant way to see out the summer festival season. Who's joining the fun?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
      "tags": [
-      "#LittleOrchard"
-     ]
-    },
-    {
-     "name": "Brit Pop Vibes",
-     "for": "Nation Rocks",
-     "copy": "If you love Brit Pop, get to Little Orchard Festival this weekend! They've got some of the UK's best bands headlining in beautiful Cornwall.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#BritPop"
+      "#PinkFloyd"
      ]
     }
    ]
   },
   {
-   "id": "equinox-festival",
-   "off": 8,
-   "type": "gig",
-   "hot": true,
-   "title": "Equinox Festival for Grassroots Music",
-   "blurb": "Equinox Festival, a grassroots music and arts event in Lincolnshire, takes place from September 17-21, featuring live bands, DJs, and workshops.",
-   "source": {
-    "l": "Equinox Festival",
-    "u": "https://www.equinoxfestival.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Countdown",
-     "for": "",
-     "copy": "Just one week until Equinox Festival! Five days of amazing grassroots music, arts, and good vibes in Lincolnshire. Who's got their tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#EquinoxFestival"
-     ]
-    },
-    {
-     "name": "Discover New Music",
-     "for": "",
-     "copy": "Looking for something different? Equinox Festival is all about discovering new music and art in a fantastic setting. It starts next Thursday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "singles-chart-update",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Ella Langley Still No. 1 on UK Singles Chart",
-   "blurb": "Ella Langley's 'Choosin' Texas' holds the top spot on the Official UK Singles Chart for September 4-10, with new entries from Dolly Parton and Sienna Spiro making waves.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper",
-     "for": "Nation Hits",
-     "copy": "Still at number one! Ella Langley continues her reign on the Official UK Singles Chart with 'Choosin' Texas'. Who's loving this track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "Dolly's Chart Impact",
-     "for": "Nation Classic Hits",
-     "copy": "Dolly Parton is back in the charts with new entries and re-entries! A true legend proving her timeless appeal. Which Dolly hit is your favourite?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#DollyParton"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "new-album-releases-sept11",
-   "off": 2,
-   "type": "culture",
-   "hot": true,
-   "title": "New Albums This Week",
-   "blurb": "Friday, September 11, sees new album releases from artists including indie rock band Bloc Party and Scottish folk-pop duo The Proclaimers.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/forecasters/new-album-releases/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Friday Feeling",
-     "for": "Nation Rocks",
-     "copy": "New music Friday delivers! Bloc Party drop 'The Anatomy Of A Brief Romance' this week. What are you listening to first?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#NewMusicFriday"
-     ]
-    },
-    {
-     "name": "Iconic Returns",
-     "for": "Nation Classic Hits",
-     "copy": "The Proclaimers are back with a new album, 'You May Offend', out this Friday! Expect those signature harmonies and catchy tunes.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#TheProclaimers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "moby-birthday",
+   "id": "moby-bday",
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Moby Turns 61",
-   "blurb": "American electronic musician, singer-songwriter, and DJ Moby, born Richard Melville Hall, celebrates his 61st birthday on September 11.",
+   "title": "Happy 61st Birthday, Moby",
+   "blurb": "American DJ, singer, and songwriter Moby, known for hits like 'Porcelain' and 'Why Does My Heart Feel So Bad?', turns 61 on September 11th.",
    "source": {
-    "l": "Wikipedia",
+    "l": "Wikipedia / Famous Birthdays",
     "u": "https://en.wikipedia.org/wiki/Moby"
    },
    "fits": [
@@ -395,51 +126,213 @@
    ],
    "angles": [
     {
-     "name": "Dance Legend",
-     "for": "Nation Dance",
-     "copy": "Happy 61st birthday to the electronic music pioneer, Moby, this Friday! What's your all-time favourite Moby track?",
+     "name": "Dance Icon",
+     "for": "decades-genres:Nation Dance",
+     "copy": "Get ready to celebrate! Electronic music pioneer Moby turns 61 this Friday. What's your all-time favourite Moby track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:00",
+     "time": "11:00",
      "tags": [
       "#Moby"
      ]
     },
     {
-     "name": "Timeless Tracks",
-     "for": "Nation 90s",
-     "copy": "From 'Play' to 'Porcelain', Moby's music defined an era. Wishing a very happy 61st to the legend this week!",
+     "name": "90s Flashback",
+     "for": "decades-genres:Nation 90s",
+     "copy": "From the underground to global superstar, Moby redefined a generation's sound. Happy 61st for Friday!",
      "channels": [
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "12:00",
-     "tags": []
+     "time": "15:00",
+     "tags": [
+      "#90sDance"
+     ]
     }
    ]
   },
   {
-   "id": "niall-horan-birthday",
+   "id": "niall-horan-bday",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Niall Horan Celebrates 33rd Birthday",
-   "blurb": "Irish singer-songwriter Niall Horan, formerly of One Direction and now a successful solo artist, turns 33 on September 13.",
+   "title": "Niall Horan Turns 33",
+   "blurb": "Irish singer-songwriter and former One Direction member Niall Horan celebrates his 33rd birthday on September 13th.",
    "source": {
-    "l": "Wikipedia",
+    "l": "Wikipedia / Famous Birthdays",
     "u": "https://en.wikipedia.org/wiki/Niall_Horan"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star Birthday",
+     "for": "decades-genres:Nation Hits",
+     "copy": "Sending early birthday wishes to Niall Horan, who turns 33 this Sunday! What's your favourite solo hit from the Irish star?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#NiallHoran"
+     ]
+    },
+    {
+     "name": "From 1D to Solo Success",
+     "for": "decades-genres:Nation Hits",
+     "copy": "Niall Horan, the voice behind so many anthems, celebrates his 33rd this weekend. What a journey it's been!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#OneDirection"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "amy-winehouse-tribute",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Remembering Amy Winehouse",
+   "blurb": "Iconic British soul singer Amy Winehouse would have been 43 on September 14th.",
+   "source": {
+    "l": "Wikipedia / National Today",
+    "u": "https://en.wikipedia.org/wiki/Amy_Winehouse"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 10s"
+     "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Soulful Legacy",
+     "for": "decades-genres:Nation Easy",
+     "copy": "On Monday, we remember the incredible Amy Winehouse, who would have been 43. Her unique voice and timeless songs continue to captivate.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#AmyWinehouse"
+     ]
+    },
+    {
+     "name": "Unforgettable Voice",
+     "for": "decades-genres:Nation Love",
+     "copy": "Thinking of Amy Winehouse, whose powerful music still resonates deeply, on what would have been her 43rd birthday this coming Monday.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#BackToBlack"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "worcester-music-festival",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Worcester Music Festival",
+   "blurb": "The UK's largest donation-entry festival, Worcester Music Festival, takes place from September 11th to 13th, featuring over 350 performances across 25 venues.",
+   "source": {
+    "l": "Worcester Music Festival",
+    "u": "https://www.worcestermusicfestival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio West Midlands"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Weekend",
+     "for": "nation-network:Nation Radio West Midlands",
+     "copy": "Worcester Music Festival kicks off this Friday! Over 350 acts, 25 venues, and it's all for charity. Who are you seeing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#WorcesterMusicFest"
+     ]
+    },
+    {
+     "name": "Discover New Music",
+     "for": "decades-genres:Nation Rocks",
+     "copy": "Looking for new sounds? Worcester Music Festival is this weekend, packed with emerging artists and local talent. Go discover your next favourite band!",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#LiveMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reminisce-festival",
+   "off": 3,
+   "type": "gig",
+   "hot": true,
+   "title": "Reminisce Festival Returns",
+   "blurb": "Reminisce Festival, a huge celebration of 90s and 00s dance music nostalgia, hits Sherdley Park, St Helens on Saturday, September 12th, featuring acts like Vengaboys and East 17.",
+   "source": {
+    "l": "Reminisce Festival",
+    "u": "https://www.reminiscefestival.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -448,43 +341,45 @@
    ],
    "angles": [
     {
-     "name": "Pop Star Bday",
-     "for": "Nation Hits",
-     "copy": "Wishing a very happy 33rd birthday to Niall Horan this Sunday! What's your favourite solo hit from the former One Direction star?",
+     "name": "90s/00s Throwback",
+     "for": "decades-genres:Nation Dance",
+     "copy": "Dust off your glow sticks! Reminisce Festival is this Saturday in St Helens, bringing back all the 90s and 00s dance anthems you love. Who's in?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "08:30",
+     "time": "11:30",
      "tags": [
-      "#NiallHoran"
+      "#ReminisceFestival"
      ]
     },
     {
-     "name": "One Direction Flashback",
-     "for": "Nation 10s",
-     "copy": "Remembering the One Direction days as Niall Horan turns 33 this weekend! From boyband sensation to solo success, he's had quite the journey.",
+     "name": "Festival Vibes",
+     "for": "decades-genres:Nation 90s",
+     "copy": "Vengaboys, East 17, Liberty X – the lineup for Reminisce Festival this weekend is pure nostalgia gold. Get ready to party!",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "13:30",
-     "tags": []
+     "time": "15:30",
+     "tags": [
+      "#90sMusic"
+     ]
     }
    ]
   },
   {
-   "id": "heritage-open-days-england",
-   "off": 2,
-   "type": "seasonal",
+   "id": "the-gentlemen-s2",
+   "off": -6,
+   "type": "tv",
    "hot": true,
-   "title": "Heritage Open Days Across England",
-   "blurb": "England's Heritage Open Days run from September 11-20, offering free access to thousands of historic buildings and cultural sites usually closed to the public.",
+   "title": "The Gentlemen Season 2 Now Streaming",
+   "blurb": "The highly anticipated second season of Guy Ritchie's crime comedy-drama 'The Gentlemen' premiered on Netflix on September 3rd.",
    "source": {
-    "l": "Heritage Open Days",
-    "u": "https://www.heritageopendays.org.uk/"
+    "l": "Netflix",
+    "u": "https://www.netflix.com/title/81585093"
    },
    "fits": [
     {
@@ -494,103 +389,57 @@
    ],
    "angles": [
     {
-     "name": "Explore History",
-     "for": "",
-     "copy": "Unlock hidden history! Heritage Open Days kick off this Friday across England, giving you free access to incredible places. What will you discover?",
+     "name": "Crime & Comedy",
+     "for": "nation-network",
+     "copy": "If you loved the first season, 'The Gentlemen' is back! Season 2 is now streaming on Netflix – have you dived in yet?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#HeritageOpenDays"
-     ]
-    },
-    {
-     "name": "Free Adventures",
-     "for": "",
-     "copy": "Fancy a free day out? From historic houses to hidden gardens, Heritage Open Days offer unique experiences across England starting this week.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "open-doors-wales",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Open Doors Wales Continues",
-   "blurb": "Throughout September, Open Doors Wales offers free access to over 200 historic sites, landmarks, and hidden gems across the country.",
-   "source": {
-    "l": "Cadw",
-    "u": "https://cadw.gov.wales/learn/open-doors"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Heritage",
-     "for": "welsh-local",
-     "copy": "Explore Wales for free! Open Doors Wales is running all month, giving you access to historic sites and hidden gems. Where are you visiting?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#OpenDoorsWales"
+      "#TheGentlemen"
      ]
     },
     {
-     "name": "Discover Dragonland",
-     "for": "dragon",
-     "copy": "From ancient castles to local treasures, Open Doors Wales lets you explore our history for free this September. Get out and discover something new!",
+     "name": "Weekend Binge",
+     "for": "nation-network",
+     "copy": "Your weekend plans sorted: 'The Gentlemen' Season 2 is here. Guy Ritchie's signature style is back on the small screen.",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "14:00",
-     "tags": []
+     "time": "18:00",
+     "tags": [
+      "#NetflixUK"
+     ]
     }
    ]
   },
   {
-   "id": "totally-thames-london",
-   "off": 0,
-   "type": "seasonal",
+   "id": "slow-horses-s6",
+   "off": 7,
+   "type": "tv",
    "hot": true,
-   "title": "Totally Thames Festival in Full Swing",
-   "blurb": "London's Totally Thames Festival continues throughout September, celebrating the iconic river with art installations, boat races, performances, and cultural events.",
+   "title": "Slow Horses Season 6 Premieres",
+   "blurb": "The sixth season of the acclaimed spy thriller 'Slow Horses', starring Gary Oldman, is set to premiere on Apple TV+ on September 16th.",
    "source": {
-    "l": "Totally Thames",
-    "u": "https://totallythames.org/"
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/tv/drama/slow-horses-season-6-release-date/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "London River Life",
-     "for": "Nation Radio London",
-     "copy": "The Thames is alive with activity! Totally Thames Festival is in full swing all September with art, music, and events along the river. What's caught your eye?",
+     "name": "Spy Thriller Return",
+     "for": "nation-network",
+     "copy": "Gary Oldman and the 'Slow Horses' are back! Season 6 drops next Wednesday on Apple TV+. Get ready for more espionage and dark humour.",
      "channels": [
       "instagram",
       "facebook",
@@ -598,128 +447,83 @@
      ],
      "time": "11:00",
      "tags": [
-      "#TotallyThames"
+      "#SlowHorses"
      ]
     },
     {
-     "name": "Cultural Immersion",
-     "for": "Nation Radio London",
-     "copy": "From boat races to art on the banks, Totally Thames Festival offers a unique way to experience London's famous river this month.",
+     "name": "Wednesday Watch",
+     "for": "nation-network",
+     "copy": "Mark your calendars for September 16th! The dysfunctional MI5 agents return for another thrilling series of 'Slow Horses'.",
      "channels": [
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "15:00",
-     "tags": []
+     "time": "17:00",
+     "tags": [
+      "#AppleTVPlus"
+     ]
     }
    ]
   },
   {
-   "id": "london-design-open-house",
-   "off": 3,
-   "type": "seasonal",
+   "id": "mobland-s2",
+   "off": 9,
+   "type": "tv",
    "hot": true,
-   "title": "London Design & Open House Festivals Begin",
-   "blurb": "The London Design Festival and Open House Festival both run from September 12-20, showcasing the city's creativity and offering rare access to iconic buildings.",
+   "title": "MobLand Season 2 Arrives",
+   "blurb": "The second season of the crime drama 'MobLand', featuring Tom Hardy and Pierce Brosnan, will be available on Paramount+ from September 18th.",
    "source": {
-    "l": "London Design Festival",
-    "u": "https://www.londondesignfestival.com/"
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/tv/drama/mobland-season-2-release-date/"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Design & Architecture",
-     "for": "Nation Radio London",
-     "copy": "Two huge events kick off this weekend in London! The Design Festival and Open House Festival are your chance to explore incredible architecture and creativity across the city.",
+     "name": "Crime Drama Fix",
+     "for": "nation-network",
+     "copy": "Tom Hardy and Pierce Brosnan in a crime drama? Yes please! 'MobLand' Season 2 hits Paramount+ next Friday. Who's watching?",
      "channels": [
       "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#LondonDesign"
-     ]
-    },
-    {
-     "name": "Hidden Gems",
-     "for": "Nation Radio London",
-     "copy": "Ever wanted to peek inside London's most famous or secret buildings? Open House Festival starts Saturday, offering free access to hundreds of sites!",
-     "channels": [
       "facebook",
       "x"
      ],
      "time": "13:00",
      "tags": [
-      "#OpenHouseLondon"
+      "#MobLand"
      ]
-    }
-   ]
-  },
-  {
-   "id": "abergavenny-food-festival",
-   "off": 10,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Abergavenny Food Festival Returns",
-   "blurb": "The Abergavenny Food Festival, known for its tastings, chef demos, and workshops, takes place from September 19-20 in Wales.",
-   "source": {
-    "l": "Abergavenny Food Festival",
-    "u": "https://www.abergavennyfoodfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
     },
     {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Foodie Heaven",
-     "for": "welsh-local",
-     "copy": "Get ready, food lovers! The Abergavenny Food Festival is back next weekend with incredible tastings, chef demos, and a Party in the Castle. Who's hungry?",
+     "name": "New Paramount+ Series",
+     "for": "nation-network",
+     "copy": "The Harrigans are back! Get ready for more gripping drama as 'MobLand' Season 2 premieres on Paramount+ next week.",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "19:00",
      "tags": [
-      "#AbergavennyFoodFest"
+      "#ParamountPlus"
      ]
-    },
-    {
-     "name": "Taste of Wales",
-     "for": "dragon",
-     "copy": "Celebrate the best of Welsh produce at the Abergavenny Food Festival starting next Saturday! It's two days of deliciousness and fun.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": []
     }
    ]
   },
   {
-   "id": "tulleys-farm-pumpkin",
+   "id": "strictly-come-dancing-launch",
    "off": 10,
-   "type": "seasonal",
+   "type": "tv",
    "hot": true,
-   "title": "Tulleys Farm Pumpkin Festival Starts",
-   "blurb": "Tulleys Farm in West Sussex launches its popular Pumpkin Festival on September 19, featuring over a million pumpkins, seasonal food, and entertainment until October 31.",
+   "title": "Strictly Come Dancing Launch Show",
+   "blurb": "The 24th series of 'Strictly Come Dancing' kicks off with its highly anticipated launch show on BBC One, Saturday, September 19th at 7:25pm, introducing new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe.",
    "source": {
-    "l": "Tulleys Farm",
-    "u": "https://www.tulleysfarm.com/pumpkin-farm/"
+    "l": "BBC",
+    "u": "https://www.bbc.co.uk/programmes/b006m8dq"
    },
    "fits": [
     {
@@ -729,9 +533,108 @@
    ],
    "angles": [
     {
-     "name": "Autumn Fun",
-     "for": "",
-     "copy": "Pumpkin season officially begins next Saturday! Tulleys Farm Pumpkin Festival kicks off with over a million pumpkins and autumnal fun. Who's ready for carving?",
+     "name": "Glitterball Season Begins",
+     "for": "nation-network",
+     "copy": "The wait is almost over! Strictly Come Dancing's launch show is next Saturday. Get ready to meet the new couples and see the fresh presenting line-up!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Strictly"
+     ]
+    },
+    {
+     "name": "New Hosts, New Moves",
+     "for": "nation-network",
+     "copy": "Emma Willis, Josh Widdicombe, and Johannes Radebe take the reins! Don't miss the Strictly Come Dancing launch next Saturday on BBC One.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#StrictlyComeDancing"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-split-up",
+   "off": 11,
+   "type": "tv",
+   "hot": true,
+   "title": "The Split Up Premieres",
+   "blurb": "The spin-off series 'The Split Up', set in Manchester's high-net-worth divorce circuit, begins on BBC One on Sunday, September 20th.",
+   "source": {
+    "l": "Rayo",
+    "u": "https://www.rayo.fm/blog/the-split-up-release-date"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Manchester"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New BBC Drama",
+     "for": "nation-network",
+     "copy": "Fans of 'The Split', get ready! Spin-off series 'The Split Up' arrives next Sunday, set in the cutthroat world of Manchester divorce law.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#TheSplitUp"
+     ]
+    },
+    {
+     "name": "Manchester Spotlight",
+     "for": "nation-network:Nation Radio Manchester",
+     "copy": "Our city takes centre stage! 'The Split Up', the new drama set in Manchester, premieres next Sunday on BBC One. Will you be tuning in?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#ManchesterDrama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "great-british-bake-off-start",
+   "off": 13,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off Returns",
+   "blurb": "Series 17 of 'The Great British Bake Off' begins on Channel 4 on Tuesday, September 22nd at 8pm, with Nigella Lawson joining Paul Hollywood as a judge.",
+   "source": {
+    "l": "Channel 4 / CultureCues",
+    "u": "https://www.culturecues.com/when-does-the-great-british-bake-off-2026-start/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off is Back!",
+     "for": "nation-network",
+     "copy": "Grab your aprons, Bake Off is back! Series 17 starts Tuesday, September 22nd. And Nigella Lawson joins Paul Hollywood in the tent!",
      "channels": [
       "instagram",
       "facebook",
@@ -740,19 +643,21 @@
      ],
      "time": "09:30",
      "tags": [
-      "#PumpkinSeason"
+      "#GBBO"
      ]
     },
     {
-     "name": "Family Day Out",
-     "for": "",
-     "copy": "Planning a family day out? Tulleys Farm Pumpkin Festival starts next weekend in West Sussex, offering loads of seasonal food and entertainment.",
+     "name": "New Judge Alert",
+     "for": "nation-network",
+     "copy": "Nigella Lawson in the Bake Off tent? Yes please! Get ready for a fresh batch of bakers and iconic judging from September 22nd on Channel 4.",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "14:00",
-     "tags": []
+     "tags": [
+      "#BakeOff"
+     ]
     }
    ]
   }
