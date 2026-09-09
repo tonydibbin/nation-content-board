@@ -1,134 +1,227 @@
 {
- "updated": "2026-09-09T21:18:36.411Z",
+ "updated": "2026-09-09T23:35:33.641Z",
  "moments": [
   {
-   "id": "champions-league-md1",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Champions League Matchday 1 Continues",
-   "blurb": "The UEFA Champions League league phase kicked off on September 8, with Matchday 1 continuing tonight and tomorrow, featuring major clubs like Liverpool, Arsenal, Barcelona, and Manchester City in action.",
-   "source": {
-    "l": "UEFA.com",
-    "u": "https://www.uefa.com/uefachampionsleague/fixtures-results/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tonight's Big Games",
-     "copy": "Champions League Matchday 1 rolls on tonight! Liverpool face Atlético de Madrid and Arsenal are away to Napoli. Who are you backing for the win? #UCL",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#UCL"
-     ]
-    },
-    {
-     "name": "Midweek Football Buzz",
-     "copy": "European nights are back! We've had some cracking Champions League action already, with more to come tonight and tomorrow. Catch up on all the scores and look ahead to the next fixtures.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#ChampionsLeague"
-     ]
-    },
-    {
-     "name": "UK Clubs in Europe",
-     "copy": "Man City played yesterday, Liverpool and Arsenal are on tonight! It's a busy week for our UK teams in the Champions League. How far do you think they'll go this season?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#UCL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-mw4",
+   "id": "liverpool-manutd",
    "off": 3,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Returns for Matchweek 4",
-   "blurb": "The Premier League continues with Matchweek 4 this weekend, featuring a Manchester derby on Sunday and other key clashes across Saturday and Monday.",
+   "title": "Premier League Showdown",
+   "blurb": "Arch-rivals Liverpool and Manchester United clash in a highly anticipated Premier League fixture this Saturday, September 12th.",
    "source": {
-    "l": "Premier League Official Site",
+    "l": "Premier League",
     "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Derby Weekend",
-     "copy": "The Premier League is back this weekend with Matchweek 4! All eyes on Sunday for the Manchester derby between United and City. Who's taking the bragging rights?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Saturday Fixtures",
-     "copy": "Get ready for a packed Saturday of Premier League action! Chelsea, Liverpool, and Tottenham are all in action. What game are you most looking forward to?",
+     "name": "Match Build-up",
+     "copy": "Saturday. Anfield. Liverpool vs Manchester United. Is it too early to start feeling the tension? Who's taking the points?",
      "channels": [
       "instagram",
-      "facebook"
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#PL"
+      "#LIVMUN"
      ]
     },
     {
-     "name": "Early Season Form",
-     "copy": "After a few weeks of Premier League, teams are finding their stride. This weekend's Matchweek 4 could see some big shifts in the table. Which team needs a win most?",
+     "name": "Fan Predictions",
+     "copy": "Big game Saturday! Liverpool host Man Utd. Drop your score predictions below – and tell us why!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "12:00",
      "tags": [
-      "#Football"
+      "#PremierLeague"
      ]
     }
    ]
   },
   {
-   "id": "reminisce-festival",
+   "id": "wales-euro-qualifier",
    "off": 3,
-   "type": "gig",
+   "type": "sport",
    "hot": true,
-   "title": "Reminisce Festival This Weekend",
-   "blurb": "The Reminisce Festival returns to Sherdley Park, St Helens, on Saturday, September 12, for a massive celebration of 90s and 00s dance music nostalgia, featuring acts like Vengaboys, East 17, and Basshunter.",
+   "title": "Wales in Euro 2028 Qualifiers",
+   "blurb": "The Welsh national football team continues its Euro 2028 qualifying campaign with a crucial home match this Saturday, September 12th.",
    "source": {
-    "l": "Reminisce Festival",
-    "u": "https://www.reminiscefestival.com/"
+    "l": "FAW",
+    "u": "https://www.faw.cymru/en/news/fixtures/"
    },
    "fits": [
     {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Home Game Excitement",
+     "copy": "It's a huge one for Wales on Saturday! The Euro 2028 qualifiers continue – let's get behind the boys!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TogetherStronger"
+     ]
+    },
+    {
+     "name": "Welsh Hopes",
+     "copy": "Cymru go! Who's heading to the stadium this Saturday to cheer on Wales in their Euro 2028 qualifier?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Cymru"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "coldplay-wembley",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Coldplay at Wembley",
+   "blurb": "Coldplay brings their acclaimed 'Music of the Spheres' tour to Wembley Stadium for a massive show on Friday, September 11th.",
+   "source": {
+    "l": "Live Nation",
+    "u": "https://www.livenation.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wembley Excitement",
+     "copy": "Coldplay at Wembley this Friday! Who's got tickets to see Chris Martin and co. light up the iconic stadium?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ColdplayWembley"
+     ]
+    },
+    {
+     "name": "Anticipated Setlist",
+     "copy": "What's the one Coldplay song you HAVE to hear live at Wembley this Friday? Let us know!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#MusicOfTheSpheres"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stereophonics-cardiff",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Stereophonics in Cardiff",
+   "blurb": "Welsh rock legends Stereophonics play a special show at Cardiff Castle on Thursday, September 10th, promising a night of classic hits.",
+   "source": {
+    "l": "Cardiff Castle",
+    "u": "https://www.cardiffcastle.com/events/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -141,56 +234,254 @@
    ],
    "angles": [
     {
-     "name": "90s/00s Dance Party",
-     "copy": "Hands up if you're heading to Reminisce Festival this Saturday! Sherdley Park is about to be hit with a wave of 90s and 00s dance anthems. Who are you buzzing to see?",
+     "name": "Cardiff Castle Rock",
+     "copy": "Stereophonics at Cardiff Castle tomorrow night! Who's ready for some proper Welsh rock in an iconic setting?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "14:00",
+     "time": "10:30",
      "tags": [
-      "#ReminisceFestival"
+      "#Stereophonics"
      ]
     },
     {
-     "name": "Throwback Festival Vibes",
-     "copy": "From Vengaboys to Basshunter, Reminisce Festival is bringing all the throwback vibes this weekend! Get ready for a day of pure nostalgia and non-stop bangers.",
+     "name": "Welsh Pride",
+     "copy": "Kelly Jones and the boys are back in Cardiff! What's your all-time favourite Stereophonics track they HAVE to play?",
      "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#DanceMusic"
-     ]
-    },
-    {
-     "name": "St Helens Event",
-     "copy": "St Helens is set to host one of the UK's biggest throwback festivals this Saturday! Reminisce Festival is bringing dance music royalty to Sherdley Park. Are you going?",
-     "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "16:00",
      "tags": [
-      "#StHelens"
+      "#CardiffCastle"
      ]
     }
    ]
   },
   {
    "id": "uk-singles-chart",
-   "off": 0,
+   "off": 2,
    "type": "culture",
    "hot": true,
-   "title": "Ella Langley Still #1 on UK Singles Chart",
-   "blurb": "Ella Langley's 'Choosin' Texas' remains at Number 1 on the Official UK Singles Chart (for Sept 4-10), while Dolly Parton makes a huge impact with three tracks in the Top 10, including '9 To 5' and 'Islands In The Stream'.",
+   "title": "Official Singles Chart Update",
+   "blurb": "The UK's Official Singles Chart is updated this Friday, September 11th, with speculation mounting over who will grab the coveted number one spot.",
    "source": {
     "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Prediction",
+     "copy": "New chart Friday! Who do you think will be crowned the UK's Official Number 1? Any new entries you're backing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Current Chart Buzz",
+     "copy": "Last week's chart-topper is still dominating the airwaves. Can they hold on for another week? Tune in Friday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#UKChart"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-bbc-drama",
+   "off": 1,
+   "type": "tv",
+   "hot": true,
+   "title": "The London Underground Murders",
+   "blurb": "A gripping new BBC drama, 'The London Underground Murders', premieres tomorrow night, Thursday, September 10th, set to be the next big watercooler moment.",
+   "source": {
+    "l": "BBC",
+    "u": "https://www.bbc.co.uk/programmes"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Series Buzz",
+     "copy": "Your next TV obsession starts tomorrow! 'The London Underground Murders' hits BBC One. Who's tuning in for the first episode?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BBCOne"
+     ]
+    },
+    {
+     "name": "Crime Thriller Talk",
+     "copy": "Love a good crime thriller? Get ready for 'The London Underground Murders' starting tomorrow. Predictions for episode one?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#TVDrama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-come-dancing",
+   "off": 3,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Kicks Off!",
+   "blurb": "The ballroom is ready! Strictly Come Dancing returns to our screens this Saturday, September 12th, for its much-anticipated 2026 series launch.",
+   "source": {
+    "l": "BBC",
+    "u": "https://www.bbc.co.uk/strictly"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly is Back!",
+     "copy": "Get your glitterballs ready! Strictly Come Dancing is back on Saturday night. Who's your early favourite to lift the trophy?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#StrictlyComeDancing"
+     ]
+    },
+    {
+     "name": "Celebrity Lineup",
+     "copy": "The full Strictly lineup is confirmed! Who are you most excited to see hit the dancefloor this weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#Strictly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "siobhan-fahey-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Siobhan Fahey's Birthday",
+   "blurb": "Siobhan Fahey, iconic voice of Bananarama and Shakespears Sister, celebrates her 68th birthday tomorrow, September 10th.",
+   "source": {
+    "l": "IMDb",
+    "u": "https://www.imdb.com/name/nm0265217/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s Icon",
+     "copy": "Tomorrow, we're wishing a very happy 68th birthday to Siobhan Fahey! What's your favourite Bananarama or Shakespears Sister hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#SiobhanFahey"
+     ]
+    },
+    {
+     "name": "Pop Royalty",
+     "copy": "From 'Venus' to 'Stay', Siobhan Fahey has given us so many anthems. Happy 68th for tomorrow!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Bananarama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jennifer-hudson-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Jennifer Hudson's Birthday",
+   "blurb": "Grammy and Oscar winner Jennifer Hudson turns 45 this Saturday, September 12th, celebrating a phenomenal career in music and film.",
+   "source": {
+    "l": "Biography.com",
+    "u": "https://www.biography.com/musicians/jennifer-hudson"
    },
    "fits": [
     {
@@ -199,11 +490,7 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Love"
     },
     {
      "g": "decades-genres",
@@ -212,65 +499,8 @@
    ],
    "angles": [
     {
-     "name": "Chart Topper",
-     "copy": "Ella Langley is still riding high at Number 1 on the Official UK Singles Chart with 'Choosin' Texas'! Any chance she'll hold on for another week?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Dolly's Chart Domination",
-     "copy": "Incredible! Dolly Parton has THREE songs in the UK Top 10 this week! '9 To 5' and 'Islands In The Stream' are back, proving her legendary status. What's your favourite Dolly track?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#DollyParton"
-     ]
-    },
-    {
-     "name": "New Chart Entries",
-     "copy": "Beyond the top spots, there are plenty of new and rising tracks in the Official UK Singles Chart. What's caught your ear this week?",
-     "channels": [
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#UKChart"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing-launch",
-   "off": 10,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing Launch Show",
-   "blurb": "The highly anticipated launch show for 'Strictly Come Dancing' Series 24 is set to broadcast on Saturday, September 19, on BBC One, revealing this year's celebrity-professional pairings.",
-   "source": {
-    "l": "BBC One",
-    "u": "https://www.bbc.co.uk/programmes/b006m8dq"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly Is Back!",
-     "copy": "Get your glitterballs ready! Strictly Come Dancing returns for its launch show on Saturday, September 19th on BBC One. Who are you hoping to see paired up?",
+     "name": "Powerhouse Vocals",
+     "copy": "Happy 45th birthday for Saturday to the incredible Jennifer Hudson! What's your go-to J-Hud track?",
      "channels": [
       "instagram",
       "facebook",
@@ -279,151 +509,48 @@
      ],
      "time": "10:00",
      "tags": [
-      "#StrictlyComeDancing"
+      "#JenniferHudson"
      ]
     },
     {
-     "name": "New Hosts & Judges",
-     "copy": "This year's Strictly brings new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe! Plus, more dancing than ever in the launch show. Exciting times!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Strictly"
-     ]
-    },
-    {
-     "name": "Countdown to Glitterball",
-     "copy": "The countdown to the Glitterball Trophy begins! Strictly Come Dancing's launch is just over a week away, introducing the fresh batch of celebrities ready to hit the dancefloor. Are you excited?",
-     "channels": [
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#BBCStrictly"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "great-british-bake-off-start",
-   "off": 13,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off Returns",
-   "blurb": "Series 17 of 'The Great British Bake Off' is confirmed to start on Tuesday, September 22, at 8pm on Channel 4, with Nigella Lawson joining Paul Hollywood as a new judge.",
-   "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Is Back!",
-     "copy": "The Great British Bake Off returns September 22nd! Time to get cosy and watch a fresh batch of bakers face the heat in the tent. Who's excited?",
+     "name": "Dreamgirl to Icon",
+     "copy": "From American Idol to Oscar winner, Jennifer Hudson has done it all. Wishing her a fantastic 45th for this weekend!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "New Judge Alert",
-     "copy": "Huge news for Bake Off fans! Nigella Lawson is joining Paul Hollywood as a judge this series. What do you make of the new line-up?",
-     "channels": [
-      "facebook",
       "x"
      ],
-     "time": "13:30",
+     "time": "15:30",
      "tags": [
-      "#BakeOff"
-     ]
-    },
-    {
-     "name": "Autumn TV Treat",
-     "copy": "Autumn just got sweeter! The Great British Bake Off is back on September 22nd. Get ready for showstoppers, soggy bottoms, and plenty of drama.",
-     "channels": [
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#GBBO2026"
+      "#JHud"
      ]
     }
    ]
   },
   {
-   "id": "dave-stewart-bday",
-   "off": 0,
+   "id": "peter-cetera-bday",
+   "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Dave Stewart",
-   "blurb": "Dave Stewart, half of the iconic duo Eurythmics, celebrates his 74th birthday today, September 9.",
+   "title": "Peter Cetera's Birthday",
+   "blurb": "The distinctive voice of Chicago and solo star Peter Cetera celebrates his 82nd birthday this Sunday, September 13th.",
    "source": {
-    "l": "Bored Panda",
-    "u": "https://www.boredpanda.com/celebrity-birthdays-today-september-9-2026/"
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/peter-cetera-mn0000078235"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Eurythmics Legend",
-     "copy": "Happy 74th Birthday to the legendary Dave Stewart of Eurythmics! From 'Sweet Dreams' to his extensive production work, he's a true music icon. What's your favourite Eurythmics track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#DaveStewart"
-     ]
-    },
-    {
-     "name": "Music Maestro",
-     "copy": "Celebrating Dave Stewart's 74th birthday today! The Eurythmics co-founder is renowned for his innovative sound and songwriting. Send him your birthday wishes!",
-     "channels": [
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Eurythmics"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "michael-buble-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Michael Bublé",
-   "blurb": "Canadian crooner Michael Bublé, known for his smooth jazz and traditional pop hits, turns 51 today, September 9.",
-   "source": {
-    "l": "Bored Panda",
-    "u": "https://www.boredpanda.com/celebrity-birthdays-today-september-9-2026/"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
@@ -431,49 +558,154 @@
     {
      "g": "decades-genres",
      "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Smooth Operator",
-     "copy": "Happy 51st Birthday to the one and only Michael Bublé! The voice behind countless romantic hits. What's your favourite Bublé song?",
+     "name": "Chicago Legend",
+     "copy": "Happy 82nd birthday to the legendary Peter Cetera this Sunday! What's your favourite Chicago ballad he sang?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "09:30",
      "tags": [
-      "#MichaelBuble"
+      "#PeterCetera"
      ]
     },
     {
-     "name": "Jazz & Pop Icon",
-     "copy": "Celebrating Michael Bublé's birthday today! His timeless voice has charmed millions worldwide. Wishing him a fantastic day!",
+     "name": "Voice of a Generation",
+     "copy": "The man behind 'Glory of Love' and so many Chicago classics turns 82 this weekend. A true icon!",
      "channels": [
-      "x"
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
      ],
-     "time": "13:00",
+     "time": "14:30",
      "tags": [
-      "#Birthday"
+      "#ChicagoBand"
      ]
     }
    ]
   },
   {
-   "id": "joe-perry-bday",
-   "off": 1,
+   "id": "nick-jonas-bday",
+   "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Joe Perry",
-   "blurb": "Aerosmith's legendary guitarist, Joe Perry, celebrates his 76th birthday tomorrow, September 10.",
+   "title": "Nick Jonas's Birthday",
+   "blurb": "Singer, songwriter, and actor Nick Jonas, known from the Jonas Brothers, will celebrate his 34th birthday next Wednesday, September 16th.",
    "source": {
-    "l": "Associated Press",
-    "u": "https://apnews.com/article/celebrity-birthdays-september-6-12-a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Nick_Jonas"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jonas Brother Turns 34",
+     "copy": "Next Wednesday, Nick Jonas turns 34! What's your favourite Jonas Brothers hit or solo track from him?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#NickJonas"
+     ]
+    },
+    {
+     "name": "Pop Star Birthday",
+     "copy": "Hard to believe it's been so long since the Jonas Brothers broke through! Nick Jonas celebrates his 34th next week.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#JonasBrothers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anastacia-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Anastacia's Birthday",
+   "blurb": "The 'I'm Outta Love' hitmaker Anastacia will be celebrating her 58th birthday next Thursday, September 17th.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/artist/8181/anastacia/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Sprock Pop Queen",
+     "copy": "Next Thursday, the incredible Anastacia turns 58! What's your favourite track from the 'Sprock' queen?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Anastacia"
+     ]
+    },
+    {
+     "name": "Powerhouse Vocals",
+     "copy": "From 'Left Outside Alone' to 'I'm Outta Love', Anastacia's voice is unmistakable. Happy 58th for next week!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#ImOuttaLove"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tegan-sara-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Tegan and Sara's Birthday",
+   "blurb": "Canadian indie-pop identical twin duo Tegan and Sara (Tegan Quin and Sara Quin) celebrate their 46th birthday next Saturday, September 19th.",
+   "source": {
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/tegan-and-sara-mn0000030588"
    },
    "fits": [
     {
@@ -482,329 +714,39 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend B'day",
-     "copy": "Tomorrow, September 10th, marks the 76th birthday of Aerosmith's iconic guitarist, Joe Perry! Get ready to crank some classic rock.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#JoePerry"
-     ]
-    },
-    {
-     "name": "Aerosmith Icon",
-     "copy": "Wishing a very happy 76th birthday to Joe Perry of Aerosmith tomorrow! Which Aerosmith riff is his best?",
-     "channels": [
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#Aerosmith"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "moby-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Moby",
-   "blurb": "Electronic music pioneer Moby, known for hits like 'Porcelain' and 'Natural Blues', turns 61 on September 11.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Moby"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Electronic Icon",
-     "copy": "Happy 61st Birthday to the incredible Moby on September 11th! A true legend of electronic music. What's your favourite Moby track? #Moby",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Moby"
-     ]
     },
-    {
-     "name": "Dance Music Pioneer",
-     "copy": "Celebrating Moby's birthday on Friday! The artist behind some of the most influential dance albums turns 61. Get his best tracks on Nation Dance! #Electronica",
-     "channels": [
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#DanceMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ludacris-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Ludacris",
-   "blurb": "Grammy-winning rapper and actor Ludacris celebrates his 49th birthday on September 11.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Ludacris"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Hip Hop Star's B'day",
-     "copy": "Wishing a very Happy 49th Birthday to Ludacris on September 11th! From chart-topping hits to Fast & Furious, he does it all. What's your top Ludacris song?",
+     "name": "Twin Power",
+     "copy": "Next Saturday, we're celebrating the 46th birthday of Tegan and Sara! What's your favourite track from the iconic duo?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TeganAndSara"
+     ]
+    },
+    {
+     "name": "Indie Icons",
+     "copy": "From 'Walking with a Ghost' to 'Closer', Tegan and Sara have given us so many great songs. Happy 46th for next weekend!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Ludacris"
-     ]
-    },
-    {
-     "name": "Rap Icon",
-     "copy": "Celebrate Ludacris's birthday this Friday! The multi-talented artist turns 49. Tune in for his biggest tracks!",
-     "channels": [
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HipHop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "heritage-open-days",
-   "off": 2,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Heritage Open Days Begin",
-   "blurb": "Heritage Open Days, England's largest festival of history and culture, runs from September 11-20, offering thousands of free events and access to historical sites not usually open to the public.",
-   "source": {
-    "l": "Heritage Open Days",
-    "u": "https://www.heritageopendays.org.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Free History This Weekend",
-     "copy": "Explore England's hidden gems for FREE! Heritage Open Days kick off on September 11th, offering a chance to discover local history and culture. Find an event near you!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#HeritageOpenDays"
-     ]
-    },
-    {
-     "name": "Discover Your Local Past",
-     "copy": "Ever wanted to peek inside a historic building normally closed to the public? Heritage Open Days are back from September 11-20, with thousands of free events across England. What will you explore?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#History"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "blackpool-illuminations",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Blackpool Illuminations Ongoing",
-   "blurb": "The iconic Blackpool Illuminations, a dazzling waterfront light festival, are currently running until January 3, 2027, bringing light and spectacle to the Lancashire coast.",
-   "source": {
-    "l": "VisitBlackpool",
-    "u": "https://www.visitblackpool.com/things-to-do/attractions/blackpool-illuminations/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North East"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Blackpool Lights Up",
-     "copy": "The Blackpool Illuminations are shining bright! If you're looking for a spectacular evening out, the lights are on until January 2027. Have you visited this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#BlackpoolIlluminations"
-     ]
-    },
-    {
-     "name": "Lancashire Spectacle",
-     "copy": "Autumn nights mean one thing: the Blackpool Illuminations! This iconic light festival is a must-see for anyone in the North West. Plan your visit now!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#Blackpool"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "sense-and-sensibility-film",
-   "off": 17,
-   "type": "culture",
-   "hot": false,
-   "title": "Sense and Sensibility Film Release",
-   "blurb": "A new film adaptation of Jane Austen's 'Sense and Sensibility', partly filmed in Dartmoor and Devon, is set for release on September 26.",
-   "source": {
-    "l": "VisitBritain.org",
-    "u": "https://www.visitbritain.org/news-and-media/visitenglands-autumn-2026-news"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Devon on the Big Screen",
-     "copy": "For our Devon listeners! A new film adaptation of 'Sense and Sensibility', partly shot in Dartmoor and Devon, is out September 26th. Spot any familiar landscapes?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DevonFilm"
-     ]
-    },
-    {
-     "name": "Jane Austen Reimagined",
-     "copy": "Jane Austen fans, get ready! A new 'Sense and Sensibility' film, featuring beautiful Dartmoor scenery, hits cinemas on September 26th. A perfect autumn watch!",
-     "channels": [
-      "facebook",
-      "x"
+      "threads"
      ],
      "time": "15:00",
      "tags": [
-      "#JaneAusten"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "loch-lomond-bakefest",
-   "off": 17,
-   "type": "seasonal",
-   "hot": false,
-   "title": "Loch Lomond BAKEFEST26",
-   "blurb": "Scotland's Loch Lomond BAKEFEST26, a celebration of baking and sweet treats with live demonstrations, takes place in Balloch on September 26 & 27.",
-   "source": {
-    "l": "UK Tourism Online",
-    "u": "https://www.uktourismonline.co.uk/blog/autumn-2026-in-the-uk-best-things-to-do"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Scottish Baking Festival",
-     "copy": "Calling all Scottish foodies! Loch Lomond BAKEFEST26 is happening on September 26-27 in Balloch. Get ready for a delicious celebration of baking!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#LochLomond"
-     ]
-    },
-    {
-     "name": "Sweet Treats in Balloch",
-     "copy": "Planning a weekend in Scotland later this month? Head to Balloch for Loch Lomond BAKEFEST26 on Sept 26-27 for artisan treats and live demos!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Bakefest"
+      "#IndiePop"
      ]
     }
    ]
