@@ -1,16 +1,122 @@
 {
- "updated": "2026-09-18T21:18:49.348Z",
+ "updated": "2026-09-18T23:42:32.910Z",
  "moments": [
   {
-   "id": "premier-league-matchweek-5",
+   "id": "pl-matchweek5-fri",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Action This Weekend",
-   "blurb": "Matchweek 5 of the Premier League kicks off tonight with a London derby, followed by a full slate of games across the weekend.",
+   "title": "Premier League Friday Night Football",
+   "blurb": "Matchweek 5 of the Premier League kicks off tonight with Brentford hosting Chelsea in a London derby.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/fixtures"
+    "l": "Premier League Official",
+    "u": "https://www.premierleague.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Game On",
+     "for": "Nation Radio London",
+     "copy": "Premier League Friday Night Football: It's Brentford vs Chelsea in a West London derby tonight! Who are you backing for the win?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#BRENTFORDvCHELSEA"
+     ]
+    },
+    {
+     "name": "Weekend Kick-Off",
+     "copy": "Premier League Matchweek 5 is underway! Brentford host Chelsea tonight to get the weekend started. Get your predictions in!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "efl-championship-sat",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "Championship Saturday Showdown",
+   "blurb": "The EFL Championship has a full slate of fixtures tomorrow, including Cardiff City and Wrexham playing at home.",
+   "source": {
+    "l": "EFL Official",
+    "u": "https://www.efl.com/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Cardiff"
+    },
+    {
+     "g": "dragon",
+     "sub": "Wrexham"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh Derby Day",
+     "for": "welsh-local",
+     "copy": "Big day for Welsh football fans tomorrow in the Championship! Cardiff City host Charlton and Wrexham are home to Southampton. Who's getting the points?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#EFLChampionship"
+     ]
+    },
+    {
+     "name": "Championship Action",
+     "copy": "Another packed Saturday in the Championship tomorrow! Plenty of big games across the country. Who are you watching?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#EFL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pl-matchweek5-sat",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Super Saturday",
+   "blurb": "Tomorrow sees a packed Premier League schedule with teams like Tottenham, Arsenal, Manchester City, and Liverpool all in action.",
+   "source": {
+    "l": "Premier League Official",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
@@ -24,269 +130,16 @@
     {
      "g": "nation-network",
      "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
     }
    ],
    "angles": [
     {
-     "name": "London Derby",
-     "copy": "Tonight! Brentford take on Chelsea in a fiery West London derby to kick off Premier League Matchweek 5. Who's taking the bragging rights?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#PL"
-     ]
-    },
-    {
-     "name": "Weekend Fixtures",
-     "copy": "The Premier League weekend is here! Arsenal head to Brighton, Spurs host Aston Villa, and Man City face Sunderland. What's your top pick?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Local Teams",
-     "copy": "Big weekend for our local Premier League sides! Catch the action as Everton play Ipswich, Newcastle host Hull, and Nottingham Forest battle Coventry. Get behind your team!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "autumnal-equinox-2026",
-   "off": 5,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Autumn Officially Arrives",
-   "blurb": "The Autumnal Equinox, marking the official start of astronomical autumn in the Northern Hemisphere, occurs on Wednesday, September 23rd at 01:06 BST.",
-   "source": {
-    "l": "Royal Museums Greenwich",
-    "u": "https://www.rmg.co.uk/stories/topics/what-when-autumnal-equinox"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "First Day of Autumn",
-     "copy": "Summer's officially over (astronomically speaking)! The Autumnal Equinox arrives this Wednesday, bringing cooler days and longer nights. Time for cosy jumpers and pumpkin spice everything. #Autumn",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#AutumnEquinox"
-     ]
-    },
-    {
-     "name": "Changing Seasons",
-     "copy": "The leaves are already turning, but it's official this Wednesday: welcome to astronomical autumn! What's your favourite thing about the season changing?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Fall"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "womens-rugby-world-cup-england",
-   "off": 4,
-   "type": "sport",
-   "hot": true,
-   "title": "Women's Rugby World Cup Kicks Off in England",
-   "blurb": "The Women's Rugby World Cup begins in England this week, with matches including England vs USA in Sunderland on September 22nd and Scotland vs Wales in Manchester on September 23rd.",
-   "source": {
-    "l": "Rugby World Cup Official Site",
-    "u": "https://www.rugbyworldcup.com"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "England Home Game",
-     "copy": "The Women's Rugby World Cup is ON! England take on USA in Sunderland this Sunday. Get ready to cheer on the Red Roses! #RWC2026",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RedRoses"
-     ]
-    },
-    {
-     "name": "Scotland v Wales",
-     "copy": "Big one for the home nations! Scotland face Wales in the Women's Rugby World Cup in Manchester this Wednesday. Who are you backing?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#WomenInRugby"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "laver-cup-london",
-   "off": 7,
-   "type": "sport",
-   "hot": true,
-   "title": "Laver Cup Returns to London",
-   "blurb": "World-class tennis is back in London as The O2 hosts the ninth edition of the Laver Cup from September 25-27, 2026, featuring Team Europe vs Team World.",
-   "source": {
-    "l": "Laver Cup Official Site",
-    "u": "https://www.lavercup.com/london-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tennis Showdown",
-     "copy": "The O2 is ready! The Laver Cup brings Team Europe vs Team World to London this weekend for three days of incredible tennis. Who's your favourite player?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#LaverCup"
-     ]
-    },
-    {
-     "name": "London Hosts Tennis",
-     "copy": "London is once again the centre of the tennis world as the Laver Cup takes over The O2 from Friday. Expect drama, rivalries, and incredible shots!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Tennis"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cosmic-void-festival-london",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Cosmic Void Festival in London",
-   "blurb": "The Cosmic Void Festival is taking over London from September 18-20, 2026, offering a weekend of rock and metal.",
-   "source": {
-    "l": "Music Festival Wizard",
-    "u": "https://www.musicfestivalwizard.com/festivals/cosmic-void-festival-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Weekend",
-     "copy": "Calling all rockers! Cosmic Void Festival is live in London this weekend, bringing three days of heavy riffs and headbanging. Who's going?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#RockFestival"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "equinox-festival-lincoln",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Equinox Festival in Lincolnshire",
-   "blurb": "Equinox Festival, a grassroots music and arts event, is currently running in Lincolnshire until September 21st.",
-   "source": {
-    "l": "Festival Calendar UK",
-    "u": "https://www.festivalcalendar.co.uk/festivals/equinox-festival"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festival Vibes",
-     "copy": "Still got that festival feeling? Equinox Festival is on in Lincolnshire until Monday with live bands, DJs, and workshops. Get those last summer vibes in!",
+     "name": "Saturday Footy Fix",
+     "copy": "Premier League Super Saturday is almost here! Spurs, Arsenal, Man City, Liverpool all playing. What's your top pick for tomorrow's must-watch game?",
      "channels": [
       "instagram",
       "facebook",
@@ -294,27 +147,145 @@
      ],
      "time": "17:00",
      "tags": [
-      "#Festival"
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Local Team Check-in",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Leeds United are playing Crystal Palace on Sunday! Big points up for grabs. How confident are you feeling?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#LUFC"
      ]
     }
    ]
   },
   {
-   "id": "ava-festival-london",
-   "off": 6,
+   "id": "cosmic-void-festival",
+   "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "AVA Festival London This Weekend",
-   "blurb": "AVA Festival, an electronic music event, takes place in London from September 24-26, 2026.",
+   "title": "Cosmic Void Festival Underway",
+   "blurb": "London's Cosmic Void Festival, a multi-day event for alternative music fans, continues through the weekend until Sunday.",
    "source": {
     "l": "Music Festival Wizard",
-    "u": "https://www.musicfestivalwizard.com/festivals/ava-festival-london-2026/"
+    "u": "https://www.musicfestivalwizard.com/festivals/cosmic-void-festival-2026/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "London Calling All Alt Fans",
+     "copy": "Cosmic Void Festival is happening in London all weekend! If you're into alternative, rock, and electronic sounds, this is your spot. Who's heading down?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#CosmicVoidFestival"
+     ]
+    },
+    {
+     "name": "Festival Vibes",
+     "copy": "Still time to catch the Cosmic Void Festival in London this weekend! Three days of incredible music and atmosphere. What's been your highlight so far?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#LondonFestivals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "equinox-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Equinox Festival in Full Swing",
+   "blurb": "The Equinox Festival, a grassroots music and arts event in Lincolnshire, continues its celebration of live bands, DJs, and workshops until Monday.",
+   "source": {
+    "l": "Equinox Festival Official",
+    "u": "https://www.equinoxfestival.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
     },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Lincolnshire Party",
+     "copy": "Equinox Festival is bringing the vibes to Lincolnshire all weekend! Live music, DJs, workshops – it's the perfect way to close out the festival season. Are you there?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#EquinoxFestival"
+     ]
+    },
+    {
+     "name": "Festival Countdown",
+     "copy": "Last few days to catch the magic of Equinox Festival! Scholey Park is alive with music and art until Monday. Don't miss out!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#UKFestivals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "harvest-festivals-london",
+   "off": 1,
+   "type": "seasonal",
+   "hot": true,
+   "title": "London Harvest Celebrations",
+   "blurb": "The City Farms Harvest Festival takes place tomorrow at Mudchute Farm, Isle of Dogs, and the Tottenham Harvest Food & Makers Festival runs all weekend.",
+   "source": {
+    "l": "Worshipful Company of Farmers",
+    "u": "https://www.farmerslivery.org.uk/event/2026-london-harvest-festival/"
+   },
+   "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
@@ -322,67 +293,44 @@
    ],
    "angles": [
     {
-     "name": "Dance Festival",
-     "copy": "Ready to hit the dancefloor? AVA Festival brings the best in electronic music to London from next Thursday! Who's joining the party?",
+     "name": "City Harvest",
+     "copy": "Celebrate the harvest in London this weekend! The City Farms Harvest Festival is at Mudchute Farm tomorrow, plus the Tottenham Harvest Food & Makers Festival is on all weekend. Get out there!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "10:00",
      "tags": [
-      "#AVAFestival"
+      "#LondonHarvest"
      ]
-    }
-   ]
-  },
-  {
-   "id": "homobloc-manchester",
-   "off": 8,
-   "type": "gig",
-   "hot": true,
-   "title": "Homobloc Returns to Manchester",
-   "blurb": "The acclaimed Homobloc festival, celebrating queer club culture, is happening in Manchester on September 26, 2026.",
-   "source": {
-    "l": "Music Festival Wizard",
-    "u": "https://www.musicfestivalwizard.com/festivals/homobloc-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Manchester"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Queer Clubbing",
-     "copy": "Manchester! Homobloc is back next Saturday for a massive celebration of queer club culture. Get ready for an unforgettable day and night!",
+     "name": "Family Fun",
+     "for": "Nation Radio London",
+     "copy": "Looking for family fun in London this weekend? Head to the City Farms Harvest Festival tomorrow or the Tottenham Harvest Food & Makers Festival for food, crafts, and community spirit!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:30",
+     "time": "12:00",
      "tags": [
-      "#Homobloc"
+      "#FamilyLondon"
      ]
     }
    ]
   },
   {
-   "id": "dizzee-rascal-birthday",
+   "id": "dizzee-rascal-bday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 42nd Birthday Dizzee Rascal!",
-   "blurb": "British grime pioneer Dizzee Rascal, born Dylan Mills, turns 42 today.",
+   "title": "Happy Birthday Dizzee Rascal",
+   "blurb": "British grime pioneer Dizzee Rascal turns 42 today.",
    "source": {
     "l": "V 101.9 Charlotte",
-    "u": "https://v1019.com/this-day-in-hip-hop-and-rb-history-september-18/"
+    "u": "https://v1019.com/2026/09/18/this-day-in-hip-hop-and-rb-history-september-18/"
    },
    "fits": [
     {
@@ -390,97 +338,18 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Grime Legend",
-     "copy": "Happy 42nd Birthday to the one and only Dizzee Rascal! From Bow to the charts, he changed the game. What's your favourite Dizzee track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DizzeeRascal"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "joanne-catherall-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 64th Birthday Joanne Catherall!",
-   "blurb": "Joanne Catherall, one of the iconic vocalists of The Human League, celebrates her 64th birthday today.",
-   "source": {
-    "l": "Musicians Born on September 18",
-    "u": "https://www.thisdayinmusic.com/artists/born-on-september-18/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Synthpop Icon",
-     "copy": "Wishing a very Happy 64th Birthday to Joanne Catherall of The Human League! Still sounding incredible after all these years. #HumanLeague",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#JoanneCatherall"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bruce-springsteen-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 77th Birthday Bruce Springsteen!",
-   "blurb": "'The Boss', Bruce Springsteen, celebrates his 77th birthday on Wednesday, September 23rd.",
-   "source": {
-    "l": "National Day Calendar",
-    "u": "https://nationaldaycalendar.com/september-23-birthdays-and-events/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "The Boss's Birthday",
-     "copy": "Happy 77th Birthday to the legendary Bruce Springsteen this Wednesday! Still rocking stages worldwide. What's your ultimate Springsteen anthem?",
+     "name": "Grime King",
+     "copy": "Happy 42nd Birthday to the one and only Dizzee Rascal! From 'Bonkers' to 'Fix Up, Look Sharp', what's your favourite track from the grime pioneer?",
      "channels": [
       "instagram",
       "facebook",
@@ -488,106 +357,36 @@
      ],
      "time": "09:00",
      "tags": [
-      "#BruceSpringsteen"
+      "#DizzeeRascal"
      ]
-    }
-   ]
-  },
-  {
-   "id": "julio-iglesias-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 83rd Birthday Julio Iglesias!",
-   "blurb": "Global music icon Julio Iglesias turns 83 on Wednesday, September 23rd.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/23/julio-iglesias.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Latin Legend",
-     "copy": "Wishing a very Happy 83rd Birthday to the one and only Julio Iglesias this Wednesday! A true legend of romantic music. Which of his hits is your favourite?",
+     "name": "Iconic Tracks",
+     "copy": "Celebrating Dizzee Rascal's 42nd birthday today! The man who brought us so many anthems. Which track takes you straight back?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "13:00",
      "tags": [
-      "#JulioIglesias"
+      "#Grime"
      ]
     }
    ]
   },
   {
-   "id": "avril-lavigne-birthday",
-   "off": 9,
+   "id": "joanne-catherall-bday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 42nd Birthday Avril Lavigne!",
-   "blurb": "Pop-punk princess Avril Lavigne celebrates her 42nd birthday on Sunday, September 27th.",
+   "title": "Happy Birthday Joanne Catherall",
+   "blurb": "The Human League's Joanne Catherall, iconic synth-pop singer, celebrates her 64th birthday today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/27/avril-lavigne.html"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/september/18"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop-Punk Princess",
-     "copy": "Can you believe it? Avril Lavigne turns 42 this Sunday! Still rocking our world since 'Complicated'. What's your go-to Avril track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#AvrilLavigne"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bryan-ferry-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 81st Birthday Bryan Ferry!",
-   "blurb": "Roxy Music frontman and solo artist Bryan Ferry celebrates his 81st birthday on Saturday, September 26th.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/september"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
@@ -599,30 +398,43 @@
    ],
    "angles": [
     {
-     "name": "Art Rock Icon",
-     "copy": "Wishing a very Happy 81st Birthday to the incomparable Bryan Ferry this Saturday! From Roxy Music to his solo career, a true style icon. #BryanFerry",
+     "name": "Don't You Want Her?",
+     "copy": "Happy 64th Birthday to the legendary Joanne Catherall of The Human League! Still sounds incredible. What's your favourite Human League track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "10:00",
      "tags": [
-      "#RoxyMusic"
+      "#TheHumanLeague"
+     ]
+    },
+    {
+     "name": "Synth-Pop Icon",
+     "copy": "Celebrating Joanne Catherall's birthday today! A true icon of 80s synth-pop with The Human League. Time to crank up 'Don't You Want Me'!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "tracey-thorn-birthday",
-   "off": 8,
+   "id": "ricky-bell-bday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 64th Birthday Tracey Thorn!",
-   "blurb": "Tracey Thorn, one half of the influential duo Everything But The Girl, turns 64 on Saturday, September 26th.",
+   "title": "Happy Birthday Ricky Bell",
+   "blurb": "Ricky Bell, founding member of New Edition and Bell Biv DeVoe, turns 59 today.",
    "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/september"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/september/18"
    },
    "fits": [
     {
@@ -635,69 +447,48 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Everything But The Girl",
-     "copy": "Happy 64th Birthday to the brilliant Tracey Thorn this Saturday! Her voice is iconic, especially with Everything But The Girl. What's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#TraceyThorn"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lil-wayne-birthday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 44th Birthday Lil Wayne!",
-   "blurb": "Grammy-winning rapper Lil Wayne, born Dwayne Carter Jr., celebrates his 44th birthday on Sunday, September 27th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/September_27"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
      "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rap Superstar",
-     "copy": "Drop a 'Happy Birthday' for the one and only Lil Wayne, who turns 44 this Sunday! A true rap legend. What's your favourite Weezy track?",
+     "name": "Poisonous Grooves",
+     "copy": "Happy 59th Birthday to Ricky Bell! From New Edition to Bell Biv DeVoe, he's given us so many R&B classics. What's your top track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RickyBell"
+     ]
+    },
+    {
+     "name": "R&B Royalty",
+     "copy": "Birthday shout-out to Ricky Bell today! A true legend in R&B. Get ready to hit play on some New Edition or Bell Biv DeVoe!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "15:00",
      "tags": [
-      "#LilWayne"
+      "#RnBMusic"
      ]
     }
    ]
   },
   {
-   "id": "autumn-tv-buzz",
-   "off": 0,
-   "type": "tv",
+   "id": "autumnal-equinox-2026",
+   "off": 5,
+   "type": "seasonal",
    "hot": true,
-   "title": "Anticipated Autumn TV Season",
-   "blurb": "The autumn TV season is generating buzz with upcoming shows like the next season of 'Slow Horses' and the highly anticipated 'Blade Runner 2099'.",
+   "title": "Autumn Equinox Approaches",
+   "blurb": "The Autumnal Equinox, marking the official start of autumn in the Northern Hemisphere, occurs on Wednesday 23 September at 1:06 AM BST.",
    "source": {
-    "l": "The Guardian",
-    "u": "https://www.theguardian.com/tv-and-radio/2026/aug/28/50-best-tv-shows-watch-this-autumn"
+    "l": "Royal Museums Greenwich",
+    "u": "https://www.rmg.co.uk/stories/topics/what-and-when-autumnal-equinox"
    },
    "fits": [
     {
@@ -707,8 +498,387 @@
    ],
    "angles": [
     {
-     "name": "Autumn TV Preview",
-     "copy": "The nights are drawing in, which means it's prime TV time! What are you most excited to watch this autumn? We've got our eyes on 'Slow Horses' and 'Blade Runner 2099'!",
+     "name": "Hello Autumn",
+     "copy": "Get ready to officially welcome autumn! The Autumn Equinox arrives early morning on Wednesday 23rd September. Time for cosy jumpers and pumpkin spice everything!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#AutumnEquinox"
+     ]
+    },
+    {
+     "name": "Shorter Days",
+     "copy": "The days are drawing in, and the Autumn Equinox is just around the corner on Wednesday! What's your favourite thing about the change of season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#FirstDayOfAutumn"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "loreen-uk-tour",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Loreen's Wildfire Tour Hits UK",
+   "blurb": "Double Eurovision winner Loreen brings her 'Wildfire Tour' to the UK next week, with dates in Glasgow (Sept 24), Manchester (Sept 25), and London (Sept 26).",
+   "source": {
+    "l": "Tickets for Good",
+    "u": "https://ticketsforgood.org/blog/uk-concerts-and-tours-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Eurovision Queen",
+     "copy": "Loreen is bringing her 'Wildfire Tour' to Glasgow, Manchester & London next week! Who's got tickets to see the double Eurovision champion?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Loreen"
+     ]
+    },
+    {
+     "name": "Tattoo Tour",
+     "for": "Nation Radio Scotland",
+     "copy": "Glasgow, get ready! Loreen's 'Wildfire Tour' lands at the O2 Academy next Thursday. Expect an electrifying night from the Eurovision superstar!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#LoreenGlasgow"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "peter-salisbury-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Peter Salisbury",
+   "blurb": "Peter Salisbury, drummer for iconic Britpop band The Verve, turns 55 on September 24th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/September_24"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bittersweet Symphony Beat",
+     "copy": "Happy 55th Birthday to Peter Salisbury, drummer of The Verve, this Thursday! What's your all-time favourite Verve track to celebrate?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheVerve"
+     ]
+    },
+    {
+     "name": "Britpop Legend",
+     "copy": "Celebrating Peter Salisbury of The Verve's 55th birthday on Thursday! The beats behind some of the greatest 90s anthems. What's your go-to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Britpop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "great-british-harvest-festival",
+   "off": 8,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Great British Harvest Festival",
+   "blurb": "The Great British Harvest Festival, a fundraising event celebrating farming heritage and music, takes place at St Edmundsbury Cathedral in Bury St Edmunds on Saturday 26 September.",
+   "source": {
+    "l": "Bury St Edmunds & Beyond",
+    "u": "https://www.burystedmundsandbeyond.co.uk/whats-on/the-great-british-harvest-festival-p1798541"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Suffolk"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Suffolk Celebration",
+     "copy": "The Great British Harvest Festival is coming to St Edmundsbury Cathedral next Saturday! Celebrating farming, community, and music for a great cause.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#HarvestFestival"
+     ]
+    },
+    {
+     "name": "Support Local",
+     "for": "Nation Radio Suffolk",
+     "copy": "Next Saturday, join the Great British Harvest Festival in Bury St Edmunds! A fantastic event raising funds for local charities. Will you be there?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#BuryStEdmunds"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "top-gun-maverick-concert",
+   "off": 10,
+   "type": "culture",
+   "hot": true,
+   "title": "Top Gun: Maverick in Concert",
+   "blurb": "The Royal Albert Hall in London will host 'Top Gun: Maverick in Concert' with the Royal Philharmonic Concert Orchestra on Monday 28 September.",
+   "source": {
+    "l": "Royal Albert Hall",
+    "u": "https://www.royalalberthall.com/tickets/events/2026/top-gun-maverick-in-concert/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Feel the Need for Speed (and music)",
+     "copy": "Experience Top Gun: Maverick like never before! The Royal Philharmonic Concert Orchestra brings the score to life at the Royal Albert Hall on Monday 28th September. Who's in?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TopGunMaverick"
+     ]
+    },
+    {
+     "name": "Epic Cinema Experience",
+     "for": "Nation Radio London",
+     "copy": "An incredible cinematic and musical event is coming to the Royal Albert Hall next Monday! Top Gun: Maverick in Concert will be an unforgettable night. Don't miss it!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RoyalAlbertHall"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "avril-lavigne-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Avril Lavigne",
+   "blurb": "Pop-punk icon Avril Lavigne celebrates her 42nd birthday on Sunday 27 September.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/27.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Sk8er Girl Turns 42",
+     "copy": "Can you believe Avril Lavigne turns 42 this Sunday? Time flies when you're rocking out! What's your favourite pop-punk anthem from her?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#AvrilLavigne"
+     ]
+    },
+    {
+     "name": "Complicated No More",
+     "copy": "Sunday is Avril Lavigne's birthday! She'll be 42. Which of her iconic tracks is still on heavy rotation for you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#PopPunk"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lil-wayne-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Lil Wayne",
+   "blurb": "Grammy-winning rapper Lil Wayne celebrates his 44th birthday on Sunday 27 September.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september/27.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tunechi Turns 44",
+     "copy": "Wishing a huge Happy 44th Birthday to the one and only Lil Wayne this Sunday! Drop your favourite Weezy track below!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LilWayne"
+     ]
+    },
+    {
+     "name": "Rap Royalty",
+     "copy": "Lil Wayne's birthday is this Sunday! He'll be 44. The rap legend has an incredible catalogue. What's the first song that comes to mind?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Rap"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jay-z-london-gigs",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "JAY-Z in London",
+   "blurb": "Hip-hop mogul JAY-Z is reportedly playing solo gigs in London this month, celebrating anniversaries of his debut and 'The Blueprint' albums.",
+   "source": {
+    "l": "Time Out London",
+    "u": "https://www.timeout.com/london/music/best-london-concerts-and-gigs-in-september"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hova in the House",
+     "copy": "JAY-Z is reportedly playing London this month! Are you lucky enough to be seeing the rap icon live?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#JAYZ"
+     ]
+    },
+    {
+     "name": "Blueprint Live",
+     "for": "Nation Radio London",
+     "copy": "Rumour has it, JAY-Z is gracing London stages this September! Celebrating 'Reasonable Doubt' and 'The Blueprint'. Which tracks are you hoping to hear?",
      "channels": [
       "instagram",
       "facebook",
@@ -716,19 +886,7 @@
      ],
      "time": "18:00",
      "tags": [
-      "#AutumnTV"
-     ]
-    },
-    {
-     "name": "Streaming Soon",
-     "copy": "Cosy nights and new shows – autumn TV is nearly upon us! Which series are you planning to binge-watch as the weather gets colder?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#NewTV"
+      "#LondonGigs"
      ]
     }
    ]
