@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-19T19:46:00.254Z",
+ "updated": "2026-09-19T21:50:42.405Z",
  "moments": [
   {
-   "id": "strictly-launch-2026",
-   "off": 0,
-   "type": "tv",
+   "id": "autumn-equinox-2026",
+   "off": 4,
+   "type": "seasonal",
    "hot": true,
-   "title": "Strictly's Glitterball Launch Night!",
-   "blurb": "Strictly Come Dancing returns tonight with its highly anticipated launch show, revealing the celebrity-professional pairings for the 2026 series and introducing new hosts Emma Willis, Johannes Radebe, and Josh Widdicombe.",
+   "title": "Autumn Equinox Approaches",
+   "blurb": "The Autumn Equinox, marking the official start of astronomical autumn and equal day and night, arrives on Wednesday, September 23rd in the UK.",
    "source": {
-    "l": "BBC One / iPlayer",
-    "u": "https://www.bbc.co.uk/strictly"
+    "l": "Royal Museums Greenwich",
+    "u": "https://www.rmg.co.uk/stories/topics/what-and-when-autumnal-equinox"
    },
    "fits": [
     {
@@ -20,42 +20,105 @@
    ],
    "angles": [
     {
-     "name": "Launch Night Excitement",
-     "copy": "It's HERE! The Strictly Come Dancing 2026 launch show is on BBC One tonight at 7:25 PM. Who are you most excited to see paired up? #Strictly",
+     "name": "General Acknowledge",
+     "copy": "That's it for summer sunshine! The Autumn Equinox is just a few days away on Wednesday, officially ushering in the new season. Get ready for cosy nights! 🍂",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "19:00",
+     "time": "08:00",
      "tags": [
-      "#Strictly"
+      "#AutumnEquinox"
      ]
     },
     {
-     "name": "New Hosts Take Over",
-     "copy": "New faces in the ballroom! Emma Willis, Johannes Radebe, and Josh Widdicombe take the reins as Strictly hosts tonight. Tune in at 7:25 PM on BBC One.",
+     "name": "Stonehenge Hook",
+     "for": "Nation Radio London",
+     "copy": "Fancy seeing the sunrise at Stonehenge on the Autumn Equinox? English Heritage is offering free access on Wednesday morning. Worth the early start! 🌅",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "19:15",
+     "time": "09:30",
      "tags": [
-      "#StrictlyComeDancing"
+      "#Stonehenge"
+     ]
+    },
+    {
+     "name": "Harvest Moon",
+     "copy": "The Autumn Equinox isn't just about longer nights, it also brings the Harvest Moon on September 26th this year. Keep an eye out for it! 🌕",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#HarvestMoon"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-sat-19sep",
+   "id": "rugby-prem-kickoff",
+   "off": 6,
+   "type": "sport",
+   "hot": true,
+   "title": "Gallagher Premiership Kicks Off",
+   "blurb": "The new Gallagher Premiership Rugby season for 2026/27 begins next weekend, with Harlequins v Bath and Northampton Saints v Newcastle Red Bulls among the opening fixtures on Friday, September 25th.",
+   "source": {
+    "l": "Premiership Rugby",
+    "u": "https://www.premiershiprugby.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": "Radio Exe"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Season Opener Hype",
+     "copy": "The wait is over! Gallagher Premiership Rugby kicks off next Friday with a full weekend of action. Who are you backing for the title this season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#GallagherPrem"
+     ]
+    },
+    {
+     "name": "Exeter Chiefs Focus",
+     "for": "Radio Exe",
+     "copy": "Huge weekend for Exeter Chiefs as the new Gallagher Premiership season gets underway! They face Gloucester at home on Saturday, September 26th. Get behind the lads! #ExeterChiefs",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#ExeterChiefs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-matches-sept19-20",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Saturday Action",
-   "blurb": "Five Premier League fixtures are scheduled for today, including Tottenham Hotspur facing Aston Villa and Newcastle United hosting Hull City.",
+   "title": "Premier League Weekend Action",
+   "blurb": "The Premier League continues this weekend with several key matches today, September 19th, including Tottenham Hotspur vs Aston Villa, and more games tomorrow, September 20th, such as Fulham vs Manchester United.",
    "source": {
     "l": "Premier League",
     "u": "https://www.premierleague.com/fixtures"
@@ -64,98 +127,242 @@
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North East"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio South"
     }
    ],
    "angles": [
     {
-     "name": "Saturday Football Focus",
-     "copy": "Premier League Saturday! Big games today including Tottenham vs Aston Villa and Newcastle vs Hull. What's your prediction for the 3 PM kick-offs?",
+     "name": "Today's Games",
+     "copy": "It's a big Saturday in the Premier League! Tottenham host Aston Villa and Brighton take on Arsenal today. Catch all the action! #PremierLeague",
      "channels": [
       "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Local Team Shoutout (NCL)",
-     "for": "Nation Radio North East",
-     "copy": "It's match day for the Magpies! Newcastle United host Hull City at St James' Park this afternoon. How are we feeling, Toon Army? #NUFC",
-     "channels": [
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#NUFC"
+      "#PL"
+     ]
+    },
+    {
+     "name": "Tomorrow's Big Match",
+     "copy": "Looking ahead to Sunday in the Premier League: Fulham take on Manchester United. Can the Red Devils secure a crucial away win? #MUFC #FULMUN",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#PremierLeague"
      ]
     }
    ]
   },
   {
-   "id": "jarvis-cocker-bday",
+   "id": "efl-league-two-sept19-20",
    "off": 0,
-   "type": "birthday",
+   "type": "sport",
    "hot": true,
-   "title": "Happy 63rd to Jarvis Cocker",
-   "blurb": "Jarvis Cocker, the iconic frontman of Britpop band Pulp, celebrates his 63rd birthday today.",
+   "title": "EFL League Two Weekend Fixtures",
+   "blurb": "EFL League Two sees a full schedule of matches this weekend, with games today, September 19th, and more tomorrow, September 20th, before an international break.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.boredpanda.com/celebrity-birthdays-today-september-19-2026/"
+    "l": "EFL",
+    "u": "https://www.efl.com/fixtures-and-results/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "welsh-local",
+     "sub": "Newport County"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "radio-exe",
+     "sub": "Exeter City"
     }
    ],
    "angles": [
     {
-     "name": "Pulp Legend",
-     "copy": "Happy 63rd Birthday to the one and only Jarvis Cocker! What's your favourite Pulp track to get you dancing? #JarvisCocker",
+     "name": "League Two Today",
+     "copy": "Plenty of League Two action today! Catch your team before the international break kicks in from Monday. Who are you cheering for?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "14:30",
      "tags": [
-      "#Pulp"
+      "#EFL"
      ]
     },
     {
-     "name": "Britpop Icon",
-     "copy": "A true Britpop legend turns 63 today! Wishing a very happy birthday to Pulp's inimitable frontman, Jarvis Cocker.",
+     "name": "Newport County & Exeter City",
+     "for": "welsh-local, radio-exe",
+     "copy": "Big weekend for our local teams in League Two! Newport County are at home to Grimsby today, while Exeter City face Tranmere. Good luck to both! #NewportCounty #ExeterCity",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#Britpop"
+      "#LocalFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ava-festival-london",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "AVA Festival London This Week",
+   "blurb": "The AVA Festival London, a major electronic music and arts festival, is taking place from September 24th to 26th, 2026.",
+   "source": {
+    "l": "eFestivals",
+    "u": "https://www.efestivals.co.uk/festivals/2026/ava-festival-london-2026.shtml"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Music Alert",
+     "copy": "Get ready, London! AVA Festival kicks off on September 24th for three days of incredible electronic music and art. Who's got their tickets? 🎶",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#AVALondon"
+     ]
+    },
+    {
+     "name": "London Calling",
+     "for": "Nation Radio London",
+     "copy": "AVA Festival takes over London from Thursday! It's set to be a massive weekend for dance music fans across the city. Don't miss out! #LondonGigs",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LondonEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-sept18",
+   "off": 0,
+   "type": "chart",
+   "hot": true,
+   "title": "New Music on the Official Singles Chart",
+   "blurb": "The Official UK Singles Chart was updated yesterday, September 18th, with new entries from artists like Adela ('Nicole Kidman') and Jamie Miller ft. Antonio Cipriano ('Babydoll').",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Rundown",
+     "copy": "The latest Official Singles Chart is in! What new tracks are you loving this week? Shout out to Adela and Jamie Miller for their new entries! 💿",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "Fresh Tracks",
+     "copy": "New music alert on the UK Singles Chart! Have you heard 'Nicole Kidman' by Adela or 'Babydoll' by Jamie Miller yet? What's your pick of the new entries?",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tv-bake-off-brothers-rooneys",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Big TV Launches This Week",
+   "blurb": "The Great British Bake Off returns in September, Matthew McConaughey and Woody Harrelson star in new comedy 'Brothers' on Apple TV+ on Sept 23rd, and 'The Real Rooneys' documentary airs on Disney+ on Sept 24th.",
+   "source": {
+    "l": "The Independent",
+    "u": "https://www.independent.co.uk/arts-entertainment/tv/features/autumn-tv-2026-uk-shows-b2408985.html"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off Hype",
+     "copy": "The tent is back! The Great British Bake Off returns this month to Channel 4. Who's ready for soggy bottoms and showstoppers? 🍰",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "Star Power TV",
+     "copy": "Matthew McConaughey and Woody Harrelson in a new comedy, 'Brothers', arriving on Apple TV+ on September 23rd. This is going to be a must-watch! ✨",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#BrothersTV"
+     ]
+    },
+    {
+     "name": "Rooney Reality",
+     "for": "welsh-local, dragon",
+     "copy": "Get ready for a glimpse into their lives! 'The Real Rooneys' docuseries starts on Disney+ on September 24th. Are you tuning in? ⚽️",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#TheRealRooneys"
      ]
     }
    ]
@@ -165,11 +372,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Nile Rodgers Turns 74",
-   "blurb": "Grammy-winning guitarist, songwriter, and producer Nile Rodgers, known for Chic and his work with countless artists, celebrates his 74th birthday.",
+   "title": "Happy Birthday Nile Rodgers",
+   "blurb": "Legendary guitarist, songwriter, and producer Nile Rodgers, known for Chic and his work with David Bowie, Madonna, and Daft Punk, turns 74 today.",
    "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/soul-music-birthdays"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Nile_Rodgers"
    },
    "fits": [
     {
@@ -191,88 +398,145 @@
    ],
    "angles": [
     {
-     "name": "Disco King",
-     "copy": "Happy 74th Birthday to the legendary Nile Rodgers! From Chic to Daft Punk, his guitar riffs are pure magic. What's your favourite track he's touched? #NileRodgers",
+     "name": "Funk Master",
+     "copy": "Happy 74th Birthday to the incredible Nile Rodgers! From Chic's disco anthems to producing some of the biggest hits ever, he's a true musical genius. What's your favourite Nile Rodgers track? 🎉",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:30",
+     "time": "09:00",
      "tags": [
-      "#Chic"
+      "#NileRodgers"
      ]
     },
     {
-     "name": "Production Genius",
-     "copy": "Wishing a very happy 74th birthday to the man behind so many hits, Nile Rodgers! A true icon of music production and performance.",
+     "name": "Producer Legend",
+     "copy": "Celebrating the birthday of the man with the golden touch, Nile Rodgers! His guitar riffs and production magic defined generations. Send him some birthday love! 🎸",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#MusicLegend"
+      "#Chic"
      ]
     }
    ]
   },
   {
-   "id": "skepta-bday",
+   "id": "jarvis-cocker-bday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Skepta is 45 Today",
-   "blurb": "British grime artist and rapper Skepta, a pivotal figure in the UK music scene, celebrates his 45th birthday.",
+   "title": "Happy Birthday Jarvis Cocker",
+   "blurb": "Jarvis Cocker, the iconic frontman of Pulp, celebrates his 63rd birthday today.",
    "source": {
-    "l": "foxy99.com",
-    "u": "https://foxy99.com/this-day-in-hip-hop-and-r-b-history-september-19/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jarvis_Cocker"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Grime Icon",
-     "copy": "Big up Skepta on his 45th birthday! A true pioneer of grime and one of the UK's most influential artists. What's your top Skepta anthem? #Skepta",
+     "name": "Indie Icon",
+     "copy": "Happy 63rd Birthday to the one and only Jarvis Cocker! The Pulp frontman gave us some of the most memorable lyrics and performances of the 90s. What's your favourite Pulp song? 👓",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#JarvisCocker"
+     ]
+    },
+    {
+     "name": "Pulp Fiction",
+     "copy": "The legendary Jarvis Cocker is 63 today! Raise a glass to the man who made 'Common People' an anthem. Share your favourite Pulp memory! 🎤",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#Pulp"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "liam-gallagher-bday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Liam Gallagher",
+   "blurb": "The outspoken and iconic former Oasis frontman, Liam Gallagher, turns 54 on Monday, September 21st.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Liam_Gallagher"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock 'n' Roll Star",
+     "copy": "Monday is Liam Gallagher's 54th Birthday! The voice of a generation and an absolute legend. What's your favourite Oasis track? As you were! 🎶",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
+     "time": "10:00",
+     "tags": [
+      "#LiamGallagher"
+     ]
+    },
+    {
+     "name": "Mancunian Legend",
+     "copy": "Get ready to celebrate a true rock 'n' roll star! Liam Gallagher turns 54 on Monday. What's your favourite memory of the Oasis frontman?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
      "time": "14:00",
      "tags": [
-      "#Grime"
-     ]
-    },
-    {
-     "name": "UK Rap Royalty",
-     "copy": "Happy 45th birthday to the one and only Skepta! Still pushing boundaries and setting trends.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#UKRap"
+      "#Oasis"
      ]
     }
    ]
   },
   {
-   "id": "ben-shepherd-bday",
-   "off": 1,
+   "id": "joan-jett-bday",
+   "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Soundgarden's Ben Shepherd Turns 58",
-   "blurb": "Ben Shepherd, the bassist for the influential grunge band Soundgarden, celebrates his 58th birthday tomorrow, September 20th.",
+   "title": "Happy Birthday Joan Jett",
+   "blurb": "The 'Godmother of Punk' and 'Queen of Rock and Roll', Joan Jett, celebrates her 68th birthday on Tuesday, September 22nd.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/20.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joan_Jett"
    },
    "fits": [
     {
@@ -281,52 +545,7 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Grunge Bassist",
-     "copy": "Tomorrow, Soundgarden's Ben Shepherd turns 58! What's your favourite Soundgarden track featuring his legendary basslines? #Soundgarden",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#Grunge"
-     ]
-    },
-    {
-     "name": "Rock Royalty",
-     "copy": "Wishing a future happy 58th to Soundgarden bassist Ben Shepherd, celebrating tomorrow!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#RockMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "nuno-bettencourt-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Extreme's Nuno Bettencourt is 60",
-   "blurb": "Nuno Bettencourt, the acclaimed guitarist for the rock band Extreme, will celebrate his 60th birthday tomorrow, September 20th.",
-   "source": {
-    "l": "Musicians Born On",
-    "u": "https://www.thisdayinmusic.com/musicians-born-on-september-20/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
@@ -335,121 +554,81 @@
    ],
    "angles": [
     {
-     "name": "Guitar Hero",
-     "copy": "Get ready to shred! Extreme's guitar virtuoso Nuno Bettencourt turns 60 tomorrow. What's your favourite Nuno riff? #NunoBettencourt",
+     "name": "Rock Queen",
+     "copy": "Happy 68th Birthday to the one and only Joan Jett on Tuesday! She still loves rock 'n' roll, and so do we! What's your favourite Joan Jett & The Blackhearts hit? 🎸",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "11:00",
      "tags": [
-      "#Extreme"
+      "#JoanJett"
      ]
     },
     {
-     "name": "60 and Still Rocking",
-     "copy": "Happy 60th for tomorrow to Nuno Bettencourt! The Extreme guitarist is still an absolute legend.",
+     "name": "I Love Rock 'n Roll",
+     "copy": "Tuesday is the birthday of rock icon Joan Jett! Celebrate her 68th with a blast of 'I Love Rock 'n Roll'. What an absolute legend! 💪",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "15:00",
      "tags": [
-      "#GuitarLegend"
+      "#RockAndRoll"
      ]
     }
    ]
   },
   {
-   "id": "great-british-bake-off-return",
+   "id": "david-coverdale-bday",
    "off": 3,
-   "type": "tv",
+   "type": "birthday",
    "hot": true,
-   "title": "Bake Off is Back!",
-   "blurb": "The Great British Bake Off returns for its 17th series on Tuesday, September 22, at 8 PM on Channel 4, featuring new judge Nigella Lawson alongside Paul Hollywood.",
+   "title": "Happy Birthday David Coverdale",
+   "blurb": "David Coverdale, the powerful voice behind Deep Purple and Whitesnake, turns 75 on Tuesday, September 22nd.",
    "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/tv/entertainment/reality-tv/great-british-bake-off-2026-release-date/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/David_Coverdale"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     }
    ],
    "angles": [
     {
-     "name": "New Bake Off Season",
-     "copy": "Get ready for soggy bottoms and showstoppers! The Great British Bake Off returns Tuesday at 8 PM on Channel 4. Who's excited for Cake Week?",
+     "name": "Rock Vocalist",
+     "copy": "Wishing a very Happy 75th Birthday to the legendary David Coverdale on Tuesday! From Deep Purple to Whitesnake, his voice is unmistakable. What's your favourite track he sang on? 🤘",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#GBBO"
+      "#DavidCoverdale"
      ]
     },
     {
-     "name": "Nigella in the Tent",
-     "copy": "A delicious new addition to the Bake Off tent! Nigella Lawson joins Paul Hollywood as a judge when the series returns Tuesday at 8 PM.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "autumnal-equinox-2026",
-   "off": 4,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Autumn Equinox Arrives",
-   "blurb": "The Autumnal Equinox, marking the start of astronomical autumn in the Northern Hemisphere, occurs on Wednesday, September 23, at 1:06 AM BST.",
-   "source": {
-    "l": "Royal Museums Greenwich",
-    "u": "https://www.rmg.co.uk/stories/topics/what-and-when-autumnal-equinox"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "First Day of Autumn",
-     "copy": "The astronomical Autumn Equinox is just around the corner, arriving Wednesday! Time for cosy nights, pumpkin spice, and crunchy leaves. What's your favourite thing about autumn?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#AutumnEquinox"
-     ]
-    },
-    {
-     "name": "Seasonal Shift",
-     "copy": "Wednesday marks the Autumn Equinox at 1:06 AM BST. The days will now officially be shorter than the nights. Time to embrace the new season!",
+     "name": "Whitesnake Legend",
+     "copy": "Tuesday marks the 75th Birthday of rock powerhouse David Coverdale! Still got that incredible voice. Send your birthday wishes! 🎤",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "16:00",
      "tags": [
-      "#Autumn"
+      "#Whitesnake"
      ]
     }
    ]
@@ -459,11 +638,118 @@
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Bruce Springsteen Turns 77",
-   "blurb": "The legendary 'Boss' of rock and roll, Bruce Springsteen, celebrates his 77th birthday on Wednesday, September 23rd.",
+   "title": "Happy Birthday Bruce Springsteen",
+   "blurb": "The Boss, legendary American singer-songwriter Bruce Springsteen, celebrates his 77th birthday on Wednesday, September 23rd.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/23.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Bruce_Springsteen"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "The Boss Turns 77",
+     "copy": "Happy 77th Birthday to the one and only Bruce Springsteen on Wednesday! The Boss still brings it every time. What's your ultimate Springsteen anthem? 🎸🇺🇸",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BruceSpringsteen"
+     ]
+    },
+    {
+     "name": "Born to Run",
+     "copy": "Wednesday is the birthday of Bruce Springsteen! 77 years young and still a rock icon. What's your favourite album from The Boss?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#TheBoss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "will-smith-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Will Smith",
+   "blurb": "Actor, rapper, and global superstar Will Smith celebrates his 58th birthday on Friday, September 25th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Will_Smith"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Fresh Prince Day",
+     "copy": "Happy 58th Birthday to the Fresh Prince himself, Will Smith, on Friday! From rap hits to blockbusters, he's done it all. What's your favourite Will Smith song or movie? 🎬🎤",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WillSmith"
+     ]
+    },
+    {
+     "name": "Big Willie Style",
+     "copy": "Friday is Will Smith's 58th Birthday! Celebrate with some 'Gettin' Jiggy wit It' or your favourite Fresh Prince moment. Legend! 🎉",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FreshPrince"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bryan-ferry-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Bryan Ferry",
+   "blurb": "The legendary singer and songwriter, frontman of Roxy Music, Bryan Ferry, turns 81 on Saturday, September 26th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Bryan_Ferry"
    },
    "fits": [
     {
@@ -476,321 +762,13 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "The Boss's Birthday",
-     "copy": "Happy 77th Birthday to the one and only Bruce Springsteen on Wednesday! What's the ultimate 'Boss' anthem for you? #BruceSpringsteen",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TheBoss"
-     ]
-    },
-    {
-     "name": "Rock Icon",
-     "copy": "Wishing a very happy 77th birthday to the rock icon, Bruce Springsteen, celebrating this Wednesday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#RockAndRoll"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "john-coltrane-100th-tribute",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Tribute to John Coltrane at 100",
-   "blurb": "Wednesday, September 23rd, would have marked the 100th birthday of groundbreaking jazz saxophonist John Coltrane, who passed away in 1967.",
-   "source": {
-    "l": "Columbia College",
-    "u": "https://www.colum.edu/academics/departments/music/news/john-coltrane-centennial"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jazz Giant Centennial",
-     "copy": "On Wednesday, we remember the unparalleled jazz visionary John Coltrane, who would have turned 100. His influence continues to resonate globally. #JohnColtrane",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#JazzLegend"
-     ]
-    },
-    {
-     "name": "A Musical Legacy",
-     "copy": "A century since his birth, John Coltrane's revolutionary sound lives on. Remembering the jazz giant this Wednesday, September 23rd.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#Coltrane100"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "harvest-moon-2026",
-   "off": 7,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Harvest Moon Illuminates Skies",
-   "blurb": "The Harvest Moon, the full moon closest to the Autumn Equinox, will appear on Saturday, September 26, at 5:49 PM BST.",
-   "source": {
-    "l": "PhysicsUK",
-    "u": "https://physicsuk.org/autumn-equinox-2026-uk-time-why-days-get-shorter/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Full Moon Magic",
-     "copy": "Look up this Saturday! The beautiful Harvest Moon will light up our skies at 5:49 PM BST. Perfect for a late-night stroll. #HarvestMoon",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#FullMoon"
-     ]
-    },
-    {
-     "name": "Autumnal Glow",
-     "copy": "The Harvest Moon is traditionally associated with gathering crops. Catch its glow this Saturday, September 26th!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#AutumnNights"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "avril-lavigne-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Avril Lavigne Turns 42",
-   "blurb": "Canadian pop-punk icon Avril Lavigne, known for hits like 'Complicated' and 'Sk8er Boi', celebrates her 42nd birthday on Sunday, September 27th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/27.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop-Punk Princess",
-     "copy": "She's still rocking! Avril Lavigne turns 42 this Sunday. What's your favourite track from the pop-punk princess? #AvrilLavigne",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Sk8erBoi"
-     ]
-    },
-    {
-     "name": "Iconic Anthems",
-     "copy": "Happy 42nd for Sunday to Avril Lavigne! Still making noise and looking fantastic.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PopPunk"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lil-wayne-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Lil Wayne is 44",
-   "blurb": "Grammy-winning American rapper Lil Wayne celebrates his 44th birthday on Sunday, September 27th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/september/27.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rap Royalty",
-     "copy": "It's Weezy F. Baby's birthday this Sunday! Lil Wayne turns 44. What's your top track from the Young Money boss? #LilWayne",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Weezy"
-     ]
-    },
-    {
-     "name": "Hip Hop Legend",
-     "copy": "Happy 44th birthday for Sunday to the one and only Lil Wayne! Still one of the most influential in the game.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#HipHop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "brad-arnold-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "3 Doors Down's Brad Arnold Turns 48",
-   "blurb": "Brad Arnold, the lead singer of the multi-platinum rock band 3 Doors Down, celebrates his 48th birthday on Sunday, September 27th.",
-   "source": {
-    "l": "National Day Calendar",
-    "u": "https://nationaldaycalendar.com/september-27-birthdays-and-events/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Vocalist",
-     "copy": "Happy 48th for Sunday to Brad Arnold of 3 Doors Down! What's your go-to anthem from the band? #3DoorsDown",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BradArnold"
-     ]
-    },
-    {
-     "name": "Still Rocking",
-     "copy": "The voice behind 'Kryptonite' turns 48 this Sunday! Wishing Brad Arnold of 3 Doors Down a very happy birthday.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#RockAnthems"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "randy-bachman-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Randy Bachman is 83",
-   "blurb": "Randy Bachman, the influential Canadian guitarist and songwriter from The Guess Who and Bachman-Turner Overdrive, celebrates his 83rd birthday on Sunday, September 27th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/September_27"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Classic Rock Legend",
-     "copy": "Happy 83rd Birthday for Sunday to the legendary Randy Bachman! From The Guess Who to BTO, his riffs are timeless. #RandyBachman",
+     "name": "Roxy Music Icon",
+     "copy": "Happy 81st Birthday to the incomparable Bryan Ferry on Saturday! The epitome of cool and the voice of Roxy Music. What's your favourite of his sophisticated hits? 🎩",
      "channels": [
       "instagram",
       "facebook",
@@ -798,76 +776,72 @@
      ],
      "time": "09:00",
      "tags": [
-      "#ClassicRock"
+      "#BryanFerry"
      ]
     },
     {
-     "name": "Canadian Rock Icon",
-     "copy": "Wishing an early happy 83rd to Randy Bachman, the driving force behind so many classic rock hits!",
+     "name": "Timeless Style",
+     "copy": "Saturday is Bryan Ferry's 81st Birthday! Still delivering timeless style and incredible music. Send your birthday wishes to the Roxy Music legend! 🥂",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#BachmanTurnerOverdrive"
+      "#RoxyMusic"
      ]
     }
    ]
   },
   {
-   "id": "barbara-dickson-bday",
-   "off": 8,
+   "id": "tracey-thorn-bday",
+   "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Barbara Dickson Turns 79",
-   "blurb": "Scottish singer and actress Barbara Dickson, known for her folk and pop hits, celebrates her 79th birthday on Sunday, September 27th.",
+   "title": "Happy Birthday Tracey Thorn",
+   "blurb": "Tracey Thorn, one half of the influential electronic duo Everything but the Girl, celebrates her 64th birthday on Saturday, September 26th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/September_27"
+    "u": "https://en.wikipedia.org/wiki/Tracey_Thorn"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Scottish Songbird",
-     "copy": "Happy 79th Birthday for Sunday to the wonderful Barbara Dickson! A true Scottish treasure with a voice that melts hearts. #BarbaraDickson",
+     "name": "EBTG Voice",
+     "copy": "Happy 64th Birthday to the iconic Tracey Thorn on Saturday! Her distinctive voice defined Everything but the Girl and so much more. What's your favourite EBTG track? 🎤",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:30",
+     "time": "10:30",
      "tags": [
-      "#ScottishMusic"
+      "#TraceyThorn"
      ]
     },
     {
-     "name": "Folk & Pop Icon",
-     "copy": "Wishing an early happy 79th to the legendary Barbara Dickson, celebrating this Sunday!",
+     "name": "Missing You",
+     "copy": "Saturday is Tracey Thorn's 64th Birthday! From 'Missing' to 'Protection', her music is timeless. Send your birthday love to the Everything but the Girl legend! ✨",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "14:30",
      "tags": [
-      "#FolkMusic"
+      "#EverythingButTheGirl"
      ]
     }
    ]
