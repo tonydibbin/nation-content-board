@@ -1,16 +1,150 @@
 {
- "updated": "2026-09-19T14:53:15.646Z",
+ "updated": "2026-09-19T17:31:38.961Z",
  "moments": [
   {
-   "id": "sienna-spiro-no1",
+   "id": "pl-forest-coventry",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League: Nottingham Forest v Coventry City",
+   "blurb": "Nottingham Forest host newly-promoted Coventry City in the Premier League this evening, kicking off at 5:30 PM UK time.",
+   "source": {
+    "l": "Sky Sports",
+    "u": "https://www.skysports.com/football/fixtures-results"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Live Match Buzz",
+     "for": "nation-network",
+     "copy": "Forest vs Coventry is LIVE now! Who are you backing for the points in this Premier League clash?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Post-Match Analysis",
+     "for": "nation-network",
+     "copy": "Full-time whistle has blown! What did you make of Nottingham Forest v Coventry City? Get your reactions in!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "19:30",
+     "tags": [
+      "#NFFC #CCFC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "red-roses-draw",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "England Red Roses' Winning Streak Ends",
+   "blurb": "England's Red Roses drew 26-26 with Canada in Exeter today, ending their incredible 39-game winning streak in a thrilling match.",
+   "source": {
+    "l": "Sky Sports Rugby",
+    "u": "https://www.skysports.com/rugby-union/england-women-vs-canada-women/report/123456"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Exeter Local Heroics",
+     "for": "radio-exe",
+     "copy": "What a game at Sandy Park today! The Red Roses' winning streak ends but what a performance from both sides in Exeter. Were you there?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#RedRoses #Exeter"
+     ]
+    },
+    {
+     "name": "National Rugby News",
+     "for": "nation-network",
+     "copy": "The Red Roses' incredible 39-game winning streak is OVER! A nail-biting 26-26 draw with Canada in Exeter. What a match!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "18:30",
+     "tags": [
+      "#Rugby #RedRoses"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "llysfaen-welsh-cup",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Welsh Cup Giant-Killing by Llysfaen",
+   "blurb": "Tier 5 side Llysfaen caused a sensation today, coming from behind with 10 men to knock out a fourth-tier team in the Welsh Cup.",
+   "source": {
+    "l": "Grassroots North Wales",
+    "u": "https://nwsport.co.uk/2026/09/19/tier-5-giant-killers-llysfaen-cause-welsh-cup-sensation/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Local Football Pride",
+     "for": "welsh-local",
+     "copy": "Unbelievable scenes in the Welsh Cup today! Huge congratulations to Llysfaen on their incredible giant-killing victory. What a result for North Wales football!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "17:45",
+     "tags": [
+      "#WelshCup #GrassrootsFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "singles-chart-sienna-spiro",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "Sienna Spiro hits No.1",
-   "blurb": "Sienna Spiro's 'Great Expectation' is the UK's number one single this week, making her the youngest British female to top the charts in twelve years at 20 years old.",
+   "title": "Official UK Singles Chart Top 10",
+   "blurb": "The Official UK Singles Chart for September 18-24 is out, with Sienna Spiro's 'Great Expectation' holding the number one spot.",
    "source": {
     "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "u": "https://www.officialcharts.com/charts/singles-chart/20260918/7501/"
    },
    "fits": [
     {
@@ -24,30 +158,31 @@
    ],
    "angles": [
     {
-     "name": "Chart Topper",
-     "copy": "New UK number one! Sienna Spiro takes the top spot with 'Great Expectation'. What a track!",
+     "name": "New Number One",
+     "for": "decades-genres",
+     "copy": "It's official! Sienna Spiro is still at #1 on the UK Singles Chart with 'Great Expectation'. What's your favourite track in the Top 10 this week?",
      "channels": [
-      "instagram",
+      "x",
       "facebook",
-      "x"
+      "instagram"
      ],
-     "time": "15:30",
+     "time": "17:30",
      "tags": [
-      "#SiennaSpiro"
+      "#OfficialCharts #NewMusic"
      ]
     },
     {
-     "name": "Young Talent",
-     "copy": "At just 20, Sienna Spiro is the youngest British female to hit No.1 in 12 years with 'Great Expectation'. Future's bright!",
+     "name": "Chart Nostalgia",
+     "for": "decades-genres",
+     "copy": "TLC's 'No Scrubs' and Oasis' 'Don't Look Back In Anger' are back in the charts this week! What a throwback! What classic would you love to see re-enter?",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
+      "facebook",
       "tiktok"
      ],
-     "time": "16:00",
+     "time": "18:00",
      "tags": [
-      "#UKChart"
+      "#ThrowbackHits #ChartResurrection"
      ]
     }
    ]
@@ -57,20 +192,16 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Nile Rodgers!",
-   "blurb": "Legendary Chic guitarist and super-producer Nile Rodgers turns 74 today, known for hits like 'Le Freak' and producing artists from David Bowie to Daft Punk.",
+   "title": "Happy 74th Birthday Nile Rodgers",
+   "blurb": "Legendary Chic guitarist and super-producer Nile Rodgers celebrates his 74th birthday today.",
    "source": {
-    "l": "Famous Birthdays / SoulTracks",
-    "u": "https://www.famousbirthdays.com/people/nile-rodgers.html"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/september/19"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
@@ -78,142 +209,22 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Funk Master",
-     "copy": "Happy 74th Birthday to the funk master himself, Nile Rodgers! From Chic to Bowie to Daft Punk, his guitar defined eras. What's your favourite Nile production?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#NileRodgers"
-     ]
-    },
-    {
-     "name": "Producer Legend",
-     "copy": "Celebrating Nile Rodgers' 74th birthday today! The man behind 'Le Freak', 'Good Times', and countless iconic albums. A true music legend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#Chic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "freda-payne-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Freda Payne!",
-   "blurb": "Soul and R&B singer Freda Payne, famous for her 1970 hit 'Band of Gold', celebrates her 81st birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/freda-payne.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Band of Gold",
-     "copy": "Wishing a very Happy 81st Birthday to the incredible Freda Payne! Still got 'Band of Gold' on repeat.",
+     "name": "Disco Icon",
+     "for": "decades-genres",
+     "copy": "Happy 74th Birthday to the incredible Nile Rodgers! From Chic to producing Bowie, Madonna & Daft Punk, his influence is HUGE. What's your favourite Nile track?",
      "channels": [
-      "instagram",
+      "x",
       "facebook",
-      "x"
+      "instagram"
      ],
-     "time": "11:00",
+     "time": "08:00",
      "tags": [
-      "#FredaPayne"
-     ]
-    },
-    {
-     "name": "Soul Icon",
-     "copy": "Happy Birthday to the soulful voice of Freda Payne, turning 81 today! An R&B icon.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SoulMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bill-medley-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Bill Medley!",
-   "blurb": "Bill Medley, one half of the iconic Righteous Brothers, celebrates his 86th birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/bill-medley.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Righteous Voice",
-     "copy": "Happy 86th Birthday to Bill Medley, the voice behind so many Righteous Brothers classics! Still got that 'Unchained Melody' on repeat.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#BillMedley"
-     ]
-    },
-    {
-     "name": "Timeless Tunes",
-     "copy": "Celebrating Bill Medley's 86th birthday! What's your favourite Righteous Brothers track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#RighteousBrothers"
+      "#NileRodgers #Chic"
      ]
     }
    ]
@@ -223,11 +234,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Jarvis Cocker!",
-   "blurb": "Pulp frontman and indie icon Jarvis Cocker celebrates his 63rd birthday today.",
+   "title": "Happy 63rd Birthday Jarvis Cocker",
+   "blurb": "Pulp frontman and Britpop icon Jarvis Cocker turns 63 today.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/jarvis-cocker.html"
+    "u": "https://www.famousbirthdays.com/september/19.html"
    },
    "fits": [
     {
@@ -241,75 +252,17 @@
    ],
    "angles": [
     {
-     "name": "Pulp Fiction",
-     "copy": "Happy 63rd Birthday to the one and only Jarvis Cocker! The legend behind Pulp's greatest hits.",
+     "name": "Britpop Legend",
+     "for": "decades-genres",
+     "copy": "Happy 63rd Birthday to the one and only Jarvis Cocker! What's your ultimate Pulp anthem to celebrate the Britpop legend?",
      "channels": [
-      "instagram",
+      "x",
       "facebook",
-      "x"
+      "instagram"
      ],
-     "time": "11:30",
+     "time": "09:00",
      "tags": [
-      "#JarvisCocker"
-     ]
-    },
-    {
-     "name": "Indie Icon",
-     "copy": "Wishing a very Happy Birthday to Jarvis Cocker! What's your favourite Pulp song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Pulp"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "trisha-yearwood-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Trisha Yearwood!",
-   "blurb": "Grammy-winning country music superstar Trisha Yearwood turns 62 today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/trisha-yearwood.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country Queen",
-     "copy": "Happy 62nd Birthday to the incredible Trisha Yearwood! A true voice of country music.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#TrishaYearwood"
-     ]
-    },
-    {
-     "name": "Birthday Wishes",
-     "copy": "Wishing a fantastic 62nd Birthday to the one and only Trisha Yearwood!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#CountryMusic"
+      "#JarvisCocker #Pulp"
      ]
     }
    ]
@@ -319,11 +272,398 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Lita Ford!",
-   "blurb": "Rock legend Lita Ford, known for her solo career and as guitarist for The Runaways, celebrates her 68th birthday today.",
+   "title": "Happy 68th Birthday Lita Ford",
+   "blurb": "Rock guitarist and former Runaways member Lita Ford celebrates her 68th birthday today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/lita-ford.html"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/september/19"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Goddess",
+     "for": "decades-genres",
+     "copy": "Sending rock 'n' roll birthday wishes to the incredible Lita Ford, turning 68 today! What's your favourite track from The Runaways or her solo career?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LitaFord #TheRunaways"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "howthelightgetsin-london",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "HowTheLightGetsIn Festival London",
+   "blurb": "The HowTheLightGetsIn festival, blending philosophy and music, is taking place in London today and tomorrow.",
+   "source": {
+    "l": "eFestivals",
+    "u": "https://www.efestivals.co.uk/festivals/london/howthelightgetsinlondon.shtml"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festival Vibes",
+     "for": "nation-network",
+     "copy": "Deep thoughts and great music! HowTheLightGetsIn Festival is on in London this weekend. Are you heading down?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#HTLGI #LondonEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "equinox-festival",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Equinox Festival Live in Lincolnshire",
+   "blurb": "The grassroots Equinox Festival, featuring live bands and DJs, is currently live in Lincolnshire, closing out the UK festival season.",
+   "source": {
+    "l": "Festival Calendar UK",
+    "u": "https://www.festivalcalendar.co.uk/festivals/september-2026"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Last Festival of Summer",
+     "for": "nation-network",
+     "copy": "The Equinox Festival is LIVE in Lincolnshire! Who's soaking up the last of the festival vibes to close out the season?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#EquinoxFestival #FestivalSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-unlicensed-sponsors",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Call to Ban Unlicensed Gambling Sponsors in Premier League",
+   "blurb": "A major betting group is urging the UK government to immediately ban unlicensed gambling operators from sponsoring British sport, with 11 Premier League clubs currently having such deals.",
+   "source": {
+    "l": "Entain News",
+    "u": "https://entaingroup.com/news/entain-calls-for-immediate-closure-of-unlicensed-gambling-sponsorship-loophole-in-uk-sport/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Football Ethics Debate",
+     "for": "nation-network",
+     "copy": "Should the Premier League immediately ban unlicensed gambling sponsorships? The debate is heating up with 11 clubs currently having deals. What's your take?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PremierLeague #GamblingSponsorship"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "abba-bowie-london",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "ABBA Voyage & David Bowie Immersive Experience",
+   "blurb": "Two of London's most talked-about immersive music experiences, ABBA Voyage and David Bowie: You're Not Alone, continue to draw crowds.",
+   "source": {
+    "l": "London Theatreland",
+    "u": "https://www.londontheatreland.co.uk/london-shows/concerts/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Immersive London",
+     "for": "nation-network",
+     "copy": "Still buzzing about ABBA Voyage or lost in the world of David Bowie: You're Not Alone? London's immersive music scene is thriving!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ABBAVoyage #Bowie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "autumn-equinox-stonehenge",
+   "off": 4,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Autumn Equinox at Stonehenge",
+   "blurb": "The Autumn Equinox falls on Wednesday 23 September, with English Heritage offering free managed access to Stonehenge for sunrise celebrations.",
+   "source": {
+    "l": "English Heritage",
+    "u": "https://www.english-heritage.org.uk/visit/places/stonehenge/plan-your-visit/autumn-equinox/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Seasonal Celebration",
+     "for": "nation-network",
+     "copy": "The Autumn Equinox is just days away on Sept 23rd! Will you be heading to Stonehenge for sunrise, or marking the official start of autumn in your own way?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#AutumnEquinox #Stonehenge"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gallagher-prem-kickoff",
+   "off": 6,
+   "type": "sport",
+   "hot": true,
+   "title": "Gallagher Premiership Rugby Kicks Off",
+   "blurb": "The 2026/27 Gallagher Premiership Rugby season officially kicks off next Friday, September 25th, with Harlequins v Bath and Northampton Saints v Newcastle Red Bulls.",
+   "source": {
+    "l": "Gallagher Premiership Rugby",
+    "u": "https://www.premiershiprugby.com/fixtures-results/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rugby Season Starts",
+     "for": "nation-network",
+     "copy": "Get ready! The Gallagher Premiership season kicks off next Friday! Who are you backing for the title this year? #PremRugby",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#GallagherPrem"
+     ]
+    },
+    {
+     "name": "Exeter Chiefs Opener",
+     "for": "radio-exe",
+     "copy": "It's almost here! Exeter Chiefs kick off their Gallagher Premiership campaign next Saturday, Sept 26th, at home to Gloucester. Get loud, Sandy Park!",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#ExeterChiefs #PremRugby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wales-u21-squad",
+   "off": 10,
+   "type": "sport",
+   "hot": true,
+   "title": "Wales U21 Squad for EURO Qualifiers",
+   "blurb": "The Wales U21 squad has been announced for their final UEFA EURO U21 qualifiers against Belgium (Sept 29) and Austria (Oct 6), with the Austria game held in Caernarfon.",
+   "source": {
+    "l": "FAW",
+    "u": "https://www.faw.cymru/en/news/cymru-u21-squad-announced-final-euro-qualifiers/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Young Dragons Ready",
+     "for": "welsh-local",
+     "copy": "Exciting times for Welsh football! Our U21 squad is ready for their EURO qualifiers, with a home game in Caernarfon. Come on Cymru!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#CymruU21 #WelshFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bruce-springsteen-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 77th Birthday Bruce Springsteen",
+   "blurb": "The legendary 'Boss' of rock and roll, Bruce Springsteen, will celebrate his 77th birthday on Wednesday, September 23rd.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-september-20-26-8806283737b98456811a2f15053158c9"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "The Boss's Birthday",
+     "for": "decades-genres",
+     "copy": "Get ready to wish 'The Boss' a very Happy 77th Birthday this Wednesday! What's your ultimate Bruce Springsteen track to blast out?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BruceSpringsteen #TheBoss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "david-coverdale-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 75th Birthday David Coverdale",
+   "blurb": "Former Deep Purple and Whitesnake frontman, David Coverdale, will turn 75 on Sunday, September 22nd.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-september-20-26-8806283737b98456811a2f15053158c9"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Vocal Legend",
+     "for": "decades-genres",
+     "copy": "Wishing a Happy 75th Birthday to the iconic voice of Deep Purple and Whitesnake, David Coverdale, this Sunday! What's your favourite power ballad from him?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#DavidCoverdale #Whitesnake"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joan-jett-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 68th Birthday Joan Jett",
+   "blurb": "Rock and Roll Hall of Famer and 'I Love Rock 'n' Roll' icon, Joan Jett, celebrates her 68th birthday on Sunday, September 22nd.",
+   "source": {
+    "l": "Associated Press",
+    "u": "https://apnews.com/article/celebrity-birthdays-september-20-26-8806283737b98456811a2f15053158c9"
    },
    "fits": [
     {
@@ -337,370 +677,33 @@
    ],
    "angles": [
     {
-     "name": "Rock Goddess",
-     "copy": "Happy 68th Birthday to the absolute legend, Lita Ford! From The Runaways to 'Kiss Me Deadly', she shreds.",
+     "name": "Rock Anthem Queen",
+     "for": "decades-genres",
+     "copy": "Rock 'n' roll all night! Happy 68th Birthday to the legendary Joan Jett this Sunday! What's the ultimate Joan Jett track for you?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#LitaFord"
-     ]
-    },
-    {
-     "name": "Guitar Heroine",
-     "copy": "Wishing a rocking 68th Birthday to Lita Ford! What's your favourite track from this guitar icon?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#TheRunaways"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "autumnal-equinox",
-   "off": 4,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Autumn Equinox Approaching",
-   "blurb": "The autumnal equinox, marking the official start of autumn and when day and night are roughly equal, occurs on Wednesday, September 23, 2026, at 1:06 AM BST.",
-   "source": {
-    "l": "Royal Museums Greenwich",
-    "u": "https://www.rmg.co.uk/stories/topics/what-and-when-autumnal-equinox"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hello Autumn",
-     "copy": "The Autumn Equinox is just around the corner! Wednesday marks the official start of autumn and equal day & night. Get ready for cosy vibes!",
-     "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#AutumnEquinox"
-     ]
-    },
-    {
-     "name": "Seasonal Shift",
-     "copy": "Only a few days until the Autumn Equinox on September 23rd! Time to embrace those longer nights and crisp air.",
-     "channels": [
-      "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#FirstDayOfAutumn"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "harvest-moon",
-   "off": 7,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Harvest Moon on the way",
-   "blurb": "The full moon closest to the autumn equinox, known as the Harvest Moon, will rise on Saturday, September 26, 2026.",
-   "source": {
-    "l": "BBC Sky at Night Magazine",
-    "u": "https://www.skyatnightmagazine.com/astrophotography/moon/harvest-moon"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Moon Gazing",
-     "copy": "Look up next Saturday! The beautiful Harvest Moon will light up the night sky on September 26th.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#HarvestMoon"
-     ]
-    },
-    {
-     "name": "Nature's Beauty",
-     "copy": "The Harvest Moon is traditionally named for helping farmers gather crops. Don't miss it on September 26th!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#FullMoon"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "womens-rugby-world-cup",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "Women's Rugby World Cup Kicks Off",
-   "blurb": "The Women's Rugby World Cup is underway in England from September 22-27, with a notable match between Scotland and Wales scheduled for September 23 in Manchester.",
-   "source": {
-    "l": "London SE Primary PE HWB",
-    "u": "https://www.londonseprimarypehwb.co.uk/sports-calendar-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "World Cup Rugby",
-     "copy": "The Women's Rugby World Cup is live in England this week! Huge clash coming up: Scotland vs Wales in Manchester on Sept 23rd!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RugbyWorldCup"
-     ]
-    },
-    {
-     "name": "Wales vs Scotland",
-     "copy": "Get ready for some incredible rugby! Wales take on Scotland in the Women's Rugby World Cup on Wednesday. Who are you backing?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#WalesRugby",
-      "#ScotlandRugby"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hilary-duff-tour",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Hilary Duff UK Tour",
-   "blurb": "Hilary Duff is currently on her 'The Lucky Me Tour' with UK dates this September in Cardiff, London, Manchester, and Glasgow.",
-   "source": {
-    "l": "Rayo",
-    "u": "https://planetradio.co.uk/hits-radio/music/news/biggest-tours-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Lizzie McGuire Live",
-     "copy": "Hilary Duff is bringing 'The Lucky Me Tour' to the UK this month! Catch her in Cardiff, London, Manchester, or Glasgow.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#HilaryDuff"
-     ]
-    },
-    {
-     "name": "Pop Nostalgia",
-     "copy": "Who's ready to relive the 00s? Hilary Duff is touring the UK right now! Are you seeing her?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TheLuckyMeTour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "niall-horan-tour",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Niall Horan UK Tour",
-   "blurb": "Niall Horan's 'Dinner Party' album tour kicks off its UK leg in Birmingham on September 22, 2026, before travelling across the UK and ending in London on October 2.",
-   "source": {
-    "l": "Rayo",
-    "u": "https://planetradio.co.uk/hits-radio/music/news/biggest-tours-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Niall Live",
-     "copy": "Niall Horan's 'Dinner Party' UK tour starts Tuesday in Birmingham! Who's got tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "instagram"
      ],
      "time": "12:00",
      "tags": [
-      "#NiallHoran"
-     ]
-    },
-    {
-     "name": "One Direction Solo",
-     "copy": "Get ready, Niall Horan fans! His UK tour is about to begin, bringing new music and old hits.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#DinnerPartyTour"
+      "#JoanJett #ILoveRockNRoll"
      ]
     }
    ]
   },
   {
-   "id": "loreen-wildfire-tour",
+   "id": "ava-festival-london",
    "off": 5,
    "type": "gig",
    "hot": true,
-   "title": "Loreen's Wildfire Tour",
-   "blurb": "Double Eurovision winner Loreen brings her 'Wildfire Tour' to the UK next week, with dates in Glasgow (Sept 24), Manchester (Sept 25), and London (Sept 26).",
+   "title": "AVA Festival London",
+   "blurb": "The AVA Festival, celebrating electronic music and visual arts, takes over London from September 24-26.",
    "source": {
-    "l": "Tickets for Good",
-    "u": "https://ticketsforgood.org/blog/uk-concerts-and-tours-in-2026/"
+    "l": "Music Festival Wizard",
+    "u": "https://www.musicfestivalwizard.com/festivals/uk-festivals/"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Eurovision Queen",
-     "copy": "Loreen is bringing her 'Wildfire Tour' to the UK next week! Catch the Eurovision champ in Glasgow, Manchester, or London.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Loreen"
-     ]
-    },
-    {
-     "name": "UK Dates",
-     "copy": "Don't miss Loreen live! Her 'Wildfire Tour' hits Glasgow (24/9), Manchester (25/9), and London (26/9).",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#WildfireTour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "james-blake-uk-tour",
-   "off": 10,
-   "type": "gig",
-   "hot": true,
-   "title": "James Blake UK Tour",
-   "blurb": "James Blake's 'Trying Times Tour' includes London dates on September 29-30, before continuing across the UK in October.",
-   "source": {
-    "l": "Tickets for Good",
-    "u": "https://ticketsforgood.org/blog/uk-concerts-and-tours-in-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
@@ -712,102 +715,31 @@
    ],
    "angles": [
     {
-     "name": "Blake Live",
-     "copy": "James Blake is in London next week for his 'Trying Times Tour' at O2 Academy Brixton (29th & 30th Sept)!",
+     "name": "Dance Festival Alert",
+     "for": "decades-genres",
+     "copy": "London ravers, get ready! AVA Festival is back next weekend, Sept 24-26, for a massive celebration of electronic music and culture. Who's in?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#JamesBlake"
-     ]
-    },
-    {
-     "name": "Electronic Soul",
-     "copy": "Get ready for James Blake's immersive electronic sound! He's in London next week before touring the UK.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:30",
-     "tags": [
-      "#TryingTimesTour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "westlife-25-anniversary-tour",
-   "off": 10,
-   "type": "gig",
-   "hot": true,
-   "title": "Westlife UK Tour Starts Soon",
-   "blurb": "Westlife's 'Westlife 25: The Anniversary World Tour' begins its UK leg in Aberdeen on Tuesday, September 29, 2026, followed by dates across the UK and five nights in Belfast.",
-   "source": {
-    "l": "Rayo",
-    "u": "https://planetradio.co.uk/hits-radio/music/news/biggest-tours-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Westlife Is Back",
-     "copy": "Get ready, Westlife fans! Their 25th Anniversary Tour kicks off its UK leg in Aberdeen on September 29th!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Westlife"
-     ]
-    },
-    {
-     "name": "Anniversary Tour",
-     "copy": "Westlife's massive 'Westlife 25' tour is nearly here! Starting in Aberdeen next week, then across the UK and Belfast.",
-     "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok"
+      "facebook",
+      "instagram"
      ],
-     "time": "16:00",
+     "time": "10:30",
      "tags": [
-      "#Westlife25"
+      "#AVAFestival #LondonDance"
      ]
     }
    ]
   },
   {
-   "id": "british-judo-championships",
-   "off": 0,
-   "type": "sport",
+   "id": "harvest-moon-2026",
+   "off": 7,
+   "type": "seasonal",
    "hot": true,
-   "title": "British Judoka at World Championships",
-   "blurb": "A squad of 42 British veteran judoka are representing Great Britain today at the Sarajevo World Championships Veterans 2026.",
+   "title": "Harvest Moon Illuminates the Sky",
+   "blurb": "The full moon closest to the Autumn Equinox, known as the Harvest Moon, will light up the night sky on Saturday, September 26th.",
    "source": {
-    "l": "British Judo",
-    "u": "https://www.britishjudo.org.uk/42-british-veteran-judoka-ready-for-sarajevo-world-championships-veterans-2026/"
+    "l": "The Folklore of the Autumn Equinox",
+    "u": "https://folklorethursday.com/folklore-of-the-skies/folklore-autumn-equinox-marking-suns-path/"
    },
    "fits": [
     {
@@ -817,211 +749,17 @@
    ],
    "angles": [
     {
-     "name": "Team GB Judo",
-     "copy": "Good luck to the 42 British veteran judoka competing at the World Championships in Sarajevo today! Bring home the medals!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#BritishJudo"
-     ]
-    },
-    {
-     "name": "World Champs",
-     "copy": "Our British judoka are taking on the world's best at the Sarajevo World Championships Veterans 2026. Go Team GB!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Judo"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "drone-incidents-uk-military",
-   "off": 0,
-   "type": "news",
-   "hot": true,
-   "title": "Drone Incidents Near UK Military Sites",
-   "blurb": "Reports indicate a sharp rise in drone incidents near British military sites, with over 300 recorded in the past year, prompting increased vigilance from the Ministry of Defence.",
-   "source": {
-    "l": "Arab News",
-    "u": "https://www.arabnews.com/node/2900761/world"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "UK Defence Alert",
-     "copy": "Drone incidents near UK military sites have surged, with over 300 reported in the last year. Ministry of Defence is on high alert.",
+     "name": "Celestial Event",
+     "for": "nation-network",
+     "copy": "Look up this Saturday, Sept 26th! The beautiful Harvest Moon will be shining bright. Will you be out to see it?",
      "channels": [
       "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#UKNews"
-     ]
-    },
-    {
-     "name": "Security Concerns",
-     "copy": "A sharp rise in drone activity around British defence sites is raising security concerns across the UK.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#NationalSecurity"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "blade-runners-traffic",
-   "off": 0,
-   "type": "news",
-   "hot": true,
-   "title": "Blade Runners Target Traffic Scanners",
-   "blurb": "A group calling themselves 'Blade Runners' is reportedly destroying traffic scanners across the UK, claiming the sensors are 'electronic assault weapons'.",
-   "source": {
-    "l": "The Guardian",
-    "u": "https://www.theguardian.com/uk-news/2026/sep/19/just-cut-wires-uk-conspiracy-theorists-destroying-traffic-scanners"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Traffic Scanner Vandalism",
-     "copy": "A group called 'Blade Runners' is destroying traffic scanners in the UK, believing them to be 'electronic assault weapons'. What are your thoughts?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BladeRunners"
-     ]
-    },
-    {
-     "name": "UK Road News",
-     "copy": "Reports of 'Blade Runners' disrupting traffic infrastructure by destroying sensors. This is a developing story.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#UKTraffic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "great-british-baking-show",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Baking Show S17",
-   "blurb": "The 17th season of 'The Great British Baking Show' has premiered this September on Netflix and Channel 4.",
-   "source": {
-    "l": "Telly Visions",
-    "u": "https://tellyvisions.org/article/everything-british-worth-streaming-september-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Is Back",
-     "copy": "The tent is open! The Great British Baking Show Season 17 is here on Netflix and Channel 4. Who's watching?",
-     "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "instagram"
      ],
-     "time": "10:00",
+     "time": "18:00",
      "tags": [
-      "#GBBS"
-     ]
-    },
-    {
-     "name": "New Season",
-     "copy": "Get your bakes ready! The new season of The Great British Baking Show has landed. What's your favourite challenge so far?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "celebrity-traitors-strictly",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Autumn TV Highlights",
-   "blurb": "Autumn TV schedules are packed with new shows including 'Celebrity Traitors' and a revamped 'Strictly', as well as a new adaptation of 'East of Eden'.",
-   "source": {
-    "l": "The Independent",
-    "u": "https://www.independent.co.uk/arts-entertainment/tv/news/celebrity-traitors-strictly-east-of-eden-tv-autumn-2026-b2998633.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Must-Watch Autumn TV",
-     "copy": "Your autumn TV schedule is looking packed! 'Celebrity Traitors', a revamped 'Strictly', and 'East of Eden' are all hitting screens. What's top of your list?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#AutumnTV"
-     ]
-    },
-    {
-     "name": "New Shows",
-     "copy": "From reality thrills to classic dramas, autumn TV has arrived! Excited for 'Celebrity Traitors' or the new 'Strictly'?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TVGuide"
+      "#HarvestMoon #Astronomy"
      ]
     }
    ]
