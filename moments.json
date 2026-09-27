@@ -1,31 +1,27 @@
 {
- "updated": "2026-09-27T02:41:44.161Z",
+ "updated": "2026-09-27T08:38:04.526Z",
  "moments": [
   {
-   "id": "lil-wayne-bday",
+   "id": "f1-azerbaijan-gp-wrap",
    "off": 0,
-   "type": "birthday",
+   "type": "sport",
    "hot": true,
-   "title": "Lil Wayne turns 44",
-   "blurb": "The influential American rapper, singer, and songwriter Lil Wayne celebrates his 44th birthday today.",
+   "title": "F1 Azerbaijan Grand Prix wrap-up",
+   "blurb": "The Formula 1 Azerbaijan Grand Prix took place over the weekend, concluding yesterday, with attention now turning to the upcoming Bahrain Grand Prix.",
    "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Lil_Wayne"
+    "l": "F1 Official",
+    "u": "https://www.formula1.com/en/racing/2026/Azerbaijan.html"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Modern Rap Icon",
-     "copy": "Happy 44th birthday to the one and only Lil Wayne! Still dropping hits and influencing a generation. What's your favourite Weezy track?",
+     "name": "Race Recap",
+     "copy": "Did you catch the drama from Baku? The Azerbaijan Grand Prix delivered big over the weekend, setting the stage for the next race. Who were your winners and losers?",
      "channels": [
       "instagram",
       "facebook",
@@ -33,14 +29,63 @@
       "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "09:00",
      "tags": [
-      "#LilWayne"
+      "#F1",
+      "#AzerbaijanGP"
      ]
     },
     {
-     "name": "Chart Dominator",
-     "copy": "From 'Lollipop' to his latest projects, Lil Wayne turns 44 today! We're celebrating the rap superstar all day.",
+     "name": "Next Race Preview",
+     "copy": "From the Caspian Sea to the Persian Gulf! F1 heads to Bahrain next weekend (Oct 2-4). Are you ready for another dose of high-speed action?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#F1",
+      "#BahrainGP"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rugby-international-review",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "International Rugby action",
+   "blurb": "Yesterday saw a host of international rugby matches, including the Red Roses taking on New Zealand in the WXV Global Series and other international fixtures.",
+   "source": {
+    "l": "RugbyPass",
+    "u": "https://www.rugbypass.com/fixtures/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Red Roses Review",
+     "copy": "The Red Roses clashed with New Zealand yesterday in the WXV series! What did you make of the performance? Still buzzing from the action!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#RedRoses",
+      "#WXV"
+     ]
+    },
+    {
+     "name": "Weekend Rugby Wrap",
+     "copy": "From the Premiership to international clashes, it was a huge weekend for rugby. Any standout moments or surprise results for you?",
      "channels": [
       "instagram",
       "facebook",
@@ -48,7 +93,324 @@
      ],
      "time": "13:00",
      "tags": [
-      "#Weezy"
+      "#Rugby",
+      "#GallagherPrem"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "diwali-story-musical",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Diwali Story: A Musical at Wembley",
+   "blurb": "Today, 'Diwali Story: A Musical' takes over the OVO Arena Wembley for one night, featuring original songs, choreographed dances, and stunning visuals.",
+   "source": {
+    "l": "OVO Arena Wembley",
+    "u": "https://www.ovoarena.co.uk/events/detail/diwali-story-a-musical"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cultural Spectacle",
+     "copy": "Experience the magic of 'Diwali Story: A Musical' at OVO Arena Wembley tonight! A vibrant celebration of Indian culture with live music and dance.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#DiwaliStory",
+      "#Wembley"
+     ]
+    },
+    {
+     "name": "One Night Only",
+     "copy": "Wembley hosts a truly special event tonight! 'Diwali Story: A Musical' brings an unforgettable cultural journey to London. Are you going?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Diwali",
+      "#LondonEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-weller-london",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Paul Weller live in London",
+   "blurb": "The Modfather, Paul Weller, is playing a live show at The Scala in London tonight.",
+   "source": {
+    "l": "JamBase",
+    "u": "https://www.jambase.com/concerts/united-kingdom/london/paul-weller-tickets"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Modfather Live",
+     "copy": "Paul Weller is hitting The Scala in London tonight! Get ready for a night of iconic tracks and pure Modfather energy. Who's in?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#PaulWeller",
+      "#TheJam"
+     ]
+    },
+    {
+     "name": "Weller in London",
+     "copy": "Tonight's the night for Paul Weller fans in London! Expect a setlist packed with classics and new favourites. What's your must-hear Weller track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:30",
+     "tags": [
+      "#PaulWellerLive",
+      "#LondonGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-come-dancing-live",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing live shows continue",
+   "blurb": "The live shows for the 24th series of Strictly Come Dancing kicked off yesterday with new hosts Emma Willis, Josh Widdicombe, and Johannes Radebe, but no elimination this week.",
+   "source": {
+    "l": "BBC One",
+    "u": "https://www.bbc.co.uk/programmes/b006m8dq"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly Kicks Off",
+     "copy": "Strictly's live shows are officially underway with a brand new judging panel! Who impressed you most on the dancefloor last night?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#Strictly",
+      "#StrictlyComeDancing"
+     ]
+    },
+    {
+     "name": "No Elimination Week 1",
+     "copy": "No eliminations on Strictly this week, giving our celebs a second chance to shine! Who are you rooting for after the first dances?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Strictly2026",
+      "#Ballroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "great-british-bake-off-s17",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off Series 17",
+   "blurb": "The 17th series of The Great British Bake Off premiered on September 22nd, with Nigella Lawson joining Paul Hollywood as a new judge.",
+   "source": {
+    "l": "Channel 4",
+    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Bake Off Judge",
+     "copy": "Nigella Lawson is in the Bake Off tent! The new series of GBBO is underway – what do you think of the new judging line-up?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#GBBO",
+      "#BakeOff"
+     ]
+    },
+    {
+     "name": "Biscuit Week Incoming",
+     "copy": "After a dramatic first week, it's Biscuit Week next on Bake Off! What's your go-to biscuit bake?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#BiscuitWeek",
+      "#GreatBritishBakeOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-sienna-spiro",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Sienna Spiro tops UK Singles Chart",
+   "blurb": "Sienna Spiro's 'Great Expectation' is the current number one on the Official UK Singles Chart for the week ending October 1, 2026.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Chart Topper",
+     "copy": "Huge congrats to Sienna Spiro! 'Great Expectation' is officially the UK's No.1 single. What a track!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#OfficialCharts",
+      "#Number1"
+     ]
+    },
+    {
+     "name": "Spiro's Reign",
+     "copy": "Sienna Spiro is sitting pretty at the top of the Official Singles Chart! Are you loving the new No.1?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#SiennaSpiro",
+      "#GreatExpectation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "autumn-equinox-seasonal",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Autumn is officially here",
+   "blurb": "Astronomical autumn officially began on September 23rd, bringing shorter days and the beautiful colours of the season across the UK.",
+   "source": {
+    "l": "Met Office",
+    "u": "https://www.metoffice.gov.uk/weather/learn-about/weather/seasons/autumn/when-does-autumn-start"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Autumn Vibes",
+     "copy": "Crisp air, changing leaves, and pumpkin spice everything! Autumn is well and truly here. What's your favourite thing about the season?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Autumn",
+      "#AutumnVibes"
+     ]
+    },
+    {
+     "name": "Cosy Season",
+     "copy": "The days are getting shorter and the nights are drawing in – perfect excuse for cosy nights! What's your ultimate autumn comfort?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#Autumn2026",
+      "#CosySeason"
      ]
     }
    ]
@@ -58,11 +420,11 @@
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Avril Lavigne is 42",
-   "blurb": "Canadian pop-punk icon Avril Lavigne, known for hits like 'Complicated' and 'Sk8er Boi', celebrates her 42nd birthday today.",
+   "title": "Happy 42nd Birthday, Avril Lavigne",
+   "blurb": "Canadian pop-punk icon Avril Lavigne, known for hits like 'Complicated' and 'Sk8er Boi', turns 42 today.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Avril_Lavigne"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september27.html"
    },
    "fits": [
     {
@@ -71,271 +433,121 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 00s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
      "name": "Pop-Punk Princess",
-     "copy": "Can you believe Avril Lavigne is 42 today?! Still rocking our playlists with those iconic anthems. What's your go-to Avril song?",
+     "copy": "Sk8er Boi turns 42! Happy Birthday to the one and only Avril Lavigne! What's your favourite track from the pop-punk princess?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "tiktok",
+      "threads"
      ],
-     "time": "09:30",
+     "time": "08:00",
      "tags": [
-      "#AvrilLavigne"
+      "#AvrilLavigne",
+      "#HappyBirthdayAvril"
      ]
     },
     {
-     "name": "Sk8er Boi vibes",
-     "copy": "Wishing a very happy 42nd birthday to the queen of pop-punk, Avril Lavigne! Ready to blast some early 2000s throwbacks.",
+     "name": "Avril's Influence",
+     "copy": "Celebrating Avril Lavigne's 42nd birthday today! Her music defined a generation. What's her most iconic song for you?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "12:00",
      "tags": [
+      "#Avril42",
       "#PopPunk"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-action",
-   "off": 0,
-   "type": "sport",
+   "id": "sienna-spiro-bday",
+   "off": 1,
+   "type": "birthday",
    "hot": true,
-   "title": "Premier League weekend reaction",
-   "blurb": "The Premier League weekend fixtures have concluded, leaving fans with plenty to discuss and look forward to in the midweek games.",
+   "title": "Happy 20th Birthday, Sienna Spiro",
+   "blurb": "Rising pop star Sienna Spiro, who currently holds the UK No.1 single, turns 20 tomorrow.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/september28.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Match Day Buzz",
-     "copy": "Another Premier League weekend done! Who's still buzzing from their team's performance? And what about those midweek fixtures?",
+     "name": "Chart Topper's Birthday",
+     "copy": "Tomorrow, our current UK No.1 artist, Sienna Spiro, celebrates her 20th birthday! Huge week for her! 🎉",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Midweek Ahead",
-     "copy": "Still digesting the weekend's Premier League drama? Get ready, because midweek action is just around the corner! Predictions?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#PL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "official-singles-chart",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Who's topping the UK Singles Chart?",
-   "blurb": "The Official UK Singles Chart was updated on Friday, with new entries battling for the top spot and established hits holding strong.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Showdown",
-     "copy": "New music Friday may be over, but the Official UK Singles Chart battle continues! Who do you think is number one this week?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#UKChart"
-     ]
-    },
-    {
-     "name": "Your Top Pick",
-     "copy": "What's the one song you can't stop listening to from the latest UK Singles Chart? Tell us your current obsession!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "halsey-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Halsey's 32nd Birthday",
-   "blurb": "American singer-songwriter Halsey, known for their genre-bending pop and alternative hits, celebrates their 32nd birthday on Tuesday.",
-   "source": {
-    "l": "Wikipedia / Famous Birthdays",
-    "u": "https://en.wikipedia.org/wiki/Halsey_(singer)"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Halsey",
-     "copy": "Wishing a very happy 32nd birthday to the incredible Halsey on Tuesday! What's your favourite track from their amazing discography?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Halsey"
-     ]
-    },
-    {
-     "name": "Alternative Pop Queen",
-     "copy": "From 'Without Me' to 'Bad at Love', Halsey turns 32 this week! Celebrate with us by streaming their biggest hits.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HalseyBirthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "johnny-mathis-bday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Johnny Mathis turns 91",
-   "blurb": "The legendary American singer Johnny Mathis, celebrated for his smooth vocals and romantic ballads, will celebrate his 91st birthday on Wednesday.",
-   "source": {
-    "l": "Wikipedia / Johnny Mathis Official",
-    "u": "https://en.wikipedia.org/wiki/Johnny_Mathis"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Velvet Voice",
-     "copy": "Wishing a very happy 91st birthday to the iconic Johnny Mathis this Wednesday! Still swooning over his timeless classics.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#JohnnyMathis"
-     ]
-    },
-    {
-     "name": "Timeless Crooner",
-     "copy": "Celebrate 91 years of incredible music with Johnny Mathis this week. Which of his legendary love songs is your favourite?",
-     "channels": [
-      "facebook",
-      "x"
      ],
      "time": "16:00",
      "tags": [
-      "#ClassicHits"
+      "#SiennaSpiro",
+      "#HappyBirthday"
+     ]
+    },
+    {
+     "name": "Rising Star",
+     "copy": "Turning 20 with a No.1 single! Sienna Spiro's birthday is tomorrow. What's your favourite track from her?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#PopStar",
+      "#Birthday"
      ]
     }
    ]
   },
   {
-   "id": "youssou-ndour-bday",
-   "off": 4,
-   "type": "birthday",
+   "id": "carmarthen-steam-rally",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Youssou N'Dour is 67",
-   "blurb": "The influential Senegalese singer, songwriter, and politician Youssou N'Dour, who popularised Mbalax music, celebrates his 67th birthday on Thursday.",
+   "title": "Autumn Steam Rally & Country Fayre in Carmarthenshire",
+   "blurb": "The Autumn Steam Rally & Country Fayre at Pembrey Country Park, Carmarthenshire, concludes today, featuring steam engines, miniature railway rides, and craft stalls.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Youssou_N%27Dour"
+    "l": "Discover Carmarthenshire",
+    "u": "https://www.discovercarmarthenshire.com/listings/autumn-steam-rally-country-fayre/"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "World Music Pioneer",
-     "copy": "Happy 67th birthday to the incredible Youssou N'Dour on Thursday! A true global music icon.",
+     "name": "Last Day for Steam",
+     "copy": "It's the final day for the Autumn Steam Rally & Country Fayre at Pembrey Country Park! Don't miss the engines, crafts, and fun. #Carmarthenshire",
      "channels": [
       "instagram",
       "facebook",
@@ -343,129 +555,70 @@
      ],
      "time": "10:00",
      "tags": [
-      "#YoussouNDour"
+      "#SteamRally",
+      "#Pembrey"
      ]
     },
     {
-     "name": "Senegalese Legend",
-     "copy": "Celebrating the life and music of Youssou N'Dour, who turns 67 this week. His collaborations and solo work are legendary.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#WorldMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "sting-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Sting turns 75",
-   "blurb": "English musician, singer, and songwriter Sting, frontman of The Police and a successful solo artist, will celebrate his 75th birthday on Friday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Sting"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock & Pop Icon",
-     "copy": "Wishing a very happy 75th birthday to the legendary Sting this Friday! From The Police to his solo career, a true musical genius.",
+     "name": "Family Fun in Carms",
+     "copy": "Looking for family fun in Carmarthenshire today? Head to Pembrey Country Park for the last day of the Steam Rally and Country Fayre!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:30",
+     "time": "12:00",
      "tags": [
-      "#Sting"
-     ]
-    },
-    {
-     "name": "Every Little Thing",
-     "copy": "Celebrate Sting's 75th with us this week! What's your favourite track from his incredible career?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#ThePolice"
+      "#CarmarthenshireEvents",
+      "#FamilyDay"
      ]
     }
    ]
   },
   {
-   "id": "don-mclean-bday",
-   "off": 5,
-   "type": "birthday",
+   "id": "exeter-dolls-house-fair",
+   "off": 0,
+   "type": "culture",
    "hot": true,
-   "title": "Don McLean is 81",
-   "blurb": "American singer-songwriter Don McLean, known for the classic 'American Pie', celebrates his 81st birthday on Friday.",
+   "title": "Dolls House & Miniatures Fair in Exeter",
+   "blurb": "Westpoint Exeter is hosting the Dolls House & Miniatures Fair today, a popular event for enthusiasts and collectors.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Don_McLean"
+    "l": "Westpoint Exeter",
+    "u": "https://www.westpoint.org.uk/whats-on/dolls-house-miniatures-fair"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "American Troubadour",
-     "copy": "Happy 81st birthday to the legendary Don McLean this Friday! The man behind 'American Pie' and so many other timeless songs.",
+     "name": "Miniature Wonders",
+     "copy": "Tiny treasures await! The Dolls House & Miniatures Fair is at Westpoint Exeter today. A must-visit for collectors and curious minds alike. #Exeter",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:30",
+     "time": "10:30",
      "tags": [
-      "#DonMcLean"
+      "#DollsHouse",
+      "#Miniatures"
      ]
     },
     {
-     "name": "The Day The Music Lived",
-     "copy": "We're celebrating Don McLean's 81st birthday this week! What's your favourite story or memory associated with 'American Pie'?",
+     "name": "Exeter Event Today",
+     "copy": "Something unique happening in Exeter today! Explore intricate worlds at the Dolls House & Miniatures Fair at Westpoint. Who's going?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:00",
+     "time": "13:00",
      "tags": [
-      "#AmericanPie"
+      "#ExeterEvents",
+      "#Westpoint"
      ]
     }
    ]
@@ -475,11 +628,11 @@
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Gwen Stefani turns 57",
-   "blurb": "American singer, songwriter, and fashion designer Gwen Stefani, lead vocalist of No Doubt and a successful solo artist, celebrates her 57th birthday on Saturday.",
+   "title": "Happy 57th Birthday, Gwen Stefani",
+   "blurb": "Pop icon Gwen Stefani, known for her work with No Doubt and successful solo career, will celebrate her 57th birthday on October 3rd.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Gwen_Stefani"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/october3.html"
    },
    "fits": [
     {
@@ -497,139 +650,225 @@
    ],
    "angles": [
     {
-     "name": "No Doubt About It",
-     "copy": "Happy 57th birthday to the incredible Gwen Stefani this Saturday! From No Doubt to solo stardom, she always delivers.",
+     "name": "No Doubt, She's 57!",
+     "copy": "Gwen Stefani turns 57 on October 3rd! From No Doubt to solo stardom, she's a true legend. What's your favourite Gwen track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "tiktok",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#GwenStefani"
+      "#GwenStefani",
+      "#HappyBirthday"
      ]
     },
     {
-     "name": "Hollaback Girl",
-     "copy": "Celebrating Gwen Stefani's 57th this week! What's your favourite era of her music?",
+     "name": "Still Shining",
+     "copy": "Get ready to celebrate Gwen Stefani's birthday on Thursday! Her influence on music and fashion is undeniable. What's your favourite Gwen era?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#NoDoubt"
+      "#NoDoubt",
+      "#Gwen57"
      ]
     }
    ]
   },
   {
-   "id": "tommy-lee-bday",
-   "off": 6,
-   "type": "birthday",
+   "id": "niall-horan-o2",
+   "off": 5,
+   "type": "gig",
    "hot": true,
-   "title": "Tommy Lee is 64",
-   "blurb": "American musician and drummer Tommy Lee, co-founder of Mötley Crüe, celebrates his 64th birthday on Saturday.",
+   "title": "Niall Horan at The O2",
+   "blurb": "Former One Direction star Niall Horan is set to play The O2 Arena in London on October 2nd and 3rd.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Tommy_Lee"
+    "l": "The O2",
+    "u": "https://www.theo2.co.uk/events/detail/niall-horan-2026"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation 10s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 20s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Drumming Legend",
-     "copy": "Happy 64th birthday to the one and only Tommy Lee this Saturday! The Mötley Crüe legend still knows how to rock.",
+     "name": "Niall Takes The O2",
+     "copy": "Niall Horan is heading to The O2 this week! Who's excited to see him live on October 2nd and 3rd?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#NiallHoran",
+      "#TheO2"
+     ]
+    },
+    {
+     "name": "Solo Star Live",
+     "copy": "Get ready, London! Niall Horan brings his solo hits to The O2 this Friday and Saturday. What song are you hoping to hear?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "15:30",
      "tags": [
-      "#TommyLee"
+      "#NiallHoranLive",
+      "#LondonGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "carmarthen-beer-festival",
+   "off": 4,
+   "type": "culture",
+   "hot": true,
+   "title": "Carmarthenshire Beer & Cider Festival",
+   "blurb": "The 30th Carmarthenshire Beer & Cider Festival kicks off on October 1st, offering over 40 cask ales and ciders from across the UK.",
+   "source": {
+    "l": "What's On in Carmarthen",
+    "u": "https://www.whatsonincarmarthen.co.uk/carmarthenshire-beer-cider-festival-2026-30th-anniversary/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cheers to 30 Years!",
+     "copy": "The Carmarthenshire Beer & Cider Festival celebrates its 30th anniversary starting October 1st! Over 40 ales and ciders to try. Who's joining?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Carmarthenshire",
+      "#BeerFestival"
      ]
     },
     {
-     "name": "Crüe through and through",
-     "copy": "Raise a glass to Tommy Lee, who turns 64 this weekend! What's your favourite Mötley Crüe anthem?",
+     "name": "Local Brews",
+     "copy": "Get ready to sample the best of Welsh and UK ciders and beers at the Carmarthenshire Beer & Cider Festival, starting Thursday!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "16:00",
      "tags": [
-      "#MotleyCrue"
+      "#WelshCider",
+      "#CraftBeer"
      ]
     }
    ]
   },
   {
-   "id": "susan-sarandon-bday",
+   "id": "leigh-anne-pinnock-bday",
    "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Susan Sarandon turns 80",
-   "blurb": "The acclaimed American actress and activist Susan Sarandon will celebrate her 80th birthday on Sunday.",
+   "title": "Happy 34th Birthday, Leigh-Anne Pinnock",
+   "blurb": "Little Mix star Leigh-Anne Pinnock, known for her powerful vocals and solo career, celebrates her 34th birthday on October 4th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Susan_Sarandon"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/october4.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 10s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 20s"
     }
    ],
    "angles": [
     {
-     "name": "Acting Icon",
-     "copy": "Wishing a very happy 80th birthday to the legendary Susan Sarandon this Sunday! A powerhouse on screen for decades.",
+     "name": "Little Mix Star's Birthday",
+     "copy": "Leigh-Anne Pinnock turns 34 on Sunday! The Little Mix star and solo artist continues to shine. What's your favourite Leigh-Anne moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LeighAnnePinnock",
+      "#HappyBirthday"
+     ]
+    },
+    {
+     "name": "Celebrating Leigh-Anne",
+     "copy": "Wishing a very Happy 34th Birthday to Leigh-Anne Pinnock this Sunday! Her talent is undeniable. What's your favourite Little Mix track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "14:00",
      "tags": [
-      "#SusanSarandon"
-     ]
-    },
-    {
-     "name": "Filmography Flashback",
-     "copy": "From 'Thelma & Louise' to 'Dead Man Walking', Susan Sarandon hits 80 this week. What's your favourite role of hers?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#HollywoodLegend"
+      "#LittleMix",
+      "#LeighAnne"
      ]
     }
    ]
   },
   {
-   "id": "bob-geldof-bday",
+   "id": "brian-johnson-bday",
    "off": 8,
    "type": "birthday",
    "hot": true,
-   "title": "Bob Geldof is 75",
-   "blurb": "Irish singer-songwriter, activist, and Boomtown Rats frontman Bob Geldof will celebrate his 75th birthday next Monday.",
+   "title": "Happy 79th Birthday, Brian Johnson",
+   "blurb": "AC/DC frontman Brian Johnson, whose iconic voice has powered rock anthems for decades, will celebrate his 79th birthday on October 5th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bob_Geldof"
+    "l": "Music History Events",
+    "u": "https://www.songfacts.com/thisdayinmusic/october/5"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
@@ -637,134 +876,37 @@
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Live Aid Legend",
-     "copy": "Happy 75th birthday to the incredible Bob Geldof next Monday! From The Boomtown Rats to Live Aid, a true force.",
+     "name": "Rock Legend's Birthday",
+     "copy": "He's got the power! AC/DC's Brian Johnson turns 79 on Monday. What's your favourite AC/DC track with Brian on vocals?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "08:00",
+     "time": "09:00",
      "tags": [
-      "#BobGeldof"
+      "#BrianJohnson",
+      "#ACDC"
      ]
     },
     {
-     "name": "I Don't Like Mondays",
-     "copy": "Celebrating 75 years of Bob Geldof this week! What's your favourite Boomtown Rats classic?",
+     "name": "Shook Me All Night Long",
+     "copy": "Get ready to wish Brian Johnson a Happy 79th Birthday this Monday! The legendary AC/DC frontman is still rocking. What's your ultimate AC/DC anthem?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "13:00",
      "tags": [
-      "#BoomtownRats"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "steve-miller-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Steve Miller turns 83",
-   "blurb": "American guitarist and singer Steve Miller, leader of the Steve Miller Band, will celebrate his 83rd birthday next Monday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Steve_Miller_(musician)"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Space Cowboy",
-     "copy": "Happy 83rd birthday to the legendary Steve Miller this Monday! Get ready for some classic rock anthems.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#SteveMillerBand"
-     ]
-    },
-    {
-     "name": "Fly Like An Eagle",
-     "copy": "Celebrating Steve Miller's 83rd this week! What's your go-to track from the Steve Miller Band?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ClassicRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "britt-ekland-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Britt Ekland is 84",
-   "blurb": "Swedish actress and Bond girl Britt Ekland, known for films like 'The Wicker Man' and 'Get Carter', will celebrate her 84th birthday next Tuesday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Britt_Ekland"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bond Girl Icon",
-     "copy": "Happy 84th birthday to the stunning Britt Ekland next Tuesday! A true screen legend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#BrittEkland"
-     ]
-    },
-    {
-     "name": "Movie Memories",
-     "copy": "From 'The Man with the Golden Gun' to 'The Wicker Man', Britt Ekland turns 84 this week. What's your favourite film of hers?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#FilmLegend"
+      "#ACDCRocks",
+      "#HappyBirthdayBrian"
      ]
     }
    ]
@@ -774,11 +916,11 @@
    "off": 10,
    "type": "birthday",
    "hot": true,
-   "title": "Thom Yorke turns 58",
-   "blurb": "English musician Thom Yorke, lead singer and primary songwriter of Radiohead, will celebrate his 58th birthday next Wednesday.",
+   "title": "Happy 58th Birthday, Thom Yorke",
+   "blurb": "Radiohead frontman and influential musician Thom Yorke will celebrate his 58th birthday on October 7th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Thom_Yorke"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/october7.html"
    },
    "fits": [
     {
@@ -796,144 +938,107 @@
    ],
    "angles": [
     {
-     "name": "Radiohead Visionary",
-     "copy": "Happy 58th birthday to the iconic Thom Yorke next Wednesday! The voice of Radiohead, still inspiring us all.",
+     "name": "Radiohead Icon",
+     "copy": "The voice of Radiohead, Thom Yorke, turns 58 on Thursday! Celebrate the influential artist's birthday by playing your favourite Radiohead track.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ThomYorke",
+      "#Radiohead"
+     ]
+    },
+    {
+     "name": "Alternative Legend",
+     "copy": "Happy 58th Birthday to Thom Yorke this Thursday! His impact on alternative music is immense. What's your go-to Thom Yorke or Radiohead song?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:30",
+     "time": "15:00",
      "tags": [
-      "#ThomYorke"
-     ]
-    },
-    {
-     "name": "Creep & Beyond",
-     "copy": "Celebrating Thom Yorke's 58th this week! What's your favourite Radiohead album or solo project?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#Radiohead"
+      "#AlternativeMusic",
+      "#Birthday"
      ]
     }
    ]
   },
   {
-   "id": "simon-cowell-bday",
+   "id": "lewis-capaldi-bday",
    "off": 10,
    "type": "birthday",
    "hot": true,
-   "title": "Simon Cowell is 67",
-   "blurb": "English television personality, record executive, and entrepreneur Simon Cowell, known for 'The X Factor' and 'Britain's Got Talent', will celebrate his 67th birthday next Wednesday.",
+   "title": "Happy 30th Birthday, Lewis Capaldi",
+   "blurb": "Scottish singer-songwriter Lewis Capaldi, known for his emotive ballads, will celebrate his 30th birthday on October 7th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Simon_Cowell"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/october7.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 10s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 20s"
     }
    ],
    "angles": [
     {
-     "name": "TV's Toughest Judge",
-     "copy": "Happy 67th birthday to the one and only Simon Cowell next Wednesday! Love him or… well, you know.",
+     "name": "Scottish Star Turns 30",
+     "copy": "Our favourite 'Someone You Loved' singer, Lewis Capaldi, turns 30 on Thursday! Send your birthday wishes to the Scottish superstar!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "tiktok",
+      "threads"
      ],
      "time": "11:00",
      "tags": [
-      "#SimonCowell"
+      "#LewisCapaldi",
+      "#HappyBirthdayLewis"
      ]
     },
     {
-     "name": "Talent Show King",
-     "copy": "Celebrating Simon Cowell's 67th this week! What's your favourite 'X Factor' or 'BGT' moment?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#BGT"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-bake-off",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Autumn TV heating up",
-   "blurb": "As autumn TV schedules kick into gear, shows like 'Strictly Come Dancing' and 'The Great British Bake Off' are likely dominating water cooler conversations across the UK.",
-   "source": {
-    "l": "UK TV Guides",
-    "u": "https://www.radiotimes.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Dancing or Baking?",
-     "copy": "It's the ultimate autumn TV clash! Are you Team #Strictly or Team #BakeOff right now? Tell us your viewing habits!",
+     "name": "Capaldi's Big 3-0",
+     "copy": "Lewis Capaldi celebrates his 30th birthday this Thursday! What's the Lewis Capaldi song that always gets you in your feels?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#AutumnTV"
-     ]
-    },
-    {
-     "name": "TV Talk",
-     "copy": "What's got you glued to the telly this week? From dazzling dances to soggy bottoms, autumn TV is serving up the goods!",
-     "channels": [
-      "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "16:30",
      "tags": [
-      "#UKTV"
+      "#SomeoneYouLoved",
+      "#BirthdayVibes"
      ]
     }
    ]
   },
   {
-   "id": "live-music-uk",
+   "id": "exeter-kaleidoscopic-minds",
    "off": 0,
-   "type": "gig",
+   "type": "culture",
    "hot": true,
-   "title": "Live Music Scene Buzz",
-   "blurb": "The UK's live music scene is vibrant, with many artists touring and venues hosting diverse acts across the country this week.",
+   "title": "Kaleidoscopic Minds Festival in Exeter",
+   "blurb": "Exeter Phoenix is hosting 'Kaleidoscopic Minds', their first Festival of Neurodiversity, today, designed by and for neurodivergent people and their families.",
    "source": {
-    "l": "NME / Gigwise",
-    "u": "https://www.nme.com/news/gigs"
+    "l": "Exeter Phoenix",
+    "u": "https://exeterphoenix.org.uk/events/kaleidoscopic-minds/"
    },
    "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
     {
      "g": "radio-exe",
      "sub": ""
@@ -941,29 +1046,31 @@
    ],
    "angles": [
     {
-     "name": "Gigs This Week",
-     "copy": "Who's heading out to a gig this week? The live music scene is buzzing across the UK, from London to Cardiff and Exeter!",
+     "name": "Celebrating Neurodiversity",
+     "copy": "Exeter Phoenix presents 'Kaleidoscopic Minds' today – a fantastic festival of neurodiversity, designed for and by the neurodivergent community. #Exeter",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "09:00",
      "tags": [
-      "#LiveMusic"
+      "#Neurodiversity",
+      "#ExeterPhoenix"
      ]
     },
     {
-     "name": "Local Gigs",
-     "copy": "Supporting local music? What awesome gigs are happening in Wales or Devon this week that we should know about?",
+     "name": "Art & Activities in Exeter",
+     "copy": "Looking for something inspiring in Exeter today? Head to Kaleidoscopic Minds at Exeter Phoenix for art workshops, creative activities, and more. #Devon",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "19:00",
+     "time": "12:30",
      "tags": [
-      "#WelshMusic",
-      "#DevonGigs"
+      "#ExeterEvents",
+      "#Community"
      ]
     }
    ]
