@@ -1,21 +1,92 @@
 {
- "updated": "2026-10-06T02:36:55.379Z",
+ "updated": "2026-10-06T09:29:33.010Z",
  "moments": [
   {
-   "id": "strokes-london",
-   "off": 0,
-   "type": "gig",
+   "id": "premier-league-returns",
+   "off": 4,
+   "type": "sport",
    "hot": true,
-   "title": "The Strokes hit London",
-   "blurb": "New York indie rock legends The Strokes play two nights in London, kicking off their UK dates this week.",
+   "title": "Premier League Returns This Weekend",
+   "blurb": "Club football is back after the international break, with a packed Matchweek 6 featuring Arsenal vs Leeds, Man Utd vs Tottenham, and Liverpool vs Manchester City.",
    "source": {
-    "l": "Ticketle",
-    "u": "https://www.ticketle.com/london-concerts/october-2026"
+    "l": "Premier League Official Site / AS USA",
+    "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "General Excitement",
+     "copy": "After the international break, the Premier League is back with a bang this weekend! Which fixture are you most looking forward to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Big Game Focus",
+     "copy": "It's the one we've all been waiting for: Liverpool take on Manchester City on Sunday! Who's taking home the points from Anfield?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#LIVMCI"
+     ]
+    },
+    {
+     "name": "London Derby Angle (Arsenal/Spurs)",
+     "copy": "London clubs are back in action this weekend! Arsenal host Leeds, and Man Utd head to Spurs. Big points up for grabs in the capital.",
+     "for": "Nation Radio London",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#LondonFootball"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "champions-league-md2",
+   "off": 7,
+   "type": "sport",
+   "hot": true,
+   "title": "Champions League Matchday 2",
+   "blurb": "The UEFA Champions League group stage continues on Tuesday, October 13th, with Arsenal facing Lille and Manchester United travelling to Atlético Madrid.",
+   "source": {
+    "l": "UEFA.com",
+    "u": "https://www.uefa.com/uefachampionsleague/fixtures-results/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
     },
     {
      "g": "nation-network",
@@ -24,8 +95,227 @@
    ],
    "angles": [
     {
-     "name": "Live Music Buzz",
-     "copy": "The Strokes are in London tonight and tomorrow! Who's heading to see the indie icons live?",
+     "name": "UK Teams in Action",
+     "copy": "Midweek European action! Arsenal and Manchester United are flying the flag in the Champions League on Tuesday. Can they both secure vital wins?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#UCL"
+     ]
+    },
+    {
+     "name": "Arsenal Focus",
+     "copy": "Arsenal head to Lille for their second Champions League group game. A big test on the road for the Gunners!",
+     "for": "Nation Radio London",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#AFC"
+     ]
+    },
+    {
+     "name": "Man Utd Focus",
+     "copy": "Manchester United face a tough trip to Atlético Madrid in the Champions League on Tuesday. How do you see that one going?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#MUFC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gbbo-biscuit-week",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off Continues",
+   "blurb": "The Great British Bake Off continues tonight, Tuesday October 6th, at 8pm on Channel 4, with the remaining bakers tackling a new challenge after Danni's elimination last week.",
+   "source": {
+    "l": "Radio Times / Channel 4",
+    "u": "https://www.radiotimes.com/tv/entertainment/reality-tv/great-british-bake-off-who-left-2026-news-exclusive/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tonight's Episode",
+     "copy": "It's Tuesday, which means it's Bake Off night! What bakes are you hoping to see in the tent tonight on Channel 4?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "Post-Elimination Chat",
+     "copy": "After last week's emotional departure, who do you think will rise to the occasion and be Star Baker tonight? Don't miss The Great British Bake Off at 8pm!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#BakeOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-movie-week",
+   "off": -3,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing: Movie Week Aftermath",
+   "blurb": "Strictly Come Dancing had its first public vote and elimination after Movie Week on Saturday, with Emma Willis, Josh Widdicombe, and Johannes Radebe hosting the new series.",
+   "source": {
+    "l": "Radio Times / BBC",
+    "u": "https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2026-line-up-news-exclusive/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Movie Week Review",
+     "copy": "Still thinking about those incredible Movie Week dances from Strictly? Which performance was your favourite from Saturday night?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#StrictlyComeDancing"
+     ]
+    },
+    {
+     "name": "New Hosts Discussion",
+     "copy": "New series, new hosts! What do you make of Emma Willis, Josh Widdicombe, and Johannes Radebe fronting Strictly Come Dancing this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#Strictly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taylor-swift-patient-zero-1",
+   "off": -1,
+   "type": "chart",
+   "hot": true,
+   "title": "Taylor Swift's 'Patient Zero' at UK No.1",
+   "blurb": "Taylor Swift's 'Patient Zero' is the current UK Official Singles Chart number one for the week ending October 8, 2026, with new entries also from Madonna.",
+   "source": {
+    "l": "Official Charts Company / Wikipedia",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "copy": "The new UK Official Singles Chart is in! Taylor Swift holds the top spot with 'Patient Zero'. Is it still on repeat for you?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#UKChart"
+     ]
+    },
+    {
+     "name": "New Music Buzz",
+     "copy": "Taylor Swift, Madonna... some big names making waves on the Official Singles Chart this week! What's your favourite new entry?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kevin-cronin-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 75th to REO Speedwagon's Kevin Cronin",
+   "blurb": "Kevin Cronin, the lead singer and rhythm guitarist of American rock band REO Speedwagon, celebrates his 75th birthday today.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/kevin-cronin.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Legend",
+     "copy": "Wishing a very happy 75th birthday to REO Speedwagon's legendary frontman, Kevin Cronin! What's your favourite REO track?",
      "channels": [
       "instagram",
       "facebook",
@@ -34,33 +324,250 @@
      ],
      "time": "08:00",
      "tags": [
-      "#TheStrokes"
+      "#REOSpeedwagon"
      ]
     },
     {
-     "name": "Monday Night Rock",
-     "copy": "Monday night in London is looking electric! The Strokes are bringing their signature sound to the capital for two nights. Get involved!",
+     "name": "Classic Hits",
+     "copy": "'Can't Fight This Feeling' or 'Keep On Loving You'? Celebrate Kevin Cronin's 75th with your top REO Speedwagon song!",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#LondonGigs"
+      "#ClassicRock"
      ]
     }
    ]
   },
   {
-   "id": "thom-yorke-bday",
+   "id": "thomas-mcclary-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 77th to Commodores' Thomas McClary",
+   "blurb": "Thomas McClary, co-founder and guitarist of the iconic funk/soul band The Commodores, turns 77 today.",
+   "source": {
+    "l": "Famous Birthdays / Wikipedia",
+    "u": "https://www.famousbirthdays.com/people/thomas-mcclary.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Soulful Birthday",
+     "copy": "Sending 77th birthday wishes to Thomas McClary, co-founder of the legendary Commodores! 'Easy' like Sunday morning, or 'Brick House' party anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#TheCommodores"
+     ]
+    },
+    {
+     "name": "Funk & Soul Icon",
+     "copy": "From 'Three Times a Lady' to 'Nightshift', Thomas McClary helped shape the sound of The Commodores. Happy 77th Birthday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FunkSoul"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "david-hidalgo-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 75th to Los Lobos' David Hidalgo",
+   "blurb": "Multi-instrumentalist and singer-songwriter David Hidalgo, best known for his work with Los Lobos, celebrates his 75th birthday today.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/David_Hidalgo"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Roots Rock Birthday",
+     "copy": "Happy 75th Birthday to the incredible David Hidalgo of Los Lobos! Their music spans so many genres – what's your top track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LosLobos"
+     ]
+    },
+    {
+     "name": "Guitar Hero",
+     "copy": "From 'La Bamba' to countless collaborations, David Hidalgo is a true musician's musician. Celebrate his 75th today!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#DavidHidalgo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "simon-cowell-birthday",
    "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Thom Yorke",
-   "blurb": "Radiohead frontman and acclaimed solo artist Thom Yorke celebrates his 58th birthday tomorrow, October 7th.",
+   "title": "Simon Cowell Turns 67",
+   "blurb": "Music mogul and TV personality Simon Cowell celebrates his 67th birthday tomorrow, October 7th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Thom_Yorke"
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-oct-6-12-b52e3e5077464a0e914040a442a8b965"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "TV Mogul Birthday",
+     "copy": "Tomorrow, Simon Cowell turns 67! From Pop Idol to X Factor, he's shaped UK TV for decades. What's your favourite Simon Cowell moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SimonCowell"
+     ]
+    },
+    {
+     "name": "Music Industry Influence",
+     "copy": "The man behind some of the biggest pop acts and TV shows celebrates his birthday tomorrow. Happy 67th, Simon Cowell!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#MusicMogul"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toni-braxton-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 59th to Toni Braxton",
+   "blurb": "Grammy-winning R&B icon Toni Braxton celebrates her 59th birthday tomorrow, October 7th.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-oct-6-12-b52e3e5077464a0e914040a442a8b965"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "R&B Queen",
+     "copy": "Tomorrow, the incredible Toni Braxton turns 59! What's your ultimate Toni Braxton slow jam?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#ToniBraxton"
+     ]
+    },
+    {
+     "name": "Un-Break My Heart",
+     "copy": "From 'Un-Break My Heart' to 'He Wasn't Man Enough', Toni Braxton's voice is unforgettable. Happy 59th for tomorrow!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#RNB"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thom-yorke-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Thom Yorke Turns 58",
+   "blurb": "Radiohead frontman Thom Yorke celebrates his 58th birthday tomorrow, October 7th.",
+   "source": {
+    "l": "AP News",
+    "u": "https://apnews.com/article/celebrity-birthdays-oct-6-12-b52e3e5077464a0e914040a442a8b965"
    },
    "fits": [
     {
@@ -78,27 +585,28 @@
    ],
    "angles": [
     {
-     "name": "Radiohead Legend",
-     "copy": "Tomorrow, we're wishing a very Happy 58th Birthday to the incredible Thom Yorke! What's your all-time favourite Radiohead track?",
+     "name": "Indie Icon",
+     "copy": "Tomorrow, the enigmatic Thom Yorke of Radiohead turns 58! What's the Radiohead track that truly moved you?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "10:00",
+     "time": "16:30",
      "tags": [
       "#ThomYorke"
      ]
     },
     {
-     "name": "Solo & Band Genius",
-     "copy": "From Radiohead classics to his captivating solo work, Thom Yorke has shaped alternative music for decades. Happy Birthday for October 7th!",
+     "name": "Radiohead's Voice",
+     "copy": "From 'Creep' to 'Paranoid Android', Thom Yorke's vocals are unmistakable. Happy 58th Birthday for tomorrow!",
      "channels": [
-      "x",
-      "tiktok"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "14:00",
+     "time": "18:30",
      "tags": [
       "#Radiohead"
      ]
@@ -106,391 +614,187 @@
    ]
   },
   {
-   "id": "bfi-london-film-festival",
-   "off": 1,
-   "type": "culture",
+   "id": "the-strokes-london",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "BFI London Film Festival kicks off",
-   "blurb": "The prestigious BFI London Film Festival opens its doors tomorrow, October 7th, running until the 18th with premieres and special screenings across the city.",
+   "title": "The Strokes Play London",
+   "blurb": "Iconic indie rock band The Strokes are playing live in London tonight and tomorrow, October 6th and 7th.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/things-to-do/events-and-things-to-do-britain-october"
+    "l": "Ticketle / Time Out",
+    "u": "https://www.ticketle.co.uk/concerts/london/october-2026"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "nation-network",
-     "sub": ""
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Film Festival Buzz",
-     "copy": "Get ready, film fans! The BFI London Film Festival begins tomorrow, bringing the best of cinema to the capital. What are you hoping to see?",
+     "name": "London Calling",
+     "copy": "The Strokes are in London tonight! If you're heading to the gig, what song are you most desperate to hear live?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#TheStrokes"
+     ]
+    },
+    {
+     "name": "Indie Anthems",
+     "copy": "Julian Casablancas and co. are bringing their indie anthems to London for two nights! Get ready to rock!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "17:00",
      "tags": [
-      "#LFF"
-     ]
-    },
-    {
-     "name": "Red Carpet Ready",
-     "copy": "London's about to be buzzing with movie magic! The BFI London Film Festival starts October 7th. Expect big premieres and exciting new films.",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#LondonFilm"
+      "#LondonGigs"
      ]
     }
    ]
   },
   {
-   "id": "bruno-mars-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Bruno Mars",
-   "blurb": "Grammy-winning superstar Bruno Mars turns 41 on October 8th, known for his incredible vocals and electrifying stage presence.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bruno_Mars"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Funk & Pop King",
-     "copy": "Wishing a huge Happy 41st Birthday to the one and only Bruno Mars on October 8th! What's your go-to Bruno track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BrunoMars"
-     ]
-    },
-    {
-     "name": "Musical Talent",
-     "copy": "From 'Uptown Funk' to 'Leave The Door Open', Bruno Mars consistently delivers hits. Celebrate his birthday this Thursday!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Hooligans"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "westlife-london",
-   "off": 3,
+   "id": "westlife-birmingham",
+   "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Westlife land in London",
-   "blurb": "Irish pop sensations Westlife bring their 'The Wild Dreams Tour' to London's O2 Arena for three nights, starting October 9th.",
+   "title": "Westlife's 25th Anniversary Tour in Birmingham",
+   "blurb": "Westlife's 25th Anniversary World Tour is hitting the Utilita Arena Birmingham tonight, October 6th.",
    "source": {
-    "l": "Ticketle",
-    "u": "https://www.ticketle.com/london-concerts/october-2026"
+    "l": "PhotoPitLive.com",
+    "u": "https://www.photopitlive.com/gig-guide"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Love"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
      "name": "Pop Nostalgia",
-     "copy": "Westlife are back in London! Kicking off three nights at The O2 from Friday. Who's reliving their youth with the boys?",
+     "copy": "Westlife are celebrating 25 years in music with a huge show in Birmingham tonight! What's your favourite Westlife memory?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "09:00",
+     "time": "11:00",
      "tags": [
       "#Westlife"
      ]
     },
     {
-     "name": "O2 Takeover",
-     "copy": "The O2 is about to be filled with classic pop hits! Westlife start their London residency on October 9th. Get ready to sing along!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#TheWildDreamsTour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cheltenham-lit-fest",
-   "off": 3,
-   "type": "culture",
-   "hot": true,
-   "title": "Cheltenham Literature Festival starts",
-   "blurb": "The renowned Cheltenham Literature Festival begins on October 9th, bringing together authors, poets, and readers for ten days of literary events.",
-   "source": {
-    "l": "Festival Calendar UK",
-    "u": "https://www.festivalcalendar.uk/festivals/october"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bookworm Heaven",
-     "copy": "Calling all book lovers! The Cheltenham Literature Festival starts Friday, October 9th. Dive into discussions, readings, and more.",
+     "name": "Birmingham Buzz",
+     "copy": "If you're off to see Westlife in Birmingham tonight, get ready for a night of pop anthems and nostalgia!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "16:00",
      "tags": [
-      "#CheltLitFest"
-     ]
-    },
-    {
-     "name": "Literary Weekend",
-     "copy": "Planning a cultured weekend? The Cheltenham Literature Festival offers a fantastic line-up from October 9th. Get inspired!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Literature"
+      "#BirminghamGigs"
      ]
     }
    ]
   },
   {
-   "id": "midge-ure-bday",
-   "off": 4,
-   "type": "birthday",
+   "id": "katherine-jenkins-london",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "Happy Birthday Midge Ure",
-   "blurb": "Ultravox frontman and Band Aid co-founder Midge Ure celebrates his 73rd birthday on October 10th.",
+   "title": "Katherine Jenkins Concerts in London",
+   "blurb": "Welsh mezzo-soprano Katherine Jenkins has concerts scheduled in London this October, offering a blend of classical and popular music.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Midge_Ure"
+    "l": "London Theatreland",
+    "u": "https://www.londontheatreland.com/london-shows/concerts/october/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "80s Icon",
-     "copy": "Happy 73rd Birthday to the legendary Midge Ure on Saturday! What's your favourite Ultravox hit or Band Aid memory?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#MidgeUre"
-     ]
     },
-    {
-     "name": "Music & Charity",
-     "copy": "From electronic pioneers Ultravox to co-creating Band Aid, Midge Ure's impact is undeniable. Celebrate his birthday this weekend!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Ultravox"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "new-scientist-live",
-   "off": 4,
-   "type": "culture",
-   "hot": true,
-   "title": "New Scientist Live hits London",
-   "blurb": "The New Scientist Live festival, a celebration of science, technology, health and the environment, takes place at ExCeL London from October 10th to 12th.",
-   "source": {
-    "l": "Festival Calendar UK",
-    "u": "https://www.festivalcalendar.uk/festivals/october"
-   },
-   "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
     },
     {
-     "g": "nation-network",
+     "g": "welsh-local",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Science & Innovation",
-     "copy": "Curious about the future? New Scientist Live is at ExCeL London this weekend (Oct 10-12)! Dive into exciting talks and exhibits.",
+     "name": "Welsh Voice in London",
+     "copy": "The magnificent Katherine Jenkins is performing in London this month! A chance to hear that incredible voice live.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#NewScientistLive"
-     ]
-    },
-    {
-     "name": "Weekend Learning",
-     "copy": "Looking for something different this weekend? New Scientist Live offers interactive fun for all ages at ExCeL London!",
-     "channels": [
       "x",
       "threads"
      ],
      "time": "13:00",
      "tags": [
-      "#ScienceFestival"
+      "#KatherineJenkins"
      ]
-    }
-   ]
-  },
-  {
-   "id": "daryl-hall-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Daryl Hall",
-   "blurb": "One half of the iconic duo Hall & Oates, Daryl Hall, turns 80 on October 11th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Daryl_Hall"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Soulful Sounds",
-     "copy": "Can you believe Daryl Hall turns 80 on Sunday?! Happy Birthday to the voice behind so many timeless hits with Oates!",
+     "name": "Classical Crossover",
+     "copy": "For fans of classical crossover, Katherine Jenkins' London concerts are a must-see this October!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "17:30",
      "tags": [
-      "#DarylHall"
-     ]
-    },
-    {
-     "name": "Hall & Oates Legend",
-     "copy": "From 'Rich Girl' to 'Maneater', Daryl Hall's voice is instantly recognisable. Wishing him a fantastic 80th birthday this weekend!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HallAndOates"
+      "#ClassicalMusic"
      ]
     }
    ]
   },
   {
-   "id": "hugh-jackman-bday",
-   "off": 6,
-   "type": "birthday",
+   "id": "tewkesbury-mop-fair",
+   "off": 3,
+   "type": "seasonal",
    "hot": true,
-   "title": "Happy Birthday Hugh Jackman",
-   "blurb": "Actor and singer Hugh Jackman, known for his roles in 'The Greatest Showman' and 'Wolverine', celebrates his 58th birthday on October 12th.",
+   "title": "Tewkesbury Mop Fair This Weekend",
+   "blurb": "The historic Tewkesbury Mop Fair returns this Friday, October 9th, and Saturday, October 10th, with traditional rides and attractions.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Hugh_Jackman"
+    "l": "Tewkesbury Borough Council",
+    "u": "https://www.tewkesbury.gov.uk/news/countdown-begins-for-tewkesbury-mop-fair-2026"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Showman's Birthday",
-     "copy": "Wishing a very Happy 58th Birthday to the multi-talented Hugh Jackman on Monday! What's your favourite of his roles?",
+     "name": "Fairground Fun",
+     "copy": "Fancy some traditional fun? The Tewkesbury Mop Fair kicks off this Friday and Saturday! Who's going for the rides and atmosphere?",
      "channels": [
       "instagram",
       "facebook",
@@ -499,33 +803,34 @@
      ],
      "time": "10:00",
      "tags": [
-      "#HughJackman"
+      "#MopFair"
      ]
     },
     {
-     "name": "From Stage to Screen",
-     "copy": "Whether he's singing his heart out or battling bad guys, Hugh Jackman always delivers. Celebrate his birthday on October 12th!",
+     "name": "Historic Event",
+     "copy": "Steeped in history, the Tewkesbury Mop Fair is a fantastic autumn tradition. Get ready for a weekend of entertainment!",
      "channels": [
-      "x",
-      "tiktok"
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#GreatestShowman"
+      "#Tewkesbury"
      ]
     }
    ]
   },
   {
-   "id": "scottish-half-term",
+   "id": "october-half-term-scotland",
    "off": 6,
    "type": "seasonal",
    "hot": true,
-   "title": "Scottish Schools Half Term",
-   "blurb": "Schools across Scotland begin their October half-term holiday this week, from October 12th to 16th.",
+   "title": "Scotland's October Half Term Begins",
+   "blurb": "Schools across Scotland break for their October Half Term holiday from Monday, October 12th to Friday, October 16th.",
    "source": {
     "l": "eParenting",
-    "u": "https://www.eparenting.co.uk/family_life/things_to_do_in_october.shtml"
+    "u": "https://www.eparenting.co.uk/things_to_do/october_in_the_uk.shtml"
    },
    "fits": [
     {
@@ -535,26 +840,30 @@
    ],
    "angles": [
     {
-     "name": "Holiday Fun",
-     "copy": "School's out for half term in Scotland this week! Kicking off Monday, October 12th. What are your plans for the break?",
+     "name": "Scottish School Holidays",
+     "copy": "October Half Term starts next week in Scotland! What are your plans to keep the kids entertained?",
+     "for": "Nation Radio Scotland",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "08:00",
+     "time": "11:00",
      "tags": [
       "#ScottishHalfTerm"
      ]
     },
     {
-     "name": "Family Activities",
-     "copy": "Enjoying the Scottish half term? We've got the soundtrack to your family adventures all week long!",
+     "name": "Family Fun Ideas",
+     "copy": "Looking for ideas for the Scottish October Half Term? From outdoor adventures to indoor activities, there's plenty to do!",
+     "for": "Nation Radio Scotland",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "12:00",
+     "time": "15:00",
      "tags": [
       "#Scotland"
      ]
@@ -562,113 +871,109 @@
    ]
   },
   {
-   "id": "troye-sivan-london",
-   "off": 7,
-   "type": "gig",
+   "id": "bfi-film-festival-london",
+   "off": 1,
+   "type": "culture",
    "hot": true,
-   "title": "Troye Sivan in London",
-   "blurb": "Australian pop sensation Troye Sivan plays a highly anticipated show in London on October 13th.",
+   "title": "BFI Film Festival Opens in London",
+   "blurb": "The BFI Film Festival begins tomorrow, October 7th, running until October 10th, showcasing a range of new cinema in London.",
    "source": {
-    "l": "Ticketle",
-    "u": "https://www.ticketle.com/london-concerts/october-2026"
+    "l": "Visit London",
+    "u": "https://www.visitlondon.com/things-to-do/whats-on/october"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Pop Live",
-     "copy": "Troye Sivan is bringing his incredible live show to London on Tuesday, October 13th! Who's excited for 'Rush'?",
+     "name": "Film Buff Alert",
+     "copy": "The BFI Film Festival kicks off tomorrow in London! Any films you're desperate to catch?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "10:00",
+     "time": "12:30",
      "tags": [
-      "#TroyeSivan"
+      "#BFIFF"
      ]
     },
     {
-     "name": "Midweek Gig",
-     "copy": "Make your Tuesday night sparkle! Troye Sivan plays London on October 13th. Get ready for an unforgettable performance.",
+     "name": "London Culture",
+     "copy": "For film lovers, the BFI Film Festival is a highlight of London's cultural calendar. Get ready for four days of cinematic brilliance!",
+     "for": "Nation Radio London",
      "channels": [
-      "x",
-      "threads"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "16:00",
+     "time": "16:30",
      "tags": [
-      "#LondonGigs"
+      "#LondonCulture"
      ]
     }
    ]
   },
   {
-   "id": "paul-simon-bday",
-   "off": 7,
-   "type": "birthday",
+   "id": "kill-jackie-prime-video",
+   "off": -4,
+   "type": "tv",
    "hot": true,
-   "title": "Happy Birthday Paul Simon",
-   "blurb": "Legendary singer-songwriter Paul Simon, half of the iconic duo Simon & Garfunkel, celebrates his 85th birthday on October 13th.",
+   "title": "'Kill Jackie' with Catherine Zeta-Jones on Prime Video",
+   "blurb": "The new thriller 'Kill Jackie', starring Welsh actress Catherine Zeta-Jones, premiered on Prime Video on October 2nd.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Paul_Simon"
+    "l": "Time Out / GeekTown",
+    "u": "https://www.timeout.com/london/news/the-18-best-london-concerts-and-gigs-in-october-2026-with-jack-harlow-overmono-tomora-and-more-100126"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
+     "g": "nation-network",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Music Legend",
-     "copy": "Wishing a very Happy 85th Birthday to the incomparable Paul Simon on Tuesday! What's your favourite track from his incredible career?",
+     "name": "New Thriller Alert",
+     "copy": "Have you streamed 'Kill Jackie' yet on Prime Video? Catherine Zeta-Jones stars in this brand new thriller!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#PaulSimon"
+      "#KillJackie"
      ]
     },
     {
-     "name": "Iconic Songwriter",
-     "copy": "From Simon & Garfunkel to his groundbreaking solo work, Paul Simon is a true musical poet. Celebrate his birthday on October 13th!",
+     "name": "Welsh Star Power",
+     "copy": "Our very own Catherine Zeta-Jones is back on screen in the new Prime Video thriller 'Kill Jackie'! Definitely one to add to your watchlist.",
+     "for": "welsh-local",
      "channels": [
-      "x",
-      "tiktok"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#SimonAndGarfunkel"
+      "#CatherineZetaJones"
      ]
     }
    ]
