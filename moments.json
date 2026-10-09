@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-09T00:44:23.560Z",
+ "updated": "2026-10-09T06:51:31.588Z",
  "moments": [
   {
-   "id": "f1-singapore-gp",
+   "id": "premier-league-weekend",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "F1 Singapore Grand Prix Live",
-   "blurb": "The Formula 1 Singapore Airlines Singapore Grand Prix is taking place this weekend, from October 9th to 11th.",
+   "title": "Premier League Weekend Action",
+   "blurb": "The Premier League returns with big clashes this weekend, including Manchester United vs Tottenham on Saturday and Liverpool vs Manchester City on Sunday.",
    "source": {
-    "l": "Formula 1 Official Site",
-    "u": "https://www.formula1.com/en/racing/2026/Singapore.html"
+    "l": "Premier League Official / The Guardian",
+    "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
     {
@@ -20,25 +20,22 @@
    ],
    "angles": [
     {
-     "name": "Race Weekend Kick-off",
-     "for": "",
-     "copy": "Lights out and away we go! The F1 Singapore Grand Prix weekend is officially underway. Who are you backing for pole position?",
+     "name": "Weekend Kick-off",
+     "copy": "Premier League weekend is here! Kicking off with Man Utd vs Spurs on Saturday, then Liverpool vs Man City on Sunday. Which game are you glued to?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "08:00",
      "tags": [
-      "#F1 #SingaporeGP"
+      "#PremierLeague"
      ]
     },
     {
-     "name": "Night Race Excitement",
-     "for": "",
-     "copy": "The iconic Singapore night race is back! Expect drama, speed, and stunning visuals under the Marina Bay lights this weekend.",
+     "name": "Big Game Buzz",
+     "copy": "Liverpool vs Manchester City: The title race could take a turn this Sunday. Get your predictions in now!",
      "channels": [
       "instagram",
       "facebook",
@@ -47,18 +44,68 @@
      ],
      "time": "11:00",
      "tags": [
-      "#F1Singapore"
+      "#LIVMCI"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-taylor-swift",
+   "id": "championship-welsh-teams",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "Welsh Teams in Championship",
+   "blurb": "Cardiff City and Swansea City both play in the EFL Championship this Saturday, October 10th, with Swansea facing Norwich and Cardiff playing Blackburn.",
+   "source": {
+    "l": "The Guardian",
+    "u": "https://www.theguardian.com/football/fixtures-results"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Local Football Buzz",
+     "copy": "Big Championship Saturday for our Welsh clubs! Swansea take on Norwich and Cardiff face Blackburn. Who are you backing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#Championship"
+     ]
+    },
+    {
+     "name": "Match Day Build-up",
+     "copy": "Cardiff City are on the road against Blackburn this Saturday. Will they bring home three points? Tune in!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#CardiffCity"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "official-singles-chart",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "Taylor Swift Tops UK Singles Chart",
-   "blurb": "Taylor Swift's 'Patient Zero' has hit number one on the UK Official Singles Chart, dethroning Shakira & Burna Boy's 'Dai Dai' after a 10-week reign.",
+   "title": "Official Singles Chart Update",
+   "blurb": "The Official UK Singles Chart for October 3rd saw Taylor Swift dominate with three new entries, including 'Patient Zero' at Number 1.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
@@ -69,15 +116,14 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "New Number 1",
-     "for": "",
-     "copy": "Move over, 'Dai Dai'! Taylor Swift has officially claimed the UK Official Singles Chart Number 1 spot with 'Patient Zero'.",
+     "name": "Chart Topper",
+     "copy": "Taylor Swift is reigning supreme on the Official Singles Chart with 'Patient Zero' at Number 1! What's your favourite new entry from her?",
      "channels": [
       "instagram",
       "facebook",
@@ -87,35 +133,87 @@
      ],
      "time": "10:00",
      "tags": [
-      "#OfficialCharts #TaylorSwift"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Chart Battle",
-     "for": "",
-     "copy": "After a massive 10 weeks at Number 1, Shakira & Burna Boy's 'Dai Dai' has been knocked off the top by Taylor Swift. What's your top track this week?",
+     "name": "Chart Takeover",
+     "copy": "Three new Taylor Swift tracks in the Top 5? She's definitely having a moment! Stream the latest chart-toppers on Nation Hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#TaylorSwift"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glastonbury-tickets-sold-out",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Glastonbury 2027 Tickets Sold Out",
+   "blurb": "General Admission tickets for Glastonbury 2027 sold out in under 45 minutes on Sunday, October 4th, with a resale expected in Spring 2027.",
+   "source": {
+    "l": "Glastonbury Festival",
+    "u": "https://www.glastonburyfestivals.co.uk/information/tickets/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Glastonbury Rush",
+     "copy": "Did you try for Glastonbury 2027 tickets? They flew out in under an hour! Don't worry, there's always the resale next spring.",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "14:00",
+     "time": "09:00",
      "tags": [
-      "#UKChart"
+      "#Glastonbury2027"
+     ]
+    },
+    {
+     "name": "Festival Hopefuls",
+     "copy": "Glastonbury 2027 tickets are gone, but the dream isn't over. Keep an eye out for the spring resale if you missed out!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Glasto"
      ]
     }
    ]
   },
   {
-   "id": "strictly-come-dancing-icons-week",
-   "off": 8,
+   "id": "strictly-movie-week-elimination",
+   "off": 0,
    "type": "tv",
    "hot": true,
-   "title": "Strictly's Icons Week Approaches",
-   "blurb": "Following the first elimination last weekend, Strictly Come Dancing will feature 'Icons Week' on Saturday, October 17th.",
+   "title": "Strictly's Movie Week & First Elimination",
+   "blurb": "Strictly Come Dancing celebrated Movie Week last Saturday, October 3rd, and saw celebrity hair stylist Chris Appleton become the first contestant eliminated on Sunday.",
    "source": {
-    "l": "BBC",
+    "l": "BBC / The Independent",
     "u": "https://www.bbc.co.uk/programmes/b006m8dq"
    },
    "fits": [
@@ -126,47 +224,42 @@
    ],
    "angles": [
     {
-     "name": "Upcoming Theme",
-     "for": "",
-     "copy": "Get ready to channel your inner icon! Strictly Come Dancing's much-anticipated 'Icons Week' is coming next Saturday, October 17th.",
+     "name": "Strictly Aftermath",
+     "copy": "Movie Week brought the drama and the first elimination on Strictly! Were you surprised to see Chris Appleton go?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "12:00",
+     "time": "10:30",
      "tags": [
-      "#Strictly #IconsWeek"
+      "#StrictlyComeDancing"
      ]
     },
     {
-     "name": "Post-Elimination Buzz",
-     "for": "",
-     "copy": "After the first couple left the ballroom, all eyes are on the remaining pairs for 'Icons Week'. Who do you think will shine brightest emulating their heroes?",
+     "name": "Dance Floor Debates",
+     "copy": "The Strictly dance-off decisions are always tough. Do you think the right couple went home after Movie Week?",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "16:00",
      "tags": [
-      "#StrictlyComeDancing"
+      "#Strictly"
      ]
     }
    ]
   },
   {
-   "id": "gbbo-audience-choice-week",
-   "off": -3,
+   "id": "bake-off-new-judge-heatwave",
+   "off": 0,
    "type": "tv",
    "hot": true,
-   "title": "Bake Off's Audience Choice Week",
-   "blurb": "The Great British Bake Off aired its unique 'Audience Choice Week' on Tuesday, October 6th, a new addition to the series.",
+   "title": "Great British Bake Off 2026 Season Buzz",
+   "blurb": "The Great British Bake Off's 2026 season is well underway, with Nigella Lawson joining Paul Hollywood as a new judge and early episodes revealing how a summer heatwave impacted filming.",
    "source": {
-    "l": "Channel 4",
+    "l": "Channel 4 / Radio Times",
     "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
    },
    "fits": [
@@ -177,117 +270,133 @@
    ],
    "angles": [
     {
-     "name": "Bake Off Recap",
-     "for": "",
-     "copy": "Did you tune into Bake Off's 'Audience Choice Week'? What did you make of the bakers' creations and the new format?",
+     "name": "Bake Off Heat",
+     "copy": "This year's Bake Off was filmed during a heatwave! No wonder some challenges were extra tough. Are you enjoying the new season with Nigella Lawson?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "09:30",
+     "time": "12:00",
      "tags": [
-      "#GBBO #BakeOff"
+      "#GBBO"
      ]
     },
     {
-     "name": "New Judge Nigella",
-     "for": "",
-     "copy": "Nigella Lawson is already making her mark as a new Bake Off judge! What's your favourite moment from her so far?",
+     "name": "New Judge Alert",
+     "copy": "Nigella Lawson in the Bake Off tent! How are you rating the new judging panel this series?",
      "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "13:30",
+     "time": "17:00",
      "tags": [
-      "#NigellaLawson #GreatBritishBakeOff"
+      "#BakeOff"
      ]
     }
    ]
   },
   {
-   "id": "cheltenham-lit-fest",
+   "id": "jackson-browne-birthday",
    "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Cheltenham Literature Festival Underway",
-   "blurb": "The prestigious Cheltenham Literature Festival is live now, running from October 9th to 18th, featuring authors, poets, and public conversations.",
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 78th Birthday Jackson Browne",
+   "blurb": "American singer-songwriter Jackson Browne, known for hits like 'Running on Empty' and 'Doctor My Eyes', turns 78 today.",
    "source": {
-    "l": "Cheltenham Festivals",
-    "u": "https://www.cheltenhamfestivals.com/literature/"
+    "l": "Daily Press / Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jackson_Browne"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Literary Highlights",
-     "for": "",
-     "copy": "Bookworms rejoice! The Cheltenham Literature Festival has opened its doors, bringing together literary giants and exciting new voices until October 18th.",
+     "name": "Music Legend",
+     "copy": "Happy 78th Birthday to the legendary Jackson Browne! What's your favourite track from the 'Running on Empty' singer?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "10:30",
+     "time": "08:30",
      "tags": [
-      "#CheltenhamLitFest #Books"
+      "#JacksonBrowne"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "sharon-osbourne-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 74th Birthday Sharon Osbourne",
+   "blurb": "Media personality, music manager, and TV star Sharon Osbourne celebrates her 74th birthday today.",
+   "source": {
+    "l": "Daily Press / Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Sharon_Osbourne"
+   },
+   "fits": [
     {
-     "name": "Culture Fix",
-     "for": "",
-     "copy": "Looking for a cultural escape this weekend? The Cheltenham Literature Festival offers a fantastic programme of talks, readings, and events.",
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "TV Personality Bday",
+     "copy": "Wishing a very Happy 74th Birthday to the one and only Sharon Osbourne! A true icon of TV and music management.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "09:00",
      "tags": [
-      "#Literature #Festival"
+      "#SharonOsbourne"
      ]
     }
    ]
   },
   {
-   "id": "bfi-london-film-festival",
+   "id": "pj-harvey-birthday",
    "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "BFI London Film Festival Continues",
-   "blurb": "The BFI London Film Festival, celebrating its 70th year, is ongoing until October 18th, with screenings and events across the capital.",
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 57th Birthday PJ Harvey",
+   "blurb": "Influential English singer-songwriter PJ Harvey, known for her distinctive style and critically acclaimed albums, turns 57 today.",
    "source": {
-    "l": "BFI",
-    "u": "https://whatson.bfi.org.uk/lff/"
+    "l": "Daily Press / Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/PJ_Harvey"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Film Fest Buzz",
-     "for": "Nation Radio London",
-     "copy": "London is buzzing with cinematic brilliance! The BFI London Film Festival is showcasing the best in film until October 18th.",
+     "name": "Alt-Rock Icon",
+     "copy": "Happy 57th Birthday to the incredible PJ Harvey! Her music continues to inspire generations. What's your top PJ Harvey track?",
      "channels": [
       "instagram",
       "facebook",
@@ -296,314 +405,21 @@
      ],
      "time": "11:30",
      "tags": [
-      "#LFF #LondonFilmFestival"
-     ]
-    },
-    {
-     "name": "70 Years of Film",
-     "for": "",
-     "copy": "Celebrating 70 years of incredible cinema, the BFI London Film Festival is a must for any film fan. What's on your watch list?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#BFILFF"
+      "#PJHarvey"
      ]
     }
    ]
   },
   {
-   "id": "lancaster-music-festival",
+   "id": "sean-lennon-birthday",
    "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Lancaster Music Festival Underway",
-   "blurb": "The Lancaster Music Festival is happening now, from October 8th to 11th, with over 50 venues across the city hosting live music.",
-   "source": {
-    "l": "Lancaster Music Festival",
-    "u": "https://lancastermusicfestival.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North West"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Live Music Weekend",
-     "for": "Nation Radio North West",
-     "copy": "Lancaster is alive with music! The Lancaster Music Festival is bringing tunes to over 50 venues this weekend. Where are you heading?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#LancasterMusicFest #LiveMusic"
-     ]
-    },
-    {
-     "name": "City Takes Over",
-     "for": "",
-     "copy": "From the castle courtyard to cosy pubs, the Lancaster Music Festival has taken over the city for a weekend of sound!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#Lancaster"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "derby-folk-festival",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Derby Folk Festival Kicks Off",
-   "blurb": "The Derby Folk Festival is running from October 9th to 11th, celebrating traditional and contemporary folk music.",
-   "source": {
-    "l": "Derby Folk Festival",
-    "u": "https://www.derbyfolkfestival.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio East Midlands"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Folk Weekend",
-     "for": "Nation Radio East Midlands",
-     "copy": "Derby's sounding sweet this weekend! The Derby Folk Festival is on now until Sunday, celebrating the best of folk music.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#DerbyFolkFest #FolkMusic"
-     ]
-    },
-    {
-     "name": "Traditional Sounds",
-     "for": "",
-     "copy": "Immerse yourself in traditional and contemporary folk at the Derby Folk Festival. A perfect way to spend an autumn weekend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#Derby"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "daryl-hall-80th",
-   "off": 2,
    "type": "birthday",
-   "hot": true,
-   "title": "Daryl Hall Turns 80",
-   "blurb": "Daryl Hall, one half of the iconic duo Hall & Oates, will celebrate his 80th birthday on Sunday, October 11th.",
+   "hot": false,
+   "title": "Happy 51st Birthday Sean Lennon",
+   "blurb": "Musician, singer, songwriter, and son of John Lennon and Yoko Ono, Sean Lennon celebrates his 51st birthday today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/daryl-hall.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy 80th",
-     "for": "Nation 80s",
-     "copy": "Happy 80th Birthday to the legendary Daryl Hall on Sunday! What's your favourite Hall & Oates classic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#DarylHall #HallAndOates"
-     ]
-    },
-    {
-     "name": "Music Icon",
-     "for": "Nation Classic Hits",
-     "copy": "Celebrating a true music icon this weekend! Daryl Hall of Hall & Oates turns 80 on Sunday. His voice is still as smooth as ever!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#MusicLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cardi-b-33rd",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Cardi B's 33rd Birthday",
-   "blurb": "Grammy-winning rapper Cardi B will turn 33 on Sunday, October 11th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/cardi-b.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday Shoutout",
-     "for": "",
-     "copy": "It's a big weekend for Cardi B as she celebrates her 33rd birthday on Sunday! Drop your favourite Cardi track below!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#CardiB #HappyBirthday"
-     ]
-    },
-    {
-     "name": "Rap Queen",
-     "for": "",
-     "copy": "From 'Bodak Yellow' to global superstar, Cardi B turns 33 this Sunday. What's next for the rap queen?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#RapMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "paul-simon-85th",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Paul Simon Turns 85",
-   "blurb": "Legendary singer-songwriter Paul Simon, of Simon & Garfunkel fame, will celebrate his 85th birthday on Tuesday, October 13th.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/october/13"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Music Legend Birthday",
-     "for": "Nation 60s",
-     "copy": "An incredible 85 years young! Happy Birthday to the iconic Paul Simon on Tuesday. What's your all-time favourite Simon & Garfunkel song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#PaulSimon #SimonAndGarfunkel"
-     ]
-    },
-    {
-     "name": "Songwriter Extraordinaire",
-     "for": "Nation Classic Hits",
-     "copy": "From 'Bridge Over Troubled Water' to 'Graceland', Paul Simon's songwriting is timeless. Wishing him a very happy 85th birthday this Tuesday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Legend #Songwriter"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "sammy-hagar-79th",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Sammy Hagar's 79th Birthday",
-   "blurb": "Rocker Sammy Hagar, known for his work with Van Halen and Montrose, celebrates his 79th birthday on Tuesday, October 13th.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/october/13"
+    "l": "Daily Press / Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Sean_Lennon"
    },
    "fits": [
     {
@@ -612,148 +428,17 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend Birthday",
-     "for": "Nation Rocks",
-     "copy": "Happy 79th Birthday to the Red Rocker himself, Sammy Hagar, this Tuesday! What's your favourite era of his incredible career?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#SammyHagar #VanHalen"
-     ]
+     "sub": "Nation 90s"
     },
-    {
-     "name": "Party Anthem King",
-     "for": "Nation 80s",
-     "copy": "From 'I Can't Drive 55' to fronting Van Halen, Sammy Hagar knows how to rock. Wishing him a fantastic 79th birthday!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#RockAndRoll"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ashanti-46th",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Ashanti Turns 46",
-   "blurb": "Grammy-winning R&B singer Ashanti will celebrate her 46th birthday on Tuesday, October 13th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/ashanti.html"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "R&B Birthday",
-     "for": "Nation 00s",
-     "copy": "Happy 46th Birthday to the R&B princess Ashanti this Tuesday! What's your favourite track from her incredible catalogue?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Ashanti #RNB"
-     ]
-    },
-    {
-     "name": "Timeless Hits",
-     "for": "Nation Love",
-     "copy": "Still making us 'Foolish' with her hits! Wishing Ashanti a very happy 46th birthday on Tuesday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#MusicBirthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cliff-richard-86th",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Cliff Richard's 86th Birthday",
-   "blurb": "British music legend Sir Cliff Richard will celebrate his 86th birthday on Wednesday, October 14th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/cliff-richard.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Sir Cliff's Big Day",
-     "for": "Nation Classic Hits",
-     "copy": "Happy 86th Birthday to the one and only Sir Cliff Richard this Wednesday! A true icon of British music.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#CliffRichard #BritishMusic"
-     ]
-    },
-    {
-     "name": "Timeless Performer",
-     "for": "Nation 60s",
-     "copy": "Still rocking after all these years! Wishing Sir Cliff Richard a very happy 86th birthday. What's your favourite era of his music?",
+     "name": "Music Scion Bday",
+     "copy": "Happy 51st Birthday to Sean Lennon! Carrying on a legendary musical legacy. What's your favourite of his projects?",
      "channels": [
       "instagram",
       "facebook",
@@ -761,84 +446,27 @@
      ],
      "time": "14:00",
      "tags": [
-      "#MusicIcon"
+      "#SeanLennon"
      ]
     }
    ]
   },
   {
-   "id": "justin-hayward-80th",
-   "off": 5,
+   "id": "nicky-byrne-birthday",
+   "off": 0,
    "type": "birthday",
-   "hot": true,
-   "title": "Justin Hayward Turns 80",
-   "blurb": "Justin Hayward, lead singer and guitarist of The Moody Blues, will celebrate his 80th birthday on Wednesday, October 14th.",
+   "hot": false,
+   "title": "Happy 48th Birthday Nicky Byrne",
+   "blurb": "Irish singer, songwriter, and radio presenter Nicky Byrne, best known as a member of Westlife, turns 48 today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/justin-hayward.html"
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Nicky_Byrne"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation 90s"
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Moody Blues Birthday",
-     "for": "Nation 60s",
-     "copy": "Happy 80th Birthday to the voice of The Moody Blues, Justin Hayward, this Wednesday! 'Nights in White Satin' still gives us chills.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JustinHayward #MoodyBlues"
-     ]
-    },
-    {
-     "name": "Prog Rock Legend",
-     "for": "Nation Rocks",
-     "copy": "Celebrating Justin Hayward's 80th birthday on Wednesday! A true progressive rock pioneer and incredible songwriter.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ProgRock #MusicLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eminem-52nd",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Eminem's 52nd Birthday",
-   "blurb": "Hip-hop icon Eminem will turn 52 on Saturday, October 17th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/eminem.html"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
@@ -846,148 +474,300 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Rap God Birthday",
-     "for": "Nation Hits",
-     "copy": "Guess who's turning 52 this Saturday? The one and only Eminem! Drop your favourite Slim Shady track below.",
+     "name": "Boyband Icon Bday",
+     "copy": "Happy 48th Birthday to Westlife's very own Nicky Byrne! What's your go-to Westlife power ballad?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#Eminem #RapGod"
-     ]
-    },
-    {
-     "name": "Hip-Hop Icon",
-     "for": "Nation 00s",
-     "copy": "Still breaking records and pushing boundaries! Wishing Eminem a very happy 52nd birthday on Saturday. What's his most iconic song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#HipHop"
+      "#NickyByrne"
      ]
     }
    ]
   },
   {
-   "id": "exmoor-dark-skies-festival",
-   "off": 7,
+   "id": "ashanti-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Happy 46th Birthday Ashanti",
+   "blurb": "Grammy-winning American singer, songwriter, and actress Ashanti, known for hits like 'Foolish' and 'Always on Time', turns 46 on October 13th.",
+   "source": {
+    "l": "Famous Musicians' Birthdays",
+    "u": "https://www.famousbirthdays.com/october/13.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "R&B Queen Bday",
+     "copy": "Get ready to celebrate! The incredible Ashanti turns 46 on Tuesday. What's your favourite track from the R&B superstar?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Ashanti"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "october-half-term",
+   "off": 0,
    "type": "seasonal",
    "hot": true,
-   "title": "Exmoor Dark Skies Festival Starts",
-   "blurb": "The Exmoor Dark Skies Festival begins on Friday, October 16th, offering stargazing and astronomical events until November 1st.",
+   "title": "October Half Term Kicks Off",
+   "blurb": "October half-term holidays begin in Scotland from October 12-16, with England, Wales, and Northern Ireland following later in the month (Oct 26-30).",
    "source": {
-    "l": "Exmoor National Park",
-    "u": "https://www.exmoor-nationalpark.gov.uk/events/dark-skies-festival"
+    "l": "Icelolly / VisitBritain",
+    "u": "https://www.icelolly.com/blog/uk-school-holidays-and-half-term-dates"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
     {
      "g": "radio-exe",
-     "sub": "Radio Exe"
+     "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    },
-    {
-     "g": "nation-network",
+     "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Stargazing in Devon",
-     "for": "Radio Exe",
-     "copy": "Look up, Devon! The Exmoor Dark Skies Festival kicks off next Friday, October 16th, for incredible stargazing. Clear skies, everyone!",
+     "name": "Half Term Plans",
+     "copy": "Half term starts next week for our listeners in Scotland! What are your plans for the school break?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#ExmoorDarkSkies #Devon"
+      "#HalfTerm"
      ]
     },
     {
-     "name": "Autumn Nights",
-     "for": "Nation Radio Westcountry",
-     "copy": "The perfect excuse to wrap up warm and look to the stars! Exmoor's Dark Skies Festival begins next Friday. Who's going?",
+     "name": "Family Fun",
+     "copy": "Getting ready for half term? Whether it's a staycation or day trips, share your family fun ideas with us!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "13:30",
      "tags": [
-      "#DarkSkies #Exmoor"
+      "#SchoolHolidays"
      ]
     }
    ]
   },
   {
-   "id": "halloween-build-up",
-   "off": 18,
+   "id": "halloween-events-uk",
+   "off": 0,
    "type": "seasonal",
-   "hot": false,
-   "title": "Halloween Events Begin",
-   "blurb": "Various Halloween-themed activities, including pumpkin picking and spooky attractions, are starting across the UK in the run-up to October 31st.",
+   "hot": true,
+   "title": "Halloween Events Underway",
+   "blurb": "Spooky season is officially here! Halloween events are already running across the UK, with theme park fright nights and family-friendly attractions open throughout October.",
    "source": {
-    "l": "VisitEngland",
-    "u": "https://www.visitengland.com/whats-on/autumn-2026-uk"
+    "l": "VisitBritain / Ticketmaster",
+    "u": "https://www.visitbritain.com/gb/en/halloween-bonfire-night-britain"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Spooky Season Starts",
-     "for": "",
-     "copy": "The spooky season is officially upon us! Pumpkin patches are open and Halloween events are beginning across the UK.",
+     "name": "Spooky Season",
+     "copy": "The UK is getting spooky! Halloween events are in full swing, from terrifying theme parks to family pumpkin patches. What's on your Halloween to-do list?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok",
       "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Halloween2026"
+     ]
+    },
+    {
+     "name": "Fright Night Fun",
+     "copy": "Alton Towers Scarefest and Thorpe Park Fright Nights are already open! Who's brave enough for a rollercoaster in the dark this Halloween?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Scarefest"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "national-album-day",
+   "off": 8,
+   "type": "culture",
+   "hot": true,
+   "title": "National Album Day Approaches",
+   "blurb": "National Album Day, celebrating 'Icons' this year in association with BBC Radio 2, takes place on October 17th with exclusive limited edition releases from artists like Aretha Franklin, George Michael, and Johnny Marr.",
+   "source": {
+    "l": "Music Week",
+    "u": "https://www.musicweek.com/labels/read/national-album-day-reveals-bumper-list-of-releases-for-2026-icons-edition/094254"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Album Icons",
+     "copy": "National Album Day is just over a week away, celebrating 'Icons' like Aretha Franklin and George Michael. Which iconic album will you be spinning on October 17th?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#NationalAlbumDay"
+     ]
+    },
+    {
+     "name": "Vinyl Vibes",
+     "copy": "New limited edition releases for National Album Day are coming! Perfect for vinyl collectors and music lovers alike. Get ready to celebrate album art and sound.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#AlbumDay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-album-releases-october",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "October's New Album Drops",
+   "blurb": "October brings a wave of new album releases, including Johnny Marr's 'The Age Of Everything', Fontaines D.C.'s 'Dopamine Chamber', and Tinie Tempah's 'The Night's Not Dead'.",
+   "source": {
+    "l": "Townsend Music / Retrofuturista",
+    "u": "https://www.townsendmusic.store/magazine/new-album-releases-autumn-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Fresh Music Friday",
+     "copy": "New music alert! Johnny Marr, Fontaines D.C., and Tinie Tempah all have new albums dropping this month. What's first on your listening list?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "07:30",
+     "tags": [
+      "#NewMusicFriday"
+     ]
+    },
+    {
+     "name": "Album Spotlight",
+     "copy": "Tinie Tempah's 'The Night's Not Dead' arrives in stages, culminating on Oct 16th. A concept album tracing a single night out – sounds epic!",
+     "channels": [
+      "facebook",
+      "x"
      ],
      "time": "12:00",
      "tags": [
-      "#Halloween #PumpkinPicking"
-     ]
-    },
-    {
-     "name": "Half Term Frights",
-     "for": "",
-     "copy": "Planning some half-term fun? Many places are starting their Halloween activities early, from ghost walks to family frights!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#SpookySeason"
+      "#TinieTempah"
      ]
     }
    ]
