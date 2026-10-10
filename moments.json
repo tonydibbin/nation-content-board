@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-10T15:36:55.376Z",
+ "updated": "2026-10-10T19:35:34.078Z",
  "moments": [
   {
-   "id": "premier-league-oct10-12",
+   "id": "premier-league-weekend",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Weekend Action",
-   "blurb": "Matchweek 6 of the Premier League season brings a packed schedule of fixtures across Saturday, Sunday, and Monday, including a huge clash between Liverpool and Manchester City on Sunday.",
+   "title": "Premier League Weekend Kicks Off",
+   "blurb": "The Premier League serves up a huge weekend of football, with Manchester United facing Tottenham today and a massive clash between Liverpool and Manchester City tomorrow.",
    "source": {
-    "l": "Premier League 2026-27 Schedule",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvwG8GnlT1QTDl0xLahKtgRUbRIWxmZmR0ooG__gZE-zM-9Gaibl88cVTjEtPkbPqolr8iIgVLosJXbX3HA-yhi8ENWRoknybXNkHeem7cGtrmj7yDy7v621jbcOft44LbBhAK8zXYwSUmH5CBI8hbqx9yGzdFvlFxG1RdKo7ZL5bpiC8vCoqDAveBaXeJEuKIk_U2"
+    "l": "Premier League / Sky Sports",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
@@ -20,72 +20,119 @@
    ],
    "angles": [
     {
-     "name": "Weekend Kick-off",
-     "copy": "Premier League football is back in full swing this weekend! Who are you backing today as Arsenal take on Leeds, Chelsea face Bournemouth, and Man Utd host Tottenham? Predictions, please!",
+     "name": "Weekend Overview",
+     "copy": "Premier League weekend is here! Man Utd v Spurs today, then Liverpool v Man City tomorrow. Who are you backing for the big points?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Sunday Showdown",
-     "copy": "Sunday's the big one! Liverpool vs Manchester City at Anfield – a massive early title-race indicator. Where will the points go?",
+     "name": "Man Utd vs Spurs Hype",
+     "copy": "Tonight at Old Trafford, it's Manchester United vs Tottenham. Can Spurs continue their strong start or will United dominate at home?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "14:00",
      "tags": [
-      "#LIVMCI"
+      "#MUNSPURS"
      ]
     },
     {
-     "name": "Monday Night Football",
-     "copy": "Round off your Premier League weekend with Monday night football! Coventry City host Newcastle United. What's your score prediction?",
+     "name": "Liverpool vs Man City Anticipation",
+     "copy": "Get ready for the biggest game of the weekend! Liverpool host Manchester City at Anfield tomorrow. Early title decider vibes?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "17:00",
+     "time": "18:00",
      "tags": [
-      "#MNF"
+      "#LIVMCI"
      ]
     }
    ]
   },
   {
-   "id": "halloween-build-up-uk",
+   "id": "taylor-swift-chart-no1",
    "off": 0,
-   "type": "seasonal",
+   "type": "culture",
    "hot": true,
-   "title": "Halloween Countdown Begins",
-   "blurb": "With Halloween on October 31st, many spooky events and attractions across the UK are already underway or gearing up, including theme park fright nights and eerie light trails.",
+   "title": "Taylor Swift Dominates UK Singles Chart",
+   "blurb": "Taylor Swift's 'Patient Zero' holds strong at number one on the Official UK Singles Chart, leading a week with several new entries and big movers.",
    "source": {
-    "l": "UK Halloween Events 2026",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBoiYy6kfAMWO-1Wl5G-m1V6AGK-dyjhzhZBTU6X-Od_wpglJCwqDS_l657pSm12W2hBjfxjZWreNhspeX7gm8Tq-yx5UMr7pw5JnpyMuD65ub9P2iB7LQozUIBStuKTAynwcmwlOXt6LmCKDcjXHnTQdsL4rfBODA1jqOFhsq53Q1Qi4EI_qiNphaAvpu9W-_bzdIwgTXfTYfI1oLuQUON0yCX0NxMxRUgyLlNAEE-g=="
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
     {
-     "g": "nation-network",
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "copy": "Taylor Swift is still queen of the charts! 'Patient Zero' remains at #1 on the Official UK Singles Chart. What's your favourite track from the top 40 right now?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Entries",
+     "copy": "Beyond Taylor Swift's 'Patient Zero' at #1, there are some big new entries this week from Noah Kahan, Drake, and more! Who are you adding to your playlist?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "swn-festival-cardiff",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Sŵn Festival Returns to Cardiff",
+   "blurb": "Cardiff's award-winning Sŵn Festival kicks off next week, running from October 15-17 across multiple venues, showcasing new and emerging artists.",
+   "source": {
+    "l": "Sŵn Festival",
+    "u": "https://swnfest.com/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "dragon",
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
     {
      "g": "nation-network",
@@ -94,171 +141,99 @@
    ],
    "angles": [
     {
-     "name": "Spooky Season Kicks Off",
-     "copy": "The spooky season is officially here! From Fright Nights at Thorpe Park to Scarefest at Alton Towers, Halloween events are starting to take over the UK. What's your favourite way to get spooky?",
+     "name": "Festival Buzz",
+     "copy": "Sŵn Festival is back! Cardiff will be buzzing with new music from October 15-17 as the multi-venue festival takes over. Who are you hoping to catch?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Halloween2026"
-     ]
-    },
-    {
-     "name": "Pumpkin Picking Vibes",
-     "copy": "It’s officially pumpkin picking season! Are you heading out to find the perfect gourd for carving this year? Share your pumpkin patch pics!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PumpkinPicking"
-     ]
-    },
-    {
-     "name": "Haunted UK",
-     "copy": "With Halloween just around the corner, which UK haunted house or eerie attraction are you brave enough to visit? We're hearing whispers about Kew Gardens' light trail starting next week!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#SpookySeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "david-lee-roth-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 71st to David Lee Roth",
-   "blurb": "Legendary Van Halen frontman David Lee Roth celebrates his 71st birthday today, known for his energetic stage presence and classic rock anthems.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuPqXk5FdThNzy40ExtxFk8IZ4m8wJZAICFbI2u9OZBGzkeyVidqgiXh-n78_otv90YBwGZJr1zZ9LfoH-N7-_feYKYw4Qz9NhGZ3vDcehevJNmxrsMewX3u0Usi4J6PeLX90ZM-uTLrvycrePf8ZfS3tU1SA="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Diamond Dave's Day",
-     "copy": "Happy 71st birthday to the one and only Diamond Dave! Still Jumpin' after all these years. What's your favourite Van Halen track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#DavidLeeRoth"
-     ]
-    },
-    {
-     "name": "Van Halen Icon",
-     "copy": "Rock icon David Lee Roth turns 71 today! From 'Panama' to 'California Girls', he's given us some absolute classics. Celebrate with a listen!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#VanHalen"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mya-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Mya Turns 47",
-   "blurb": "Grammy-winning R&B singer Mya, known for hits like 'Case of the Ex' and 'Ghetto Supastar', celebrates her 47th birthday today.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuPqXk5FdThNzy40ExtxFk8IZ4m8wJZAICFbI2u9OZBGzkeyVidqgiXh-n78_otv90YBwGZJr1zZ9LfoH-N7-_feYKYw4Qz9NhGZ3vDcehevJNmxrsMewX3u0Usi4J6PeLX90ZM-uTLrvycrePf8ZfS3tU1SA="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Mya",
-     "copy": "Happy 47th Birthday to the incredible Mya! Remember 'Case of the Ex'? Still a bop! What's your favourite Mya track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "09:00",
      "tags": [
-      "#Mya"
+      "#SwnFestival"
      ]
     },
     {
-     "name": "R&B Queen",
-     "copy": "Wishing a very Happy Birthday to R&B icon Mya! From her solo hits to 'Lady Marmalade', she's given us so much. Tune in to celebrate!",
+     "name": "Supporting Welsh Talent",
+     "copy": "Get ready to discover your new favourite band! Sŵn Festival is a brilliant platform for emerging artists and homegrown Welsh talent. Don't miss it!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "13:00",
      "tags": [
-      "#RnbMusic"
+      "#WelshMusic"
      ]
     }
    ]
   },
   {
-   "id": "martin-kemp-bday",
+   "id": "gbbo-audience-choice",
    "off": 0,
-   "type": "birthday",
+   "type": "tv",
    "hot": true,
-   "title": "Martin Kemp is 65 Today",
-   "blurb": "Martin Kemp, bassist for iconic 80s band Spandau Ballet and beloved actor, celebrates his 65th birthday today.",
+   "title": "Bake Off's Audience Choice Week Sparks Chat",
+   "blurb": "The Great British Bake Off (Series 17) has viewers talking after its 'Audience Choice Week' shook up traditional themes, with judges Paul Hollywood and Nigella Lawson overseeing unique challenges.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhVbZpxnTk9LaIr43HGvCNFQLt9rzmXIzJNbh89aU2v1Q409yBlPbPYKh7jiHI0jNY3PLiLQzKLzPM3zpFXf3_ecOZctvUhubdtDiQQvi4Pd1o9XMLKYZizbMcZWAKzqAU92GKOvoZw_6pYOlz1nBYIE5hghGb1h_kF4rT"
+    "l": "Channel 4",
+    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off Debate",
+     "copy": "Bake Off's 'Audience Choice Week' has caused a stir! Did you love the new themes or are you missing the classics like Bread Week? Let us know!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "Wearable Bakes",
+     "copy": "From edible fashion to mystery boxes, this week's Bake Off was wild! Who impressed you most with their 'wearable bake' showstopper?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#BakeOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-simon-85th",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Paul Simon Turns 85",
+   "blurb": "Legendary singer-songwriter Paul Simon, known for his work with Art Garfunkel and his iconic solo career, celebrates his 85th birthday on October 13.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Paul_Simon"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
@@ -266,103 +241,57 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Gold for Martin",
-     "copy": "Happy 65th Birthday to the legendary Martin Kemp! From Spandau Ballet to EastEnders, he's a true British icon. What's your favourite Spandau Ballet song?",
+     "name": "Happy Birthday Paul Simon",
+     "copy": "Happy 85th Birthday to the incredible Paul Simon! From Simon & Garfunkel to Graceland, his music is timeless. What's your favourite Paul Simon track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#MartinKemp"
+      "#PaulSimon"
      ]
     },
     {
-     "name": "Spandau Ballet Star",
-     "copy": "It's Martin Kemp's 65th birthday! Get into the groove with some Spandau Ballet classics to celebrate the man who gave us 'Gold'!",
+     "name": "Simon & Garfunkel Legacy",
+     "copy": "Celebrating 85 years of Paul Simon this week! His songwriting with Art Garfunkel created some of the most enduring folk-rock hits ever. Which one hits you hardest?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "14:00",
+     "time": "17:00",
      "tags": [
-      "#SpandauBallet"
+      "#SimonAndGarfunkel"
      ]
     }
    ]
   },
   {
-   "id": "midge-ure-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Midge Ure Turns 73",
-   "blurb": "Scottish musician Midge Ure, known for his work with Ultravox and co-writing 'Do They Know It's Christmas?', celebrates his 73rd birthday today.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhVbZpxnTk9LaIr43HGvCNFQLt9rzmXIzJNbh89aU2v1Q409yBlPbPYKh7jiHI0jNY3PLiLQzKLzPM3zpFXf3_ecOZctvUhubdtDiQQvi4Pd1o9XMLKYZizbMcZWAKzqAU92GKOvoZw_6pYOlz1nBYIE5hghGb1h_kF4rT"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Ultravox Icon",
-     "copy": "Happy 73rd Birthday to the brilliant Midge Ure! From Ultravox to Band Aid, his influence on music is undeniable. What's your favourite Ultravox track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#MidgeUre"
-     ]
-    },
-    {
-     "name": "Synth-pop Pioneer",
-     "copy": "Raise a glass to Midge Ure, celebrating his 73rd today! A true synth-pop pioneer and a legend of the 80s. What's your top Midge Ure moment?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Ultravox"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cliff-richard-bday",
+   "id": "sir-cliff-richard-86th",
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Sir Cliff Richard Turns 86",
-   "blurb": "British music legend Sir Cliff Richard, who has enjoyed a career spanning over six decades, celebrates his 86th birthday on October 14th.",
+   "title": "Sir Cliff Richard's 86th Birthday",
+   "blurb": "British music icon Sir Cliff Richard, a chart-topping artist for over six decades, celebrates his 86th birthday on October 14.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEfJVSBFzf9BKYdy-sbVn1aQ6zsKA3h7p0uBmVKzKxGU0xa-3c-GergN5nlMOsAUBbSHgQVcEUHpcxMH7wPYNkEkx6IUl6Cb1ti_6TvT3x_YDiOeyXXnucilVfwC8HmfMm8zfD68Uqa6MKusJRXC0VWrGIdTScIhBfe-9y"
+    "u": "https://en.wikipedia.org/wiki/Cliff_Richard"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
@@ -373,34 +302,32 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Sir Cliff",
-     "copy": "Wishing a very Happy 86th Birthday to the enduring Sir Cliff Richard on Wednesday! A true icon of British music.",
+     "name": "Happy Birthday Cliff",
+     "copy": "A very happy 86th birthday to the legendary Sir Cliff Richard on October 14! From 'Move It' to 'Summer Holiday', what's your favourite Cliff hit?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "09:30",
      "tags": [
       "#CliffRichard"
      ]
     },
     {
-     "name": "6 Decades of Hits",
-     "copy": "From 'Summer Holiday' to 'Mistletoe and Wine', Sir Cliff Richard has given us hits for over 60 years. Celebrate his 86th birthday on Wednesday by sharing your favourite Cliff track!",
+     "name": "British Music Icon",
+     "copy": "Sir Cliff Richard turns 86 this week! A true British music legend with a career spanning over 65 years. What's your top Cliff Richard memory?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "14:00",
+     "time": "14:30",
      "tags": [
       "#BritishMusic"
      ]
@@ -408,20 +335,20 @@
    ]
   },
   {
-   "id": "usher-bday",
-   "off": 4,
+   "id": "eminem-54th",
+   "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Usher Turns 48",
-   "blurb": "Multi-platinum selling R&B superstar Usher, known for hits like 'Yeah!' and 'OMG', celebrates his 48th birthday on October 14th.",
+   "title": "Eminem Turns 54",
+   "blurb": "Marshall Mathers III, better known as the groundbreaking rapper Eminem, celebrates his 54th birthday on October 17.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEfJVSBFzf9BKYdy-sbVn1aQ6zsKA3h7p0uBmVKzKxGU0xa-3c-GergN5nlMOsAUBbSHgQVcEUHpcxMH7wPYNkEkx6IUl6Cb1ti_6TvT3x_YDiOeyXXnucilVfwC8HmfMm8zfD68Uqa6MKusJRXC0VWrGIdTScIhBfe-9y"
+    "u": "https://en.wikipedia.org/wiki/Eminem"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -429,56 +356,409 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Yeah! It's Usher's Birthday",
-     "copy": "Yeah! It's Usher's 48th birthday on Wednesday! Get ready to crank up the R&B hits and celebrate one of the smoothest voices in music.",
+     "name": "Happy Birthday Eminem",
+     "copy": "Happy 54th Birthday to the one and only Eminem on October 17! From 'My Name Is' to 'Lose Yourself', his impact on hip-hop is undeniable. What's your go-to Eminem track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "11:00",
      "tags": [
-      "#Usher"
+      "#Eminem"
      ]
     },
     {
-     "name": "R&B Royalty",
-     "copy": "On Wednesday, we're celebrating the one and only Usher's 48th birthday! What's your go-to Usher track?",
+     "name": "Rap Legend",
+     "copy": "Celebrating a true rap legend this week! Eminem turns 54 on October 17. Which album of his is your all-time favourite?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "15:00",
+     "time": "16:30",
      "tags": [
-      "#RNB"
+      "#SlimShady"
      ]
     }
    ]
   },
   {
-   "id": "justin-hayward-bday",
-   "off": 4,
+   "id": "laura-marling-birthday",
+   "off": 0,
    "type": "birthday",
-   "hot": true,
-   "title": "Justin Hayward is 80",
-   "blurb": "Justin Hayward, lead singer and guitarist of The Moody Blues, celebrates his 80th birthday on October 14th.",
+   "hot": false,
+   "title": "Laura Marling's Birthday",
+   "blurb": "Mercury Prize-winning English folk singer-songwriter Laura Marling celebrates her 36th birthday today, October 10.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEfJVSBFzf9BKYdy-sbVn1aQ6zsKA3h7p0uBmVKzKxGU0xa-3c-GergN5nlMOsAUBbSHgQVcEUHpcxMH7wPYNkEkx6IUl6Cb1ti_6TvT3x_YDiOeyXXnucilVfwC8HmfMm8zfD68Uqa6MKusJRXC0VWrGIdTScIhBfe-9y"
+    "u": "https://en.wikipedia.org/wiki/Laura_Marling"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Laura Marling's Day",
+     "copy": "Happy 36th Birthday to the brilliant Laura Marling! Her distinctive folk sound has earned her critical acclaim and a Mercury Prize. What's your favourite of her albums?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LauraMarling"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bfi-london-film-festival",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "BFI London Film Festival Continues",
+   "blurb": "The prestigious BFI London Film Festival runs until October 18, offering a diverse program of international cinema, premieres, and filmmaker events across the capital.",
+   "source": {
+    "l": "BFI London Film Festival",
+    "u": "https://whatson.bfi.org.uk/lff/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Film Festival Picks",
+     "copy": "The BFI London Film Festival is in full swing! What films are on your must-see list, or have you already caught a hidden gem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#LFF"
+     ]
+    },
+    {
+     "name": "London's Cinema Hub",
+     "copy": "From red carpet premieres to indie discoveries, the BFI London Film Festival lights up the city until Oct 18. Immerse yourself in the world of film!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#LondonFilm"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cheltenham-literature-festival",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Cheltenham Literature Festival Ongoing",
+   "blurb": "The Cheltenham Literature Festival, one of the world's most renowned literary events, continues until October 18 with a packed schedule of author talks and discussions.",
+   "source": {
+    "l": "Cheltenham Literature Festival",
+    "u": "https://www.cheltenhamfestivals.com/literature/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Literary Event",
+     "copy": "Bookworms unite! The Cheltenham Literature Festival is still bringing top authors and compelling conversations to the South West until Oct 18. What's on your reading list?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#CheltLitFest"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-scientist-live",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "New Scientist Live Kicks Off in London",
+   "blurb": "New Scientist Live, a major science festival featuring talks, demonstrations, and interactive exhibits, opens today at ExCeL London and runs until October 12.",
+   "source": {
+    "l": "New Scientist Live",
+    "u": "https://live.newscientist.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Science in London",
+     "copy": "For all you curious minds, New Scientist Live starts today at ExCeL London! Dive into the latest in science, tech, and health until Monday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#NewScientistLive"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gŵyl-sain-cardiff",
+   "off": 21,
+   "type": "gig",
+   "hot": false,
+   "title": "Gŵyl Sain Festival in Cardiff",
+   "blurb": "Welsh independent record label Sain hosts its Gŵyl Sain festival on October 31 in Cardiff, celebrating Welsh music across the decades with live performances and talks.",
+   "source": {
+    "l": "Nation.Cymru",
+    "u": "https://nation.cymru/culture/music-festival-returns-for-second-year-with-celebration-of-welsh-talent/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh Music Celebration",
+     "copy": "Mark your calendars! Gŵyl Sain is back on Oct 31 in Cardiff, celebrating the rich history and future of Welsh music. Essential for any Welsh music fan!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#GwylSain"
+     ]
+    },
+    {
+     "name": "Supporting Local Labels",
+     "copy": "Sain Records is putting on a fantastic festival in Cardiff on Halloween! Get ready for a day of live music and engaging conversations. #WelshCulture",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#CardiffMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "britbox-new-series",
+   "off": 2,
+   "type": "tv",
+   "hot": true,
+   "title": "New British Dramas on BritBox",
+   "blurb": "BritBox is releasing several new British dramas this month, including the docuseries 'The Incident Room' (Oct 12) and psychological crime drama 'Patience S1' (Oct 14).",
+   "source": {
+    "l": "BritBox",
+    "u": "https://www.britbox.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "BritBox Binge",
+     "copy": "Your October BritBox binge just got bigger! 'The Incident Room' drops Oct 12 and 'Patience S1' on Oct 14. What British drama are you looking forward to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#BritBox"
+     ]
+    },
+    {
+     "name": "New Crime Drama",
+     "copy": "Love a good British crime drama? 'Patience' Season 1, about an autistic records clerk solving murders, arrives on BritBox Oct 14. Add it to your watch list!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#CrimeDrama"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exmoor-dark-skies-festival",
+   "off": 6,
+   "type": "seasonal",
+   "hot": false,
+   "title": "Exmoor Dark Skies Festival",
+   "blurb": "The Exmoor Dark Skies Festival runs from October 16 to November 1, offering stargazing events and activities in one of the UK's designated Dark Sky Reserves.",
+   "source": {
+    "l": "Exmoor National Park",
+    "u": "https://www.exmoor-nationalpark.gov.uk/events/dark-skies-festival"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Westcountry"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Stargazing in Exmoor",
+     "copy": "Look up! The Exmoor Dark Skies Festival kicks off on Oct 16. Perfect for stargazers and nature lovers right on our doorstep! #ExmoorDarkSkies",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Devon"
+     ]
+    },
+    {
+     "name": "Autumn Nights",
+     "copy": "Embrace the darker nights with the Exmoor Dark Skies Festival, starting next week. Discover the wonders of the universe in a breathtaking setting.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Stargazing"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "swansea-spooks-city",
+   "off": 21,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Swansea's Spooks in the City: Day of the Dead",
+   "blurb": "Swansea's free Halloween party, 'Spooks in the City,' returns on October 31 with a vibrant Day of the Dead theme, featuring mariachi bands, fire performers, and family activities.",
+   "source": {
+    "l": "Swansea Council",
+    "u": "https://www.swansea.gov.uk/spooksinthecity"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Halloween in Swansea",
+     "copy": "Swansea is going Day of the Dead for Halloween! 'Spooks in the City' on Oct 31 promises mariachi bands, fire performers, and family fun. Get ready to celebrate!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Swansea"
+     ]
+    },
+    {
+     "name": "Day of the Dead Celebration",
+     "copy": "Experience a unique Halloween in Swansea with 'Spooks in the City' taking on a vibrant Día de los Muertos theme. Music, dance, and creative crafts awaits!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#DiadelosMuertos"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-lennon-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Remembering John Lennon on his Birthday",
+   "blurb": "Today marks what would have been the 86th birthday of music icon John Lennon, born October 9, 1940, a founding member of The Beatles and a prolific solo artist.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/John_Lennon"
    },
    "fits": [
     {
@@ -492,556 +772,95 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Moody Blues Master",
-     "copy": "Happy 80th Birthday to Justin Hayward of The Moody Blues on Wednesday! 'Nights in White Satin' and so many more timeless tracks. What's your favourite?",
+     "name": "Lennon's Legacy",
+     "copy": "Today, we remember John Lennon on what would have been his 86th birthday. His music and message continue to inspire generations. What's your favourite Lennon song?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
-      "#JustinHayward"
+      "#JohnLennon"
      ]
     },
     {
-     "name": "Prog Rock Legend",
-     "copy": "Celebrating the 80th birthday of Justin Hayward on Wednesday! The voice and guitar behind The Moody Blues' greatest hits. Tune in for a classic!",
+     "name": "Beatles Icon",
+     "copy": "Thinking of John Lennon on his birthday. His contribution to music with The Beatles and as a solo artist is immeasurable. A true legend.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "13:00",
      "tags": [
-      "#TheMoodyBlues"
+      "#TheBeatles"
      ]
     }
    ]
   },
   {
-   "id": "john-mayer-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "John Mayer's 49th Birthday",
-   "blurb": "Grammy-winning singer-songwriter and guitarist John Mayer, celebrated for his blues-infused pop-rock, turns 49 on October 16th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnyVmTH7accEtjfC5ASzCaz_mczBivYHE_Aa_laf8Ow9c-bbLuogE4neDQlmlvvIy2ZMsr1u6sPvKb_TJKefk7SnBooKV_WcIoE653etxa5XATZTqbMnWxCy1BBe3bOF2Ieu0="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Gravity & Guitars",
-     "copy": "On Friday, we're celebrating the 49th birthday of guitar maestro John Mayer! 'Gravity', 'Daughters', 'Your Body Is a Wonderland' – so many hits. What's your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JohnMayer"
-     ]
-    },
-    {
-     "name": "Blues Rock Star",
-     "copy": "Wishing a Happy 49th Birthday to the incredible John Mayer this Friday! Get ready for some smooth blues-rock to celebrate.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#GuitarLegend"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "flea-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Flea Turns 64",
-   "blurb": "Michael 'Flea' Balzary, the dynamic bassist for the Red Hot Chili Peppers, celebrates his 64th birthday on October 16th.",
-   "source": {
-    "l": "Dave's Music Database",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU0bHJsfpd3i3eLhn76immqYQX8qyRN_RznIqUkLw2wtttNxuj0Hsil1MCCV7VOYitfhfwes5OmLI_f9uPnlpUMwKjyrcwdgwTeZNO5yWNc-ZNPBLMAWNWRRwrOjmjUIRTXZ4Q25KyNP8SCBFSRBiq8gYXi6ibV5OuBtUZDhC2IlY4gp2e2CGllYZe70Tp"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "RHCP Bassist's Big Day",
-     "copy": "Happy 64th Birthday to the phenomenal Flea this Friday! The driving force behind Red Hot Chili Peppers' iconic sound. What's your favourite RHCP song?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Flea"
-     ]
-    },
-    {
-     "name": "Funk Rock Legend",
-     "copy": "Celebrating the one and only Flea's 64th birthday on Friday! Get your funk-rock fix with some Red Hot Chili Peppers to mark the occasion!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#RedHotChiliPeppers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eminem-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Eminem Turns 54",
-   "blurb": "Marshall Mathers III, globally renowned rapper Eminem, famous for his lyrical prowess and impactful albums, celebrates his 54th birthday on October 17th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5nX-TQvXaKhlxJBhz3WC6TfpDBJHShi3gqL7UuRN72f1956UXuo_HNm1H7nyiS4ueg_0MA4yhx-lAEFx5l7GNV3dUAtg4WHiqa_3qik_dIHjAc4bJ9r9sssZVNhtGhtoC3_EzRAxRBhLbQZE--1MqcXUtq0uzXuDphw=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rap God's Birthday",
-     "copy": "Guess who's 54 on Saturday? The Rap God himself, Eminem! Drop your favourite Slim Shady lyric to celebrate!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Eminem"
-     ]
-    },
-    {
-     "name": "Shady Turns 54",
-     "copy": "Wishing a massive Happy 54th Birthday to Eminem this Saturday! From 'Lose Yourself' to 'Stan', his tracks are iconic. What's your ultimate Eminem anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SlimShady"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wyclef-jean-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Wyclef Jean Turns 54",
-   "blurb": "Haitian musician, rapper, and producer Wyclef Jean, a founding member of The Fugees, celebrates his 54th birthday on October 17th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5nX-TQvXaKhlxJBhz3WC6TfpDBJHShi3gqL7UuRN72f1956UXuo_HNm1H7nyiS4ueg_0MA4yhx-lAEFx5l7GNV3dUAtg4WHiqa_3qik_dIHjAc4bJ9r9sssZVNhtGhtoC3_EzRAxRBhLbQZE--1MqcXUtq0uzXuDphw=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fugees Legend's Birthday",
-     "copy": "Happy 54th Birthday to the incredible Wyclef Jean this Saturday! From The Fugees to his solo work, his music always gets you moving.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#WyclefJean"
-     ]
-    },
-    {
-     "name": "Killing Me Softly with his tunes",
-     "copy": "Celebrating Wyclef Jean's 54th birthday on Saturday! What's your favourite Fugees or Wyclef track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TheFugees"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ne-yo-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Ne-Yo is 47",
-   "blurb": "Grammy-winning R&B singer, songwriter, and producer Ne-Yo, known for hits like 'So Sick' and 'Closer', celebrates his 47th birthday on October 18th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHYrAqu2KCw5EqRBEqe2pcUt7XgMLlBNvGGZXFxZm79c6ygwmKz5BE4NCIS1m100eFH094FHmyiDryGOL9-NOKbDlasso03xtXe2QxLEIsJoyap6CfDto6-BmL2WkXkBKizRnqDk-8oCU="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "So Sick of it NOT being his birthday",
-     "copy": "Happy 47th Birthday to the incredible Ne-Yo on Sunday! Still 'So Sick' of waiting for his next album. What's your favourite Ne-Yo track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#NeYo"
-     ]
-    },
-    {
-     "name": "R&B Smoothness",
-     "copy": "Celebrating Ne-Yo's 47th birthday this Sunday! Get ready for some smooth R&B classics to mark the occasion.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RNBVibes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "snoop-dogg-bday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Snoop Dogg's 55th Birthday",
-   "blurb": "Calvin Cordozar Broadus Jr., better known as the iconic rapper Snoop Dogg, celebrates his 55th birthday on October 20th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxX7eeedr9OdS4GIBu39Gpdb7fWIzGgF9TmnI-68SD8Wew36HI1acMTmtuh8dJaSEvTQX0aywO8ydgnrXe8paq401FyQQYEZ71Lss1HbYhTSXdRRsU1mnJIXo8zJbVM86T379_2UPDw2VwPorinlyoZaU65DF9Gfy_sw=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bow Wow Wow It's Snoop's Birthday",
-     "copy": "Drop it like it's hot for Snoop Dogg's 55th birthday on Tuesday! The Doggfather himself celebrates another year. What's your favourite Snoop track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#SnoopDogg"
-     ]
-    },
-    {
-     "name": "Gin and Juice for Snoop",
-     "copy": "Wishing a very Happy 55th Birthday to the legendary Snoop Dogg this Tuesday! Get your 'Gin and Juice' ready to celebrate!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Doggfather"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mark-king-bday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Mark King Turns 68",
-   "blurb": "Mark King, the acclaimed bassist and lead singer of the British jazz-funk band Level 42, celebrates his 68th birthday on October 20th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxX7eeedr9OdS4GIBu39Gpdb7fWIzGgF9TmnI-68SD8Wew36HI1acMTmtuh8dJaSEvTQX0aywO8ydgnrXe8paq401FyQQYEZ71Lss1HbYhTSXdRRsU1mnJIXo8zJbVM86T379_2UPDw2VwPorinlyoZaU65DF9Gfy_sw=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Level 42 Icon's Birthday",
-     "copy": "Happy 68th Birthday to the bass-playing legend Mark King of Level 42 on Tuesday! 'Lessons in Love' and so many more hits. What's your favourite?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#MarkKing"
-     ]
-    },
-    {
-     "name": "Funk Bass Master",
-     "copy": "Celebrating Mark King's 68th birthday this Tuesday! Get into the groove with some Level 42 to honour the funk bass master!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Level42"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ffear-fforest-zipworld",
+   "id": "llais-festival-cardiff",
    "off": 0,
-   "type": "seasonal",
+   "type": "gig",
    "hot": true,
-   "title": "Ffear Fforest is Open in North Wales",
-   "blurb": "Zip World's Ffear Fforest, a terrifying Halloween experience in North Wales, is open now until November 1st, offering spooky thrills and adventure.",
+   "title": "Llais Festival & Welsh Music Prize",
+   "blurb": "Cardiff's Llais Festival continues, with the Welsh Music Prize taking place tonight, celebrating the best Welsh music of the past year with live performances.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsVEFwe5w3DDDzdydLISH7QEMo6LwQn8keh7O71iXn_Qe-FKIXiuVG3Y4sGeLDJtf_BkLnEat-Wk1eXjeWtv9wYtr4bjUFLiPrIQj9XpbDtrAl7Vjq05W241RmIZIUE1CRvjOqhhlBLEHZrC3OLMFSTV2Fm_p4gn2vsn384TJpFOwc72EI1SBkl_O"
+    "l": "Wales Millennium Centre",
+    "u": "https://www.wmc.org.uk/en/whats-on/llais"
    },
    "fits": [
     {
      "g": "welsh-local",
-     "sub": ""
+     "sub": "Bridge FM"
     },
     {
      "g": "dragon",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "North Wales Frights",
-     "copy": "North Wales thrill-seekers, Ffear Fforest at Zip World is now open! Ready for some spooky adventures and terrifying fun this Halloween season?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#FfearFforest",
-      "#NorthWales"
-     ]
     },
-    {
-     "name": "Halloween Adventure",
-     "copy": "Looking for Halloween thrills? Ffear Fforest at Zip World is running until November 1st! Who are you taking for a fright-filled adventure in North Wales?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ZipWorld",
-      "#HalloweenWales"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "scottish-half-term",
-   "off": 2,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Scotland's October Half-Term",
-   "blurb": "Schools across Scotland are on their October half-term break from October 12-16, offering families a chance for autumn activities and early Halloween celebrations.",
-   "source": {
-    "l": "The Best Halloween Events in the UK for 2026",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBoiYy6kfAMWO-1Wl5G-m1V6AGK-dyjhzhZBTU6X-Od_wpglJCwqDS_l657pSm12W2hBjfxjZWreNhspeX7gm8Tq-yx5UMr7pw5JnpyMuD65ub9P2iB7LQozUIBStuKTAynwcmwlOXt6LmCKDcjXHnTQdsL4rfBODA1jqOFhsq53Q1Qi4EI_qiNphaAvpu9W-_bzdIwgTXfTYfI1oLuQUON0yCX0NxMxRUgyLlNAEE-g=="
-   },
-   "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": "Nation Radio Wales"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Scottish School's Out",
-     "copy": "Happy Half-Term, Scotland! Schools are out from Monday 12th to Friday 16th October. What are your plans for the week?",
+     "name": "Welsh Music Prize Tonight",
+     "copy": "It's the Welsh Music Prize tonight as part of Cardiff's Llais Festival! Who do you think will take home the coveted award for the best Welsh album?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "08:00",
+     "time": "16:00",
      "tags": [
-      "#ScottishHalfTerm"
+      "#WelshMusicPrize"
      ]
     },
     {
-     "name": "Autumn Adventures in Scotland",
-     "copy": "It's half-term for Scottish schools next week! Perfect time for some autumn adventures. What local events or attractions are you visiting?",
+     "name": "Llais Festival Highlights",
+     "copy": "Cardiff is buzzing with the Llais Festival! Tonight's Welsh Music Prize is a highlight, showcasing the incredible talent from Wales. Don't miss the live performances!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "19:00",
      "tags": [
-      "#Scotland"
+      "#LlaisFestival"
      ]
     }
    ]
