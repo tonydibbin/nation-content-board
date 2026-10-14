@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-14T00:41:19.159Z",
+ "updated": "2026-10-14T05:33:10.070Z",
  "moments": [
   {
-   "id": "ucl-matchday2-oct14",
+   "id": "england-latvia-wcqual",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Champions League Matchday 2 Closes",
-   "blurb": "The second matchday of the UEFA Champions League group stage concludes today, featuring Manchester City vs PSG as a headline fixture.",
+   "title": "England's World Cup Qualifier",
+   "blurb": "England faces Latvia today in a crucial World Cup 2026 European Qualifier, aiming to solidify their position in Group K.",
    "source": {
-    "l": "UEFA.com / Paramount+",
-    "u": "https://www.uefa.com/uefachampionsleague/fixtures-results/"
+    "l": "Sky Sports",
+    "u": "https://www.skysports.com/football/news/12026/12568603/england-world-cup-2026-european-qualifying-fixtures-and-tournament-schedule"
    },
    "fits": [
     {
@@ -20,44 +20,355 @@
    ],
    "angles": [
     {
-     "name": "Matchday Wrap",
-     "copy": "Champions League Matchday 2 wraps up tonight! Who impressed you most from the British teams and who's got work to do?",
+     "name": "Match Day Buzz",
+     "for": "",
+     "copy": "It's World Cup Qualifier day! England take on Latvia today – can the Three Lions secure another vital three points on the road to 2026?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#England"
+     ]
+    },
+    {
+     "name": "Team Talk",
+     "for": "",
+     "copy": "Gareth Southgate's squad is in action today for their World Cup qualifier against Latvia. What are your score predictions?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ThreeLions"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-weekend",
+   "off": 3,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Weekend Kicks Off",
+   "blurb": "The Premier League returns this weekend with a packed schedule of fixtures, including Everton vs Chelsea and Man City vs Ipswich on Saturday.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Weekend Anticipation",
+     "for": "",
+     "copy": "Premier League action is back! Who are you backing this weekend? Big clashes include Everton vs Chelsea and Man City vs Ipswich on Saturday.",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Local Derby Hint",
+     "for": "Nation Radio London",
+     "copy": "London derbies and big games everywhere! Chelsea are at Everton this Saturday, while Spurs face Coventry on Monday. Who's taking the points?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#PL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Official UK Singles Chart Latest",
+   "blurb": "Taylor Swift's 'Patient Zero' holds the top spot on the Official UK Singles Chart for a second week, with new entries from Drake and Noah Kahan.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Pop"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "for": "Nation Hits",
+     "copy": "Two weeks at number one! Taylor Swift's 'Patient Zero' is still dominating the Official UK Singles Chart. Can anyone knock her off?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#UKChart"
+     ]
+    },
+    {
+     "name": "New Entries Buzz",
+     "for": "Nation Hits",
+     "copy": "Drake and Noah Kahan are making waves with new entries on the Official UK Singles Chart. What are you listening to this week?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usher-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 48th, Usher!",
+   "blurb": "R&B superstar Usher, known for hits like 'Yeah!' and 'U Got It Bad', celebrates his 48th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/usher.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "R&B King's Birthday",
+     "for": "Nation Hits",
+     "copy": "Wishing a very happy 48th birthday to the one and only Usher! What's your favourite Usher track to get you moving?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "17:00",
+     "time": "07:00",
      "tags": [
-      "#UCL"
+      "#Usher"
      ]
     },
     {
-     "name": "Man City vs PSG",
-     "copy": "It's the big one tonight! Manchester City take on PSG in a blockbuster Champions League clash. Predictions, Nation?",
+     "name": "Throwback Jam",
+     "for": "Nation 00s",
+     "copy": "He's still got it! Celebrate Usher's 48th birthday today by cranking up a classic. 'Yeah!' anyone?",
      "channels": [
+      "tiktok",
       "instagram",
-      "facebook",
-      "x"
+      "facebook"
      ],
-     "time": "19:00",
+     "time": "13:00",
      "tags": [
-      "#ManCity #PSG #UCL"
+      "#Rnb"
      ]
     }
    ]
   },
   {
-   "id": "katherine-jenkins-palladium",
+   "id": "cliff-richard-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Sir Cliff Richard Turns 86",
+   "blurb": "British music icon Sir Cliff Richard, whose career spans over six decades, celebrates his 86th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/cliff-richard.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Legend's Birthday",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 86th birthday to the incredible Sir Cliff Richard! A true legend of British music. What's your go-to Cliff track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#CliffRichard"
+     ]
+    },
+    {
+     "name": "Evergreen Icon",
+     "for": "Nation Easy",
+     "copy": "Still making waves after all these years! We're celebrating Sir Cliff Richard's 86th birthday today. Send in your favourite memories!",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#BritishMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shaznay-lewis-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "All Saints' Shaznay Lewis is 51",
+   "blurb": "Shaznay Lewis, singer-songwriter and member of the iconic 90s girl group All Saints, turns 51 today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/shaznay-lewis.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "All Saints Shoutout",
+     "for": "Nation 90s",
+     "copy": "Happy 51st birthday to Shaznay Lewis from All Saints! Get 'Pure Shores' on repeat to celebrate.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#AllSaints"
+     ]
+    },
+    {
+     "name": "Nineties Nostalgia",
+     "for": "Nation Hits",
+     "copy": "From 'Never Ever' to 'Pure Shores', Shaznay Lewis gave us some iconic tracks. Happy 51st to the All Saints star!",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#90sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thomas-dolby-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Thomas Dolby Turns 68",
+   "blurb": "New Wave and synth-pop pioneer Thomas Dolby, famous for 'She Blinded Me with Science', celebrates his 68th birthday.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/thomas-dolby.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Synth-Pop Genius",
+     "for": "Nation 80s",
+     "copy": "She blinded us with science! Happy 68th birthday to the brilliant Thomas Dolby. What's your favourite 80s synth classic?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ThomasDolby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "katherine-jenkins-london",
    "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Katherine Jenkins Live in London",
-   "blurb": "Welsh mezzo-soprano Katherine Jenkins performs live tonight at the London Palladium.",
+   "title": "Katherine Jenkins at Palladium",
+   "blurb": "Welsh mezzo-soprano Katherine Jenkins performs tonight at the London Palladium.",
    "source": {
     "l": "London Theatreland",
-    "u": "https://www.londontheatreland.com/london-concerts/october/"
+    "u": "https://www.londontheatreland.com/london-shows/concerts-in-london"
    },
    "fits": [
     {
@@ -69,57 +380,160 @@
      "sub": "Nation Classic Hits"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
      "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Tonight's Performance",
-     "copy": "The magnificent Katherine Jenkins graces the stage of the London Palladium tonight! Who's lucky enough to be there?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#KatherineJenkins #LondonPalladium"
-     ]
-    },
-    {
-     "name": "Welsh Pride",
-     "copy": "Our very own Katherine Jenkins lights up London tonight! Sending all our love and support to the Welsh superstar.",
+     "name": "Welsh Voice in London",
+     "for": "welsh-local",
+     "copy": "Our very own Katherine Jenkins lights up the London Palladium tonight! Who's lucky enough to be there?",
      "channels": [
       "facebook",
       "x",
       "instagram"
      ],
+     "time": "17:00",
+     "tags": [
+      "#KatherineJenkins"
+     ]
+    },
+    {
+     "name": "Classical Evening",
+     "for": "Nation Easy",
+     "copy": "An evening of exquisite music awaits! Katherine Jenkins performs at the London Palladium tonight. Pure class.",
+     "channels": [
+      "facebook",
+      "instagram"
+     ],
      "time": "18:00",
      "tags": [
-      "#WelshTalent #ClassicalMusic"
+      "#LiveMusic"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-oct09-15",
+   "id": "stevie-wonder-birmingham",
    "off": 0,
-   "type": "culture",
+   "type": "gig",
    "hot": true,
-   "title": "UK Singles Chart Update",
-   "blurb": "The Official UK Singles Chart for October 9-15 sees Taylor Swift's 'Patient Zero' at number one, closely followed by British rising star Sienna Spiro's 'Great Expectation' at number two.",
+   "title": "Stevie Wonder in Birmingham",
+   "blurb": "The legendary Stevie Wonder brings his 'Songs In The Key of Life' performances to Utilita Arena Birmingham tonight.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "PhotoPitLive",
+    "u": "https://photopitlive.com/gig-guide/october-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Motown Legend Live",
+     "for": "Nation Classic Hits",
+     "copy": "Stevie Wonder is in Birmingham tonight performing 'Songs In The Key of Life'! An unmissable show from a true musical genius.",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#StevieWonder"
+     ]
+    },
+    {
+     "name": "Birmingham Buzz",
+     "for": "nation-network",
+     "copy": "Birmingham, are you ready for Stevie Wonder? The legend takes over Utilita Arena tonight! Which classic are you hoping to hear?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#LiveMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "duran-duran-uk-tour",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Duran Duran UK Tour Kicks Off",
+   "blurb": "Duran Duran's UK tour begins tomorrow, October 15th, running through October 24th across five major cities.",
+   "source": {
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/music/concerts-tours-uk-2026-tickets/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Wave On Tour",
+     "for": "Nation 80s",
+     "copy": "Wild Boys, unite! Duran Duran's UK tour kicks off tomorrow. Are you ready to dance into the weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#DuranDuran"
+     ]
+    },
+    {
+     "name": "Tour Buzz",
+     "for": "nation-network",
+     "copy": "Duran Duran are hitting the road across the UK starting tomorrow! Which city are you seeing them in?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#LiveMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "j-cole-uk-tour",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "J. Cole's UK Arena Tour",
+   "blurb": "J. Cole begins his major world tour with eight UK arena dates, starting October 19th in London.",
+   "source": {
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/music/concerts-tours-uk-2026-tickets/"
    },
    "fits": [
     {
@@ -127,14 +541,216 @@
      "sub": "Nation Hits"
     },
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Chart Battle",
-     "copy": "Taylor Swift holds onto #1 this week with 'Patient Zero'! Can Sienna Spiro's 'Great Expectation' finally take the top spot next time?",
+     "name": "Hip-Hop Heavy Hitter",
+     "for": "Nation Hits",
+     "copy": "J. Cole is bringing his world tour to UK arenas starting October 19th! Who's got their tickets ready?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#JCole"
+     ]
+    },
+    {
+     "name": "London Calling",
+     "for": "Nation Radio London",
+     "copy": "London, get ready! J. Cole kicks off his UK arena tour here on October 19th. It's going to be huge!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LondonGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "frieze-london-art",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Frieze London Art Fair",
+   "blurb": "The prestigious Frieze London art fair is currently running from October 14th to 18th, showcasing contemporary art in Regent's Park.",
+   "source": {
+    "l": "Visit London",
+    "u": "https://www.visitlondon.com/things-to-do/whats-on/special-events/london-in-october"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Art World Buzz",
+     "for": "Nation Radio London",
+     "copy": "Frieze London is on! If you're in the capital, immerse yourself in contemporary art at Regent's Park until Sunday.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#FriezeLondon"
+     ]
+    },
+    {
+     "name": "Culture Fix",
+     "for": "",
+     "copy": "One of the world's leading art fairs, Frieze London, is happening now. What's the most unusual piece of art you've ever seen?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#ArtLondon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "halloween-kew-gardens",
+   "off": 2,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Halloween at Kew Gardens",
+   "blurb": "Kew Gardens transforms for Halloween with an eerie light trail starting October 16th and running until November 1st.",
+   "source": {
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.com/gb/en/halloween-and-bonfire-night-britain"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Spooky Stroll",
+     "for": "Nation Radio London",
+     "copy": "Get ready for spooky season! Halloween at Kew Gardens starts this Friday with an eerie light trail. Perfect for a family fright night!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#HalloweenLondon"
+     ]
+    },
+    {
+     "name": "Autumn Adventures",
+     "for": "",
+     "copy": "Looking for some autumnal magic? Halloween at Kew Gardens kicks off this week with illuminated trees and ghostly goings-on.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#KewGardens"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "october-half-term-scotland",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Scottish Half-Term Week",
+   "blurb": "Scotland's October half-term holiday runs this week, October 12-16, offering families a break ahead of Halloween.",
+   "source": {
+    "l": "Scarefest",
+    "u": "https://scarefest.co.uk/halloween-events-uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "School's Out Scotland",
+     "for": "Nation Radio Scotland",
+     "copy": "Happy half-term, Scotland! The kids are off this week, giving you plenty of time for autumn adventures. What are your plans?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#ScottishHalfTerm"
+     ]
+    },
+    {
+     "name": "Family Fun",
+     "for": "Nation Radio Scotland",
+     "copy": "With half-term in full swing across Scotland, we want to know what fun you're having. Pumpkin picking, maybe?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#FamilyTime"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thorpe-park-fright-nights",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Thorpe Park Fright Nights Ongoing",
+   "blurb": "Thorpe Park's Fright Nights, celebrating their 25th anniversary, are in full swing until November 1st, offering thrills and scares for Halloween.",
+   "source": {
+    "l": "Scarefest",
+    "u": "https://scarefest.co.uk/halloween-events-uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dare You Enter?",
+     "for": "",
+     "copy": "Thorpe Park Fright Nights are celebrating 25 years of scares! Who's braving the mazes and rides before November 1st?",
      "channels": [
       "instagram",
       "facebook",
@@ -143,21 +759,72 @@
      ],
      "time": "12:00",
      "tags": [
-      "#OfficialCharts #TaylorSwift #SiennaSpiro"
+      "#FrightNights"
      ]
     },
     {
-     "name": "Rising Star",
-     "copy": "Huge week for 20-year-old British artist Sienna Spiro, sitting at #2 on the Official Singles Chart. What a talent!",
+     "name": "Theme Park Thrills",
+     "for": "Nation Radio London",
+     "copy": "If you're looking for a serious Halloween thrill, Thorpe Park's Fright Nights are on now! Get ready to scream.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#ThorpePark"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "harry-potter-dark-arts",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Dark Arts at Harry Potter Studios",
+   "blurb": "Warner Bros. Studio Tour London's 'Dark Arts' Halloween takeover continues until November 8th, offering a spookier look at the wizarding world.",
+   "source": {
+    "l": "Visit London",
+    "u": "https://www.visitlondon.com/things-to-do/whats-on/special-events/london-in-october"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hogwarts Halloween",
+     "for": "",
+     "copy": "Calling all witches and wizards! The 'Dark Arts' Halloween takeover at Warner Bros. Studio Tour London is on until November 8th. Who's visiting Hogwarts?",
      "channels": [
       "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#HarryPotter"
+     ]
+    },
+    {
+     "name": "Magical & Spooky",
+     "for": "Nation Radio London",
+     "copy": "Experience the darker side of the wizarding world! The Harry Potter Studio Tour has been transformed for Halloween. Don't miss it!",
+     "channels": [
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#SiennaSpiro #NewMusic"
+      "#DarkArts"
      ]
     }
    ]
@@ -167,8 +834,8 @@
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday John Mayer",
-   "blurb": "Grammy-winning singer-songwriter and guitarist John Mayer turns 49 on October 16.",
+   "title": "John Mayer Turns 49",
+   "blurb": "Grammy-winning singer-songwriter and guitarist John Mayer celebrates his 49th birthday on Friday, October 16th.",
    "source": {
     "l": "Famous Birthdays",
     "u": "https://www.famousbirthdays.com/people/john-mayer.html"
@@ -185,28 +852,30 @@
    ],
    "angles": [
     {
-     "name": "Guitar Legend",
-     "copy": "Wishing a very Happy 49th Birthday to the incredible John Mayer on October 16th! What's your favourite guitar solo from him?",
+     "name": "Guitar Hero Birthday",
+     "for": "Nation Rocks",
+     "copy": "Happy 49th birthday to the incredible John Mayer on Friday! What's your favourite guitar riff from the man himself?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "14:00",
      "tags": [
-      "#JohnMayer #HappyBirthday"
+      "#JohnMayer"
      ]
     },
     {
-     "name": "Mayer's Hits",
-     "copy": "John Mayer turns 49 this Friday! Celebrate by cranking up a classic like 'Gravity' or 'Daughters'. Which one are you choosing?",
+     "name": "Friday Feels",
+     "for": "Nation Hits",
+     "copy": "Get ready for some smooth tunes to celebrate John Mayer's 49th birthday on Friday! Which song are you listening to first?",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "17:00",
      "tags": [
-      "#JohnMayerMusic"
+      "#Musician"
      ]
     }
    ]
@@ -216,8 +885,8 @@
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Flea",
-   "blurb": "Red Hot Chili Peppers bassist Flea, born Michael Peter Balzary, celebrates his 64th birthday on October 16.",
+   "title": "Flea is 64!",
+   "blurb": "Red Hot Chili Peppers bassist and co-founder Flea (Michael Balzary) celebrates his 64th birthday on Friday, October 16th.",
    "source": {
     "l": "Famous Birthdays",
     "u": "https://www.famousbirthdays.com/people/flea.html"
@@ -238,650 +907,9 @@
    ],
    "angles": [
     {
-     "name": "Funk Bass God",
-     "copy": "Happy 64th Birthday to the one and only Flea! The legendary Red Hot Chili Peppers bassist still brings the funk like no other.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Flea #RHCP #HappyBirthday"
-     ]
-    },
-    {
-     "name": "Chili Peppers Vibe",
-     "copy": "Flea turns 64 on Friday! What's your all-time favourite Red Hot Chili Peppers track that highlights his incredible bass lines?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#RedHotChiliPeppers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gary-kemp-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Gary Kemp",
-   "blurb": "Gary Kemp, guitarist and principal songwriter for Spandau Ballet, turns 67 on October 16.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/gary-kemp.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Romantic Icon",
-     "copy": "Gold! Happy 67th Birthday to Spandau Ballet's Gary Kemp this Friday! What's your favourite song he penned?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#GaryKemp #SpandauBallet #HappyBirthday"
-     ]
-    },
-    {
-     "name": "80s Anthems",
-     "copy": "Gary Kemp, the man behind so many Spandau Ballet hits, celebrates his birthday this week. Time to relive some 80s magic!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bob-mould-birthday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Bob Mould",
-   "blurb": "Alternative rock pioneer Bob Mould, known for Hüsker Dü and Sugar, celebrates his 66th birthday on October 16.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/bob-mould.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Alt-Rock Legend",
-     "copy": "Happy 66th Birthday to the influential Bob Mould! From Hüsker Dü to Sugar, his impact on alternative rock is undeniable.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#BobMould #HuskerDu #Sugar"
-     ]
-    },
-    {
-     "name": "Indie Icon",
-     "copy": "Celebrating Bob Mould's 66th this Friday! What's your go-to track from his incredible career?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#AlternativeRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-reytons-edinburgh",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "The Reytons Live in Edinburgh",
-   "blurb": "The Reytons play the Edinburgh Corn Exchange on October 16, bringing their high-energy indie rock to Scotland.",
-   "source": {
-    "l": "PhotoPitLive.com",
-    "u": "https://www.photopitlive.com/uk-live-music-calendar/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Scottish Gig",
-     "copy": "Edinburgh! The Reytons hit the Corn Exchange this Friday for a night of anthemic indie rock. Who's got tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#TheReytons #Edinburgh #ScottishGigs"
-     ]
-    },
-    {
-     "name": "Indie Anthems",
-     "copy": "The Reytons are bringing their massive sound to Scotland this week. Get ready for a huge night!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#IndieMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-matchweek7",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Matchweek 7",
-   "blurb": "Premier League Matchweek 7 kicks off on Saturday, October 17, with several key fixtures including Brentford vs Liverpool and Leeds United vs Manchester United on Sunday.",
-   "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Weekend Football",
-     "copy": "Premier League is back this weekend with Matchweek 7! What's the biggest game you're looking forward to?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#PremierLeague #Football"
-     ]
-    },
-    {
-     "name": "Sunday Showdowns",
-     "copy": "Sunday's Premier League action includes Leeds vs Man Utd! Who's taking the points?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "19:30",
-     "tags": [
-      "#LEEMUN"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-icons-week",
-   "off": 3,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing: Icons Week",
-   "blurb": "Strictly Come Dancing returns on Saturday, October 17, for 'Icons Week', following Melanie Walters' elimination last Sunday.",
-   "source": {
-    "l": "BBC One",
-    "u": "https://www.bbc.co.uk/strictly"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Icons Week Anticipation",
-     "copy": "Strictly is back this Saturday for ICONIC performances! Who are you hoping to see dance to a legend's track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Strictly #IconsWeek"
-     ]
-    },
-    {
-     "name": "Melanie's Exit",
-     "copy": "Sad to see Melanie Walters leave Strictly last weekend. Who do you think will be in the dance-off next?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "great-british-bake-off-bread-week",
-   "off": 5,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off: Bread Week",
-   "blurb": "The Great British Bake Off continues on Tuesday, October 20, with the much-anticipated Bread Week, featuring new judge Nigella Lawson.",
-   "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Returns",
-     "copy": "Get ready for Bread Week in the Bake Off tent this Tuesday! What's your favourite bread to bake (or eat)?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#GBBO #BakeOff"
-     ]
-    },
-    {
-     "name": "Nigella's Influence",
-     "copy": "Nigella Lawson's first Bread Week as a Bake Off judge! What kind of feedback do you expect from her?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#NigellaLawson"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wyclef-jean-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Wyclef Jean",
-   "blurb": "Grammy-winning Fugees co-founder Wyclef Jean turns 54 on October 17.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/wyclef-jean.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fugees Legend",
-     "copy": "Happy 54th Birthday to the iconic Wyclef Jean this Saturday! Drop your favourite Fugees track below!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#WyclefJean #Fugees #HappyBirthday"
-     ]
-    },
-    {
-     "name": "Solo Hits",
-     "copy": "From 'Gone Till November' to 'Maria Maria', Wyclef Jean's solo career is legendary. He turns 54 this weekend!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#HipHop #R&B"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eminem-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Eminem",
-   "blurb": "Rap superstar Eminem celebrates his 54th birthday on October 17.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/eminem.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rap God",
-     "copy": "Happy 54th Birthday to the one and only Eminem this Saturday! What's your all-time favourite Slim Shady anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Eminem #HappyBirthday #Rap"
-     ]
-    },
-    {
-     "name": "Still Standing",
-     "copy": "Eminem turns 54 this weekend! Which of his albums do you think is his most iconic?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#SlimShady"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "j-cole-london-gig",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "J. Cole Live at The O2 London",
-   "blurb": "American rapper J. Cole performs at The O2 in London on October 19 and 20 as part of 'The Fall Off' tour.",
-   "source": {
-    "l": "Time Out London",
-    "u": "https://www.timeout.com/london/music/the-biggest-london-gigs-coming-up-in-october"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "London Calling",
-     "copy": "J. Cole takes over The O2 in London on Monday and Tuesday! Who's heading to see 'The Fall Off' tour?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#JCole #TheO2 #LondonGigs"
-     ]
-    },
-    {
-     "name": "Rap Royalty",
-     "copy": "Two nights of J. Cole in London next week! What's the one track you absolutely NEED to hear live?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "18:30",
-     "tags": [
-      "#HipHop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "amy-winehouse-band-back-to-black",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "Amy Winehouse Band: Back To Black Live",
-   "blurb": "The Amy Winehouse Band performs 'Back To Black' in full with special guests Jorja Smith and Corinne Bailey Rae at The Roundhouse in London on October 21.",
-   "source": {
-    "l": "Time Out London",
-    "u": "https://www.timeout.com/london/music/the-biggest-london-gigs-coming-up-in-october"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Soul"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tribute Night",
-     "copy": "An unmissable night for Amy Winehouse fans! Her band performs 'Back To Black' live in London next Wednesday with special guests.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#AmyWinehouse #BackToBlack"
-     ]
-    },
-    {
-     "name": "Soulful Sounds",
-     "copy": "Jorja Smith and Corinne Bailey Rae joining the Amy Winehouse Band for a special 'Back To Black' show! Who's excited?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#SoulMusic #LondonGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "halloween-events-uk",
-   "off": 10,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK Halloween Events Kick Off",
-   "blurb": "Various Halloween events across the UK are in full swing or starting this week, leading up to October 31, including theme park fright nights and light trails.",
-   "source": {
-    "l": "VisitBritain / Time Out",
-    "u": "https://www.visitbritain.com/gb/en/plan-your-trip/seasons/autumn/halloween-bonfire-night"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Spooky Season Begins",
-     "copy": "Spooky season is officially here! From Alton Towers Scarefest to city-wide events, what Halloween fun are you planning?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#HalloweenUK #SpookySeason"
-     ]
-    },
-    {
-     "name": "Fright Night Fun",
-     "copy": "Theme park Fright Nights are terrifying thrill-seekers across the UK! Have you braved Thorpe Park or Alton Towers yet?",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#FrightNight"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ffear-fforest-halloween-wales",
-   "off": 10,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Ffear Fforest Halloween in North Wales",
-   "blurb": "Zip World's Ffear Fforest in North Wales is running its Halloween events from October 16 to November 1, offering spooky thrills.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/gb/en/plan-your-trip/seasons/autumn/halloween-bonfire-night"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Halloween Thrills",
-     "copy": "North Wales! Ffear Fforest at Zip World is bringing the scares from Friday until November 1st. Are you brave enough?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#FfearFforest #ZipWorld #NorthWales"
-     ]
-    },
-    {
-     "name": "Local Spooks",
-     "copy": "Looking for Halloween fun in Wales? Ffear Fforest promises frights and thrills throughout October!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#HalloweenWales"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "scottish-october-half-term",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Scottish October Half Term",
-   "blurb": "Scotland's October half-term holiday, running from October 12-16, is ongoing this week, offering families a break.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/gb/en/plan-your-trip/seasons/autumn/halloween-bonfire-night"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Half Term Fun",
-     "copy": "Happy Half Term, Scotland! What are you and the family getting up to this week before school's back?",
+     "name": "Bass Legend's Birthday",
+     "for": "Nation Rocks",
+     "copy": "The funk master general! Happy 64th birthday to Flea from the Red Hot Chili Peppers on Friday. What's his most iconic bassline?",
      "channels": [
       "instagram",
       "facebook",
@@ -889,72 +917,178 @@
      ],
      "time": "09:00",
      "tags": [
-      "#ScottishHalfTerm #FamilyFun"
+      "#Flea"
      ]
     },
     {
-     "name": "Exploring Scotland",
-     "copy": "With the Scottish half term in full swing, where's your favourite place to explore in Scotland during autumn?",
+     "name": "RHCP Icon",
+     "for": "Nation 90s",
+     "copy": "Wishing a very happy 64th birthday to the legendary Flea! Get some Chili Peppers on loud to celebrate the man himself.",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "13:00",
      "tags": [
-      "#VisitScotland"
+      "#RHCP"
      ]
     }
    ]
   },
   {
-   "id": "tyla-glasgow-gig",
-   "off": 4,
-   "type": "gig",
+   "id": "snoop-dogg-birthday",
+   "off": 6,
+   "type": "birthday",
    "hot": true,
-   "title": "Tyla Live in Glasgow",
-   "blurb": "South African singer Tyla brings her blend of R&B and Amapiano to the O2 Academy Glasgow on October 18.",
+   "title": "Snoop Dogg Turns 55",
+   "blurb": "Iconic rapper, media personality, and entrepreneur Snoop Dogg celebrates his 55th birthday on Tuesday, October 20th.",
    "source": {
-    "l": "PhotoPitLive.com",
-    "u": "https://www.photopitlive.com/uk-live-music-calendar/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/snoop-dogg.html"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation 90s"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Glasgow Gig Alert",
-     "copy": "Glasgow! Tyla is at the O2 Academy this Monday for a night of incredible R&B and Amapiano. Who's ready to dance?",
+     "name": "West Coast Icon",
+     "for": "Nation Dance",
+     "copy": "Drop it like it's hot! Happy 55th birthday to the one and only Snoop Dogg on Tuesday! What's your favourite Snoop track?",
      "channels": [
       "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SnoopDogg"
+     ]
+    },
+    {
+     "name": "Hip-Hop Royalty",
+     "for": "Nation 90s",
+     "copy": "From 'Gin and Juice' to global icon, Snoop Dogg turns 55 next week! Celebrate the legend with his greatest hits.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#HipHop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dark-skies-festival",
+   "off": 9,
+   "type": "seasonal",
+   "hot": true,
+   "title": "North York Moors Dark Skies Festival",
+   "blurb": "The North York Moors Dark Skies Fringe Festival begins on October 23rd, celebrating the region's International Dark Sky Status with stargazing events until November 1st.",
+   "source": {
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.com/gb/en/things-to-do/events/autumn-events"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Stargazing Yorkshire",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Look up, Yorkshire! The Dark Skies Fringe Festival kicks off next week in the North York Moors, celebrating our incredible night sky.",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#DarkSkies"
+     ]
+    },
+    {
+     "name": "Celestial Event",
+     "for": "",
+     "copy": "Escape the city lights! The North York Moors Dark Skies Festival starts October 23rd, offering amazing stargazing opportunities. Have you ever been?",
+     "channels": [
       "facebook",
       "x"
      ],
      "time": "17:00",
      "tags": [
-      "#Tyla #GlasgowGigs #O2AcademyGlasgow"
+      "#NorthYorkMoors"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-celebrity-traitors",
+   "off": 2,
+   "type": "tv",
+   "hot": true,
+   "title": "The Celebrity Traitors",
+   "blurb": "Episode six of 'The Celebrity Traitors' airs on BBC One this Friday, October 16th.",
+   "source": {
+    "l": "TV Radar",
+    "u": "https://www.tv-radar.co.uk/tv-guide/tonight/fri-16-oct-2026-celebrity-traitors-graham-norton/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Who's a Traitor?",
+     "for": "",
+     "copy": "The drama continues! Episode six of 'The Celebrity Traitors' is on BBC One this Friday. Who do you think is a Traitor?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#TheTraitors"
      ]
     },
     {
-     "name": "Amapiano Vibes",
-     "copy": "Tyla's bringing her unique sound to Scotland next week! Get into the Amapiano groove.",
+     "name": "Friday Night TV",
+     "for": "",
+     "copy": "Get your Friday night TV sorted! 'The Celebrity Traitors' is back on BBC One. Grab the popcorn!",
      "channels": [
       "facebook",
       "x"
      ],
      "time": "19:00",
      "tags": [
-      "#Amapiano #R&B"
+      "#RealityTV"
      ]
     }
    ]
