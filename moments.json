@@ -1,29 +1,72 @@
 {
- "updated": "2026-10-15T05:35:42.061Z",
+ "updated": "2026-10-15T10:25:41.680Z",
  "moments": [
   {
-   "id": "premier-league-oct17",
+   "id": "prem-league-clash",
    "off": 2,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Weekend Kicks Off",
-   "blurb": "Matchweek 7 of the Premier League season gets underway this Saturday, with several big games including Everton vs Chelsea and Newcastle vs Aston Villa.",
+   "title": "Premier League Showdown: Brentford vs Liverpool",
+   "blurb": "A major Premier League fixture sees Brentford host Liverpool on Saturday, October 17th, with both teams looking to secure crucial points early in the season.",
    "source": {
-    "l": "Premier League",
+    "l": "Premier League Official Site",
     "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Build-up",
+     "for": "",
+     "copy": "Big game Saturday! Brentford welcome Liverpool to wrap up a big weekend of Premier League action. Who are you backing for the win? #PremierLeague",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#PremierLeague"
+     ]
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "name": "Fantasy Football Alert",
+     "for": "",
+     "copy": "Fantasy managers, listen up! Brentford vs Liverpool is a tricky one. Are you captaining Salah, or looking for a differential from the Bees? Decisions, decisions...",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#FPL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "welsh-derby-championship",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "South Wales Derby: Swansea City vs West Ham",
+   "blurb": "The highly anticipated Championship clash sees Swansea City take on West Ham United at the Swansea.com Stadium on Saturday, October 17th.",
+   "source": {
+    "l": "EFL Official Site",
+    "u": "https://www.efl.com/fixtures-and-results/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "dragon",
+     "sub": ""
     },
     {
      "g": "nation-network",
@@ -32,93 +75,41 @@
    ],
    "angles": [
     {
-     "name": "Saturday Showdown",
-     "for": "",
-     "copy": "Premier League action is back! Who are you backing for the win this Saturday? Everton vs Chelsea, Man City vs Ipswich, plus Newcastle host Aston Villa. #PL",
+     "name": "Local Derby Excitement",
+     "for": "welsh-local",
+     "copy": "It's derby day in South Wales! Swansea City host West Ham this Saturday. Who's heading to the Swansea.com Stadium, and what are your score predictions? #SWAvWHU",
      "channels": [
       "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Big Games This Weekend",
-     "for": "",
-     "copy": "Get ready for a busy weekend of Premier League football! Catch Everton v Chelsea and Newcastle v Aston Villa on Saturday, plus Leeds v Man Utd on Sunday.",
-     "channels": [
       "facebook",
       "x"
      ],
      "time": "10:00",
      "tags": [
-      "#Football"
+      "#SouthWalesDerby"
+     ]
+    },
+    {
+     "name": "Championship Buzz",
+     "for": "nation-network",
+     "copy": "The Championship delivers again! A massive game for Swansea City this Saturday as they face West Ham. Expect fireworks! #Championship",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#EFL"
      ]
     }
    ]
   },
   {
-   "id": "exeter-chiefs-champions-cup",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "Exeter Chiefs in Champions Cup",
-   "blurb": "Exeter Chiefs travel to France to take on Stade Toulousain in their opening Investec Champions Cup fixture this Sunday.",
-   "source": {
-    "l": "Exeter Chiefs Rugby",
-    "u": "https://www.exeterchiefs.co.uk/fixtures"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Westcountry"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chiefs European Challenge",
-     "for": "radio-exe",
-     "copy": "Our Exeter Chiefs kick off their European campaign this Sunday! They're in France facing Stade Toulousain in the Investec Champions Cup. Big one for the lads! #ExeterChiefs",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ChampionsCup"
-     ]
-    },
-    {
-     "name": "Rugby Sunday",
-     "for": "",
-     "copy": "European rugby action this Sunday! Exeter Chiefs are on the road in the Investec Champions Cup. Will they bring home a win from France?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Rugby"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "taylor-swift-chart",
-   "off": 0,
+   "id": "uk-singles-chart",
+   "off": 1,
    "type": "culture",
    "hot": true,
-   "title": "Taylor Swift Dominates UK Chart",
-   "blurb": "Taylor Swift's 'Patient Zero' holds strong at Number 1 on the Official UK Singles Chart for the week of October 9-15, 2026.",
+   "title": "New Official UK Singles Chart Unveiled",
+   "blurb": "The Official UK Singles Chart is updated on Friday, October 16th, revealing the nation's new number one and biggest hits.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
@@ -135,105 +126,44 @@
    ],
    "angles": [
     {
-     "name": "Chart Topper",
+     "name": "Chart Reveal Excitement",
      "for": "Nation Hits",
-     "copy": "Still at the top! Taylor Swift's 'Patient Zero' is your Official UK Singles Chart Number 1 for another week. The reign continues!",
+     "copy": "New music Friday AND new chart Friday! Who's going to grab the top spot on the Official UK Singles Chart today? Any predictions for the new number one?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "09:00",
+     "time": "16:00",
      "tags": [
-      "#TaylorSwift"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Pop Queen",
+     "name": "Weekend Playlist Update",
      "for": "Nation Hits",
-     "copy": "Queen of the charts! Taylor Swift continues her incredible run with 'Patient Zero' holding the top spot. What's your favourite track from her right now?",
+     "copy": "The new UK Singles Chart is IN! Time to update your weekend playlist with the biggest tunes. Catch the rundown on Nation Hits!",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "17:30",
      "tags": [
-      "#UKChart"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
-   "id": "halloween-half-term",
-   "off": 11,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Halloween & Half-Term Approaches",
-   "blurb": "With Halloween just over two weeks away and October half-term starting for many UK schools from October 26th, spooky events and family activities are in full swing across the country.",
-   "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-to-do/halloween-and-bonfire-night"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Spooky Season Engaged",
-     "for": "",
-     "copy": "It's officially spooky season! With Halloween creeping closer and half-term around the corner, what are your plans for frights and fun?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#Halloween"
-     ]
-    },
-    {
-     "name": "Half Term Plans",
-     "for": "nation-network",
-     "copy": "October half-term is almost here for many, meaning plenty of family fun ahead of Halloween! Theme parks like Alton Towers & Thorpe Park have Scarefests running.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HalfTerm"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "duranduran-tour",
-   "off": 0,
+   "id": "duran-duran-o2",
+   "off": 16,
    "type": "gig",
    "hot": true,
-   "title": "Duran Duran UK Tour This Week",
-   "blurb": "Pop legends Duran Duran are continuing their UK tour this week, with dates running until October 24th.",
+   "title": "Duran Duran's 'Danse Macabre Halloween Party' at The O2",
+   "blurb": "Duran Duran brings their special 'Danse Macabre Halloween Party' to The O2 Arena in London on Saturday, October 31st, promising a night of deep cuts and fan favourites.",
    "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/music/best-concerts-tours-uk-2026-how-to-get-tickets/"
+    "l": "The O2 Arena",
+    "u": "https://www.theo2.co.uk/events/detail/duran-duran-2026"
    },
    "fits": [
     {
@@ -242,12 +172,55 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Classic Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Halloween Gig Buzz",
+     "for": "Nation 80s",
+     "copy": "Get ready for a frightfully good night! Duran Duran's 'Danse Macabre Halloween Party' hits The O2 on Oct 31st. What's your favourite spooky-but-stylish Duran Duran track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#DuranDuran"
+     ]
     },
+    {
+     "name": "London Event Highlight",
+     "for": "Nation Radio London",
+     "copy": "London is getting spooky with Duran Duran! Their special Halloween show at The O2 is just around the corner. Are you going?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LondonGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-come-dancing",
+   "off": 2,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing: Icons Week",
+   "blurb": "Strictly Come Dancing returns to BBC One on Saturday, October 17th, for 'Icons Week,' where celebrity couples will pay tribute to famous figures in their routines.",
+   "source": {
+    "l": "BBC One",
+    "u": "https://www.bbc.co.uk/strictlycomedancing"
+   },
+   "fits": [
     {
      "g": "nation-network",
      "sub": ""
@@ -255,9 +228,9 @@
    ],
    "angles": [
     {
-     "name": "Duran Duran Live",
-     "for": "Nation 80s",
-     "copy": "Wild Boys are back! Duran Duran are bringing their iconic sound to stages across the UK this week. Catch them if you can!",
+     "name": "Saturday Night TV Anticipation",
+     "for": "",
+     "copy": "Dust off your glitterball! Strictly Come Dancing is back Saturday for 'Icons Week'. Who do you think will nail their tribute performance?",
      "channels": [
       "instagram",
       "facebook",
@@ -265,438 +238,136 @@
      ],
      "time": "10:30",
      "tags": [
-      "#DuranDuran"
+      "#StrictlyComeDancing"
      ]
     },
     {
-     "name": "80s Icons Touring",
-     "for": "Nation 80s",
-     "copy": "Still got that magic! Duran Duran are on their UK tour, delivering hits from 'Hungry Like the Wolf' to their latest. What's your favourite track live?",
+     "name": "Costume & Dance Chat",
+     "for": "",
+     "copy": "Strictly's Icons Week is always a highlight! Which icon would you love to see a celebrity dance as this Saturday?",
      "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jcole-uk-tour",
-   "off": 4,
-   "type": "gig",
-   "hot": true,
-   "title": "J Cole's Fall-Off Tour Hits UK",
-   "blurb": "Rapper J Cole's highly anticipated 'The Fall-Off Tour' has multiple UK arena dates between October 19th and November 2nd.",
-   "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/music/best-concerts-tours-uk-2026-how-to-get-tickets/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "J Cole Live",
-     "for": "Nation Hits",
-     "copy": "J Cole is bringing 'The Fall-Off Tour' to UK arenas next week! Who's managed to grab tickets for what's set to be an epic run of shows?",
-     "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "tiktok"
+      "facebook"
      ],
-     "time": "11:00",
+     "time": "13:00",
      "tags": [
-      "#JCole"
-     ]
-    },
-    {
-     "name": "Rap Royalty",
-     "for": "Nation Hits",
-     "copy": "One of rap's biggest names is in the UK soon. J Cole's 'The Fall-Off Tour' promises to be unmissable for fans! What's your top J Cole track?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#LiveMusic"
+      "#Strictly"
      ]
     }
    ]
   },
   {
-   "id": "stevie-wonder-birmingham",
-   "off": 0,
-   "type": "gig",
+   "id": "gbbo-caramel-week",
+   "off": 5,
+   "type": "tv",
    "hot": true,
-   "title": "Stevie Wonder in Birmingham",
-   "blurb": "Music legend Stevie Wonder is performing his 'Songs In The Key of Life' 50th Anniversary Tour at Utilita Arena Birmingham tonight.",
+   "title": "Great British Bake Off: Caramel Week",
+   "blurb": "The Great British Bake Off continues on Channel 4 on Tuesday, October 20th, with the much-anticipated 'Caramel Week' putting the bakers' sticky skills to the test.",
    "source": {
-    "l": "Live Nation UK",
-    "u": "https://www.livenation.co.uk/event/calendar"
+    "l": "Channel 4",
+    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Stevie Wonder Tonight",
-     "for": "Nation Classic Hits",
-     "copy": "Tonight's the night in Birmingham! The incomparable Stevie Wonder brings his 'Songs In The Key of Life' 50th Anniversary Tour to Utilita Arena. An absolute legend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#StevieWonder"
-     ]
-    },
-    {
-     "name": "Motown Icon Live",
-     "for": "Nation Easy",
-     "copy": "Still making magic! Stevie Wonder live in Birmingham celebrating 50 years of a masterpiece. Who's lucky enough to be there?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#Motown"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "pussycat-dolls-london",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Pussycat Dolls at The O2",
-   "blurb": "The Pussycat Dolls are bringing their 'PCD FOREVER TOUR' to The O2 in London tonight.",
-   "source": {
-    "l": "Live Nation UK",
-    "u": "https://www.livenation.co.uk/event/calendar"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "PCD Live in London",
-     "for": "Nation 00s",
-     "copy": "Don't cha wish you were there? The Pussycat Dolls are at The O2 London tonight for their 'PCD FOREVER TOUR'! Get ready to dance!",
+     "name": "Baking Challenge Excitement",
+     "for": "",
+     "copy": "Get ready for some sweet stress! It's Caramel Week on Bake Off this Tuesday. What's your favourite caramel creation?",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#PussycatDolls"
-     ]
-    },
-    {
-     "name": "Pop Nostalgia",
-     "for": "Nation Hits",
-     "copy": "The Pussycat Dolls are bringing all the hits to The O2 tonight! Which classic track are you hoping to hear? 'Don't Cha' or 'Buttons'?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chris-de-burgh-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 78th to Chris de Burgh",
-   "blurb": "Irish singer-songwriter Chris de Burgh, known for hits like 'Lady in Red,' celebrates his 78th birthday today.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/october/15"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Lady In Red Singer",
-     "for": "Nation Easy",
-     "copy": "Wishing a very happy 78th birthday to the legendary Chris de Burgh today! Still love 'The Lady In Red' after all these years.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#ChrisDeBurgh"
-     ]
-    },
-    {
-     "name": "Birthday Ballad King",
-     "for": "Nation Love",
-     "copy": "Happy Birthday, Chris de Burgh! The master of the romantic ballad turns 78 today. What's your favourite song from him?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#Birthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "richard-carpenter-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Richard Carpenter Turns 80",
-   "blurb": "Richard Carpenter, the acclaimed musician, producer, and one half of The Carpenters, celebrates his 80th birthday today.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/october/15"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Carpenters Icon's Birthday",
-     "for": "Nation 70s",
-     "copy": "Happy 80th Birthday to Richard Carpenter! The musical genius behind so many Carpenters classics. What's your favourite Carpenters track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RichardCarpenter"
-     ]
-    },
-    {
-     "name": "Legendary Producer Birthday",
-     "for": "Nation Classic Hits",
-     "copy": "Wishing a very happy 80th birthday to Richard Carpenter! His timeless arrangements with The Carpenters continue to be adored worldwide.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#TheCarpenters"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ginuwine-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 51st to Ginuwine",
-   "blurb": "American R&B singer Ginuwine, known for his 90s and 00s hits like 'Pony', celebrates his 51st birthday today.",
-   "source": {
-    "l": "SoulTracks",
-    "u": "https://www.soultracks.com/october-birthdays"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "R&B Star's Birthday",
-     "for": "Nation 90s",
-     "copy": "Get up on that pony for Ginuwine's 51st birthday today! The R&B icon is still bringing the smooth vibes.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
      ],
      "time": "10:00",
      "tags": [
-      "#Ginuwine"
+      "#GBBO"
      ]
     },
     {
-     "name": "Pony at 51",
-     "for": "Nation Dance",
-     "copy": "Happy 51st Birthday to Ginuwine! 'Pony' is still a club banger. What's your favourite Ginuwine track?",
+     "name": "Baking Tips & Tricks",
+     "for": "",
+     "copy": "Caramel Week is notoriously tricky! Any pro tips for getting that perfect golden, gooey caramel at home? Share your secrets! #BakeOff",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "16:30",
+     "time": "14:00",
      "tags": [
-      "#RNB"
+      "#BakingTips"
      ]
     }
    ]
   },
   {
-   "id": "eminem-bday",
-   "off": 2,
+   "id": "birthday-john-mayer",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Eminem Turns 54",
-   "blurb": "Rap superstar Eminem, one of the best-selling music artists of all time, celebrates his 54th birthday on October 17th. [cite: 45 (implied)]",
+   "title": "Happy 49th Birthday, John Mayer!",
+   "blurb": "Grammy-winning musician John Mayer celebrates his 49th birthday on Friday, October 16th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/October_17"
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/john-mayer-mn0000000000/biography"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Rap God's Birthday",
-     "for": "Nation Hits",
-     "copy": "The Real Slim Shady turns 54 this Saturday! Happy Birthday to the one and only Eminem. What's your favourite track from the rap legend?",
+     "name": "Musical Tribute",
+     "for": "Nation Rocks",
+     "copy": "Sending a big 49th birthday shout-out to the incredible John Mayer! What's your go-to John Mayer track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "10:00",
+     "time": "08:00",
      "tags": [
-      "#Eminem"
+      "#JohnMayer"
      ]
     },
     {
-     "name": "Still Shady at 54",
-     "for": "Nation 00s",
-     "copy": "Eminem celebrates his 54th birthday on Saturday! From 'Lose Yourself' to 'Stan', his impact is undeniable. What's his most iconic lyric?",
+     "name": "Guitar Hero Focus",
+     "for": "Nation Rocks",
+     "copy": "Happy 49th to the guitar legend, John Mayer! From blues riffs to pop hits, his talent is undeniable. Crank up a classic today!",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "15:00",
+     "time": "12:00",
      "tags": [
-      "#RapMusic"
+      "#GuitarLegend"
      ]
     }
    ]
   },
   {
-   "id": "snoop-dogg-bday",
+   "id": "birthday-snoop-dogg",
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Snoop Dogg's 55th Birthday",
-   "blurb": "Iconic rapper, media personality, and entrepreneur Snoop Dogg celebrates his 55th birthday on October 20th. [cite: 45 (implied)]",
+   "title": "Happy 55th Birthday, Snoop Dogg!",
+   "blurb": "Iconic rapper and media personality Snoop Dogg turns 55 on Tuesday, October 20th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/October_20"
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/snoop-dogg-mn0000000000/biography"
    },
    "fits": [
     {
@@ -709,54 +380,54 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Snoop Turns 55",
+     "name": "Hip-Hop Icon Celebration",
      "for": "Nation 90s",
-     "copy": "Drop it like it's hot for Snoop Dogg's 55th birthday this Tuesday! The legendary Doggfather is still going strong. [cite: 45 (implied)]",
+     "copy": "Drop it like it's hot for Snoop Dogg, who celebrates his 55th birthday this Tuesday! What's your all-time favourite Snoop track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
       "#SnoopDogg"
      ]
     },
     {
-     "name": "G-Funk Legend Birthday",
-     "for": "Nation Dance",
-     "copy": "Happy 55th Birthday to Snoop Dogg on Tuesday! From 'Gin and Juice' to his latest ventures, he's a true cultural icon. What's your favourite Snoop era?",
+     "name": "Cross-Genre Influence",
+     "for": "Nation Hits",
+     "copy": "From West Coast G-funk to global icon, happy 55th birthday to the one and only Snoop Dogg! Celebrate with his biggest hits all day.",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "17:00",
+     "time": "13:00",
      "tags": [
-      "#HipHop"
+      "#Legend"
      ]
     }
    ]
   },
   {
-   "id": "drake-bday",
-   "off": 9,
+   "id": "birthday-katy-perry",
+   "off": 10,
    "type": "birthday",
    "hot": true,
-   "title": "Drake's 40th Birthday",
-   "blurb": "Canadian rapper and global superstar Drake, one of the most streamed artists ever, celebrates his 40th birthday on October 24th. [cite: 45 (implied)]",
+   "title": "Happy 42nd Birthday, Katy Perry!",
+   "blurb": "Pop superstar Katy Perry celebrates her 42nd birthday on Sunday, October 25th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/October_24"
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/katy-perry-mn0000000000/biography"
    },
    "fits": [
     {
@@ -765,101 +436,50 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Dance"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Drizzy Turns 40",
+     "name": "Pop Queen Celebration",
      "for": "Nation Hits",
-     "copy": "Big milestone for Drizzy! Drake celebrates his 40th birthday this Saturday. What's your all-time favourite Drake anthem? #Drake40",
+     "copy": "It's going to be a firework of a birthday for Katy Perry, who turns 42 on Sunday! What's your favourite Katy Perry anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "12:00",
+     "time": "10:00",
      "tags": [
-      "#Drake"
+      "#KatyPerry"
      ]
     },
     {
-     "name": "Global Superstar Birthday",
-     "for": "Nation Hits",
-     "copy": "Happy 40th Birthday to Drake on Saturday! From 'Hotline Bling' to 'One Dance', his hits are endless. Celebrate with your favourite Drake track!",
+     "name": "Noughties Nostalgia",
+     "for": "Nation 00s",
+     "copy": "From 'I Kissed A Girl' to global sensation, happy 42nd birthday to Katy Perry this Sunday! Relive her biggest hits!",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "19:00",
+     "time": "15:00",
      "tags": [
-      "#BirthdayVibes"
+      "#PopPrincess"
      ]
     }
    ]
   },
   {
-   "id": "war-sky-tv",
-   "off": 0,
-   "type": "tv",
+   "id": "halloween-build-up",
+   "off": 16,
+   "type": "seasonal",
    "hot": true,
-   "title": "Sky's New Legal Drama 'War'",
-   "blurb": "The new legal drama anthology series 'War', following London's most powerful lawyers, premiered on Sky on October 2nd and is currently available.",
+   "title": "Halloween Preparations Heating Up Across the UK",
+   "blurb": "With Halloween just over two weeks away (October 31st), excitement is building across the UK for spooky celebrations, costume planning, and events like Thorpe Park Fright Nights and Alton Towers Scarefest already running.",
    "source": {
-    "l": "I'm a TV expert",
-    "u": "https://www.im-a-tv-expert.com/13-october-2026-tv-shows"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Must-Watch Drama",
-     "for": "nation-network",
-     "copy": "Looking for a new binge? Sky's 'War', the legal drama set among London's elite lawyers, is streaming now. Have you started watching?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#NewTV"
-     ]
-    },
-    {
-     "name": "London Legal Thriller",
-     "for": "Nation Radio London",
-     "copy": "Dive into the high-stakes world of London's legal eagles with Sky's new drama 'War'. Perfect for a rainy autumn evening!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#SkyTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rob-romesh-vs-kung-fu",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Rob & Romesh Vs. Kung Fu Episode",
-   "blurb": "Rob Beckett and Romesh Ranganathan's latest adventure, 'Rob And Romesh Vs. Kung Fu', premiered yesterday on Sky One and is available on demand.",
-   "source": {
-    "l": "British Comedy Guide",
-    "u": "https://www.comedy.co.uk/tv/rob-romesh-vs/episodes/9/1/"
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.com/gb/en/things-to-do/events/halloween-and-bonfire-night"
    },
    "fits": [
     {
@@ -869,86 +489,31 @@
    ],
    "angles": [
     {
-     "name": "Comedy Duo's New Challenge",
+     "name": "Costume Countdown",
      "for": "",
-     "copy": "Rob & Romesh are back! Their new episode 'Rob And Romesh Vs. Kung Fu' aired yesterday. Did you catch them training with a Shaolin Monk?",
+     "copy": "Halloween is creeping closer! What's your costume plan for 2026? Are you going for spooky, silly, or something trending like 'Buddy the Unicorn' or 'Nikki from Obsession'?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "14:00",
+     "time": "11:00",
      "tags": [
-      "#RobAndRomesh"
+      "#Halloween2026"
      ]
     },
     {
-     "name": "Laugh Out Loud TV",
+     "name": "Spooky Season Events",
      "for": "",
-     "copy": "If you need a laugh, 'Rob And Romesh Vs. Kung Fu' is available on demand now! Expect plenty of hilarious mishaps as they tackle martial arts.",
+     "copy": "From Fright Nights at Thorpe Park to Alton Towers Scarefest, the UK is getting spooky! What Halloween event are you most looking forward to?",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "19:00",
+     "time": "15:00",
      "tags": [
-      "#SkyOne"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "welsh-rugby-championscup",
-   "off": 1,
-   "type": "sport",
-   "hot": true,
-   "title": "Welsh Regions in European Rugby",
-   "blurb": "Round 1 of the Investec Champions Cup for the 2026-27 season kicks off this weekend, with Welsh regions competing.",
-   "source": {
-    "l": "Welsh Rugby Club Guide",
-    "u": "https://www.welshrugbyclubguide.com/how-to-watch-welsh-rugby-on-tv-2026-27-urc-europe-and-super-rygbi-cymru/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "European Rugby Weekend",
-     "for": "welsh-local",
-     "copy": "Big weekend for Welsh rugby! Our regions are back in action for Round 1 of the Investec Champions Cup. Who are you supporting?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#WelshRugby"
-     ]
-    },
-    {
-     "name": "Champions Cup Excitement",
-     "for": "dragon",
-     "copy": "The Investec Champions Cup begins this weekend! Get behind your favourite Welsh teams as they take on Europe's best. Cymru am byth!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#EuropeanRugby"
+      "#SpookySeason"
      ]
     }
    ]
