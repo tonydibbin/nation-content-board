@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-17T09:46:45.156Z",
+ "updated": "2026-10-17T13:18:24.708Z",
  "moments": [
   {
-   "id": "premier-league-sat-17-oct",
+   "id": "prem-everton-chelsea",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Saturday Action",
-   "blurb": "Four big Premier League matches are happening today, including Everton vs Chelsea and Manchester City vs Ipswich, as the title race and European spots heat up.",
+   "title": "Premier League: Everton vs Chelsea",
+   "blurb": "Everton host Chelsea in a key Premier League clash today, with both teams looking to climb the table early in the season.",
    "source": {
-    "l": "Premier League",
+    "l": "Premier League Official Site",
     "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
@@ -20,52 +20,102 @@
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Match Day Buzz",
-     "copy": "It's Premier League Saturday! Who are you backing today? Everton take on Chelsea, while Man City host Ipswich. Big points up for grabs!",
+     "name": "Match Build-up",
+     "for": "",
+     "copy": "Kick-off is almost here! Everton vs Chelsea promises goals. Who are you backing for the win today?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "15:00",
      "tags": [
-      "#PremierLeague"
+      "#EVECHE"
      ]
     },
     {
-     "name": "City's Banana Army",
+     "name": "London Derby Angle",
      "for": "Nation Radio London",
-     "copy": "Man City fans are being urged to bring inflatable bananas to the Etihad today against Ipswich. A retro nod to show defiance!",
+     "copy": "Chelsea are on the road today, heading north to face Everton. Can the Blues bring home three points? Tune in for updates!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:30",
+     "time": "14:30",
      "tags": [
-      "#MCFC"
+      "#ChelseaFC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cardiff-city-middlesbrough",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Cardiff City Away Day",
+   "blurb": "Cardiff City are on the road today, travelling to face Middlesbrough in the Championship.",
+   "source": {
+    "l": "Cardiff City FC",
+    "u": "https://www.cardiffcityfc.co.uk/fixtures-results"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Game Day Buzz",
+     "for": "",
+     "copy": "It's matchday for the Bluebirds! Cardiff City are away at Middlesbrough today. Sending all our support from Wales!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Bluebirds"
      ]
     },
     {
-     "name": "Local Derby Feel",
-     "for": "nation-network",
-     "copy": "Liverpool head to Brentford today. The Bees are a tough nut to crack at home, can Klopp's side keep pace at the top?",
+     "name": "Local Support",
+     "for": "welsh-local",
+     "copy": "Who's following Cardiff City's game today? Get your scores and reactions in as they take on Middlesbrough!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "15:30",
      "tags": [
-      "#LFC"
+      "#CardiffCity"
      ]
     }
    ]
@@ -75,8 +125,8 @@
    "off": 0,
    "type": "tv",
    "hot": true,
-   "title": "Strictly Icons Week Live",
-   "blurb": "Strictly Come Dancing returns tonight for 'Icons Week', with the remaining couples dancing to tracks by music legends and a special Madonna tribute from the pros.",
+   "title": "Strictly Come Dancing: Icons Week",
+   "blurb": "Tonight is 'Icons Week' on Strictly Come Dancing, where the celebrity couples will pay tribute to legendary figures in their routines.",
    "source": {
     "l": "BBC One",
     "u": "https://www.bbc.co.uk/strictly"
@@ -89,42 +139,27 @@
    ],
    "angles": [
     {
-     "name": "Tonight's Theme",
-     "copy": "Get ready for some iconic moves! Tonight on Strictly it's 'Icons Week' – expect legendary tunes and dazzling routines. Who's your favourite to win this year?",
+     "name": "Saturday Night Glamour",
+     "for": "",
+     "copy": "Get ready for glitter and glamour! It's Icons Week on Strictly tonight. Who are you hoping the couples will channel?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "17:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    },
-    {
-     "name": "Madonna Tribute",
-     "copy": "The Strictly pros are performing a special Madonna tribute tonight! Amy Dowden's wrists are hurting from all the vogue-ing. You won't want to miss it.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:30",
+     "time": "18:00",
      "tags": [
       "#Strictly"
      ]
     },
     {
-     "name": "Delta's Injury",
-     "copy": "Sad news for Strictly fans: Delta Goodrem and Kai Widdrington won't be dancing this weekend due to Delta's injury, but they get a pass to Week 5. Wishing her a speedy recovery!",
+     "name": "Iconic Performances",
+     "for": "",
+     "copy": "From Bowie to Beyoncé, who's your pick for an iconic Strictly routine tonight? The dancefloor is about to get legendary!",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
      "time": "19:00",
      "tags": [
@@ -134,213 +169,12 @@
    ]
   },
   {
-   "id": "the-voice-uk-battles",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "The Voice UK Battles Begin",
-   "blurb": "The Battles round continues on The Voice UK tonight on ITV1, as coaches pit their singers against each other for a spot in the next stage.",
-   "source": {
-    "l": "ITV1",
-    "u": "https://www.itv.com/thevoiceuk"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Battle Round Tonight",
-     "copy": "It's Saturday night and The Voice UK is back on ITV1 with more nail-biting Battle Rounds! Who are you hoping makes it through to the next stage?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#TheVoiceUK"
-     ]
-    },
-    {
-     "name": "Coaches Face Tough Choices",
-     "copy": "The coaches have some seriously tough decisions to make on The Voice UK tonight. Who will they save and who will they send home? Tune in!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:30",
-     "tags": [
-      "#TheVoice"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "40-hits-1986-bbc",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "40 Hits of 1986 at the BBC",
-   "blurb": "BBC Two tonight revisits '40 Hits of 1986 at the BBC', featuring archive performances from a pivotal year in music.",
-   "source": {
-    "l": "BBC Two",
-    "u": "https://www.bbc.co.uk/bbctwo"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Retro Saturday Night",
-     "copy": "Travel back to 1986 tonight on BBC Two with '40 Hits of 1986 at the BBC'. Get ready for some serious 80s nostalgia!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:15",
-     "tags": [
-      "#80sMusic"
-     ]
-    },
-    {
-     "name": "Classic Performances",
-     "copy": "If you love the 80s, BBC Two has you covered tonight! Relive the classic hits and performances that defined 1986.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:30",
-     "tags": [
-      "#Nation80s"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "saturday-night-live-uk",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Saturday Night Live UK",
-   "blurb": "Happy Valley actor James Norton hosts Saturday Night Live UK tonight, with musical guests The Streets.",
-   "source": {
-    "l": "ITV1",
-    "u": "https://www.itv.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Live Comedy & Music",
-     "copy": "James Norton hosts Saturday Night Live UK tonight, with The Streets bringing the tunes! What a combo for your Saturday night.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "21:00",
-     "tags": [
-      "#SNLUK"
-     ]
-    },
-    {
-     "name": "The Streets Live",
-     "copy": "Mike Skinner and The Streets are performing on Saturday Night Live UK tonight! Expect classic hits and that unmistakable sound. Tune in!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "21:30",
-     "tags": [
-      "#TheStreets"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eminem-birthday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 54th Birthday, Eminem!",
-   "blurb": "Rap superstar Eminem, born Marshall Mathers, turns 54 today, October 17th. He remains one of the best-selling music artists of all time. [Google Search: \"Eminem birthday\"]",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Eminem"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rap Legend's Birthday",
-     "copy": "Wishing a very Happy 54th Birthday to the one and only Eminem! Still dominating the rap game after decades.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Eminem"
-     ]
-    },
-    {
-     "name": "Shady's Still Here",
-     "copy": "54 years young today! What's your favourite track from the Rap God, Eminem? Let us know!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#SlimShady"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wyclef-jean-birthday",
+   "id": "wkclef-jean-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Happy 57th Birthday, Wyclef Jean!",
-   "blurb": "Grammy-winning musician, rapper, and producer Wyclef Jean, best known for his work with The Fugees, celebrates his 57th birthday today. [Google Search: \"Wyclef Jean birthday\"]",
+   "blurb": "Grammy-winning Haitian rapper, singer, and producer Wyclef Jean, famous for his work with The Fugees and solo hits like 'Hips Don't Lie', turns 57 today.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Wyclef_Jean"
@@ -352,32 +186,42 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Fugees Icon's Day",
-     "copy": "Happy 57th Birthday to the incredible Wyclef Jean! From The Fugees to his solo hits, a true legend of music.",
+     "name": "Fugees Legend",
+     "for": "Nation 90s",
+     "copy": "Happy 57th Birthday to the incredible Wyclef Jean! From The Fugees to global superstar, what's your favourite track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
       "#WyclefJean"
      ]
     },
     {
-     "name": "Music Maestro",
-     "copy": "Celebrate Wyclef Jean's 57th today! What's your favourite track from his extensive career?",
+     "name": "Solo & Collabs",
+     "for": "Nation Hits",
+     "copy": "Celebrating Wyclef Jean's 57th birthday today! A true pioneer who brought us so many hits, solo and with legendary collaborations.",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "12:00",
      "tags": [
       "#Fugees"
      ]
@@ -385,15 +229,114 @@
    ]
   },
   {
-   "id": "fa-cup-first-round-draw",
-   "off": 2,
+   "id": "uk-singles-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "New UK Singles Chart #1",
+   "blurb": "The Official UK Singles Chart has a new number one this week, with Olivia Rodrigo's 'Broken Heart Club' climbing to the top spot.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "for": "",
+     "copy": "It's official! Olivia Rodrigo has landed another UK No.1 with 'Broken Heart Club'. What a track to kick off the weekend!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#OfficialCharts"
+     ]
+    },
+    {
+     "name": "New Music Vibes",
+     "for": "",
+     "copy": "Olivia Rodrigo reigns supreme! 'Broken Heart Club' is your new UK Singles Chart #1. Are you loving it as much as we are?",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#OliviaRodrigo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prem-leeds-manutd",
+   "off": 1,
    "type": "sport",
    "hot": true,
-   "title": "FA Cup First Round Draw",
-   "blurb": "The Emirates FA Cup First Round Proper draw will be made live on TNT Sports on Monday, October 19th, featuring clubs from League One and League Two.",
+   "title": "Premier League: Leeds vs Man Utd",
+   "blurb": "One of English football's fiercest rivalries reignites tomorrow as Leeds United host Manchester United in the Premier League.",
    "source": {
-    "l": "The FA",
-    "u": "https://www.thefa.com/news/2026/oct/16/emirates-fa-cup-first-round-draw-numbers-confirmed"
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rivalry Day",
+     "for": "",
+     "copy": "Tomorrow: Leeds vs Manchester United! Expect fireworks when these two titans clash. Who's taking the bragging rights?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#LEEMUN"
+     ]
+    },
+    {
+     "name": "Yorkshire Pride",
+     "for": "Nation Radio Yorkshire",
+     "copy": "It's the big one tomorrow! Leeds United vs Manchester United. The white rose takes on the red. Get behind the Whites!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#LUFC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-results",
+   "off": 1,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing Results Show",
+   "blurb": "The first couple will be eliminated from Strictly Come Dancing this series during tomorrow night's tension-filled results show.",
+   "source": {
+    "l": "BBC One",
+    "u": "https://www.bbc.co.uk/strictly"
    },
    "fits": [
     {
@@ -403,8 +346,9 @@
    ],
    "angles": [
     {
-     "name": "Draw Day Anticipation",
-     "copy": "FA Cup fever is building! The First Round Proper draw is on Monday. Which League One or Two side are you hoping for?",
+     "name": "Who's Leaving?",
+     "for": "",
+     "copy": "The dance-off looms! Tomorrow, we say goodbye to the first couple on Strictly. Who do you think is in danger?",
      "channels": [
       "instagram",
       "facebook",
@@ -412,43 +356,43 @@
      ],
      "time": "10:00",
      "tags": [
-      "#FACup"
+      "#StrictlyResults"
      ]
     },
     {
-     "name": "Magic of the Cup",
-     "copy": "The road to Wembley begins for many on Monday with the FA Cup First Round draw. Get ready for some potential giant-killings!",
+     "name": "Sunday Night Drama",
+     "for": "",
+     "copy": "Grab your tissues! Tomorrow night's Strictly results show is set to be a tearjerker as one couple leaves the competition.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#MagicOfTheCup"
+      "#StrictlyComeDancing"
      ]
     }
    ]
   },
   {
-   "id": "new-albums-october-2026",
-   "off": 0,
-   "type": "culture",
+   "id": "ne-yo-birthday",
+   "off": 1,
+   "type": "birthday",
    "hot": true,
-   "title": "New Albums Landing",
-   "blurb": "The latest Official Albums Chart (Oct 15) sees new entries from Jamie T, Chase & Status, Troye Sivan, and Pet Shop Boys. Fontaines D.C. also released their new album 'Dopamine Chamber' this week.",
+   "title": "Happy 47th Birthday, Ne-Yo!",
+   "blurb": "R&B superstar and hit songwriter Ne-Yo, known for tracks like 'So Sick' and 'Miss Independent', celebrates his 47th birthday tomorrow.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Ne-Yo"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 00s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -456,51 +400,84 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Chart Freshness",
-     "copy": "Loads of new music hitting the charts! New albums from Jamie T, Chase & Status, and Fontaines D.C. are making waves. What's on your playlist this weekend?",
+     "name": "R&B Icon",
+     "for": "Nation 00s",
+     "copy": "Tomorrow, we're celebrating the one and only Ne-Yo's 47th birthday! What's your ultimate Ne-Yo slow jam?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "11:00",
      "tags": [
-      "#NewMusic"
+      "#NeYo"
      ]
     },
     {
-     "name": "Indie Rock Drop",
-     "copy": "Fontaines D.C. have unleashed 'Dopamine Chamber' this week! If you love post-punk and indie rock, this is for you.",
+     "name": "Hit Maker",
+     "for": "Nation Hits",
+     "copy": "Happy Birthday wishes to Ne-Yo for tomorrow! A true master of R&B and responsible for so many incredible hits.",
+     "channels": [
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RandB"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bake-off-episode",
+   "off": 3,
+   "type": "tv",
+   "hot": true,
+   "title": "Great British Bake Off Continues",
+   "blurb": "The Great British Bake Off tent opens its doors again on Tuesday for another round of bakes, challenges, and soggy bottoms.",
+   "source": {
+    "l": "Channel 4",
+    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Baking Craze",
+     "for": "",
+     "copy": "Tuesday means one thing: more Bake Off! What culinary chaos are we expecting from the tent this week?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "10:00",
      "tags": [
-      "#FontainesDC"
+      "#GBBO"
      ]
     },
     {
-     "name": "Dance Floor Fillers",
-     "copy": "Chase & Status have a new album making waves in the charts! Get ready for some fresh drum & bass.",
+     "name": "Technical Challenge",
+     "for": "",
+     "copy": "Who's ready for the next technical challenge? The Great British Bake Off returns Tuesday, let's hope for no more baking disasters!",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
      "time": "16:00",
      "tags": [
-      "#ChaseAndStatus"
+      "#BakeOff"
      ]
     }
    ]
@@ -511,7 +488,7 @@
    "type": "birthday",
    "hot": true,
    "title": "Happy 55th Birthday, Snoop Dogg!",
-   "blurb": "The legendary rapper, media personality, and entrepreneur Snoop Dogg celebrates his 55th birthday on Tuesday, October 20th. [Google Search: \"Snoop Dogg birthday\"]",
+   "blurb": "Legendary rapper, media personality, and entrepreneur Snoop Dogg celebrates his 55th birthday on Tuesday.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Snoop_Dogg"
@@ -527,33 +504,38 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "G-Funk Icon's Day",
-     "copy": "Drop it like it's hot for Snoop Dogg's 55th birthday on Tuesday! The Doggfather is still going strong.",
+     "name": "Hip-Hop Royalty",
+     "for": "Nation 90s",
+     "copy": "Drop it like it's hot for Snoop Dogg's 55th birthday on Tuesday! The Doggfather is still ruling the scene.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#SnoopDogg"
      ]
     },
     {
-     "name": "Still a Legend",
-     "copy": "55 years of Snoop! What's your favourite Snoop Dogg track or moment?",
+     "name": "Still Iconic",
+     "for": "Nation Hits",
+     "copy": "From Gin and Juice to global icon, Snoop Dogg turns 55 on Tuesday! What's your all-time favourite Snoop track?",
      "channels": [
-      "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "15:00",
+     "time": "13:00",
      "tags": [
       "#Doggfather"
      ]
@@ -561,121 +543,49 @@
    ]
   },
   {
-   "id": "f1-us-grand-prix",
-   "off": 6,
-   "type": "sport",
-   "hot": true,
-   "title": "F1 US Grand Prix Weekend",
-   "blurb": "Formula 1 heads to Austin, Texas, for the United States Grand Prix weekend, running from October 23rd to 25th.",
-   "source": {
-    "l": "Formula 1",
-    "u": "https://www.formula1.com/en/racing/2026/United_States.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "F1 US GP Build-Up",
-     "copy": "Engines on! F1 is in Austin for the US Grand Prix weekend, starting Friday. Who's your pick for pole position?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#F1"
-     ]
-    },
-    {
-     "name": "American Racing",
-     "copy": "The Circuit of the Americas awaits! Get ready for high-speed drama at the US Grand Prix this weekend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#USGP"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "halloween-events-start",
-   "off": 5,
+   "id": "october-half-term",
+   "off": 9,
    "type": "seasonal",
    "hot": true,
-   "title": "Halloween Events Kicking Off",
-   "blurb": "Spooky season is officially underway! Major Halloween events, like the immersive trail at Blenheim Palace, begin next week from Thursday, October 22nd.",
+   "title": "October Half Term Begins",
+   "blurb": "Schools across much of the UK will break up for the October half term holiday starting Monday, October 26th.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-to-do/halloween-and-bonfire-night-britain"
+    "l": "Gov.uk",
+    "u": "https://www.gov.uk/school-term-holiday-dates"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Spooky Season Begins",
-     "copy": "Get ready to get spooked! Halloween events are starting across the UK next week, with trails and frights for all ages. What are your plans?",
+     "name": "Family Fun",
+     "for": "",
+     "copy": "Half Term is almost here! Starting Monday, October 26th, it's time for family adventures. What are your plans?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "10:00",
      "tags": [
-      "#Halloween"
+      "#HalfTerm"
      ]
     },
     {
-     "name": "Blenheim Palace Frights",
-     "copy": "Blenheim Palace's thrilling after-dark Halloween trail kicks off on Thursday. Expect spider's lairs, ghostly wrecks and vampire hunters!",
+     "name": "School's Out",
+     "for": "",
+     "copy": "The countdown to October Half Term is on! Kids will be off school from Monday 26th. Parents, you've got this!",
      "channels": [
-      "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#SpookySeason"
-     ]
-    },
-    {
-     "name": "Local Spooky Fun",
-     "for": "radio-exe",
-     "copy": "Halloween is just around the corner! What local spooky events are you looking forward to in Devon next week?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
      "time": "14:00",
      "tags": [
-      "#DevonHalloween"
+      "#SchoolHolidays"
      ]
     }
    ]
@@ -686,7 +596,7 @@
    "type": "birthday",
    "hot": true,
    "title": "Happy 40th Birthday, Drake!",
-   "blurb": "Canadian rapper and global superstar Drake, born Aubrey Graham, turns 40 on Saturday, October 24th. [Google Search: \"Drake birthday\"]",
+   "blurb": "Canadian rap and R&B superstar Drake, known for countless chart-topping hits and his OVO brand, celebrates his 40th birthday on Thursday.",
    "source": {
     "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Drake_(musician)"
@@ -695,53 +605,10 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "OVO Icon Turns 40",
-     "copy": "The 6 God turns 40 this Saturday! Happy Birthday to the one and only Drake. What's your top track from his incredible career?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Drake"
-     ]
     },
     {
-     "name": "Celebrating Drizzy",
-     "copy": "From Degrassi to global superstar, Drake hits the big 4-0 this weekend! Celebrate with us by spinning your favourite Drizzy anthem.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#OVO"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "katy-perry-birthday",
-   "off": 8,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 42nd Birthday, Katy Perry!",
-   "blurb": "Pop sensation Katy Perry celebrates her 42nd birthday on Sunday, October 25th. [Google Search: \"Katy Perry birthday\"]",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Katy_Perry"
-   },
-   "fits": [
-    {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
@@ -750,8 +617,69 @@
    ],
    "angles": [
     {
-     "name": "Pop Star's Birthday",
-     "copy": "California Gurl turns 42 on Sunday! Wishing a very Happy Birthday to Katy Perry.",
+     "name": "OVO King",
+     "for": "Nation Hits",
+     "copy": "The 6 God turns 40 on Thursday! Happy Birthday to Drake, a decade-defining artist. What's your top Drizzy anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Drake"
+     ]
+    },
+    {
+     "name": "Chart Dominator",
+     "for": "",
+     "copy": "Celebrating Drake's 40th birthday this Thursday! From Degrassi to global icon, he's redefined music. Drop your favourite Drake lyric!",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#OVO"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bill-wyman-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 90th Birthday, Bill Wyman!",
+   "blurb": "Former Rolling Stones bassist and rock legend Bill Wyman, who played with the band from 1962 to 1993, celebrates his 90th birthday on Thursday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Bill_Wyman"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Stones Legend",
+     "for": "Nation 60s",
+     "copy": "A very happy 90th birthday to the iconic Bill Wyman! The original Rolling Stones bassist, still rocking at NINE-OH!",
      "channels": [
       "instagram",
       "facebook",
@@ -759,225 +687,68 @@
      ],
      "time": "11:00",
      "tags": [
-      "#KatyPerry"
+      "#BillWyman"
      ]
     },
     {
-     "name": "Firework of a Career",
-     "copy": "Celebrate Katy Perry's birthday this Sunday! What's the ultimate Katy Perry anthem for you?",
+     "name": "Rock Royalty",
+     "for": "Nation Rocks",
+     "copy": "Celebrating 90 years of rock 'n' roll with Bill Wyman this Thursday! What's your favourite Stones era he was part of?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#PopMusic"
+      "#TheRollingStones"
      ]
     }
    ]
   },
   {
-   "id": "gbbo-current-series",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off Progress",
-   "blurb": "The Great British Bake Off Series 17 continues, with Nigella Lawson joining Paul Hollywood as a new judge. Last week saw Molly leave the tent, with Tom winning Star Baker.",
-   "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Latest",
-     "copy": "The Bake Off tent is heating up! Molly left last week, and Tom secured Star Baker. Who's impressing you most this series?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "Nigella in the Tent",
-     "copy": "How are you finding Nigella Lawson as the new Bake Off judge? Her warmth and passion are certainly adding a new flavour to the tent!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "autumn-internationals-build-up",
-   "off": 20,
-   "type": "sport",
-   "hot": true,
-   "title": "Rugby Nations Championship Build-Up",
-   "blurb": "The inaugural Autumn Nations Championship kicks off on November 6th, marking a new era for international rugby with Northern vs Southern Hemisphere clashes.",
-   "source": {
-    "l": "Autumn Internationals",
-    "u": "https://www.autumn-internationals.co.uk/2026/fixtures/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rugby Countdown",
-     "copy": "Just weeks until the Autumn Nations Championship kicks off! A new era for international rugby is upon us. Who are you backing for glory?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Rugby"
-     ]
-    },
-    {
-     "name": "Wales & Scotland Prep",
-     "for": "welsh-local",
-     "copy": "Wales and Scotland are gearing up for the Autumn Nations Championship in November! Huge clashes ahead. Get ready for some thrilling rugby.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#WelshRugby"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bonfire-night-prep",
-   "off": 19,
+   "id": "halloween-preparations",
+   "off": 14,
    "type": "seasonal",
    "hot": true,
-   "title": "Bonfire Night Preparations",
-   "blurb": "While Bonfire Night officially falls on Thursday, November 5th, many firework displays and events will be held the weekend before, from late October.",
+   "title": "Halloween Preparations Underway",
+   "blurb": "With Halloween just two weeks away, spooky season preparations are in full swing across the UK.",
    "source": {
-    "l": "Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/guy-fawkes-day"
+    "l": "Good Housekeeping",
+    "u": "https://www.goodhousekeeping.com/uk/lifestyle/g37677864/halloween-ideas/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Fireworks Season",
-     "copy": "Bonfire Night is just around the corner! Many displays will be happening the weekend before Nov 5th. What are your plans for the fireworks?",
+     "name": "Spooky Season",
+     "for": "",
+     "copy": "The cobwebs are coming out! Halloween is just around the corner. Are you planning a fright night or a cosy treat?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "10:00",
+     "time": "12:00",
      "tags": [
-      "#BonfireNight"
+      "#Halloween"
      ]
     },
     {
-     "name": "Local Display Buzz",
-     "for": "radio-exe",
-     "copy": "Are you planning to attend a local firework display in Exeter or Devon around Bonfire Night? Let us know your favourite spots!",
+     "name": "Costume Countdown",
+     "for": "",
+     "copy": "Two weeks until Halloween! What's your costume idea for 2026? Share your spooky plans with us!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#DevonFireworks"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tony-iommi-new-album",
-   "off": 6,
-   "type": "culture",
-   "hot": true,
-   "title": "Tony Iommi's New Solo Album",
-   "blurb": "Black Sabbath legend Tony Iommi is set to release his rare new solo album, 'From the Dark', this Friday, October 23rd.",
-   "source": {
-    "l": "Ultimate Classic Rock",
-    "u": "https://ultimateclassicrock.com/new-music-releases-october-2026/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Metal God's Return",
-     "copy": "The riff master is back! Tony Iommi's new solo album 'From the Dark' drops this Friday. Get ready for some heavy metal greatness!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TonyIommi"
-     ]
-    },
-    {
-     "name": "New Rock Friday",
-     "copy": "Mark your calendars, rock fans! Tony Iommi has a new album out this Friday. What are you hoping to hear on 'From the Dark'?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BlackSabbath"
+      "#SpookySeason"
      ]
     }
    ]
