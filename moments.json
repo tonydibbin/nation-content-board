@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-18T06:40:45.440Z",
+ "updated": "2026-10-18T11:48:37.561Z",
  "moments": [
   {
-   "id": "pl-sun-mon-oct18-19",
+   "id": "epl-review",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Action This Weekend",
-   "blurb": "The Premier League continues with a full slate of matches, including four games today and a Monday night fixture.",
+   "title": "Premier League Weekend Wrap",
+   "blurb": "Reviewing all the action from the weekend's Premier League fixtures as teams battle for top spots and survival.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/"
+    "l": "BBC Sport",
+    "u": "https://www.bbc.co.uk/sport/football/premier-league"
    },
    "fits": [
     {
@@ -20,40 +20,43 @@
    ],
    "angles": [
     {
-     "name": "Sunday Wrap",
-     "copy": "Sunday's Premier League action saw Brighton face Crystal Palace, while Leeds took on Manchester United. Were there any upsets today? #PremierLeague",
+     "name": "Weekend Highlights",
+     "copy": "That Premier League weekend just delivered! Who impressed you most, and which result left you reeling?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "18:00",
+     "time": "12:00",
      "tags": [
-      "#PL"
+      "#PremierLeague"
      ]
     },
     {
-     "name": "Monday Night Football",
-     "copy": "Don't miss Monday Night Football! Tottenham Hotspur host Coventry City tomorrow evening. Who are you backing for the win? #MNF",
+     "name": "Team Talk",
+     "copy": "Sunday debrief: Did your team get the points they deserved? Let's talk Premier League.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "20:00",
+     "time": "14:00",
      "tags": [
-      "#Spurs"
+      "#EPL"
      ]
     }
    ]
   },
   {
-   "id": "champions-league-md3",
+   "id": "champions-league",
    "off": 2,
    "type": "sport",
    "hot": true,
-   "title": "Champions League Matchday 3",
-   "blurb": "Matchday 3 of the UEFA Champions League group stage kicks off this Tuesday and Wednesday, featuring several top English clubs in action.",
+   "title": "Champions League Midweek Action",
+   "blurb": "Europe's elite clubs, including several UK teams, prepare for crucial Champions League group stage matches mid-week.",
    "source": {
     "l": "UEFA.com",
     "u": "https://www.uefa.com/uefachampionsleague/"
@@ -66,104 +69,41 @@
    ],
    "angles": [
     {
-     "name": "Tuesday Night European Football",
-     "copy": "Champions League returns Tuesday! Man City host AEK Athens and Liverpool face Villarreal. Big nights for our English teams! #UCL",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ChampionsLeague"
-     ]
-    },
-    {
-     "name": "Wednesday Night European Football",
-     "copy": "More Champions League drama Wednesday! Arsenal travel to Bayern Munich and Manchester United visit Como. Can they get crucial points? #UCL",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ChampionsLeague"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "halloween-build-up",
-   "off": 13,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Halloween Countdown Begins",
-   "blurb": "With Halloween just under two weeks away on October 31st, spooky events and celebrations are already in full swing across the UK.",
-   "source": {
-    "l": "Time Out London",
-    "u": "https://www.timeout.com/london/things-to-do/halloween-in-london"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Spooky Season",
-     "copy": "The countdown to Halloween is officially on! What are your plans for the spookiest day of the year? Pumpkin carving or a fright night? #Halloween",
+     "name": "European Nights",
+     "copy": "Midweek football means Champions League! Which UK team are you backing to make a statement?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
-      "#SpookySeason"
+      "#ChampionsLeague"
      ]
     },
     {
-     "name": "Half Term Fun",
-     "copy": "October half-term is here for many! Perfect time to check out some of the amazing Halloween events happening across the UK. Which ones are on your list? #HalfTerm",
+     "name": "Big Game Build-up",
+     "copy": "The biggest club competition is back! Get ready for some massive European showdowns this week.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "11:00",
      "tags": [
-      "#FamilyFun"
+      "#UCL"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-oct16",
+   "id": "official-singles-chart",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "UK Singles Chart Battle Heats Up",
-   "blurb": "The latest UK Official Singles Chart sees Taylor Swift's 'Patient Zero' and Sienna Spiro's 'Great Expectation' battling for the top spot.",
+   "title": "New UK No.1 Single",
+   "blurb": "The Official UK Singles Chart has crowned a new Number 1, shaking up the top spots with a fresh hit.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/"
@@ -175,49 +115,54 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Chart Toppers",
-     "copy": "Who's at Number 1? Taylor Swift and Sienna Spiro are in a tight race for the top of the UK Singles Chart! Who do you want to see win? #UKCharts",
+     "name": "Chart Topper",
+     "copy": "We have a new UK Number 1! Has your favourite made it to the top of the Official Singles Chart?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "tiktok",
+      "threads"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#NewMusic"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Spiros Rise",
-     "copy": "Sienna Spiro is making waves on the charts with 'Great Expectation', challenging music giants! Have you heard it yet? #SiennaSpiro",
+     "name": "Weekend Tunes",
+     "copy": "The weekend's soundtrack just got an update! What's your take on the new UK No.1?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "13:00",
      "tags": [
-      "#PopMusic"
+      "#NewMusic"
      ]
     }
    ]
   },
   {
-   "id": "nobody-wants-this-s3",
-   "off": 4,
+   "id": "bake-off-next",
+   "off": 2,
    "type": "tv",
    "hot": true,
-   "title": "Nobody Wants This Season 3 Premieres",
-   "blurb": "The third season of the popular rom-com series 'Nobody Wants This' arrives on Netflix this Thursday, October 22.",
+   "title": "Great British Bake Off Preview",
+   "blurb": "Get ready for more soggy bottoms and showstoppers as a new episode of The Great British Bake Off airs on Tuesday.",
    "source": {
-    "l": "Netflix UK",
-    "u": "https://www.netflix.com/gb/title/81005230"
+    "l": "Channel 4",
+    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
    },
    "fits": [
     {
@@ -227,8 +172,8 @@
    ],
    "angles": [
     {
-     "name": "Rom-Com Return",
-     "copy": "Get ready for more laughs and romance! 'Nobody Wants This' Season 3 drops on Netflix this Thursday. Who's binging it? #NobodyWantsThis",
+     "name": "Bake Off Buzz",
+     "copy": "Who's ready for another slice of Bake Off? What will the bakers be tackling this Tuesday?",
      "channels": [
       "instagram",
       "facebook",
@@ -237,12 +182,107 @@
      ],
      "time": "10:30",
      "tags": [
-      "#NetflixUK"
+      "#GBBO"
      ]
     },
     {
-     "name": "New TV Alert",
-     "copy": "Your Thursday night plans are sorted! Season 3 of the hit rom-com 'Nobody Wants This' arrives on Netflix October 22nd. #NewOnNetflix",
+     "name": "Technical Challenge",
+     "copy": "The tent calls! Are you predicting a tricky technical or a showstopping triumph on the next Bake Off?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#BakeOff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-results",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing Results Show",
+   "blurb": "The tension mounts as another couple leaves the Strictly Come Dancing ballroom following last night's performances.",
+   "source": {
+    "l": "BBC One",
+    "u": "https://www.bbc.co.uk/programmes/b006m8dq"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly Fallout",
+     "copy": "Did the right couple leave Strictly last night? The ballroom drama continues!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Strictly"
+     ]
+    },
+    {
+     "name": "Dance Floor Drama",
+     "copy": "Another Sunday, another Strictly exit. Who are you backing to go all the way this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#SCD"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im-a-celeb-teasers",
+   "off": 20,
+   "type": "tv",
+   "hot": true,
+   "title": "I'm A Celeb... Get Me Out Of Here! Teasers",
+   "blurb": "Ant & Dec are teasing the new series of I'm A Celebrity... Get Me Out Of Here! as the jungle return draws closer.",
+   "source": {
+    "l": "ITV",
+    "u": "https://www.itv.com/imacelebrity"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jungle Countdown",
+     "copy": "The first I'm A Celeb teasers are landing! Who do you reckon will be heading into the jungle this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ImACeleb"
+     ]
+    },
+    {
+     "name": "Campmate Speculation",
+     "copy": "It's almost time for bugs and bushtucker trials! What celebrities are on your I'm A Celeb wishlist?",
      "channels": [
       "instagram",
       "facebook",
@@ -250,7 +290,182 @@
      ],
      "time": "16:00",
      "tags": [
-      "#TVShow"
+      "#IAC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "halloween-approaches",
+   "off": 13,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Halloween Countdown",
+   "blurb": "With Halloween just around the corner, spooky season preparations are in full swing across the UK.",
+   "source": {
+    "l": "Seasonal UK",
+    "u": "https://www.visitbritain.com/en/things-to-do/events/halloween"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Spooky Prep",
+     "copy": "Only two weeks until Halloween! Are you planning a fright night, carving pumpkins, or stocking up on sweets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Halloween"
+     ]
+    },
+    {
+     "name": "Best Costume Ideas",
+     "copy": "Getting ready for Halloween? What's the best (or worst!) costume you've ever worn or seen?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#SpookySeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wyclef-jean-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Wyclef Jean's 57th Birthday",
+   "blurb": "Fugees co-founder and Grammy-winning artist Wyclef Jean celebrates his 57th birthday today.",
+   "source": {
+    "l": "Biography.com",
+    "u": "https://www.biography.com/musicians/wyclef-jean"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Fugees Icon",
+     "copy": "Happy 57th to the legendary Wyclef Jean! What's your favourite track from the Fugees or his solo work?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WyclefJean"
+     ]
+    },
+    {
+     "name": "Birthday Beats",
+     "copy": "Celebrating the incredible Wyclef Jean today! Let's hear your top Fugees anthems.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#HipHopLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "snoop-dogg-bday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Snoop Dogg's 55th Birthday",
+   "blurb": "Iconic rapper, media personality, and entrepreneur Snoop Dogg will celebrate his 55th birthday on Tuesday.",
+   "source": {
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/snoop-dogg-mn0000045610/biography"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Doggfather Turns 55",
+     "copy": "Get ready to celebrate! The one and only Snoop Dogg turns 55 this Tuesday. What's your go-to Snoop track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#SnoopDogg"
+     ]
+    },
+    {
+     "name": "Still Dropping Hits",
+     "copy": "From 'Gin and Juice' to his latest ventures, Snoop Dogg is still a legend. Send him some birthday love for Tuesday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#HipHop"
      ]
     }
    ]
@@ -260,11 +475,11 @@
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Shaggy!",
-   "blurb": "Reggae fusion superstar Shaggy, known for hits like 'It Wasn't Me' and 'Boombastic', turns 58 on Thursday, October 22nd.",
+   "title": "Shaggy's 58th Birthday",
+   "blurb": "Grammy-winning reggae fusion artist Shaggy, known for hits like 'It Wasn't Me', turns 58 on Thursday.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/shaggy.html"
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/shaggy-mn0000018501/biography"
    },
    "fits": [
     {
@@ -278,53 +493,6 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Shaggy Turns 58",
-     "copy": "Scooby Doo, Where Are You? It's Shaggy's 58th birthday this Thursday! Celebrate with his iconic hits all day. #Shaggy",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#MrLoverLover"
-     ]
-    },
-    {
-     "name": "Reggae Icon",
-     "copy": "Wishing a very happy 58th birthday to the one and only Shaggy on October 22nd! What's your favourite Shaggy track? #ReggaeFusion",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#BirthdayVibes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "21savage-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday 21 Savage!",
-   "blurb": "Grammy-winning rapper 21 Savage, known for tracks like 'Bank Account' and 'A Lot', celebrates his 34th birthday on Thursday, October 22nd.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/21-savage.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -333,84 +501,30 @@
    ],
    "angles": [
     {
-     "name": "Rap Star's Birthday",
-     "copy": "Big ups to 21 Savage turning 34 this Thursday! Drop your favourite track to celebrate the Atlanta rapper's birthday. #21Savage",
+     "name": "Mr. Boombastic",
+     "copy": "It wasn't me! Oh wait, it IS Shaggy's 58th birthday this Thursday. What's your favourite track from the reggae icon?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#HappyBirthday"
+      "#Shaggy"
      ]
     },
     {
-     "name": "Celebrating 21",
-     "copy": "From London to Atlanta, 21 Savage is 34 on October 22nd! What's the ultimate 21 Savage anthem you can't get enough of? #HipHop",
+     "name": "Reggae Royalty",
+     "copy": "Get ready to groove! Celebrating the one and only Shaggy turning 58 this week. What track makes you dance?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#Birthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bill-wyman-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 90th Birthday Bill Wyman!",
-   "blurb": "Legendary bassist Bill Wyman, formerly of The Rolling Stones, celebrates his 90th birthday on Saturday, October 24th.",
-   "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/october/24"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Stones Legend Turns 90",
-     "copy": "A very happy 90th birthday to The Rolling Stones' original bassist, Bill Wyman, this Saturday! An absolute rock legend. #BillWyman",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#RollingStones"
-     ]
-    },
-    {
-     "name": "Rock Royalty",
-     "copy": "Celebrating 90 years of rock 'n' roll this Saturday! Bill Wyman, iconic bassist for The Rolling Stones, hits a huge milestone. What's your favourite Stones era? #RockHistory",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#MusicLegend"
+      "#Reggae"
      ]
     }
    ]
@@ -420,11 +534,11 @@
    "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 40th Birthday Drake!",
-   "blurb": "Global hip-hop superstar Drake, known for countless chart-topping hits, celebrates his 40th birthday on Saturday, October 24th.",
+   "title": "Drake's 40th Birthday",
+   "blurb": "Canadian rapper and global superstar Drake celebrates his milestone 40th birthday this Saturday.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/birthdays/october/24"
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/drake-mn0002164478/biography"
    },
    "fits": [
     {
@@ -442,225 +556,23 @@
    ],
    "angles": [
     {
-     "name": "Drake's Big 4-0",
-     "copy": "The 6 God turns 40 this Saturday! Happy Birthday to Drake, one of the biggest names in music. What's his best track? #Drake",
+     "name": "Champagne Papi Turns 40",
+     "copy": "The 6 God turns 40 this Saturday! What's your all-time favourite Drake anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#HappyBirthdayDrake"
-     ]
-    },
-    {
-     "name": "Celebrating The Rapper",
-     "copy": "From Degrassi to global icon, Drake celebrates his 40th on October 24th! Send your birthday wishes and favourite Drake bangers! #HipHopStar",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Birthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "raye-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday RAYE!",
-   "blurb": "British singer-songwriter RAYE, who had a UK No.1 with 'Escapism' and 'Where Is My Husband!', turns 29 on Saturday, October 24th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/raye.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Raye Turns 29",
-     "copy": "Huge happy 29th birthday to the incredible RAYE this Saturday! What's your top track from the chart-topping artist? #RAYE",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BirthdayGirl"
-     ]
-    },
-    {
-     "name": "UK Chart Queen",
-     "copy": "Celebrating RAYE's 29th birthday on October 24th! Her hits are always on repeat. What's your favourite? #BritishMusic",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#PopStar"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "monica-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy Birthday Monica!",
-   "blurb": "Grammy-winning R&B singer Monica, known for hits like 'The Boy Is Mine', celebrates her 46th birthday on Saturday, October 24th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/monica.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "R&B Icon Turns 46",
-     "copy": "Wishing a very happy 46th birthday to the amazing R&B legend Monica this Saturday! Her voice is timeless. #Monica",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#RnBQueen"
-     ]
-    },
-    {
-     "name": "Timeless R&B",
-     "copy": "The 'Boy Is Mine' singer, Monica, turns 46 on October 24th! What's your go-to Monica track for those soulful vibes? #90sRnB",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#BirthdayCelebration"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ministry-of-sound-oct24",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Ministry of Sound Weekend",
-   "blurb": "London's iconic Ministry of Sound hosts events this coming weekend, starting Saturday, October 24th.",
-   "source": {
-    "l": "Bandsintown",
-    "u": "https://www.bandsintown.com/e/104958042-ministry-of-sound-at-ministry-of-sound-london"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Clubbing Weekend",
-     "copy": "London's legendary Ministry of Sound is buzzing this weekend! Get ready for some epic nights starting Saturday. #MinistryOfSound",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#LondonNightlife"
-     ]
-    },
-    {
-     "name": "Dance Nation",
-     "copy": "The weekend starts early at Ministry of Sound this Saturday, Oct 24th! Who's hitting the dancefloor? #Clubbing",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#DanceMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "im-a-celeb-delay",
-   "off": 29,
-   "type": "tv",
-   "hot": true,
-   "title": "I'm A Celeb Launch Delayed",
-   "blurb": "The launch of 'I'm A Celebrity... Get Me Out Of Here!' 2026 is reportedly delayed until November 16th due to a UEFA Nations League clash.",
-   "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-2026-start-date-delayed-news/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jungle Delay",
-     "copy": "Hold up! Reports say I'm A Celeb is delayed until Nov 16th because of football! Are you gutted about the wait for the jungle? #ImACeleb",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
+      "tiktok",
       "threads"
      ],
      "time": "10:00",
      "tags": [
-      "#ImACelebrity"
+      "#Drake"
      ]
     },
     {
-     "name": "TV Clash",
-     "copy": "Football vs. Bushtucker Trials! I'm A Celeb's start date is reportedly pushed back due to a UEFA Nations League match. What's your priority? #TVNews",
+     "name": "Milestone Birthday",
+     "copy": "Celebrating a decade of hits and turning the big 4-0! Send your birthday wishes to Drake for Saturday.",
      "channels": [
       "instagram",
       "facebook",
@@ -668,7 +580,113 @@
      ],
      "time": "14:00",
      "tags": [
-      "#ITV"
+      "#OVO"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "katy-perry-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Katy Perry's 42nd Birthday",
+   "blurb": "Global pop superstar Katy Perry, known for hits like 'Firework' and 'Roar', celebrates her 42nd birthday on Sunday.",
+   "source": {
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/katy-perry-mn0000787369/biography"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess Turns 42",
+     "copy": "Sunday means celebrating Katy Perry's 42nd birthday! Which of her smash hits is your ultimate favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#KatyPerry"
+     ]
+    },
+    {
+     "name": "Roar-ing Good Birthday",
+     "copy": "From Teenage Dream to global icon, Katy Perry turns 42 this Sunday! What's your top track from her?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "simon-le-bon-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": true,
+   "title": "Simon Le Bon's 68th Birthday",
+   "blurb": "Duran Duran frontman and New Wave icon Simon Le Bon celebrates his 68th birthday next Tuesday.",
+   "source": {
+    "l": "AllMusic",
+    "u": "https://www.allmusic.com/artist/simon-le-bon-mn0000071375/biography"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Duran Duran Legend",
+     "copy": "Next Tuesday, we're celebrating the one and only Simon Le Bon turning 68! What's your favourite Duran Duran track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#SimonLeBon"
+     ]
+    },
+    {
+     "name": "New Wave Icon",
+     "copy": "From 'Rio' to 'Hungry Like The Wolf', Simon Le Bon is a true legend. Wishing him an early Happy 68th for Tuesday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#DuranDuran"
      ]
     }
    ]
