@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-18T01:40:33.241Z",
+ "updated": "2026-10-18T06:40:45.440Z",
  "moments": [
   {
-   "id": "prem-league-sunday",
+   "id": "pl-sun-mon-oct18-19",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Sunday Showdowns",
-   "blurb": "Four Premier League matches are scheduled for Sunday, October 18, including Leeds vs Man Utd and Nottingham Forest vs Arsenal.",
+   "title": "Premier League Action This Weekend",
+   "blurb": "The Premier League continues with a full slate of matches, including four games today and a Monday night fixture.",
    "source": {
-    "l": "Football Web Pages",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBGzJi3EHXL2vbZtFvHBGOD3jNCQFBtx0EM7cb19X3Sg5WbFvpNZVdzGPSmmOV4prSQ6VY6DvUrMzwjfo2CKsYOjK0mqzlmMfc-oPQUY3dLpwLWMXwaNxtaMEZjiWDnLjjqeCfF9RdM0X9dBTBeVoSIRSUwWhrceyG3vNWiQ=="
+    "l": "Premier League Official Site",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
@@ -20,47 +20,522 @@
    ],
    "angles": [
     {
-     "name": "Match Day Buzz",
-     "copy": "Premier League Sunday is here! Who are you backing today? Leeds vs Man Utd is a big one, plus Forest host Arsenal. Tune in!",
+     "name": "Sunday Wrap",
+     "copy": "Sunday's Premier League action saw Brighton face Crystal Palace, while Leeds took on Manchester United. Were there any upsets today? #PremierLeague",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "18:00",
      "tags": [
-      "#PremierLeague"
+      "#PL"
      ]
     },
     {
-     "name": "Local Team Focus",
-     "copy": "Nottingham Forest fans, it's a huge home game today against Arsenal. Can they pull off an upset? Get behind your team!",
+     "name": "Monday Night Football",
+     "copy": "Don't miss Monday Night Football! Tottenham Hotspur host Coventry City tomorrow evening. Who are you backing for the win? #MNF",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "12:30",
+     "time": "20:00",
      "tags": [
-      "#NFFC"
+      "#Spurs"
      ]
     }
    ]
   },
   {
-   "id": "ne-yo-bday",
-   "off": 0,
-   "type": "birthday",
+   "id": "champions-league-md3",
+   "off": 2,
+   "type": "sport",
    "hot": true,
-   "title": "Happy 47th Birthday, Ne-Yo!",
-   "blurb": "Grammy-winning R&B superstar Ne-Yo celebrates his 47th birthday today, October 18.",
+   "title": "Champions League Matchday 3",
+   "blurb": "Matchday 3 of the UEFA Champions League group stage kicks off this Tuesday and Wednesday, featuring several top English clubs in action.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQehYs7YfrVPv5EQSlO903_ghjj0gWtD48e8ZPTUCe2ULRbW0FSxXnoeooC9RkLA5BCPk_mlsyB6H46rMVMnMyUTkqrn_VHyPxhfF341rd1qDMDkcJlroWGeyCGKFd5v_v-Jq8JLXkHwW5jysoTfUM1CTaWqw="
+    "l": "UEFA.com",
+    "u": "https://www.uefa.com/uefachampionsleague/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tuesday Night European Football",
+     "copy": "Champions League returns Tuesday! Man City host AEK Athens and Liverpool face Villarreal. Big nights for our English teams! #UCL",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ChampionsLeague"
+     ]
+    },
+    {
+     "name": "Wednesday Night European Football",
+     "copy": "More Champions League drama Wednesday! Arsenal travel to Bayern Munich and Manchester United visit Como. Can they get crucial points? #UCL",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ChampionsLeague"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "halloween-build-up",
+   "off": 13,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Halloween Countdown Begins",
+   "blurb": "With Halloween just under two weeks away on October 31st, spooky events and celebrations are already in full swing across the UK.",
+   "source": {
+    "l": "Time Out London",
+    "u": "https://www.timeout.com/london/things-to-do/halloween-in-london"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Spooky Season",
+     "copy": "The countdown to Halloween is officially on! What are your plans for the spookiest day of the year? Pumpkin carving or a fright night? #Halloween",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SpookySeason"
+     ]
+    },
+    {
+     "name": "Half Term Fun",
+     "copy": "October half-term is here for many! Perfect time to check out some of the amazing Halloween events happening across the UK. Which ones are on your list? #HalfTerm",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FamilyFun"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-oct16",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "UK Singles Chart Battle Heats Up",
+   "blurb": "The latest UK Official Singles Chart sees Taylor Swift's 'Patient Zero' and Sienna Spiro's 'Great Expectation' battling for the top spot.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Toppers",
+     "copy": "Who's at Number 1? Taylor Swift and Sienna Spiro are in a tight race for the top of the UK Singles Chart! Who do you want to see win? #UKCharts",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    },
+    {
+     "name": "Spiros Rise",
+     "copy": "Sienna Spiro is making waves on the charts with 'Great Expectation', challenging music giants! Have you heard it yet? #SiennaSpiro",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nobody-wants-this-s3",
+   "off": 4,
+   "type": "tv",
+   "hot": true,
+   "title": "Nobody Wants This Season 3 Premieres",
+   "blurb": "The third season of the popular rom-com series 'Nobody Wants This' arrives on Netflix this Thursday, October 22.",
+   "source": {
+    "l": "Netflix UK",
+    "u": "https://www.netflix.com/gb/title/81005230"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rom-Com Return",
+     "copy": "Get ready for more laughs and romance! 'Nobody Wants This' Season 3 drops on Netflix this Thursday. Who's binging it? #NobodyWantsThis",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#NetflixUK"
+     ]
+    },
+    {
+     "name": "New TV Alert",
+     "copy": "Your Thursday night plans are sorted! Season 3 of the hit rom-com 'Nobody Wants This' arrives on Netflix October 22nd. #NewOnNetflix",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#TVShow"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shaggy-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Shaggy!",
+   "blurb": "Reggae fusion superstar Shaggy, known for hits like 'It Wasn't Me' and 'Boombastic', turns 58 on Thursday, October 22nd.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/shaggy.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Shaggy Turns 58",
+     "copy": "Scooby Doo, Where Are You? It's Shaggy's 58th birthday this Thursday! Celebrate with his iconic hits all day. #Shaggy",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#MrLoverLover"
+     ]
+    },
+    {
+     "name": "Reggae Icon",
+     "copy": "Wishing a very happy 58th birthday to the one and only Shaggy on October 22nd! What's your favourite Shaggy track? #ReggaeFusion",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#BirthdayVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "21savage-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday 21 Savage!",
+   "blurb": "Grammy-winning rapper 21 Savage, known for tracks like 'Bank Account' and 'A Lot', celebrates his 34th birthday on Thursday, October 22nd.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/21-savage.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rap Star's Birthday",
+     "copy": "Big ups to 21 Savage turning 34 this Thursday! Drop your favourite track to celebrate the Atlanta rapper's birthday. #21Savage",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#HappyBirthday"
+     ]
+    },
+    {
+     "name": "Celebrating 21",
+     "copy": "From London to Atlanta, 21 Savage is 34 on October 22nd! What's the ultimate 21 Savage anthem you can't get enough of? #HipHop",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Birthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bill-wyman-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 90th Birthday Bill Wyman!",
+   "blurb": "Legendary bassist Bill Wyman, formerly of The Rolling Stones, celebrates his 90th birthday on Saturday, October 24th.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/october/24"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Stones Legend Turns 90",
+     "copy": "A very happy 90th birthday to The Rolling Stones' original bassist, Bill Wyman, this Saturday! An absolute rock legend. #BillWyman",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#RollingStones"
+     ]
+    },
+    {
+     "name": "Rock Royalty",
+     "copy": "Celebrating 90 years of rock 'n' roll this Saturday! Bill Wyman, iconic bassist for The Rolling Stones, hits a huge milestone. What's your favourite Stones era? #RockHistory",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#MusicLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drake-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy 40th Birthday Drake!",
+   "blurb": "Global hip-hop superstar Drake, known for countless chart-topping hits, celebrates his 40th birthday on Saturday, October 24th.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/birthdays/october/24"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Drake's Big 4-0",
+     "copy": "The 6 God turns 40 this Saturday! Happy Birthday to Drake, one of the biggest names in music. What's his best track? #Drake",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#HappyBirthdayDrake"
+     ]
+    },
+    {
+     "name": "Celebrating The Rapper",
+     "copy": "From Degrassi to global icon, Drake celebrates his 40th on October 24th! Send your birthday wishes and favourite Drake bangers! #HipHopStar",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Birthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "raye-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday RAYE!",
+   "blurb": "British singer-songwriter RAYE, who had a UK No.1 with 'Escapism' and 'Where Is My Husband!', turns 29 on Saturday, October 24th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/raye.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Raye Turns 29",
+     "copy": "Huge happy 29th birthday to the incredible RAYE this Saturday! What's your top track from the chart-topping artist? #RAYE",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#BirthdayGirl"
+     ]
+    },
+    {
+     "name": "UK Chart Queen",
+     "copy": "Celebrating RAYE's 29th birthday on October 24th! Her hits are always on repeat. What's your favourite? #BritishMusic",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#PopStar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "monica-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Monica!",
+   "blurb": "Grammy-winning R&B singer Monica, known for hits like 'The Boy Is Mine', celebrates her 46th birthday on Saturday, October 24th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/monica.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -73,891 +548,94 @@
    ],
    "angles": [
     {
-     "name": "R&B King's Birthday",
-     "copy": "Happy 47th Birthday to the incredible Ne-Yo! What's your favourite track from the R&B legend?",
+     "name": "R&B Icon Turns 46",
+     "copy": "Wishing a very happy 46th birthday to the amazing R&B legend Monica this Saturday! Her voice is timeless. #Monica",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "12:00",
      "tags": [
-      "#NeYo"
+      "#RnBQueen"
      ]
     },
     {
-     "name": "Throwback Tune",
-     "copy": "Let's throw it back for Ne-Yo's birthday! 'So Sick' or 'Miss Independent'? Which one gets you grooving?",
+     "name": "Timeless R&B",
+     "copy": "The 'Boy Is Mine' singer, Monica, turns 46 on October 24th! What's your go-to Monica track for those soulful vibes? #90sRnB",
      "channels": [
-      "tiktok",
+      "instagram",
+      "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "17:00",
      "tags": [
-      "#NeYoBirthday"
+      "#BirthdayCelebration"
      ]
     }
    ]
   },
   {
-   "id": "cardigans-bluetones-bday",
-   "off": 0,
-   "type": "birthday",
+   "id": "ministry-of-sound-oct24",
+   "off": 6,
+   "type": "gig",
    "hot": true,
-   "title": "Indie Icons Birthdays: Peter Svensson & Mark Morriss",
-   "blurb": "Peter Svensson of The Cardigans turns 52 and Mark Morriss of The Bluetones turns 55 today, October 18.",
+   "title": "Ministry of Sound Weekend",
+   "blurb": "London's iconic Ministry of Sound hosts events this coming weekend, starting Saturday, October 24th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6M2f-KnXdMAD4YCX6oe7o2bum4KIWh_RDLG9pFBJLx7dfOUIHAWIoyVRl9vq5uL0-UY0RQdZSW7sThP-uQF-lJep0gJb7cbcwM-jwO1LwyYO2vc38afsf19tIxVkn5zL71UnMjPt75PLl5FOr-epsxDc37V__vdNCbXHH"
+    "l": "Bandsintown",
+    "u": "https://www.bandsintown.com/e/104958042-ministry-of-sound-at-ministry-of-sound-london"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "90s Indie Legends",
-     "copy": "Big indie birthdays today! Happy 52nd to Peter Svensson of The Cardigans and 55th to Mark Morriss of The Bluetones. What's your top track from these 90s legends?",
+     "name": "Clubbing Weekend",
+     "copy": "London's legendary Ministry of Sound is buzzing this weekend! Get ready for some epic nights starting Saturday. #MinistryOfSound",
      "channels": [
       "instagram",
       "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#IndieMusic"
-     ]
-    },
-    {
-     "name": "Bluetones vs Cardigans",
-     "copy": "It's a clash of the indie titans for their birthdays! The Bluetones or The Cardigans? Pick your favourite!",
-     "channels": [
       "x",
       "tiktok"
      ],
-     "time": "15:00",
-     "tags": [
-      "#90sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "love-never-dies-finale",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Last Chance: Love Never Dies in Concert",
-   "blurb": "Today, October 18, is the final day to catch Andrew Lloyd Webber's 'Love Never Dies in Concert' at the London Palladium.",
-   "source": {
-    "l": "London Theatreland",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhgXmYmwJ4hFhsJCqDmVhTcDPvZUHCWS4j63zhPGi7iDUWP3QpzOiHoFg7KopL0ylzoGDa1K5RBgYKQNsAKXIsUxVV72v2c_yHGT6xX_NJ2C050L1YE-dGQzAcPZqCjm7mr5x-UacdkLOdMyJvqQN8jMRdBksjB7x8"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Theatre Last Call",
-     "copy": "Last chance, London! Today is the final performance of 'Love Never Dies in Concert' at the Palladium. Grab those last-minute tickets!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#WestEnd"
-     ]
-    },
-    {
-     "name": "Phantom's Return",
-     "copy": "Don't miss the Phantom's return! 'Love Never Dies in Concert' wraps up its run today. Have you seen it?",
-     "channels": [
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LondonTheatre"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "time-bbc-finale",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Time Series 3 Finale on BBC One",
-   "blurb": "The acclaimed crime drama 'Time' concludes its third series tonight, October 18, on BBC One.",
-   "source": {
-    "l": "The Killing Times",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHag55Yr8PA_UJekVzQ69otVDgznYHGTiYlW5VU0wpZr6Bb6WHLnQ1-kW7ux2O68N3i6PQNeg_rtxkyu868Z6iDvBpc_FU9VpZv7oPnDNycJjBetky1Q40cYCanuEUDOJXHvYb9olVnlEESuDAtSQTtNzqMuxqh22NNtq87g-Ld-iMc0gN6DL5O1cnCVlFC1SWzMBqDFiohb3Xw4Q3fnM6MosbWDWyJbfH6QYCWVq0Za_3x8A=="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "TV Drama Finale",
-     "copy": "Tonight's the night for 'Time' fans! The series 3 finale airs on BBC One. What are your predictions?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
      "time": "18:00",
      "tags": [
-      "#TimeBBC"
+      "#LondonNightlife"
      ]
     },
     {
-     "name": "Must-Watch TV",
-     "copy": "Don't miss the gripping conclusion! 'Time' series 3 wraps up tonight. Have you been following the drama?",
+     "name": "Dance Nation",
+     "copy": "The weekend starts early at Ministry of Sound this Saturday, Oct 24th! Who's hitting the dancefloor? #Clubbing",
      "channels": [
+      "instagram",
+      "facebook",
       "x"
      ],
      "time": "20:00",
      "tags": [
-      "#BBCDrama"
+      "#DanceMusic"
      ]
     }
    ]
   },
   {
-   "id": "j-cole-tour-kickoff",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "J Cole Kicks Off UK Arena Tour",
-   "blurb": "Rapper J Cole's 'The Fall-Off Tour' begins its major UK arena run starting tomorrow, October 19.",
-   "source": {
-    "l": "Radio Times",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHugtrq_3m4W-H_XULs_Imq4NfHDfUw8gbPluFCLczGAfas9sM7VQAPVhMuBc4z3cMKTyi4bTheWOHJG5jewjnC_uJRmnDVOdBv9BCDqS7-kSHR-xKV4FfnMh44FrhHm2Nt3cn3zUw36tlCW-pgaMRZia4z7jWAPo4JJIjlHbwchtKGoA=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tour Start Tomorrow",
-     "copy": "Get ready, J Cole fans! 'The Fall-Off Tour' kicks off its UK arena leg tomorrow. Are you seeing him live?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#JCole"
-     ]
-    },
-    {
-     "name": "Hip-Hop Live",
-     "copy": "J Cole is bringing 'The Fall-Off Tour' to UK arenas this week! Who's excited for some live hip-hop?",
-     "channels": [
-      "tiktok",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TheFallOffTour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "championship-midweek",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "Championship Midweek Football",
-   "blurb": "The Championship features a midweek clash as Wolves take on Portsmouth on Tuesday, October 20.",
-   "source": {
-    "l": "The Guardian",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmvuv6ZC3kEwKRYF5vzDxYv0IwQHms2shGKdqW7ONNYRqyLLaEEiF3P5ydxrUX3Zj83WGqMJrh5-exZ928hij5ekDb9FH_IlUW1H3TCIihdPoyKkCCMGiUYg4_OuYoxdha42POTnCxYsP2E1LZIQ2vilRfxG8="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Midweek Football Fix",
-     "copy": "Your midweek football fix is sorted! Wolves face Portsmouth in the Championship on Tuesday. Who's taking the points?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Championship"
-     ]
-    },
-    {
-     "name": "League Action",
-     "copy": "Tuesday night football! Wolves vs Portsmouth. Expect fireworks in the Championship.",
-     "channels": [
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#EFL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "snoop-dogg-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 55th Birthday to Snoop Dogg!",
-   "blurb": "Legendary rapper Snoop Dogg celebrates his 55th birthday on Tuesday, October 20.",
-   "source": {
-    "l": "Google Search"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "G-Funk Icon",
-     "copy": "Drop it like it's hot for Snoop Dogg's 55th birthday on Tuesday! What's your all-time favourite Snoop track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#SnoopDogg"
-     ]
-    },
-    {
-     "name": "West Coast Vibes",
-     "copy": "Celebrating the Doggfather's birthday this week! Snoop Dogg turns 55 on Tuesday. Get ready for some West Coast classics!",
-     "channels": [
-      "tiktok",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#HipHop"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "james-blake-glasgow",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "James Blake Live in Glasgow",
-   "blurb": "Electronic artist James Blake brings his 'Trying Times Tour' to Glasgow on Wednesday, October 21.",
-   "source": {
-    "l": "Tickets for Good",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWCTATQWmwHkuU3UiPsA0S2s5H-_fI8uEYk5BTbNfDEDdrp6iYsx1_YzDc6a0AOZisjW140uDCI0gDS4rCCt6dCZ0nJbyIXiy5BB0gLTYUAxSPmgLlfYz5eaDGbYMoFPu8m6Sgf0KLvNDfrfP1Q4wUpg-rLhWKdQNUj5PoN0JeOjF9Sgo-Rveamzk="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Glasgow Gig Alert",
-     "copy": "Glasgow, get ready! James Blake's 'Trying Times Tour' hits the city on Wednesday. Don't miss this one!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JamesBlake"
-     ]
-    },
-    {
-     "name": "Electronic Sounds",
-     "copy": "James Blake is in Glasgow this week! Who's catching his unique electronic sound live?",
-     "channels": [
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#GlasgowGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "time-s3-britbox",
-   "off": 4,
+   "id": "im-a-celeb-delay",
+   "off": 29,
    "type": "tv",
    "hot": true,
-   "title": "Time Series 3 Arrives on BritBox",
-   "blurb": "The third series of the acclaimed drama 'Time' becomes available to stream on BritBox from Thursday, October 22.",
-   "source": {
-    "l": "Brit + Co",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGajIXu6Kvo7ZzN8RtMtQ4XvnKUNO52hVooWTTBXP8_VP9YmXSB2mWVbzQO8LnyOLGSaTQoauPf3TsxVBpJH8xfbdKPwmrzQlaYjpl7R_nRjBpcrJO6gd9QbuGGH4TN7ixP7aMmROxR6BsB"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Binge-Watch Alert",
-     "copy": "Finished the 'Time' finale? Good news! Series 3 drops on BritBox this Thursday, October 22. Perfect for a binge!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BritBox"
-     ]
-    },
-    {
-     "name": "Streaming Soon",
-     "copy": "'Time' Series 3 is heading to BritBox on Thursday. Who's looking forward to rewatching or catching up?",
-     "channels": [
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TVDrama"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "shaggy-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "It Wasn't Me! Shaggy Turns 58",
-   "blurb": "Reggae and dancehall icon Shaggy celebrates his 58th birthday on Thursday, October 22.",
-   "source": {
-    "l": "Google Search"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Reggae King's Birthday",
-     "copy": "Like, zoinks! Shaggy turns 58 on Thursday! What's your favourite hit from the man who taught us 'It Wasn't Me'?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Shaggy"
-     ]
-    },
-    {
-     "name": "Dancehall Throwback",
-     "copy": "Get ready to dance! Shaggy's birthday is this Thursday. Time to relive those early 2000s dancehall vibes!",
-     "channels": [
-      "tiktok",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Dancehall"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-next-weekend",
-   "off": 6,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Returns Next Weekend",
-   "blurb": "The Premier League returns with a full fixture list next weekend (October 24-25), featuring Aston Villa vs Man City and Chelsea vs Tottenham.",
-   "source": {
-    "l": "FA Cup Finals",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELWHJ6NLpwdenUoxfOe1_P-dIgw9P6F1bs-XslUYa3MeB2J6_hzv8Owqqw33wNEOUpvcTCUidS_R9nnW2H0RF8Vp71_Wov-4_xPtOwsEjH0wURv7ephbhKgwEkQ5rYOvtE4RcdxvNfbiCzrpL8J5SZdGLRTTCVoKWHcnYEqA=="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Big Game Build-up",
-     "copy": "Next weekend's Premier League is looking massive! Aston Villa vs Man City and Chelsea vs Tottenham are just some of the highlights. Who are you backing?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#PL"
-     ]
-    },
-    {
-     "name": "Weekend Football Planner",
-     "copy": "Planning your weekend? The Premier League is back with some huge fixtures on Oct 24-25. Get ready for more drama!",
-     "channels": [
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Football"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "championship-next-weekend",
-   "off": 6,
-   "type": "sport",
-   "hot": true,
-   "title": "Championship Weekend Action",
-   "blurb": "The Championship sees a packed schedule on Saturday, October 24, including Cardiff City vs Birmingham City and QPR vs Swansea City.",
-   "source": {
-    "l": "The Guardian",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmvuv6ZC3kEwKRYF5vzDxYv0IwQHms2shGKdqW7ONNYRqyLLaEEiF3P5ydxrUX3Zj83WGqMJrh5-exZ928hij5ekDb9FH_IlUW1H3TCIihdPoyKkCCMGiUYg4_OuYoxdha42POTnCxYsP2E1LZIQ2vilRfxG8="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Derby Day",
-     "for": "welsh-local",
-     "copy": "Big Championship action next Saturday, October 24! Cardiff City host Birmingham City, while Swansea City travel to QPR. Get behind our Welsh teams!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Championship"
-     ]
-    },
-    {
-     "name": "EFL Excitement",
-     "copy": "Next Saturday's Championship fixtures are looking spicy! Who are you watching?",
-     "channels": [
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#EFL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "drake-40th-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Drake Turns 40!",
-   "blurb": "Global superstar Drake celebrates his 40th birthday on Saturday, October 24.",
-   "source": {
-    "l": "Google Search"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Big 4-0 for Drizzy",
-     "copy": "The 6 God turns 40 this Saturday! Happy Birthday to Drake! What's your favourite era of his music?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Drake"
-     ]
-    },
-    {
-     "name": "Hip-Hop Milestone",
-     "copy": "Drake hitting the big 4-0 this weekend! What's the one track that defines his career for you?",
-     "channels": [
-      "tiktok",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Drizzy"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "katy-perry-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 42nd Birthday, Katy Perry!",
-   "blurb": "Pop sensation Katy Perry celebrates her 42nd birthday on Sunday, October 25.",
-   "source": {
-    "l": "Google Search"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Princess",
-     "copy": "California Gurls, it's Katy Perry's 42nd birthday on Sunday! What's your ultimate Katy anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#KatyPerry"
-     ]
-    },
-    {
-     "name": "Firework Fun",
-     "copy": "Get ready to roar! Katy Perry celebrates her birthday this Sunday. Which of her hits gets you feeling like a 'Firework'?",
-     "channels": [
-      "tiktok",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strokes-manchester",
-   "off": 8,
-   "type": "gig",
-   "hot": true,
-   "title": "The Strokes Play Manchester",
-   "blurb": "Indie rock band The Strokes will be playing at Co-op Live in Manchester on Monday, October 26, as part of their UK tour.",
-   "source": {
-    "l": "PhotoPitLive.com",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPMGt0UkA575SLgw1n5Ynahu5neV_NwFUvMudhCcG8gH2yPXO_fhaBQNklB_4diEGV51Y1ceEGFph0ODWCStKnLaA0E4gDrIr7KqJK-GDDqm3YfJTf-rqBcDo5yFw2ehIGww8rksW-xL1H10xHaBfHdw=="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Manchester"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Manchester Rocks",
-     "copy": "Manchester, get ready to rock! The Strokes are live at Co-op Live on Monday, October 26. Who's got tickets?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TheStrokes"
-     ]
-    },
-    {
-     "name": "Indie Anthem",
-     "copy": "The Strokes are in Manchester next week! What's the one song you HAVE to hear them play live?",
-     "channels": [
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ManchesterGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "october-half-term",
-   "off": 8,
-   "type": "seasonal",
-   "hot": true,
-   "title": "October Half-Term Begins",
-   "blurb": "October half-term for schools in England, Wales, and Northern Ireland begins on Monday, October 26.",
-   "source": {
-    "l": "The Best Halloween Events in the UK for 2026",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAV7htGECjqvNj35nyhVyQ4p4dyGe4XaPJOZ7T0SeHD--1I3PdeR9u3FK6dxv0UMXksninvqay4x7RBkUuK709JP-OuRYdDiDz7qxfoUNsm7fyXHmDTHpbnsOabtFSnBnR2PGG0YN8CqcKmqbbyLxVRWvhWf-x2ph97A2rR9zWgvy_SDSoZnuGvGzV5XiYzrW-f1CdYjwOTMQDlkZJAWxrrQBbclZG53bsUOPu-6urEA=="
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "School's Out!",
-     "copy": "School's out for half-term! England, Wales, and NI, your October break starts Monday, October 26. What are your plans?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#HalfTerm"
-     ]
-    },
-    {
-     "name": "Family Fun",
-     "copy": "October half-term is here next week! Time for some family fun and Halloween preparations. What's on your agenda?",
-     "channels": [
-      "facebook",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#FamilyFun"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "simon-le-bon-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 68th Birthday, Simon Le Bon!",
-   "blurb": "Duran Duran frontman Simon Le Bon celebrates his 68th birthday on Tuesday, October 27, while the band is on their UK tour.",
-   "source": {
-    "l": "Google Search"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Wave Icon",
-     "copy": "Happy 68th Birthday to the iconic Simon Le Bon of Duran Duran! What's your favourite Duran Duran hit to celebrate?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#SimonLeBon"
-     ]
-    },
-    {
-     "name": "Tour Birthday",
-     "copy": "What a week for Simon Le Bon! Celebrating his 68th birthday on Tuesday while Duran Duran are on their UK tour. Any big plans for the band?",
-     "channels": [
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#DuranDuran"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "duran-duran-uk-tour",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Duran Duran UK Tour Continues",
-   "blurb": "Duran Duran's UK arena tour continues this week, with dates between October 15-24 in cities like Glasgow, Birmingham, Liverpool, and Leeds.",
+   "title": "I'm A Celeb Launch Delayed",
+   "blurb": "The launch of 'I'm A Celebrity... Get Me Out Of Here!' 2026 is reportedly delayed until November 16th due to a UEFA Nations League clash.",
    "source": {
     "l": "Radio Times",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHugtrq_3m4W-H_XULs_Imq4NfHDfUw8gbPluFCLczGAfas9sM7VQAPVhMuBc4z3cMKTyi4bTheWOHJG5jewjnC_uJRmnDVOdBv9BCDqS7-kSHR-xKV4FfnMh44FrhHm2Nt3cn3zUw36tlCW-pgaMRZia4z7jWAPo4JJIjlHbwchtKGoA=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tour Buzz",
-     "copy": "Duran Duran are still on their UK tour this week! Have you caught the new wave legends live yet?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#DuranDuran"
-     ]
-    },
-    {
-     "name": "Which City Next?",
-     "copy": "Duran Duran's October tour continues! If you're seeing them in Birmingham, Liverpool, or Leeds this week, let us know!",
-     "channels": [
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#80sMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "official-singles-chart",
-   "off": 0,
-   "type": "chart",
-   "hot": true,
-   "title": "Taylor Swift Holds UK No.1 Spot",
-   "blurb": "Taylor Swift's 'Patient Zero' remains at number one on the Official UK Singles Chart for a second consecutive week.",
-   "source": {
-    "l": "HEARTBEATS on Facebook",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCF3nSsfGaDDIH8_9CpzvWeFBhCB-WeBjKba1AQHhKOFLjQ-W7e7RQCuDapRAz6CCGtyaeMheoD3IvhOU6yFmC2w4ULGUUkNO7zCsbRaGjlKFAGDmjZre13UZa-3o3m7gOXy4DZ1dOl_NqW_Pu_VGqg5ZGvTQuM-bV6qGobkUYbt59hK89cy0T_8vHGT-6PqD1m-QD4foOperiEAvnr_pU2LRUY7zgZ19I2NFBEXn2_0c8NNa6S-EaystgUWdnhrLXJhwKEEvRQesNlWTGtMT-ccHcsg=="
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper",
-     "copy": "She's done it again! Taylor Swift holds onto the UK Singles Chart No.1 with 'Patient Zero' for another week. Can anyone knock her off?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "New Entries",
-     "copy": "The latest UK Singles Chart is in! Taylor Swift's still at No.1, plus new entries from Olivia Rodrigo ft. Chappell Roan and re-entries from The Killers and Natasha Bedingfield!",
-     "channels": [
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "halloween-build-up",
-   "off": 13,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Halloween Fever Building Up",
-   "blurb": "With Halloween on Saturday, October 31, spending is expected to reach £705m in the UK, with many theme parks and attractions hosting special events.",
-   "source": {
-    "l": "The Grocer",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr3XHjrgSXKhL-qRWi4ocfmRgYSr3Vurw-kf9I11JdYDnbCJkwCPf5s6j10VbjCSxVuO0_OHh3tNgQ4N528RQoX3ezPfygn5iqk-wDYTOZavSxbeVoL4Roa_UqKAhbXJFI4C7obT0IyXphF7YTj0S3SIyrqtfEBe9mPnObZeM9BnLB64RUzMBVwepYzbO0Td-kw6E2dN_zl2AtNJK6FJLDtNp3GlE3SrFm8N0icrNNITA79LObtQtK"
+    "u": "https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-2026-start-date-delayed-news/"
    },
    "fits": [
     {
@@ -967,54 +645,22 @@
    ],
    "angles": [
     {
-     "name": "Spooky Season Prep",
-     "copy": "Halloween is just around the corner! Are you carving pumpkins, planning a party, or visiting a spooky attraction this year?",
+     "name": "Jungle Delay",
+     "copy": "Hold up! Reports say I'm A Celeb is delayed until Nov 16th because of football! Are you gutted about the wait for the jungle? #ImACeleb",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#Halloween"
+      "#ImACelebrity"
      ]
     },
     {
-     "name": "Theme Park Thrills",
-     "copy": "Alton Towers Scarefest, Thorpe Park Fright Nights, LEGOLAND's Brick or Treat – the UK is packed with Halloween events! Which one are you heading to?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Scarefest"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-party-itvx",
-   "off": -7,
-   "type": "tv",
-   "hot": true,
-   "title": "The Party streaming on ITVX",
-   "blurb": "The new British drama series 'The Party', starring Luke Evans and Sarah Solemani, was released on ITVX on October 11 and runs until October 19.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJYFbGZtmpFrEdW7DApuZU4wPN0a79O3VK9e2yFuVr96PmfVdF7RE0lX8DjBO5FOovbTeUO-QIgCskaLjI51FwZC5LOiYRdQ2hErYE8zMi6Avxd_JNIPdD0tgjSIPcj4E6CrOoGGKY7d7c-ZUVx6KOh6G17"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Drama Binge",
-     "copy": "Looking for a new drama? 'The Party' with Luke Evans and Sarah Solemani is available to stream on ITVX now!",
+     "name": "TV Clash",
+     "copy": "Football vs. Bushtucker Trials! I'm A Celeb's start date is reportedly pushed back due to a UEFA Nations League match. What's your priority? #TVNews",
      "channels": [
       "instagram",
       "facebook",
@@ -1022,114 +668,7 @@
      ],
      "time": "14:00",
      "tags": [
-      "#ITVX"
-     ]
-    },
-    {
-     "name": "Must-Watch Series",
-     "copy": "'The Party' on ITVX is getting people talking. Have you started watching this gripping new British drama yet?",
-     "channels": [
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#ThePartyDrama"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "don-black-tribute",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "From The Heart: A Don Black Tribute",
-   "blurb": "A special concert, 'From The Heart', celebrating lyricist Don Black's five-decade career, is running for a limited time at the Garrick Theatre this October.",
-   "source": {
-    "l": "London Theatreland",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhgXmYmwJ4hFhsJCqDmVhTcDPvZUHCWS4j63zhPGi7iDUWP3QpzOiHoFg7KopL0ylzoGDa1K5RpiHZkrxBgYKQNsAKXIsUxVV72v2c_yHGT6xX_NJ2C050L1YE-dGQzAcPZqCjm7mr5x-UacdkLOdMyJvqQN8jMRdBksjB7x8"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Theatre Legend",
-     "copy": "Celebrating a true legend! 'From The Heart', a tribute to lyricist Don Black, is on now at the Garrick Theatre. A must for fans of timeless songs!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#DonBlack"
-     ]
-    },
-    {
-     "name": "West End Show",
-     "copy": "Don Black's 'From The Heart' is showcasing his incredible career this month. Which of his iconic songs is your favourite?",
-     "channels": [
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#WestEnd"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wil-s19-britbox",
-   "off": 8,
-   "type": "tv",
-   "hot": true,
-   "title": "Would I Lie To You? Season 19 on BritBox",
-   "blurb": "The 19th season of the popular panel show 'Would I Lie To You?' will be available to stream on BritBox from Monday, October 26.",
-   "source": {
-    "l": "Brit + Co",
-    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGajIXu6Kvo7ZzN8RtMtQ4XvnKUNO52hVooWTTBXP8_VP9YmSB2mWVbzQO8LnyOLGSaTQoauPf3TsxVBpJH8xfbdKPwmrzQlaYjpl7R_nRjBpcrJO6gd9QbuGGH4TN7ixP7aMmROxR6BsB"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Comedy Gold",
-     "copy": "Get ready to spot the lies! 'Would I Lie To You?' Season 19 arrives on BritBox next Monday, October 26. Who's your favourite panelist?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#WILTY"
-     ]
-    },
-    {
-     "name": "Laugh Out Loud",
-     "copy": "More hilarity is coming! 'Would I Lie To You?' S19 streaming next week. Fact or fiction?",
-     "channels": [
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#BritBoxComedy"
+      "#ITV"
      ]
     }
    ]
