@@ -1,35 +1,40 @@
 {
- "updated": "2026-10-20T08:55:58.448Z",
+ "updated": "2026-10-20T13:54:54.644Z",
  "moments": [
   {
-   "id": "snoop-dogg-bday",
-   "off": 0,
-   "type": "birthday",
+   "id": "halloween-uk-build-up",
+   "off": 11,
+   "type": "seasonal",
    "hot": true,
-   "title": "Snoop Dogg turns 55",
-   "blurb": "West Coast hip-hop legend Snoop Dogg celebrates his 55th birthday today, October 20th.",
+   "title": "Halloween countdown begins",
+   "blurb": "With Halloween on Saturday, October 31st, various spooky events and half-term activities are ramping up across the UK.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Snoop_Dogg"
+    "l": "Time Out / The Morbid Tourist",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENFEzJROTSk9bnPFIbaNkt5-Dnl5UOQso01n6EFgWIao4oOt5cBy2bVRE55Gd4cllFLTwofjFgaQC0fqzOUNLHqX-eXUnOF-9LvejIl_KCdD9K0ZjNNRkcI1nPZi8UswY6356ZSsQ7qSIOsBZpmjGBd0g5GdYeV26S2w=="
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "nation-network",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "g": "welsh-local",
+     "sub": "Ffear Fforest Zip World"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
     }
    ],
    "angles": [
     {
-     "name": "Hip-Hop Icon",
-     "copy": "Drop it like it's hot! Happy 55th birthday to the one and only Snoop Dogg! What's your favourite Snoop track?",
+     "name": "Spooky Season",
+     "for": "",
+     "copy": "It's officially spooky season! Halloween is just around the corner, what are your plans for the scariest night of the year?",
      "channels": [
       "instagram",
       "facebook",
@@ -37,38 +42,50 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
-      "#SnoopDogg"
+      "#Halloween2026"
      ]
     },
     {
-     "name": "Still Reppin'",
-     "copy": "55 years young for Snoop Dogg today! Still a major force in music and culture. What's his most iconic moment?",
+     "name": "Half Term Fun",
+     "for": "nation-network",
+     "copy": "Half-term is here for many, and the UK is buzzing with Halloween events! From Scarefest to Ffear Fforest, where are you heading for some frightful fun?",
      "channels": [
-      "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "instagram"
      ],
      "time": "12:00",
      "tags": [
-      "#SnoopDoggBirthday"
+      "#HalfTermFun"
+     ]
+    },
+    {
+     "name": "Local Scares",
+     "for": "welsh-local",
+     "copy": "North Wales is getting spooky! Ffear Fforest at Zip World is open for Halloween thrills this week. Who's brave enough to visit?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#FfearFforest"
      ]
     }
    ]
   },
   {
-   "id": "gbbo-tuesday",
+   "id": "gbbo-tonight",
    "off": 0,
    "type": "tv",
    "hot": true,
-   "title": "Great British Bake Off continues",
-   "blurb": "The latest episode of The Great British Bake Off is expected to air tonight, continuing the search for Britain's best amateur baker.",
+   "title": "Bake Off is back tonight!",
+   "blurb": "The Great British Bake Off Series 17 continues tonight, Tuesday, October 20th, at 8pm on Channel 4, with Nigella Lawson joining Paul Hollywood as a judge.",
    "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
+    "l": "Radio Times",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkJzZBs2YS8X2tvdCPYc2Q3S3s-yf2LGAcXEktBYBu6Sro4hNZRdw77iM_vWzvQQkrNLLC9F32igpoIsAApLUwdHVgmZelWWA60D52rpBXotRz38D_uWuvYAtBxjiM_zOlfWfdhBpAalw_H2xfVbZOBCSJtqh4-5koWP4Se1g3qL1JLwYbFoiYuetff9iLCTG7ZNg=="
    },
    "fits": [
     {
@@ -78,13 +95,13 @@
    ],
    "angles": [
     {
-     "name": "Bake Off Tonight",
-     "copy": "It's Tuesday, which means it's time for another slice of The Great British Bake Off! Who are you rooting for in the tent tonight?",
+     "name": "Bake Off Night",
+     "for": "",
+     "copy": "Get the kettle on! The Great British Bake Off is back tonight on Channel 4 at 8pm. What bakes are you hoping to see?",
      "channels": [
-      "instagram",
       "facebook",
       "x",
-      "threads"
+      "instagram"
      ],
      "time": "17:00",
      "tags": [
@@ -92,14 +109,14 @@
      ]
     },
     {
-     "name": "Technical Challenge",
-     "copy": "The pressure's on in the Bake Off tent! What's been the most outrageous technical challenge so far this series?",
+     "name": "Nigella's Influence",
+     "for": "",
+     "copy": "Nigella Lawson in the Bake Off tent! Catch the latest episode tonight. What do you think of her judging so far?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "20:00",
+     "time": "19:00",
      "tags": [
       "#BakeOff"
      ]
@@ -107,61 +124,15 @@
    ]
   },
   {
-   "id": "champions-league-midweek",
-   "off": 1,
-   "type": "sport",
-   "hot": true,
-   "title": "Champions League returns",
-   "blurb": "Midweek sees more Champions League group stage action, with top European clubs battling it out on Wednesday, October 21st.",
-   "source": {
-    "l": "UEFA",
-    "u": "https://www.uefa.com/uefachampionsleague/fixtures-results/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Midweek European Football",
-     "copy": "Get ready for more European nights! The Champions League group stage continues tomorrow. Who are you backing to win?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ChampionsLeague"
-     ]
-    },
-    {
-     "name": "Big Games Ahead",
-     "copy": "Big games coming up in the Champions League tomorrow night. Which fixture are you most looking forward to?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#UCL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "doja-cat-bday",
-   "off": 1,
+   "id": "snoop-dogg-bday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Doja Cat turns 31",
-   "blurb": "Grammy-winning artist Doja Cat celebrates her 31st birthday tomorrow, October 21st.",
+   "title": "Happy 55th to Snoop Dogg!",
+   "blurb": "Calvin Cordozar Broadus, Jr., better known as Snoop Dogg, the iconic rapper, producer, and actor, turns 55 today, October 20th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Doja_Cat"
+    "l": "Famous Birthdays",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXSIp6AP0hSlWd2db6xfhgnd9meRamBwEZrJcICYhbKcXUz3EpQH_6m8ZoKm-Op5YEwFawRvTQW_phlW1Ms42vnA6Fukh5uKml1rUw1OehaljC3iQw05TvO6cVWiKZTTBlnpYYFiZzdkoYM45L5UqfD0dSwA=="
    },
    "fits": [
     {
@@ -170,52 +141,64 @@
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Pop Star Birthday",
-     "copy": "Tomorrow, we're celebrating Doja Cat's 31st birthday! What's your top track from the 'Paint The Town Red' star?",
+     "name": "Snoop's 55th",
+     "for": "Nation Hits",
+     "copy": "Drop it like it's hot for Snoop Dogg! The legendary rapper turns 55 today. What's your favourite Snoop track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#DojaCat"
+      "#SnoopDogg"
      ]
     },
     {
-     "name": "Chart Topper",
-     "copy": "Get ready to celebrate! Doja Cat turns 31 tomorrow. She's given us so many hits – which one is your absolute favourite?",
+     "name": "Still Doggfather",
+     "for": "Nation Dance",
+     "copy": "55 years young for the one and only Snoop Dogg! Still bringing the vibes. What's your go-to Snoop anthem?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "16:00",
+     "time": "14:00",
      "tags": [
-      "#DojaCatBirthday"
+      "#Doggfather"
      ]
     }
    ]
   },
   {
-   "id": "shaggy-bday",
-   "off": 2,
+   "id": "dannii-minogue-bday",
+   "off": 0,
    "type": "birthday",
-   "hot": true,
-   "title": "Shaggy turns 58",
-   "blurb": "Reggae fusion star Shaggy, known for hits like 'It Wasn't Me', celebrates his 58th birthday on Thursday, October 22nd.",
+   "hot": false,
+   "title": "Dannii Minogue turns 55!",
+   "blurb": "Australian singer, songwriter, and TV personality Dannii Minogue, sister of Kylie, celebrates her 55th birthday today, October 20th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Shaggy"
+    "l": "Dave's Music Database",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiwgUFxqFaTwl7smB7MOFRU0UOhlPtZPm6WluQ0uYzKj91dnByWBTuQ9shvg1pcbshCMwHsijvZLSnBw8jrQovV-pAgMP_bnLM-nJLjK-yuGB1H4cnEPJNg-H5wxv-_FTtoBK6CSTyPRuc_t3qwfSwNkIaqRp4125iZixwwVWQ5F56nFRQxY6hfX5KH0g=="
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
@@ -223,48 +206,96 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "Mr. Boombastic",
-     "copy": "Zoinks! Shaggy turns 58 on Thursday! Get ready to sing along to all his classics. What's your favourite Shaggy tune?",
+     "name": "Happy Birthday Dannii",
+     "for": "Nation 90s",
+     "copy": "Celebrating Dannii Minogue's 55th today! From 'Love and Kisses' to 'Put the Needle on It', what's your favourite Dannii track?",
      "channels": [
-      "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "instagram"
      ],
-     "time": "10:00",
+     "time": "11:00",
      "tags": [
-      "#Shaggy"
+      "#DanniiMinogue"
      ]
     },
     {
-     "name": "It Wasn't Me",
-     "copy": "Happy 58th to Shaggy this Thursday! The man behind 'It Wasn't Me' and so many other huge hits. What's your go-to?",
+     "name": "Pop Princess",
+     "for": "Nation Dance",
+     "copy": "Happy 55th Birthday to the pop icon Dannii Minogue! Still owning the dancefloor. What's your ultimate Dannii jam?",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "16:00",
      "tags": [
-      "#ShaggyBirthday"
+      "#PopPrincess"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart",
+   "id": "jess-glynne-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": false,
+   "title": "Jess Glynne turns 37!",
+   "blurb": "British singer-songwriter Jess Glynne, known for hits like 'Rather Be' and 'Hold My Hand', celebrates her 37th birthday today, October 20th.",
+   "source": {
+    "l": "Radio Flora TM",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErC2xu5s2-QBdkt49Qci7xlT2iPSxRUHftEzoO6347vw9aQsPDhIYVaNt2Relo5wQCyiwjel-9WJtanU7Goc2K1dzEhyelHmNjVZBDqWz57xWGgoBHp4zpv0gbPM1q4_ZQg1wWSNveb_wF0N-enhDskJWciFfxP6f0kV6yw6Yo-0pq"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jess Glynne's Day",
+     "for": "Nation Hits",
+     "copy": "Happy 37th Birthday to the incredible Jess Glynne! Which of her chart-topping tracks is your all-time favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#JessGlynne"
+     ]
+    },
+    {
+     "name": "Voice of a Generation",
+     "for": "Nation Dance",
+     "copy": "Celebrating Jess Glynne's 37th today! Her voice has soundtracked so many nights out. What's your top Jess Glynne club banger?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#UKPop"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-preview",
    "off": 3,
    "type": "culture",
    "hot": true,
-   "title": "New Official UK Singles Chart",
-   "blurb": "The Official UK Singles Chart will be updated on Friday, October 23rd, revealing the nation's new number one song.",
+   "title": "New UK Singles Chart this Friday",
+   "blurb": "The Official UK Singles Chart will be updated this Friday, October 23rd, revealing the nation's biggest hits of the week.",
    "source": {
     "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
@@ -273,181 +304,183 @@
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Chart Race Friday",
-     "copy": "Who will be number one this week? The Official UK Singles Chart gets a refresh on Friday! Any predictions?",
+     "name": "Chart Race",
+     "for": "",
+     "copy": "Who's going to be number one? The new Official UK Singles Chart drops this Friday! Any predictions?",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "threads"
+      "instagram",
+      "facebook"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#UKChart"
      ]
     },
     {
-     "name": "New Music Friday",
-     "copy": "It's almost New Music Friday and a brand new UK Singles Chart! What song do you hope makes it to the top?",
+     "name": "Friday Feels",
+     "for": "",
+     "copy": "New music on the horizon! What tracks are you hoping to see climb the Official UK Singles Chart this Friday?",
      "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-weekend",
-   "off": 4,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League weekend fixtures",
-   "blurb": "The Premier League returns this weekend, October 24th-25th, with a full schedule of top-flight football across the UK.",
-   "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Football Saturday",
-     "copy": "Ready for some Premier League action? Another big weekend of football kicks off on Saturday! Which game are you watching?",
-     "channels": [
-      "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Weekend Rivalries",
-     "copy": "The Premier League is back this weekend! Expect drama, goals, and big rivalries. What's your score prediction?",
-     "channels": [
-      "x",
-      "facebook"
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#PL"
+      "#NewMusicFriday"
      ]
     }
    ]
   },
   {
-   "id": "strictly-saturday",
-   "off": 4,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing live show",
-   "blurb": "Strictly Come Dancing is expected to broadcast its latest live show on Saturday, October 24th, with performances and eliminations.",
-   "source": {
-    "l": "BBC One",
-    "u": "https://www.bbc.co.uk/programmes/b006m8dq"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly Saturday",
-     "copy": "Get your glitterball ready! Strictly Come Dancing is back on Saturday night. Who's your favourite couple this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Strictly"
-     ]
-    },
-    {
-     "name": "Dance Off",
-     "copy": "Who will survive the dance-off? Strictly returns this Saturday for another dazzling live show. Any predictions for who's going home?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "drake-bday",
-   "off": 4,
+   "id": "21-savage-bday",
+   "off": 2,
    "type": "birthday",
-   "hot": true,
-   "title": "Drake turns 40",
-   "blurb": "Global superstar Drake celebrates his 40th birthday on Saturday, October 24th.",
+   "hot": false,
+   "title": "21 Savage turns 34!",
+   "blurb": "British-American rapper 21 Savage, born Shéyaa Bin Abraham-Joseph, celebrates his 34th birthday on Thursday, October 22nd.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Drake_(musician)"
+    "l": "Famous Birthdays",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEsoaPMg_0s7HMPEt1qmbARsIAU6fv0_4Zcd76biVCmWsrMieFsYad5vu76prlAVrzq2U8zD4b-nABzY4xouFimUKZkbCEz95zsUUj6nFqpaNsqziaR6DhckRt-IXKAGkAlhX8eF2loQ=="
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Big 4-0 for Drizzy",
-     "copy": "The 6 God turns 40 this Saturday! Happy birthday to Drake. What's your all-time favourite track from the Canadian icon?",
+     "name": "Happy Birthday 21",
+     "for": "Nation Hits",
+     "copy": "Big ups to 21 Savage turning 34 on Thursday! What's your favourite track from the Atlanta-raised star?",
      "channels": [
       "instagram",
-      "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#Drake"
+      "#21Savage"
      ]
     },
     {
-     "name": "Chart Dominator",
-     "copy": "It's Drake's 40th birthday this Saturday! So many hits, so many records. Which Drake song defines an era for you?",
+     "name": "Rap King",
+     "for": "Nation Hits",
+     "copy": "Throwback to 21 Savage's biggest hits as he celebrates his 34th this week! Which one gets you hyped?",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#Drake40"
+      "#Rap"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "zac-hanson-bday",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Zac Hanson is 41!",
+   "blurb": "Zac Hanson, the youngest member and drummer of the pop-rock band Hanson, turns 41 on Thursday, October 22nd.",
+   "source": {
+    "l": "Musicians born on October 22 - Wikipedia",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk9WAktOpRCgXEq0ZtL4ke---zIG0RvPWl-Ie6LXfJSDPu3U0ICp3XihPBxFcO_cLz5MJUR7s7Jf39KrVMmUm58RPV0H4uDDk7dqX8bTinlqhRLjZ9OCw-b6PplFV6OAQdfZK_tH5vvua-Pd0iK-YerkXWQwtmB3_O"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Mmmbop to 41!",
+     "for": "Nation 90s",
+     "copy": "Happy 41st Birthday to Zac Hanson! Can you believe 'Mmmbop' was 29 years ago? What's your favourite Hanson memory?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Hanson"
+     ]
+    },
+    {
+     "name": "Forever Young",
+     "for": "Nation Classic Hits",
+     "copy": "Zac Hanson turns 41 this Thursday! Still rocking with his brothers. What's your go-to Hanson track?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#ZacHanson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "weird-al-yankovic-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "'Weird Al' Yankovic turns 67!",
+   "blurb": "Grammy-winning musical satirist 'Weird Al' Yankovic celebrates his 67th birthday on Friday, October 23rd.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-YO0JLCZ-_LuvV1WZyarzUzTOmZWFRBmGFy4dWp-HxGFIt0PCMOGDEFwDapNa6WCwCSSumS-YU9LfUPwKF_FHuOfUWF23-7kTPEMrFymQu8CYHV-i50mq_vmxYPNXCCModnNmCFVOb91YHFQ91oq8f_cl9w=="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy 'Weird Al' Day",
+     "for": "",
+     "copy": "Get ready to party like an 'Amish Paradise'! 'Weird Al' Yankovic turns 67 this Friday. What's your favourite parody song?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#WeirdAl"
+     ]
+    },
+    {
+     "name": "Comedy King",
+     "for": "",
+     "copy": "Celebrating the genius of 'Weird Al' Yankovic, who turns 67 on Friday! Which of his hilarious hits always makes you smile?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#Parody"
      ]
     }
    ]
@@ -457,11 +490,11 @@
    "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Katy Perry turns 42",
-   "blurb": "Pop sensation Katy Perry, known for global hits like 'Firework' and 'Roar', celebrates her 42nd birthday on Sunday, October 25th.",
+   "title": "Katy Perry turns 42!",
+   "blurb": "Pop superstar Katy Perry, known for global hits like 'Firework' and 'Roar', celebrates her 42nd birthday on Sunday, October 25th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Katy_Perry"
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp283iWwmysP5lqGdrOrsVh3IhBTa-tzCOs6X2XZHD4cxxL2DNmiitRVTPeSJZv5-Rk_sHfN-B6QNoDwAAa0fkivg7ycek-AZUb5tm-0uwi28qbEHGhnLeNPNEra254m_OuQ=="
    },
    "fits": [
     {
@@ -475,14 +508,14 @@
    ],
    "angles": [
     {
-     "name": "Pop Queen's Birthday",
-     "copy": "Happy 42nd birthday to Katy Perry this Sunday! From 'I Kissed A Girl' to 'Firework', what's your ultimate Katy anthem?",
+     "name": "Roar for Katy",
+     "for": "Nation Hits",
+     "copy": "It's Katy Perry's 42nd Birthday this Sunday! Get ready to 'Roar' and celebrate with her biggest hits. What's your favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
      "time": "10:00",
      "tags": [
@@ -490,32 +523,244 @@
      ]
     },
     {
-     "name": "California Gurl",
-     "copy": "Celebrating Katy Perry's 42nd birthday this Sunday! She's given us so many colourful, catchy hits. Which one always gets you singing?",
+     "name": "Pop Icon",
+     "for": "Nation 00s",
+     "copy": "Happy Birthday to the one and only Katy Perry, turning 42 on Sunday! From 'I Kissed A Girl' to 'Teenage Dream', which era is your favourite?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#KatyPerryBirthday"
+      "#PopMusic"
      ]
     }
    ]
   },
   {
-   "id": "simon-le-bon-bday",
-   "off": 7,
+   "id": "chad-smith-bday",
+   "off": 5,
    "type": "birthday",
-   "hot": true,
-   "title": "Simon Le Bon turns 68",
-   "blurb": "Duran Duran frontman Simon Le Bon celebrates his 68th birthday on Tuesday, October 27th.",
+   "hot": false,
+   "title": "Chad Smith is 65!",
+   "blurb": "Chad Smith, the powerhouse drummer for the Red Hot Chili Peppers, celebrates his 65th birthday on Sunday, October 25th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Simon_Le_Bon"
+    "l": "Joe Bonamassa",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG79AmchLAgmF3HzkOboHXaiZsXjGXpKgjYabTkj8G7jUupDAbbOwRxQ-oq1gZAoJnlyiKs031CQj9pmHhMTe_kV37npp-N12qlc9PzhuyRLtnvgeE_q3abLkta8JkRlTo15Ka5XUkLlPU3WXH7"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "RHCP Drummer",
+     "for": "Nation Rocks",
+     "copy": "Give it up for Chad Smith! The incredible Red Hot Chili Peppers drummer turns 65 this Sunday. What's your favourite RHCP track?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ChadSmith"
+     ]
+    },
+    {
+     "name": "Funk Rock Legend",
+     "for": "Nation 90s",
+     "copy": "Happy 65th to the legendary Chad Smith! Still bringing the funk and power to the drums. What's your favourite Chili Peppers album?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#RedHotChiliPeppers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "keith-urban-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Keith Urban turns 59!",
+   "blurb": "Grammy-winning country music superstar Keith Urban celebrates his 59th birthday on Monday, October 26th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWVjIRlaKsndXR-crcuTi7Uayg92zADSVeJU2LpWd8T13BzDEKV_ju8SAr3f2qPvlAaaCfjLhAzma2Qzq9JzfWgYdkNWSFZH8Ft_bfM3XnHVtcllfizbaKPyYPJ_WIPpyVetfXMIRBsE5oeAQ8QuCpxwX3ww=="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Country Star",
+     "for": "",
+     "copy": "Happy 59th Birthday to the one and only Keith Urban this Monday! What's your favourite song from the country-pop crossover king?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#KeithUrban"
+     ]
+    },
+    {
+     "name": "Blue Ain't Your Color",
+     "for": "",
+     "copy": "Celebrating Keith Urban's 59th on Monday! From stadium anthems to heartfelt ballads, which song of his do you love most?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#CountryMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bootsy-collins-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Bootsy Collins is 75!",
+   "blurb": "Funk music legend and bassist Bootsy Collins, known for his work with James Brown and Parliament-Funkadelic, turns 75 on Monday, October 26th.",
+   "source": {
+    "l": "Musicians born on October 26 - Wikipedia",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtr_qml0iT34Q_w3FQeP30akct1t0GuYqLW51QQ0fam4VE4o8-xjL4CTXh5-XAh8huQXuRseLAUD8Yf6cEEOCLPK8lBsCqd8b-IlYe-5D2QvLloqIlVjqKVCedft2wWUCVJMqIRmL4CG9zE9_zkB7en6uJhHLTGLgY"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Funk Master",
+     "for": "Nation Dance",
+     "copy": "Happy 75th Birthday to the ultimate funkateer, Bootsy Collins, this Monday! What's your favourite Bootsy groove?",
+     "channels": [
+      "facebook",
+      "x",
+      "instagram"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#BootsyCollins"
+     ]
+    },
+    {
+     "name": "Bass Legend",
+     "for": "Nation 70s",
+     "copy": "Celebrating the incredible Bootsy Collins turning 75 on Monday! His basslines are legendary. Which track features his best work?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Funk"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "frank-ocean-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": false,
+   "title": "Frank Ocean turns 39!",
+   "blurb": "Grammy-winning singer, songwriter, and rapper Frank Ocean celebrates his 39th birthday on Wednesday, October 28th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTKXuxzTTeJL0eVAR7VK5XurnCGPds1QNEbg4kAzf6YU4lX2q59QhXO22aFrF9zmfsMpQXvnkRLYeGzzBOxp44IeCMV2cVKo4uVYeJ_Dp1YMZw_ajOhAAD3PJcjW5IX2NHm_zW2f-P2VxDVJd8isC_c3nTg=="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Frank",
+     "for": "Nation Hits",
+     "copy": "Happy 39th Birthday to the influential Frank Ocean this Wednesday! Which of his genre-bending tracks is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#FrankOcean"
+     ]
+    },
+    {
+     "name": "Channel Orange",
+     "for": "Nation Love",
+     "copy": "Celebrating Frank Ocean turning 39 on Wednesday! His music hits different. What's your go-to Frank Ocean song?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#RnB"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "randy-jackson-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Randy Jackson is 65!",
+   "blurb": "Randy Jackson, the youngest of the Jackson brothers and a former member of The Jackson 5, celebrates his 65th birthday on Thursday, October 29th.",
+   "source": {
+    "l": "Musicians born on October 29 - Wikipedia",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlhRpnwFxewbSehVajfiZ7xKCnM05Jd7olAYIpDyWnhTRCUU6zYVZWX5vv8ENhr_HxkzwionI1JccAo9QCcdjk4awOis2hL0H855gdYlbxXeeOgRK6UKO0GWSSSRXRdE2t9jqNibF96EW8gwH-byO88YIChjcGecex"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
@@ -523,37 +768,34 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "Duran Duran Icon",
-     "copy": "Wild Boys, Wild Boys! Happy 68th birthday to Duran Duran's iconic frontman, Simon Le Bon, this Tuesday! What's your favourite Duran Duran track?",
+     "name": "Jackson 5 Brother",
+     "for": "Nation 70s",
+     "copy": "Happy 65th Birthday to Randy Jackson this Thursday! The youngest of the iconic Jackson brothers. What's your favourite Jackson 5 hit?",
      "channels": [
-      "instagram",
       "facebook",
       "x",
-      "threads"
+      "instagram"
      ],
      "time": "10:00",
      "tags": [
-      "#SimonLeBon"
+      "#RandyJackson"
      ]
     },
     {
-     "name": "New Wave Legend",
-     "copy": "Celebrating the legend that is Simon Le Bon, who turns 68 this Tuesday! From 'Rio' to 'Hungry Like The Wolf', what's his best moment?",
+     "name": "Motown Royalty",
+     "for": "Nation Classic Hits",
+     "copy": "Celebrating Randy Jackson turning 65 on Thursday! Part of music royalty. Which Jackson family track is always on your playlist?",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "15:00",
      "tags": [
-      "#DuranDuran"
+      "#Motown"
      ]
     }
    ]
@@ -562,12 +804,12 @@
    "id": "grace-slick-bday",
    "off": 10,
    "type": "birthday",
-   "hot": true,
-   "title": "Grace Slick turns 87",
-   "blurb": "Rock icon Grace Slick, legendary vocalist for Jefferson Airplane and Jefferson Starship, celebrates her 87th birthday on Friday, October 30th.",
+   "hot": false,
+   "title": "Grace Slick turns 87!",
+   "blurb": "Grace Slick, the iconic lead singer of Jefferson Airplane and Jefferson Starship, celebrates her 87th birthday on Friday, October 30th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Grace_Slick"
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8w-PZnfxtn-UJu8XFpd-16QtWxHPThPzo_-Dxq4REHe13iJOvHRYeehaqeK8ZmTgoamOQHMmz5g7kZ-jUcLhX7zwS42QpFDvw52ltX7WGgveq81Lsd-5HYPpMvBVfiDxv7p2R0yYAiuA2-Xd4vLJ_5QDgekTuV8OMjJM="
    },
    "fits": [
     {
@@ -581,29 +823,34 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Psychedelic Rock Queen",
-     "copy": "Happy 87th birthday to the incredible Grace Slick this Friday! Her voice defined an era with Jefferson Airplane and Starship. What's your favourite track?",
+     "name": "White Rabbit Icon",
+     "for": "Nation Rocks",
+     "copy": "Happy 87th Birthday to the legendary Grace Slick this Friday! The voice behind 'White Rabbit'. What's your favourite psychedelic rock anthem?",
      "channels": [
-      "instagram",
       "facebook",
       "x",
-      "threads"
+      "instagram"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#GraceSlick"
      ]
     },
     {
-     "name": "White Rabbit Icon",
-     "copy": "Celebrating rock legend Grace Slick, turning 87 this Friday! From 'White Rabbit' to 'Somebody to Love', what's her greatest hit?",
+     "name": "Starship Captain",
+     "for": "Nation 70s",
+     "copy": "Celebrating Grace Slick's 87th on Friday! From Jefferson Airplane to Starship, her impact on rock is undeniable. Which of her songs is your favourite?",
      "channels": [
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "14:00",
      "tags": [
@@ -613,48 +860,111 @@
    ]
   },
   {
-   "id": "halloween-countdown",
-   "off": 11,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Halloween is coming",
-   "blurb": "Halloween, the annual celebration of all things spooky, takes place on Thursday, October 31st.",
+   "id": "gavin-rossdale-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Gavin Rossdale turns 61!",
+   "blurb": "Gavin Rossdale, frontman of the rock band Bush, celebrates his 61st birthday on Friday, October 30th.",
    "source": {
-    "l": "Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/halloween"
+    "l": "Musicians born on October 30 - Wikipedia",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUBxSRfigCJ6Rzz2Kg5j6B_FY3axe45zL-RLebwyMWLpJq9xKgmqZJmnk5HMP8KQjoY2cmSiJojvg1GXrwkDrtQgEK_5pc9TpA8RSzU4qL-38typO8OI88yLuYN1QWA16IT8cJQyw6gRaRgFM0CzKZy02SJZhxjpaq"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     }
    ],
    "angles": [
     {
-     "name": "Spooky Season",
-     "copy": "Only 11 days until Halloween! Are you ready for ghosts, ghouls, and plenty of treats? What's your favourite spooky song?",
+     "name": "Bush Frontman",
+     "for": "Nation Rocks",
+     "copy": "Happy 61st Birthday to Gavin Rossdale, the voice of Bush, this Friday! Which of their grunge anthems is your favourite?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "10:30",
      "tags": [
-      "#Halloween"
+      "#GavinRossdale"
      ]
     },
     {
-     "name": "Costume Prep",
-     "copy": "Halloween is just around the corner! Got your costume sorted? Or are you planning a frightfully good night in?",
+     "name": "90s Rock Icon",
+     "for": "Nation 90s",
+     "copy": "Celebrating Gavin Rossdale's 61st on Friday! Still sounding great. What's your ultimate Bush track?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#BushBand"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "otis-williams-bday",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Otis Williams is 85!",
+   "blurb": "Otis Williams, the last surviving original member of the legendary Motown group The Temptations, celebrates his 85th birthday on Friday, October 30th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8w-PZnfxtn-UJu8XFpd-16QtWxHPThPzo_-Dxq4REHe13iJOvHRYeehaqeK8ZmTgoamOQHMmz5g7kZ-jUcLhX7zwS42QpFDvw52ltX7WGgveq81Lsd-5HYPpMvBVfiDxv7p2R0yYAiuA2-Xd4vLJ_5QDgekTuV8OMjJM="
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Motown Legend",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 85th Birthday to the iconic Otis Williams of The Temptations this Friday! What's your favourite Motown classic from them?",
      "channels": [
       "facebook",
-      "x"
+      "x",
+      "instagram"
      ],
-     "time": "15:00",
+     "time": "11:00",
      "tags": [
-      "#SpookySeason"
+      "#OtisWilliams"
+     ]
+    },
+    {
+     "name": "The Temptations Forever",
+     "for": "Nation 60s",
+     "copy": "Celebrating Otis Williams turning 85 on Friday! The last original Temptation. 'My Girl' or 'Ain't Too Proud to Beg' - which is your top pick?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#TheTemptations"
      ]
     }
    ]
