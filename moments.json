@@ -1,21 +1,29 @@
 {
- "updated": "2026-10-22T06:42:30.881Z",
+ "updated": "2026-10-22T12:33:43.392Z",
  "moments": [
   {
-   "id": "halloween-uk-2026",
+   "id": "halloween-spooky",
    "off": 9,
    "type": "seasonal",
    "hot": true,
-   "title": "Halloween Takes Over This Weekend",
-   "blurb": "The UK prepares for Halloween on Saturday, October 31st, with events ranging from scare attractions to family-friendly fun happening across the country.",
+   "title": "Halloween takes over the UK",
+   "blurb": "Halloween on Saturday, October 31st, sees a host of spooky events and parties across the UK, from city-wide celebrations to theme park fright nights.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-to-do/events/halloween-and-bonfire-night"
+    "l": "VisitBritain / Time Out",
+    "u": "https://www.visitbritain.com/en/halloween-bonfire-night-britain"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "radio-exe",
+     "sub": "Radio Exe"
     },
     {
      "g": "welsh-local",
@@ -24,55 +32,112 @@
     {
      "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Spooky Weekend Plans",
-     "copy": "Ready for a frightfully good weekend? Halloween is officially Saturday, but the spooky celebrations are kicking off early across the UK! What are your plans?",
+     "name": "Spooky Saturday",
+     "copy": "Halloween is just over a week away! What's your go-to spooky tune for getting into the spirit this Saturday? Let us know!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
       "#Halloween2026"
      ]
     },
     {
-     "name": "Local Halloween Events",
-     "for": "welsh-local, dragon",
-     "copy": "North Wales is getting spooky with Ffear Fforest Zip World for Halloween! What local frights are happening near you this weekend?",
+     "name": "Trick or Treat Plans",
+     "copy": "Pumpkin carving, fancy dress, or a scary movie marathon? How are you planning to celebrate Halloween this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#SpookySeason"
+     ]
+    },
+    {
+     "name": "Local Fright Nights",
+     "for": "radio-exe",
+     "copy": "Devon's gearing up for a frightfully good Halloween! Are you visiting any local scare attractions or heading to a pumpkin patch this weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#DevonHalloween"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bonfire-night-prep",
+   "off": 14,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Bonfire Night approaches",
+   "blurb": "Guy Fawkes Night, also known as Bonfire Night, is on Thursday, November 5th, with many firework displays scheduled for the surrounding weekend of November 7th and 8th across the UK.",
+   "source": {
+    "l": "Time and Date / Galactic Fireworks",
+    "u": "https://www.timeanddate.com/holidays/uk/guy-fawkes-day"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "radio-exe",
+     "sub": "Radio Exe"
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Fireworks or Bonfire?",
+     "copy": "Bonfire Night is just around the corner! Are you more about the spectacular fireworks displays or a cosy bonfire gathering?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "11:00",
+     "time": "09:30",
      "tags": [
-      "#HalloweenWales"
+      "#BonfireNight"
      ]
     },
     {
-     "name": "Costume Countdown",
-     "copy": "It's officially Halloween week! Are you going all out with a costume this year or keeping it classic? Show us your spooky style!",
+     "name": "Safety First",
+     "copy": "Planning to celebrate Bonfire Night? Remember to stay safe around fireworks and bonfires. Check local event listings for organised displays!",
      "channels": [
-      "instagram",
       "facebook",
-      "tiktok",
-      "threads"
+      "x",
+      "tiktok"
      ],
-     "time": "15:00",
+     "time": "13:00",
      "tags": [
-      "#HalloweenCostume"
+      "#GuyFawkes"
      ]
     }
    ]
@@ -82,8 +147,8 @@
    "off": 2,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Action This Weekend",
-   "blurb": "The Premier League returns with a packed weekend of fixtures, including Chelsea vs Tottenham Hotspur on Saturday and Liverpool vs Brighton on Sunday.",
+   "title": "Premier League weekend clashes",
+   "blurb": "The Premier League returns this weekend with several major fixtures, including Chelsea vs Tottenham Hotspur on Saturday and Liverpool vs Brighton on Sunday.",
    "source": {
     "l": "Premier League",
     "u": "https://www.premierleague.com/fixtures"
@@ -96,251 +161,42 @@
    ],
    "angles": [
     {
-     "name": "Saturday Showdowns",
-     "copy": "Huge Premier League clashes this Saturday! Aston Villa host Man City, Arsenal take on Everton, and Chelsea face Spurs. Which match are you most hyped for?",
+     "name": "Big Match Saturday",
+     "copy": "Kicking off the Premier League weekend tomorrow: Chelsea take on Spurs at Stamford Bridge. Who are you backing?",
      "channels": [
-      "x",
+      "instagram",
       "facebook",
-      "instagram"
+      "x"
      ],
-     "time": "09:00",
+     "time": "16:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Sunday Football",
-     "copy": "Sunday brings more Premier League drama! Liverpool vs Brighton and Manchester United vs Bournemouth headline the afternoon. Who's getting the points?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#PL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f1-us-mexico-gp",
-   "off": 1,
-   "type": "sport",
-   "hot": true,
-   "title": "F1 Heads to US & Mexico",
-   "blurb": "Formula 1 is in Austin, Texas for the United States Grand Prix this weekend (Oct 23-25), before heading to Mexico City for the Mexican Grand Prix next week (Oct 30 - Nov 1).",
-   "source": {
-    "l": "Formula 1",
-    "u": "https://www.formula1.com/en/racing/2026.html"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "US Grand Prix Weekend",
-     "copy": "Vroom, vroom! F1 is in Austin, Texas this weekend for the United States Grand Prix! Who are you backing for pole position?",
-     "channels": [
-      "x",
-      "facebook",
-      "instagram"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#USGP",
-      "#F1"
-     ]
-    },
-    {
-     "name": "Mexico GP Next",
-     "copy": "From Texas to Mexico! The F1 circus heads to Mexico City next week for the Mexican Grand Prix. Get ready for some high-altitude racing!",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#MexicoGP",
-      "#Formula1"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "efl-championship-cardiff-wolves",
-   "off": 9,
-   "type": "sport",
-   "hot": true,
-   "title": "Cardiff City Face Wolves in EFL",
-   "blurb": "Cardiff City FC are set to play Wolverhampton Wanderers in an EFL Championship clash on Saturday, October 31st.",
-   "source": {
-    "l": "EFL",
-    "u": "https://www.efl.com/fixtures-and-results/sky-bet-championship/fixtures/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cardiff Match Day",
-     "copy": "Big weekend for Cardiff City FC! They're facing Wolverhampton Wanderers in the Championship this Saturday. Can they secure a Halloween win?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#Bluebirds",
-      "#EFLChampionship"
-     ]
-    },
-    {
-     "name": "Welsh Football Focus",
-     "copy": "All eyes on Cardiff City this Saturday as they take on Wolves! What are your predictions for the score?",
+     "name": "Super Sunday Football",
+     "copy": "Sunday sees Liverpool host Brighton, while Manchester United face Bournemouth. Which game are you most looking forward to?",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "18:00",
      "tags": [
-      "#CardiffCity",
-      "#WelshFootball"
+      "#Football"
      ]
     }
    ]
   },
   {
-   "id": "exeter-chiefs-bristol-bears",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "Exeter Chiefs vs Bristol Bears",
-   "blurb": "Exeter Chiefs will play Bristol Bears in a Gallagher Premiership match at Ashton Gate on Saturday, October 24th, with a 5:30 PM kick-off.",
-   "source": {
-    "l": "Exeter Chiefs",
-    "u": "https://www.exeterchiefs.co.uk/fixtures"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chiefs Match Day",
-     "copy": "It's a big one for Exeter Chiefs this Saturday! They head to Ashton Gate to take on Bristol Bears in the Premiership. Get behind the lads!",
-     "channels": [
-      "x",
-      "facebook",
-      "instagram"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#ExeterChiefs",
-      "#GallagherPrem"
-     ]
-    },
-    {
-     "name": "Devon Rugby",
-     "copy": "Devon's finest, Exeter Chiefs, are in action this Saturday against Bristol Bears. Who's making the trip to Ashton Gate?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RugbyFamily",
-      "#COYC"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "duran-duran-london-gig",
+   "id": "duran-duran-o2",
    "off": 9,
    "type": "gig",
    "hot": true,
-   "title": "Duran Duran Play London",
-   "blurb": "Iconic 80s band Duran Duran are set to play a major London concert on Saturday, October 31st.",
+   "title": "Duran Duran's Halloween O2 spectacle",
+   "blurb": "Duran Duran conclude their UK tour with a special 'Danse Macabre' Halloween Party at The O2 Arena in London on Saturday, October 31st.",
    "source": {
-    "l": "OnesToWatch",
-    "u": "https://www.onestowatch.com/en/blog/london-concerts-mid-october-to-november-2026-picks"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Wave Halloween",
-     "copy": "Fancy a New Wave Halloween? Duran Duran are playing a massive London gig on Saturday! What's your favourite Duran Duran track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DuranDuran",
-      "#80sMusic"
-     ]
-    },
-    {
-     "name": "London Calling",
-     "for": "Nation Radio London",
-     "copy": "London, get ready! Duran Duran are bringing their iconic sound to the capital this Halloween. It's going to be a wild night!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#LondonGigs",
-      "#DuranDuran"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "simon-le-bon-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Simon Le Bon Turns 68",
-   "blurb": "Duran Duran frontman Simon Le Bon celebrates his 68th birthday on Tuesday, October 27th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/simon-le-bon.html"
+    "l": "Time Out / Gigantic Tickets",
+    "u": "https://www.timeout.com/london/music/london-concerts-gigs-october-2026-1"
    },
    "fits": [
     {
@@ -350,48 +206,51 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Simon",
-     "copy": "Happy 68th Birthday to the iconic Simon Le Bon of Duran Duran! What's your go-to Duran Duran anthem?",
+     "name": "Halloween with Duran Duran",
+     "copy": "Getting spooky with the legends! Duran Duran bring their 'Danse Macabre' Halloween Party to The O2 this Saturday. What's your favourite Duran Duran track?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "09:00",
+     "time": "10:30",
      "tags": [
-      "#SimonLeBon",
       "#DuranDuran"
      ]
     },
     {
-     "name": "80s Legend",
-     "copy": "Celebrating an 80s legend today! Simon Le Bon, the voice of Duran Duran, is 68. What's his best vocal performance?",
+     "name": "80s Icons Live",
+     "copy": "If you're at The O2 for Duran Duran's Halloween show, get ready for some iconic 80s hits and deep cuts! What's a song you hope they play?",
      "channels": [
-      "x",
-      "threads"
+      "facebook",
+      "x"
      ],
-     "time": "13:00",
+     "time": "15:00",
      "tags": [
-      "#80sIcon",
-      "#NewWave"
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "drake-birthday",
-   "off": 2,
-   "type": "birthday",
+   "id": "raye-royal-albert-hall",
+   "off": 1,
+   "type": "gig",
    "hot": true,
-   "title": "Drake's 38th Birthday",
-   "blurb": "Grammy-winning rapper Drake celebrates his 38th birthday on Saturday, October 24th, fresh off new chart entries.",
+   "title": "RAYE plays Royal Albert Hall",
+   "blurb": "Critically acclaimed artist RAYE performs at the Royal Albert Hall in London on Friday, October 23rd.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/drake.html"
+    "l": "OnesToWatch",
+    "u": "https://www.onestowatch.com/en/blog/london-concerts-mid-october-to-november-2026-picks"
    },
    "fits": [
     {
@@ -400,36 +259,130 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Drizzy",
-     "copy": "It's Drizzy's day! Happy 38th Birthday to Drake, who's still dominating the charts. What's your top Drake track?",
+     "name": "RAYE Live in London",
+     "copy": "Tonight, RAYE takes the stage at the iconic Royal Albert Hall! Who's heading down to see one of the UK's most exciting artists?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RAYE"
+     ]
+    },
+    {
+     "name": "Chart-topping talent",
+     "copy": "From chart-toppers to incredible live performances, RAYE continues to impress. What's your favourite song from her right now?",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:30",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-halloween-week",
+   "off": 9,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly's Spooky Special",
+   "blurb": "Strictly Come Dancing is set to celebrate Halloween Week on Saturday, October 31st, promising ghoulish costumes and themed routines.",
+   "source": {
+    "l": "Alloa and Hillfoots Advertiser",
+    "u": "https://www.alloaadvertiser.com/news/national/24625292.strictly-come-dancing-reveals-2026-themed-week-schedule/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly Gets Spooky",
+     "copy": "Get ready for glitter and ghouls! Strictly Come Dancing's much-anticipated Halloween Week lands on Saturday, October 31st. Which celebrity do you think will nail their spooky routine?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "08:30",
+     "time": "10:00",
      "tags": [
-      "#Drake",
-      "#HappyBirthdayDrake"
+      "#StrictlyComeDancing"
      ]
     },
     {
-     "name": "Chart Topper's Birthday",
-     "copy": "From 'Hotline Bling' to 'Solar Eclipse' – Drake turns 38 today! Which of his hits is on repeat for you?",
+     "name": "Favourite Strictly Theme",
+     "copy": "Halloween Week is always a highlight on Strictly! What's your all-time favourite themed week from the show?",
      "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Strictly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bake-off-new-episode",
+   "off": 5,
+   "type": "tv",
+   "hot": true,
+   "title": "New Great British Bake Off episode",
+   "blurb": "A new episode of The Great British Bake Off, featuring judges Paul Hollywood and Nigella Lawson, airs on Channel 4 on Tuesday, October 27th.",
+   "source": {
+    "l": "Channel 4 / Radio Times",
+    "u": "https://www.radiotimes.com/tv/entertainment/great-british-bake-off-2026-release-date/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bake Off Tuesday",
+     "copy": "Get your aprons ready! A fresh episode of The Great British Bake Off is on Channel 4 this Tuesday. What technical challenge are you hoping for?",
+     "channels": [
+      "instagram",
+      "facebook",
       "x",
       "threads"
      ],
-     "time": "12:00",
+     "time": "11:00",
      "tags": [
-      "#Drake38",
-      "#ChartMusic"
+      "#GBBO"
+     ]
+    },
+    {
+     "name": "Star Baker Predictions",
+     "copy": "Who's your pick for Star Baker this week on Bake Off? The competition is heating up!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#BakeOff"
      ]
     }
    ]
@@ -439,8 +392,8 @@
    "off": 3,
    "type": "birthday",
    "hot": true,
-   "title": "Katy Perry Turns 42",
-   "blurb": "Pop superstar Katy Perry celebrates her 42nd birthday on Sunday, October 25th.",
+   "title": "Katy Perry turns 42",
+   "blurb": "Pop superstar Katy Perry celebrates her 42nd birthday on Monday, October 25th.",
    "source": {
     "l": "Famous Birthdays",
     "u": "https://www.famousbirthdays.com/people/katy-perry.html"
@@ -453,12 +406,70 @@
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Pop Princess Birthday",
-     "copy": "Happy 42nd Birthday to the one and only Katy Perry! What's your favourite era of Katy's music?",
+     "name": "Happy Birthday Katy",
+     "copy": "Wishing a very Happy 42nd Birthday to the incredible Katy Perry on Monday! What's your all-time favourite Katy Perry anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#KatyPerry"
+     ]
+    },
+    {
+     "name": "Pop Queen",
+     "copy": "From 'I Kissed A Girl' to 'Roar', Katy Perry has given us so many unforgettable hits. Which one always gets you singing?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bootsy-collins-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Bootsy Collins turns 75",
+   "blurb": "Legendary funk bassist Bootsy Collins, known for his work with James Brown and Parliament-Funkadelic, celebrates his 75th birthday on Tuesday, October 26th.",
+   "source": {
+    "l": "SoulTracks / Wikipedia",
+    "u": "https://www.soultracks.com/birthdays"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Funk Master's Birthday",
+     "copy": "Happy 75th Birthday to the one and only Bootsy Collins on Tuesday! His basslines defined funk. What's your favourite Bootsy track?",
      "channels": [
       "instagram",
       "facebook",
@@ -466,34 +477,135 @@
      ],
      "time": "09:00",
      "tags": [
-      "#KatyPerry",
-      "#PopMusic"
+      "#BootsyCollins"
      ]
     },
     {
-     "name": "Roar for Katy",
-     "copy": "She's a 'Firework' and she's 42 today! Celebrating Katy Perry's birthday. Which of her anthems always gets you singing?",
+     "name": "Groove Legend",
+     "copy": "Bootsy Collins is a true icon of funk and soul. Let's get down to some of his incredible grooves today!",
      "channels": [
-      "tiktok",
-      "threads"
+      "facebook",
+      "x"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#KatyCats",
-      "#Birthday"
+      "#FunkMusic"
      ]
     }
    ]
   },
   {
-   "id": "official-singles-chart",
+   "id": "frank-ocean-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Frank Ocean turns 39",
+   "blurb": "Acclaimed R&B singer and songwriter Frank Ocean celebrates his 39th birthday on Thursday, October 28th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/frank-ocean.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Frank Ocean",
+     "copy": "Wishing a very Happy 39th Birthday to the brilliant Frank Ocean on Thursday! His music is pure artistry. What's your go-to Frank Ocean song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#FrankOcean"
+     ]
+    },
+    {
+     "name": "R&B Genius",
+     "copy": "Frank Ocean's unique sound has captivated millions. What's the track that first made you a fan?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#RnB"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "randy-jackson-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Randy Jackson turns 65",
+   "blurb": "Singer and musician Randy Jackson, youngest brother of The Jackson 5, celebrates his 65th birthday on Friday, October 29th.",
+   "source": {
+    "l": "Wikipedia / SoulTracks",
+    "u": "https://en.wikipedia.org/wiki/Randy_Jackson"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Randy Jackson",
+     "copy": "Wishing a fantastic 65th Birthday to Randy Jackson of The Jacksons on Friday! What's your favourite Jackson 5 or Jacksons hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#RandyJackson"
+     ]
+    },
+    {
+     "name": "Jackson Family Groove",
+     "copy": "The Jacksons gave us so many timeless tracks. Let's celebrate Randy Jackson's birthday with some of their iconic tunes!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#TheJacksons"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-update",
    "off": 0,
    "type": "culture",
    "hot": true,
-   "title": "New UK Singles Chart Out Now",
-   "blurb": "The Official UK Singles Chart was updated last week (Oct 16th), with Taylor Swift's 'Patient Zero' and new entries from Noah Kahan and Drake making waves.",
+   "title": "Latest UK Singles Chart update",
+   "blurb": "The Official UK Singles Chart was updated this week, with new entries and climbers making waves in the Top 100.",
    "source": {
-    "l": "Official Charts",
+    "l": "Official Charts Company",
     "u": "https://www.officialcharts.com/charts/singles-chart/"
    },
    "fits": [
@@ -508,150 +620,29 @@
    ],
    "angles": [
     {
-     "name": "Chart Toppers Revealed",
-     "copy": "The latest UK Singles Chart is out! Is Taylor Swift still at number one? What new tracks are climbing the ranks this week?",
-     "channels": [
-      "x",
-      "facebook",
-      "instagram"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#OfficialCharts",
-      "#NewMusic"
-     ]
-    },
-    {
-     "name": "Drake's Chart Impact",
-     "copy": "Drake's new tracks 'Solar Eclipse' and 'Quebec' have stormed into the chart. What do you think of his latest releases?",
-     "channels": [
-      "tiktok",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Drake",
-      "#UKChart"
-     ]
-    },
-    {
-     "name": "Who's Your Number 1?",
-     "copy": "Beyond the official chart, what's YOUR number one song right now? Tell us what you're listening to!",
+     "name": "Chart Talk",
+     "copy": "The latest Official UK Singles Chart is out! Any surprises in the Top 10 or new entries you're loving?",
      "channels": [
       "instagram",
       "facebook",
-      "threads"
+      "x"
      ],
-     "time": "15:00",
+     "time": "12:00",
      "tags": [
-      "#MusicDiscovery",
-      "#TopSongs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing-weekend",
-   "off": 2,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Continues This Weekend",
-   "blurb": "Strictly Come Dancing is back on BBC One this weekend (Oct 24/25) with another live show and results.",
-   "source": {
-    "l": "BBC",
-    "u": "https://www.bbc.co.uk/strictly"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly Saturday",
-     "copy": "Get your glitterballs ready! Strictly Come Dancing is on BBC One this Saturday. Who are you rooting for to top the leaderboard?",
-     "channels": [
-      "x",
-      "facebook",
-      "instagram"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Strictly",
-      "#SCD"
+      "#OfficialCharts"
      ]
     },
     {
-     "name": "Dance Floor Drama",
-     "copy": "Will there be a shock exit on Strictly's results show this Sunday? Tune in to find out who leaves the dance floor!",
+     "name": "Who's Number One?",
+     "copy": "What track do you think is dominating the UK Singles Chart this week? Let us know your predictions!",
      "channels": [
       "facebook",
-      "threads"
+      "x",
+      "tiktok"
      ],
      "time": "17:00",
      "tags": [
-      "#StrictlySpoiler",
-      "#TVTonight"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bonfire-night-approaches",
-   "off": 14,
-   "type": "seasonal",
-   "hot": false,
-   "title": "Bonfire Night Planning Begins",
-   "blurb": "While Guy Fawkes Night is officially November 5th, many Bonfire Night celebrations and firework displays will be held the weekend of November 7th and 8th.",
-   "source": {
-    "l": "Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/guy-fawkes-day"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fireworks Prep",
-     "copy": "It's almost time for rockets and bonfires! Bonfire Night is just around the corner, with many displays planned for the weekend of Nov 7/8. Are you going to a local event?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#BonfireNight",
-      "#Fireworks"
-     ]
-    },
-    {
-     "name": "Safety First",
-     "copy": "Thinking ahead to Bonfire Night! Remember to stay safe around fireworks and bonfires. What's your favourite Bonfire Night treat?",
-     "channels": [
-      "facebook",
-      "threads"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#GuyFawkes",
-      "#CommunityEvents"
+      "#UKChart"
      ]
     }
    ]
