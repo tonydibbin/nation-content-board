@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-23T08:00:22.436Z",
+ "updated": "2026-10-23T13:05:08.203Z",
  "moments": [
   {
-   "id": "halloween-saturday",
-   "off": 8,
-   "type": "seasonal",
+   "id": "premier-league-weekend",
+   "off": 1,
+   "type": "sport",
    "hot": true,
-   "title": "Halloween on a Saturday",
-   "blurb": "Halloween 2026 falls on a Saturday, October 31st, making it the first Saturday Halloween in several years and ideal for extended celebrations.",
+   "title": "Premier League Weekend",
+   "blurb": "The Premier League season continues with a full schedule of matches this weekend, as teams battle for position at the top and bottom of the table.",
    "source": {
-    "l": "Time and Date / Vertex AI Search",
-    "u": "https://www.timeanddate.com/holidays/us/halloween"
+    "l": "UK News Outlets",
+    "u": "https://www.bbc.co.uk/sport"
    },
    "fits": [
     {
@@ -20,8 +20,103 @@
    ],
    "angles": [
     {
-     "name": "Weekend Halloween",
-     "copy": "Get ready for the ultimate Halloween weekend! Saturday, October 31st means extra time for spooky celebrations, epic costumes, and all the treats. What are your plans for the biggest party night of the year?",
+     "name": "Weekend Predictions",
+     "copy": "Who are you backing for the big games this Premier League weekend? Let us know your predictions!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Biggest Fixture",
+     "copy": "Another huge weekend of Premier League action is upon us! What's the biggest fixture you'll be watching?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Football"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gallagher-premiership-rugby",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "Premiership Rugby Action",
+   "blurb": "The Gallagher Premiership Rugby season is in full swing, with clubs across England competing in crucial matches this weekend.",
+   "source": {
+    "l": "UK News Outlets",
+    "u": "https://www.bbc.co.uk/sport"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Title Contenders",
+     "copy": "Who's your pick for the Premiership title this season? Weekend rugby fixtures are coming up!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Rugby"
+     ]
+    },
+    {
+     "name": "Weekend Matches",
+     "copy": "Big hits and tries are guaranteed this weekend in the Gallagher Premiership. Which game are you looking forward to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#GallagherPrem"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "halloween-approaching",
+   "off": 8,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Halloween Weekend",
+   "blurb": "With Halloween just a week away, spooky season is officially here, with celebrations and events planned for next Saturday, October 31st.",
+   "source": {
+    "l": "UK News Outlets",
+    "u": "https://www.bbc.co.uk/news"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Spooky Plans",
+     "copy": "Get ready for a frightful Halloween next Saturday, October 31st! What are your plans for the spookiest night of the year?",
      "channels": [
       "instagram",
       "facebook",
@@ -31,62 +126,58 @@
      ],
      "time": "09:00",
      "tags": [
-      "#Halloween2026"
+      "#Halloween"
      ]
     },
     {
-     "name": "Best Halloween Yet",
-     "copy": "A Saturday Halloween? Yes, please! October 31st is set to be HUGE this year. No school night worries, just pure, unadulterated spooky fun. Are you going all out?",
+     "name": "Scary Songs",
+     "copy": "Only one week until Halloween! What's your favourite scary song to get you in the mood?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "13:00",
      "tags": [
-      "#HalloweenWeekend"
+      "#HalloweenMusic"
      ]
     }
    ]
   },
   {
-   "id": "bonfire-night-approaches",
+   "id": "bonfire-night-preparations",
    "off": 13,
    "type": "seasonal",
    "hot": true,
-   "title": "Bonfire Night is Next Week",
-   "blurb": "Bonfire Night, commemorating the Gunpowder Plot, is celebrated on Thursday, November 5th, with many firework displays planned across the UK for the surrounding weekend.",
+   "title": "Bonfire Night Countdown",
+   "blurb": "Bonfire Night is less than two weeks away, with communities across the UK preparing for fireworks displays and bonfires on Thursday, November 5th.",
    "source": {
-    "l": "National Today / Vertex AI Search",
-    "u": "https://nationaltoday.com/bonfire-night/"
+    "l": "UK News Outlets",
+    "u": "https://www.bbc.co.uk/news"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Guy Fawkes Night",
-     "copy": "Remember, remember the 5th of November! Bonfire Night is just around the corner. Are you heading to a local display or hosting your own fireworks spectacular?",
+     "name": "Favourite Display",
+     "copy": "Remember, remember the 5th of November! Bonfire Night is just around the corner – what's your favourite firework display?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "10:00",
      "tags": [
       "#BonfireNight"
      ]
     },
     {
-     "name": "Fireworks Prep",
-     "copy": "Bonfire Night is next Thursday, November 5th! Time to start thinking about those sparklers, toffee apples, and where you'll catch the best fireworks. What's your favourite part of Guy Fawkes Night?",
+     "name": "Safety First",
+     "copy": "Planning a Bonfire Night celebration? Stay safe and enjoy the spectacular fireworks next week on November 5th!",
      "channels": [
       "instagram",
       "facebook",
@@ -101,15 +192,15 @@
    ]
   },
   {
-   "id": "strictly-come-dancing-week5",
+   "id": "strictly-come-dancing-live",
    "off": 1,
    "type": "tv",
    "hot": true,
-   "title": "Strictly Come Dancing Week 5",
-   "blurb": "Strictly Come Dancing returns for Week 5 on Saturday, October 24th, following Dame Sarah Storey's elimination in Icons Week.",
+   "title": "Strictly Live Shows",
+   "blurb": "The competition heats up on Strictly Come Dancing this weekend as the remaining couples take to the ballroom floor for another round of dazzling performances.",
    "source": {
-    "l": "BBC / Radio Times",
-    "u": "https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-leaderboard-scores-results-news/"
+    "l": "BBC",
+    "u": "https://www.bbc.co.uk/strictly"
    },
    "fits": [
     {
@@ -119,44 +210,44 @@
    ],
    "angles": [
     {
-     "name": "Strictly Saturday",
-     "copy": "It's almost time for another dose of Strictly! What dance are you most looking forward to seeing tonight on the ballroom floor?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    },
-    {
-     "name": "Who's Next to Go?",
-     "copy": "After Dame Sarah Storey left last week, the competition is heating up! Who do you think will impress the judges and the public in Week 5 of Strictly Come Dancing tonight?",
+     "name": "Tipping to Win",
+     "copy": "Who are you tipping to win the Glitterball Trophy on Strictly Come Dancing this year? Tune in this weekend!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "18:00",
+     "time": "12:00",
      "tags": [
       "#Strictly"
+     ]
+    },
+    {
+     "name": "Dance Styles",
+     "copy": "Another week, another chance to impress! What dance style are you hoping to see on Strictly this weekend?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#StrictlyComeDancing"
      ]
     }
    ]
   },
   {
-   "id": "gbbo-dessert-week-fallout",
-   "off": -3,
+   "id": "bake-off-tension",
+   "off": 4,
    "type": "tv",
    "hot": true,
-   "title": "GBBO Dessert Week Recap",
-   "blurb": "The Great British Bake Off's Dessert Week (Week 5) saw Yannis eliminated and Connie named Star Baker, with judges Paul Hollywood and Nigella Lawson overseeing self-saucing puddings and retro desserts.",
+   "title": "Bake Off Tension",
+   "blurb": "The Great British Bake Off is reaching its climax, with the remaining bakers facing intense challenges as they compete for a spot in the final.",
    "source": {
     "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off/articles/all/the-fifth-baker-leaves-the-tent"
+    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
    },
    "fits": [
     {
@@ -166,26 +257,29 @@
    ],
    "angles": [
     {
-     "name": "Bake Off Dessert Drama",
-     "copy": "Dessert Week in the Bake Off tent was a rollercoaster! Yannis sadly left, but Connie shone as Star Baker. What was your favourite retro pudding from Tuesday's show?",
+     "name": "Finalist Predictions",
+     "copy": "Who will make it to The Great British Bake Off final? Don't miss this week's episode!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "10:00",
+     "time": "14:00",
      "tags": [
       "#GBBO"
      ]
     },
     {
-     "name": "Nigella's Technical",
-     "copy": "Nigella Lawson's technical challenge always delivers! Were you impressed by the bakers' attempts at the British classic in Dessert Week on #GBBO? We're still craving those self-saucing puddings!",
+     "name": "Favourite Bake",
+     "copy": "What's been your favourite bake from this series of The Great British Bake Off so far?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "18:00",
      "tags": [
       "#BakeOff"
      ]
@@ -193,184 +287,17 @@
    ]
   },
   {
-   "id": "im-a-celeb-trailer-out",
-   "off": 24,
-   "type": "tv",
-   "hot": true,
-   "title": "I'm A Celebrity Trailer Drops",
-   "blurb": "The trailer for I'm A Celebrity... Get Me Out Of Here! 2026 has been released, with the new series expected to start around Monday, November 16th due to football scheduling.",
-   "source": {
-    "l": "ITV / Radio Times",
-    "u": "https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-get-me-out-of-here-release-date/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jungle Countdown",
-     "copy": "The I'm A Celeb trailer is officially here! Ant and Dec are back, and the jungle is calling. Who are you hoping to see in the camp this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ImACeleb"
-     ]
-    },
-    {
-     "name": "Ant & Dec's Return",
-     "copy": "It's not Christmas without it! The I'm A Celebrity trailer confirms Ant & Dec's return, with the series likely kicking off mid-November. The rumours are flying – who's on your dream line-up?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#IAC"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "taylor-swift-patient-zero-chart",
-   "off": -7,
-   "type": "culture",
-   "hot": true,
-   "title": "Taylor Swift Dominates Singles Chart",
-   "blurb": "Taylor Swift's 'Patient Zero' is currently number one on the UK Official Singles Chart, with other new tracks 'Cleveland!' and 'Babylon' also high in the charts.",
-   "source": {
-    "l": "Official Charts Company / Creative Disc",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Swiftie Chart Takeover",
-     "copy": "Taylor Swift is absolutely owning the UK Singles Chart! 'Patient Zero' is at number one, with 'Cleveland!' and 'Babylon' also making huge waves. What's your favourite new Swift track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#TaylorSwift"
-     ]
-    },
-    {
-     "name": "New No.1 Hit",
-     "copy": "Another week, another chart-topping hit for Taylor Swift! 'Patient Zero' is officially the UK's number one single. Have you been streaming her new music?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#UKChart"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-reytons-cardiff",
+   "id": "weird-al-yankovic-birthday",
    "off": 0,
-   "type": "gig",
+   "type": "birthday",
    "hot": true,
-   "title": "The Reytons Live in Cardiff",
-   "blurb": "Indie rock band The Reytons are playing live at The Great Hall in Cardiff tonight, October 23rd.",
+   "title": "Happy 67th to Weird Al!",
+   "blurb": "Legendary parody musician \"Weird Al\" Yankovic celebrates his 67th birthday today, known for hits like 'Eat It' and 'Smells Like Nirvana'.",
    "source": {
-    "l": "Ticketmaster / Gig Guide",
-    "u": "https://www.ticketmaster.co.uk/the-reytons-cardiff-23-10-2026-tickets/event/1F005F4BA6C33C08"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Main_Page"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cardiff Rocks Tonight",
-     "copy": "Cardiff, are you ready? The Reytons are live at The Great Hall tonight! Who's heading out to catch their electrifying set?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#CardiffGigs"
-     ]
-    },
-    {
-     "name": "Reytons in Wales",
-     "copy": "It's Friday, and The Reytons are bringing their indie anthems to Cardiff tonight! Get ready for a massive night of live music.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#TheReytons"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "paul-heaton-cardiff",
-   "off": 10,
-   "type": "gig",
-   "hot": true,
-   "title": "Paul Heaton in Cardiff",
-   "blurb": "Singer-songwriter Paul Heaton, known for The Housemartins and The Beautiful South, performs at Utilita Arena Cardiff on November 2nd.",
-   "source": {
-    "l": "Ticketmaster / Gig Guide",
-    "u": "https://www.ticketmaster.co.uk/paul-heaton-cardiff-02-11-2026-tickets/event/1F005F4BA6C33C08"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
@@ -380,99 +307,29 @@
      "sub": "Nation 90s"
     },
     {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Heaton Hits Cardiff",
-     "copy": "Paul Heaton is bringing his incredible back catalogue to Utilita Arena Cardiff on November 2nd! A night of classic hits is guaranteed. Who's got their tickets?",
+     "name": "Favourite Parody",
+     "copy": "Happy 67th Birthday to the one and only 'Weird Al' Yankovic! What's your favourite parody he's ever done?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "11:30",
+     "time": "09:00",
      "tags": [
-      "#PaulHeaton"
+      "#WeirdAl"
      ]
     },
     {
-     "name": "Beautiful South Legend",
-     "copy": "From The Housemartins to The Beautiful South, Paul Heaton has penned some of the best songs. Catch him live in Cardiff next week!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#CardiffMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "manic-street-preachers-suede-cardiff",
-   "off": 11,
-   "type": "gig",
-   "hot": true,
-   "title": "Manic Street Preachers & Suede Double Bill",
-   "blurb": "Welsh legends Manic Street Preachers join forces with Suede for two nights at Utilita Arena Cardiff on November 3rd and 4th.",
-   "source": {
-    "l": "Gig Guide",
-    "u": "https://www.gigguide.co.uk/cardiff/concerts/2026/11/manic-street-preachers-suede-2026-11-03-utilita-arena-cardiff-154942"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Carmarthenshire"
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Icons Unite",
-     "copy": "This is HUGE! Manic Street Preachers and Suede are playing back-to-back nights in Cardiff on Nov 3rd & 4th. Who's ready for a dose of iconic rock?",
+     "name": "Still Making Laughs",
+     "copy": "Raise a glass to 'Weird Al' Yankovic turning 67 today! Still making us laugh with his incredible musical spoofs.",
      "channels": [
       "instagram",
       "facebook",
@@ -480,20 +337,110 @@
      ],
      "time": "13:00",
      "tags": [
-      "#ManicStreetPreachers"
+      "#MusicComedy"
      ]
+    }
+   ]
+  },
+  {
+   "id": "bill-wyman-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Bill Wyman Turns 90",
+   "blurb": "Former Rolling Stones bassist Bill Wyman celebrates his 90th birthday tomorrow, a rock legend who helped define the sound of the 60s and 70s.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Main_Page"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
     },
     {
-     "name": "Rock Royalty in Wales",
-     "copy": "Two legendary bands, one epic venue! Manic Street Preachers and Suede are set to light up Utilita Arena Cardiff next week. Which band are you most excited to see?",
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Stones Favourite",
+     "copy": "A very happy 90th birthday to Bill Wyman, the legendary bassist for The Rolling Stones, tomorrow! What's your favourite Stones track?",
      "channels": [
+      "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "19:00",
+     "time": "10:00",
      "tags": [
-      "#Suede"
+      "#RollingStones"
+     ]
+    },
+    {
+     "name": "Rock Legend",
+     "copy": "Celebrating 90 years of rock 'n' roll with Bill Wyman tomorrow! The iconic Stones member is a true music legend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RockAndRoll"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drake-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Drake's 40th Birthday",
+   "blurb": "Global superstar Drake turns 40 tomorrow, known for an array of chart-topping hits and his influential presence in hip-hop and R&B.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Main_Page"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "All-Time Favourite",
+     "copy": "Tomorrow, Drake turns 40! What's your all-time favourite track from the Canadian superstar?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Drake"
+     ]
+    },
+    {
+     "name": "Countless Hits",
+     "copy": "Celebrating Drake's 40th birthday tomorrow! From 'Hotline Bling' to 'God's Plan', he's delivered countless hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#HipHop"
      ]
     }
    ]
@@ -503,11 +450,11 @@
    "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Katy Perry",
-   "blurb": "American pop superstar Katy Perry celebrates her 42nd birthday on Monday, October 25th. She was born in 1984.",
+   "title": "Katy Perry at 42",
+   "blurb": "Pop icon Katy Perry celebrates her 42nd birthday this Sunday, October 25th, known for her vibrant anthems and captivating stage presence.",
    "source": {
-    "l": "Wikipedia / Google Search",
-    "u": "https://en.wikipedia.org/wiki/Katy_Perry"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Main_Page"
    },
    "fits": [
     {
@@ -521,29 +468,31 @@
    ],
    "angles": [
     {
-     "name": "Katy Perry's Big Day",
-     "copy": "Wishing a very happy 42nd birthday to the incredible Katy Perry this Monday! What's your all-time favourite Katy Perry anthem?",
+     "name": "Ultimate Favourite",
+     "copy": "Sunday, October 25th, it's Katy Perry's 42nd birthday! Which of her smash hits is your ultimate favourite?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "tiktok",
+      "threads"
      ],
-     "time": "08:00",
+     "time": "09:00",
      "tags": [
       "#KatyPerry"
      ]
     },
     {
-     "name": "Pop Icon Birthday",
-     "copy": "From 'I Kissed A Girl' to 'Roar', Katy Perry has given us so many hits. Celebrate her 42nd birthday with us on Monday!",
+     "name": "Roar for Katy",
+     "copy": "Get ready to roar! Katy Perry turns 42 on Sunday. What's your go-to Katy Perry song?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "14:00",
      "tags": [
-      "#PopMusic"
+      "#PopIcon"
      ]
     }
    ]
@@ -553,65 +502,67 @@
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Simon Le Bon",
-   "blurb": "Duran Duran frontman Simon Le Bon turns 68 on Wednesday, October 27th. He was born in 1958.",
+   "title": "Simon Le Bon is 68",
+   "blurb": "Duran Duran frontman Simon Le Bon celebrates his 68th birthday on Tuesday, October 27th, a key figure in 80s new wave and pop music.",
    "source": {
-    "l": "Wikipedia / Google Search",
-    "u": "https://en.wikipedia.org/wiki/Simon_Le_Bon"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Main_Page"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Duran Duran Legend",
-     "copy": "Happy 68th Birthday to the iconic Simon Le Bon of Duran Duran on Wednesday! What's your favourite Duran Duran track to get you dancing?",
+     "name": "Duran Duran Hit",
+     "copy": "Happy 68th Birthday to the iconic Simon Le Bon from Duran Duran on Tuesday! What's your favourite Duran Duran hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DuranDuran"
+     ]
+    },
+    {
+     "name": "Voice of an Era",
+     "copy": "Celebrating Simon Le Bon's 68th on Tuesday! The voice of Duran Duran defined an era.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "15:00",
      "tags": [
-      "#SimonLeBon"
-     ]
-    },
-    {
-     "name": "80s Icon",
-     "copy": "The voice of a generation! Celebrate Simon Le Bon's 68th birthday this week by cranking up some classic Duran Duran. Which song instantly takes you back?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#DuranDuran"
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "adam-ant-birthday",
-   "off": 8,
+   "id": "grace-slick-birthday",
+   "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Adam Ant",
-   "blurb": "New Wave and post-punk icon Adam Ant celebrates his 71st birthday on Saturday, October 31st. He was born in 1955.",
+   "title": "Grace Slick's 87th",
+   "blurb": "Rock pioneer Grace Slick, lead singer of Jefferson Airplane and Jefferson Starship, celebrates her 87th birthday on Friday, October 30th.",
    "source": {
-    "l": "Wikipedia / Google Search",
-    "u": "https://en.wikipedia.org/wiki/Adam_Ant"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Main_Page"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
@@ -620,28 +571,30 @@
    ],
    "angles": [
     {
-     "name": "Prince Charming's Birthday",
-     "copy": "Happy 71st Birthday to the one and only Adam Ant this Saturday, Halloween day! Get your 'Antmusic' on to celebrate this New Wave legend.",
+     "name": "Psychedelic Classic",
+     "copy": "Happy 87th Birthday to the legendary Grace Slick on Friday! What's your favourite psychedelic classic from Jefferson Airplane?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#GraceSlick"
+     ]
+    },
+    {
+     "name": "Rock Icon",
+     "copy": "Celebrating the incredible Grace Slick turning 87 this Friday! A true icon of rock music.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:30",
+     "time": "14:00",
      "tags": [
-      "#AdamAnt"
-     ]
-    },
-    {
-     "name": "New Wave Legend",
-     "copy": "Iconic style and unforgettable hits! Adam Ant turns 71 on October 31st. What's your favourite track from the 'Prince Charming' himself?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#Antmusic"
+      "#JeffersonAirplane"
      ]
     }
    ]
@@ -651,11 +604,11 @@
    "off": 9,
    "type": "birthday",
    "hot": true,
-   "title": "Happy Birthday Anthony Kiedis",
-   "blurb": "Red Hot Chili Peppers frontman Anthony Kiedis turns 64 on Sunday, November 1st. He was born in 1962.",
+   "title": "Anthony Kiedis Turns 64",
+   "blurb": "Red Hot Chili Peppers frontman Anthony Kiedis celebrates his 64th birthday on Sunday, November 1st, a rock icon known for his distinctive vocals and energetic stage presence.",
    "source": {
-    "l": "Wikipedia / Google Search",
-    "u": "https://en.wikipedia.org/wiki/Anthony_Kiedis"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Main_Page"
    },
    "fits": [
     {
@@ -673,28 +626,226 @@
    ],
    "angles": [
     {
-     "name": "Chili Peppers Frontman",
-     "copy": "Happy 64th Birthday to the legendary Anthony Kiedis of Red Hot Chili Peppers on Sunday! What's your go-to RHCP track to celebrate?",
+     "name": "Favourite RHCP Track",
+     "copy": "Happy 64th Birthday to the one and only Anthony Kiedis from Red Hot Chili Peppers on Sunday! What's your favourite RHCP track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RHCP"
+     ]
+    },
+    {
+     "name": "Still Bringing the Funk",
+     "copy": "Celebrating Anthony Kiedis' 64th this Sunday! The Red Hot Chili Peppers' frontman is still bringing the funk.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:15",
+     "time": "15:00",
      "tags": [
       "#AnthonyKiedis"
      ]
+    }
+   ]
+  },
+  {
+   "id": "exeter-halloween-events",
+   "off": 8,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Exeter Halloween Fun",
+   "blurb": "Get ready for spooky celebrations across Exeter and Devon next weekend, with Halloween events planned for all ages leading up to Saturday, October 31st.",
+   "source": {
+    "l": "Local News Outlets",
+    "u": "https://www.devonlive.com/"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Spooky Plans Exeter",
+     "copy": "Calling all ghouls and goblins in Exeter! What are your spooky plans for Halloween next weekend, October 31st?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ExeterHalloween"
+     ]
     },
     {
-     "name": "Rock Icon",
-     "copy": "From 'Under the Bridge' to 'Californication', Anthony Kiedis has fronted one of the biggest bands in the world. Celebrate his birthday this weekend!",
+     "name": "Devon Trick or Treat",
+     "copy": "Exeter is getting ready for Halloween! Where are the best places in Devon for trick-or-treating or a spooky party?",
      "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#DevonEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "south-wales-halloween-events",
+   "off": 8,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Spooky South Wales",
+   "blurb": "South Wales is gearing up for Halloween next weekend, with plenty of family-friendly and frightful events happening across the region leading up to Saturday, October 31st.",
+   "source": {
+    "l": "Local News Outlets",
+    "u": "https://www.walesonline.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "South Wales Spooky Fun",
+     "copy": "South Wales, get ready for Halloween next Saturday! Where's the best place for spooky fun in your area?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#WalesHalloween"
+     ]
+    },
+    {
+     "name": "Cardiff Swansea Plans",
+     "copy": "From Swansea to Cardiff, what are your Halloween plans in South Wales? Let us know!",
+     "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#RHCP"
+      "#SouthWalesEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "devon-bonfire-night",
+   "off": 13,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Devon Bonfire Night",
+   "blurb": "Preparations are underway for Bonfire Night displays across Devon, with communities planning fireworks and bonfires for Thursday, November 5th.",
+   "source": {
+    "l": "Local News Outlets",
+    "u": "https://www.devonlive.com/"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Devon Firework Displays",
+     "copy": "Devon, get ready for Bonfire Night! Where will you be watching the fireworks display on November 5th?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#DevonBonfire"
+     ]
+    },
+    {
+     "name": "Devon Traditions",
+     "copy": "Remember, remember the 5th of November! What's your favourite Bonfire Night tradition in Devon?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#GuyFawkesDevon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wales-bonfire-night",
+   "off": 13,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Wales Bonfire Night",
+   "blurb": "Communities across Wales are preparing for spectacular Bonfire Night celebrations, with fireworks and bonfires planned for Thursday, November 5th.",
+   "source": {
+    "l": "Local News Outlets",
+    "u": "https://www.walesonline.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wales Firework Displays",
+     "copy": "Wales, get ready for Bonfire Night! Where are the best fireworks displays happening on November 5th?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#WalesBonfire"
+     ]
+    },
+    {
+     "name": "Wales Traditions",
+     "copy": "Stay safe and enjoy Bonfire Night next week! What's your favourite thing about November 5th in Wales?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#GuyFawkesWales"
      ]
     }
    ]
