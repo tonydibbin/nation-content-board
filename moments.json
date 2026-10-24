@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-24T16:19:08.832Z",
+ "updated": "2026-10-24T19:07:30.638Z",
  "moments": [
   {
-   "id": "premier-league-weekend",
+   "id": "clocks-go-back-uk",
    "off": 0,
-   "type": "sport",
+   "type": "seasonal",
    "hot": true,
-   "title": "Premier League Weekend Action",
-   "blurb": "The Premier League continues with a packed weekend of fixtures, including Aston Villa vs Man City and Chelsea vs Tottenham Hotspur today, and Manchester United vs Bournemouth and Liverpool vs Brighton on Sunday.",
+   "title": "Clocks Go Back for Winter",
+   "blurb": "British Summer Time ends as clocks go back one hour at 2am on Sunday, October 25th, marking the return to Greenwich Mean Time.",
    "source": {
-    "l": "Premier League Official Site / Sky Sports / TNT Sports",
-    "u": "https://www.premierleague.com/fixtures"
+    "l": "Eve Sleep",
+    "u": "https://www.evesleep.co.uk/blogs/sleep-journal/when-do-clocks-go-back-uk-2026"
    },
    "fits": [
     {
@@ -20,52 +20,657 @@
    ],
    "angles": [
     {
-     "name": "Saturday Showdowns",
-     "copy": "Huge Premier League clashes today! Aston Villa take on Man City and Chelsea host Tottenham in London derbies. Who are you backing to win big? #PremierLeague",
+     "name": "Extra Hour",
+     "for": "",
+     "copy": "Enjoy an extra hour in bed tonight! The clocks go back at 2am, marking the end of British Summer Time. Don't forget to 'fall back'!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "19:00",
      "tags": [
-      "#PremierLeague"
+      "#ClocksGoBack"
      ]
     },
     {
-     "name": "Sunday Football Feast",
-     "copy": "Sunday's Premier League action features Man Utd vs Bournemouth and Liverpool vs Brighton. Will there be any upsets? Tune in to find out!",
+     "name": "Darker Evenings",
+     "for": "",
+     "copy": "Get ready for darker evenings! The clocks go back an hour at 2am on Sunday. Time to embrace those cosy nights in.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "20:00",
      "tags": [
-      "#Football"
+      "#GMT"
      ]
     }
    ]
   },
   {
-   "id": "jamie-miller-number-one",
-   "off": 0,
-   "type": "culture",
+   "id": "halloween-saturday",
+   "off": 7,
+   "type": "seasonal",
    "hot": true,
-   "title": "Jamie Miller Tops UK Singles Chart",
-   "blurb": "Welsh singer Jamie Miller has made history by reaching Number 1 on the UK Official Singles Chart with his track 'Babydoll', the first Welsh male artist to do so in 41 years.",
+   "title": "Halloween Lands on a Saturday",
+   "blurb": "Halloween falls on Saturday, October 31st, 2026, making it a prime weekend for spooky celebrations and trick-or-treating.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
+    "l": "The Old Farmer's Almanac",
+    "u": "https://www.almanac.com/content/when-halloween-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Weekend Spooktacular",
+     "for": "",
+     "copy": "Halloween is on a SATURDAY this year! Get your costumes ready for a full day and night of spooky fun on October 31st.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Halloween2026"
+     ]
+    },
+    {
+     "name": "Party Planning",
+     "for": "",
+     "copy": "A Saturday Halloween means maximum party potential! What are your plans for October 31st? Share your spooky ideas!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#HalloweenWeekend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "urc-rugby-weekend",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "United Rugby Championship Action",
+   "blurb": "The United Rugby Championship continues with several key fixtures this weekend and into next week, featuring Welsh and Scottish teams.",
+   "source": {
+    "l": "United Rugby Championship",
+    "u": "https://www.unitedrugby.com/match-centre/fixtures"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": "Ospreys"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Dragons"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Cardiff"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Scarlets"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh Derbies & Action",
+     "for": "welsh-local",
+     "copy": "Big URC weekend! Ospreys face Dragons RFC today, and next Saturday it's Ospreys vs Cardiff. Who are you backing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#URC"
+     ]
+    },
+    {
+     "name": "Glasgow Warriors",
+     "for": "Nation Radio Scotland",
+     "copy": "Glasgow Warriors are in URC action today against Benetton, then next Friday they host the Lions. Massive games!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#GlasgowWarriors"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "plymouth-argyle-cambridge",
+   "off": 0,
+   "type": "sport",
+   "hot": true,
+   "title": "Plymouth Argyle Away Day",
+   "blurb": "Plymouth Argyle travel to face Cambridge United in League One today, Saturday, October 24th.",
+   "source": {
+    "l": "Plymouth Argyle FC",
+    "u": "https://www.pafc.co.uk/fixtures"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Westcountry"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Argyle on the Road",
+     "for": "",
+     "copy": "It's an away day for Plymouth Argyle today as they take on Cambridge United in League One. Good luck, Green Army!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#PAFC"
+     ]
+    },
+    {
+     "name": "Match Day Build-Up",
+     "for": "",
+     "copy": "Match day! Plymouth Argyle face Cambridge United. How are you feeling ahead of kick-off?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#GreenArmy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fa-cup-first-round-proper",
+   "off": 14,
+   "type": "sport",
+   "hot": true,
+   "title": "FA Cup First Round Proper Approaches",
+   "blurb": "The Emirates FA Cup First Round Proper, where League One and Two teams join non-league qualifiers, is scheduled for Saturday, November 7th.",
+   "source": {
+    "l": "The FA",
+    "u": "https://www.thefa.com/competitions/thefacup/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Magic of the Cup",
+     "for": "",
+     "copy": "The magic of the FA Cup is almost here! The First Round Proper kicks off on November 7th. Who are you hoping for in the draw?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#FACup"
+     ]
+    },
+    {
+     "name": "Lower League Dreams",
+     "for": "",
+     "copy": "Non-league sides get their shot at the big boys in the FA Cup First Round Proper on November 7th. What's your favourite upset memory?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#CupSet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "duran-duran-london",
+   "off": 7,
+   "type": "gig",
+   "hot": true,
+   "title": "Duran Duran at The O2",
+   "blurb": "New Wave legends Duran Duran bring their iconic sound to The O2 Arena in London on Halloween night, Saturday, October 31st.",
+   "source": {
+    "l": "OnesToWatch",
+    "u": "https://www.onestowatch.com/en/blog/london-concerts-mid-october-to-november-2026-picks"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Halloween Night Fever",
+     "for": "",
+     "copy": "Rio! Hungry Like The Wolf! Duran Duran are playing The O2 this Halloween. What a way to spend October 31st!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DuranDuran"
+     ]
+    },
+    {
+     "name": "80s Icons Live",
+     "for": "",
+     "copy": "Simon Le Bon and co. are in London for a massive show at The O2 on Halloween. Expect all the hits from the New Wave pioneers!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-strokes-manchester",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "The Strokes Live in Manchester",
+   "blurb": "Indie rock icons The Strokes are set to play Co-op Live in Manchester on Monday, October 26th.",
+   "source": {
+    "l": "BritRockHeaven",
+    "u": "https://www.britrockheaven.com/manchester-gigs-october-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Last Nite in Manchester",
+     "for": "",
+     "copy": "Get ready, Manchester! The Strokes are bringing their indie anthems to Co-op Live on Monday. Who's got tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TheStrokes"
+     ]
+    },
+    {
+     "name": "Indie Royalty",
+     "for": "",
+     "copy": "Julian Casablancas and The Strokes hit Manchester this Monday. A rare chance to see the New York legends live!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#IndieRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stylistics-cardiff",
+   "off": 7,
+   "type": "gig",
+   "hot": true,
+   "title": "The Stylistics in Cardiff",
+   "blurb": "Soul legends The Stylistics perform at the New Theatre Cardiff on Halloween, Saturday, October 31st.",
+   "source": {
+    "l": "Ticketle",
+    "u": "https://www.ticketle.co.uk/cardiff-concerts-in-october/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff Soul Night",
+     "for": "welsh-local",
+     "copy": "You Make Me Feel Brand New! The Stylistics are bringing their timeless soul to Cardiff's New Theatre this Halloween. Perfect for a smooth Saturday night.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheStylistics"
+     ]
+    },
+    {
+     "name": "Soulful Halloween",
+     "for": "",
+     "copy": "Fancy a soulful Halloween? The legendary Stylistics are in Cardiff on October 31st. Get ready to sing along to all the classics!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#CardiffGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "katy-perry-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Katy Perry",
+   "blurb": "Pop superstar Katy Perry turns 42 on Sunday, October 25th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Katy_Perry"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Princess Turns 42",
+     "for": "",
+     "copy": "Roar! Happy 42nd Birthday to the incredible Katy Perry this Sunday! What's your favourite Katy track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#KatyPerry"
+     ]
+    },
+    {
+     "name": "Celebrating Katy",
+     "for": "",
+     "copy": "From 'I Kissed A Girl' to 'Firework', Katy Perry has given us so many anthems. She celebrates her 42nd birthday tomorrow!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "simon-le-bon-birthday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Simon Le Bon",
+   "blurb": "Duran Duran frontman Simon Le Bon celebrates his 68th birthday on Tuesday, October 27th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Simon_Le_Bon"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Duran Duran's Voice",
+     "for": "",
+     "copy": "Happy 68th Birthday to the one and only Simon Le Bon from Duran Duran this Tuesday! What's your go-to Duran Duran hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SimonLeBon"
+     ]
+    },
+    {
+     "name": "80s Icon",
+     "for": "",
+     "copy": "Celebrating Simon Le Bon's 68th on Tuesday! The voice behind so many 80s classics with Duran Duran. Pure pop royalty.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#DuranDuran"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "larry-mullen-jr-birthday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Larry Mullen Jr.",
+   "blurb": "U2 drummer Larry Mullen Jr. turns 65 on Halloween, Saturday, October 31st.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Larry_Mullen_Jr."
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "U2 Drummer Turns 65",
+     "for": "",
+     "copy": "Happy 65th Birthday to U2's legendary drummer, Larry Mullen Jr., this Halloween! What's your favourite U2 album?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LarryMullenJr"
+     ]
+    },
+    {
+     "name": "Rock Royalty",
+     "for": "",
+     "copy": "Wishing a very happy 65th to U2's Larry Mullen Jr. on October 31st! The heartbeat of one of the world's biggest bands.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#U2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lulu-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Happy Birthday Lulu",
+   "blurb": "Scottish pop icon Lulu celebrates her 78th birthday on Tuesday, November 3rd.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Lulu_(singer)"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish Legend",
+     "for": "Nation Radio Scotland",
+     "copy": "Shout out to the incredible Lulu, who turns 78 this Tuesday! A true Scottish legend. What's your favourite Lulu hit?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Lulu"
+     ]
+    },
+    {
+     "name": "To Sir With Love",
+     "for": "",
+     "copy": "From 'Shout' to 'To Sir With Love', Lulu's career is iconic. Wishing her a very happy 78th birthday on November 3rd!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#PopIcon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-party-itvx",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "The Party on ITVX",
+   "blurb": "The new British drama series 'The Party', starring Luke Evans and Sarah Solemani, released all five episodes on ITVX on October 11th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/The_Party_(2026_TV_series)"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
     },
     {
      "g": "welsh-local",
@@ -78,645 +683,46 @@
    ],
    "angles": [
     {
-     "name": "Welsh Wonder at Number 1",
-     "copy": "Massive congratulations to Welsh sensation Jamie Miller, who's officially clinched the UK Number 1 spot with 'Babydoll'! A huge moment for Welsh music. #JamieMiller",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#JamieMiller"
-     ]
-    },
-    {
-     "name": "Chart Topper Celebration",
-     "copy": "The UK Official Singles Chart has a new leader! Jamie Miller's 'Babydoll' is officially Number 1. What a track! #OfficialCharts",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#OfficialCharts"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing-week5",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing Week 5",
-   "blurb": "Strictly Come Dancing returns tonight for Week 5, with the remaining couples taking to the dancefloor to impress judges and viewers.",
-   "source": {
-    "l": "BBC One",
-    "u": "https://www.bbc.co.uk/strictly"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly Saturday Night",
-     "copy": "Get ready for glitter and glamour! It's Week 5 of Strictly Come Dancing tonight on BBC One. Who are you rooting for to take home those high scores? #Strictly",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#Strictly"
-     ]
-    },
-    {
-     "name": "Who Will Shine?",
-     "copy": "The competition is heating up! Strictly Come Dancing is back tonight. Which couple will deliver a show-stopping performance? #StrictlyComeDancing",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fally-ipupa-london-o2",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Fally Ipupa at The O2 London",
-   "blurb": "Congolese superstar Fally Ipupa brings his '20 Years of Career Celebration' show to The O2 Arena in London tonight.",
-   "source": {
-    "l": "The O2 Arena",
-    "u": "https://www.theo2.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "African Rumba King in London",
-     "copy": "The Prince of Rumba, Fally Ipupa, takes over The O2 tonight for his '20 Years of Career Celebration'! Expect an electrifying blend of Congolese Rumba, R&B, and pop. #FallyIpupa",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#FallyIpupa"
-     ]
-    },
-    {
-     "name": "O2 Arena Lights Up",
-     "copy": "London, are you ready? Fally Ipupa is live at The O2 tonight, celebrating two decades of incredible music. What's your favourite Fally track? #LondonGigs",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#LondonGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "raye-royal-albert-hall-recap",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "RAYE at Royal Albert Hall",
-   "blurb": "RAYE performed at the iconic Royal Albert Hall last night, delivering a standout show that's still being talked about.",
-   "source": {
-    "l": "Royal Albert Hall",
-    "u": "https://www.royalalberthall.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "RAYE's Royal Night",
-     "copy": "Still buzzing from RAYE's incredible performance at the Royal Albert Hall last night! What a talent. Did you manage to get tickets? #RAYE",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RAYE"
-     ]
-    },
-    {
-     "name": "Concert of the Year?",
-     "copy": "RAYE owned the Royal Albert Hall last night! If you were there, tell us your highlight. Her star continues to rise! #MusicNews",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#MusicNews"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "katy-perry-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Katy Perry's 42nd Birthday",
-   "blurb": "Pop superstar Katy Perry turns 42 on October 25th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 10s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Happy Birthday Katy!",
-     "copy": "Sending birthday wishes to the one and only Katy Perry, who turns 42 tomorrow! What's your favourite Katy Perry anthem? #KatyPerry",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#KatyPerry"
-     ]
-    },
-    {
-     "name": "Pop Queen's Birthday",
-     "copy": "Tomorrow, we celebrate the birthday of pop royalty, Katy Perry! From 'Teenage Dream' to 'Roar', she's given us so many hits. #Birthday",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Birthday"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ciara-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Ciara's 41st Birthday",
-   "blurb": "Grammy-winning R&B artist Ciara celebrates her 41st birthday on October 25th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday Shoutout Ciara",
-     "copy": "Happy 41st Birthday to the incredible Ciara tomorrow! Get ready to 'Level Up' and celebrate the R&B queen. #Ciara",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Ciara"
-     ]
-    },
-    {
-     "name": "Goodies for Ciara",
-     "copy": "Tomorrow marks another year for the 'First Lady of Crunk&B', Ciara! Wishing her a fantastic 41st birthday! #RnB",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#RnB"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jon-anderson-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Jon Anderson's 82nd Birthday",
-   "blurb": "Yes frontman and progressive rock legend Jon Anderson turns 82 on October 25th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Prog Rock Legend's Birthday",
-     "copy": "A very happy 82nd birthday tomorrow to the iconic voice of Yes, Jon Anderson! Celebrating a true progressive rock legend. #JonAnderson",
+     "name": "Welsh Filmed Drama",
+     "for": "welsh-local",
+     "copy": "Catch the new drama 'The Party' on ITVX! Starring Luke Evans and filmed in Wales, it's a gripping political thriller.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "11:00",
      "tags": [
-      "#JonAnderson"
+      "#ThePartyITVX"
      ]
     },
     {
-     "name": "Yes Man Turns 82",
-     "copy": "Tomorrow, we celebrate Jon Anderson's 82nd birthday! What's your favourite Yes track or a solo gem from the legendary frontman? #YesBand",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#YesBand"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chad-smith-birthday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Chad Smith's 65th Birthday",
-   "blurb": "Red Hot Chili Peppers drummer Chad Smith celebrates his 65th birthday on October 25th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "RHCP Drummer's Big Day",
-     "copy": "Wishing a very happy 65th birthday to the incredible Chad Smith of Red Hot Chili Peppers tomorrow! Still rocking harder than ever. #ChadSmith",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ChadSmith"
-     ]
-    },
-    {
-     "name": "Funk Rock Icon",
-     "copy": "It's Chad Smith's birthday tomorrow! The drumming powerhouse from RHCP turns 65. What's your favourite Chili Peppers track featuring his iconic beats? #RedHotChiliPeppers",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#RedHotChiliPeppers"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gbbo-tuesday",
-   "off": 3,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off Continues",
-   "blurb": "The Great British Bake Off returns this Tuesday, October 27th, for another week of challenges, airing at 8 PM on Channel 4.",
-   "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Tuesday",
-     "copy": "Get your ovens ready! The Great British Bake Off is back this Tuesday on Channel 4. What bakes are you hoping to see, or dreading? #GBBO",
+     "name": "Binge-Worthy TV",
+     "for": "",
+     "copy": "Looking for your next binge? All episodes of 'The Party' are streaming on ITVX now. Have you started watching?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "Nigella in the Tent",
-     "copy": "It's another week in the Bake Off tent this Tuesday! With Nigella Lawson as a new judge, what culinary critiques are we expecting? #BakeOff",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#BakeOff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "simon-le-bon-birthday",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Simon Le Bon's 68th Birthday",
-   "blurb": "Duran Duran frontman Simon Le Bon celebrates his 68th birthday on October 27th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Duran Duran Icon's Birthday",
-     "copy": "Wishing a very happy 68th birthday to the legendary Simon Le Bon of Duran Duran this Tuesday! What's your favourite Duran Duran hit? #DuranDuran",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#DuranDuran"
-     ]
-    },
-    {
-     "name": "Wild Boy Turns 68",
-     "copy": "Simon Le Bon, the charismatic voice of Duran Duran, turns 68 on Tuesday! Still 'Hungry Like the Wolf' for music. #SimonLeBon",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#SimonLeBon"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "james-blake-manchester",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "James Blake in Manchester",
-   "blurb": "Electronic artist James Blake brings his 'Trying Times Tour' to Manchester for two nights, October 25th and 26th.",
-   "source": {
-    "l": "Tickets for Good",
-    "u": "https://ticketsforgood.org/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Manchester"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Manchester Vibes",
-     "copy": "Manchester! James Blake is in town for two nights, starting tomorrow, for his 'Trying Times Tour'. Who's heading to experience his immersive sound? #JamesBlake",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#JamesBlake"
-     ]
-    },
-    {
-     "name": "Electronic Genius Live",
-     "copy": "Don't miss James Blake live in Manchester this Sunday and Monday! A master of electronic production, these shows are set to be unforgettable. #ManchesterMusic",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
       "threads"
      ],
      "time": "19:00",
      "tags": [
-      "#ManchesterMusic"
+      "#ITVX"
      ]
     }
    ]
   },
   {
-   "id": "westlife-manchester",
-   "off": 0,
-   "type": "gig",
+   "id": "wolf-acorn-tv",
+   "off": 2,
+   "type": "tv",
    "hot": true,
-   "title": "Westlife in Manchester",
-   "blurb": "Pop legends Westlife are performing in Manchester tonight and tomorrow as part of their '25 - The Anniversary World Tour'.",
+   "title": "Wolf Arrives on Acorn TV",
+   "blurb": "The six-episode thriller series 'Wolf', based on Mo Hayder's Jack Caffery novels, will be available to binge on Acorn TV from Monday, October 26th.",
    "source": {
-    "l": "PhotoPitLive.com",
-    "u": "https://photopitlive.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Manchester"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Westlife Anniversary Tour",
-     "copy": "Manchester, get ready to sing along! Westlife are live tonight and tomorrow for their '25 - The Anniversary World Tour'. What's your ultimate Westlife singalong? #Westlife",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#Westlife"
-     ]
-    },
-    {
-     "name": "Boyband Legends",
-     "copy": "Westlife are bringing all their hits to Manchester tonight! If you're going, prepare for a night of nostalgia and pop perfection. #ManchesterGigs",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "17:30",
-     "tags": [
-      "#ManchesterGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "halloween-countdown",
-   "off": 7,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Halloween Countdown",
-   "blurb": "Halloween is just one week away, falling on Thursday, October 31st, with spooky events and celebrations planned across the UK.",
-   "source": {
-    "l": "Google",
-    "u": "https://www.google.com/search?q=halloween+2026"
+    "l": "Cozy Comfort Club",
+    "u": "https://cozycomfortclub.com/new-in-october-2026-british-tv-premieres-book-releases/"
    },
    "fits": [
     {
@@ -726,295 +732,32 @@
    ],
    "angles": [
     {
-     "name": "Spooky Season Begins",
-     "copy": "It's officially one week until Halloween! Are you ready for ghosts, ghouls, and plenty of treats? What are your plans for October 31st? #Halloween",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Halloween"
-     ]
-    },
-    {
-     "name": "Costume Prep",
-     "copy": "Only 7 days until Halloween! Have you got your costume sorted, or are you still searching for inspiration? Tell us your best ideas! #SpookySeason",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#SpookySeason"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "duran-duran-halloween",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "Duran Duran Halloween Party",
-   "blurb": "Duran Duran will host a 'Danse Macabre Halloween Party' at The O2 Arena in London on October 31st, a one-night-only spectacular.",
-   "source": {
-    "l": "Gigantic Tickets",
-    "u": "https://www.gigantictickets.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Halloween with Duran Duran",
-     "copy": "Fancy a 'Danse Macabre' this Halloween? Duran Duran are throwing a special party at The O2 in London on October 31st! Get your spooky outfits ready. #DuranDuran",
+     "name": "New Thriller Alert",
+     "for": "",
+     "copy": "Get ready for a new thriller! 'Wolf', the six-episode crime drama, drops all episodes on Acorn TV this Monday. Perfect for a dark autumn night.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#DuranDuran"
+      "#WolfTV"
      ]
     },
     {
-     "name": "O2 Halloween Takeover",
-     "copy": "London, prepare for a Halloween like no other! Duran Duran are taking over The O2 for a one-off 'Danse Macabre' show. Who's going? #HalloweenGigs",
+     "name": "Binge Watch",
+     "for": "",
+     "copy": "Fancy a new series to devour? 'Wolf' is coming to Acorn TV on October 26th – all episodes available to binge!",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "16:00",
      "tags": [
-      "#HalloweenGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tove-lo-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Tove Lo's 39th Birthday",
-   "blurb": "Swedish pop star Tove Lo celebrates her 39th birthday on October 29th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Pop"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Birthday for Tove Lo",
-     "copy": "Happy 39th Birthday to the incredible Tove Lo this Thursday! From 'Habits' to 'Talking Body', she's given us so many great tunes. #ToveLo",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ToveLo"
-     ]
-    },
-    {
-     "name": "Swedish Pop Star Celebrates",
-     "copy": "Wishing a fantastic 39th birthday to the unique and talented Tove Lo on October 29th! What's your favourite track from her? #PopMusic",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "randy-jackson-birthday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Randy Jackson's 65th Birthday",
-   "blurb": "Randy Jackson, the youngest of the Jackson brothers and former member of The Jackson 5, turns 65 on October 29th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jackson 5 Birthday",
-     "copy": "Happy 65th Birthday to Randy Jackson, the youngest of the iconic Jackson brothers, this Thursday! Celebrating a true music dynasty. #RandyJackson",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#RandyJackson"
-     ]
-    },
-    {
-     "name": "Music Royalty",
-     "copy": "On October 29th, we celebrate Randy Jackson's 65th birthday! An integral part of The Jackson 5's legacy. What's your favourite track from the group? #TheJacksons",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TheJacksons"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bonfire-night-approaches",
-   "off": 12,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Bonfire Night Preparations",
-   "blurb": "Bonfire Night is just around the corner on November 5th, with communities across the UK beginning preparations for fireworks displays and bonfires.",
-   "source": {
-    "l": "Google",
-    "u": "https://www.google.com/search?q=bonfire+night+2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bonfire Night Buzz",
-     "copy": "The countdown to Bonfire Night is on! With November 5th approaching, what are your plans for fireworks and festivities? #BonfireNight",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BonfireNight"
-     ]
-    },
-    {
-     "name": "Firework Safety",
-     "copy": "With Bonfire Night on the horizon, it's time to think about safety. Remember to keep pets indoors and follow firework code. #GuyFawkes",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#GuyFawkes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "im-a-celeb-teasers",
-   "off": 23,
-   "type": "tv",
-   "hot": false,
-   "title": "I'm A Celeb Teasing Return",
-   "blurb": "ITV is currently teasing the return of 'I'm A Celebrity... Get Me Out Of Here!', which is expected to launch in mid-November.",
-   "source": {
-    "l": "ITV",
-    "u": "https://www.itv.com/imacelebrity"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jungle Rumours",
-     "copy": "The 'I'm A Celeb' teasers are officially here! The jungle is calling, but who will be heading Down Under this November? #ImACeleb",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ImACeleb"
-     ]
-    },
-    {
-     "name": "Ant & Dec Return",
-     "copy": "Ant & Dec are back in the trailers, hinting at the return of 'I'm A Celebrity... Get Me Out Of Here!' Who are you hoping to see in the camp? #IACGMOOH",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#IACGMOOH"
+      "#AcornTV"
      ]
     }
    ]
