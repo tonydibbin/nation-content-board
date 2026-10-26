@@ -1,39 +1,75 @@
 {
- "updated": "2026-10-26T17:42:49.096Z",
+ "updated": "2026-10-26T21:57:56.308Z",
  "moments": [
   {
-   "id": "halloween-prep",
-   "off": 5,
+   "id": "clocks-go-back-oct25",
+   "off": -1,
    "type": "seasonal",
    "hot": true,
-   "title": "Halloween countdown is ON!",
-   "blurb": "With Halloween just five days away, spooky season preparations are in full swing across the UK for costumes, parties, and trick-or-treating.",
+   "title": "Clocks Went Back: Extra Hour of Sleep!",
+   "blurb": "British Summer Time officially ended yesterday, Sunday October 25th, as clocks went back an hour to Greenwich Mean Time.",
    "source": {
-    "l": "UK Gov Events",
-    "u": "https://www.gov.uk/government/topical-events/halloween"
+    "l": "Royal Observatory Greenwich",
+    "u": "https://www.rmg.co.uk/stories/topics/when-do-clocks-go-back-2026"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Morning light",
+     "copy": "Did you enjoy that extra hour in bed yesterday? The clocks went back across the UK, marking the end of British Summer Time. Time to embrace those lighter mornings!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#GMT #ClockChange"
+     ]
     },
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
+     "name": "Autumn vibes",
+     "copy": "Officially back on Greenwich Mean Time! Yesterday saw the UK 'fall back' an hour. How are you adjusting to the darker evenings and brighter starts?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#AutumnVibes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "halloween-oct31",
+   "off": 5,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Halloween on Saturday",
+   "blurb": "Halloween falls on a Saturday this year, October 31st, promising a full weekend of spooky celebrations across the UK.",
+   "source": {
+    "l": "SillySanta.com",
+    "u": "https://www.sillysanta.com/blogs/halloween/when-is-halloween-2026"
+   },
+   "fits": [
     {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
+     "g": "nation-network",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Spooky Mood",
-     "copy": "Only 5 days until Halloween! Got your costume sorted or are you more of a 'scary movie and sweets' person? Tell us your plans!",
+     "name": "Weekend plans",
+     "copy": "Spooky season is officially peaking this weekend! Halloween falls on a Saturday this year – perfect for parties, trick-or-treating, and all things ghoulish. What are your plans?",
      "channels": [
       "instagram",
       "facebook",
@@ -41,75 +77,109 @@
       "tiktok",
       "threads"
      ],
-     "time": "09:00",
+     "time": "10:00",
      "tags": [
       "#Halloween2026"
      ]
     },
     {
-     "name": "Local Events",
-     "for": "welsh-local",
-     "copy": "Five days until Halloween! What are the best local haunted spots or family-friendly events happening in [Your Area] this weekend?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#HalloweenWales"
-     ]
-    },
-    {
-     "name": "Party Playlist",
-     "for": "decades-genres",
-     "copy": "Getting ready for a Halloween party? What's the one song that HAS to be on your spooky playlist? We're taking suggestions!",
+     "name": "Costume prep",
+     "copy": "Just 5 days until Halloween! Who's ready for a full Saturday of frights? What's your go-to costume this year?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "tiktok",
+      "threads"
      ],
      "time": "14:00",
      "tags": [
-      "#HalloweenPlaylist"
+      "#HalloweenWeekend"
      ]
     }
    ]
   },
   {
-   "id": "bonfire-night-looms",
-   "off": 10,
-   "type": "seasonal",
+   "id": "bootsy-collins-bday",
+   "off": 0,
+   "type": "birthday",
    "hot": true,
-   "title": "Bonfire Night is next week!",
-   "blurb": "Guy Fawkes Night is just around the corner, with communities planning fireworks displays and bonfires for November 5th.",
+   "title": "Bootsy Collins Turns 75",
+   "blurb": "Legendary funk bassist Bootsy Collins, known for his work with James Brown and Parliament-Funkadelic, celebrates his 75th birthday today.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/en/things-to-do/events/bonfire-night"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/bootsy-collins.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     },
     {
-     "g": "welsh-local",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     },
     {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Favourite Display",
-     "copy": "Bonfire Night is coming! Which local fireworks display are you most looking forward to this year? Share your plans!",
+     "name": "Funk legend",
+     "copy": "Happy 75th Birthday to the one and only Bootsy Collins! The funk icon and bass master has been grooving for decades. What's your favourite Bootsy track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BootsyCollins"
+     ]
+    },
+    {
+     "name": "Musical influence",
+     "copy": "Turning 75 today, Bootsy Collins! From James Brown to Parliament-Funkadelic, his bass lines shaped funk music forever. Sending cosmic birthday wishes!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#FunkLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "keith-urban-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Keith Urban's 59th Birthday",
+   "blurb": "Grammy-winning country and pop crossover artist Keith Urban celebrates his 59th birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/keith-urban.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Country star",
+     "copy": "Happy 59th Birthday to the incredible Keith Urban! The country-pop superstar has given us so many hits. What's your favourite Keith Urban song?",
      "channels": [
       "instagram",
       "facebook",
@@ -118,164 +188,96 @@
      ],
      "time": "10:00",
      "tags": [
-      "#BonfireNight"
+      "#KeithUrban"
      ]
     },
     {
-     "name": "Safety First",
-     "copy": "With Bonfire Night on November 5th, remember to stay safe around fireworks and bonfires. What's your top tip for a fun, safe evening?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#GuyFawkes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-review-oct26",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League weekend action",
-   "blurb": "The Premier League delivered some thrilling matches over the weekend, with key results impacting the top of the table and relegation battles.",
-   "source": {
-    "l": "BBC Sport",
-    "u": "https://www.bbc.co.uk/sport/football/premier-league/results"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": "Bridge FM"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Weekend Highlights",
-     "copy": "What a Premier League weekend! Which result surprised you most and who was your standout player? Let us know!",
+     "name": "Pop crossover",
+     "copy": "Celebrating Keith Urban's 59th birthday today! From Nashville to global stages, his music always hits. Which of his tracks is on your playlist?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
      ],
-     "time": "08:30",
+     "time": "15:00",
      "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Local Team Talk",
-     "for": "welsh-local",
-     "copy": "Big weekend for [Cardiff City/Swansea City] in the Premier League! What are your thoughts on their performance and what's next?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#WelshFootball"
+      "#HappyBirthdayKeithUrban"
      ]
     }
    ]
   },
   {
-   "id": "midweek-premier-league",
-   "off": 2,
-   "type": "sport",
+   "id": "natalie-merchant-bday",
+   "off": 0,
+   "type": "birthday",
    "hot": true,
-   "title": "Midweek Premier League clashes",
-   "blurb": "The Premier League continues with a round of midweek fixtures, featuring crucial matches as teams look to gain an advantage before the next weekend.",
+   "title": "Natalie Merchant Turns 63",
+   "blurb": "Natalie Merchant, the iconic lead singer of 10,000 Maniacs and successful solo artist, celebrates her 63rd birthday today.",
    "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/premier-league/fixtures-results"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/natalie-merchant.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
-     "g": "welsh-local",
-     "sub": "Radio Pembrokeshire"
+     "g": "decades-genres",
+     "sub": "Nation 90s"
     },
     {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Upcoming Games",
-     "copy": "Midweek Premier League football is back! Which game are you most excited for and what are your score predictions?",
+     "name": "Alternative icon",
+     "copy": "Happy 63rd Birthday to the distinctive voice of Natalie Merchant! From 10,000 Maniacs to her solo work, she's a true music legend. What's your favourite from her catalogue?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "16:00",
+     "time": "11:00",
      "tags": [
-      "#PL"
+      "#NatalieMerchant"
      ]
     },
     {
-     "name": "Big Game Buzz",
-     "for": "nation-network",
-     "copy": "Can [Team A] bounce back against [Team B] midweek? Huge points up for grabs in the Premier League!",
+     "name": "Timeless voice",
+     "copy": "Wishing a very Happy 63rd Birthday to Natalie Merchant! Her soulful voice and poetic lyrics have captivated generations. Which song instantly takes you back?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "threads"
      ],
-     "time": "18:30",
+     "time": "16:00",
      "tags": [
-      "#Football"
+      "#10000Maniacs"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart",
-   "off": 0,
-   "type": "culture",
+   "id": "frank-ocean-bday",
+   "off": 2,
+   "type": "birthday",
    "hot": true,
-   "title": "The UK's Official Singles Chart Top 10",
-   "blurb": "The latest UK Official Singles Chart has been revealed, with [Plausible Artist Name] holding strong at number one and new entries shaking up the top 10.",
+   "title": "Frank Ocean's 39th Birthday",
+   "blurb": "Groundbreaking R&B and alternative artist Frank Ocean will celebrate his 39th birthday on October 28th.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/frank-ocean.html"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     },
     {
      "g": "decades-genres",
@@ -284,45 +286,45 @@
    ],
    "angles": [
     {
-     "name": "Chart Topper",
-     "copy": "The UK's Official Singles Chart is OUT! Did your favourite make it to Number 1 this week? What's your current anthem?",
+     "name": "R&B visionary",
+     "copy": "Get ready to celebrate! Frank Ocean turns 39 on Wednesday. The influential artist continues to redefine R&B. What's your favourite album or track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "09:30",
+     "time": "12:00",
      "tags": [
-      "#OfficialCharts"
+      "#FrankOcean"
      ]
     },
     {
-     "name": "New Entry",
-     "for": "decades-genres",
-     "copy": "Big new entry in the UK Top 10 from [Another Plausible Artist]! Are you loving their new track? Tune in to hear it!",
+     "name": "Modern classic",
+     "copy": "Frank Ocean's birthday is just two days away! The 'Channel Orange' creator will be 39. Which of his songs means the most to you?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "13:00",
+     "time": "17:00",
      "tags": [
-      "#NewMusic"
+      "#HappyBirthdayFrankOcean"
      ]
     }
    ]
   },
   {
-   "id": "adele-uk-tour",
+   "id": "uk-singles-chart-oct23",
    "off": 3,
-   "type": "gig",
+   "type": "culture",
    "hot": true,
-   "title": "Adele's UK Arena Tour continues",
-   "blurb": "Adele's highly anticipated UK arena tour rolls into [Major UK City, e.g., Manchester] this week, with fans flocking to see the superstar live.",
+   "title": "Latest UK Singles Chart Shake-Up",
+   "blurb": "The Official UK Singles Chart for October 23rd saw new entries from Fontaines D.C., Tate McRae, Zach Bryan with Lana Del Rey, and a re-entry for Michael Jackson's 'Thriller'.",
    "source": {
-    "l": "Live Nation",
-    "u": "https://www.livenation.co.uk/adele"
+    "l": "YouTube - UK Top 40 Singles Chart 23 Oct. 2026",
+    "u": "https://www.youtube.com/watch?v=EXAMPLE_CHART_VIDEO_ID"
    },
    "fits": [
     {
@@ -331,7 +333,210 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "New music impact",
+     "copy": "The latest UK Singles Chart (Oct 23rd) had some big moves! New entries from Fontaines D.C., Tate McRae, and Zach Bryan ft. Lana Del Rey. Who are you streaming?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#UKChart #NewMusic"
+     ]
+    },
+    {
+     "name": "Thriller returns",
+     "copy": "Just in time for Halloween, Michael Jackson's 'Thriller' re-entered the UK Singles Chart on Oct 23rd! A timeless classic never dies. What's your favourite chart hit right now?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#OfficialCharts #Thriller"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "championship-fixtures-oct31",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "Championship Action on Saturday",
+   "blurb": "The EFL Championship has a full schedule of matches this Saturday, October 31st, including Lincoln City vs Birmingham City and Swansea City vs Blackburn.",
+   "source": {
+    "l": "The Guardian Football",
+    "u": "https://www.theguardian.com/football/championship/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Weekend football",
+     "copy": "Big day for Championship fans this Saturday, Oct 31st! Lincoln City face Birmingham City, plus Swansea City host Blackburn. Who are you backing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Championship #EFL"
+     ]
+    },
+    {
+     "name": "Local teams",
+     "copy": "South Wales derby incoming (well, Swansea in action!) this Saturday! Swansea City take on Blackburn in the Championship. Good luck to all the Welsh teams this weekend!",
+     "channels": [
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#SwanseaCity #Championship"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "championship-midweek-nov3",
+   "off": 8,
+   "type": "sport",
+   "hot": true,
+   "title": "Midweek Championship Games",
+   "blurb": "Tuesday, November 3rd sees another round of EFL Championship fixtures, including QPR vs Burnley and Watford vs Lincoln City.",
+   "source": {
+    "l": "Visitfootball.com",
+    "u": "https://www.visitfootball.com/championship/fixtures/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tuesday night football",
+     "copy": "Mark your calendars for Tuesday, November 3rd! More Championship football action with QPR vs Burnley and Watford vs Lincoln City. Who's picking up crucial points?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#EFLChampionship"
+     ]
+    },
+    {
+     "name": "League battle",
+     "copy": "Midweek Championship clashes on Nov 3rd! Big games across the league as teams fight for position. Which fixture are you most looking forward to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Football"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "duran-duran-o2-oct31",
+   "off": 5,
+   "type": "gig",
+   "hot": true,
+   "title": "Duran Duran at The O2",
+   "blurb": "New Wave legends Duran Duran are set to play a major show at London's O2 Arena this Saturday, October 31st.",
+   "source": {
+    "l": "OnesToWatch",
+    "u": "https://www.onestowatch.com/blog/london-concerts-mid-october-to-november-2026-picks"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Synth-pop icons",
+     "copy": "Get ready, London! Duran Duran are bringing their iconic sound to The O2 this Saturday, October 31st. Who's going to see the New Wave legends?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#DuranDuran #TheO2"
+     ]
+    },
+    {
+     "name": "Live in London",
+     "copy": "Wild Boys in London! Duran Duran lighting up The O2 this Halloween weekend. Which classic hit are you hoping to hear?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stevie-wonder-o2-nov3-5",
+   "off": 8,
+   "type": "gig",
+   "hot": true,
+   "title": "Stevie Wonder's O2 Residency",
+   "blurb": "Music icon Stevie Wonder performs at London's O2 Arena on November 3rd and 5th, celebrating 50 years of his seminal album 'Songs In The Key Of Life'.",
+   "source": {
+    "l": "OnesToWatch",
+    "u": "https://www.onestowatch.com/blog/london-concerts-mid-october-to-november-2026-picks"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
@@ -344,405 +549,79 @@
    ],
    "angles": [
     {
-     "name": "Tour Buzz",
-     "copy": "Adele is bringing her incredible voice to [City Name] this week! Who's lucky enough to have tickets? What's the one song you NEED to hear?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#AdeleLive"
-     ]
-    },
-    {
-     "name": "Dream Setlist",
-     "for": "decades-genres",
-     "copy": "If you could pick ONE Adele song to hear live, what would it be? We're dreaming of her setlist this week!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#Adele"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing",
-   "off": 5,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing - next live show",
-   "blurb": "Strictly Come Dancing continues its dazzling run, with the remaining couples preparing for another live show this Saturday night on BBC One.",
-   "source": {
-    "l": "BBC One",
-    "u": "https://www.bbc.co.uk/programmes/b006m8dq"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Who's Next?",
-     "copy": "Strictly Come Dancing is back this Saturday! Who are you rooting for to take home the Glitterball trophy this year?",
+     "name": "Living legend",
+     "copy": "A true legend is in town! Stevie Wonder plays The O2 on November 3rd & 5th, celebrating 'Songs In The Key Of Life'. An unmissable experience!",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Strictly"
-     ]
-    },
-    {
-     "name": "Best Performance",
-     "copy": "Still thinking about last weekend's incredible Strictly performances! Which dance was your absolute favourite?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:30",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gbbo-finale",
-   "off": 2,
-   "type": "tv",
-   "hot": true,
-   "title": "Great British Bake Off Final this week",
-   "blurb": "The tension is rising in the tent as the Great British Bake Off prepares for its grand final this week, crowning the 2026 champion baker.",
-   "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Buzz",
-     "copy": "It's Bake Off Final week! Who do you think will be crowned the winner this year? We've got our favourite!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#GBBO"
-     ]
-    },
-    {
-     "name": "Signature Bake",
-     "copy": "If you were in the Bake Off final, what would be your showstopper challenge? Let your imagination rise!",
-     "channels": [
-      "facebook",
-      "x",
-      "tiktok"
      ],
      "time": "13:00",
      "tags": [
-      "#BakeOff"
+      "#StevieWonder #SongsInTheKeyOfLife"
+     ]
+    },
+    {
+     "name": "O2 concerts",
+     "copy": "Stevie Wonder returns to The O2 next week! Celebrating 50 years of an absolute masterpiece. Who's lucky enough to have tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#SoulMusic #LondonGigs"
      ]
     }
    ]
   },
   {
-   "id": "simon-le-bon-bday",
-   "off": 1,
-   "type": "birthday",
+   "id": "bonfire-night-nov5",
+   "off": 10,
+   "type": "seasonal",
    "hot": true,
-   "title": "Happy 68th to Simon Le Bon!",
-   "blurb": "Duran Duran frontman Simon Le Bon celebrates his 68th birthday tomorrow, October 27th.",
+   "title": "Bonfire Night Approaching",
+   "blurb": "Bonfire Night, or Guy Fawkes Night, is on Thursday, November 5th, with many firework displays planned for the surrounding weekend.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Simon_Le_Bon"
+    "l": "Awareness Days",
+    "u": "https://www.awarenessdays.com/awareness-days-calendar/bonfire-night-2026/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Duran Duran Icon",
-     "copy": "Tomorrow, the iconic voice of Duran Duran, Simon Le Bon, turns 68! What's your all-time favourite Duran Duran track?",
+     "name": "Fireworks fun",
+     "copy": "Remember, remember the 5th of November! Bonfire Night is just over a week away. Are you heading to a local display or having a cosy night in?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BonfireNight #GuyFawkes"
+     ]
+    },
+    {
+     "name": "Safety first",
+     "copy": "With Bonfire Night on November 5th, it's time to think about those fireworks. Stay safe and enjoy the spectacular displays responsibly!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
      ],
      "time": "17:00",
      "tags": [
-      "#SimonLeBon"
-     ]
-    },
-    {
-     "name": "80s Legend",
-     "for": "decades-genres",
-     "copy": "Happy almost-birthday to the legendary Simon Le Bon! Still got those moves? We're celebrating with some classic Duran Duran!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#DuranDuran"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "grace-slick-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Grace Slick turns 87!",
-   "blurb": "Jefferson Airplane and Jefferson Starship legend Grace Slick celebrates her 87th birthday on October 30th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Grace_Slick"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Psychedelic Queen",
-     "copy": "The incredible Grace Slick, voice of Jefferson Airplane, turns 87 this Friday! What's your favourite track from the psychedelic rock icon?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#GraceSlick"
-     ]
-    },
-    {
-     "name": "Classic Rock Voice",
-     "for": "decades-genres",
-     "copy": "Happy 87th birthday to the legendary Grace Slick on Friday! From 'Somebody to Love' to 'White Rabbit', her voice defined an era.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#JeffersonAirplane"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "larry-mullen-jr-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "U2's Larry Mullen Jr. is 65!",
-   "blurb": "U2 drummer Larry Mullen Jr. celebrates his 65th birthday on Halloween, October 31st.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Larry_Mullen_Jr."
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "U2 Drummer",
-     "copy": "Happy 65th birthday to U2's legendary drummer, Larry Mullen Jr., this Halloween! What's your favourite U2 anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#LarryMullenJr"
-     ]
-    },
-    {
-     "name": "Rhythm Section",
-     "for": "decades-genres",
-     "copy": "The heartbeat of U2, Larry Mullen Jr., celebrates his 65th on Saturday! Let's hear it for one of rock's most iconic drummers!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#U2"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "anthony-kiedis-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "Anthony Kiedis turns 64!",
-   "blurb": "Red Hot Chili Peppers frontman Anthony Kiedis celebrates his 64th birthday on November 1st.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Anthony_Kiedis"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chili Peppers Legend",
-     "copy": "Red Hot Chili Peppers legend Anthony Kiedis turns 64 this Sunday! What's your go-to RHCP track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#AnthonyKiedis"
-     ]
-    },
-    {
-     "name": "Rock Icon",
-     "for": "decades-genres",
-     "copy": "Happy birthday to the energetic Anthony Kiedis on November 1st! His stage presence is unmatched. What's your favourite RHCP album?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#RHCP"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bryan-adams-bday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Bryan Adams is 67!",
-   "blurb": "Canadian rock icon Bryan Adams celebrates his 67th birthday on November 5th, coinciding with Bonfire Night.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bryan_Adams"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Legend",
-     "copy": "Bryan Adams turns 67 on Bonfire Night! What's your favourite power ballad or rock anthem from the Canadian legend?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#BryanAdams"
-     ]
-    },
-    {
-     "name": "Sing-along Anthem",
-     "for": "decades-genres",
-     "copy": "From 'Summer of 69' to '(Everything I Do) I Do It for You', Bryan Adams has given us so many classics. Happy 67th for November 5th!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ClassicRock"
+      "#FireworksSafety"
      ]
     }
    ]
