@@ -1,27 +1,39 @@
 {
- "updated": "2026-10-29T09:27:20.340Z",
+ "updated": "2026-10-29T16:29:09.427Z",
  "moments": [
   {
-   "id": "halloween-uk-2026",
+   "id": "halloween-2026",
    "off": 2,
    "type": "seasonal",
    "hot": true,
-   "title": "Halloween Weekend is Here!",
-   "blurb": "The UK is gearing up for Halloween on Saturday, October 31st, with events ranging from family-friendly pumpkin patches to terrifying scare attractions across the country.",
+   "title": "Halloween Weekend",
+   "blurb": "The UK gears up for Halloween on Saturday, October 31st, with costume parties, trick-or-treating, and spooky events across the country.",
    "source": {
-    "l": "VisitBritain",
-    "u": "https://www.visitbritain.com/things-to-do/events/halloween-and-bonfire-night-britain"
+    "l": "Time and Date",
+    "u": "https://www.timeanddate.com/holidays/uk/halloween"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Spooky Saturday",
-     "copy": "Who's ready for a frightfully good Halloween weekend? From spooky trails to full-on scare fests, how are you celebrating?",
+     "name": "Spooky Celebrations",
+     "copy": "Get ready for a frightfully good weekend! Halloween is officially on Saturday, and the UK is going all out with costumes, carved pumpkins, and trick-or-treating. What are your plans?",
      "channels": [
       "instagram",
       "facebook",
@@ -35,18 +47,107 @@
      ]
     },
     {
-     "name": "Family Fun",
-     "copy": "Pumpkin carving, fancy dress, or a not-so-spooky storytime – how are the little monsters celebrating Halloween this year?",
+     "name": "Kids' Halloween Fun",
+     "copy": "From pumpkin patches to trick-or-treating, Halloween on Saturday is a huge hit with families! Share your best costume ideas for the little monsters.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#KidsHalloween"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-halloween-2026",
+   "off": 2,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Halloween Special",
+   "blurb": "Strictly Come Dancing airs its much-anticipated Halloween Special on BBC One this Saturday, October 31st, with the remaining couples performing spooky routines.",
+   "source": {
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2026-week-6-halloween-special-songs-dances-revealed-newsupdate/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Strictly Spooktacular",
+     "copy": "Grab your popcorn and get ready to rumba with ghosts! The Strictly Come Dancing Halloween Special is THIS SATURDAY on BBC One. Who are you rooting for to cast a spell on the judges?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "time": "10:00",
+     "time": "09:30",
      "tags": [
-      "#FamilyHalloween"
+      "#StrictlyComeDancing"
+     ]
+    },
+    {
+     "name": "Halloween Week Dances",
+     "copy": "It's Halloween Week in the Strictly ballroom! Expect ghoulishly good routines and incredible costumes this Saturday night. Who's going to deliver the most thrilling performance?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Strictly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "premier-league-matchday-9",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Matchday 9",
+   "blurb": "The Premier League continues with Matchday 9 this weekend, featuring big clashes including Chelsea vs Manchester United and Manchester City vs Brighton on Saturday, October 31st.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Football Weekend",
+     "copy": "Huge Premier League action this Saturday! Chelsea take on Manchester United in a massive clash, plus Man City face Brighton. Who are you backing for the points?",
+     "channels": [
+      "x",
+      "facebook",
+      "threads"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Saturday Showdowns",
+     "copy": "Matchday 9 is here! What are your score predictions for the Premier League games this Saturday? Don't miss Chelsea vs Man Utd!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Football"
      ]
     }
    ]
@@ -56,11 +157,11 @@
    "off": 7,
    "type": "seasonal",
    "hot": true,
-   "title": "Bonfire Night Approaches",
-   "blurb": "Bonfire Night, commemorating Guy Fawkes and the Gunpowder Plot, falls on Thursday, November 5th, with many firework displays and community events planned across the UK for the surrounding weekend.",
+   "title": "Bonfire Night Approaching",
+   "blurb": "Bonfire Night, or Guy Fawkes Night, is celebrated across the UK with fireworks displays and bonfires on Thursday, November 5th.",
    "source": {
-    "l": "Away Resorts",
-    "u": "https://www.awayresorts.co.uk/bonfire-night-events-uk/"
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.com/gb/en/things-to-do/events/halloween-and-bonfire-night-britain"
    },
    "fits": [
     {
@@ -68,29 +169,22 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Remember, Remember",
-     "copy": "Bonfire Night is just a week away! Get ready for crackling bonfires, dazzling fireworks, and maybe a few toasted marshmallows. What are your plans?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BonfireNight"
-     ]
-    },
-    {
-     "name": "Local Displays",
-     "copy": "From Battersea Park to Ascot Racecourse, Bonfire Night displays are lighting up the UK. Check local listings for events near you, including family-friendly options.",
+     "name": "Fireworks Prep",
+     "copy": "Get ready for rockets and bonfires! Guy Fawkes Night is just a week away on November 5th. What's your favourite thing about Bonfire Night?",
      "channels": [
       "instagram",
       "facebook",
@@ -99,303 +193,165 @@
      ],
      "time": "16:00",
      "tags": [
-      "#Fireworks"
+      "#BonfireNight"
+     ]
+    },
+    {
+     "name": "Remember, Remember",
+     "copy": "Penny for the Guy! Bonfire Night is next Thursday. Planning to head to a display or watch from home?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#GuyFawkes"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-matchweek9",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Matchweek 9",
-   "blurb": "Premier League Matchweek 9 kicks off this weekend, with a major clash between Chelsea and Manchester United on Saturday, October 31st, and Liverpool facing Arsenal on Sunday, November 1st.",
-   "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Big Game Buzz",
-     "copy": "It's a huge weekend in the Premier League! Chelsea vs Man Utd on Saturday – who's taking all three points?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Sunday Showdown",
-     "copy": "Liverpool vs Arsenal headlines Sunday's Premier League action. Who are you backing in this top-of-the-table battle?",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#LIVARS"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "championship-oct31",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "Championship Action This Weekend",
-   "blurb": "The EFL Championship sees a full slate of fixtures on Saturday, October 31st, including Welsh clubs Cardiff City, Swansea City, and newly promoted Wrexham AFC in action.",
-   "source": {
-    "l": "EFL",
-    "u": "https://www.efl.com/clubs-and-competitions/sky-bet-championship/fixtures/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Derby Day",
-     "copy": "Big Championship day on Saturday! Cardiff City are away at Wolves, Swansea City host Blackburn Rovers, and Wrexham travel to Sheffield United. Good luck to the Welsh clubs!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Championship"
-     ]
-    },
-    {
-     "name": "Who Will Rise?",
-     "copy": "Every point counts in the Championship! Which team are you following closely this weekend?",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#EFL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "autumn-internationals-nov6",
-   "off": 8,
-   "type": "sport",
-   "hot": true,
-   "title": "Autumn Rugby Internationals Begin",
-   "blurb": "The Autumn Rugby Internationals kick off next weekend as part of the new Nations Championship, with Wales facing Japan at Principality Stadium on Friday, November 6th.",
-   "source": {
-    "l": "Autumn Internationals",
-    "u": "https://www.autumn-internationals.co.uk/autumn-internationals-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Wales Kicks Off",
-     "copy": "Get ready for international rugby! Wales take on Japan next Friday in Cardiff to kick off their Autumn Nations Championship campaign. Cymru am byth!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#WALvJPN"
-     ]
-    },
-    {
-     "name": "Home Nations in Action",
-     "copy": "England face Australia and Scotland play New Zealand next Friday as the Autumn Internationals begin. Who's excited for some world-class rugby?",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#AutumnNations"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-jamie-miller",
+   "id": "birthday-randy-jackson",
    "off": 0,
-   "type": "culture",
+   "type": "birthday",
    "hot": true,
-   "title": "Jamie Miller Tops UK Singles Chart",
-   "blurb": "Jamie Miller's 'Babydoll' is officially the UK's number one single for the week ending October 29, 2026.",
+   "title": "Randy Jackson turns 65",
+   "blurb": "Randy Jackson, member of The Jackson 5 and solo artist, celebrates his 65th birthday today, October 29th.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://en.wikipedia.org/wiki/UK_singles_chart"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/randy-jackson-singer.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Number One",
-     "copy": "Huge congratulations to Jamie Miller! 'Babydoll' has officially landed the UK Singles Chart top spot this week. What a tune!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#UKChart"
-     ]
+     "sub": "Nation 70s"
     },
-    {
-     "name": "Chart Topper",
-     "copy": "Turn it up! Jamie Miller's 'Babydoll' is your new UK Number 1. What's your favourite track in the chart right now?",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#JamieMiller"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "j-cole-london-o2",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "J. Cole Live at The O2",
-   "blurb": "Rapper J. Cole continues his 'The Fall Off' tour with shows at London's O2 Arena from today, October 29th, through to November 2nd.",
-   "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/music/best-uk-tours-concerts-2026-tickets/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "London Calling",
-     "copy": "J. Cole is at The O2 in London tonight and through the weekend! Who's heading to 'The Fall Off' tour?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#JCole"
-     ]
-    },
-    {
-     "name": "Still Got Tickets?",
-     "copy": "If you're in London, there might still be a chance to catch J. Cole live at The O2 over the next few days. Don't miss out!",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#TheO2"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "duran-duran-london-oct31",
-   "off": 2,
-   "type": "gig",
-   "hot": true,
-   "title": "Duran Duran Play London",
-   "blurb": "New Wave legends Duran Duran are performing in London on Saturday, October 31st.",
-   "source": {
-    "l": "OnesToWatch",
-    "u": "https://www.onestowatch.com/london-concerts-mid-october-to-november-2026/"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Randy's Birthday",
+     "copy": "Wishing a very happy 65th birthday to Randy Jackson of The Jackson 5! What's your favourite Jackson's track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "07:00",
+     "tags": [
+      "#RandyJackson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-johnny-marr",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Johnny Marr turns 63",
+   "blurb": "Iconic guitarist Johnny Marr, best known for his work with The Smiths, celebrates his 63rd birthday on Saturday, October 31st.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/johnny-marr.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
      "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Legend",
+     "copy": "Happy 63rd birthday this Saturday to the incredible Johnny Marr! What's your favourite Smiths song featuring his legendary guitar work?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#JohnnyMarr"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-anthony-kiedis",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Anthony Kiedis turns 64",
+   "blurb": "Red Hot Chili Peppers frontman Anthony Kiedis turns 64 on Sunday, November 1st.",
+   "source": {
+    "l": "SoundOD",
+    "u": "https://www.soundod.com/on-this-day/november-1-in-music-history/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chili Peppers Birthday",
+     "copy": "Give it away, give it away, give it away now! Red Hot Chili Peppers' Anthony Kiedis celebrates his 64th birthday on Sunday. What's your favourite RHCP anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#AnthonyKiedis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gig-abba-voyage",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "ABBA Voyage Continues",
+   "blurb": "ABBA Voyage offers a VIP Premium Package show at the ABBA Arena in London on Friday, October 30th, continuing its acclaimed virtual residency.",
+   "source": {
+    "l": "Ticketmaster",
+    "u": "https://www.ticketmaster.co.uk/abba-voyage-vip-premium-package-london-30-10-2026/event/35005E98953C143B"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "nation-network",
@@ -404,8 +360,186 @@
    ],
    "angles": [
     {
-     "name": "Wild Boys in London",
-     "copy": "Duran Duran are bringing the hits to London this Saturday! Who's excited to see the iconic 80s band live?",
+     "name": "ABBA in London",
+     "copy": "Fancy a trip to the ABBA Arena? ABBA Voyage continues its incredible run this Friday with a VIP Premium Package show. Who's been, and who wants to go?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ABBAVoyage"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gig-the-stylistics-cardiff",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "The Stylistics in Cardiff",
+   "blurb": "Legendary soul group The Stylistics perform at the New Theatre Cardiff on Saturday, October 31st.",
+   "source": {
+    "l": "JamBase",
+    "u": "https://www.jambase.com/concerts/the-stylistics-tickets-cardiff-uk"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Carmarthenshire"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Radio Pembrokeshire"
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff Soul Night",
+     "copy": "Get ready for a night of timeless soul! The incredible Stylistics are playing the New Theatre Cardiff this Saturday. Who's heading out for a smooth evening?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#CardiffGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gig-dutty-moonshine-exeter",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "Dutty Moonshine Big Band in Exeter",
+   "blurb": "The Dutty Moonshine Big Band brings their unique blend of big-band swing and heavy bass to the University of Exeter Great Hall on Saturday, October 31st.",
+   "source": {
+    "l": "Visit Exeter",
+    "u": "https://www.visitexeter.com/whats-on/dutty-moonshine-big-band-p2508003"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Exeter Halloween Gig",
+     "copy": "Looking for something different this Halloween in Exeter? The Dutty Moonshine Big Band is at the Great Hall on Saturday for a night of electro-swing and bass!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#ExeterGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "i-m-a-celebrity-launch",
+   "off": 18,
+   "type": "tv",
+   "hot": true,
+   "title": "I'm A Celebrity... Launch Date",
+   "blurb": "The 26th series of I'm A Celebrity... Get Me Out Of Here! is set to begin on Monday, November 16th, on ITV, with Ant & Dec returning to host.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(British_TV_series)_series_26"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jungle Countdown",
+     "copy": "The jungle awaits! I'm A Celebrity... Get Me Out Of Here! officially kicks off on November 16th on ITV. Who are you hoping to see in the lineup?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ImACeleb"
+     ]
+    },
+    {
+     "name": "Ant & Dec Return",
+     "copy": "Ant & Dec are back for I'm A Celebrity... starting November 16th! Get ready for bushtucker trials and plenty of drama. Who's your dream campmate?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#IACGMOOH"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chart-raye-where-is-my-husband",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "RAYE's 'WHERE IS MY HUSBAND!' in the charts",
+   "blurb": "RAYE's hit track 'WHERE IS MY HUSBAND!' continues to be a talked-about song in the UK Singles Chart.",
+   "source": {
+    "l": "Spotify/YouTube",
+    "u": "https://open.spotify.com/playlist/0B5eJ7q1e6t1rX1i2l2f1d"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "copy": "Still obsessed with RAYE's 'WHERE IS MY HUSBAND!'? It's still making waves in the UK charts! What's your favourite lyric from the track?",
      "channels": [
       "instagram",
       "facebook",
@@ -415,95 +549,39 @@
      ],
      "time": "11:30",
      "tags": [
-      "#DuranDuran"
+      "#RAYE"
      ]
     },
     {
-     "name": "Still Rocking",
-     "copy": "From 'Rio' to their latest, Duran Duran still know how to put on a show. Catch them in London this Halloween weekend.",
+     "name": "Singles Chart Buzz",
+     "copy": "What's your current favourite on the UK Singles Chart? RAYE's 'WHERE IS MY HUSBAND!' is definitely one to get stuck in your head!",
      "channels": [
-      "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "16:30",
+     "time": "16:00",
      "tags": [
-      "#80sMusic"
+      "#UKChart"
      ]
     }
    ]
   },
   {
-   "id": "the-script-uk-tour",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "The Script UK Tour Kicks Off",
-   "blurb": "The Script begin their UK tour on Friday, October 30th, supporting their new album 'The User's Guide to Being Human', with dates including Cardiff.",
-   "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/music/best-uk-tours-concerts-2026-tickets/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Tour Starts Now",
-     "copy": "The Script are back on tour! Kicking off tomorrow, who's got tickets to see them across the UK, including their Cardiff date?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#TheScript"
-     ]
-    },
-    {
-     "name": "New Album, New Tour",
-     "copy": "Excited to hear new tracks and old favourites? The Script's UK tour starts tomorrow, celebrating their latest album. Where are you seeing them?",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#MusicTour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "stevie-wonder-london-nov3",
+   "id": "birthday-steviewonder-london",
    "off": 5,
    "type": "gig",
    "hot": true,
-   "title": "Stevie Wonder Returns to London",
-   "blurb": "Music icon Stevie Wonder will perform in London on November 3rd and 5th, celebrating 50 years of 'Songs In The Key Of Life'.",
+   "title": "Stevie Wonder in London",
+   "blurb": "Music legend Stevie Wonder is scheduled to perform in London on November 3rd and 5th, celebrating 50 years of 'Songs In The Key Of Life'.",
    "source": {
     "l": "OnesToWatch",
-    "u": "https://www.onestowatch.com/london-concerts-mid-october-to-november-2026/"
+    "u": "https://www.onestowatch.com/blog/london-concerts-mid-october-to-november-2026-picks"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
@@ -511,14 +589,6 @@
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
     },
     {
      "g": "nation-network",
@@ -527,168 +597,43 @@
    ],
    "angles": [
     {
-     "name": "Legendary Gigs",
-     "copy": "Stevie Wonder in London next week! Celebrating 50 years of an absolute masterpiece, 'Songs In The Key Of Life'. Who's lucky enough to have tickets?",
+     "name": "Stevie Live in London",
+     "copy": "The one and only Stevie Wonder is in London next week for two special nights! Celebrating 50 years of 'Songs In The Key Of Life', who's got tickets?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "12:30",
      "tags": [
       "#StevieWonder"
      ]
-    },
-    {
-     "name": "Timeless Talent",
-     "copy": "A true legend gracing the London stage. Stevie Wonder's shows promise to be unforgettable nights of soul and classic hits.",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#SoulMusic"
-     ]
     }
    ]
   },
   {
-   "id": "randy-jackson-bday",
-   "off": 0,
+   "id": "birthday-bryan-adams",
+   "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 65th to Randy Jackson",
-   "blurb": "Randy Jackson, youngest brother of The Jacksons and a talented singer, turns 65 today, October 29th.",
+   "title": "Bryan Adams turns 67",
+   "blurb": "Canadian rock icon Bryan Adams celebrates his 67th birthday on Thursday, November 5th.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/randy-jackson.html"
+    "u": "https://www.famousbirthdays.com/people/bryan-adams.html"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "65 Today",
-     "copy": "Sending birthday wishes to Randy Jackson, who turns 65 today! What's your favourite Jacksons track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#RandyJackson"
-     ]
-    },
-    {
-     "name": "Music Royalty",
-     "copy": "From The Jacksons to his solo work, Randy Jackson has been part of music history. Happy 65th birthday!",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#TheJacksons"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tove-lo-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 38th to Tove Lo",
-   "blurb": "Swedish pop sensation Tove Lo, known for hits like 'Habits (Stay High)' and 'Talking Body', celebrates her 38th birthday today, October 29th.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/tove-lo.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Queen",
-     "copy": "Happy 38th Birthday to the incredible Tove Lo! What's your go-to track from her?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ToveLo"
-     ]
-    },
-    {
-     "name": "Dancing Queen",
-     "copy": "From indie pop to dance anthems, Tove Lo always delivers. Celebrate her 38th birthday by cranking up her biggest hits!",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#PopMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "melba-moore-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Melba Moore Turns 81",
-   "blurb": "Grammy-winning R&B and Broadway star Melba Moore, known for her powerful vocals and stage presence, celebrates her 81st birthday today, October 29th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Melba_Moore"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -697,46 +642,36 @@
    ],
    "angles": [
     {
-     "name": "Soulful Legend",
-     "copy": "Happy 81st Birthday to the incomparable Melba Moore! A true icon of soul, R&B, and Broadway.",
+     "name": "Summer of '69",
+     "copy": "Happy 67th birthday to the legendary Bryan Adams this Thursday! What's your go-to Bryan Adams power ballad?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#MelbaMoore"
-     ]
-    },
-    {
-     "name": "Broadway Star",
-     "copy": "From 'I Got Love' to her incredible stage career, Melba Moore is a force of nature. Wishing her a very happy 81st birthday!",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#RhythmAndBlues"
+      "#BryanAdams"
      ]
     }
    ]
   },
   {
-   "id": "grace-slick-bday",
-   "off": 1,
+   "id": "birthday-lulu",
+   "off": 5,
    "type": "birthday",
    "hot": true,
-   "title": "Grace Slick Turns 87",
-   "blurb": "Counterculture icon Grace Slick, the legendary singer of Jefferson Airplane and Jefferson Starship, celebrates her 87th birthday tomorrow, October 30th.",
+   "title": "Lulu turns 78",
+   "blurb": "Scottish singing icon Lulu, known for hits like 'Shout' and 'To Sir With Love', celebrates her 78th birthday on Tuesday, November 3rd.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Grace_Slick"
+    "u": "https://en.wikipedia.org/wiki/Lulu_(singer)"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 60s"
@@ -746,55 +681,41 @@
      "sub": "Nation 70s"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Rock Icon",
-     "copy": "Tomorrow, the incredible Grace Slick turns 87! What's your favourite psychedelic anthem from Jefferson Airplane?",
+     "name": "Scottish Legend",
+     "copy": "Wishing a fantastic 78th birthday to the one and only Lulu this Tuesday! What's your favourite track from the Scottish superstar?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "14:30",
+     "time": "08:30",
      "tags": [
-      "#GraceSlick"
-     ]
-    },
-    {
-     "name": "White Rabbit Queen",
-     "copy": "Wishing a very happy 87th to the legendary voice behind some of rock's most iconic songs. Grace Slick, a true pioneer!",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "19:30",
-     "tags": [
-      "#JeffersonAirplane"
+      "#Lulu"
      ]
     }
    ]
   },
   {
-   "id": "anthony-kiedis-bday",
-   "off": 3,
+   "id": "birthday-diddy",
+   "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Anthony Kiedis Turns 64",
-   "blurb": "Red Hot Chili Peppers frontman Anthony Kiedis, known for his energetic performances and distinctive vocals, celebrates his 64th birthday on November 1st.",
+   "title": "Sean 'Diddy' Combs turns 57",
+   "blurb": "Music mogul Sean 'Diddy' Combs celebrates his 57th birthday on Wednesday, November 4th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Anthony_Kiedis"
+    "l": "SoundOD",
+    "u": "https://www.soundod.com/on-this-day/november-4-in-music-history/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -807,246 +728,69 @@
    ],
    "angles": [
     {
-     "name": "Rock Star Birthday",
-     "copy": "Get ready to rock! Anthony Kiedis of Red Hot Chili Peppers turns 64 this Sunday. What's your favourite RHCP track?",
+     "name": "Diddy's Day",
+     "copy": "Happy 57th birthday to the one and only Diddy this Wednesday! From Bad Boy Records to global icon, what's your favourite track he's produced or performed on?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#AnthonyKiedis"
-     ]
-    },
-    {
-     "name": "Funk Rock Legend",
-     "copy": "From 'Under the Bridge' to 'Californication', Anthony Kiedis has led one of the biggest bands in the world. Happy 64th for Sunday!",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#RHCP"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bryan-adams-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Bryan Adams Turns 67",
-   "blurb": "Canadian rock icon Bryan Adams, famous for power ballads and rock anthems, celebrates his 67th birthday on November 5th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bryan_Adams"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Summer of '69 Forever",
-     "copy": "It's Bryan Adams' birthday next Thursday! The Canadian rock legend turns 67. What's your ultimate Bryan Adams singalong?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "tiktok"
      ],
      "time": "10:00",
      "tags": [
-      "#BryanAdams"
-     ]
-    },
-    {
-     "name": "Rock Ballad King",
-     "copy": "From 'Everything I Do' to 'Run To You', Bryan Adams has given us decades of hits. Happy 67th for November 5th!",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#80sRock"
+      "#Diddy"
      ]
     }
    ]
   },
   {
-   "id": "joni-mitchell-bday",
-   "off": 9,
-   "type": "birthday",
+   "id": "cardiff-candlelight-concerts",
+   "off": 7,
+   "type": "gig",
    "hot": true,
-   "title": "Joni Mitchell Turns 83",
-   "blurb": "Legendary singer-songwriter Joni Mitchell, a highly influential figure in folk and jazz, celebrates her 83rd birthday on November 7th.",
+   "title": "Cardiff Candlelight Concerts",
+   "blurb": "Candlelight tribute concerts to Michael Jackson and Fleetwood Mac are scheduled at Llandaff Cathedral in Cardiff on Thursday, November 5th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Joni_Mitchell"
+    "l": "Cardiff Theatre",
+    "u": "https://www.cardifftheatre.co.uk/concerts-in-november-2026"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation 80s"
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Folk Legend",
-     "copy": "The iconic Joni Mitchell turns 83 this Saturday! Celebrate her incredible songwriting and timeless voice.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#JoniMitchell"
-     ]
-    },
-    {
-     "name": "Big Yellow Taxi",
-     "copy": "From 'Big Yellow Taxi' to 'Both Sides Now', Joni Mitchell's music has touched generations. Happy 83rd for November 7th!",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#FolkMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-classics-galore",
-   "off": 16,
-   "type": "gig",
-   "hot": false,
-   "title": "Classics Galore! Returns to Exeter",
-   "blurb": "The 'Classics Galore! Last Night of the Proms' concert returns to Exeter's University Great Hall on Saturday, November 14th, featuring over 200 musicians and singers to raise funds for FORCE Cancer Charity.",
-   "source": {
-    "l": "East Devon News",
-    "u": "https://eastdevonnews.co.uk/2026/10/28/last-night-of-the-proms-in-exeter-in-aid-of-force-cancer-charity/"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Exeter's Own Proms",
-     "copy": "Tickets are on sale now for Classics Galore! - Exeter's Last Night of the Proms – returning to the Great Hall on November 14th to support FORCE Cancer Charity. A fantastic night for a great cause!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#ExeterEvents"
-     ]
-    },
-    {
-     "name": "Music for a Cause",
-     "copy": "Enjoy an evening of orchestral and choral music with over 200 performers at Classics Galore! in Exeter. Book your tickets and support FORCE Cancer Charity.",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#FORCECancerCharity"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "welsh-water-newport-event",
-   "off": 12,
-   "type": "culture",
-   "hot": false,
-   "title": "Welsh Water Supplier Event in Newport",
-   "blurb": "Dŵr Cymru Welsh Water is hosting a major supplier engagement event at ICC Wales, Newport, on November 10th, aiming to maximise opportunities for local businesses in its £600 million infrastructure upgrade.",
-   "source": {
-    "l": "Dŵr Cymru Welsh Water",
-    "u": "https://www.dwrcymru.com/en/news-and-community/news-details?nid=3103"
-   },
-   "fits": [
     {
      "g": "welsh-local",
-     "sub": ""
+     "sub": "Bridge FM"
+    },
+    {
+     "g": "welsh-local",
+     "sub": "Swansea Bay Radio"
     },
     {
      "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Wales"
     }
    ],
    "angles": [
     {
-     "name": "Local Business Boost",
-     "copy": "Attention Welsh businesses! Dŵr Cymru Welsh Water is holding a major supplier event in Newport on November 10th for their huge infrastructure project. A great chance for local companies!",
+     "name": "Candlelit Tributes",
+     "copy": "Experience the magic! Candlelight tribute concerts for Michael Jackson and Fleetwood Mac are happening at Llandaff Cathedral in Cardiff next Thursday. Which one would you choose?",
      "channels": [
       "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "facebook"
      ],
-     "time": "09:00",
+     "time": "15:00",
      "tags": [
-      "#WelshBusiness"
-     ]
-    },
-    {
-     "name": "Newport Opportunities",
-     "copy": "Interested in supplying to a £600m project? Welsh Water's event at ICC Wales, Newport, next week is a must-attend for potential partners.",
-     "channels": [
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Newport"
+      "#CardiffEvents"
      ]
     }
    ]
