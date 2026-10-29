@@ -1,71 +1,35 @@
 {
- "updated": "2026-10-28T23:41:44.664Z",
+ "updated": "2026-10-29T03:01:48.132Z",
  "moments": [
   {
    "id": "halloween-weekend",
-   "off": 3,
+   "off": 0,
    "type": "seasonal",
    "hot": true,
-   "title": "Halloween Weekend",
-   "blurb": "The spookiest night of the year falls on Sunday, bringing a weekend of fancy dress parties and trick-or-treating across the UK.",
+   "title": "Halloween Weekend is Here!",
+   "blurb": "The spookiest weekend of the year kicks off, with Halloween falling on Saturday, October 31st, bringing fright nights, parties, and family events across the UK.",
    "source": {
-    "l": "National Calendar",
-    "u": "https://www.google.com/search?q=halloween+2026+uk"
+    "l": "Various UK Event Guides",
+    "u": "https://www.timeout.com/uk/things-to-do/halloween-events-uk"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Spooky Celebrations",
-     "copy": "Who's ready for a weekend of ghoulish fun? Halloween is officially on Sunday, so get those costumes ready! What's your favourite Halloween track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
     },
     {
-     "name": "Trick or Treat Prep",
-     "copy": "Don't forget to stock up on sweets! Halloween is just around the corner. Are you going all out with decorations this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "bonfire-night",
-   "off": 8,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Bonfire Night",
-   "blurb": "Guy Fawkes Night, or Bonfire Night, is celebrated across the UK with fireworks displays and bonfires on November 5th.",
-   "source": {
-    "l": "National Calendar",
-    "u": "https://www.google.com/search?q=bonfire+night+2026+uk"
-   },
-   "fits": [
+     "g": "welsh-local",
+     "sub": ""
+    },
     {
-     "g": "nation-network",
+     "g": "radio-exe",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Fireworks & Bonfires",
-     "copy": "Remember, remember the 5th of November! Bonfire Night is next Friday. Where are you heading for fireworks this year?",
+     "name": "UK-wide Scarefests",
+     "copy": "Get ready for a fright! Theme parks like Alton Towers, Thorpe Park, and Warwick Castle are going all out with their Scarefests and Haunted Castles until November 1st. What's your favourite spooky attraction?",
      "channels": [
       "instagram",
       "facebook",
@@ -73,11 +37,15 @@
       "tiktok",
       "threads"
      ],
-     "tags": []
+     "time": "08:00",
+     "tags": [
+      "#HalloweenUK"
+     ]
     },
     {
-     "name": "Autumn Traditions",
-     "copy": "Wrap up warm! Bonfire Night traditions are almost upon us. What's your favourite thing about Guy Fawkes Night?",
+     "name": "Local Halloween Fun",
+     "for": "welsh-local",
+     "copy": "From Calan Gaeaf at Dinefwr to Ffear Fforest at Zip World, Wales is buzzing with Halloween activities this weekend. Don't miss the Halloween Nights at St Fagans or the Steam & Scream trains!",
      "channels": [
       "instagram",
       "facebook",
@@ -85,17 +53,36 @@
       "tiktok",
       "threads"
      ],
-     "tags": []
+     "time": "10:00",
+     "tags": [
+      "#HalloweenWales"
+     ]
+    },
+    {
+     "name": "Exeter Spooks",
+     "for": "radio-exe",
+     "copy": "Exeter's getting spooky! From Silent Discos at the Museum to various club nights, there are plenty of ways to celebrate Halloween in Devon this weekend. What are your plans?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#HalloweenExeter"
+     ]
     }
    ]
   },
   {
-   "id": "premier-league-oct31-nov2",
-   "off": 3,
+   "id": "premier-league-weekend",
+   "off": 2,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Weekend",
-   "blurb": "Key Premier League clashes this weekend include Chelsea vs Man Utd, Man City vs Brighton on Saturday, and Liverpool vs Arsenal on Sunday.",
+   "title": "Premier League Showdowns",
+   "blurb": "Matchweek 9 of the Premier League kicks off this Saturday with big clashes including Chelsea v Man Utd and Tottenham v Crystal Palace, followed by Liverpool v Arsenal on Sunday.",
    "source": {
     "l": "Premier League",
     "u": "https://www.premierleague.com/fixtures"
@@ -108,85 +95,44 @@
    ],
    "angles": [
     {
-     "name": "Big Games Ahead",
-     "copy": "Massive Premier League weekend coming up! Chelsea face Man Utd and Liverpool take on Arsenal. Who are you backing?",
+     "name": "Saturday Fixtures",
+     "copy": "Premier League action is back! Saturday sees Chelsea take on Man Utd at 12:30, Spurs host Crystal Palace at 17:30, and Aston Villa face Fulham at 20:00. Who are you backing?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "tags": []
+     "time": "14:00",
+     "tags": [
+      "#PremierLeague"
+     ]
     },
     {
-     "name": "Saturday Showdowns",
-     "copy": "It's a big Saturday in the Premier League with Chelsea vs Man Utd and Man City vs Brighton. Predictions?",
+     "name": "Sunday Big Game",
+     "copy": "Sunday's a big one! Liverpool clash with Arsenal at 16:30 in a crucial top-of-the-table encounter. Tune in for all the build-up!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "tags": []
+     "time": "16:00",
+     "tags": [
+      "#LIVARS"
+     ]
     }
    ]
   },
   {
-   "id": "champions-league-nov3-4",
-   "off": 6,
-   "type": "sport",
+   "id": "bonfire-night-approaches",
+   "off": 7,
+   "type": "seasonal",
    "hot": true,
-   "title": "Champions League Matchday 4",
-   "blurb": "The UEFA Champions League continues with Matchday 4 on November 3rd and 4th, featuring major fixtures including Man Utd vs Roma and Fenerbahçe vs Liverpool.",
+   "title": "Bonfire Night is Next Week",
+   "blurb": "Guy Fawkes Night is on Thursday, November 5th, with many firework displays and bonfires planned for the surrounding weekend of November 7th and 8th across the UK.",
    "source": {
-    "l": "UEFA Champions League",
-    "u": "https://www.uefa.com/uefachampionsleague/fixtures-results/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Midweek European Action",
-     "copy": "Champions League action returns next week! Man Utd host Roma, and Liverpool travel to Fenerbahçe. Who's making it through?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    },
-    {
-     "name": "UCL Matchday 4",
-     "copy": "Get ready for another round of UEFA Champions League fixtures next Tuesday and Wednesday. Which game are you most excited for?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "autumn-internationals-rugby",
-   "off": 9,
-   "type": "sport",
-   "hot": true,
-   "title": "Autumn Nations Series Kicks Off",
-   "blurb": "The Autumn Nations Series of Rugby Union begins next week with Ireland v Argentina on Nov 6, Scotland v New Zealand on Nov 7, and Wales v Japan also on Nov 7.",
-   "source": {
-    "l": "Autumn Nations Series",
-    "u": "https://www.autumnnationsseries.com/fixtures/"
+    "l": "Visit London",
+    "u": "https://www.visitlondon.com/things-to-do/whats-on/seasonal/bonfire-night-fireworks"
    },
    "fits": [
     {
@@ -194,365 +140,278 @@
      "sub": ""
     },
     {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
      "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Rugby Returns",
-     "copy": "The Autumn Nations Series is here! Ireland, Scotland, and Wales are all in action next week. Who are you supporting?",
+     "name": "Get Ready for Sparks",
+     "copy": "Remember, remember, the 5th of November! Bonfire Night is just around the corner. Many spectacular firework displays are planned for the weekend of 7th-8th November. Where will you be watching from?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
       "threads"
      ],
-     "tags": []
+     "time": "11:00",
+     "tags": [
+      "#BonfireNight"
+     ]
     },
     {
-     "name": "Wales v Japan",
-     "for": "welsh-local",
-     "copy": "Wales take on Japan at the Principality Stadium next Saturday! Get ready to cheer on the boys in red. C'mon Cymru!",
+     "name": "London Fireworks",
+     "for": "nation-network",
+     "copy": "London's skies will light up for Bonfire Night! Look out for events at Ally Pally, Battersea Park, and Wimbledon Park over the weekend of Nov 7/8.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "tags": []
+     "time": "13:00",
+     "tags": [
+      "#LondonFireworks"
+     ]
+    },
+    {
+     "name": "Exeter's Display",
+     "for": "radio-exe",
+     "copy": "Exeter's 'Galactic Skies Charity Fireworks and Drone Event' is set for November 7th! Get ready for a spectacular show for a good cause.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ExeterFireworks"
+     ]
     }
    ]
   },
   {
-   "id": "gbbo-ongoing",
+   "id": "uk-singles-chart-update",
    "off": 0,
-   "type": "tv",
+   "type": "culture",
    "hot": true,
-   "title": "Great British Bake Off Continues",
-   "blurb": "The Great British Bake Off 2026 series is ongoing, with new judge Nigella Lawson joining Paul Hollywood in the tent.",
+   "title": "Latest UK Singles Chart Hits",
+   "blurb": "The Official UK Singles Chart for the week ending October 29, 2026, sees Sam Fender & Olivia Dean at Number 1 with 'Rein Me In,' alongside other popular tracks.",
    "source": {
-    "l": "Channel 4",
-    "u": "https://www.channel4.com/programmes/the-great-british-bake-off"
+    "l": "UK Charts",
+    "u": "https://www.uk-charts.com/2026/top-100-2026-week-42"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bake Off Buzz",
-     "copy": "It's another week in the Bake Off tent! Who's your favourite baker to win this year? And how are we feeling about Nigella as a judge?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
+     "g": "decades-genres",
+     "sub": "Nation Hits"
     },
-    {
-     "name": "Technical Challenge",
-     "copy": "Soggy bottoms or showstopper? The Great British Bake Off continues tonight. What's been your favourite challenge so far?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "nelly-bday",
-   "off": 5,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 52nd Birthday, Nelly",
-   "blurb": "Grammy-winning rapper Nelly, known for hits like 'Hot in Herre' and 'Dilemma', turns 52 on November 2nd. He was born in 1974.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Nelly"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation 00s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Toppers",
+     "copy": "Fresh from the Official UK Singles Chart! Sam Fender & Olivia Dean are at Number 1 with 'Rein Me In'. What's your favourite track from the latest Top 10?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#UKSinglesChart"
+     ]
     },
+    {
+     "name": "New Entries & Movers",
+     "copy": "Ella Langley's 'Choosin' Texas' and RAYE's 'Where Is My Husband!' are still making waves in the Top 10 this week. Who else is dominating the airwaves?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "abba-voyage-london",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "ABBA Voyage Continues in London",
+   "blurb": "The groundbreaking ABBA Voyage concert experience continues its run at the custom-built ABBA Arena in London, offering fans a unique digital performance.",
+   "source": {
+    "l": "London Theatreland",
+    "u": "https://www.londontheatreland.co.uk/london-shows/abba-voyage-tickets/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Experiencing ABBA",
+     "copy": "Still haven't been to ABBA Voyage? The incredible digital concert experience is still dazzling audiences at the ABBA Arena in London. It's the closest thing to time travel!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#ABBAVoyage"
+     ]
+    },
+    {
+     "name": "Timeless Pop",
+     "copy": "Waterloo, Dancing Queen, Mamma Mia... ABBA's hits are timeless. Catch the magic of ABBA Voyage in London if you can!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#ABBA"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "steven-wilson-royal-albert-hall",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Steven Wilson at Royal Albert Hall",
+   "blurb": "Progressive rock artist Steven Wilson concludes his two-night residency at the Royal Albert Hall in London tonight, October 29th.",
+   "source": {
+    "l": "London Theatreland",
+    "u": "https://www.londontheatreland.co.uk/concerts/steven-wilson-royal-albert-hall/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Prog Rock Live",
+     "copy": "Tonight's the last chance to catch Steven Wilson at the iconic Royal Albert Hall! What an incredible two nights for prog rock fans in London.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#StevenWilson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cinematic-orchestra-st-pauls",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "The Cinematic Orchestra at St. Paul's Cathedral",
+   "blurb": "The Cinematic Orchestra performs a special show at St. Paul's Cathedral in London tonight, October 29th.",
+   "source": {
+    "l": "JamBase",
+    "u": "https://www.jambase.com/show/the-cinematic-orchestra-st-pauls-cathedral-london-20261029"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Dance"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Nelly's Birthday",
-     "copy": "It's Nelly's 52nd birthday on November 2nd! What's your favourite track from the 'Hot in Herre' hitmaker?",
+     "name": "Unique Venue Gig",
+     "copy": "Tonight in London: The Cinematic Orchestra play a unique show at the magnificent St. Paul's Cathedral. What an atmosphere that will be!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "tags": []
-    },
-    {
-     "name": "Throwback Nelly",
-     "copy": "Celebrating Nelly's birthday next week! Still got 'Dilemma' on repeat? Let us know your top Nelly tune!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
+     "time": "17:00",
+     "tags": [
+      "#TheCinematicOrchestra"
+     ]
     }
    ]
   },
   {
-   "id": "bryan-adams-bday",
-   "off": 8,
-   "type": "birthday",
+   "id": "james-blake-bristol",
+   "off": 0,
+   "type": "gig",
    "hot": true,
-   "title": "Happy 67th Birthday, Bryan Adams",
-   "blurb": "Canadian rock icon Bryan Adams, famous for 'Summer of 69' and '(Everything I Do) I Do It for You', celebrates his 67th birthday on November 5th. He was born in 1959.",
+   "title": "James Blake's 'Trying Times' Tour in Bristol",
+   "blurb": "James Blake concludes his two-night 'Trying Times' UK tour stop in Bristol tonight, October 29th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bryan_Adams"
+    "l": "Tickets for Good",
+    "u": "https://www.ticketsforgood.org/blog/uk-concerts-and-tours-in-2026/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Dance"
     },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Bryan Adams Rocks 67",
-     "copy": "Happy 67th Birthday to the legendary Bryan Adams on November 5th! What's your ultimate Bryan Adams power ballad?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    },
-    {
-     "name": "Summer of '69 Forever",
-     "copy": "It's Bryan Adams' birthday next week! Still cranking 'Summer of 69'? Tell us your favourite memory associated with his music.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "lorde-bday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 30th Birthday, Lorde",
-   "blurb": "New Zealand singer-songwriter Lorde, known for her breakout hit 'Royals', turns 30 on November 7th. She was born in 1996.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Lorde"
-   },
-   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Lorde Turns 30",
-     "copy": "Can you believe Lorde turns 30 next week? 'Royals' feels like yesterday! What's your favourite track from her?",
+     "name": "Bristol's Electronic Sound",
+     "copy": "Bristol fans, it's your last chance to see James Blake on his 'Trying Times' tour tonight! His immersive electronic sound live is not to be missed.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "tags": []
-    },
-    {
-     "name": "Celebrating Lorde",
-     "copy": "Happy 30th to Lorde on November 7th! Which of her albums is your go-to?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "manic-street-preachers-suede-cardiff",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "Manic Street Preachers & Suede in Cardiff",
-   "blurb": "Welsh rock legends Manic Street Preachers co-headline with Suede at Utilita Arena Cardiff on November 4th.",
-   "source": {
-    "l": "Utilita Arena Cardiff",
-    "u": "https://www.utilitaarenacardiff.co.uk/events/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Icons Live",
-     "for": "welsh-local",
-     "copy": "Manic Street Preachers and Suede are live in Cardiff next Wednesday! Who's got tickets to see these legends?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    },
-    {
-     "name": "Gig of the Week",
-     "copy": "Two iconic bands, one stage! Manic Street Preachers and Suede hit Cardiff's Utilita Arena on Nov 4th. What's your ultimate track from either band?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "paul-heaton-cardiff",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Paul Heaton in Cardiff",
-   "blurb": "Singer-songwriter Paul Heaton, known for The Housemartins and The Beautiful South, plays Utilita Arena Cardiff on November 2nd.",
-   "source": {
-    "l": "Utilita Arena Cardiff",
-    "u": "https://www.utilitaarenacardiff.co.uk/events/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Heaton Live in Cardiff",
-     "for": "welsh-local",
-     "copy": "Paul Heaton is bringing his incredible back catalogue to Utilita Arena Cardiff next Monday! Who's excited?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    },
-    {
-     "name": "Legendary Songwriter",
-     "copy": "From The Housemartins to The Beautiful South, Paul Heaton is a true legend. Catch him live in Cardiff on Nov 2nd!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
+     "time": "18:00",
+     "tags": [
+      "#JamesBlake"
+     ]
     }
    ]
   },
@@ -561,11 +420,11 @@
    "off": 0,
    "type": "gig",
    "hot": true,
-   "title": "Huey Morgan in Exeter",
-   "blurb": "Former Fun Lovin' Criminals frontman Huey Morgan is performing at Exeter Phoenix tonight, October 28th.",
+   "title": "Huey Morgan in Exeter Tonight",
+   "blurb": "Huey Morgan of Fun Lovin' Criminals brings his Autumn Tour to Exeter Phoenix tonight, October 29th.",
    "source": {
-    "l": "Exeter Phoenix",
-    "u": "https://exeterphoenix.org.uk/events/huey-morgan-the-fun-lovin-criminal/"
+    "l": "EventsList.co.uk",
+    "u": "https://www.eventslist.co.uk/exeter/october-2026-events"
    },
    "fits": [
     {
@@ -583,103 +442,36 @@
    ],
    "angles": [
     {
-     "name": "Huey in Exeter Tonight",
+     "name": "Fun Lovin' Night",
      "for": "radio-exe",
-     "copy": "Live in Exeter tonight! Huey Morgan from Fun Lovin' Criminals is at Exeter Phoenix. Who's heading down?",
+     "copy": "Exeter! Huey Morgan is at Exeter Phoenix tonight for his Autumn Tour. Get ready for some Fun Lovin' Criminals classics and more!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "tags": []
-    },
-    {
-     "name": "Fun Lovin' Criminals Icon",
-     "copy": "Catch the legendary Huey Morgan performing live tonight! If you're in Exeter, get to Exeter Phoenix!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
+     "time": "18:30",
+     "tags": [
+      "#HueyMorgan"
+     ]
     }
    ]
   },
   {
-   "id": "diddy-bday",
-   "off": 7,
+   "id": "randy-jackson-birthday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Happy 57th Birthday, Sean 'Diddy' Combs",
-   "blurb": "Music mogul and rapper Sean 'Diddy' Combs, known for his influential career in hip-hop and R&B, celebrates his 57th birthday on November 4th. He was born in 1969.",
+   "title": "Happy 65th to Randy Jackson",
+   "blurb": "Randy Jackson, the youngest brother of The Jackson 5, celebrates his 65th birthday today!",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Sean_Combs"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/october29.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Diddy's Birthday",
-     "copy": "Celebrating Sean 'Diddy' Combs' 57th birthday on November 4th! What's your favourite Diddy-produced track or collaboration?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    },
-    {
-     "name": "Hip-Hop Icon",
-     "copy": "A true force in music, Diddy turns 57 next week! From Bad Boy Records to global hits, what's his most iconic moment for you?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
-    }
-   ]
-  },
-  {
-   "id": "joni-mitchell-bday",
-   "off": 10,
-   "type": "birthday",
-   "hot": true,
-   "title": "Happy 83rd Birthday, Joni Mitchell",
-   "blurb": "Iconic Canadian singer-songwriter Joni Mitchell, celebrated for her poetic lyrics and unique musical style, turns 83 on November 7th. She was born in 1943.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Joni_Mitchell"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
@@ -687,115 +479,118 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation 80s"
     },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jackson 5 Memories",
+     "copy": "Wishing a very happy 65th birthday to Randy Jackson! From The Jackson 5 to solo success, he's been a part of music history.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#RandyJackson"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "melba-moore-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Melba Moore Turns 81",
+   "blurb": "Legendary R&B and Broadway singer Melba Moore celebrates her 81st birthday today.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/october29.html"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Joni at 83",
-     "copy": "Happy 83rd Birthday to the incomparable Joni Mitchell on November 7th! What's the Joni song that speaks to you most?",
+     "name": "R&B Icon",
+     "copy": "Happy 81st birthday to the incredible Melba Moore! A true icon of R&B and Broadway. What's your favourite Melba Moore track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "tags": []
-    },
-    {
-     "name": "Legendary Songwriter",
-     "copy": "Celebrating the enduring artistry of Joni Mitchell next week! Her influence is immeasurable. What's your favourite album?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
+     "time": "13:30",
+     "tags": [
+      "#MelbaMoore"
+     ]
     }
    ]
   },
   {
-   "id": "the-proclaimers-swansea",
-   "off": 11,
-   "type": "gig",
-   "hot": false,
-   "title": "The Proclaimers in Swansea",
-   "blurb": "Scottish duo The Proclaimers bring their hits to Swansea Arena on November 8th.",
+   "id": "roger-odonnell-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Roger O'Donnell is 71",
+   "blurb": "Roger O'Donnell, keyboardist for The Cure, celebrates his 71st birthday today.",
    "source": {
-    "l": "Swansea Arena",
-    "u": "https://www.swansea-arena.co.uk/events/the-proclaimers/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Roger_O%27Donnell"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": "Swansea Bay Radio"
-    },
-    {
-     "g": "dragon",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Proclaimers in Swansea",
-     "for": "welsh-local",
-     "copy": "I would walk 500 miles... to see The Proclaimers! They're at Swansea Arena on November 8th. Who's going?",
+     "name": "The Cure's Keys",
+     "copy": "Happy 71st birthday to Roger O'Donnell, the brilliant keyboardist for The Cure! What's your favourite Cure song?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "tags": []
-    },
-    {
-     "name": "Sunshine on Leith Live",
-     "copy": "Get ready for a night of anthems! The Proclaimers are in Swansea next week. What's your favourite singalong track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "tags": []
+     "time": "15:30",
+     "tags": [
+      "#TheCure"
+     ]
     }
    ]
   },
   {
-   "id": "official-singles-chart",
+   "id": "fleur-east-birthday",
    "off": 0,
-   "type": "culture",
+   "type": "birthday",
    "hot": true,
-   "title": "UK Official Singles Chart Update",
-   "blurb": "The latest Official UK Singles Chart is out, with new entries and battles for the top spots. Taylor Swift and Sienna Spiro have recently been high in the charts.",
+   "title": "Fleur East Turns 39",
+   "blurb": "Singer, rapper, and presenter Fleur East celebrates her 39th birthday today.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/october29.html"
    },
    "fits": [
     {
@@ -803,34 +598,161 @@
      "sub": "Nation Hits"
     },
     {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Fleur",
+     "copy": "Wishing a very happy 39th birthday to the fantastic Fleur East! From X Factor to radio and TV, she's always entertaining.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#FleurEast"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "blue-lights-s4-finale",
+   "off": 5,
+   "type": "tv",
+   "hot": true,
+   "title": "Blue Lights Season 4 Finale Approaches",
+   "blurb": "The acclaimed BBC police drama 'Blue Lights' Season 4, which premiered on September 29th with a full box set on iPlayer, airs its final weekly episodes through November 3rd.",
+   "source": {
+    "l": "Telly Visions",
+    "u": "https://tellyvisions.org/article/british-tv-status-updates-october-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Last Call for Blue Lights",
+     "copy": "Have you been gripped by 'Blue Lights' Season 4? The critically acclaimed police drama airs its final weekly episodes this week, concluding its run by November 3rd. Catch up on iPlayer!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BlueLights"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wonderland-spies-bbc-select",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "New Spy Docuseries on BBC Select",
+   "blurb": "A new docuseries, 'Wonderland: Secrets of the Spymasters & Spies Season 1,' premieres today, October 29th, on BBC Select.",
+   "source": {
+    "l": "Telly Visions",
+    "u": "https://tellyvisions.org/article/everything-coming-to-britbox-acorn-tv-in-october-2026"
+   },
+   "fits": [
+    {
      "g": "nation-network",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Chart Battle",
-     "copy": "Who's topping the Official Singles Chart this week? Always a battle for that #1 spot! Any predictions?",
+     "name": "Spy Secrets Revealed",
+     "copy": "Intrigued by the world of espionage? 'Wonderland: Secrets of the Spymasters & Spies Season 1' premieres today on BBC Select, delving into the world of spymasters.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "tags": []
-    },
+     "time": "14:00",
+     "tags": [
+      "#SpyDocumentary"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exeter-chiefs-rugby",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "Exeter Chiefs in Premiership Rugby",
+   "blurb": "Exeter Chiefs play Sale Sharks at home in Premiership Rugby on Saturday, October 31st at 3 PM.",
+   "source": {
+    "l": "TNT Sports",
+    "u": "https://www.tntsports.co.uk/rugby/premiership-rugby/2026-2027/schedule-results.shtml"
+   },
+   "fits": [
     {
-     "name": "New Music Vibes",
-     "copy": "Lots of new entries shaking up the chart! What new track are you loving from the Top 40?",
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chiefs Home Game",
+     "for": "radio-exe",
+     "copy": "Big game for Exeter Chiefs this Saturday! They take on Sale Sharks at Sandy Park in Premiership Rugby at 3 PM. Get behind the lads!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "tags": []
+     "time": "15:00",
+     "tags": [
+      "#ExeterChiefs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bristol-leicester-rugby",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "Premiership Rugby: Bristol vs Leicester",
+   "blurb": "Bristol Bears host Leicester Tigers in Premiership Rugby tomorrow, October 30th, at 7:45 PM.",
+   "source": {
+    "l": "TNT Sports",
+    "u": "https://www.tntsports.co.uk/rugby/premiership-rugby/2026-2027/schedule-results.shtml"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Friday Night Rugby",
+     "copy": "Premiership Rugby action tomorrow night! Bristol Bears clash with Leicester Tigers at 7:45 PM. Who's taking the win?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#PremRugby"
+     ]
     }
    ]
   }
