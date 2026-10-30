@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-30T19:46:02.687Z",
+ "updated": "2026-10-30T23:20:09.069Z",
  "moments": [
   {
-   "id": "halloween-uk-2026",
+   "id": "halloween-2026",
    "off": 1,
    "type": "seasonal",
    "hot": true,
-   "title": "Halloween Weekend Across the UK",
-   "blurb": "Halloween is celebrated across the UK on Saturday, October 31st, with many themed events and parties running throughout the weekend.",
+   "title": "Halloween arrives!",
+   "blurb": "The spooky season culminates tomorrow, October 31st, with Halloween celebrations across the UK for families and adults alike.",
    "source": {
-    "l": "VisitBritain / Time and Date",
+    "l": "Time and Date",
     "u": "https://www.timeanddate.com/holidays/uk/halloween"
    },
    "fits": [
@@ -20,8 +20,124 @@
    ],
    "angles": [
     {
-     "name": "Spooky Saturday",
-     "copy": "It's Halloween tomorrow! Are your pumpkins carved and costumes ready for a frightfully fun Saturday night?",
+     "name": "Trick or Treat",
+     "copy": "Tomorrow's the day for ghosts, ghouls, and way too much candy! What are your Halloween plans?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#Halloween"
+     ]
+    },
+    {
+     "name": "Spooky Night In",
+     "copy": "If trick-or-treating isn't your bag, what's your go-to scary movie or Halloween playlist for a spooky night in?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#HalloweenNight"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "grace-slick-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Grace Slick is 87",
+   "blurb": "Legendary Jefferson Airplane and Jefferson Starship vocalist Grace Slick celebrates her 87th birthday today, October 30, 2026.",
+   "source": {
+    "l": "National Today",
+    "u": "https://nationaltoday.com/grace-slick-birthday/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "White Rabbit Icon",
+     "copy": "Happy 87th to the incredible Grace Slick! Her voice defined an era with classics like 'White Rabbit' and 'Somebody to Love'. Still sounds as powerful today.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#GraceSlick"
+     ]
+    },
+    {
+     "name": "Psychedelic Pioneer",
+     "copy": "Grace Slick, the iconic frontwoman of Jefferson Airplane, turns 87! A true pioneer of psychedelic rock and a voice that commanded attention.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#JeffersonAirplane"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "duran-duran-o2",
+   "off": 1,
+   "type": "gig",
+   "hot": true,
+   "title": "Duran Duran at The O2",
+   "blurb": "New Wave legends Duran Duran play a Halloween show at London's O2 Arena tomorrow, October 31st.",
+   "source": {
+    "l": "The O2",
+    "u": "https://www.theo2.co.uk/events/detail/duran-duran-2026"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Halloween Treat",
+     "copy": "Feeling Hungry Like The Wolf? Duran Duran are at The O2 tomorrow for a special Halloween gig! Who's going to be there?",
      "channels": [
       "instagram",
       "facebook",
@@ -31,91 +147,31 @@
      ],
      "time": "10:00",
      "tags": [
-      "#Halloween2026"
+      "#DuranDuran"
      ]
     },
     {
-     "name": "Family Fun",
-     "copy": "Pumpkin patches, spooky trails, and trick-or-treating – how are you celebrating Halloween with the family this year? Many events are on all weekend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#HalloweenUK"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bonfire-night-uk-2026",
-   "off": 6,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Bonfire Night Approaches",
-   "blurb": "Guy Fawkes Night, also known as Bonfire Night, is celebrated annually on Thursday, November 5th, with many firework displays scheduled across the UK throughout the surrounding weekend.",
-   "source": {
-    "l": "Time and Date",
-    "u": "https://www.timeanddate.com/holidays/uk/guy-fawkes-day"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Remember, Remember",
-     "copy": "Bonfire Night is just around the corner! Where are you heading for your fireworks fix this year? Big displays are planned for the 5th and surrounding weekend.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#BonfireNight"
-     ]
-    },
-    {
-     "name": "Local Displays",
-     "copy": "Get ready for rockets and sparklers! Bonfire Night is next Thursday, but many local displays will be lighting up the skies this weekend and next. Check local listings for details.",
+     "name": "80s Icons Live",
+     "copy": "Duran Duran bringing the New Wave magic to London's O2 Arena tomorrow night. Get ready for some iconic hits!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "15:00",
      "tags": [
-      "#GuyFawkes"
+      "#TheO2"
      ]
     }
    ]
   },
   {
-   "id": "premier-league-oct31-nov1-2026",
-   "off": 0,
+   "id": "liverpool-arsenal",
+   "off": 2,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Weekend Kicks Off",
-   "blurb": "A busy Premier League weekend features Chelsea vs Man Utd and Man City vs Brighton on Saturday, followed by a huge Liverpool vs Arsenal clash on Sunday.",
+   "title": "Premier League: Liverpool vs Arsenal",
+   "blurb": "A huge Premier League clash sees Liverpool host Arsenal at Anfield on Sunday, November 1st, kicking off at 4:30 PM.",
    "source": {
     "l": "Premier League",
     "u": "https://www.premierleague.com/fixtures"
@@ -128,23 +184,27 @@
    ],
    "angles": [
     {
-     "name": "Saturday Showdowns",
-     "copy": "Premier League action is ON! Chelsea host Man Utd at 5:30pm, while Man City take on Brighton. Who are you backing today?",
+     "name": "Top Flight Battle",
+     "copy": "Sunday afternoon means a massive Premier League showdown! Liverpool take on Arsenal at Anfield. Who are you backing?",
      "channels": [
+      "instagram",
+      "facebook",
       "x",
-      "facebook"
+      "tiktok",
+      "threads"
      ],
-     "time": "15:00",
+     "time": "11:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Sunday Blockbuster",
-     "copy": "Get ready for a massive Sunday! Liverpool face Arsenal at Anfield. Will the Gunners keep their title push going or can the Reds claim all three points?",
+     "name": "Title Race Impact",
+     "copy": "This weekend's biggest fixture: Liverpool vs Arsenal. Huge implications for the title race. What's your score prediction?",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
      "time": "18:00",
      "tags": [
@@ -154,226 +214,85 @@
    ]
   },
   {
-   "id": "champions-league-nov3-4-2026",
-   "off": 4,
-   "type": "sport",
+   "id": "anthony-kiedis-bday",
+   "off": 2,
+   "type": "birthday",
    "hot": true,
-   "title": "Champions League Matchday 4",
-   "blurb": "The UEFA Champions League returns next week for Matchday 4, with UK teams in action including Aston Villa vs Barcelona and Man Utd vs Roma on Tuesday, and Arsenal vs SK Slavia Praha and Man City vs RB Leipzig on Wednesday.",
+   "title": "Anthony Kiedis turns 64",
+   "blurb": "Red Hot Chili Peppers frontman Anthony Kiedis celebrates his 64th birthday on Sunday, November 1, 2026.",
    "source": {
-    "l": "UEFA",
-    "u": "https://www.uefa.com/uefachampionsleague/fixtures-results/"
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Anthony+Kiedis+birth+date"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "European Nights",
-     "copy": "Champions League is back! Tuesday sees Aston Villa take on Barcelona and Man Utd face Roma. Huge tests for the English sides!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#UCL"
-     ]
-    },
-    {
-     "name": "Midweek Clashes",
-     "copy": "Who will dominate in Europe? Arsenal and Man City are both in Champions League action next Wednesday. Don't miss it!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ChampionsLeague"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rugby-autumn-internationals-2026",
-   "off": 7,
-   "type": "sport",
-   "hot": true,
-   "title": "Autumn Nations Championship Begins",
-   "blurb": "The inaugural Autumn Nations Championship kicks off next week, with Ireland vs Argentina on Nov 6, Scotland vs New Zealand and Wales vs Japan on Nov 7, and England vs Australia on Nov 8.",
-   "source": {
-    "l": "Autumn Internationals",
-    "u": "https://www.autumn-internationals.co.uk/fixtures"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "England's Opener",
-     "copy": "England kick off their Autumn Nations Championship campaign against Australia at Twickenham on Sunday, Nov 8th. Get ready for some thrilling rugby!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#AutumnNations"
-     ]
-    },
-    {
-     "name": "Wales & Scotland Home Games",
-     "copy": "Wales host Japan in Cardiff and Scotland face New Zealand in Edinburgh next Saturday, Nov 7th, as the Autumn Nations Championship gets underway. Huge games for the home nations!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#WALvJPN",
-      "#SCOvNZL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rlwc-england-exit-2026",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "England Men's Rugby League World Cup Exit",
-   "blurb": "England men's rugby league team faces an early exit from the Rugby League World Cup 2026, marking a defining moment for the sport in the country.",
-   "source": {
-    "l": "The Guardian",
-    "u": "https://www.theguardian.com/sport/2026/oct/30/england-rugby-league-world-cup-exit"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "World Cup Disappointment",
-     "copy": "Tough news for England fans as the men's rugby league team faces an early World Cup exit. What do you think this means for the future of the sport?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#RLWC2026"
-     ]
-    },
-    {
-     "name": "Rugby League Reaction",
-     "copy": "The rugby league world is reacting to England's early World Cup departure. Share your thoughts on the team's performance.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#EnglandRL"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jamie-miller-babydoll-no1",
-   "off": -7,
-   "type": "culture",
-   "hot": true,
-   "title": "Jamie Miller's 'Babydoll' Tops UK Chart",
-   "blurb": "Welsh singer Jamie Miller earned his first UK number-one single with 'Babydoll' on the chart dated October 23, 2026, becoming the first Welsh artist to do so in 15 years.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Chart Topper",
-     "copy": "Huge congrats to Welsh singer Jamie Miller! His track 'Babydoll' hit #1 last week, making him the first Welsh artist to top the charts in 15 years!",
+     "name": "RHCP Legend",
+     "copy": "Happy 64th Birthday to the iconic Anthony Kiedis! The voice of the Red Hot Chili Peppers, still bringing the funk and energy.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok"
+      "threads"
      ],
-     "time": "11:00",
+     "time": "09:30",
      "tags": [
-      "#JamieMiller"
+      "#AnthonyKiedis"
      ]
     },
     {
-     "name": "New No.1 Success",
-     "copy": "Still buzzing about Jamie Miller's 'Babydoll' hitting the top spot! What a massive achievement for the Welsh star. Have you streamed it today?",
+     "name": "Funk Rock Frontman",
+     "copy": "From 'Under the Bridge' to 'Californication', Anthony Kiedis has fronted RHCP for decades. Wishing him a very happy 64th today!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "16:30",
      "tags": [
-      "#Babydoll"
+      "#RedHotChiliPeppers"
      ]
     }
    ]
   },
   {
-   "id": "chris-slade-birthday-oct30",
-   "off": 0,
+   "id": "mags-furuholmen-bday",
+   "off": 2,
    "type": "birthday",
-   "hot": true,
-   "title": "Welsh Drummer Chris Slade is 80",
-   "blurb": "Welsh drummer Chris Slade, known for his work with AC/DC, Uriah Heep, and Manfred Mann's Earth Band, celebrates his 80th birthday today.",
+   "hot": false,
+   "title": "Mags Furuholmen is 64",
+   "blurb": "Magne Furuholmen, keyboardist and songwriter for Norwegian synth-pop band A-ha, turns 64 on Sunday, November 1, 2026.",
    "source": {
-    "l": "Songfacts",
-    "u": "https://www.songfacts.com/this-day-in-music/october-30"
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Magne+Furuholmen+birth+date"
    },
    "fits": [
     {
-     "g": "welsh-local",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation 80s"
     },
     {
-     "g": "dragon",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Welsh Rock Drummer",
-     "copy": "Happy 80th birthday to Welsh rock legend Chris Slade! From AC/DC to Uriah Heep, his drumming has powered some massive bands. What's your favourite track he played on?",
+     "name": "A-ha's Keys",
+     "copy": "Take On Me! A big 64th birthday shout-out to Magne Furuholmen, the talented keyboardist and songwriter from A-ha.",
      "channels": [
       "instagram",
       "facebook",
@@ -381,12 +300,122 @@
      ],
      "time": "12:00",
      "tags": [
-      "#ChrisSlade"
+      "#Aha"
      ]
     },
     {
-     "name": "ACDC Drummer's Milestone",
-     "copy": "Celebrating Welsh powerhouse drummer Chris Slade on his 80th birthday! A true force behind the kit for decades. Give him some love!",
+     "name": "Synth-Pop Master",
+     "copy": "Wishing a happy 64th to Magne Furuholmen of A-ha! His synth-pop magic created some of the 80s' most memorable tunes.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#80sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nelly-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Nelly turns 52",
+   "blurb": "Grammy-winning rapper, singer, and entrepreneur Nelly celebrates his 52nd birthday on Monday, November 2, 2026.",
+   "source": {
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Nelly+birth+date"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hot In Herre",
+     "copy": "It's Nelly's 52nd birthday! From 'Hot In Herre' to 'Dilemma', he dominated the charts. What's your favourite Nelly track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Nelly"
+     ]
+    },
+    {
+     "name": "Hip Hop Star",
+     "copy": "Happy 52nd to the one and only Nelly! Still got those St. Louis vibes and classic hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#00sMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kd-lang-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": false,
+   "title": "k.d. lang is 65",
+   "blurb": "Acclaimed Canadian singer-songwriter k.d. lang celebrates her 65th birthday on Monday, November 2, 2026.",
+   "source": {
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=k.d.+lang+birth+date"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Powerhouse Vocalist",
+     "copy": "Wishing a very happy 65th birthday to the incredible k.d. lang! A voice like no other, captivating audiences for decades.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#kdlang"
+     ]
+    },
+    {
+     "name": "Canadian Icon",
+     "copy": "From 'Constant Craving' to her stunning interpretations, k.d. lang is a true musical icon. Happy 65th birthday!",
      "channels": [
       "instagram",
       "facebook",
@@ -394,7 +423,735 @@
      ],
      "time": "16:00",
      "tags": [
-      "#ACDC"
+      "#CanadianMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "adam-ant-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Adam Ant turns 72",
+   "blurb": "New Wave icon Adam Ant, born Stuart Leslie Goddard, celebrates his 72nd birthday on Tuesday, November 3, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Adam_Ant"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Prince Charming",
+     "copy": "Happy 72nd Birthday to the dandy highwayman himself, Adam Ant! Still 'Stand and Deliver'-ing style and sound.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#AdamAnt"
+     ]
+    },
+    {
+     "name": "New Wave King",
+     "copy": "Wishing a very happy 72nd to Adam Ant! A true original who defined the New Wave era with his unique flair.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#80sIcon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stevie-wonder-o2",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "Stevie Wonder at The O2",
+   "blurb": "Music legend Stevie Wonder brings his 'Songs In The Key of Life' 50th Anniversary Tour to London's O2 Arena on November 3rd and 5th.",
+   "source": {
+    "l": "The O2",
+    "u": "https://www.theo2.co.uk/events/detail/stevie-wonder-2026"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Living Legend",
+     "copy": "An absolute icon is in London this week! Stevie Wonder performing 'Songs In The Key of Life' at The O2. Who's got tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#StevieWonder"
+     ]
+    },
+    {
+     "name": "Timeless Album",
+     "copy": "Stevie Wonder celebrating 50 years of 'Songs In The Key of Life' at The O2 on Nov 3 & 5. A truly unmissable experience.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SongsInTheKeyOfLife"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "korn-o2",
+   "off": 5,
+   "type": "gig",
+   "hot": false,
+   "title": "Korn at The O2",
+   "blurb": "Nu-metal pioneers Korn will play London's O2 Arena on Wednesday, November 4th, with special guests Architects and Youth Code.",
+   "source": {
+    "l": "The O2",
+    "u": "https://www.theo2.co.uk/events/detail/korn-2026"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Nu-Metal Icons",
+     "copy": "Korn are bringing the heavy to The O2 on Wednesday! Ready for a night of nu-metal classics?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#Korn"
+     ]
+    },
+    {
+     "name": "Gig Alert",
+     "copy": "If you're a rock fan, London's O2 is the place to be on Nov 4th as Korn hit the stage!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#RockMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bonfire-night-2026",
+   "off": 6,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Bonfire Night approaches",
+   "blurb": "Guy Fawkes Night, also known as Bonfire Night, is celebrated annually on November 5th, with many firework displays happening around the UK on the closest weekend (Nov 7-8).",
+   "source": {
+    "l": "Time and Date",
+    "u": "https://www.timeanddate.com/holidays/uk/guy-fawkes-day"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Remember, Remember",
+     "copy": "Get ready for the crackle and pop! Bonfire Night is next Thursday, November 5th. What are your plans for the 'Glorious Fifth'?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#BonfireNight"
+     ]
+    },
+    {
+     "name": "Fireworks Fun",
+     "copy": "Fireworks displays will light up skies across the UK next week for Bonfire Night. Safety first, but what a spectacle!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#GuyFawkes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bryan-adams-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Bryan Adams is 67",
+   "blurb": "Canadian rock icon Bryan Adams, known for hits like 'Summer of '69' and '(Everything I Do) I Do It for You', celebrates his 67th birthday on Thursday, November 5, 2026.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Bryan_Adams"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Summer of '69 Forever",
+     "copy": "Happy 67th Birthday to the legendary Bryan Adams! What's your favourite Bryan Adams power ballad or rock anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BryanAdams"
+     ]
+    },
+    {
+     "name": "Rock Star Photographer",
+     "copy": "Bryan Adams turns 67! A true multi-talent, from selling millions of records to his acclaimed photography work.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#RockIcon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "art-garfunkel-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Art Garfunkel turns 85",
+   "blurb": "Half of the iconic folk-rock duo Simon & Garfunkel, Art Garfunkel, celebrates his 85th birthday on Thursday, November 5, 2026.",
+   "source": {
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Art+Garfunkel+birth+date"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Bridge Over Troubled Water",
+     "copy": "Happy 85th Birthday to the legendary Art Garfunkel! That voice is truly unmistakable. What's your favourite Simon & Garfunkel track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ArtGarfunkel"
+     ]
+    },
+    {
+     "name": "Folk-Rock Royalty",
+     "copy": "Wishing a wonderful 85th to Art Garfunkel, whose harmonies with Paul Simon created some of music's most enduring songs.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#SimonAndGarfunkel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "suede-manics-o2",
+   "off": 7,
+   "type": "gig",
+   "hot": false,
+   "title": "Suede & Manic Street Preachers Live",
+   "blurb": "Two giants of British alternative rock, Suede and Manic Street Preachers, co-headline a show at London's O2 Arena on Friday, November 6th.",
+   "source": {
+    "l": "The O2",
+    "u": "https://www.theo2.co.uk/events/detail/suede-manic-street-preachers-2026"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Britrock Legends",
+     "copy": "Suede AND Manic Street Preachers on one bill at The O2 this Friday? That's a double dose of Britrock brilliance! Who's excited?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Suede"
+     ]
+    },
+    {
+     "name": "Live Rock",
+     "copy": "Get ready for an epic night of anthems as Manic Street Preachers and Suede hit London's O2 this Friday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#ManicStreetPreachers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ireland-argentina-rugby",
+   "off": 7,
+   "type": "sport",
+   "hot": true,
+   "title": "Autumn Nations: Ireland vs Argentina",
+   "blurb": "Ireland's Autumn Nations Championship campaign begins as they host Argentina at the Aviva Stadium in Dublin on Friday, November 6th.",
+   "source": {
+    "l": "Autumn Internationals",
+    "u": "https://www.autumninternationals.co.uk/ireland-fixtures.php"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Emerald Isle Kick-off",
+     "copy": "The Autumn Nations Championship kicks off for Ireland this Friday as they face Argentina in Dublin! Big game for the boys in green.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#IrishRugby"
+     ]
+    },
+    {
+     "name": "Pumas Challenge",
+     "copy": "Ireland vs Argentina in the Autumn Nations on Friday night! Can the Pumas cause an upset?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#AutumnNations"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wales-japan-rugby",
+   "off": 8,
+   "type": "sport",
+   "hot": true,
+   "title": "Autumn Nations: Wales vs Japan",
+   "blurb": "Wales kick off their Autumn Nations Championship with a home fixture against Japan at Principality Stadium, Cardiff on Saturday, November 7th.",
+   "source": {
+    "l": "Autumn Internationals",
+    "u": "https://www.autumninternationals.co.uk/wales-fixtures.php"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cymru Kicks Off",
+     "copy": "Huge weekend for Welsh rugby! Wales face Japan in the Autumn Nations Championship at Principality Stadium this Saturday. Come on Cymru!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#WelshRugby"
+     ]
+    },
+    {
+     "name": "Brave Blossoms in Cardiff",
+     "copy": "Wales vs Japan this Saturday in Cardiff! Always an exciting fixture against the Brave Blossoms. Who's heading to the Principality?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#AutumnNations"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lorde-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Lorde turns 30",
+   "blurb": "Grammy-winning New Zealand singer-songwriter Lorde celebrates her 30th birthday on Saturday, November 7, 2026.",
+   "source": {
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Lorde+birth+date"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Royals @ 30",
+     "copy": "Can you believe Lorde is turning 30 this Saturday? The 'Royals' singer has had an incredible career already! Happy Birthday!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Lorde"
+     ]
+    },
+    {
+     "name": "Musical Visionary",
+     "copy": "Happy 30th Birthday to Lorde! A truly unique artist who continues to push boundaries with her music.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#NZMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joni-mitchell-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": false,
+   "title": "Joni Mitchell is 83",
+   "blurb": "Influential Canadian singer-songwriter Joni Mitchell celebrates her 83rd birthday on Saturday, November 7, 2026.",
+   "source": {
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Joni+Mitchell+birth+date"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Big Yellow Taxi Legend",
+     "copy": "Happy 83rd Birthday to the incomparable Joni Mitchell! A true poet and musician whose work continues to inspire.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#JoniMitchell"
+     ]
+    },
+    {
+     "name": "Folk Icon",
+     "copy": "Wishing a very happy 83rd to Joni Mitchell, a visionary artist whose songwriting changed music forever.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#FolkMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "england-australia-rugby",
+   "off": 9,
+   "type": "sport",
+   "hot": true,
+   "title": "Autumn Nations: England vs Australia",
+   "blurb": "England begin their Autumn Nations Championship campaign against Australia at Twickenham Stadium on Sunday, November 8th.",
+   "source": {
+    "l": "Autumn Internationals",
+    "u": "https://www.autumninternationals.co.uk/england-fixtures.php"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Twickenham Clash",
+     "copy": "England vs Australia at Twickenham this Sunday! The Autumn Nations Championship is officially underway for the Red Rose. Who's watching?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#EnglandRugby"
+     ]
+    },
+    {
+     "name": "Wallabies Challenge",
+     "copy": "Huge game this Sunday as England take on the Wallabies in the Autumn Nations. Get ready for some fierce rugby action!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#AutumnNations"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bonnie-raitt-bday",
+   "off": 9,
+   "type": "birthday",
+   "hot": false,
+   "title": "Bonnie Raitt turns 77",
+   "blurb": "Grammy-winning blues-rock singer-songwriter and guitarist Bonnie Raitt celebrates her 77th birthday on Sunday, November 8, 2026.",
+   "source": {
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Bonnie+Raitt+birth+date"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Blues-Rock Queen",
+     "copy": "Happy 77th Birthday to the incredible Bonnie Raitt! A true legend of blues-rock guitar and soulful vocals.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#BonnieRaitt"
+     ]
+    },
+    {
+     "name": "Slide Guitar Master",
+     "copy": "Wishing a fantastic 77th to Bonnie Raitt! Her distinctive slide guitar and powerful voice have earned her legions of fans.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#BluesRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im-a-celeb-2026",
+   "off": 17,
+   "type": "tv",
+   "hot": true,
+   "title": "I'm A Celebrity...Get Me Out Of Here! Returns",
+   "blurb": "The 26th series of I'm A Celebrity...Get Me Out Of Here! is set to begin on ITV on Monday, November 16th, hosted by Ant & Dec.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/I%27m_a_Celebrity...Get_Me_Out_of_Here!_(British_TV_series)_series_26"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jungle Countdown",
+     "copy": "The wait is almost over! I'm A Celebrity...Get Me Out Of Here! returns to ITV on November 16th. Who are you hoping to see in the jungle?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#ImACeleb"
+     ]
+    },
+    {
+     "name": "Bushtucker Trials",
+     "copy": "Ant & Dec are back! Get ready for the return of I'm A Celeb next month. Who do you think will face the first Bushtucker Trial?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ITV"
      ]
     }
    ]
