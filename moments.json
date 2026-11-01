@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-01T08:16:25.840Z",
+ "updated": "2026-11-01T15:31:13.666Z",
  "moments": [
   {
-   "id": "liverpool-arsenal-epl",
+   "id": "liverpool-arsenal-pl",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Clash: Liverpool v Arsenal",
-   "blurb": "Two of the Premier League's giants, Liverpool and Arsenal, face off today at Anfield in a highly anticipated match.",
+   "title": "Premier League: Liverpool v Arsenal",
+   "blurb": "Today's highly anticipated Premier League clash sees Liverpool host Arsenal at Anfield, a key early-season fixture for both title contenders.",
    "source": {
     "l": "Premier League",
-    "u": "https://www.premierleague.com/fixtures"
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
@@ -21,29 +21,74 @@
    "angles": [
     {
      "name": "Match Day Hype",
-     "copy": "It's the big one! Liverpool host Arsenal today in a massive Premier League showdown. Who are you backing?",
+     "copy": "It's Super Sunday in the Premier League! Liverpool take on Arsenal at Anfield in a massive top-of-the-table clash. Who are you backing?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "15:00",
      "tags": [
       "#LIVARS"
      ]
     },
     {
-     "name": "Tactical Battle",
-     "copy": "Anfield is set for a tactical masterclass as Liverpool and Arsenal go head-to-head. What's your predicted scoreline?",
+     "name": "Post-Match Reaction",
+     "copy": "Full time at Anfield! What a game between Liverpool and Arsenal. Your instant reactions and analysis are needed!",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "15:00",
+     "time": "18:30",
      "tags": [
-      "#PremierLeague"
+      "#LIVARS"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "champions-league-nov3",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "Champions League: Man Utd, Aston Villa in action",
+   "blurb": "On Tuesday, November 3rd, Manchester United face AS Roma and Aston Villa play Barcelona in crucial UEFA Champions League group stage matches.",
+   "source": {
+    "l": "UEFA Champions League",
+    "u": "https://www.uefa.com/uefachampionsleague/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Midweek European Football",
+     "copy": "Champions League returns this Tuesday! Big nights for Man Utd at home to Roma and Aston Villa away at Barcelona. Can our English teams get the results they need?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#UCL"
+     ]
+    },
+    {
+     "name": "Villa's European Test",
+     "copy": "Huge test for Aston Villa this week as they travel to the Nou Camp to face Barcelona in the Champions League. What a moment for the club!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#AVFC #UCL"
      ]
     }
    ]
@@ -53,58 +98,17 @@
    "off": 4,
    "type": "seasonal",
    "hot": true,
-   "title": "Bonfire Night Approaches",
-   "blurb": "Bonfire Night, or Guy Fawkes Night, is celebrated across the UK on Thursday, November 5th, with fireworks displays and bonfires.",
+   "title": "Bonfire Night Celebrations",
+   "blurb": "Bonfire Night officially falls on Thursday, November 5th, with firework displays and bonfires happening across the UK this week and weekend.",
    "source": {
-    "l": "Gov.uk",
-    "u": "https://www.gov.uk/"
+    "l": "Galactic Fireworks",
+    "u": "https://www.galacticfireworks.co.uk/blog/bonfire-night-2026-date-guide"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Fireworks Prep",
-     "copy": "Get ready for the bangs and sparkles! Bonfire Night is just a few days away on Thursday. What are your plans?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:30",
-     "tags": [
-      "#BonfireNight"
-     ]
     },
-    {
-     "name": "Safety First",
-     "copy": "With Bonfire Night on Thursday, remember to stay safe around fireworks and bonfires. Let's make it a brilliant, safe night for everyone.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#GuyFawkesNight"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cardiff-west-ham",
-   "off": 3,
-   "type": "sport",
-   "hot": true,
-   "title": "Cardiff City host West Ham United",
-   "blurb": "Cardiff City are set to face West Ham United at home on Wednesday, November 4th, in a Championship fixture.",
-   "source": {
-    "l": "Cardiff City FC",
-    "u": "https://www.cardiffcityfc.co.uk/fixtures-results"
-   },
-   "fits": [
     {
      "g": "welsh-local",
      "sub": ""
@@ -112,109 +116,132 @@
     {
      "g": "dragon",
      "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Bluebirds at Home",
-     "copy": "Big game coming up for Cardiff City! They welcome West Ham to the Cardiff City Stadium on Wednesday. Can the Bluebirds secure a win?",
+     "name": "Bonfire Night Build-up",
+     "copy": "Get ready to wrap up warm! Bonfire Night is this Thursday, and fireworks displays are lighting up skies across the country all week. Where are you heading?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "11:00",
      "tags": [
-      "#Bluebirds"
+      "#BonfireNight"
      ]
     },
     {
-     "name": "Midweek Football",
-     "copy": "Midweek football action in Cardiff! Get ready to cheer on Cardiff City as they take on West Ham on Wednesday.",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#CardiffCity"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "wales-japan-rugby",
-   "off": 6,
-   "type": "sport",
-   "hot": true,
-   "title": "Wales vs Japan in Autumn Nations Series",
-   "blurb": "Wales kick off their Autumn Nations Series campaign at home against Japan at Principality Stadium on Saturday, November 7th.",
-   "source": {
-    "l": "Welsh Rugby Union",
-    "u": "https://www.wru.wales/fixtures/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Rugby Returns",
-     "copy": "The Autumn Nations Series is here! Wales face Japan this Saturday at Principality Stadium. Get behind the boys!",
+     "name": "Safety Message",
+     "copy": "Remember, remember, the 5th of November! As Bonfire Night approaches, stay safe and enjoy the spectacular displays responsibly. Check local event guides!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "14:00",
      "tags": [
-      "#WALvJPN"
-     ]
-    },
-    {
-     "name": "Cardiff Roar",
-     "copy": "Cardiff is buzzing for international rugby! Wales take on Japan this Saturday. Who's heading to the Principality?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#AutumnNationsSeries"
+      "#FireworksSafety"
      ]
     }
    ]
   },
   {
-   "id": "england-australia-rugby",
-   "off": 7,
-   "type": "sport",
+   "id": "stevie-wonder-london",
+   "off": 2,
+   "type": "gig",
    "hot": true,
-   "title": "England Rugby hosts Australia",
-   "blurb": "England's Autumn Nations Series continues as they host Australia at Twickenham on Sunday, November 8th.",
+   "title": "Stevie Wonder in London",
+   "blurb": "Music legend Stevie Wonder is performing in London on November 3rd and 5th, celebrating 50 years of 'Songs In The Key Of Life'.",
    "source": {
-    "l": "England Rugby",
-    "u": "https://www.englandrugby.com/fixtures"
+    "l": "OnesToWatch",
+    "u": "https://onestowatch.com/london-concerts-mid-october-to-november-2026-picks/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Iconic Live Show",
+     "copy": "Stevie Wonder in London this week! Celebrating 50 years of 'Songs In The Key Of Life', it's set to be an unforgettable experience. Who's got tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#StevieWonder"
+     ]
+    },
+    {
+     "name": "Musical Genius",
+     "copy": "Listening to Stevie Wonder ahead of his London shows this week. What an incredible catalogue of hits. Which one is your all-time favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#SongsInTheKeyOfLife"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "christmas-markets-open",
+   "off": 4,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Christmas Markets Begin to Open",
+   "blurb": "Birmingham's Frankfurt Christmas Market opens on November 5th, followed by Manchester on November 6th and other major cities across the UK.",
+   "source": {
+    "l": "Visit Britain",
+    "u": "https://www.visitbritain.com/en/things-to-do/events/christmas-events/best-british-christmas-markets-and-winter-fairs"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Twickenham Test",
-     "copy": "Big one at Twickenham this Sunday! England take on Australia in the Autumn Nations Series. Can they secure a home win?",
+     "name": "Festive Season Kicks Off",
+     "copy": "It's beginning to look a lot like Christmas! The first major Christmas markets open this week in Birmingham and Manchester. Who's ready for mulled wine and festive cheer?",
      "channels": [
       "instagram",
       "facebook",
@@ -222,19 +249,115 @@
      ],
      "time": "10:30",
      "tags": [
-      "#ENGvAUS"
+      "#ChristmasMarkets"
      ]
     },
     {
-     "name": "Rugby Rivalry",
-     "copy": "The rivalry continues! England vs Australia this Sunday. Who's your money on?",
+     "name": "Manchester Festive Fun",
+     "copy": "Manchester Christmas Markets open their doors on Friday! Time to plan your festive day out, from delicious food to unique gifts. What's on your shopping list?",
      "channels": [
-      "x",
-      "facebook"
+      "instagram",
+      "facebook",
+      "x"
      ],
-     "time": "14:00",
+     "time": "12:00",
      "tags": [
-      "#AutumnNationsSeries"
+      "#ManchesterChristmas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anthony-kiedis-bday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Anthony Kiedis turns 64",
+   "blurb": "Anthony Kiedis, frontman of the Red Hot Chili Peppers, celebrates his 64th birthday today, November 1st.",
+   "source": {
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Anthony+Kiedis+birth+date"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "RHCP Legend",
+     "copy": "Happy 64th Birthday to the iconic Red Hot Chili Peppers frontman, Anthony Kiedis! What's your favourite RHCP track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#AnthonyKiedis"
+     ]
+    },
+    {
+     "name": "Funk Rock Icon",
+     "copy": "Celebrating Anthony Kiedis's birthday today! Still bringing the energy after all these years. What's the best Red Hot Chili Peppers album?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#RedHotChiliPeppers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kd-lang-bday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "k.d. lang turns 65",
+   "blurb": "Canadian singer-songwriter k.d. lang celebrates her 65th birthday on November 2nd.",
+   "source": {
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=k.d.+lang+birth+date"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Vocal Legend",
+     "copy": "Wishing a very Happy 65th Birthday to the incredible k.d. lang tomorrow! A truly unique voice in music. What's your favourite song by her?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#kdlang"
      ]
     }
    ]
@@ -243,12 +366,12 @@
    "id": "adam-ant-bday",
    "off": 2,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 72nd to Adam Ant",
-   "blurb": "New Wave icon Adam Ant, known for hits like 'Stand and Deliver' and 'Goody Two Shoes', celebrates his 72nd birthday on November 3rd.",
+   "hot": true,
+   "title": "Adam Ant turns 71",
+   "blurb": "New Wave icon Adam Ant celebrates his 71st birthday on November 3rd.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Adam_Ant"
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Adam+Ant+birth+date"
    },
    "fits": [
     {
@@ -262,85 +385,16 @@
    ],
    "angles": [
     {
-     "name": "Antmusic Legend",
-     "copy": "Happy 72nd Birthday to the one and only Adam Ant! Still got those 'Prince Charming' moves?",
+     "name": "Prince Charming",
+     "copy": "Happy 71st Birthday to the one and only Adam Ant on Tuesday! Still 'Standing in the Way of Control' with his unique style.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:00",
+     "time": "11:00",
      "tags": [
       "#AdamAnt"
-     ]
-    },
-    {
-     "name": "New Wave Royalty",
-     "copy": "Celebrating New Wave royalty! Adam Ant turns 72 on Wednesday. What's your favourite Antmusic track?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#NewWave"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lulu-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Lulu turns 78",
-   "blurb": "Scottish singing sensation Lulu, famous for 'Shout' and 'To Sir With Love', celebrates her 78th birthday on November 3rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Lulu_(singer)"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Scottish Star",
-     "copy": "Happy 78th Birthday to the incredible Lulu! Still belting out 'Shout' like it's 1964. What a legend!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#Lulu"
-     ]
-    },
-    {
-     "name": "Pop Icon",
-     "copy": "From Eurovision to Bond themes, Lulu has done it all. Wishing a very Happy 78th Birthday to a true pop icon on Wednesday!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#PopMusic"
      ]
     }
    ]
@@ -350,11 +404,11 @@
    "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Bryan Adams is 67",
-   "blurb": "Canadian rock legend Bryan Adams, known for anthems like 'Summer of '69' and '(Everything I Do) I Do It for You', turns 67 on November 5th.",
+   "title": "Bryan Adams turns 67",
+   "blurb": "Canadian rock superstar Bryan Adams celebrates his 67th birthday on November 5th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bryan_Adams"
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Bryan+Adams+birth+date"
    },
    "fits": [
     {
@@ -371,265 +425,94 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rock Icon",
-     "copy": "He's still got it! Happy 67th Birthday to the legendary Bryan Adams on Thursday! What's your go-to Bryan Adams power ballad?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#BryanAdams"
-     ]
-    },
-    {
-     "name": "Summer of '69",
-     "copy": "It's Bryan Adams' 67th birthday on Thursday! We're celebrating with all his greatest hits. Which one takes you back?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#RockMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "joni-mitchell-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": false,
-   "title": "Joni Mitchell turns 83",
-   "blurb": "Influential folk singer-songwriter Joni Mitchell, celebrated for albums like 'Blue' and 'Court and Spark', marks her 83rd birthday on November 7th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Joni_Mitchell"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Folk Legend",
-     "copy": "Happy 83rd Birthday to the incomparable Joni Mitchell on Saturday! Her music continues to inspire generations. What's your favourite Joni track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "08:30",
-     "tags": [
-      "#JoniMitchell"
-     ]
-    },
-    {
-     "name": "Songwriting Master",
-     "copy": "Celebrating a true songwriting master! Joni Mitchell turns 83 this Saturday. Dive into her incredible catalogue with us.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#FolkMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "david-guetta-bday",
-   "off": 6,
-   "type": "birthday",
-   "hot": true,
-   "title": "David Guetta is 59",
-   "blurb": "French DJ and producer David Guetta, a global superstar known for hits like 'Titanium' and 'When Love Takes Over', celebrates his 59th birthday on November 7th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/David_Guetta"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "DJ Superstar",
-     "copy": "Happy 59th Birthday to the one and only David Guetta this Saturday! Still bringing the party wherever he goes. What's your favourite Guetta anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#DavidGuetta"
-     ]
-    },
-    {
-     "name": "Dance Floor Filler",
-     "copy": "Get ready to hit the dance floor! It's David Guetta's 59th birthday on Saturday. We're playing his biggest hits to get your weekend started.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#DanceMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "sza-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "SZA turns 37",
-   "blurb": "Grammy-winning R&B and Neo-Soul artist SZA, celebrated for albums like 'Ctrl' and 'SOS', celebrates her 37th birthday on November 8th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/SZA"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "R&B Queen",
-     "copy": "Happy 37th Birthday to the phenomenal SZA on Sunday! Her voice is pure magic. What's your top SZA track?",
+     "name": "Rock Legend",
+     "copy": "It's Bryan Adams' 67th birthday on Thursday! The 'Summer of '69' legend is still rocking. What's your top Bryan Adams power ballad?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "08:00",
+     "time": "10:00",
      "tags": [
-      "#SZA"
+      "#BryanAdams"
      ]
     },
     {
-     "name": "Soulful Sounds",
-     "copy": "Celebrating the incredible talent of SZA, who turns 37 this Sunday! Get ready for some soulful sounds.",
+     "name": "Timeless Hits",
+     "copy": "Getting ready for Bryan Adams' birthday on Thursday by blasting some of his greatest hits! He truly is 'Everything I Do (I Do It For You)'.",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "15:00",
      "tags": [
-      "#NeoSoul"
+      "#RockAnthems"
      ]
     }
    ]
   },
   {
-   "id": "roy-wood-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": false,
-   "title": "Roy Wood is 80",
-   "blurb": "The legendary Roy Wood, co-founder of The Move, Electric Light Orchestra, and Wizzard, celebrates his 80th birthday on November 8th.",
+   "id": "strictly-come-dancing",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing Results",
+   "blurb": "The results of Strictly Come Dancing's Halloween Week are revealed tonight, following Saturday's spooky performances.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Roy_Wood"
+    "l": "BBC One",
+    "u": "https://www.bbc.co.uk/strictly"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Wizzard of Rock",
-     "copy": "Happy 80th Birthday to the brilliant Roy Wood on Sunday! From The Move to ELO to Wizzard, a true British music icon.",
+     "name": "Halloween Results",
+     "copy": "Who survived Halloween Week? Tonight, we find out who's leaving Strictly Come Dancing. Did your favourite make it through?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "19:00",
      "tags": [
-      "#RoyWood"
+      "#Strictly"
      ]
     },
     {
-     "name": "Music Maestro",
-     "copy": "Celebrating the incredible career of Roy Wood, who turns 80 this Sunday. What's your favourite of his many musical projects?",
+     "name": "Next Week's Anticipation",
+     "copy": "After the drama of Halloween, who are you excited to see on the dancefloor next week on Strictly? Predictions for the next live show!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "20:30",
      "tags": [
-      "#ELO"
+      "#StrictlyComeDancing"
      ]
     }
    ]
   },
   {
-   "id": "brynn-terfel-bday",
-   "off": 8,
-   "type": "birthday",
-   "hot": false,
-   "title": "Bryn Terfel turns 61",
-   "blurb": "Acclaimed Welsh bass-baritone opera singer Bryn Terfel celebrates his 61st birthday on November 9th.",
+   "id": "autumn-internationals-wales-japan",
+   "off": 6,
+   "type": "sport",
+   "hot": true,
+   "title": "Rugby Autumn Internationals: Wales v Japan",
+   "blurb": "Wales begin their Autumn Internationals campaign against Japan at the Principality Stadium in Cardiff on Saturday, November 7th.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bryn_Terfel"
+    "l": "World Rugby",
+    "u": "https://www.world.rugby/tournaments/autumn-nations-series"
    },
    "fits": [
     {
@@ -641,18 +524,220 @@
      "sub": ""
     },
     {
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh Rugby Kicks Off",
+     "copy": "The Autumn Internationals are here! Wales take on Japan this Saturday at the Principality Stadium. Are you ready for some international rugby action?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WALvJPN"
+     ]
+    },
+    {
+     "name": "Cardiff Match Day Buzz",
+     "copy": "Cardiff is gearing up for a huge weekend as Wales play Japan! What are your predictions for the first Autumn International?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#WelshRugby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "autumn-internationals-scotland-nz",
+   "off": 6,
+   "type": "sport",
+   "hot": true,
+   "title": "Rugby Autumn Internationals: Scotland v New Zealand",
+   "blurb": "Scotland will host New Zealand at Scottish Gas Murrayfield in Edinburgh on Saturday, November 7th, as part of the Autumn Nations Series.",
+   "source": {
+    "l": "World Rugby",
+    "u": "https://www.world.rugby/tournaments/autumn-nations-series"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scotland's Big Test",
+     "copy": "Scotland face a colossal challenge this Saturday, taking on the mighty All Blacks at Murrayfield! Who's excited for this huge Autumn International?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#SCOvNZL"
+     ]
+    },
+    {
+     "name": "Edinburgh Rugby Fever",
+     "copy": "The atmosphere in Edinburgh will be electric on Saturday for Scotland vs New Zealand! What are your hopes for the match?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#ScottishRugby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-streets-manchester",
+   "off": 4,
+   "type": "gig",
+   "hot": true,
+   "title": "The Streets in Manchester",
+   "blurb": "Mike Skinner's The Streets perform their seminal album 'A Grand Don't Come For Free' in full at The Warehouse Project in Manchester on November 5th.",
+   "source": {
+    "l": "Confidentials",
+    "u": "https://www.confidentials.com/manchester/the-best-gigs-and-club-nights-in-manchester-in-november-2026"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Manchester"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Iconic Album Live",
+     "copy": "Get ready for a trip down memory lane! The Streets are performing 'A Grand Don't Come For Free' in full at The Warehouse Project on Thursday. Who's going?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheStreets"
+     ]
+    },
+    {
+     "name": "Manchester's Big Night",
+     "copy": "Mike Skinner brings The Streets to Manchester this week for what's set to be an epic show. What's your favourite track from 'A Grand Don't Come For Free'?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#WHP"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im-a-celeb-hype",
+   "off": 15,
+   "type": "tv",
+   "hot": true,
+   "title": "I'm A Celebrity...Get Me Out Of Here! Returns",
+   "blurb": "The 26th series of I'm A Celebrity...Get Me Out Of Here! is set to begin on ITV on Monday, November 16th, with Ant & Dec returning to host.",
+   "source": {
+    "l": "ITV",
+    "u": "https://www.itv.com/imacelebrity"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jungle Countdown",
+     "copy": "The countdown is ON! I'm A Celebrity...Get Me Out Of Here! returns to our screens on November 16th. Who are you hoping to see in the jungle this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#ImACeleb"
+     ]
+    },
+    {
+     "name": "Ant & Dec Are Back",
+     "copy": "Ant & Dec are getting ready for another series of I'm A Celebrity! What's the most iconic Bushtucker Trial you remember?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#IAC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joni-mitchell-bday",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Joni Mitchell turns 83",
+   "blurb": "Legendary Canadian singer-songwriter Joni Mitchell celebrates her 83rd birthday on November 7th.",
+   "source": {
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Joni+Mitchell+birth+date"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
      "g": "decades-genres",
      "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Welsh Voice",
-     "copy": "Happy 61st Birthday to the magnificent Welsh opera singer Bryn Terfel on Monday! A true national treasure.",
+     "name": "Folk Icon",
+     "copy": "Happy 83rd Birthday to the incomparable Joni Mitchell on Saturday! Her songwriting is truly timeless. What's your favourite Joni track?",
      "channels": [
       "instagram",
       "facebook",
@@ -660,64 +745,122 @@
      ],
      "time": "09:00",
      "tags": [
-      "#BrynTerfel"
-     ]
-    },
-    {
-     "name": "Opera Star",
-     "copy": "Celebrating the incredible vocal talent of Bryn Terfel, who turns 61 this Monday. What a voice!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#WelshMusic"
+      "#JoniMitchell"
      ]
     }
    ]
   },
   {
-   "id": "miranda-lambert-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": false,
-   "title": "Miranda Lambert is 43",
-   "blurb": "Award-winning American country music star Miranda Lambert, known for hits like 'The House That Built Me', celebrates her 43rd birthday on November 10th.",
+   "id": "gilbert-osullivan-london",
+   "off": 7,
+   "type": "gig",
+   "hot": true,
+   "title": "Gilbert O'Sullivan in London",
+   "blurb": "Gilbert O'Sullivan performs at The London Palladium on November 8th, celebrating 60 years of music.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Miranda_Lambert"
+    "l": "London Theatreland",
+    "u": "https://www.londontheatreland.co.uk/concerts/november/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Country Queen",
-     "copy": "Happy 43rd Birthday to the incredible Miranda Lambert on Tuesday! Still rocking the country music world. What's your favourite song by her?",
+     "name": "60 Years of Music",
+     "copy": "A true legend takes the stage! Gilbert O'Sullivan celebrates 60 years in music at The London Palladium on Sunday. What a career!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:30",
+     "time": "11:00",
      "tags": [
-      "#MirandaLambert"
+      "#GilbertOSullivan"
      ]
+    }
+   ]
+  },
+  {
+   "id": "bonnie-raitt-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Bonnie Raitt turns 77",
+   "blurb": "Grammy-winning blues-rock singer Bonnie Raitt celebrates her 77th birthday on November 8th.",
+   "source": {
+    "l": "Google Search",
+    "u": "https://www.google.com/search?q=Bonnie+Raitt+birth+date"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
-     "name": "Nashville Star",
-     "copy": "Celebrating the fierce and fabulous Miranda Lambert, who turns 43 this Tuesday! Turn up her tunes with us.",
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Blues-Rock Queen",
+     "copy": "Happy 77th Birthday to the incredible Bonnie Raitt on Sunday! A true force in blues and rock music. What's your favourite Bonnie Raitt song?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:30",
+     "time": "13:00",
      "tags": [
-      "#CountryMusic"
+      "#BonnieRaitt"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tall-tales-murders-bbc",
+   "off": 2,
+   "type": "tv",
+   "hot": true,
+   "title": "New BBC Drama: Tall Tales & Murders",
+   "blurb": "A new drama series, 'Tall Tales & Murders', premieres on BBC One and BBC iPlayer on Tuesday, November 3rd.",
+   "source": {
+    "l": "BBC",
+    "u": "https://www.bbc.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Midweek Mystery",
+     "copy": "Looking for your next TV obsession? New drama 'Tall Tales & Murders' starts Tuesday on BBC One. Get ready for some midweek mystery!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#NewDrama"
      ]
     }
    ]
