@@ -1,66 +1,16 @@
 {
- "updated": "2026-10-31T22:53:43.498Z",
+ "updated": "2026-11-01T01:35:05.889Z",
  "moments": [
   {
-   "id": "halloween-2026",
+   "id": "premier-league-liverpool-arsenal",
    "off": 0,
-   "type": "seasonal",
+   "type": "sport",
    "hot": true,
-   "title": "Happy Halloween!",
-   "blurb": "It's Halloween today, with spooky celebrations and trick-or-treating happening across the UK.",
+   "title": "Premier League Showdown: Liverpool vs Arsenal",
+   "blurb": "Two Premier League giants, Liverpool and Arsenal, clash at Anfield today in a highly anticipated fixture.",
    "source": {
-    "l": "National Today",
-    "u": "https://nationaltoday.com/halloween/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Spooky Saturday Night",
-     "copy": "Happy Halloween! What spooky sounds are on your playlist tonight? Let's get creepy with the classics or some modern horror bops.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#Halloween2026"
-     ]
-    },
-    {
-     "name": "Best Costume",
-     "copy": "Show us your Halloween costumes! Are you going for terrifying, funny, or pop culture iconic this year? Tag us in your best fright night looks!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "19:30",
-     "tags": [
-      "#HalloweenCostume"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bonfire-night-2026",
-   "off": 5,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Bonfire Night Approaches",
-   "blurb": "Bonfire Night, commemorating the Gunpowder Plot, is on Thursday 5th November, with many fireworks displays scheduled for this weekend (Oct 31/Nov 1) and next weekend (Nov 7/8) across the UK.",
-   "source": {
-    "l": "Galactic Fireworks",
-    "u": "https://www.galacticfireworks.co.uk/blog/when-is-bonfire-night-2026/"
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/"
    },
    "fits": [
     {
@@ -70,166 +20,61 @@
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Hype",
+     "copy": "It's a Sunday showdown at Anfield! Liverpool take on Arsenal in a massive Premier League fixture today. Who are you backing?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LIVARS"
+     ]
     },
     {
-     "g": "welsh-local",
+     "name": "London Calling",
+     "for": "Nation Radio London",
+     "copy": "Arsenal are in Merseyside today for a huge Premier League battle against Liverpool. Can the Gunners bring home the points?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#COYG"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bonfire-night-uk",
+   "off": 4,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Bonfire Night Approaches",
+   "blurb": "Bonfire Night, commemorating the Gunpowder Plot, takes place this Thursday, November 5th, with many firework displays planned across the UK over the weekend.",
+   "source": {
+    "l": "Galactic Fireworks",
+    "u": "https://www.galacticfireworks.co.uk/bonfire-night-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
     },
     {
      "g": "radio-exe",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "National Countdown",
-     "copy": "Only 5 days until Bonfire Night! Are you heading to a big organised display or having a smaller gathering at home? Stay safe and enjoy the sparkles!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BonfireNight"
-     ]
-    },
-    {
-     "name": "Local Displays",
-     "copy": "Planning your Bonfire Night fun? Many local displays are happening this weekend and next, including those in Wakefield, Surrey, and across London. Check local listings for details!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#FireworksUK"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-results-nov1",
-   "off": 1,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing Results",
-   "blurb": "The latest Strictly Come Dancing results show airs tomorrow, Sunday November 1st, after another night of ballroom action.",
-   "source": {
-    "l": "BBC",
-    "u": "https://www.bbc.co.uk/strictlycomedancing"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Who's In The Dance-Off?",
-     "copy": "Who do you think will be in the dance-off on Strictly tomorrow night? After some incredible routines, it's going to be a tough call!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    },
-    {
-     "name": "Judges' Favourite",
-     "copy": "Another week, another dazzling night on Strictly! Who scored big with the judges and who needs your votes to stay in? Tune in tomorrow for the results!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "21:30",
-     "tags": [
-      "#Strictly"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "im-a-celeb-anticipation",
-   "off": 14,
-   "type": "tv",
-   "hot": true,
-   "title": "I'm A Celeb Buzz Builds",
-   "blurb": "Anticipation is building for the new series of I'm A Celebrity... Get Me Out Of Here!, expected to start mid-November.",
-   "source": {
-    "l": "ITV",
-    "u": "https://www.itv.com/imacelebrity"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jungle Rumours",
-     "copy": "The jungle drums are beating! Who are you hoping to see brave the Bushtucker Trials this year on I'm A Celeb? Drop your dream campmates below!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#ImACeleb"
-     ]
-    },
-    {
-     "name": "First Challenge",
-     "copy": "It's almost time for I'm A Celeb! What's the first terrifying challenge you'd throw at the new celebrities? We're taking suggestions for Ant & Dec!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#BushtuckerTrial"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart-babydoll",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Jamie Miller Tops UK Chart Again",
-   "blurb": "Cardiff-born musician Jamie Miller's 'Babydoll' holds the Official UK Singles Chart number one spot for a second consecutive week, making him the first Welsh act to achieve this in 15 years.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
      "g": "welsh-local",
@@ -242,47 +87,109 @@
    ],
    "angles": [
     {
-     "name": "Welsh #1 Success",
-     "copy": "Huge congrats to Cardiff's own Jamie Miller, still at #1 on the Official UK Singles Chart with 'Babydoll'! Two weeks at the top – what an achievement for Welsh music!",
+     "name": "National Countdown",
+     "copy": "Guy Fawkes Night is just a few days away! Whether you're at an organised display or in the garden, stay safe and enjoy the spectacular.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#UKChart"
+      "#BonfireNight"
      ]
     },
     {
-     "name": "Listen to the Chart Topper",
-     "copy": "Still got 'Babydoll' by Jamie Miller on repeat? The Welsh sensation is dominating the UK charts for a second week. Tune in for the biggest hits right now!",
+     "name": "Local Displays",
+     "for": "Nation Radio Yorkshire",
+     "copy": "Wakefield, Pontefract and Castleford are all set for Bonfire Night celebrations! Check local listings for all the firework fun this week and weekend.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#YorkshireBonfire"
+     ]
+    },
+    {
+     "name": "Safety First",
+     "copy": "As Bonfire Night approaches, remember safety first! Keep pets indoors and follow firework code. Have a brilliant and safe evening.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "15:00",
+     "time": "13:00",
      "tags": [
-      "#JamieMiller"
+      "#FireworkSafety"
      ]
     }
    ]
   },
   {
-   "id": "anthony-kiedis-birthday-64",
-   "off": 1,
+   "id": "remembrance-sunday",
+   "off": 7,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Remembrance Sunday",
+   "blurb": "The UK will observe Remembrance Sunday this coming Sunday, November 8th, with a national service at the Cenotaph in London and many local commemorations across the country.",
+   "source": {
+    "l": "GOV.UK",
+    "u": "https://www.gov.uk/government/news/national-service-of-remembrance-sunday-8-november-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "National Respect",
+     "copy": "This Sunday, we pause to remember. Remembrance Sunday on November 8th is a time to honour the service and sacrifice of our Armed Forces. Wear your poppy with pride. #LestWeForget",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RemembranceSunday"
+     ]
+    },
+    {
+     "name": "London Cenotaph",
+     "for": "Nation Radio London",
+     "copy": "The National Service of Remembrance at the Cenotaph in Whitehall takes place this Sunday. A solemn and important occasion for the capital and the nation.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Whitehall"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-anthony-kiedis",
+   "off": 0,
    "type": "birthday",
    "hot": true,
    "title": "Anthony Kiedis Turns 64",
-   "blurb": "Anthony Kiedis, the iconic frontman of Red Hot Chili Peppers, celebrates his 64th birthday tomorrow, November 1st.",
+   "blurb": "Red Hot Chili Peppers frontman Anthony Kiedis celebrates his 64th birthday today, November 1st.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Anthony_Kiedis"
+    "l": "Dave's Music Database",
+    "u": "https://davesmusicdatabase.com/november-music-makers-birthdays/"
    },
    "fits": [
     {
@@ -300,51 +207,45 @@
    ],
    "angles": [
     {
-     "name": "RHCP Legend",
-     "copy": "Tomorrow, the one and only Anthony Kiedis turns 64! What's your favourite Red Hot Chili Peppers track that showcases his unique energy?",
+     "name": "Chili Peppers Legend",
+     "copy": "Happy 64th Birthday to the one and only Anthony Kiedis! What's your favourite Red Hot Chili Peppers track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "13:00",
+     "time": "08:00",
      "tags": [
-      "#AnthonyKiedis"
+      "#RHCP"
      ]
     },
     {
-     "name": "Funk Rock Icon",
-     "copy": "Getting ready to wish Anthony Kiedis a very happy 64th birthday tomorrow! The Red Hot Chili Peppers wouldn't be the same without him. What's his most memorable lyric for you?",
+     "name": "Iconic Frontman",
+     "copy": "64 today for RHCP's dynamic frontman Anthony Kiedis! Still bringing the funk and rock to stages worldwide.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "17:00",
+     "time": "14:00",
      "tags": [
-      "#RedHotChiliPeppers"
+      "#AnthonyKiedis"
      ]
     }
    ]
   },
   {
-   "id": "rick-allen-birthday-63",
-   "off": 1,
+   "id": "birthday-mags-furuholmen",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Rick Allen Turns 63",
-   "blurb": "Def Leppard's incredible drummer, Rick Allen, celebrates his 63rd birthday tomorrow, November 1st.",
+   "title": "Mags Furuholmen is 64",
+   "blurb": "Magnes Furuholmen, keyboardist and songwriter for Norwegian synth-pop legends a-ha, turns 64 today.",
    "source": {
-    "l": "Def Leppard Wiki",
-    "u": "https://defleppard.fandom.com/wiki/Rick_Allen"
+    "l": "Dave's Music Database",
+    "u": "https://davesmusicdatabase.com/november-music-makers-birthdays/"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation 80s"
@@ -352,101 +253,93 @@
    ],
    "angles": [
     {
-     "name": "Thunder God's Birthday",
-     "copy": "Tomorrow we're raising a stick for Rick Allen of Def Leppard, turning 63! A true inspiration and drumming legend. What's your favourite Def Leppard power anthem?",
+     "name": "a-ha Keyboardist",
+     "copy": "Take On Me! a-ha's brilliant keyboardist Mags Furuholmen is 64 today. Still sounds as fresh as ever!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "14:00",
+     "time": "09:00",
      "tags": [
-      "#RickAllen"
+      "#aHa"
      ]
     },
     {
-     "name": "Drumming Legend",
-     "copy": "Happy 63rd birthday loading for Rick Allen! The 'Thunder God' of Def Leppard has defied all odds. Which of their tracks gets your headbanging the most?",
+     "name": "Synth-Pop Master",
+     "copy": "Wishing a very happy 64th birthday to Mags Furuholmen of a-ha! The man behind some of the 80s' most iconic synth sounds.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "18:00",
+     "time": "15:00",
      "tags": [
-      "#DefLeppard"
+      "#80sMusic"
      ]
     }
    ]
   },
   {
-   "id": "kd-lang-birthday-65",
-   "off": 2,
+   "id": "birthday-k.d.lang",
+   "off": 1,
    "type": "birthday",
    "hot": true,
    "title": "k.d. lang Turns 65",
-   "blurb": "Canadian singer-songwriter k.d. lang, known for her powerful mezzo-soprano voice and unique style, celebrates her 65th birthday on November 2nd.",
+   "blurb": "Grammy-winning Canadian singer-songwriter k.d. lang celebrates her 65th birthday tomorrow, November 2nd.",
    "source": {
-    "l": "Britannica",
-    "u": "https://www.britannica.com/biography/k-d-lang"
+    "l": "Music History Events",
+    "u": "https://www.thisdayinmusic.com/on-this-day/november-2/"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Vocal Powerhouse",
-     "copy": "Wishing a very happy 65th birthday to the incredible k.d. lang on November 2nd! Her voice is truly one-of-a-kind. What's your go-to k.d. lang track?",
+     "name": "Canadian Icon",
+     "copy": "Happy 65th Birthday to the incredible k.d. lang tomorrow! What's your favourite song from this iconic vocalist?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#kdlang"
-     ]
-    },
-    {
-     "name": "Constant Craving",
-     "copy": "Get ready to celebrate k.d. lang's 65th birthday this Monday! From 'Constant Craving' to her stunning covers, her music always hits different.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "16:00",
      "tags": [
-      "#SingerSongwriter"
+      "#kdLang"
+     ]
+    },
+    {
+     "name": "Vocal Legend",
+     "copy": "Tomorrow, November 2nd, the magnificent k.d. lang turns 65! Her voice is truly one of a kind.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Vocalist"
      ]
     }
    ]
   },
   {
-   "id": "nelly-birthday-52",
-   "off": 2,
+   "id": "birthday-nelly",
+   "off": 1,
    "type": "birthday",
    "hot": true,
-   "title": "Nelly Turns 52",
-   "blurb": "Grammy-winning rapper and singer Nelly, famous for hits like 'Hot in Herre' and 'Dilemma', celebrates his 52nd birthday on November 2nd.",
+   "title": "Nelly is 52",
+   "blurb": "Multi-platinum selling rapper Nelly, known for hits like 'Hot in Herre' and 'Dilemma', celebrates his 52nd birthday tomorrow, November 2nd.",
    "source": {
-    "l": "National Today",
-    "u": "https://nationaltoday.com/nelly-birthday/"
+    "l": "Music History Events",
+    "u": "https://www.thisdayinmusic.com/on-this-day/november-2/"
    },
    "fits": [
     {
@@ -460,99 +353,44 @@
    ],
    "angles": [
     {
-     "name": "Hip-Hop Icon",
-     "copy": "It's Nelly's 52nd birthday on November 2nd! Get ready to crank up the volume and celebrate the hip-hop legend. What's your favourite Nelly banger?",
+     "name": "Hip-Hop Star",
+     "copy": "It's Nelly's 52nd birthday tomorrow! Still remember all the words to 'Hot in Herre'?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "17:00",
      "tags": [
       "#Nelly"
      ]
     },
     {
-     "name": "Still Hot in Herre",
-     "copy": "Happy 52nd birthday loading for Nelly! From the early 2000s to now, his tracks still get the party started. Which Nelly song is always on your playlist?",
+     "name": "00s Throwback",
+     "copy": "Tomorrow, November 2nd, we're celebrating Nelly turning 52! What's your go-to track from the St. Louis rapper?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
-     "time": "17:00",
+     "time": "11:00",
      "tags": [
-      "#HipHop"
+      "#00sHits"
      ]
     }
    ]
   },
   {
-   "id": "adam-ant-birthday-72",
-   "off": 3,
-   "type": "birthday",
-   "hot": true,
-   "title": "Adam Ant Turns 72",
-   "blurb": "New wave and post-punk icon Adam Ant, known for his flamboyant style and chart-topping hits, celebrates his 72nd birthday on November 3rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Adam_Ant"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Prince Charming",
-     "copy": "Happy 72nd birthday to the incomparable Adam Ant on Tuesday! From 'Stand and Deliver' to 'Prince Charming', his influence is undeniable. What's your favourite Antmusic?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#AdamAnt"
-     ]
-    },
-    {
-     "name": "New Romantic Legend",
-     "copy": "Get ready to celebrate Adam Ant's 72nd birthday! Which of his iconic looks or songs do you remember most fondly from the 80s?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NewWave"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lulu-birthday-78",
-   "off": 3,
+   "id": "birthday-lulu",
+   "off": 2,
    "type": "birthday",
    "hot": true,
    "title": "Lulu Turns 78",
-   "blurb": "Scottish singing legend Lulu, whose career spans seven decades with hits like 'Shout' and 'Boom Bang-a-Bang', celebrates her 78th birthday on November 3rd.",
+   "blurb": "Scottish singing icon Lulu, famous for 'Shout' and 'To Sir With Love', celebrates her 78th birthday on November 3rd.",
    "source": {
-    "l": "National Today",
-    "u": "https://nationaltoday.com/lulu-birthday/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/november3.html"
    },
    "fits": [
     {
@@ -566,37 +404,31 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
     }
    ],
    "angles": [
     {
-     "name": "Scottish Icon",
-     "copy": "A very happy 78th birthday to the incredible Scottish icon, Lulu, on November 3rd! What's your favourite memory of her legendary career?",
+     "name": "Scottish Legend",
+     "copy": "Shout! The legendary Lulu turns 78 on November 3rd. A true Scottish icon!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "09:00",
      "tags": [
       "#Lulu"
      ]
     },
     {
-     "name": "Shout Out to Lulu",
-     "copy": "Three cheers for Lulu, turning 78 this Tuesday! From 'Shout' to Bond themes, she's done it all. What's the Lulu song that takes you back?",
+     "name": "Timeless Voice",
+     "copy": "Celebrating Lulu's 78th birthday this Tuesday! Her incredible career spans decades, from Eurovision to Bond themes.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "16:00",
+     "time": "14:00",
      "tags": [
       "#MusicLegend"
      ]
@@ -604,24 +436,67 @@
    ]
   },
   {
-   "id": "bryan-adams-birthday-67",
-   "off": 5,
+   "id": "birthday-adam-ant",
+   "off": 2,
    "type": "birthday",
    "hot": true,
-   "title": "Bryan Adams Turns 67",
-   "blurb": "Canadian rock superstar Bryan Adams, known for anthems like 'Summer of '69' and '(Everything I Do) I Do It for You', celebrates his 67th birthday on November 5th.",
+   "title": "Adam Ant is 72",
+   "blurb": "New wave pioneer Adam Ant, known for hits like 'Stand and Deliver', turns 72 on November 3rd.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Bryan_Adams"
+    "l": "Dave's Music Database",
+    "u": "https://davesmusicdatabase.com/november-music-makers-birthdays/"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Prince Charming",
+     "copy": "Happy 72nd Birthday to the dandy highwayman himself, Adam Ant! What's your favourite track from the new wave icon?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#AdamAnt"
+     ]
     },
     {
+     "name": "80s Style Icon",
+     "copy": "November 3rd marks Adam Ant's 72nd birthday! Still rocking that iconic look and sound.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#80sFashion"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-puff-daddy",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Sean 'Puff Daddy' Combs Turns 57",
+   "blurb": "Music mogul, rapper, and producer Sean 'Puff Daddy' Combs celebrates his 57th birthday on November 4th.",
+   "source": {
+    "l": "Music History Events",
+    "u": "https://www.thisdayinmusic.com/on-this-day/november-4/"
+   },
+   "fits": [
+    {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
@@ -629,50 +504,158 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Rock Anthem King",
-     "copy": "On Thursday, the legendary Bryan Adams turns 67! What's the ultimate Bryan Adams track that still gives you goosebumps?",
+     "name": "Hip-Hop Mogul",
+     "copy": "Happy 57th Birthday to the one and only Puff Daddy on November 4th! A true game-changer in music.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
-      "#BryanAdams"
+      "#PuffDaddy"
      ]
     },
     {
-     "name": "Summer of '69 Forever",
-     "copy": "Get ready to wish Bryan Adams a very happy 67th birthday! His songs are the soundtrack to so many memories. Which one is your all-time favourite?",
+     "name": "Bad Boy For Life",
+     "copy": "From Puffy to Diddy, Sean Combs turns 57 this Wednesday. What's your favourite track he produced or performed on?",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
      "time": "14:00",
      "tags": [
-      "#RockLegend"
+      "#BadBoyRecords"
      ]
     }
    ]
   },
   {
-   "id": "art-garfunkel-birthday-85",
-   "off": 5,
+   "id": "birthday-joni-mitchell",
+   "off": 6,
    "type": "birthday",
    "hot": true,
-   "title": "Art Garfunkel Turns 85",
-   "blurb": "Art Garfunkel, half of the iconic folk-rock duo Simon & Garfunkel, celebrates his 85th birthday on November 5th.",
+   "title": "Joni Mitchell is 83",
+   "blurb": "Folk music legend and influential singer-songwriter Joni Mitchell celebrates her 83rd birthday on November 7th.",
    "source": {
-    "l": "Britannica",
-    "u": "https://www.britannica.com/biography/Art-Garfunkel"
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/thisdayinmusic/november/7"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Folk Icon",
+     "copy": "Happy 83rd Birthday to the incomparable Joni Mitchell on November 7th! 'Big Yellow Taxi' still sounds as poignant as ever.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JoniMitchell"
+     ]
+    },
+    {
+     "name": "Blue Album",
+     "copy": "Celebrating the genius of Joni Mitchell, who turns 83 this Thursday. Her album 'Blue' is a masterpiece.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FolkMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-david-guetta",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "David Guetta Turns 59",
+   "blurb": "Grammy-winning French DJ and producer David Guetta, a global force in dance music, celebrates his 59th birthday on November 7th.",
+   "source": {
+    "l": "Songfacts",
+    "u": "https://www.songfacts.com/thisdayinmusic/november/7"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Floor King",
+     "copy": "When Love Takes Over! Happy 59th Birthday to the incredible David Guetta on November 7th. What's your favourite Guetta anthem?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DavidGuetta"
+     ]
+    },
+    {
+     "name": "Global DJ",
+     "copy": "This Thursday, November 7th, the one and only David Guetta turns 59! Still dominating the charts and clubs worldwide.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#EDM"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-roy-wood",
+   "off": 7,
+   "type": "birthday",
+   "hot": true,
+   "title": "Roy Wood is 80",
+   "blurb": "Multi-instrumentalist and songwriter Roy Wood, known for his work with The Move, ELO, and Wizzard, celebrates his 80th birthday on November 8th.",
+   "source": {
+    "l": "Music History Events",
+    "u": "https://www.thisdayinmusic.com/on-this-day/november-8/"
    },
    "fits": [
     {
@@ -685,112 +668,48 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Voice of a Generation",
-     "copy": "Happy 85th birthday to the legendary Art Garfunkel on Thursday! His harmonies with Paul Simon are timeless. What's your favourite Simon & Garfunkel song?",
+     "name": "Wizzard Legend",
+     "copy": "It's a big 80th birthday for the legendary Roy Wood on November 8th! From The Move to ELO to Wizzard, a true British music icon.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "11:00",
+     "time": "09:00",
      "tags": [
-      "#ArtGarfunkel"
+      "#RoyWood"
      ]
     },
     {
-     "name": "Bridge Over Troubled Water",
-     "copy": "Celebrating the enduring talent of Art Garfunkel, who turns 85 this week! His distinctive voice shaped an era. Which of his songs means the most to you?",
+     "name": "Christmas Classic",
+     "copy": "Still hear 'I Wish It Could Be Christmas Everyday' every year? That's Roy Wood, who turns 80 this Friday!",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#SimonAndGarfunkel"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "lorde-birthday-30",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Lorde Turns 30",
-   "blurb": "New Zealand singer-songwriter Lorde, known for her distinctive alternative pop sound and hits like 'Royals', celebrates her 30th birthday on November 7th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Lorde"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 10s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Royals at 30",
-     "copy": "Can you believe Lorde turns 30 this Saturday, November 7th?! From 'Royals' to 'Solar Power', her music is always captivating. What's your favourite Lorde track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Lorde"
-     ]
-    },
-    {
-     "name": "Alt-Pop Queen",
-     "copy": "A huge happy 30th birthday to Lorde this weekend! Her unique sound continues to inspire. Which of her albums do you love the most?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "14:00",
      "tags": [
-      "#AltPop"
+      "#Wizzard"
      ]
     }
    ]
   },
   {
-   "id": "rickie-lee-jones-birthday-72",
-   "off": 8,
+   "id": "birthday-bonnie-raitt",
+   "off": 7,
    "type": "birthday",
    "hot": true,
-   "title": "Rickie Lee Jones Turns 72",
-   "blurb": "Two-time Grammy Award winner Rickie Lee Jones, celebrated for her unique blend of jazz, folk, and rock, celebrates her 72nd birthday on November 8th.",
+   "title": "Bonnie Raitt Turns 77",
+   "blurb": "Grammy-winning blues-rock singer and guitarist Bonnie Raitt celebrates her 77th birthday on November 8th.",
    "source": {
-    "l": "AllMusic",
-    "u": "https://www.allmusic.com/artist/rickie-lee-jones-mn0000078028"
+    "l": "Music History Events",
+    "u": "https://www.thisdayinmusic.com/on-this-day/november-8/"
    },
    "fits": [
     {
@@ -800,149 +719,201 @@
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Duchess of Coolsville",
-     "copy": "Wishing a very happy 72nd birthday to the iconic Rickie Lee Jones on November 8th! Her 'Chuck E.'s in Love' is a timeless classic. What's your favourite of her genre-bending tunes?",
+     "name": "Blues Queen",
+     "copy": "Happy 77th Birthday to the incredible Bonnie Raitt on November 8th! A true blues-rock powerhouse.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "11:00",
      "tags": [
-      "#RickieLeeJones"
+      "#BonnieRaitt"
      ]
     },
     {
-     "name": "Jazz-Folk Fusion",
-     "copy": "Celebrating the incredible Rickie Lee Jones, who turns 72 this Sunday! A true artist who blends jazz, folk, and pop seamlessly. Which of her songs is on your rotation?",
+     "name": "Slide Guitar Master",
+     "copy": "This Friday, we celebrate Bonnie Raitt's 77th birthday! Her slide guitar skills are legendary.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "15:00",
+     "time": "17:00",
      "tags": [
-      "#SingerSongwriter"
+      "#BluesRock"
      ]
     }
    ]
   },
   {
-   "id": "nick-lachey-birthday-53",
-   "off": 9,
+   "id": "birthday-bryn-terfel",
+   "off": 8,
    "type": "birthday",
    "hot": true,
-   "title": "Nick Lachey Turns 53",
-   "blurb": "Nick Lachey, lead singer of 98 Degrees and TV personality, celebrates his 53rd birthday on November 9th.",
+   "title": "Bryn Terfel Turns 61",
+   "blurb": "Acclaimed Welsh bass-baritone opera singer Sir Bryn Terfel celebrates his 61st birthday on November 9th.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Nick_Lachey"
+    "u": "https://en.wikipedia.org/wiki/Bryn_Terfel"
    },
    "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Welsh Opera Star",
+     "copy": "Penblwydd Hapus to the magnificent Sir Bryn Terfel, who turns 61 on November 9th! A true Welsh national treasure.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BrynTerfel"
+     ]
+    },
+    {
+     "name": "Global Voice",
+     "copy": "Wales' own operatic superstar, Sir Bryn Terfel, celebrates his 61st birthday this Saturday. What an incredible voice!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#WelshTalent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "birthday-pepa",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Pepa (Salt-N-Pepa) is 57",
+   "blurb": "Sandra 'Pepa' Denton, one third of the pioneering hip-hop group Salt-N-Pepa, celebrates her 57th birthday on November 9th.",
+   "source": {
+    "l": "Music History Events",
+    "u": "https://www.thisdayinmusic.com/on-this-day/november-9/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Dance"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Hits"
     }
    ],
    "angles": [
     {
-     "name": "98 Degrees Throwback",
-     "copy": "Happy 53rd birthday to Nick Lachey on November 9th! Taking it back to the 98 Degrees days. What's your favourite boyband hit he's known for?",
+     "name": "Push It Real Good",
+     "copy": "Happy 57th Birthday to the iconic Pepa from Salt-N-Pepa on November 9th! A true hip-hop pioneer.",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "tiktok",
-      "threads"
+      "tiktok"
      ],
      "time": "10:00",
      "tags": [
-      "#NickLachey"
+      "#SaltNPepa"
      ]
     },
     {
-     "name": "Pop Heartthrob",
-     "copy": "Get ready to celebrate Nick Lachey's 53rd birthday this Monday! From boyband fame to TV host, he's done it all. What's your favourite 98 Degrees ballad?",
+     "name": "Hip-Hop Icon",
+     "copy": "This Saturday, we celebrate Pepa's 57th birthday! Get ready to 'Push It' in honour of a music legend.",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
-     "time": "16:00",
+     "time": "15:00",
      "tags": [
-      "#98Degrees"
+      "#Pepa"
      ]
     }
    ]
   },
   {
-   "id": "miranda-lambert-birthday-43",
-   "off": 10,
+   "id": "birthday-taron-egerton",
+   "off": 9,
    "type": "birthday",
    "hot": true,
-   "title": "Miranda Lambert Turns 43",
-   "blurb": "Award-winning American country music singer-songwriter Miranda Lambert celebrates her 43rd birthday on November 10th.",
+   "title": "Taron Egerton Turns 37",
+   "blurb": "Award-winning Welsh actor and singer Taron Egerton, known for his roles in 'Rocketman' and 'Kingsman', celebrates his 37th birthday on November 10th.",
    "source": {
-    "l": "National Today",
-    "u": "https://nationaltoday.com/miranda-lambert-birthday/"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/november10.html"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Country Queen",
-     "copy": "Happy 43rd birthday to the incredible Miranda Lambert on November 10th! Her powerful voice and songwriting are legendary. What's your go-to Miranda track?",
+     "name": "Welsh Star",
+     "copy": "Penblwydd Hapus to the brilliant Taron Egerton, who turns 37 on November 10th! What's your favourite of his performances?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
-      "#MirandaLambert"
+      "#TaronEgerton"
      ]
     },
     {
-     "name": "Chart-Topping Country",
-     "copy": "Get ready to celebrate Miranda Lambert's 43rd birthday! From 'Kerosene' to 'The House That Built Me', her hits are undeniable. Which song of hers do you love the most?",
+     "name": "Rocketman's Birthday",
+     "copy": "From 'Kingsman' to 'Rocketman', Welsh star Taron Egerton celebrates his 37th birthday this Sunday. A fantastic talent!",
      "channels": [
       "instagram",
       "facebook",
       "x",
-      "threads"
+      "tiktok"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#CountryMusic"
+      "#WelshActor"
      ]
     }
    ]
