@@ -1,16 +1,61 @@
 {
- "updated": "2026-11-06T16:22:53.166Z",
+ "updated": "2026-11-06T21:49:23.627Z",
  "moments": [
   {
-   "id": "im-a-celeb-2026-launch",
-   "off": 10,
-   "type": "tv",
+   "id": "prem-league-nov6",
+   "off": 0,
+   "type": "sport",
    "hot": true,
-   "title": "I'm A Celeb 2026: Jungle Calling!",
-   "blurb": "The 26th series of I'm A Celebrity... Get Me Out Of Here! officially launches on Monday 16 November, with Ant & Dec returning to host from Australia and a rumoured line-up generating buzz.",
+   "title": "Premier League Friday Night Football",
+   "blurb": "Everton host Coventry City tonight in the Premier League, kicking off a busy weekend of top-flight action.",
    "source": {
-    "l": "LADbible",
-    "u": "https://www.ladbible.com/entertainment/tv-and-film/im-a-celebrity-2026-start-date-time-and-how-to-watch-20261106"
+    "l": "Premier League Official",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Match Preview",
+     "copy": "Friday Night Football! Everton welcome Coventry City to Goodison Park tonight. Who are you backing for the win?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#EVECOV"
+     ]
+    },
+    {
+     "name": "Pre-match Hype",
+     "copy": "The Premier League weekend starts early! Everton vs Coventry City kicks off the action tonight. Score predictions?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prem-league-nov7",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "Super Saturday Premier League",
+   "blurb": "A packed Premier League Saturday sees Leeds United face Tottenham, Arsenal play Hull City, Fulham host Newcastle, and Nottingham Forest take on Manchester City.",
+   "source": {
+    "l": "Premier League Official",
+    "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
     {
@@ -18,22 +63,118 @@
      "sub": ""
     },
     {
-     "g": "welsh-local",
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Morning Kick-off",
+     "copy": "Premier League Saturday is here! Kicking off with Leeds vs Tottenham. Big points up for grabs early on.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#PL"
+     ]
+    },
+    {
+     "name": "Afternoon Games",
+     "copy": "Arsenal vs Hull City & Fulham vs Newcastle later today! Where's your focus this afternoon?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#COYG",
+      "#NUFC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prem-league-nov8",
+   "off": 2,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League Super Sunday",
+   "blurb": "Sunday's Premier League action features Crystal Palace vs Liverpool and Manchester United vs Aston Villa, alongside other key matchups.",
+   "source": {
+    "l": "Premier League Official",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
      "sub": ""
     },
     {
-     "g": "dragon",
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Big Games",
+     "copy": "Super Sunday is set to deliver! Crystal Palace host Liverpool, then Man Utd face Aston Villa. Who takes maximum points?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#LFC",
+      "#MUFC"
+     ]
+    },
+    {
+     "name": "Derby Day Vibes",
+     "copy": "Beyond the big clashes, Sunderland vs Chelsea and Brighton vs Brentford also take place. Which game are you most excited for?",
+     "channels": [
+      "instagram",
+      "x"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#PremierLeague"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im-a-celeb-2026-launch",
+   "off": 10,
+   "type": "tv",
+   "hot": true,
+   "title": "I'm A Celebrity... Get Me Out Of Here! Returns",
+   "blurb": "The 26th series of I'm A Celebrity... Get Me Out Of Here! launches on Monday, November 16th at 9pm on ITV1, a day later than usual due to a UEFA Nations League match.",
+   "source": {
+    "l": "ITV Press Centre",
+    "u": "https://www.itv.com/presscentre/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
      "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Launch Countdown",
-     "copy": "Ten days until Ant & Dec unleash a fresh batch of celebs into the Australian jungle! Who are you hoping to see on I'm A Celebrity... Get Me Out Of Here! this year?",
+     "name": "Jungle Countdown",
+     "copy": "The wait is almost over! I'm A Celebrity... Get Me Out Of Here! is back on November 16th. Who do you want to see in the jungle?",
      "channels": [
       "instagram",
       "facebook",
       "x",
+      "tiktok",
       "threads"
      ],
      "time": "10:00",
@@ -42,371 +183,279 @@
      ]
     },
     {
-     "name": "Line-up Speculation",
-     "for": "welsh-local",
-     "copy": "Rumours are swirling about the I'm A Celeb line-up, with our very own Joanna Page among the names! Could Nessa be swapping Barry Island for bushtucker trials?",
+     "name": "Line-up Rumours",
+     "copy": "Wayne Rooney, Ricky Wilson, Joanna Page are all rumoured for the jungle! Who would make your dream I'm A Celeb line-up this year?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "12:30",
+     "time": "14:00",
      "tags": [
-      "#ImACelebWales"
+      "#ImACeleb2026"
      ]
     }
    ]
   },
   {
-   "id": "strictly-week-7",
-   "off": 1,
-   "type": "tv",
+   "id": "pj-proby-bday-nov6",
+   "off": 0,
+   "type": "birthday",
    "hot": true,
-   "title": "Strictly Week 7: Show Must Go On!",
-   "blurb": "Strictly Come Dancing continues this Saturday for Week 7, but Jaime Winstone will be missing the live show due to an abdominal injury.",
+   "title": "Happy 88th to P.J. Proby",
+   "blurb": "American pop and rock singer P.J. Proby, known for his powerful voice and 1960s hits, turns 88 today.",
    "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/tv/entertainment/strictly-come-dancing/strictly-come-dancing-jaime-winstone-miss-show-news/"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/P._J._Proby"
    },
    "fits": [
     {
-     "g": "nation-network",
-     "sub": ""
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
     }
    ],
    "angles": [
     {
-     "name": "Injury Update",
-     "copy": "Wishing Jaime Winstone a speedy recovery! She'll be missing Strictly this weekend due to injury. Who are you backing to dazzle the judges in Week 7?",
+     "name": "Birthday Shoutout",
+     "copy": "Sending birthday wishes to the one and only P.J. Proby, who turns 88 today! Still got that incredible voice.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": []
+    },
+    {
+     "name": "60s Legend",
+     "copy": "From 'Hold Me' to 'Somewhere', P.J. Proby delivered some iconic 60s tracks. Happy 88th birthday to a true showman!",
      "channels": [
       "instagram",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PJProby"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "corey-glover-bday-nov6",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Corey Glover of Living Colour turns 62",
+   "blurb": "Corey Glover, the dynamic lead singer of the Grammy-winning rock band Living Colour, celebrates his 62nd birthday today.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Corey_Glover"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Icon",
+     "copy": "Happy 62nd Birthday to Living Colour's powerhouse vocalist, Corey Glover! What's your favourite Living Colour track?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#LivingColour"
+     ]
+    },
+    {
+     "name": "Voice of a Generation",
+     "copy": "From 'Cult of Personality' to 'Love Rears Its Ugly Head', Corey Glover's voice is unmistakable. Wishing him a fantastic 62nd birthday!",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#CoreyGlover"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joni-mitchell-bday-nov7",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Joni Mitchell Turns 83",
+   "blurb": "Legendary Canadian-American singer-songwriter Joni Mitchell, celebrated for her poetic lyrics and unique musical style, celebrates her 83rd birthday tomorrow.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joni_Mitchell"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Folk Icon",
+     "copy": "Tomorrow, the incredible Joni Mitchell turns 83! Her music continues to inspire generations. What's your go-to Joni track?",
+     "channels": [
       "facebook",
       "x"
      ],
      "time": "09:00",
      "tags": [
-      "#Strictly"
+      "#JoniMitchell"
      ]
     },
     {
-     "name": "Who Will Shine?",
-     "copy": "With one couple out, the pressure is on! Who will top the leaderboard in Week 7 of Strictly Come Dancing? Tune in Saturday night!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rugby-england-australia",
-   "off": 2,
-   "type": "sport",
-   "hot": true,
-   "title": "Rugby: England vs Australia Showdown",
-   "blurb": "England takes on Australia at Twickenham this Sunday, 8 November, in a major Autumn Nations Championship fixture.",
-   "source": {
-    "l": "England Rugby Travel",
-    "u": "https://www.englandrugbytravel.com/autumn-nations-series/northern-hemisphere-series/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Match Build-up",
-     "copy": "It's the big one! England face Australia at Twickenham this Sunday in the Autumn Nations Championship. Who's heading to HQ?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ENGvAUS"
-     ]
-    },
-    {
-     "name": "Twickenham Buzz",
-     "for": "nation-radio-london",
-     "copy": "Twickenham is set for a massive weekend as England clash with Australia. The atmosphere will be electric for this Autumn Nations Championship battle!",
+     "name": "Happy Birthday",
+     "copy": "From 'Big Yellow Taxi' to 'Both Sides Now', Joni Mitchell is a true musical poet. Wishing her a very happy 83rd birthday for tomorrow!",
      "channels": [
       "instagram",
-      "x"
+      "facebook"
      ],
      "time": "14:00",
      "tags": [
-      "#LondonRugby"
+      "#Legend"
      ]
     }
    ]
   },
   {
-   "id": "rugby-wales-allblacks",
-   "off": 8,
-   "type": "sport",
-   "hot": true,
-   "title": "Rugby: Wales vs All Blacks Anticipation",
-   "blurb": "Wales prepares to host the New Zealand All Blacks at Principality Stadium on Saturday 14 November, promising a thrilling Autumn Nations Championship encounter.",
-   "source": {
-    "l": "Gainline",
-    "u": "https://www.gainline.co.za/autumn-internationals-2026-fixtures-schedule-uk-kick-off-times-and-tv/"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cardiff Countdown",
-     "copy": "Eight days until the Principality Stadium roars! Wales vs the All Blacks – a clash of titans you won't want to miss. Get ready!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#WALvNZL"
-     ]
-    },
-    {
-     "name": "Welsh Pride",
-     "for": "welsh-local",
-     "copy": "The countdown is on for Wales taking on the legendary All Blacks in Cardiff next Saturday. Who's got their tickets?",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#WelshRugby"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cardiff-christmas-markets",
-   "off": 6,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Cardiff Christmas Market & Winter Wonderland Open",
-   "blurb": "Cardiff city centre will be aglow with festive cheer from Thursday 12 November, as the Christmas Market and Winter Wonderland open their doors.",
-   "source": {
-    "l": "Planomato",
-    "u": "https://www.planomato.com/events/cardiff-christmas-market"
-   },
-   "fits": [
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festive Cardiff",
-     "copy": "Get ready for some festive magic! Cardiff Christmas Market and Winter Wonderland open next Thursday. Time to plan your visit!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#CardiffChristmas"
-     ]
-    },
-    {
-     "name": "Winter Wonderland Fun",
-     "for": "welsh-local",
-     "copy": "Ice skating, festive stalls, and mulled wine! Cardiff's Winter Wonderland and Christmas Market are nearly here to kick off the season. What's your favourite part?",
-     "channels": [
-      "facebook",
-      "tiktok"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#WinterWonderlandCardiff"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "exeter-christmas-market",
-   "off": 7,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Exeter Cathedral Christmas Market Begins",
-   "blurb": "The enchanting Exeter Cathedral Christmas Market returns to Cathedral Green from Friday 13 November, offering a month of festive shopping and treats.",
-   "source": {
-    "l": "Exeter Cathedral",
-    "u": "https://www.exeter-cathedral.org.uk/events/exeter-cathedral-christmas-market-2026/"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Exeter Festive Opening",
-     "copy": "Exeter's most magical festive event is almost here! The Cathedral Christmas Market opens its doors next Friday. Get ready for local crafts and delicious food!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#ExeterChristmas"
-     ]
-    },
-    {
-     "name": "Devon Delights",
-     "for": "radio-exe",
-     "copy": "Stalls, mulled wine, and the stunning Cathedral backdrop! Who's excited for the Exeter Cathedral Christmas Market opening next week?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#DevonChristmas"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "london-christmas-lights",
-   "off": 3,
-   "type": "seasonal",
-   "hot": true,
-   "title": "London Christmas Lights Switch-ons Start",
-   "blurb": "London's iconic shopping streets begin their festive transformations next week, with Christmas light switch-on events across Oxford Street, Knightsbridge, Marylebone Village, and Covent Garden.",
-   "source": {
-    "l": "Pass the Keys",
-    "u": "https://www.passthekeys.co.uk/blog/london-christmas-lights-switch-on-dates-2026-where-to-stay/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "London Lit Up",
-     "copy": "The capital is getting festive! London's Christmas lights switch-ons begin next week. Which display are you most excited to see?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LondonChristmas"
-     ]
-    },
-    {
-     "name": "Oxford Street Sparkle",
-     "for": "nation-radio-london",
-     "copy": "Oxford Street's Harry Potter-themed Christmas lights switch on Monday! Get ready for some serious magic in the West End.",
-     "channels": [
-      "x",
-      "threads"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#OxfordStreet"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "the-baddies-gavin-stacey-cast",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Gavin & Stacey Stars Reunite for 'The Baddies'",
-   "blurb": "Rob Brydon, Alison Steadman, and Sheridan Smith from Gavin & Stacey are reuniting for a new BBC Christmas special titled 'The Baddies', an animation based on a Julia Donaldson book.",
-   "source": {
-    "l": "Wales Online",
-    "u": "https://www.walesonline.co.uk/lifestyle/tv/gavin-stacey-stars-reunite-very-27870959"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "G&S Reunion Buzz",
-     "copy": "It's not a new Gavin & Stacey episode, but some of our favourite cast members (Rob Brydon, Alison Steadman, Sheridan Smith) are together again for a BBC Christmas special, 'The Baddies'!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#TheBaddies"
-     ]
-    },
-    {
-     "name": "Familiar Voices",
-     "for": "welsh-local",
-     "copy": "From Barry Island to 'The Baddies'! Rob Brydon, Alison Steadman & Sheridan Smith are lending their voices to a new festive animation. Who's excited to hear them?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:30",
-     "tags": [
-      "#GavinAndStacey"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "pj-proby-birthday",
-   "off": 0,
+   "id": "david-guetta-bday-nov7",
+   "off": 1,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 88th to P.J. Proby",
-   "blurb": "American singer and actor P.J. Proby, known for his powerful 1960s vocals and flamboyant style, celebrates his 88th birthday today.",
+   "hot": true,
+   "title": "David Guetta's 59th Birthday",
+   "blurb": "French DJ and music producer David Guetta, a global force in electronic dance music, turns 59 tomorrow.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/November_6"
+    "u": "https://en.wikipedia.org/wiki/David_Guetta"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 60s"
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Dance Floor Filler",
+     "copy": "Tomorrow, the master of the dance floor, David Guetta, celebrates his 59th birthday! What's your favourite Guetta anthem?",
+     "channels": [
+      "x",
+      "facebook",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#DavidGuetta"
+     ]
+    },
+    {
+     "name": "Global DJ",
+     "copy": "From 'Titanium' to 'When Love Takes Over', David Guetta has shaped the sound of modern dance music. Happy 59th for tomorrow!",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#EDM"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lorde-bday-nov7",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Lorde Turns 30",
+   "blurb": "New Zealand singer-songwriter Lorde, known for her distinctive sound and hit 'Royals', will celebrate her 30th birthday tomorrow.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Lorde"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Star Milestone",
+     "copy": "Can you believe Lorde turns 30 tomorrow?! The 'Royals' singer has achieved so much already. What's your favourite song by her?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#Lorde"
+     ]
+    },
+    {
+     "name": "Birthday Shoutout",
+     "copy": "Happy 30th Birthday for tomorrow to the incredibly talented Lorde! What's your favourite track from the New Zealand star?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:30",
+     "tags": [
+      "#Music"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bonnie-raitt-bday-nov8",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "Bonnie Raitt's 77th Birthday",
+   "blurb": "Grammy-winning blues-rock singer-songwriter and guitarist Bonnie Raitt will be celebrating her 77th birthday on Sunday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Bonnie_Raitt"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "decades-genres",
@@ -419,29 +468,198 @@
    ],
    "angles": [
     {
-     "name": "60s Legend",
-     "copy": "Sending birthday wishes to the one and only P.J. Proby, turning 88 today! A true showman of the 60s. What's your favourite of his hits?",
+     "name": "Blues Legend",
+     "copy": "Wishing a very happy 77th birthday to the incredible Bonnie Raitt on Sunday! A true legend of blues and rock. What's your favourite track?",
      "channels": [
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "11:00",
      "tags": [
-      "#PJProby"
+      "#BonnieRaitt"
+     ]
+    },
+    {
+     "name": "Grammy Winner",
+     "copy": "From 'I Can't Make You Love Me' to 'Something to Talk About', Bonnie Raitt's career is full of classics. Happy 77th for Sunday!",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#RockAndBlues"
      ]
     }
    ]
   },
   {
-   "id": "chris-glen-birthday",
-   "off": 0,
+   "id": "roy-wood-bday-nov8",
+   "off": 2,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 76th to Chris Glen",
-   "blurb": "Scottish bassist Chris Glen, best known for his work with The Sensational Alex Harvey Band, marks his 76th birthday today.",
+   "hot": true,
+   "title": "Roy Wood Turns 80",
+   "blurb": "English rock legend Roy Wood, co-founder of The Move, Electric Light Orchestra, and Wizzard, celebrates his 80th birthday on Sunday.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/November_6"
+    "u": "https://en.wikipedia.org/wiki/Roy_Wood"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Glam Rock Icon",
+     "copy": "Happy 80th birthday for Sunday to the one and only Roy Wood! From The Move to ELO and Wizzard, his influence is huge.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#RoyWood"
+     ]
+    },
+    {
+     "name": "Music Maestro",
+     "copy": "Creator of some of the most memorable songs of the 70s, including festive favourite 'I Wish It Could Be Christmas Every Day'. Wishing Roy Wood a fantastic 80th birthday on Sunday!",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#ELO"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nick-lachey-bday-nov9",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Nick Lachey of 98 Degrees is 53",
+   "blurb": "American singer Nick Lachey, best known as the lead singer of the boy band 98 Degrees, turns 53 on Monday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Nick_Lachey"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Boy Band Heartthrob",
+     "copy": "Happy 53rd Birthday on Monday to Nick Lachey! What's your favourite 98 Degrees hit?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#NickLachey"
+     ]
+    },
+    {
+     "name": "90s Nostalgia",
+     "copy": "Still got 'Because of You' on repeat? Wishing Nick Lachey a great 53rd birthday this Monday!",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#98Degrees"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pepa-bday-nov9",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Pepa of Salt-N-Pepa Turns 57",
+   "blurb": "Sandra Denton, famously known as Pepa from the iconic hip-hop trio Salt-N-Pepa, celebrates her 57th birthday on Monday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Pepa"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip-Hop Pioneer",
+     "copy": "Push It! Happy 57th birthday to the legendary Pepa from Salt-N-Pepa on Monday! What's your favourite track from the group?",
+     "channels": [
+      "x",
+      "facebook",
+      "tiktok"
+     ],
+     "time": "12:30",
+     "tags": [
+      "#SaltNPepa"
+     ]
+    },
+    {
+     "name": "Birthday Vibes",
+     "copy": "Still rocking it! Wishing Pepa a fantastic 57th birthday this Monday. Get those classic tunes on!",
+     "channels": [
+      "instagram",
+      "threads"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#Pepa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neil-young-bday-nov12",
+   "off": 6,
+   "type": "birthday",
+   "hot": true,
+   "title": "Neil Young is 81",
+   "blurb": "Canadian-American rock and folk music icon Neil Young, known for his distinctive guitar work and songwriting, turns 81 on Thursday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Neil_Young"
    },
    "fits": [
     {
@@ -450,38 +668,204 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 70s"
+     "sub": "Nation Classic Hits"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Rock Bassist Birthday",
-     "copy": "Rock on! Happy 76th birthday to Scottish bass legend Chris Glen of The Sensational Alex Harvey Band. What's your top SAHB track?",
+     "name": "Rock Legend",
+     "copy": "Happy 81st Birthday to the incomparable Neil Young this Thursday! What's your favourite album from the legend?",
      "channels": [
-      "x",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#NeilYoung"
+     ]
+    },
+    {
+     "name": "Timeless Music",
+     "copy": "From 'Heart of Gold' to 'Harvest Moon', Neil Young's catalogue is immense. Wishing him a brilliant 81st birthday for Thursday!",
+     "channels": [
+      "instagram",
       "facebook"
      ],
-     "time": "12:00",
+     "time": "14:00",
      "tags": [
-      "#ChrisGlen"
+      "#FolkRock"
      ]
     }
    ]
   },
   {
-   "id": "corey-glover-birthday",
-   "off": 0,
+   "id": "travis-barker-bday-nov14",
+   "off": 8,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 62nd to Corey Glover",
-   "blurb": "Corey Glover, the powerful lead vocalist of Grammy-winning rock band Living Colour, celebrates his 62nd birthday today.",
+   "hot": true,
+   "title": "Travis Barker Turns 51",
+   "blurb": "American drummer Travis Barker, best known as a member of Blink-182, will be celebrating his 51st birthday on Saturday.",
    "source": {
     "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/November_6"
+    "u": "https://en.wikipedia.org/wiki/Travis_Barker"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Drumming Icon",
+     "copy": "Happy 51st Birthday to the drumming powerhouse, Travis Barker, this Saturday! What's your favourite Blink-182 song?",
+     "channels": [
+      "x",
+      "tiktok",
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#TravisBarker"
+     ]
+    },
+    {
+     "name": "Pop Punk Legend",
+     "copy": "From Blink-182 to his countless collaborations, Travis Barker is a true force of nature. Wishing him a fantastic 51st birthday on Saturday!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Blink182"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rev-run-bday-nov14",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Rev Run of Run-DMC is 62",
+   "blurb": "Joseph 'Rev Run' Simmons, co-founder of the pioneering hip-hop group Run-DMC, will celebrate his 62nd birthday on Saturday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joseph_Simmons"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip-Hop Royalty",
+     "copy": "Happy 62nd Birthday on Saturday to the legendary Rev Run! A true pioneer of hip-hop with Run-DMC.",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#RevRun"
+     ]
+    },
+    {
+     "name": "Walk This Way",
+     "copy": "From 'Walk This Way' to 'It's Tricky', Run-DMC changed the game. Wishing Rev Run a brilliant 62nd birthday this Saturday!",
+     "channels": [
+      "instagram",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#RunDMC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "diana-krall-bday-nov16",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Diana Krall Turns 62",
+   "blurb": "Acclaimed Canadian jazz pianist and singer Diana Krall will celebrate her 62nd birthday on Monday, November 16th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Diana_Krall"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jazz Superstar",
+     "copy": "Happy 62nd Birthday to the magnificent Diana Krall this Monday! Her smooth vocals and piano skills are unmatched.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#DianaKrall"
+     ]
+    },
+    {
+     "name": "Timeless Talent",
+     "copy": "For a perfect chilled-out vibe, put on some Diana Krall. Wishing her a wonderful 62nd birthday on November 16th!",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Jazz"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mani-stone-roses-bday-nov16",
+   "off": 10,
+   "type": "birthday",
+   "hot": true,
+   "title": "Mani of The Stone Roses is 64",
+   "blurb": "Gary 'Mani' Mounfield, the iconic bassist for The Stone Roses and Primal Scream, will celebrate his 64th birthday on Monday, November 16th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Mani_(bassist)"
    },
    "fits": [
     {
@@ -499,173 +883,28 @@
    ],
    "angles": [
     {
-     "name": "Living Colour Vocals",
-     "copy": "Wishing a very happy 62nd birthday to Living Colour frontman Corey Glover! His voice is unmistakable. What's your favourite Living Colour song?",
+     "name": "Indie Legend",
+     "copy": "Happy 64th Birthday to the legendary Mani from The Stone Roses this Monday! What's your favourite bassline from the man himself?",
      "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#CoreyGlover"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tim-rice-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 82nd to Sir Tim Rice",
-   "blurb": "Acclaimed English lyricist Sir Tim Rice, known for his collaborations on iconic musicals like 'Jesus Christ Superstar' and 'The Lion King', turns 82 on Tuesday.",
-   "source": {
-    "l": "Dave's Music Database",
-    "u": "https://davesmusicdatabase.blogspot.com/2022/11/november-music-makers-birthdays.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Musical Maestro",
-     "copy": "A true legend of stage and screen! Sir Tim Rice celebrates his 82nd birthday on Tuesday. Which of his famous lyrics is your favourite?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#TimRice"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "warren-g-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 56th to Warren G",
-   "blurb": "American rapper and producer Warren G, a pioneer of the G-funk sound known for his 1994 hit 'Regulate', celebrates his 56th birthday on Tuesday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/November_10"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "G-Funk Icon",
-     "copy": "Turn up the volume! Happy 56th birthday to the one and only Warren G on Tuesday. 'Regulate' still sounds fresh today!",
-     "channels": [
-      "tiktok",
       "x",
+      "facebook",
       "instagram"
      ],
-     "time": "13:00",
+     "time": "12:30",
      "tags": [
-      "#WarrenG"
+      "#TheStoneRoses"
      ]
-    }
-   ]
-  },
-  {
-   "id": "eve-birthday",
-   "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Happy 48th to Eve",
-   "blurb": "Grammy-winning American rapper, singer, and actress Eve, known for hits like 'Let Me Blow Ya Mind', turns 48 on Tuesday.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Portal:Music/DateOfBirth/November_10"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Hip-Hop Queen",
-     "copy": "Wishing a fierce 48th birthday to the incredible Eve on Tuesday! From Ruff Ryders to Hollywood, she's done it all. What's your favourite Eve track?",
+     "name": "Madchester Icon",
+     "copy": "From 'I Wanna Be Adored' to 'Fools Gold', Mani's bass is instantly recognisable. Wishing him a brilliant 64th birthday on November 16th!",
      "channels": [
       "instagram",
-      "facebook",
-      "x"
+      "threads"
      ],
-     "time": "15:00",
+     "time": "17:30",
      "tags": [
-      "#Eve"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-weather-today",
-   "off": 0,
-   "type": "seasonal",
-   "hot": false,
-   "title": "UK Weather: Chilly & Damp Friday",
-   "blurb": "The UK is experiencing a chilly, gloomy, and damp Friday, with temperatures around average for November and potential for overnight frost in some areas.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/about-us/press-office/news/weather-and-climate/2026/weather-headline-review-november"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Friday Forecast",
-     "copy": "A chilly and damp start to the weekend across much of the UK today. Grab a hot cuppa and wrap up warm if you're heading out!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#UKWeather"
-     ]
-    },
-    {
-     "name": "Autumn Feels",
-     "copy": "Definitely feeling like November! Expect gloomy skies and some damp patches today, with temperatures staying fairly average for the season.",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#AutumnWeather"
+      "#Mani"
      ]
     }
    ]
