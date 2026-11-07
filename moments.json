@@ -1,166 +1,58 @@
 {
- "updated": "2026-11-07T14:27:04.604Z",
+ "updated": "2026-11-07T19:07:14.788Z",
  "moments": [
-  {
-   "id": "premier-league-nov7",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Saturday Showdown",
-   "blurb": "Four Premier League matches are taking place today, Saturday 7th November, including Fulham vs Newcastle and Nottingham Forest vs Man City.",
-   "source": {
-    "l": "Sky Sports",
-    "u": "https://www.skysports.com/premier-league-fixtures-results"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio North East"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Match Day Buzz",
-     "copy": "Big day for Premier League fans! Fulham host Newcastle, Forest take on Man City, plus Leeds vs Tottenham and Arsenal vs Hull. Who are you backing today?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Local Team Focus",
-     "for": "Nation Radio North East",
-     "copy": "Huge one for the Toon Army today as Newcastle head to Fulham. Can they grab a crucial three points before the international break?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#NUFC"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rugby-nations-champ-nov7",
-   "off": 0,
-   "type": "sport",
-   "hot": true,
-   "title": "Nations Championship Rugby",
-   "blurb": "The World Rugby Nations Championship continues today with Scotland vs New Zealand at Murrayfield and Wales vs Japan in Cardiff.",
-   "source": {
-    "l": "Autumn Internationals",
-    "u": "https://www.autumninternationals.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    },
-    {
-     "g": "dragon",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rugby Action Today",
-     "copy": "Massive day for rugby fans! Scotland take on the All Blacks at Murrayfield, while Wales face Japan in Cardiff. Who's watching?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "13:30",
-     "tags": [
-      "#NationsChampionship"
-     ]
-    },
-    {
-     "name": "Wales Battle Japan",
-     "for": "welsh-local",
-     "copy": "Pob lwc i Gymru! Wales are at home in Cardiff today, taking on Japan in the Nations Championship. Big game for the boys in red!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#WalesRugby"
-     ]
-    }
-   ]
-  },
   {
    "id": "lorde-30th-birthday",
    "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Lorde Turns 30",
-   "blurb": "New Zealand singer-songwriter Lorde, born Ella Yelich-O'Connor, celebrates her 30th birthday today, 7th November.",
+   "title": "Lorde turns 30",
+   "blurb": "New Zealand singer-songwriter Lorde, known for hits like 'Royals' and 'Green Light', celebrates her 30th birthday today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/lorde.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Lorde"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "Happy 30th Lorde",
-     "copy": "Can you believe Lorde is 30 today?! From 'Royals' to 'Solar Power', she's given us some incredible tracks. What's your favourite?",
+     "name": "Pop Queen hits 30",
+     "copy": "Happy 30th birthday to Lorde! From 'Royals' to 'Solar Power', what's your favourite track from the New Zealand sensation?",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok",
+      "threads"
      ],
-     "time": "09:00",
+     "time": "08:00",
      "tags": [
       "#Lorde"
      ]
     },
     {
-     "name": "Lorde's Impact",
-     "copy": "Happy 30th to the one and only Lorde! A true trailblazer who changed the pop landscape. Here's to many more years of brilliant music.",
+     "name": "30 Years of Lorde",
+     "copy": "Can you believe Lorde is 30 today? Her unique sound has shaped a decade of pop. Which of her albums defined your teen years?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "12:00",
      "tags": [
-      "#PureHeroine"
+      "#Lorde30"
      ]
     }
    ]
@@ -169,12 +61,12 @@
    "id": "joni-mitchell-83rd-birthday",
    "off": 0,
    "type": "birthday",
-   "hot": true,
-   "title": "Joni Mitchell's 83rd Birthday",
-   "blurb": "The legendary Canadian singer-songwriter Joni Mitchell celebrates her 83rd birthday today, 7th November.",
+   "hot": false,
+   "title": "Joni Mitchell turns 83",
+   "blurb": "Legendary Canadian singer-songwriter Joni Mitchell, celebrated for her poetic lyrics and distinctive guitar playing, is 83 today.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/joni-mitchell.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Joni_Mitchell"
    },
    "fits": [
     {
@@ -184,52 +76,270 @@
     {
      "g": "decades-genres",
      "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Joni",
-     "copy": "An icon turns 83! Happy Birthday to the incredible Joni Mitchell, whose music continues to inspire generations. What's your go-to Joni track?",
+     "name": "Folk Icon's Birthday",
+     "copy": "Happy 83rd birthday to the incomparable Joni Mitchell! A true artist whose music continues to inspire generations. What's your go-to Joni track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "09:00",
      "tags": [
       "#JoniMitchell"
      ]
     },
     {
-     "name": "Timeless Talent",
-     "copy": "From 'Big Yellow Taxi' to 'A Case of You', Joni Mitchell's songwriting is simply unmatched. Wishing a very happy 83rd to a true legend.",
+     "name": "Celebrating Joni",
+     "copy": "From 'Big Yellow Taxi' to 'A Case of You', celebrating 83 years of Joni Mitchell's timeless artistry. Her influence is immeasurable.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "14:00",
      "tags": [
-      "#FolkLegend"
+      "#Legend"
      ]
     }
    ]
   },
   {
-   "id": "adam-ant-71st-birthday",
+   "id": "premier-league-weekend-nov7",
    "off": 0,
-   "type": "birthday",
+   "type": "sport",
    "hot": true,
-   "title": "Adam Ant Turns 71",
-   "blurb": "New Wave icon Adam Ant, born Stuart Leslie Goddard, celebrates his 71st birthday today, 7th November.",
+   "title": "Premier League Weekend Matches",
+   "blurb": "The Premier League continues this weekend with Matchweek 10 fixtures, including Leeds United vs Tottenham Hotspur today and Manchester United vs Aston Villa on Sunday.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/adam-ant.html"
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Saturday Football",
+     "copy": "Premier League action is ON! Leeds United take on Tottenham Hotspur today. Who are you backing for the points?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Sunday Showdown",
+     "copy": "Big one tomorrow! Manchester United host Aston Villa in the Premier League. Can Unai Emery's side cause an upset at Old Trafford?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#MUNAVL"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-halloween-hangover",
+   "off": 0,
+   "type": "chart",
+   "hot": true,
+   "title": "Halloween Hits Haunt UK Chart",
+   "blurb": "The latest Official UK Singles Chart (published Nov 6, 2026) sees Michael Jackson's 'Thriller' re-enter the Top 5 at its highest ever peak, while other spooky classics also climb.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
    },
    "fits": [
     {
      "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
      "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Thriller's New Peak",
+     "copy": "Michael Jackson's 'Thriller' just hit a new high on the Official UK Singles Chart, landing at No. 5! 43 years on, it's still terrifying the competition.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Thriller"
+     ]
+    },
+    {
+     "name": "Spooky Chart Climbers",
+     "copy": "Halloween's over, but the spooky hits are still haunting the charts! 'Ghostbusters', 'Somebody's Watching Me', and 'Spooky Scary Skeletons' are all flying high.",
+     "channels": [
+      "x",
+      "facebook",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#UKChart"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "christmas-songs-re-enter-chart",
+   "off": 0,
+   "type": "chart",
+   "hot": true,
+   "title": "Christmas Songs Re-Enter UK Chart",
+   "blurb": "Wham!'s 'Last Christmas' and Mariah Carey's 'All I Want For Christmas Is You' have made their earliest-ever re-entries into the Official UK Top 100.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Xmas"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Early Christmas Cheer",
+     "copy": "It's November 7th and the Christmas songs are already HERE! Wham!'s 'Last Christmas' and Mariah Carey's 'All I Want For Christmas Is You' have officially re-entered the charts. Too soon or just right?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ChristmasSongs"
+     ]
+    },
+    {
+     "name": "Mariah & Wham Return",
+     "copy": "The festive season has officially begun in the UK charts! Mariah Carey and Wham! are back, making their earliest ever Top 100 re-entries. Get ready!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ChristmasIsComing"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gordon-ramsay-60th-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": true,
+   "title": "Gordon Ramsay turns 60",
+   "blurb": "Celebrity chef and TV personality Gordon Ramsay, known for his fiery temper and Michelin-starred restaurants, celebrates his 60th birthday tomorrow.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gordon_Ramsay"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy 60th Chef!",
+     "copy": "Tomorrow, the one and only Gordon Ramsay turns 60! What's your favourite 'Ramsay moment' from Hell's Kitchen or Kitchen Nightmares?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#GordonRamsay"
+     ]
+    },
+    {
+     "name": "60 Years of Ramsay",
+     "copy": "He's cooked, he's cursed, he's conquered TV! Gordon Ramsay hits the big 6-0 tomorrow. Send him your birthday wishes!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "20:00",
+     "tags": [
+      "#ChefRamsay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bonnie-raitt-77th-birthday",
+   "off": 1,
+   "type": "birthday",
+   "hot": false,
+   "title": "Bonnie Raitt turns 77",
+   "blurb": "Grammy-winning blues-rock singer Bonnie Raitt, celebrated for her slide guitar work and soulful vocals, will be 77 tomorrow.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Bonnie_Raitt"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     },
     {
      "g": "decades-genres",
@@ -238,204 +348,8 @@
    ],
    "angles": [
     {
-     "name": "Prince Charming is 71!",
-     "copy": "Happy 71st Birthday to the one and only Adam Ant! Still looking dandy and making us want to 'Stand and Deliver'. What's your favourite Ant hit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#AdamAnt"
-     ]
-    },
-    {
-     "name": "Antmusic for a Birthday",
-     "copy": "Wishing a very happy 71st to Adam Ant! The 'Prince Charming' of New Wave still has that unique spark. Celebrate with some classic Antmusic today!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#NewWave"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bonfire-night-alexandra-palace",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Alexandra Palace Fireworks Festival",
-   "blurb": "The Alexandra Palace Fireworks Festival continues tonight, Saturday 7th November, offering one of London's largest Bonfire Night celebrations.",
-   "source": {
-    "l": "Alexandra Palace",
-    "u": "https://www.alexandrapalace.com/whats-on/fireworks-festival/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Ally Pally Fireworks!",
-     "copy": "The skies over London are lighting up tonight for Bonfire Night! Alexandra Palace's Fireworks Festival is on – don't miss the spectacular display.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#BonfireNight"
-     ]
-    },
-    {
-     "name": "Last Chance for Fireworks",
-     "copy": "Still got that Bonfire Night feeling? Alexandra Palace is the place to be tonight for fireworks, food, and fun. Wrap up warm and enjoy the show!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:30",
-     "tags": [
-      "#LondonFireworks"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing-injury",
-   "off": 0,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly's Jaime Winstone Out",
-   "blurb": "Actress Jaime Winstone will miss this weekend's Strictly Come Dancing live show due to a torn abdominal muscle, but will receive a bye to next week.",
-   "source": {
-    "l": "Radio Times",
-    "u": "https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-jaime-winstone-injury-news-exclusive/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Strictly Injury Drama",
-     "copy": "Oh no! Strictly's Jaime Winstone is out this weekend with an injury. Wishing her a speedy recovery – who do you think will shine on the dance floor in her absence?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#Strictly"
-     ]
-    },
-    {
-     "name": "Glitterball Race Heats Up",
-     "copy": "Another twist in the Strictly ballroom! Jaime Winstone won't be dancing this weekend. It's anyone's game for the Glitterball trophy now!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "england-vs-australia-rugby",
-   "off": 1,
-   "type": "sport",
-   "hot": true,
-   "title": "England Rugby vs Australia",
-   "blurb": "England will face Australia in their first home game of the Nations Championship tomorrow, Sunday 8th November, at Twickenham Stadium.",
-   "source": {
-    "l": "England Rugby",
-    "u": "https://www.englandrugby.com/tickets/fixtures-and-results"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Red Rose vs Wallabies",
-     "copy": "Tomorrow, England take on Australia in a massive Nations Championship clash at Twickenham! Who are you backing to win this historic rivalry?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#EnglandRugby"
-     ]
-    },
-    {
-     "name": "Sunday Rugby Thriller",
-     "copy": "Get ready for some Sunday rugby action! England vs Australia promises to be a thrilling encounter. What's your score prediction?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#Twickenham"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "oxford-street-lights-harry-potter",
-   "off": 2,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Oxford Street Christmas Lights Switch-On",
-   "blurb": "Oxford Street's Christmas lights, featuring a Harry Potter-themed takeover, are set to switch on Monday 9th November with a 'magical' night of entertainment.",
-   "source": {
-    "l": "MyLondon",
-    "u": "https://www.mylondon.news/whats-on/whats-on-news/london-christmas-lights-switch-dates-28003613"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Magic on Oxford Street",
-     "copy": "Get ready for some festive magic! Oxford Street's Harry Potter-themed Christmas lights switch on this Monday. Who's excited for the wizarding world to light up London?",
+     "name": "Blues-Rock Icon",
+     "copy": "Tomorrow, we celebrate the 77th birthday of the incredible Bonnie Raitt! Her voice and guitar work are simply iconic. What's your favourite Bonnie Raitt song?",
      "channels": [
       "instagram",
       "facebook",
@@ -443,14 +357,111 @@
      ],
      "time": "10:00",
      "tags": [
-      "#OxfordStreetLights"
+      "#BonnieRaitt"
      ]
     },
     {
-     "name": "Christmas Countdown",
-     "copy": "The Christmas countdown officially begins on Oxford Street this Monday! Expect a spellbinding Harry Potter takeover for this year's lights switch-on.",
+     "name": "Celebrating Bonnie",
+     "copy": "Get ready to celebrate a living legend! Bonnie Raitt turns 77 tomorrow. From 'I Can't Make You Love Me' to her latest work, her music remains timeless.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#MusicLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nick-lachey-53rd-birthday",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Nick Lachey turns 53",
+   "blurb": "Nick Lachey, lead singer of 98 Degrees and TV personality, will celebrate his 53rd birthday on Monday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Nick_Lachey"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "98 Degrees Birthday",
+     "copy": "Monday is Nick Lachey's 53rd birthday! The 98 Degrees frontman gave us so many classic hits. Which one brings back the best memories?",
      "channels": [
       "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#NickLachey"
+     ]
+    },
+    {
+     "name": "Boyband Icon",
+     "copy": "Celebrating Nick Lachey's 53rd on Monday! What's your favourite 98 Degrees ballad or upbeat track?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#98Degrees"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kensington-high-street-christmas-lights",
+   "off": 3,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Kensington High Street Christmas Lights",
+   "blurb": "Kensington High Street will switch on its Christmas lights on Tuesday, November 10, bringing festive cheer to West London.",
+   "source": {
+    "l": "Kensington and Chelsea",
+    "u": "https://www.rbkc.gov.uk/christmas-events"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "West London Sparkles",
+     "copy": "West London gets festive! Kensington High Street's Christmas lights switch-on is happening on Tuesday. Who's heading down to see the sparkle?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#KensingtonChristmas"
+     ]
+    },
+    {
+     "name": "Festive Kensal",
+     "copy": "The festive season officially arrives in Kensington on Tuesday with the High Street's Christmas lights switch-on! Expect entertainment and local treats.",
+     "channels": [
       "facebook",
       "x"
      ],
@@ -462,161 +473,62 @@
    ]
   },
   {
-   "id": "madame-blanc-mysteries-s5",
-   "off": 2,
-   "type": "tv",
-   "hot": true,
-   "title": "Madame Blanc Mysteries Returns",
-   "blurb": "The Madame Blanc Mysteries returns for its fifth season on Monday 9th November, exclusively on Acorn TV, with new episodes weekly.",
-   "source": {
-    "l": "The British TV Place",
-    "u": "https://thebritishtvplace.com/2026/11/british-tv-premieres-november-2026/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Cozy Mystery Fix",
-     "copy": "Your favourite antique dealer/murder solver is back! The Madame Blanc Mysteries Season 5 premieres Monday on Acorn TV. Ready for more French intrigue?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#MadameBlancMysteries"
-     ]
-    },
-    {
-     "name": "New Series Alert",
-     "copy": "Sally Lindsay returns for new mysteries in Sainte Victoire! Don't miss the Season 5 premiere of The Madame Blanc Mysteries this Monday.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#AcornTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "diana-krall-birthday",
+   "id": "marylebone-covent-garden-christmas-lights",
    "off": 4,
-   "type": "birthday",
-   "hot": false,
-   "title": "Diana Krall Turns 62",
-   "blurb": "Canadian jazz pianist and singer Diana Krall celebrates her 62nd birthday on Wednesday 11th November.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/diana-krall.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jazz Queen's Birthday",
-     "copy": "Wishing a very Happy 62nd Birthday to the sublime Diana Krall on Wednesday! Her smooth vocals and incredible piano skills are simply timeless.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#DianaKrall"
-     ]
-    },
-    {
-     "name": "Celebrating a Jazz Icon",
-     "copy": "Wednesday marks Diana Krall's 62nd birthday. What's your favourite track from the multi-Grammy winning jazz sensation?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#JazzMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "london-jazz-festival",
-   "off": 6,
-   "type": "gig",
+   "type": "seasonal",
    "hot": true,
-   "title": "EFG London Jazz Festival Kicks Off",
-   "blurb": "The EFG London Jazz Festival begins on Friday 13th November, running for ten days across various venues in the city, featuring over 300 live shows.",
+   "title": "Marylebone & Covent Garden Christmas Lights",
+   "blurb": "Marylebone Village and Covent Garden will both switch on their Christmas lights on Wednesday, November 11 and Thursday, November 12 respectively.",
    "source": {
-    "l": "EFG London Jazz Festival",
-    "u": "https://efglondonjazzfestival.org.uk/"
+    "l": "Pass the Keys / Covent Garden",
+    "u": "https://www.passthekeys.co.uk/blog/london-christmas-lights-switch-on-dates-and-where-to-stay-in-2026/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Jazz Takes Over London",
-     "copy": "Get ready for a city filled with rhythm! The EFG London Jazz Festival starts this Friday, bringing ten days of incredible music to venues across the capital. What gigs are you eyeing up?",
+     "name": "Central London Lights",
+     "copy": "More London Christmas sparkle this week! Marylebone Village lights up on Wednesday, followed by Covent Garden on Thursday. Which one are you most excited for?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:30",
+     "time": "10:00",
      "tags": [
-      "#LondonJazzFestival"
+      "#LondonChristmasLights"
      ]
     },
     {
-     "name": "Weekend of Smooth Sounds",
-     "copy": "The EFG London Jazz Festival kicks off this weekend! Whether you're a seasoned jazz fan or curious to explore, there's something for everyone. Dive into the smooth sounds of London.",
+     "name": "Covent Garden Magic",
+     "copy": "Save the date! Covent Garden's iconic Christmas lights switch-on is Thursday, November 12, promising 300,000 sparkling lights and festive performances.",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
      "time": "15:00",
      "tags": [
-      "#JazzInLondon"
+      "#CoventGarden"
      ]
     }
    ]
   },
   {
-   "id": "noah-kahan-london-gigs",
-   "off": 6,
-   "type": "gig",
-   "hot": true,
-   "title": "Noah Kahan Plays London",
-   "blurb": "American singer-songwriter Noah Kahan is set to play multiple dates in London on 13th, 14th, and 17th November.",
+   "id": "neil-young-81st-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": false,
+   "title": "Neil Young turns 81",
+   "blurb": "Rock and folk icon Neil Young, known for his distinctive guitar work and prolific songwriting, will celebrate his 81st birthday on Thursday.",
    "source": {
-    "l": "OnesToWatch",
-    "u": "https://www.onestowatch.com/text/london-concerts-mid-october-to-november-2026-picks"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Neil_Young"
    },
    "fits": [
     {
@@ -624,51 +536,62 @@
      "sub": "Nation Rocks"
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
     }
    ],
    "angles": [
     {
-     "name": "Noah Kahan Hits London",
-     "copy": "Calling all 'Stick Season' fans! Noah Kahan is in London this weekend for multiple sold-out shows. Who's lucky enough to have tickets?",
+     "name": "Legendary Neil",
+     "copy": "On Thursday, the legendary Neil Young turns 81! What's your all-time favourite track from the 'Godfather of Grunge'?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "09:00",
      "tags": [
-      "#NoahKahan"
+      "#NeilYoung"
      ]
     },
     {
-     "name": "Folk-Pop Sensation",
-     "copy": "Noah Kahan bringing his unique folk-pop sound to London this week! Expect heartfelt lyrics and incredible live energy. Are you ready?",
+     "name": "81 Years of Young",
+     "copy": "Celebrating 81 years of Neil Young's incredible music on Thursday. From Buffalo Springfield to Crazy Horse, his impact is immense.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "17:30",
+     "time": "14:00",
      "tags": [
-      "#StickSeason"
+      "#RockLegend"
      ]
     }
    ]
   },
   {
-   "id": "wales-vs-new-zealand-rugby",
+   "id": "autumn-nations-rugby-nov14",
    "off": 7,
    "type": "sport",
    "hot": true,
-   "title": "Wales Face All Blacks",
-   "blurb": "Wales will play New Zealand in the Nations Championship on Saturday 14th November at Principality Stadium, Cardiff.",
+   "title": "Rugby Autumn Nations Championship",
+   "blurb": "The inaugural Autumn Nations Championship continues next Saturday, November 14, with Wales taking on the All Blacks and England facing Japan.",
    "source": {
-    "l": "Autumn Internationals",
-    "u": "https://www.autumninternationals.co.uk/"
+    "l": "Gainline / Autumn Nations Series",
+    "u": "https://www.gainline.co.uk/autumn-internationals-2026-fixtures-schedule-uk-kick-off-times-and-tv/"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "welsh-local",
      "sub": ""
@@ -676,21 +599,15 @@
     {
      "g": "dragon",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Big Game for Wales",
-     "for": "welsh-local",
-     "copy": "Another huge test for Wales next Saturday as they welcome the mighty All Blacks to the Principality Stadium! Can they cause an upset?",
+     "name": "Wales vs All Blacks",
+     "copy": "Huge rugby clash next Saturday! Wales go head-to-head with the mighty All Blacks in the Autumn Nations Championship. Who are you rooting for?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
      "time": "11:00",
      "tags": [
@@ -698,31 +615,78 @@
      ]
     },
     {
-     "name": "All Blacks in Cardiff",
-     "for": "dragon",
-     "copy": "The All Blacks are coming to Cardiff! Wales vs New Zealand next Saturday is going to be an absolute cracker. Get behind the boys!",
+     "name": "England Rugby",
+     "copy": "England are back in action next Saturday, facing Japan in the Autumn Nations Championship. Big test for Steve Borthwick's side!",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
      "time": "15:00",
      "tags": [
-      "#PrincipalityStadium"
+      "#ENGvJPN"
      ]
     }
    ]
   },
   {
-   "id": "im-a-celeb-launch",
+   "id": "gerard-butler-57th-birthday",
+   "off": 6,
+   "type": "birthday",
+   "hot": false,
+   "title": "Gerard Butler turns 57",
+   "blurb": "Scottish actor Gerard Butler, known for his roles in '300' and 'Olympus Has Fallen', celebrates his 57th birthday next Friday.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Gerard_Butler"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Scottish Star's Birthday",
+     "copy": "Next Friday, Scottish hard-man Gerard Butler turns 57! What's your favourite action-packed movie role from him?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#GerardButler"
+     ]
+    },
+    {
+     "name": "This is Sparta!",
+     "copy": "Wishing a very happy 57th birthday to Gerard Butler next Friday! What's the most iconic line from his films you can remember?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#ActorBirthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im-a-celebrity-2026-launch",
    "off": 9,
    "type": "tv",
    "hot": true,
-   "title": "I'm A Celebrity... Get Me Out Of Here! Launch",
-   "blurb": "I'm A Celebrity... Get Me Out Of Here! officially launches on Monday 16th November at 9pm on ITV1, delayed by one day due to the UEFA Nations League match.",
+   "title": "I'm A Celebrity... Launch",
+   "blurb": "The 26th series of 'I'm A Celebrity... Get Me Out Of Here!' officially launches on Monday, November 16, at 9pm on ITV1 and ITVX.",
    "source": {
-    "l": "ITV Press Centre",
-    "u": "https://www.itv.com/presscentre/ep1week46/im-celebrityget-me-out-here"
+    "l": "ITV",
+    "u": "https://www.itv.com/imacelebrity"
    },
    "fits": [
     {
@@ -733,7 +697,217 @@
    "angles": [
     {
      "name": "Jungle Countdown",
-     "copy": "The wait is almost over! I'm A Celebrity... Get Me Out Of Here! starts a week on Monday. Who are you hoping to see in the jungle this year?",
+     "copy": "The countdown is ON! I'm A Celebrity... Get Me Out Of Here! officially kicks off on Monday at 9pm on ITV1. Who do you think will be crowned King or Queen of the Jungle?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#ImACeleb"
+     ]
+    },
+    {
+     "name": "Ant & Dec Are Back",
+     "copy": "Ant & Dec are heading back to Australia! The new series of I'm A Celebrity starts Monday 16 November. Get ready for bushtucker trials and plenty of drama!",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#IAC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-script-uk-tour",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "The Script UK Tour",
+   "blurb": "Irish pop-rock band The Script are currently on their UK & Ireland tour throughout November, supporting their new album.",
+   "source": {
+    "l": "Radio Times / Rayo",
+    "u": "https://www.radiotimes.com/music/best-uk-tours-concerts-2026-2027-tickets/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "The Script Live",
+     "copy": "The Script are bringing their new album and classic hits to the UK this month! Who's managed to grab tickets for their tour?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#TheScript"
+     ]
+    },
+    {
+     "name": "Gigs This Week",
+     "copy": "Catch The Script live in the UK this November! Which city are they playing near you?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#UKGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noah-kahan-uk-tour",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Noah Kahan 'The Great Divide' Tour",
+   "blurb": "Noah Kahan's 'The Great Divide' Tour is currently in the UK this November, with dates in Glasgow, Manchester, and London.",
+   "source": {
+    "l": "Rayo",
+    "u": "https://www.rayo.fm/entertainment/music/biggest-tours-uk-2026-2027-how-to-get-tickets"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Noah Kahan UK Dates",
+     "copy": "Noah Kahan is playing across the UK this month on 'The Great Divide' Tour! Who's seen him live or is heading to a show in Glasgow, Manchester, or London?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#NoahKahan"
+     ]
+    },
+    {
+     "name": "Stick Season Live",
+     "copy": "If you're a Noah Kahan fan, he's in the UK this November! Get ready for 'Stick Season' and more live.",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#TheGreatDivide"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tinie-tempah-uk-tour",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Tinie Tempah UK Tour",
+   "blurb": "Tinie Tempah's 'The Night's Not Dead – UK Tour 2026' is running through November and December.",
+   "source": {
+    "l": "Rayo",
+    "u": "https://www.rayo.fm/entertainment/music/biggest-tours-uk-2026-2027-how-to-get-tickets"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Tinie Tempah Live",
+     "copy": "Tinie Tempah is hitting the road this November/December on 'The Night's Not Dead' tour! Get ready to party to some massive tracks.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#TinieTempah"
+     ]
+    },
+    {
+     "name": "UK Dance Gigs",
+     "copy": "Catch Tinie Tempah live across the UK this month! What's your favourite track from the chart-topping artist?",
+     "channels": [
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "20:00",
+     "tags": [
+      "#UKTour"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deep-purple-uk-tour",
+   "off": 15,
+   "type": "gig",
+   "hot": false,
+   "title": "Deep Purple UK Tour",
+   "blurb": "Rock legends Deep Purple are on a headline UK arena tour this November, with a stop at London's The O2 on November 22.",
+   "source": {
+    "l": "Tickets for Good",
+    "u": "https://ticketsforgood.org/blog/uk-concerts-and-tours-2026/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Deep Purple Rocks On",
+     "copy": "Deep Purple are bringing their iconic sound to UK arenas this November, including The O2 London on the 22nd! Don't miss these rock legends.",
      "channels": [
       "instagram",
       "facebook",
@@ -741,34 +915,79 @@
      ],
      "time": "10:00",
      "tags": [
-      "#ImACeleb"
+      "#DeepPurple"
      ]
     },
     {
-     "name": "Ant & Dec Are Back!",
-     "copy": "Get ready for trials, tantrums, and Ant & Dec's hilarious commentary! I'm A Celeb returns next Monday. Who's your dream campmate?",
+     "name": "Rock Legends Live",
+     "copy": "Still got that 'Smoke on the Water' energy? Deep Purple are touring the UK this month. A chance to see rock royalty!",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#IACGMOOH"
+      "#ClassicRock"
      ]
     }
    ]
   },
   {
-   "id": "honey-bbc-drama-launch",
-   "off": 7,
-   "type": "tv",
-   "hot": false,
-   "title": "New BBC Drama 'Honey' Premieres",
-   "blurb": "The new Cold War spy drama 'Honey' premieres on BBC One and BBC iPlayer on Saturday 14th November.",
+   "id": "hyde-park-winter-wonderland",
+   "off": 12,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Hyde Park Winter Wonderland",
+   "blurb": "Hyde Park Winter Wonderland, London's massive festive event, opens its doors on Thursday, November 19, running until January 3, 2027.",
    "source": {
-    "l": "TV Zone",
-    "u": "https://www.tvzoneuk.com/post/schedules-1420nov26"
+    "l": "Pass the Keys",
+    "u": "https://www.passthekeys.co.uk/blog/london-christmas-lights-switch-on-dates-and-where-to-stay-in-2026/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Winter Wonderland Opens",
+     "copy": "Get ready for festive fun! Hyde Park Winter Wonderland opens on Thursday, November 19. Who's excited for ice skating, rides, and Christmas markets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#WinterWonderland"
+     ]
+    },
+    {
+     "name": "London Festive Fun",
+     "copy": "It's almost time for Hyde Park Winter Wonderland! From Nov 19, London is transformed into a festive paradise. What's your favourite part of Winter Wonderland?",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#LondonEvents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "watford-christmas-lights-switch-on",
+   "off": 14,
+   "type": "seasonal",
+   "hot": false,
+   "title": "Watford Christmas Lights Switch-On",
+   "blurb": "Watford's Christmas Lights Switch-On returns to Pondside on Saturday, November 21, featuring a parade, live entertainment, and new starry night installations.",
+   "source": {
+    "l": "Watford Council",
+    "u": "https://www.watford.gov.uk/news/article/1630/watford-christmas-lights-switch-on-to-take-place-at-pondside-on-saturday-21-november-2026"
    },
    "fits": [
     {
@@ -778,79 +997,216 @@
    ],
    "angles": [
     {
-     "name": "New Spy Thriller",
-     "copy": "Looking for your next TV obsession? New Cold War spy drama 'Honey' lands on BBC One next Saturday. Get ready for some serious espionage!",
+     "name": "Watford Sparkles",
+     "copy": "Watford is getting festive! The Christmas Lights Switch-On is on Saturday, November 21, at Pondside. Expect a parade and live entertainment for all the family.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "10:00",
      "tags": [
-      "#HoneyBBC"
+      "#WatfordChristmas"
      ]
     },
     {
-     "name": "Weekend Viewing",
-     "copy": "Mark your calendars! The highly anticipated new drama 'Honey' starts next Saturday on BBC. Perfect for a gripping weekend watch.",
+     "name": "Local Festive Event",
+     "copy": "Brand new starry night installations will light up Watford Town Centre at the Christmas Lights Switch-On on November 21! Don't miss the parade.",
      "channels": [
-      "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "15:00",
      "tags": [
-      "#BBCDrama"
+      "#ChristmasLights"
      ]
     }
    ]
   },
   {
-   "id": "travis-barker-birthday",
-   "off": 7,
-   "type": "birthday",
-   "hot": false,
-   "title": "Travis Barker Turns 51",
-   "blurb": "Blink-182 drummer Travis Barker celebrates his 51st birthday on Saturday 14th November.",
+   "id": "man-utd-vs-aston-villa-premier-league",
+   "off": 1,
+   "type": "sport",
+   "hot": true,
+   "title": "Man Utd vs Aston Villa",
+   "blurb": "Manchester United are set to host Aston Villa in a key Premier League clash at Old Trafford on Sunday, November 8.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/travis-barker.html"
+    "l": "Sky Sports",
+    "u": "https://www.skysports.com/premier-league-fixtures"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Happy Birthday Travis",
-     "copy": "Happy 51st Birthday to the legendary Travis Barker! The powerhouse behind Blink-182, still drumming up a storm. What's your favourite Blink track?",
+     "name": "Old Trafford Battle",
+     "copy": "Tomorrow: Manchester United vs Aston Villa! Can Erik ten Hag's side get a crucial win at home, or will Villa continue their impressive run?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "09:30",
+     "time": "10:00",
      "tags": [
-      "#TravisBarker"
+      "#MUNAVL"
      ]
     },
     {
-     "name": "Drummer Extraordinaire",
-     "copy": "From punk rock anthems to pop collaborations, Travis Barker is a drumming icon. Wishing him a very happy 51st next Saturday!",
+     "name": "Premier League Sunday",
+     "copy": "Who's ready for Sunday's Premier League action? Manchester United face Aston Villa in what promises to be an exciting encounter!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Football"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "liverpool-vs-man-utd-premier-league",
+   "off": 15,
+   "type": "sport",
+   "hot": true,
+   "title": "Liverpool vs Man Utd Premier League",
+   "blurb": "The fierce rivalry renews on Sunday, November 22, as Liverpool host Manchester United at Anfield in the Premier League.",
+   "source": {
+    "l": "Eventmasters / Sky Sports",
+    "u": "https://www.eventmasters.co.uk/premier-league-november-2026-fixtures-confirmed-arsenal-aston-villa-liverpool-and-spurs-home-games/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Massive Derby",
+     "copy": "Mark your calendars! Liverpool vs Manchester United on Sunday, November 22nd. One of the biggest rivalries in English football is back!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#LIVMUN"
+     ]
+    },
+    {
+     "name": "Anfield Showdown",
+     "copy": "Anfield will be rocking on November 22nd for Liverpool vs Manchester United. Who do you think will come out on top in this classic clash?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "danny-devito-82nd-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Danny DeVito turns 82",
+   "blurb": "Acclaimed actor and filmmaker Danny DeVito, known for his roles in 'Matilda', 'Taxi', and 'It's Always Sunny in Philadelphia', celebrates his 82nd birthday on Tuesday, November 17.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Danny_DeVito"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hollywood Legend",
+     "copy": "Happy 82nd birthday to the iconic Danny DeVito next Tuesday! What's your favourite film or TV show he's been in?",
      "channels": [
       "instagram",
       "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#DannyDeVito"
+     ]
+    },
+    {
+     "name": "Celebrating DeVito",
+     "copy": "From 'Matilda' to 'It's Always Sunny...', Danny DeVito turns 82 next week! A true legend of screen and stage.",
+     "channels": [
+      "facebook",
       "x"
      ],
-     "time": "15:30",
+     "time": "14:00",
      "tags": [
-      "#Blink182"
+      "#ActorBirthday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rupaul-66th-birthday",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "RuPaul turns 66",
+   "blurb": "Drag icon, singer, and TV personality RuPaul Charles, creator and host of 'RuPaul's Drag Race', celebrates his 66th birthday on Tuesday, November 17.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/RuPaul"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Shantay, You Stay!",
+     "copy": "Werk! RuPaul turns 66 next Tuesday! The ultimate drag superstar has brought so much joy and fierce energy to the world. What's your favourite RuPaul track or Drag Race moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#RuPaul"
+     ]
+    },
+    {
+     "name": "Celebrating a Queen",
+     "copy": "Happy 66th birthday to the one and only RuPaul next week! A true trailblazer in music, fashion, and TV.",
+     "channels": [
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#DragRace"
      ]
     }
    ]
