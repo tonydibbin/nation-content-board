@@ -1,116 +1,84 @@
 {
- "updated": "2026-11-07T07:53:15.073Z",
+ "updated": "2026-11-07T14:27:04.604Z",
  "moments": [
   {
-   "id": "prem-league-nov7",
+   "id": "premier-league-nov7",
    "off": 0,
    "type": "sport",
    "hot": true,
    "title": "Premier League Saturday Showdown",
-   "blurb": "Four Premier League matches kick off today, including Leeds vs Spurs at 12:30 GMT and Nottingham Forest vs Man City at 17:30 GMT.",
+   "blurb": "Four Premier League matches are taking place today, Saturday 7th November, including Fulham vs Newcastle and Nottingham Forest vs Man City.",
    "source": {
-    "l": "Premier League Official Site / Guardian Football",
-    "u": "https://www.premierleague.com/"
+    "l": "Sky Sports",
+    "u": "https://www.skysports.com/premier-league-fixtures-results"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
     }
    ],
    "angles": [
     {
-     "name": "Match Day Build-up",
-     "copy": "It's a big Saturday for Premier League action! Leeds host Spurs in the early kick-off, before the afternoon sees Arsenal, Fulham, and then Forest take on Man City. What are you watching first?",
+     "name": "Match Day Buzz",
+     "copy": "Big day for Premier League fans! Fulham host Newcastle, Forest take on Man City, plus Leeds vs Tottenham and Arsenal vs Hull. Who are you backing today?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:00",
+     "time": "11:00",
      "tags": [
       "#PremierLeague"
      ]
     },
     {
-     "name": "Evening Kick-off",
-     "copy": "Nottingham Forest vs Man City is your late Premier League game today. Can Forest pull off an upset against the champions? Tune in from 5:30 PM!",
+     "name": "Local Team Focus",
+     "for": "Nation Radio North East",
+     "copy": "Huge one for the Toon Army today as Newcastle head to Fulham. Can they grab a crucial three points before the international break?",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "14:00",
      "tags": [
-      "#NFOMCI"
+      "#NUFC"
      ]
     }
    ]
   },
   {
-   "id": "strictly-nov7",
+   "id": "rugby-nations-champ-nov7",
    "off": 0,
-   "type": "tv",
+   "type": "sport",
    "hot": true,
-   "title": "Strictly Continues After Halloween Drama",
-   "blurb": "Strictly Come Dancing returns tonight after last week's Halloween special saw Lawrence Robb eliminated in the show's first-ever triple dance-off.",
+   "title": "Nations Championship Rugby",
+   "blurb": "The World Rugby Nations Championship continues today with Scotland vs New Zealand at Murrayfield and Wales vs Japan in Cardiff.",
    "source": {
-    "l": "BBC Strictly Come Dancing",
-    "u": "https://www.bbc.co.uk/programmes/b006m8dq"
+    "l": "Autumn Internationals",
+    "u": "https://www.autumninternationals.co.uk/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Saturday Night Live",
-     "copy": "It's Strictly Come Dancing night! After last week's shock triple dance-off and elimination, who are you backing to shine on the ballroom floor tonight?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#Strictly"
-     ]
     },
     {
-     "name": "Catch Up on Drama",
-     "copy": "Still reeling from Lawrence Robb's exit in the Halloween triple dance-off? Tune into Strictly tonight to see who recovers and who feels the pressure.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "12:30",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "manics-suede-tour",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Manic Street Preachers & Suede UK Tour",
-   "blurb": "The co-headline tour from Manic Street Preachers and Suede continues across the UK this week, with dates running until November 12.",
-   "source": {
-    "l": "Gigsandtours",
-    "u": "https://www.gigsandtours.com/tour/manic-street-preachers-and-suede"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
     },
     {
      "g": "welsh-local",
@@ -123,48 +91,92 @@
    ],
    "angles": [
     {
-     "name": "Rock Legends Live",
-     "copy": "Manic Street Preachers and Suede are bringing their epic co-headline tour to a city near you this week! Which rock anthem are you hoping to hear live?",
+     "name": "Rugby Action Today",
+     "copy": "Massive day for rugby fans! Scotland take on the All Blacks at Murrayfield, while Wales face Japan in Cardiff. Who's watching?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "13:30",
      "tags": [
-      "#ManicsSuede"
+      "#NationsChampionship"
      ]
     },
     {
-     "name": "Welsh Icons",
-     "copy": "Our very own Manic Street Preachers are on tour with Suede! If you're heading to one of their shows this week, get ready for an incredible night of classic rock.",
+     "name": "Wales Battle Japan",
+     "for": "welsh-local",
+     "copy": "Pob lwc i Gymru! Wales are at home in Cardiff today, taking on Japan in the Nations Championship. Big game for the boys in red!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:00",
+     "time": "16:00",
      "tags": [
-      "#ManicStreetPreachers"
+      "#WalesRugby"
      ]
     }
    ]
   },
   {
-   "id": "bonnie-raitt-bday",
-   "off": 1,
+   "id": "lorde-30th-birthday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "Bonnie Raitt's 77th Birthday",
-   "blurb": "Grammy-winning blues-rock legend Bonnie Raitt turns 77 on Sunday, November 8.",
+   "title": "Lorde Turns 30",
+   "blurb": "New Zealand singer-songwriter Lorde, born Ella Yelich-O'Connor, celebrates her 30th birthday today, 7th November.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/bonnie-raitt.html"
+    "u": "https://www.famousbirthdays.com/people/lorde.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy 30th Lorde",
+     "copy": "Can you believe Lorde is 30 today?! From 'Royals' to 'Solar Power', she's given us some incredible tracks. What's your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#Lorde"
+     ]
     },
+    {
+     "name": "Lorde's Impact",
+     "copy": "Happy 30th to the one and only Lorde! A true trailblazer who changed the pop landscape. Here's to many more years of brilliant music.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#PureHeroine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joni-mitchell-83rd-birthday",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Joni Mitchell's 83rd Birthday",
+   "blurb": "The legendary Canadian singer-songwriter Joni Mitchell celebrates her 83rd birthday today, 7th November.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/joni-mitchell.html"
+   },
+   "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
@@ -176,92 +188,143 @@
    ],
    "angles": [
     {
-     "name": "Blues Rock Icon",
-     "copy": "Happy 77th Birthday to the incredible Bonnie Raitt tomorrow! From 'Something to Talk About' to her legendary guitar skills, what's your favourite Bonnie Raitt track?",
+     "name": "Happy Birthday Joni",
+     "copy": "An icon turns 83! Happy Birthday to the incredible Joni Mitchell, whose music continues to inspire generations. What's your go-to Joni track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "10:00",
      "tags": [
-      "#BonnieRaitt"
+      "#JoniMitchell"
      ]
     },
     {
-     "name": "Musical Influence",
-     "copy": "Tomorrow, we celebrate the 77th birthday of rock and blues trailblazer Bonnie Raitt. Her influence spans decades – what's a song by her that always makes you stop and listen?",
+     "name": "Timeless Talent",
+     "copy": "From 'Big Yellow Taxi' to 'A Case of You', Joni Mitchell's songwriting is simply unmatched. Wishing a very happy 83rd to a true legend.",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "15:00",
      "tags": [
-      "#MusicLegend"
+      "#FolkLegend"
      ]
     }
    ]
   },
   {
-   "id": "sza-bday",
-   "off": 1,
+   "id": "adam-ant-71st-birthday",
+   "off": 0,
    "type": "birthday",
    "hot": true,
-   "title": "SZA Turns 37",
-   "blurb": "Grammy-winning R&B superstar SZA celebrates her 37th birthday on Sunday, November 8.",
+   "title": "Adam Ant Turns 71",
+   "blurb": "New Wave icon Adam Ant, born Stuart Leslie Goddard, celebrates his 71st birthday today, 7th November.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/sza.html"
+    "u": "https://www.famousbirthdays.com/people/adam-ant.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 80s"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": "Nation Rocks"
     }
    ],
    "angles": [
     {
-     "name": "R&B Queen's Birthday",
-     "copy": "Tomorrow is SZA's 37th birthday! Get ready to celebrate the 'Kill Bill' singer by streaming your favourite tracks from her. What's your top SZA song?",
+     "name": "Prince Charming is 71!",
+     "copy": "Happy 71st Birthday to the one and only Adam Ant! Still looking dandy and making us want to 'Stand and Deliver'. What's your favourite Ant hit?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "10:30",
+     "time": "11:30",
      "tags": [
-      "#SZA"
+      "#AdamAnt"
      ]
     },
     {
-     "name": "Global Superstar",
-     "copy": "Wishing a very Happy 37th Birthday to SZA on November 8th! Her music resonates worldwide. Which SZA album is on repeat for you right now?",
+     "name": "Antmusic for a Birthday",
+     "copy": "Wishing a very happy 71st to Adam Ant! The 'Prince Charming' of New Wave still has that unique spark. Celebrate with some classic Antmusic today!",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:30",
+     "time": "16:00",
      "tags": [
-      "#HappyBirthdaySZA"
+      "#NewWave"
      ]
     }
    ]
   },
   {
-   "id": "prem-league-nov8",
-   "off": 1,
-   "type": "sport",
+   "id": "bonfire-night-alexandra-palace",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Sunday Premier League Clashes",
-   "blurb": "Sunday sees a full slate of Premier League games, including Crystal Palace vs Liverpool and Manchester United vs Aston Villa, all live on TV.",
+   "title": "Alexandra Palace Fireworks Festival",
+   "blurb": "The Alexandra Palace Fireworks Festival continues tonight, Saturday 7th November, offering one of London's largest Bonfire Night celebrations.",
    "source": {
-    "l": "Premier League Official Site",
-    "u": "https://www.premierleague.com/"
+    "l": "Alexandra Palace",
+    "u": "https://www.alexandrapalace.com/whats-on/fireworks-festival/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Ally Pally Fireworks!",
+     "copy": "The skies over London are lighting up tonight for Bonfire Night! Alexandra Palace's Fireworks Festival is on – don't miss the spectacular display.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#BonfireNight"
+     ]
+    },
+    {
+     "name": "Last Chance for Fireworks",
+     "copy": "Still got that Bonfire Night feeling? Alexandra Palace is the place to be tonight for fireworks, food, and fun. Wrap up warm and enjoy the show!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:30",
+     "tags": [
+      "#LondonFireworks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-come-dancing-injury",
+   "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly's Jaime Winstone Out",
+   "blurb": "Actress Jaime Winstone will miss this weekend's Strictly Come Dancing live show due to a torn abdominal muscle, but will receive a bye to next week.",
+   "source": {
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-jaime-winstone-injury-news-exclusive/"
    },
    "fits": [
     {
@@ -271,8 +334,21 @@
    ],
    "angles": [
     {
-     "name": "Super Sunday Football",
-     "copy": "Get ready for Super Sunday! Crystal Palace vs Liverpool and Man Utd vs Aston Villa are just two of the big Premier League fixtures tomorrow. Who are you backing?",
+     "name": "Strictly Injury Drama",
+     "copy": "Oh no! Strictly's Jaime Winstone is out this weekend with an injury. Wishing her a speedy recovery – who do you think will shine on the dance floor in her absence?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Strictly"
+     ]
+    },
+    {
+     "name": "Glitterball Race Heats Up",
+     "copy": "Another twist in the Strictly ballroom! Jaime Winstone won't be dancing this weekend. It's anyone's game for the Glitterball trophy now!",
      "channels": [
       "instagram",
       "facebook",
@@ -280,35 +356,77 @@
      ],
      "time": "17:00",
      "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Derby Day Potential",
-     "copy": "Sunday football is here! With multiple huge games, including some potential upsets, which Premier League match are you most excited for tomorrow?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#Football"
+      "#StrictlyComeDancing"
      ]
     }
    ]
   },
   {
-   "id": "covent-garden-lights",
-   "off": 5,
-   "type": "seasonal",
+   "id": "england-vs-australia-rugby",
+   "off": 1,
+   "type": "sport",
    "hot": true,
-   "title": "Covent Garden Christmas Lights Switch-On",
-   "blurb": "Covent Garden's famous Christmas lights will be switched on Thursday, November 12, marking the official start of the festive season in the area.",
+   "title": "England Rugby vs Australia",
+   "blurb": "England will face Australia in their first home game of the Nations Championship tomorrow, Sunday 8th November, at Twickenham Stadium.",
    "source": {
-    "l": "Covent Garden Website",
-    "u": "https://www.coventgarden.london/"
+    "l": "England Rugby",
+    "u": "https://www.englandrugby.com/tickets/fixtures-and-results"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "radio-exe",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Red Rose vs Wallabies",
+     "copy": "Tomorrow, England take on Australia in a massive Nations Championship clash at Twickenham! Who are you backing to win this historic rivalry?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#EnglandRugby"
+     ]
+    },
+    {
+     "name": "Sunday Rugby Thriller",
+     "copy": "Get ready for some Sunday rugby action! England vs Australia promises to be a thrilling encounter. What's your score prediction?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#Twickenham"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "oxford-street-lights-harry-potter",
+   "off": 2,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Oxford Street Christmas Lights Switch-On",
+   "blurb": "Oxford Street's Christmas lights, featuring a Harry Potter-themed takeover, are set to switch on Monday 9th November with a 'magical' night of entertainment.",
+   "source": {
+    "l": "MyLondon",
+    "u": "https://www.mylondon.news/whats-on/whats-on-news/london-christmas-lights-switch-dates-28003613"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
@@ -316,58 +434,54 @@
    ],
    "angles": [
     {
-     "name": "Festive London",
-     "copy": "London is getting sparkly! The iconic Covent Garden Christmas lights switch-on is happening this Thursday, November 12th. Who's heading down for some festive cheer?",
+     "name": "Magic on Oxford Street",
+     "copy": "Get ready for some festive magic! Oxford Street's Harry Potter-themed Christmas lights switch on this Monday. Who's excited for the wizarding world to light up London?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "10:00",
      "tags": [
-      "#LondonChristmas"
+      "#OxfordStreetLights"
      ]
     },
     {
-     "name": "Start of Christmas",
-     "copy": "It's official: Christmas is coming! Covent Garden's spectacular light display kicks off on Thursday. Get ready for live performances and that magical switch-on moment.",
+     "name": "Christmas Countdown",
+     "copy": "The Christmas countdown officially begins on Oxford Street this Monday! Expect a spellbinding Harry Potter takeover for this year's lights switch-on.",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "14:00",
      "tags": [
-      "#CoventGarden"
+      "#LondonChristmas"
      ]
     }
    ]
   },
   {
-   "id": "nikolai-fraiture-bday",
-   "off": 6,
-   "type": "birthday",
+   "id": "madame-blanc-mysteries-s5",
+   "off": 2,
+   "type": "tv",
    "hot": true,
-   "title": "The Strokes' Nikolai Fraiture Turns 48",
-   "blurb": "Nikolai Fraiture, bassist for the influential indie rock band The Strokes, celebrates his 48th birthday on Wednesday, November 13.",
+   "title": "Madame Blanc Mysteries Returns",
+   "blurb": "The Madame Blanc Mysteries returns for its fifth season on Monday 9th November, exclusively on Acorn TV, with new episodes weekly.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/nikolai-fraiture.html"
+    "l": "The British TV Place",
+    "u": "https://thebritishtvplace.com/2026/11/british-tv-premieres-november-2026/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Indie Rock Bassist",
-     "copy": "Happy 48th Birthday to The Strokes' bassist, Nikolai Fraiture, this Wednesday! What's your favourite track to hear his iconic basslines on?",
+     "name": "Cozy Mystery Fix",
+     "copy": "Your favourite antique dealer/murder solver is back! The Madame Blanc Mysteries Season 5 premieres Monday on Acorn TV. Ready for more French intrigue?",
      "channels": [
       "instagram",
       "facebook",
@@ -375,38 +489,139 @@
      ],
      "time": "11:00",
      "tags": [
-      "#TheStrokes"
+      "#MadameBlancMysteries"
      ]
     },
     {
-     "name": "Band's Influence",
-     "copy": "Celebrating Nikolai Fraiture's 48th birthday on Nov 13! He's a key part of The Strokes' sound. Which of their albums defines the early 00s for you?",
+     "name": "New Series Alert",
+     "copy": "Sally Lindsay returns for new mysteries in Sainte Victoire! Don't miss the Season 5 premiere of The Madame Blanc Mysteries this Monday.",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "16:00",
      "tags": [
-      "#IndieRock"
+      "#AcornTV"
      ]
     }
    ]
   },
   {
-   "id": "efg-london-jazz-fest",
+   "id": "diana-krall-birthday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "Diana Krall Turns 62",
+   "blurb": "Canadian jazz pianist and singer Diana Krall celebrates her 62nd birthday on Wednesday 11th November.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/diana-krall.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jazz Queen's Birthday",
+     "copy": "Wishing a very Happy 62nd Birthday to the sublime Diana Krall on Wednesday! Her smooth vocals and incredible piano skills are simply timeless.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#DianaKrall"
+     ]
+    },
+    {
+     "name": "Celebrating a Jazz Icon",
+     "copy": "Wednesday marks Diana Krall's 62nd birthday. What's your favourite track from the multi-Grammy winning jazz sensation?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#JazzMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "london-jazz-festival",
    "off": 6,
    "type": "gig",
    "hot": true,
-   "title": "EFG London Jazz Festival Begins",
-   "blurb": "The EFG London Jazz Festival kicks off on Thursday, November 13, bringing over 300 live shows to venues across the city until November 22.",
+   "title": "EFG London Jazz Festival Kicks Off",
+   "blurb": "The EFG London Jazz Festival begins on Friday 13th November, running for ten days across various venues in the city, featuring over 300 live shows.",
    "source": {
     "l": "EFG London Jazz Festival",
     "u": "https://efglondonjazzfestival.org.uk/"
    },
    "fits": [
     {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
      "g": "decades-genres",
      "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jazz Takes Over London",
+     "copy": "Get ready for a city filled with rhythm! The EFG London Jazz Festival starts this Friday, bringing ten days of incredible music to venues across the capital. What gigs are you eyeing up?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:30",
+     "tags": [
+      "#LondonJazzFestival"
+     ]
+    },
+    {
+     "name": "Weekend of Smooth Sounds",
+     "copy": "The EFG London Jazz Festival kicks off this weekend! Whether you're a seasoned jazz fan or curious to explore, there's something for everyone. Dive into the smooth sounds of London.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#JazzInLondon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noah-kahan-london-gigs",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Noah Kahan Plays London",
+   "blurb": "American singer-songwriter Noah Kahan is set to play multiple dates in London on 13th, 14th, and 17th November.",
+   "source": {
+    "l": "OnesToWatch",
+    "u": "https://www.onestowatch.com/text/london-concerts-mid-october-to-november-2026-picks"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
     },
     {
      "g": "nation-network",
@@ -415,8 +630,110 @@
    ],
    "angles": [
     {
-     "name": "Jazz Takes Over London",
-     "copy": "Ready for some smooth sounds? The EFG London Jazz Festival starts this Thursday, transforming the city with over 300 performances! Will you be catching a show?",
+     "name": "Noah Kahan Hits London",
+     "copy": "Calling all 'Stick Season' fans! Noah Kahan is in London this weekend for multiple sold-out shows. Who's lucky enough to have tickets?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#NoahKahan"
+     ]
+    },
+    {
+     "name": "Folk-Pop Sensation",
+     "copy": "Noah Kahan bringing his unique folk-pop sound to London this week! Expect heartfelt lyrics and incredible live energy. Are you ready?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:30",
+     "tags": [
+      "#StickSeason"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wales-vs-new-zealand-rugby",
+   "off": 7,
+   "type": "sport",
+   "hot": true,
+   "title": "Wales Face All Blacks",
+   "blurb": "Wales will play New Zealand in the Nations Championship on Saturday 14th November at Principality Stadium, Cardiff.",
+   "source": {
+    "l": "Autumn Internationals",
+    "u": "https://www.autumninternationals.co.uk/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Big Game for Wales",
+     "for": "welsh-local",
+     "copy": "Another huge test for Wales next Saturday as they welcome the mighty All Blacks to the Principality Stadium! Can they cause an upset?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#WALvNZL"
+     ]
+    },
+    {
+     "name": "All Blacks in Cardiff",
+     "for": "dragon",
+     "copy": "The All Blacks are coming to Cardiff! Wales vs New Zealand next Saturday is going to be an absolute cracker. Get behind the boys!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#PrincipalityStadium"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im-a-celeb-launch",
+   "off": 9,
+   "type": "tv",
+   "hot": true,
+   "title": "I'm A Celebrity... Get Me Out Of Here! Launch",
+   "blurb": "I'm A Celebrity... Get Me Out Of Here! officially launches on Monday 16th November at 9pm on ITV1, delayed by one day due to the UEFA Nations League match.",
+   "source": {
+    "l": "ITV Press Centre",
+    "u": "https://www.itv.com/presscentre/ep1week46/im-celebrityget-me-out-here"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jungle Countdown",
+     "copy": "The wait is almost over! I'm A Celebrity... Get Me Out Of Here! starts a week on Monday. Who are you hoping to see in the jungle this year?",
      "channels": [
       "instagram",
       "facebook",
@@ -424,75 +741,77 @@
      ],
      "time": "10:00",
      "tags": [
-      "#LondonJazzFestival"
+      "#ImACeleb"
      ]
     },
     {
-     "name": "Music for All",
-     "copy": "From headline acts to free concerts, the EFG London Jazz Festival offers something for everyone starting Nov 13. Discover new artists and enjoy the vibes!",
+     "name": "Ant & Dec Are Back!",
+     "copy": "Get ready for trials, tantrums, and Ant & Dec's hilarious commentary! I'm A Celeb returns next Monday. Who's your dream campmate?",
      "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#IACGMOOH"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "honey-bbc-drama-launch",
+   "off": 7,
+   "type": "tv",
+   "hot": false,
+   "title": "New BBC Drama 'Honey' Premieres",
+   "blurb": "The new Cold War spy drama 'Honey' premieres on BBC One and BBC iPlayer on Saturday 14th November.",
+   "source": {
+    "l": "TV Zone",
+    "u": "https://www.tvzoneuk.com/post/schedules-1420nov26"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "New Spy Thriller",
+     "copy": "Looking for your next TV obsession? New Cold War spy drama 'Honey' lands on BBC One next Saturday. Get ready for some serious espionage!",
+     "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "13:00",
      "tags": [
-      "#JazzMusic"
+      "#HoneyBBC"
      ]
-    }
-   ]
-  },
-  {
-   "id": "belfast-lights-switchon",
-   "off": 7,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Belfast Christmas Lights Switch-On",
-   "blurb": "Belfast City Hall will host its annual Christmas lights switch-on event on Saturday, November 14, with free ticketed entry.",
-   "source": {
-    "l": "Belfast City Council",
-    "u": "https://www.belfastcity.gov.uk/christmas"
-   },
-   "fits": [
+    },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Northern Ireland Festive Fun",
-     "copy": "Belfast is getting festive! The Christmas lights switch-on at City Hall is this Saturday, Nov 14th. Who's excited for the start of Christmas in Northern Ireland?",
+     "name": "Weekend Viewing",
+     "copy": "Mark your calendars! The highly anticipated new drama 'Honey' starts next Saturday on BBC. Perfect for a gripping weekend watch.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "18:00",
      "tags": [
-      "#BelfastChristmas"
-     ]
-    },
-    {
-     "name": "Family Event",
-     "copy": "Join the magic at Belfast City Hall this Saturday for the Christmas lights switch-on! It's a free, ticketed event to kick off the festive season.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ChristmasInBelfast"
+      "#BBCDrama"
      ]
     }
    ]
   },
   {
-   "id": "travis-barker-bday",
+   "id": "travis-barker-birthday",
    "off": 7,
    "type": "birthday",
-   "hot": true,
+   "hot": false,
    "title": "Travis Barker Turns 51",
-   "blurb": "Blink-182 drummer and rock icon Travis Barker celebrates his 51st birthday on Saturday, November 14.",
+   "blurb": "Blink-182 drummer Travis Barker celebrates his 51st birthday on Saturday 14th November.",
    "source": {
     "l": "Famous Birthdays",
     "u": "https://www.famousbirthdays.com/people/travis-barker.html"
@@ -504,372 +823,34 @@
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
      "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "Punk Rock Drummer",
-     "copy": "Happy 51st Birthday to the one and only Travis Barker tomorrow! The Blink-182 legend is still smashing it. What's your favourite drum beat from him?",
+     "name": "Happy Birthday Travis",
+     "copy": "Happy 51st Birthday to the legendary Travis Barker! The powerhouse behind Blink-182, still drumming up a storm. What's your favourite Blink track?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "11:00",
+     "time": "09:30",
      "tags": [
       "#TravisBarker"
      ]
     },
     {
-     "name": "Music Icon",
-     "copy": "Tomorrow, we celebrate Travis Barker's 51st birthday! From Blink-182 to his collaborations, he's a true force in music. What's your top track featuring Travis?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#Blink182"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "faye-tozer-bday",
-   "off": 7,
-   "type": "birthday",
-   "hot": true,
-   "title": "Steps' Faye Tozer Turns 50",
-   "blurb": "Faye Tozer, singer from the iconic British pop group Steps, celebrates her 50th birthday on Saturday, November 14.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/faye-tozer.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Queen's Milestone",
-     "copy": "Happy 50th Birthday to Faye Tozer from Steps tomorrow! Get ready to belt out your favourite Steps hits in celebration. What's your go-to?",
+     "name": "Drummer Extraordinaire",
+     "copy": "From punk rock anthems to pop collaborations, Travis Barker is a drumming icon. Wishing him a very happy 51st next Saturday!",
      "channels": [
       "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#FayeTozer"
-     ]
-    },
-    {
-     "name": "Steps Throwback",
-     "copy": "Celebrating Faye Tozer's 50th birthday on Nov 14! Steps brought us so many bangers. Which song takes you straight back to the 90s/00s dancefloor?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#Steps"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "england-spain-nations-league",
-   "off": 8,
-   "type": "sport",
-   "hot": true,
-   "title": "England vs Spain: UEFA Nations League",
-   "blurb": "England faces Spain in a UEFA Nations League match on Sunday, November 15.",
-   "source": {
-    "l": "UEFA Official Site",
-    "u": "https://www.uefa.com/nationsleague/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "International Football",
-     "copy": "It's England vs Spain in the UEFA Nations League this Sunday! Who's ready to cheer on the Three Lions? Predictions for the score?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#EnglandFootball"
-     ]
-    },
-    {
-     "name": "Big Game Build-up",
-     "copy": "England take on Spain in a crucial Nations League fixture on Sunday. Will Gareth Southgate's side secure a vital win?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#NationsLeague"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "im-a-celeb-starts",
-   "off": 9,
-   "type": "tv",
-   "hot": true,
-   "title": "I'm A Celebrity... Get Me Out Of Here! Returns",
-   "blurb": "Ant and Dec are back as I'm A Celebrity... Get Me Out Of Here! launches its new series on Monday, November 16, at 9pm on ITV1.",
-   "source": {
-    "l": "ITV Hub",
-    "u": "https://www.itv.com/hub/im-a-celebrity-get-me-out-of-here"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jungle Time!",
-     "copy": "Get ready for the jungle! I'm A Celebrity... Get Me Out Of Here! officially starts this Monday, November 16th, at 9pm on ITV1. Who do you think will be crowned King or Queen of the Jungle?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ImACeleb"
-     ]
-    },
-    {
-     "name": "Ant & Dec Are Back",
-     "copy": "The countdown is on! Ant and Dec return to Australia for I'm A Celeb starting Monday. Which rumoured celeb are you most excited (or terrified) to see in the camp?",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ImACelebrity"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "diana-krall-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Diana Krall's 62nd Birthday",
-   "blurb": "Canadian jazz pianist and singer Diana Krall celebrates her 62nd birthday on Monday, November 16.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/diana-krall.html"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jazz Vocalist",
-     "copy": "Happy 62nd Birthday to the incredible Diana Krall this Monday! Her smooth jazz vocals are perfect for a relaxed start to the week. What's your favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#DianaKrall"
-     ]
-    },
-    {
-     "name": "Timeless Music",
-     "copy": "Celebrating Diana Krall's 62nd birthday on Nov 16! Dive into her timeless jazz catalogue and let her music set the mood.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#JazzMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mani-stone-roses-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Mani (The Stone Roses) Turns 64",
-   "blurb": "Gary 'Mani' Mounfield, bassist for the iconic Manchester band The Stone Roses, celebrates his 64th birthday on Monday, November 16.",
-   "source": {
-    "l": "Music History Events",
-    "u": "https://www.thisdayinmusic.com/artists/mani/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Manchester"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Madchester Legend",
-     "copy": "Happy 64th Birthday to Mani from The Stone Roses this Monday! His basslines defined an era. What's your favourite Stone Roses anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#TheStoneRoses"
-     ]
-    },
-    {
-     "name": "Manchester Icon",
-     "copy": "Celebrating Manchester's own Mani, bassist for The Stone Roses, turning 64 on Nov 16! From 'I Wanna Be Adored' to 'Fools Gold', his legacy lives on.",
-     "channels": [
       "facebook",
       "x"
      ],
      "time": "15:30",
      "tags": [
-      "#Mani"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "leadenhall-lights-switchon",
-   "off": 12,
-   "type": "seasonal",
-   "hot": false,
-   "title": "Leadenhall Market Christmas Lights",
-   "blurb": "Leadenhall Market in London will switch on its Christmas lights on Thursday, November 19, with live music and festive snowfall.",
-   "source": {
-    "l": "Leadenhall Market",
-    "u": "https://www.leadenhallmarket.co.uk/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Historic London Christmas",
-     "copy": "Mark your calendars! Leadenhall Market's beautiful Christmas lights switch-on is happening on Thursday, Nov 19th. Get ready for a truly magical evening in the City.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#LeadenhallMarket"
-     ]
-    },
-    {
-     "name": "Festive Atmosphere",
-     "copy": "Leadenhall Market is promising live music and festive snowfall for its Christmas lights launch on Nov 19. It's the perfect way to get into the holiday spirit!",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#LondonEvents"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "black-friday-preview",
-   "off": 20,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Black Friday Deals Approaching",
-   "blurb": "Black Friday officially falls on November 27, but many retailers in the UK will begin their sales and promotions in the week leading up to it.",
-   "source": {
-    "l": "Raja UK",
-    "u": "https://www.raja.co.uk/blog/ecommerce/when-is-black-friday-2026-key-e-commerce-peak-dates-for-the-year"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Shopping Season Starts",
-     "copy": "Black Friday is just around the corner on Nov 27, but deals are expected to start appearing as early as next week! Are you ready to grab some bargains?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BlackFriday"
-     ]
-    },
-    {
-     "name": "Cyber Weekend Prep",
-     "copy": "Get your wish lists ready! Black Friday is officially Nov 27, with Cyber Monday on Nov 30. Expect a full week of deals leading up to it.",
-     "channels": [
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#ShoppingDeals"
+      "#Blink182"
      ]
     }
    ]
