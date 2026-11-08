@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-08T09:38:59.400Z",
+ "updated": "2026-11-08T16:24:43.337Z",
  "moments": [
   {
-   "id": "premier-league-sunday",
+   "id": "remembrance-sunday-2026",
    "off": 0,
-   "type": "sport",
+   "type": "seasonal",
    "hot": true,
-   "title": "Premier League Sunday Showdowns",
-   "blurb": "Today sees a packed schedule of Premier League football across the UK, featuring Crystal Palace vs Liverpool and Manchester United vs Aston Villa among others.",
+   "title": "UK Marks Remembrance Sunday",
+   "blurb": "The nation pauses today, November 8th, for Remembrance Sunday, with ceremonies across the UK, including the national parade at the Cenotaph in London, honouring those who have served.",
    "source": {
-    "l": "Sky Sports Football",
-    "u": "https://www.skysports.com/football/fixtures-results"
+    "l": "Gov.uk / Royal British Legion",
+    "u": "https://www.google.com/search?q=Remembrance+Sunday+UK+2026"
    },
    "fits": [
     {
@@ -20,40 +20,42 @@
    ],
    "angles": [
     {
-     "name": "Match Day Build-up",
-     "copy": "It's Premier League Sunday! Who are you backing today? Liverpool head to Crystal Palace, while Man Utd host Aston Villa. Big points up for grabs!",
+     "name": "Solemn Tribute",
+     "copy": "A day for reflection. Today, the UK unites to remember and honour the sacrifices made by our Armed Forces and veterans on Remembrance Sunday. #LestWeForget",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "12:00",
+     "time": "09:00",
      "tags": [
-      "#PremierLeague"
+      "#RemembranceSunday"
      ]
     },
     {
-     "name": "Key Fixtures Focus",
-     "copy": "Today's Premier League highlights: Crystal Palace v Liverpool and Man Utd v Aston Villa. Don't miss the action!",
+     "name": "Cenotaph Ceremony",
+     "copy": "King Charles III leads the nation at the Cenotaph in London this morning for the National Service of Remembrance, as crowds gather to pay their respects.",
      "channels": [
       "x",
       "facebook"
      ],
-     "time": "13:30",
-     "tags": []
+     "time": "10:30",
+     "tags": [
+      "#Cenotaph"
+     ]
     }
    ]
   },
   {
-   "id": "forest-beats-man-city",
-   "off": -1,
+   "id": "england-australia-rugby",
+   "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Nottingham Forest Stun Manchester City",
-   "blurb": "Nottingham Forest secured a shock 3-1 victory over reigning Premier League champions Manchester City yesterday at the City Ground.",
+   "title": "England Host Australia in Autumn Nations Series",
+   "blurb": "England take on Australia in a highly anticipated Autumn Nations Series clash today at Twickenham, kicking off at 3:10 PM.",
    "source": {
-    "l": "The Guardian",
-    "u": "https://www.theguardian.com/football/nottingham-forest-v-manchester-city/report"
+    "l": "Autumn Internationals 2026",
+    "u": "https://www.autumninternationals.co.uk/2026/fixtures/"
    },
    "fits": [
     {
@@ -61,51 +63,295 @@
      "sub": ""
     },
     {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Shock Result Reaction",
-     "copy": "Did you see that?! Nottingham Forest beat Man City 3-1 yesterday. Massive upset in the Premier League!",
+     "name": "Match Day Hype",
+     "copy": "It's game day! England face Australia at Twickenham this afternoon in the Autumn Nations Series. Who are you backing, Red Rose or Wallabies? #ENGvAUS",
      "channels": [
       "x",
       "facebook"
      ],
-     "time": "09:00",
+     "time": "12:00",
      "tags": [
-      "#NFOMCI"
+      "#Rugby"
      ]
     },
     {
-     "name": "Forest's Big Win",
-     "copy": "What a performance from Nottingham Forest! A huge 3-1 win against the champions. Where does this leave City?",
+     "name": "Twickenham Buzz",
+     "copy": "The atmosphere is building at Twickenham! England vs Australia is about to get underway in the Autumn Nations Series. Tune in!",
      "channels": [
       "instagram",
       "x"
      ],
-     "time": "11:00",
+     "time": "15:00",
      "tags": [
-      "#PremierLeague"
+      "#Twickenham"
      ]
     }
    ]
   },
   {
-   "id": "wales-rugby-nations-championship",
+   "id": "strictly-results-show",
    "off": 0,
+   "type": "tv",
+   "hot": true,
+   "title": "Strictly Come Dancing Results Tonight",
+   "blurb": "The tension builds tonight on BBC One as another couple faces elimination in the Strictly Come Dancing results show, following last night's Week 7 performances.",
+   "source": {
+    "l": "Radio Times",
+    "u": "https://www.radiotimes.com/tv/entertainment/reality-tv/strictly-come-dancing-2026-week-7-songs-dances/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Elimination Anticipation",
+     "copy": "Who's heading home? The Strictly Come Dancing results show is on tonight! Will your favourite couple survive the dance-off?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#Strictly"
+     ]
+    },
+    {
+     "name": "Remembrance Dance",
+     "copy": "Tonight's Strictly results show includes a special Remembrance Day routine from the professional dancers, paying tribute to the women of WWII.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#StrictlyRemembers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bonnie-raitt-77",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Bonnie Raitt Turns 77",
+   "blurb": "Grammy-winning blues-rock legend Bonnie Raitt celebrates her 77th birthday today, November 8th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Bonnie_Raitt"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Blues Rock Icon",
+     "copy": "Happy 77th to the incredible Bonnie Raitt! Her soulful voice and slide guitar have shaped blues rock for decades. What's your favourite Bonnie track? #BonnieRaitt",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#BluesRock"
+     ]
+    },
+    {
+     "name": "Music Legend",
+     "copy": "Celebrating Bonnie Raitt's 77th today! From 'I Can't Make You Love Me' to her iconic guitar work, she's a true musical force.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#MusicLegend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roy-wood-80",
+   "off": 0,
+   "type": "birthday",
+   "hot": true,
+   "title": "Roy Wood Celebrates 80th Birthday",
+   "blurb": "Rock and Roll Hall of Famer Roy Wood, known for his work with ELO, The Move, and Wizzard, turns 80 today, November 8th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Roy_Wood"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Glam Rock Pioneer",
+     "copy": "Wishing a very happy 80th birthday to the legendary Roy Wood! From The Move to ELO to Wizzard, a true innovator of British music. #RoyWood",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#GlamRock"
+     ]
+    },
+    {
+     "name": "Wizzard Wizard",
+     "copy": "It's Roy Wood's 80th birthday! The man behind some of the most iconic 70s hits and, of course, that Christmas classic. What's your top Roy Wood song?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#Wizzard"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michael-jackson-thriller-chart",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Michael Jackson's 'Thriller' Hits New UK Chart Peak",
+   "blurb": "Michael Jackson's iconic Halloween anthem 'Thriller' has reached a new peak of Number 5 on the Official UK Singles Chart, 43 years after its original release.",
+   "source": {
+    "l": "Michael Jackson World Network",
+    "u": "https://www.mjworld.net/news/2026/11/08/thriller-reaches-new-uk-chart-peak/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Comeback",
+     "copy": "Still got it! Michael Jackson's 'Thriller' just hit a new UK Top 5 peak – 43 years after it first dropped! Proof that some songs are truly timeless.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#Thriller"
+     ]
+    },
+    {
+     "name": "Halloween Legacy",
+     "copy": "King of Pop making history again! 'Thriller' is back in the Official UK Singles Chart Top 5. What a Halloween legacy! #MichaelJackson",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ChartNews"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im-a-celeb-launch",
+   "off": 8,
+   "type": "tv",
+   "hot": true,
+   "title": "I'm A Celebrity... Get Me Out Of Here! Returns",
+   "blurb": "Ant & Dec are heading back to Australia as 'I'm A Celebrity... Get Me Out Of Here!' officially launches its 26th series on Monday, November 16th, at 9pm on ITV1.",
+   "source": {
+    "l": "ITV Press Centre",
+    "u": "https://www.itv.com/presscentre/ep1week46/im-celebrityget-me-out-here"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jungle Countdown",
+     "copy": "The jungle awaits! I'm A Celebrity... Get Me Out Of Here! is back next Monday, Nov 16th. Who are you hoping to see in the camp?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#ImACeleb"
+     ]
+    },
+    {
+     "name": "Line-up Buzz",
+     "copy": "Rumours are flying about this year's I'm A Celeb line-up ahead of its Nov 16th launch. Wayne Rooney, Joanna Page and Ricky Wilson are among the names being whispered!",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#IAC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wales-new-zealand-rugby",
+   "off": 6,
    "type": "sport",
    "hot": true,
-   "title": "Wales in Autumn Nations Championship",
-   "blurb": "Wales kicked off their Autumn Nations Championship campaign yesterday with a win against Japan at Principality Stadium, and will face New Zealand next Saturday.",
+   "title": "Wales Face All Blacks in Cardiff",
+   "blurb": "Wales will host rugby giants New Zealand at the Principality Stadium in Cardiff on Saturday, November 14th, as part of the Autumn Nations Series.",
    "source": {
-    "l": "Wales Rugby Union",
-    "u": "https://www.walesrugby.co.uk/fixtures"
+    "l": "Welsh Rugby Union",
+    "u": "https://www.wru.wales/news/autumn-nations-series-2026-fixtures/"
    },
    "fits": [
     {
@@ -123,43 +369,47 @@
    ],
    "angles": [
     {
-     "name": "Wales Win Recap",
-     "copy": "Great start for Wales in the Autumn Nations Championship! A solid victory over Japan yesterday. Now, all eyes on the All Blacks next week!",
+     "name": "Welsh Rugby Excitement",
+     "copy": "A massive fixture next Saturday! Wales take on the mighty All Blacks in Cardiff. Who's ready for some epic rugby action? #WALvNZL",
      "channels": [
-      "x",
-      "facebook"
+      "facebook",
+      "x"
      ],
-     "time": "09:30",
+     "time": "10:00",
      "tags": [
       "#WalesRugby"
      ]
     },
     {
-     "name": "Next Match Build-up",
-     "copy": "Wales look ahead to a huge clash against New Zealand at the Principality Stadium next Saturday in the Nations Championship. Get ready for some epic rugby!",
+     "name": "Principality Stadium Hype",
+     "copy": "Cardiff is gearing up for a huge weekend of rugby on Nov 14th as Wales welcome New Zealand to the Principality Stadium. Get your scarves ready!",
      "channels": [
       "instagram",
-      "x"
+      "facebook"
      ],
-     "time": "10:30",
+     "time": "14:00",
      "tags": [
-      "#AutumnNationsSeries"
+      "#PrincipalityStadium"
      ]
     }
    ]
   },
   {
-   "id": "exeter-chiefs-cup",
-   "off": 0,
+   "id": "england-japan-rugby",
+   "off": 6,
    "type": "sport",
    "hot": true,
-   "title": "Exeter Chiefs Premiership Cup Action",
-   "blurb": "Exeter Chiefs faced Bath in the Premiership Rugby Cup yesterday at Sandy Park, and will travel to face Sale Sharks next Friday, November 13th.",
+   "title": "England vs Japan at Twickenham",
+   "blurb": "England's Autumn Nations Series continues next Saturday, November 14th, as they face Japan at Twickenham Stadium.",
    "source": {
-    "l": "Exeter Chiefs Official",
-    "u": "https://www.exeterchiefs.co.uk/fixtures"
+    "l": "England Rugby",
+    "u": "https://www.englandrugby.com/tickets/fixtures-and-results/2026/autumn-nations-series"
    },
    "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
     {
      "g": "radio-exe",
      "sub": ""
@@ -167,311 +417,43 @@
    ],
    "angles": [
     {
-     "name": "Chiefs Cup Fixtures",
-     "copy": "Tough one for the Chiefs yesterday in the Premiership Rugby Cup against Bath. Next up, an away trip to Sale Sharks on Friday!",
+     "name": "Next Up for England",
+     "copy": "Following today's game, England are back at Twickenham next Saturday, Nov 14th, to take on Japan. A different challenge awaits! #ENGvJPN",
      "channels": [
       "x",
       "facebook"
      ],
-     "time": "10:00",
+     "time": "17:00",
      "tags": [
-      "#ExeterChiefs"
+      "#EnglandRugby"
      ]
     },
     {
-     "name": "Looking Ahead for Chiefs",
-     "copy": "Your Exeter Chiefs are back in action next Friday, 13th November, taking on Sale Sharks in the Premiership Rugby Cup. Who's making the trip?",
+     "name": "Twickenham Action",
+     "copy": "More international rugby at Twickenham next weekend! England face Japan on the 14th. Who's got their tickets?",
      "channels": [
       "instagram",
       "x"
      ],
-     "time": "12:00",
-     "tags": [
-      "#GallagherPrem"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "noah-kahan-uk-tour",
-   "off": 1,
-   "type": "gig",
-   "hot": true,
-   "title": "Noah Kahan's UK Tour Continues",
-   "blurb": "Grammy-nominated singer-songwriter Noah Kahan brings his 'The Great Divide' tour to Manchester's AO Arena this Monday and Tuesday, before heading to London's O2 Arena from Friday.",
-   "source": {
-    "l": "Live Nation",
-    "u": "https://www.livenation.co.uk/artist-noah-kahan-1279075"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Manchester Gigs Ahead",
-     "copy": "Noah Kahan fans, get ready! He's at the AO Arena Manchester this Monday and Tuesday. Who's got tickets?",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#NoahKahan"
-     ]
-    },
-    {
-     "name": "London Calling for Kahan",
-     "copy": "Later this week, Noah Kahan hits London for multiple nights at The O2 Arena, starting Friday. A huge week for fans!",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#TheGreatDivideTour"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "papa-roach-london",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Papa Roach Live in London",
-   "blurb": "American rock band Papa Roach are performing tonight at The O2 Arena in London.",
-   "source": {
-    "l": "The O2 Arena Events",
-    "u": "https://www.theo2.co.uk/events/detail/papa-roach"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Rocking The O2 Tonight",
-     "copy": "Papa Roach are bringing their high-energy show to The O2 Arena tonight! If you're heading there, get ready to rock!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#PapaRoach"
-     ]
-    },
-    {
-     "name": "London's Rock Night",
-     "copy": "Who's seeing Papa Roach in London tonight? It's going to be huge at The O2!",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#RockMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "muse-o2-london",
-   "off": 7,
-   "type": "gig",
-   "hot": true,
-   "title": "Muse Take Over The O2",
-   "blurb": "Rock giants Muse are scheduled to play two nights at The O2 Arena in London next Sunday, November 15th, and Monday, November 16th.",
-   "source": {
-    "l": "The O2 Arena Events",
-    "u": "https://www.theo2.co.uk/events/detail/muse"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Muse Countdown",
-     "copy": "Just one week until Muse kick off two massive nights at The O2 Arena in London! Who's excited for some epic rock?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Muse"
-     ]
-    },
-    {
-     "name": "London Rock Spectacle",
-     "copy": "Muse are heading to London next week for two highly anticipated shows at The O2. Expect a spectacular production!",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TheO2"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart",
-   "off": -2,
-   "type": "culture",
-   "hot": true,
-   "title": "Jamie Miller Tops UK Chart, Thriller Resurges",
-   "blurb": "Jamie Miller's 'Babydoll' remains at UK No.1 for a third consecutive week, while Michael Jackson's 'Thriller' made a historic return to the Top 5 on the Official UK Singles Chart.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    },
-    {
-     "g": "welsh-local",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper News",
-     "copy": "Still at No.1! Jamie Miller's 'Babydoll' continues its reign on the UK Singles Chart. And how about Michael Jackson's 'Thriller' back in the Top 5?!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
      "time": "09:00",
      "tags": [
-      "#OfficialCharts"
-     ]
-    },
-    {
-     "name": "Thriller's Chart Comeback",
-     "copy": "43 years after release, Michael Jackson's 'Thriller' just hit a new UK Top 5 peak! Halloween never truly dies, does it?",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#MichaelJackson"
+      "#Twickenham"
      ]
     }
    ]
   },
   {
-   "id": "christmas-songs-early-return",
-   "off": -2,
+   "id": "kensington-christmas-lights",
+   "off": 2,
    "type": "seasonal",
    "hot": true,
-   "title": "Christmas Hits Return to UK Chart Early",
-   "blurb": "Wham!'s 'Last Christmas' and Mariah Carey's 'All I Want For Christmas Is You' have made their earliest ever re-entries into the UK Top 100 singles chart.",
+   "title": "Kensington High Street Christmas Lights Switch-On",
+   "blurb": "Kensington High Street will switch on its festive Christmas lights on Tuesday, November 10th, with an evening of entertainment starting from 6pm.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
+    "l": "Royal Borough of Kensington and Chelsea",
+    "u": "https://www.rbkc.gov.uk/christmas-events-kensington-and-chelsea-2026"
    },
    "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Xmas"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 80s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festive Chart Invasion",
-     "copy": "It's official: Christmas is coming! 'Last Christmas' and 'All I Want For Christmas Is You' are back in the charts earlier than ever before. Too soon or just right?",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ChristmasMusic"
-     ]
-    },
-    {
-     "name": "Mariah & Wham! Are Back",
-     "copy": "Mariah Carey and Wham! have made their annual, but earliest-ever, return to the UK charts! The festive season has truly begun!",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#ChristmasHits"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "black-doves-season-2",
-   "off": -3,
-   "type": "tv",
-   "hot": true,
-   "title": "Black Doves Season 2 Lands on Netflix",
-   "blurb": "Keira Knightley's acclaimed spy thriller 'Black Doves' returned for its second season on Netflix on Thursday, continuing the story of Helen Webb.",
-   "source": {
-    "l": "Netflix UK",
-    "u": "https://www.netflix.com/title/81615555"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
     {
      "g": "nation-network",
      "sub": "Nation Radio London"
@@ -479,161 +461,26 @@
    ],
    "angles": [
     {
-     "name": "Black Doves Binge",
-     "copy": "Have you started 'Black Doves' Season 2 on Netflix yet? Keira Knightley is back in action in the highly anticipated spy thriller!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#BlackDoves"
-     ]
-    },
-    {
-     "name": "What To Watch",
-     "copy": "Looking for your next binge-watch? 'Black Doves' Season 2 dropped on Netflix on Thursday. Perfect for a weekend of espionage!",
+     "name": "Festive Sparkle",
+     "copy": "Get ready for festive sparkle! Kensington High Street's Christmas lights switch-on is this Tuesday, Nov 10th. Who's heading down? #LondonChristmas",
      "channels": [
       "instagram",
-      "threads"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#NetflixUK"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "madame-blanc-mysteries-s5",
-   "off": 1,
-   "type": "tv",
-   "hot": true,
-   "title": "Madame Blanc Mysteries Returns",
-   "blurb": "The fifth season of the popular cosy mystery series 'The Madame Blanc Mysteries' premieres tomorrow on Acorn TV.",
-   "source": {
-    "l": "Acorn TV",
-    "u": "https://acorn.tv/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "New Mystery TV",
-     "copy": "Cosy crime fans rejoice! The Madame Blanc Mysteries is back for Season 5 tomorrow on Acorn TV. Time to solve some new puzzles!",
-     "channels": [
-      "x",
-      "facebook"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#MadameBlancMysteries"
-     ]
-    },
-    {
-     "name": "TV Premiere Alert",
-     "copy": "What's on your watch list this week? The Madame Blanc Mysteries Season 5 premieres tomorrow! Who's tuning in?",
-     "channels": [
-      "instagram",
-      "threads"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#AcornTV"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "manchester-christmas-markets",
-   "off": -2,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Manchester Christmas Markets Open",
-   "blurb": "Manchester's renowned Christmas Markets opened on Friday, transforming the city centre into a festive wonderland until late December.",
-   "source": {
-    "l": "Visit Manchester",
-    "u": "https://www.visitmanchester.com/whats-on/christmas/christmas-markets"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festive Manchester",
-     "copy": "Manchester's Christmas Markets are officially open! Grab a bratwurst and some mulled wine, the festive season has begun!",
-     "channels": [
-      "instagram",
-      "facebook"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#ManchesterChristmasMarkets"
-     ]
-    },
-    {
-     "name": "Christmas Market Buzz",
-     "copy": "Twinkling lights and festive treats - Manchester's Christmas Markets are drawing in the crowds. Who's planning a visit?",
-     "channels": [
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#ChristmasMarkets"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "blenheim-palace-christmas",
-   "off": 5,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Blenheim Palace Christmas Experience",
-   "blurb": "Blenheim Palace's popular Christmas Market and Illuminated Trail open this Friday, November 13th, offering a magical festive experience.",
-   "source": {
-    "l": "Blenheim Palace",
-    "u": "https://www.blenheimpalace.com/whats-on/events/christmas/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Magical Christmas Ahead",
-     "copy": "Blenheim Palace's stunning Christmas Market and Illuminated Trail kick off this Friday! Get ready for some festive magic.",
-     "channels": [
-      "instagram",
-      "facebook"
+      "facebook",
+      "x"
      ],
      "time": "11:00",
      "tags": [
-      "#BlenheimPalace"
+      "#Kensington"
      ]
     },
     {
-     "name": "Weekend Plans Ideas",
-     "copy": "Planning a festive outing? Blenheim Palace's Christmas experience opens Friday, November 13th. Lights, markets, and Cinderella!",
+     "name": "London Lights",
+     "copy": "The Christmas lights season is officially underway in London! Kensington High Street joins the festive fun on Tuesday evening.",
      "channels": [
       "x",
-      "threads"
+      "facebook"
      ],
-     "time": "14:30",
+     "time": "16:00",
      "tags": [
       "#ChristmasLights"
      ]
@@ -641,109 +488,326 @@
    ]
   },
   {
-   "id": "travis-barker-birthday",
-   "off": 6,
-   "type": "birthday",
+   "id": "cardiff-christmas-lights",
+   "off": 4,
+   "type": "seasonal",
    "hot": true,
-   "title": "Happy 51st Birthday, Travis Barker",
-   "blurb": "Blink-182 drummer and rock icon Travis Barker will celebrate his 51st birthday this coming Saturday, November 14th.",
+   "title": "Cardiff Christmas Lights Switch On",
+   "blurb": "Cardiff is set to switch on its city-wide Christmas lights on Thursday, November 12th, marking the official start of the festive season in the capital.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Travis_Barker"
+    "l": "Visit Cardiff",
+    "u": "https://www.visitcardiff.com/events/cardiff-christmas-lights-switch-on-2026/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
+     "g": "welsh-local",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
+     "g": "dragon",
+     "sub": ""
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
+     "g": "nation-network",
+     "sub": "Nation Radio Wales"
     }
    ],
    "angles": [
     {
-     "name": "Rock Legend's Birthday",
-     "copy": "This Saturday, Blink-182's legendary drummer Travis Barker turns 51! What's your favourite Blink-182 track?",
+     "name": "Cardiff Sparkles",
+     "copy": "Christmas is coming to Cardiff! The city's festive lights will be switched on this Thursday, Nov 12th. Get ready for some seasonal magic! #CardiffChristmas",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Cardiff"
+     ]
+    },
+    {
+     "name": "Festive Capital",
+     "copy": "Our Welsh capital lights up for Christmas on Thursday! Cardiff's switch-on promises to bring that festive feeling.",
      "channels": [
       "x",
       "facebook"
      ],
-     "time": "10:00",
+     "time": "15:00",
      "tags": [
-      "#TravisBarker"
-     ]
-    },
-    {
-     "name": "Celebrating Travis",
-     "copy": "Happy early 51st Birthday to Travis Barker this Saturday! The man who brought us so many iconic drum beats.",
-     "channels": [
-      "instagram",
-      "tiktok"
-     ],
-     "time": "13:00",
-     "tags": [
-      "#Blink182"
+      "#ChristmasInWales"
      ]
     }
    ]
   },
   {
-   "id": "neil-young-birthday",
+   "id": "newcastle-christmas-lights",
    "off": 4,
-   "type": "birthday",
+   "type": "seasonal",
    "hot": true,
-   "title": "Neil Young Turns 81",
-   "blurb": "Legendary Canadian-American singer-songwriter Neil Young will celebrate his 81st birthday this Thursday, November 12th.",
+   "title": "Newcastle Christmas Lights Switch-On",
+   "blurb": "Newcastle's Christmas lights will be switched on Thursday, November 12th, kicking off the festive season in the North East.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Neil_Young"
+    "l": "Newcastle Christmas",
+    "u": "https://www.newcastlechristmas.com/christmas-lights-switch-on-2026"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 60s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
+     "g": "nation-network",
+     "sub": "Nation Radio North East"
     }
    ],
    "angles": [
     {
-     "name": "Music Icon's Milestone",
-     "copy": "A true music legend, Neil Young, turns 81 this Thursday! What's your favourite song from his incredible career?",
+     "name": "North East Festive Start",
+     "copy": "The North East gets festive this Thursday! Newcastle's Christmas lights switch-on is on Nov 12th. Who's excited for the sparkle? #NewcastleChristmas",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Newcastle"
+     ]
+    },
+    {
+     "name": "City Lights",
+     "copy": "Newcastle city centre will be illuminated for Christmas from Thursday! Get ready for the big switch-on event.",
      "channels": [
       "x",
       "facebook"
      ],
-     "time": "09:30",
+     "time": "17:00",
      "tags": [
-      "#NeilYoung"
+      "#ChristmasLights"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "marylebone-christmas-lights",
+   "off": 3,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Marylebone Village Christmas Lights",
+   "blurb": "Marylebone Village will switch on its Christmas lights on Wednesday, November 11th, with events running from 3pm to 8pm and the lights illuminating at 6pm.",
+   "source": {
+    "l": "Pass the Keys London",
+    "u": "https://www.passthekeys.co.uk/blog/london-christmas-lights-2026-switch-on-dates-and-where-to-stay/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Village Sparkle",
+     "copy": "Marylebone Village lights up for Christmas this Wednesday, Nov 11th! Expect a traffic-free high street and plenty of festive cheer.",
+     "channels": [
+      "instagram",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Marylebone"
      ]
     },
     {
-     "name": "Happy Birthday Neil",
-     "copy": "Wishing a very Happy 81st Birthday to the one and only Neil Young this Thursday! Keep on rocking in the free world!",
+     "name": "Midweek Festive Fun",
+     "copy": "Kick off your festive season midweek! Marylebone Village's Christmas lights switch-on is Wednesday evening. #LondonEvents",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#ChristmasInLondon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "covent-garden-christmas-lights",
+   "off": 4,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Covent Garden Christmas Lights Switch-On",
+   "blurb": "Covent Garden's iconic Christmas lights will be switched on Thursday, November 12th, transforming the piazza into a festive wonderland.",
+   "source": {
+    "l": "Pass the Keys London",
+    "u": "https://www.passthekeys.co.uk/blog/london-christmas-lights-2026-switch-on-dates-and-where-to-stay/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Iconic Lights",
+     "copy": "Covent Garden's stunning Christmas lights are on from Thursday, Nov 12th! Get ready for that magical festive feeling. #CoventGarden",
      "channels": [
       "instagram",
-      "threads"
+      "facebook"
      ],
-     "time": "12:30",
+     "time": "14:00",
      "tags": [
-      "#ClassicRock"
+      "#ChristmasMagic"
+     ]
+    },
+    {
+     "name": "Festive Wonderland",
+     "copy": "London's festive transformation continues! Covent Garden becomes a Christmas wonderland with its lights switch-on this Thursday.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "19:00",
+     "tags": [
+      "#LondonChristmas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kim-wilde-66",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Kim Wilde Turns 66",
+   "blurb": "80s pop icon Kim Wilde, known for hits like 'Kids in America' and 'You Keep Me Hangin' On', celebrates her 66th birthday on November 18th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Kim_Wilde"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "80s Pop Princess",
+     "copy": "Happy 66th birthday to the fantastic Kim Wilde! Still rocking 'Kids in America' today. What's your favourite Kim Wilde track? #KimWilde",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#80sPop"
+     ]
+    },
+    {
+     "name": "Pop Icon",
+     "copy": "Celebrating Kim Wilde's birthday on Nov 18th! A true 80s icon whose music still sounds fresh.",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#PopMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kirk-hammett-64",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Kirk Hammett Turns 64",
+   "blurb": "Metallica's legendary lead guitarist, Kirk Hammett, celebrates his 64th birthday on November 18th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Kirk_Hammett"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Guitar Hero",
+     "copy": "Happy 64th birthday to the one and only Kirk Hammett! Metallica's shred master is still one of the greatest guitarists in rock. #KirkHammett",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Metallica"
+     ]
+    },
+    {
+     "name": "Metal Legend",
+     "copy": "Celebrating Kirk Hammett's birthday on Nov 18th! What's your favourite Metallica riff featuring his incredible solos?",
+     "channels": [
+      "x",
+      "facebook"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#MetalMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fabolous-49",
+   "off": 10,
+   "type": "birthday",
+   "hot": false,
+   "title": "Fabolous Celebrates 49th Birthday",
+   "blurb": "American rapper Fabolous, known for hits like 'Can't Deny It' and 'Into You', turns 49 on November 18th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Fabolous"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Hip Hop Star",
+     "copy": "Happy 49th birthday to the one and only Fabolous! Still bringing the heat with his flow. What's your favourite track from him? #Fabolous",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#HipHop"
+     ]
+    },
+    {
+     "name": "Rap Royalty",
+     "copy": "Celebrating Fabolous's birthday on Nov 18th! A true staple in the hip-hop scene for decades.",
+     "channels": [
+      "x",
+      "tiktok"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#RapMusic"
      ]
     }
    ]
