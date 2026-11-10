@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-10T00:54:23.569Z",
+ "updated": "2026-11-10T07:50:27.146Z",
  "moments": [
   {
-   "id": "kingcharles-78th",
-   "off": 4,
-   "type": "birthday",
+   "id": "pl-weekend-review",
+   "off": -1,
+   "type": "sport",
    "hot": true,
-   "title": "King Charles III's 78th Birthday",
-   "blurb": "King Charles III will celebrate his 78th birthday on Saturday, November 14, though his official public birthday is marked in June.",
+   "title": "Premier League Weekend Review",
+   "blurb": "The Premier League delivered high drama this past weekend with Manchester United drawing 4-4 against Aston Villa and Liverpool securing a 3-1 win over Crystal Palace on Sunday.",
    "source": {
-    "l": "Royal.uk",
-    "u": "https://www.royal.uk/king-charles-iii"
+    "l": "The Guardian / AS USA",
+    "u": "https://www.theguardian.com/football/premierleague/results"
    },
    "fits": [
     {
@@ -20,65 +20,343 @@
    ],
    "angles": [
     {
-     "name": "Royal Celebrations",
-     "copy": "Happy actual birthday to King Charles III this Saturday! While the big public celebrations are in June, we're still raising a cuppa to His Majesty turning 78. What's your favourite royal tradition?",
+     "name": "Drama Recap",
+     "copy": "Another wild Premier League weekend in the books! Man Utd and Aston Villa served up an 8-goal thriller, while Liverpool kept the pressure on. What was your match of the weekend?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok",
-      "threads"
+      "x"
      ],
      "time": "09:00",
      "tags": [
-      "#KingCharlesIII"
+      "#PremierLeague"
      ]
     },
     {
-     "name": "Birthday Fact",
-     "copy": "Did you know King Charles III actually has two birthdays? His real one is this Saturday, November 14th! He turns 78. The official state celebration is always in June for better weather.",
+     "name": "Local Team Focus",
+     "for": "Nation Radio London",
+     "copy": "Chelsea's surprising 0-1 loss to Sunderland and Tottenham's 2-2 draw with Man United provided talking points for London clubs. What's next for your team?",
      "channels": [
-      "instagram",
-      "facebook",
       "x",
-      "threads"
+      "facebook"
      ],
-     "time": "14:00",
+     "time": "10:30",
      "tags": [
-      "#RoyalBirthday"
+      "#CFC #THFC"
      ]
     }
    ]
   },
   {
-   "id": "liverpool-manutd-clash",
-   "off": 12,
+   "id": "uefa-nations-league",
+   "off": 5,
    "type": "sport",
    "hot": true,
-   "title": "Liverpool vs Manchester United",
-   "blurb": "One of English football's fiercest rivalries reignites on Sunday, November 22, as Liverpool host Manchester United at Anfield in the Premier League.",
+   "title": "England vs Spain: UEFA Nations League",
+   "blurb": "England faces Spain in a highly anticipated UEFA Nations League match this Sunday, November 15th, a fixture that has even shifted the start date of 'I'm A Celebrity... Get Me Out Of Here!'.",
    "source": {
-    "l": "Premier League",
-    "u": "https://www.premierleague.com/fixtures"
+    "l": "ITV",
+    "u": "https://www.itv.com/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Yorkshire"
     }
    ],
    "angles": [
     {
-     "name": "Big Game Build-up",
-     "copy": "The biggest match of the weekend is just around the corner! Liverpool take on Manchester United this Sunday. Who are you backing for the win at Anfield?",
+     "name": "Match Build-up",
+     "copy": "The Three Lions are back in action! England take on Spain in the Nations League this Sunday. Can Gareth Southgate's side get a crucial win?",
+     "channels": [
+      "x",
+      "facebook",
+      "instagram"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#England #NationsLeague"
+     ]
+    },
+    {
+     "name": "Football vs TV",
+     "copy": "When football is so big it moves I'm A Celeb! England v Spain means a Monday start for the jungle. Will you be watching the game or waiting for the campmates?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#FootballvsTV"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jamie-miller-babydoll-chart",
+   "off": -4,
+   "type": "culture",
+   "hot": true,
+   "title": "Jamie Miller holds UK No. 1 Single",
+   "blurb": "Jamie Miller's 'Babydoll' remains at number one on the Official UK Singles Chart for an impressive eleventh week, as revealed on November 6th.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Reign",
+     "copy": "Still reigning supreme! Jamie Miller's 'Babydoll' is number one for an 11th week. Is it one of your favourite tracks of the year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#UKChart #JamieMiller"
+     ]
+    },
+    {
+     "name": "Behind The Song",
+     "copy": "11 weeks at #1 for Jamie Miller! What is it about 'Babydoll' that's made it such a huge hit? Let us know what you love about it.",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#Babydoll"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "michael-jackson-thriller-chart",
+   "off": -4,
+   "type": "culture",
+   "hot": true,
+   "title": "Michael Jackson's 'Thriller' re-enters UK Top 5",
+   "blurb": "Michael Jackson's iconic 'Thriller' has re-entered the UK Singles Chart at number 5, marking its highest-ever chart position and becoming a perennial Halloween favourite.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/singles-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Timeless Classic",
+     "copy": "Still scaring up success! Michael Jackson's 'Thriller' just hit a new UK chart peak at No. 5. Proof that some songs are truly timeless! #Thriller",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:30",
+     "tags": [
+      "#MichaelJackson"
+     ]
+    },
+    {
+     "name": "Halloween Anthem",
+     "copy": "Even after Halloween, 'Thriller' is still dominating the charts! What's your favourite spooky season track that never gets old?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:30",
+     "tags": [
+      "#ChartHistory"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "qotsa-album-no1",
+   "off": -3,
+   "type": "culture",
+   "hot": true,
+   "title": "Queens of the Stone Age land UK No. 1 Album",
+   "blurb": "Queens of the Stone Age have claimed the top spot on the Official UK Albums Chart with their new record 'Perfecth', released this week.",
+   "source": {
+    "l": "Official Charts Company",
+    "u": "https://www.officialcharts.com/charts/albums-chart/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Reigns",
+     "copy": "Rock is back at #1! Huge congrats to Queens of the Stone Age on their new album 'Perfecth' hitting the top spot. Have you heard it yet?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#QOTSA #NewMusic"
+     ]
+    },
+    {
+     "name": "Album of the Week",
+     "copy": "Queens of the Stone Age's 'Perfecth' is the UK's new No. 1 album. What's your favourite track from the new record?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#RockAlbum"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im-a-celeb-launch",
+   "off": 6,
+   "type": "tv",
+   "hot": true,
+   "title": "I'm A Celebrity... Get Me Out Of Here! returns",
+   "blurb": "Ant & Dec are back as 'I'm A Celebrity... Get Me Out Of Here!' kicks off its 26th series from the Australian jungle on Monday, November 16th, at 9pm on ITV1.",
+   "source": {
+    "l": "ITV",
+    "u": "https://www.itv.com/imacelebrity"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Jungle Countdown",
+     "copy": "The wait is almost over! I'm A Celeb is back on Monday with Ant & Dec. Who are you hoping to see brave the jungle this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#ImACeleb"
+     ]
+    },
+    {
+     "name": "Rumoured Line-up",
+     "copy": "Rumours are swirling about the I'm A Celeb line-up - from Wayne Rooney to Ricky Wilson and Joanna Page! Who would you love to see in the jungle?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#IAC"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "blue-lights-s4",
+   "off": 2,
+   "type": "tv",
+   "hot": true,
+   "title": "Belfast drama 'Blue Lights' returns for Season 4",
+   "blurb": "The acclaimed Belfast police drama 'Blue Lights' premieres its fourth season on BritBox this Thursday, November 12th, with new episodes weekly.",
+   "source": {
+    "l": "BritBox",
+    "u": "https://www.britbox.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Gritty Drama",
+     "copy": "Get ready for more intense action! 'Blue Lights' Season 4 drops this Thursday on BritBox. The Belfast police drama is a must-watch for crime fans.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:30",
+     "tags": [
+      "#BlueLights"
+     ]
+    },
+    {
+     "name": "BritBox Binge",
+     "copy": "'Blue Lights' is back! If you're a fan of gritty, realistic police dramas, clear your schedule for Thursday. Are you a BritBox subscriber?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#BritBox"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hunting-alice-bell",
+   "off": 1,
+   "type": "tv",
+   "hot": true,
+   "title": "New mystery drama 'Hunting Alice Bell' on Channel 4",
+   "blurb": "Channel 4 premieres the new mystery drama 'Hunting Alice Bell' this Wednesday, November 11th at 9pm, delving into a 20-year-old cold case.",
+   "source": {
+    "l": "Channel 4",
+    "u": "https://www.channel4.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "True Crime Vibes",
+     "copy": "A new cold case mystery to obsess over! 'Hunting Alice Bell' starts Wednesday on Channel 4. Who's tuning in for this Yorkshire-set drama?",
      "channels": [
       "instagram",
       "facebook",
@@ -86,34 +364,79 @@
      ],
      "time": "10:00",
      "tags": [
-      "#LIVMUN"
+      "#HuntingAliceBell"
      ]
     },
     {
-     "name": "Rivalry Talk",
-     "copy": "Liverpool vs Man Utd: a fixture that always delivers drama. Which classic moment from this rivalry stands out for you ahead of Sunday's clash?",
+     "name": "Wednesday Watch",
+     "copy": "If you love a good whodunit, 'Hunting Alice Bell' promises to keep you guessing. Don't miss the premiere on Channel 4 tomorrow night!",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "16:00",
+     "time": "17:00",
      "tags": [
-      "#PremierLeague"
+      "#Channel4"
      ]
     }
    ]
   },
   {
-   "id": "wales-allblacks-rugby",
-   "off": 4,
-   "type": "sport",
+   "id": "cunk-on-cinema",
+   "off": 5,
+   "type": "tv",
    "hot": true,
-   "title": "Wales face the All Blacks",
-   "blurb": "Wales take on the formidable New Zealand All Blacks at Principality Stadium, Cardiff, on Saturday, November 14, in a highly anticipated Autumn Nations Championship match.",
+   "title": "Philomena Cunk returns with 'Cunk on Cinema'",
+   "blurb": "Diane Morgan's beloved character Philomena Cunk is back to tackle the world of film in 'Cunk on Cinema', premiering Sunday, November 15th on Netflix.",
    "source": {
-    "l": "Welsh Rugby Union",
-    "u": "https://www.wru.wales/fixtures-results/"
+    "l": "Netflix",
+    "u": "https://www.netflix.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cunk's Take",
+     "copy": "She's back! Philomena Cunk is turning her unique insights to the silver screen in 'Cunk on Cinema' this Sunday on Netflix. Prepare to be educated (or not).",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#CunkOnCinema"
+     ]
+    },
+    {
+     "name": "Comedy Gold",
+     "copy": "If you need a laugh this weekend, Philomena Cunk's latest mockumentary lands on Netflix Sunday. What's your favourite Cunk moment?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#DianeMorgan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "death-valley-s2-welsh",
+   "off": 7,
+   "type": "tv",
+   "hot": true,
+   "title": "Welsh crime comedy 'Death Valley' Season 2",
+   "blurb": "The Welsh-set crime comedy 'Death Valley' returns for its second season on BritBox, starting Tuesday, November 17th, promising more unconventional sleuthing in the Welsh countryside.",
+   "source": {
+    "l": "BritBox",
+    "u": "https://www.britbox.com/"
    },
    "fits": [
     {
@@ -126,63 +449,14 @@
     },
     {
      "g": "nation-network",
-     "sub": "Nation Radio Wales"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Welsh Passion",
-     "copy": "It's the big one! Wales vs the mighty All Blacks this Saturday in Cardiff. Can the Dragons upset the odds? Send us your predictions!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#WALvNZL"
-     ]
-    },
-    {
-     "name": "Principality Buzz",
-     "copy": "The atmosphere in Cardiff will be electric this weekend as Wales host the All Blacks. Who's heading to the Principality Stadium?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#AutumnNations"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "england-japan-rugby",
-   "off": 4,
-   "type": "sport",
-   "hot": true,
-   "title": "England Rugby vs Japan",
-   "blurb": "England will face Japan at Twickenham on Saturday, November 14, as part of the Autumn Nations Championship.",
-   "source": {
-    "l": "England Rugby",
-    "u": "https://www.englandrugby.com/fixtures-results/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "Twickenham Action",
-     "copy": "England are back at Twickenham this Saturday against Japan! A big Autumn Nations Championship clash. How do you see the game playing out?",
+     "name": "Welsh Sleuths",
+     "for": "welsh-local",
+     "copy": "Great news for fans of Welsh drama! 'Death Valley' Season 2, set in our beautiful Welsh countryside, starts next Tuesday on BritBox. Who's excited?",
      "channels": [
       "instagram",
       "facebook",
@@ -190,138 +464,142 @@
      ],
      "time": "10:30",
      "tags": [
-      "#ENGvJPN"
+      "#WelshDrama #DeathValley"
      ]
     },
     {
-     "name": "Rise of Japan",
-     "copy": "Japan always bring an exciting game! England will need to be at their best this weekend. What are you most looking forward to?",
+     "name": "Comedy Crime",
+     "for": "dragon",
+     "copy": "Timothy Spall is back solving crimes in Wales! 'Death Valley' returns for more laughs and mysteries next week on BritBox. Will you be tuning in?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
-     "time": "14:30",
+     "time": "15:30",
      "tags": [
-      "#AutumnInternationals"
+      "#WelshTV"
      ]
     }
    ]
   },
   {
-   "id": "uk-singles-chart-babydoll",
-   "off": 0,
-   "type": "culture",
+   "id": "remembrance-day",
+   "off": 1,
+   "type": "seasonal",
    "hot": true,
-   "title": "Jamie Miller's 'Babydoll' UK Number 1",
-   "blurb": "Jamie Miller's 'Babydoll' currently holds the top spot on the UK Official Singles Chart, with Tate McRae's 'Housewife' and Ashe's 'Stop the Wedding!' close behind.",
+   "title": "Remembrance Day observed across the UK",
+   "blurb": "The UK will observe Remembrance Day tomorrow, Wednesday, November 11th, with a two-minute silence at 11 am to honour the sacrifices of the Armed Forces.",
    "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/charts/singles-chart/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Current Chart Topper",
-     "copy": "Still obsessed with Jamie Miller's 'Babydoll' at Number 1! What's your favourite track in the Top 10 right now?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#UKChart"
-     ]
-    },
-    {
-     "name": "Who's Next?",
-     "copy": "Jamie Miller holding strong at Number 1. But Tate McRae and Ashe are hot on his heels! Who do you think will be next to claim the top spot?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#NewMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tv-honey-bbc",
-   "off": 4,
-   "type": "tv",
-   "hot": true,
-   "title": "New BBC Spy Drama 'Honey'",
-   "blurb": "The new Cold War spy drama 'Honey', set in 1982 East Berlin, premieres on BBC One from Saturday, November 14.",
-   "source": {
-    "l": "BBC",
-    "u": "https://www.bbc.co.uk/programmes/p0000000"
+    "l": "The Royal British Legion",
+    "u": "https://www.britishlegion.org.uk/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     }
    ],
    "angles": [
     {
-     "name": "New Series Alert",
-     "copy": "Grab your popcorn! New spy drama 'Honey' kicks off this Saturday on BBC One. Set in 80s East Berlin, it looks like a must-watch.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "11:30",
-     "tags": [
-      "#HoneyBBC"
-     ]
-    },
-    {
-     "name": "80s Thriller",
-     "copy": "Love a good Cold War thriller? 'Honey' on BBC One starting Saturday promises tension and intrigue from 1982 East Berlin. Who's tuning in?",
+     "name": "Lest We Forget",
+     "copy": "Tomorrow, November 11th, we pause for Remembrance Day. Join us in observing the two-minute silence at 11 am to honour those who served. #RemembranceDay",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "19:00",
+     "time": "07:00",
      "tags": [
-      "#TVDrama"
+      "#LestWeForget"
+     ]
+    },
+    {
+     "name": "Act of Remembrance",
+     "copy": "As a nation, we unite tomorrow for Remembrance Day. A moment to reflect on the immense sacrifices made for our freedoms. How will you be marking the day?",
+     "channels": [
+      "x",
+      "facebook",
+      "threads"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#ArmisticeDay"
      ]
     }
    ]
   },
   {
-   "id": "alison-moyet-tour",
-   "off": 0,
-   "type": "gig",
+   "id": "neil-young-birthday",
+   "off": 2,
+   "type": "birthday",
    "hot": true,
-   "title": "Alison Moyet UK Tour",
-   "blurb": "Alison Moyet's UK tour continues through November, with dates across the country until November 23.",
+   "title": "Neil Young turns 81",
+   "blurb": "Legendary Canadian-American singer-songwriter Neil Young celebrates his 81st birthday this Thursday, November 12th. He was inducted into the Rock and Roll Hall of Fame twice.",
    "source": {
-    "l": "GigsAndTours",
-    "u": "https://www.gigsandtours.com/tour/alison-moyet"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Neil_Young"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 80s"
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Icon",
+     "copy": "Happy 81st Birthday this Thursday to the one and only Neil Young! A true rock icon with a timeless catalogue. What's your favourite Neil Young track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:30",
+     "tags": [
+      "#NeilYoung"
+     ]
+    },
+    {
+     "name": "Music Legacy",
+     "copy": "Celebrating 81 years of Neil Young this week! From Buffalo Springfield to Crazy Horse, his influence is undeniable. Which era of his music do you love most?",
+     "channels": [
+      "x",
+      "threads"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#ClassicRock"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "petula-clark-birthday",
+   "off": 5,
+   "type": "birthday",
+   "hot": true,
+   "title": "Petula Clark celebrates 94th Birthday",
+   "blurb": "British singing legend Petula Clark, known for hits like 'Downtown', celebrates her 94th birthday on Friday, November 15th.",
+   "source": {
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/petula-clark.html"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 60s"
     },
     {
      "g": "decades-genres",
@@ -330,149 +608,116 @@
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
     }
    ],
    "angles": [
     {
-     "name": "Moyet Live",
-     "copy": "The incredible Alison Moyet is on tour this month! If you're heading to one of her shows, what classic track are you hoping to hear live?",
+     "name": "British Icon",
+     "copy": "Sending a huge Happy 94th Birthday this Friday to the incredible Petula Clark! 'Downtown' and so many more classics. What's your favourite of hers?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "09:00",
      "tags": [
-      "#AlisonMoyet"
+      "#PetulaClark"
      ]
     },
     {
-     "name": "Iconic Voice",
-     "copy": "Alison Moyet's distinctive voice is gracing stages across the UK this November. Who remembers her hits from the 80s and beyond?",
+     "name": "Timeless Voice",
+     "copy": "94 years young! Petula Clark's voice is still as captivating as ever. From the 60s to today, her music continues to charm. What's a Petula Clark song that always makes you smile?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "18:00",
+     "time": "15:00",
      "tags": [
-      "#80sMusic"
+      "#MusicLegend"
      ]
     }
    ]
   },
   {
-   "id": "paul-heaton-tour",
-   "off": 0,
-   "type": "gig",
+   "id": "anni-frid-lyngstad-birthday",
+   "off": 5,
+   "type": "birthday",
    "hot": true,
-   "title": "Paul Heaton & Rianne Downey Tour",
-   "blurb": "Paul Heaton's tour with Rianne Downey continues this week, with dates running until Saturday, November 14.",
+   "title": "ABBA's Anni-Frid Lyngstad turns 81",
+   "blurb": "Anni-Frid Lyngstad, one of the iconic voices of Swedish pop supergroup ABBA, celebrates her 81st birthday this Friday, November 15th.",
    "source": {
-    "l": "GigsAndTours",
-    "u": "https://www.gigsandtours.com/tour/paul-heaton"
+    "l": "Famous Birthdays",
+    "u": "https://www.famousbirthdays.com/people/frida-lyngstad.html"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation 90s"
+     "sub": "Nation 70s"
     },
     {
      "g": "decades-genres",
      "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
     }
    ],
    "angles": [
     {
-     "name": "Heaton & Downey",
-     "copy": "Paul Heaton and Rianne Downey are on the road together this week! Catch them before Saturday. What's your favourite Paul Heaton tune, from The Beautiful South or solo?",
+     "name": "ABBA Legend",
+     "copy": "Happy 81st Birthday on Friday to the incredible Anni-Frid Lyngstad of ABBA! Her voice is pure pop magic. What's your favourite ABBA song she sings on?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "09:30",
      "tags": [
-      "#PaulHeaton"
+      "#ABBA #AnniFrid"
      ]
     },
     {
-     "name": "Live Music Pick",
-     "copy": "Looking for a great gig this week? Paul Heaton is bringing his unique sound to venues across the UK with Rianne Downey. A perfect night out!",
+     "name": "Pop Royalty",
+     "copy": "Celebrating Frida from ABBA's 81st birthday this week! A true pop icon whose music still fills dancefloors worldwide. What's your go-to ABBA hit?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "16:30",
      "tags": [
-      "#LiveMusic"
+      "#PopMusic"
      ]
     }
    ]
   },
   {
-   "id": "mirandalambert-bday",
-   "off": 0,
+   "id": "travis-barker-birthday",
+   "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Miranda Lambert turns 43",
-   "blurb": "Grammy-winning country superstar Miranda Lambert celebrates her 43rd birthday today, November 10.",
+   "title": "Travis Barker celebrates 51st Birthday",
+   "blurb": "Blink-182 drummer and pop-punk icon Travis Barker celebrates his 51st birthday this Thursday, November 14th.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/miranda-lambert.html"
+    "u": "https://www.famousbirthdays.com/people/travis-barker.html"
    },
    "fits": [
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Country Queen",
-     "copy": "Happy 43rd Birthday to the incredible Miranda Lambert! What's your go-to song from the country queen?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "08:00",
-     "tags": [
-      "#MirandaLambert"
-     ]
     },
     {
-     "name": "Birthday Playlist",
-     "copy": "It's Miranda Lambert's birthday! Time to crank up some 'Kerosene' or 'The House That Built Me'. What's on your Miranda playlist today?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:30",
-     "tags": [
-      "#CountryMusic"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eve-bday",
-   "off": 0,
-   "type": "birthday",
-   "hot": true,
-   "title": "Eve celebrates 48th Birthday",
-   "blurb": "Rapper, singer, and actress Eve, known for hits like 'Let Me Blow Ya Mind', celebrates her 48th birthday today, November 10.",
-   "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/eve.html"
-   },
-   "fits": [
-    {
      "g": "decades-genres",
-     "sub": "Nation Hits"
+     "sub": "Nation 90s"
     },
     {
      "g": "decades-genres",
@@ -481,46 +726,49 @@
    ],
    "angles": [
     {
-     "name": "Hip Hop Icon",
-     "copy": "Happy Birthday to the one and only Eve! The 'Ruff Ryders' First Lady turns 48 today. What's your favourite Eve track?",
+     "name": "Punk Rock Powerhouse",
+     "copy": "Happy 51st Birthday this Thursday to the unstoppable Travis Barker! Drumming legend and pop-punk icon. What's your favourite Blink-182 track?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "09:30",
+     "time": "10:00",
      "tags": [
-      "#Eve"
+      "#TravisBarker #Blink182"
      ]
     },
     {
-     "name": "Throwback Tuesday",
-     "copy": "Celebrating Eve's birthday today! Her music defined an era. What's your top Eve song that takes you back?",
+     "name": "Influence & Impact",
+     "copy": "Travis Barker turns 51 this week! His drumming has influenced a generation. What's a song where his percussion truly shines?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
-     "time": "14:00",
+     "time": "17:00",
      "tags": [
-      "#HipHop"
+      "#RockDrummer"
      ]
     }
    ]
   },
   {
-   "id": "warreng-bday",
-   "off": 0,
+   "id": "rev-run-birthday",
+   "off": 4,
    "type": "birthday",
    "hot": true,
-   "title": "Warren G turns 56",
-   "blurb": "West Coast hip-hop legend Warren G, famous for 'Regulate', celebrates his 56th birthday today, November 10.",
+   "title": "Rev. Run of Run-DMC turns 62",
+   "blurb": "Joseph Simmons, known as Rev. Run, co-founder of hip-hop pioneers Run-DMC, celebrates his 62nd birthday this Thursday, November 14th.",
    "source": {
     "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/warren-g.html"
+    "u": "https://www.famousbirthdays.com/people/rev-run.html"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation 90s"
@@ -532,279 +780,74 @@
    ],
    "angles": [
     {
-     "name": "G-Funk Legend",
-     "copy": "It's Warren G's 56th birthday! Time to 'Regulate' your day with some classic G-Funk. What's your favourite track from the legend?",
+     "name": "Hip-Hop Royalty",
+     "copy": "Happy 62nd Birthday this Thursday to the legendary Rev. Run! A true pioneer of hip-hop with Run-DMC. What's your favourite track from the group?",
      "channels": [
       "instagram",
       "facebook",
       "x",
       "tiktok"
      ],
-     "time": "11:00",
+     "time": "10:30",
      "tags": [
-      "#WarrenG"
+      "#RevRun #RunDMC"
      ]
     },
     {
-     "name": "Hip Hop History",
-     "copy": "Celebrating a pioneer of West Coast hip-hop, Warren G, on his birthday! His influence is undeniable. What's his most iconic moment for you?",
+     "name": "Music Pioneer",
+     "copy": "Celebrating Rev. Run's 62nd this week! From 'Walk This Way' to 'It's Tricky', Run-DMC changed the game. What's your go-to Run-DMC anthem?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "threads"
      ],
      "time": "17:30",
      "tags": [
-      "#90sHipHop"
+      "#HipHop"
      ]
     }
    ]
   },
   {
-   "id": "jacquiabbott-bday",
-   "off": 0,
-   "type": "birthday",
+   "id": "exeter-city-league-two",
+   "off": 11,
+   "type": "sport",
    "hot": true,
-   "title": "Jacqui Abbott turns 52",
-   "blurb": "Jacqui Abbott, former lead singer of The Beautiful South, celebrates her 52nd birthday today, November 10.",
+   "title": "Exeter City FC League Two fixture",
+   "blurb": "Exeter City Football Club will be in action in League Two on Saturday, November 21st, when they face Crawley.",
    "source": {
-    "l": "Famous Birthdays",
-    "u": "https://www.famousbirthdays.com/people/jacqui-abbott.html"
+    "l": "The Guardian",
+    "u": "https://www.theguardian.com/football/fixtures"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation 90s"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
+     "g": "radio-exe",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Beautiful Voice",
-     "copy": "Happy Birthday to the brilliant Jacqui Abbott! Her vocals with The Beautiful South are iconic. What's your favourite song featuring her amazing voice?",
+     "name": "Local Football",
+     "copy": "Calling all Grecians! Exeter City are at home against Crawley next Saturday, Nov 21st, in League Two. Get ready to cheer on the team! #ECFC #ExeterCity",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#JacquiAbbott"
-     ]
-    },
-    {
-     "name": "90s Gems",
-     "copy": "Celebrating Jacqui Abbott's birthday! From 'Rotterdam' to 'Perfect 10', her songs are timeless. Which one is on repeat for you today?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#TheBeautifulSouth"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "noahkahan-london",
-   "off": 3,
-   "type": "gig",
-   "hot": true,
-   "title": "Noah Kahan's London Shows",
-   "blurb": "Folk-pop sensation Noah Kahan plays three nights in London this week, on November 13, 14, and 17.",
-   "source": {
-    "l": "Time Out London",
-    "u": "https://www.timeout.com/london/music/london-concerts-november-2026"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Stick Season Live",
-     "copy": "Noah Kahan is taking over London this week with three shows! Who's excited to hear 'Stick Season' live? Let us know if you're going!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
      ],
      "time": "12:30",
      "tags": [
-      "#NoahKahan"
+      "#ExeterFootball"
      ]
     },
     {
-     "name": "London Calling",
-     "copy": "Three chances to see Noah Kahan in London this week! His folk-pop anthems are sure to be a highlight. What's your favourite track?",
+     "name": "Match Day Excitement",
+     "copy": "Exeter City's next League Two clash is against Crawley on the 21st. Who's heading to St James Park to support the Grecians?",
      "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#LondonGigs"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "muse-london",
-   "off": 5,
-   "type": "gig",
-   "hot": true,
-   "title": "Muse play London dates",
-   "blurb": "Rock giants Muse will be playing two dates in London on November 15 and 16.",
-   "source": {
-    "l": "Time Out London",
-    "u": "https://www.timeout.com/london/music/london-concerts-november-2026"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Muse Mania",
-     "copy": "Muse are bringing their epic live show to London this weekend! Get ready for two nights of rock anthems. Who's going to be there?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Muse"
-     ]
-    },
-    {
-     "name": "Rock Spectacle",
-     "copy": "Experience Muse live in London this Sunday and Monday! Their shows are always a spectacle. What's the one song you NEED to hear?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
+      "x",
+      "facebook"
      ],
      "time": "18:30",
      "tags": [
-      "#LiveRock"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bluelights-s4",
-   "off": 2,
-   "type": "tv",
-   "hot": true,
-   "title": "Blue Lights Season 4 Premieres",
-   "blurb": "The acclaimed Belfast-set police drama 'Blue Lights' returns for its fourth season, premiering on BritBox in North America on November 12, with UK release expected around the same time.",
-   "source": {
-    "l": "BritBox",
-    "u": "https://www.britbox.com/us/show/Blue_Lights_S4_41940"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio Scotland"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Belfast Back",
-     "copy": "Blue Lights is back! The gripping police drama set in Belfast returns for Season 4 this week. Who's ready for more?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#BlueLights"
-     ]
-    },
-    {
-     "name": "Crime Drama Fix",
-     "copy": "If you love a good crime drama, 'Blue Lights' Season 4 is a must-watch. Expect more tension and twists from the streets of Belfast.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#TVReturn"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "autumn-weather",
-   "off": 0,
-   "type": "seasonal",
-   "hot": false,
-   "title": "Mild, Unsettled November Weather",
-   "blurb": "The UK is experiencing a mild and unsettled November, with average temperatures, cloud, and intermittent rain and showers, though some overnight frost and fog are possible.",
-   "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/weather/forecast/uk/index"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Classic Autumn",
-     "copy": "It's a classic unsettled November across the UK – mild temperatures, some cloud, and those inevitable showers! Don't forget your brolly!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "07:00",
-     "tags": [
-      "#UKWeather"
-     ]
-    },
-    {
-     "name": "Cosy Vibes",
-     "copy": "With mild and damp weather, it's perfect for cosy nights in. What's your favourite way to spend a chilly November evening?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#AutumnVibes"
+      "#DevonFootball"
      ]
     }
    ]
