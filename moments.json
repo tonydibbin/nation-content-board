@@ -1,28 +1,36 @@
 {
- "updated": "2026-11-14T11:49:31.989Z",
+ "updated": "2026-11-14T17:22:15.100Z",
  "moments": [
   {
-   "id": "england-rugby-japan",
+   "id": "england-japan-rugby",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "England Rugby Faces Japan",
-   "blurb": "England's men's rugby team takes on Japan today in a Nations Championship fixture at Twickenham.",
+   "title": "England vs Japan in Autumn Nations Cup",
+   "blurb": "England faces Japan today in the Autumn Nations Cup at Twickenham, marking a key fixture in the new international rugby tournament.",
    "source": {
-    "l": "RFU / ITV Sport",
-    "u": "https://www.englandrugby.com/"
+    "l": "Gainline / WorldChoice Sports",
+    "u": "https://www.gainline.co.uk/autumn-internationals-2026-fixtures-schedule-uk-kick-off-times-and-tv/"
    },
    "fits": [
     {
      "g": "nation-network",
      "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
     }
    ],
    "angles": [
     {
-     "name": "Match Day Excitement",
+     "name": "Match Day Hype",
      "for": "",
-     "copy": "It's match day at Twickenham! England face Japan in the Nations Championship. Who's ready for some rugby action? #ENGvJPN",
+     "copy": "It's game day! England take on Japan at Twickenham this afternoon in the Autumn Nations Cup. Who's ready for some international rugby action? #Rugby",
      "channels": [
       "instagram",
       "facebook",
@@ -32,19 +40,33 @@
      "tags": [
       "#EnglandRugby"
      ]
+    },
+    {
+     "name": "Twickenham Buzz",
+     "for": "Nation Radio London",
+     "copy": "Twickenham is buzzing! England face Japan today in the Autumn Nations Cup. Are you heading to the stadium or watching from a London pub?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:30",
+     "tags": [
+      "#Twickenham"
+     ]
     }
    ]
   },
   {
-   "id": "wales-rugby-nz",
+   "id": "wales-allblacks-rugby",
    "off": 0,
    "type": "sport",
    "hot": true,
    "title": "Wales vs All Blacks Today",
-   "blurb": "Wales host New Zealand in a highly anticipated Nations Championship match at Principality Stadium today.",
+   "blurb": "Wales takes on the mighty All Blacks today in a highly anticipated Autumn Nations Cup clash, live from the Principality Stadium.",
    "source": {
-    "l": "WRU / BBC Sport Wales",
-    "u": "https://www.wru.wales/"
+    "l": "Gainline",
+    "u": "https://www.gainline.co.uk/autumn-internationals-2026-fixtures-schedule-uk-kick-off-times-and-tv/"
    },
    "fits": [
     {
@@ -62,46 +84,149 @@
    ],
    "angles": [
     {
-     "name": "Principality Roar",
+     "name": "Welsh Rugby Fever",
      "for": "welsh-local",
-     "copy": "The Principality Stadium is set for a massive clash today as Wales take on the mighty All Blacks! Cymru am byth! #WALvNZL",
+     "copy": "It's the big one! Wales go head-to-head with the All Blacks today. Are you ready to cheer on the boys in red? What's your score prediction?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "14:00",
      "tags": [
       "#WalesRugby"
      ]
     },
     {
-     "name": "Haka Anticipation",
-     "for": "",
-     "copy": "It's Wales vs New Zealand today! Who's excited to see the Haka at Principality Stadium? Let the Autumn Nations Championship battles begin.",
+     "name": "Principality Roar",
+     "for": "Nation Radio Wales",
+     "copy": "The Principality Stadium is set for a massive encounter as Wales battle the All Blacks this afternoon. Let's hear your messages of support! #AutumnNationsCup",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
-     "time": "15:00",
+     "time": "13:45",
      "tags": [
-      "#AutumnNations"
+      "#WelshRugby"
      ]
     }
    ]
   },
   {
-   "id": "im-a-celeb-launch",
-   "off": 2,
-   "type": "tv",
+   "id": "wrexham-christmas-lights",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "I'm A Celebrity... Is Back!",
-   "blurb": "Ant & Dec return to Australia as I'm A Celebrity...Get Me Out Of Here! kicks off its 26th series on ITV this Monday, November 16th.",
+   "title": "Wrexham Christmas Lights Switch-On",
+   "blurb": "Wrexham city centre is hosting its Christmas lights switch-on today, featuring an artisan market, festive entertainment, and a lantern procession.",
    "source": {
-    "l": "ITV",
-    "u": "https://www.itv.com/imacelebrity"
+    "l": "This is Wrecsam",
+    "u": "https://www.thisiswrecsam.co.uk/whats-on/wrexham-christmas-lights-switch-on-2026-saturday-14-november/"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "dragon",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Wrexham Festive Fun",
+     "for": "welsh-local",
+     "copy": "Wrexham's Christmas lights are being switched on today! Head to Queen's Square for festive entertainment and the lantern procession. What's your favourite part of the switch-on?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#WrexhamChristmas"
+     ]
+    },
+    {
+     "name": "Local Christmas Kick-Off",
+     "for": "dragon",
+     "copy": "The festive season officially begins in Wrexham today with the big Christmas lights switch-on! Don't miss the market, entertainment, and the grand illumination at Eagles Meadow. #Wrexham",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#ChristmasLights"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gravesend-christmas-lights",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Gravesend Christmas Lights & Lisa Maffia",
+   "blurb": "Gravesend is switching on its Christmas lights today, with a free day of live music, street entertainment, and a headline performance from UK garage royalty Lisa Maffia & MC Romeo.",
+   "source": {
+    "l": "Gravesham Borough Council",
+    "u": "https://www.gravesham.gov.uk/events/christmas-lights-switch-on-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Gravesend Lights & Tunes",
+     "for": "",
+     "copy": "Gravesend's Christmas lights go on today! Expect a day of festive fun and don't miss UK garage legends Lisa Maffia & MC Romeo hitting the stage later! #GravesendChristmas",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#ChristmasSwitchOn"
+     ]
+    },
+    {
+     "name": "Garage Royalty",
+     "for": "Nation Dance",
+     "copy": "Lisa Maffia & MC Romeo are bringing the garage vibes to Gravesend's Christmas lights switch-on today! Who's heading down for their live set? #LisaMaffia",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#UKGarage"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "royal-leamington-spa-lights",
+   "off": 1,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Royal Leamington Spa Christmas Lights",
+   "blurb": "Royal Leamington Spa hosts its Big Lights Switch On tomorrow, featuring a full day of entertainment, Christmas markets, and family fun.",
+   "source": {
+    "l": "Coventry.gov.uk",
+    "u": "https://www.coventry.gov.uk/events/article/1183/christmas_lights_switch_on_in_coventry_2026"
    },
    "fits": [
     {
@@ -111,9 +236,47 @@
    ],
    "angles": [
     {
+     "name": "Leamington Spa Christmas",
+     "for": "",
+     "copy": "The festive magic continues tomorrow! Royal Leamington Spa's Christmas lights switch-on promises a day of markets, entertainment, and the big illumination at 5:30 PM. #LeamingtonSpa",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#Christmas2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im-a-celeb-launch",
+   "off": 2,
+   "type": "tv",
+   "hot": true,
+   "title": "I'm A Celebrity... Get Me Out Of Here! Returns",
+   "blurb": "The 26th series of I'm A Celebrity... Get Me Out Of Here! kicks off Monday, November 16, 2026, at 9 PM on ITV, with Ant & Dec returning to host from Australia.",
+   "source": {
+    "l": "ITV / Radio Times",
+    "u": "https://www.radiotimes.com/tv/entertainment/reality-tv/im-a-celebrity-get-me-out-of-here-2026-release-date/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
      "name": "Jungle Countdown",
      "for": "",
-     "copy": "Get ready for trials, tantrums, and Ant & Dec! I'm A Celeb returns Monday at 9pm on ITV. Who are you hoping to see in the jungle?",
+     "copy": "The wait is almost over! I'm A Celebrity... Get Me Out Of Here! returns Monday night at 9 PM on ITV. Who are you hoping to see in the jungle this year?",
      "channels": [
       "instagram",
       "facebook",
@@ -127,91 +290,52 @@
      ]
     },
     {
-     "name": "Campmate Speculation",
-     "for": "",
-     "copy": "The I'm A Celebrity jungle gates open on Monday! Time to start guessing who'll be facing those bushtucker trials.",
+     "name": "Bushtucker Trials",
+     "for": "Nation Hits",
+     "copy": "Get ready for the Bushtucker Trials! I'm A Celeb is back on Monday! What's the one challenge you'd absolutely REFUSE to do? 🐛🐜 #ITV",
      "channels": [
       "instagram",
       "facebook",
-      "x"
+      "x",
+      "tiktok"
      ],
-     "time": "16:00",
+     "time": "14:00",
      "tags": [
-      "#ImACeleb2026"
+      "#AntAndDec"
      ]
     }
    ]
   },
   {
-   "id": "exeter-xmas-market",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "Exeter Cathedral Christmas Market",
-   "blurb": "The much-loved Exeter Cathedral Christmas Market opened yesterday, November 13th, transforming Cathedral Green into a festive shopping destination until December 13th.",
-   "source": {
-    "l": "Exeter Cathedral",
-    "u": "https://exeter-cathedral.org.uk/christmas-market/"
-   },
-   "fits": [
-    {
-     "g": "radio-exe",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Festive Fun in Exeter",
-     "for": "radio-exe",
-     "copy": "The Exeter Cathedral Christmas Market is officially open! Head down to Cathedral Green for festive treats, unique gifts, and that amazing atmosphere.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#ExeterChristmas"
-     ]
-    },
-    {
-     "name": "Local Craft Focus",
-     "for": "radio-exe",
-     "copy": "Support local this Christmas! The Exeter Cathedral Christmas Market features over 100 traders showcasing the best of Devon and beyond.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "12:00",
-     "tags": [
-      "#DevonChristmas"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "yanni-bday",
-   "off": 0,
+   "id": "danny-devito-birthday",
+   "off": 3,
    "type": "birthday",
-   "hot": false,
-   "title": "Happy 72nd Birthday, Yanni",
-   "blurb": "Greek composer and keyboardist Yanni, known for his New Age and contemporary instrumental music, celebrates his 72nd birthday today.",
+   "hot": true,
+   "title": "Danny DeVito Turns 82",
+   "blurb": "Legendary actor, comedian, and filmmaker Danny DeVito celebrates his 82nd birthday on Tuesday, November 17, 2026, known for roles in 'Taxi,' 'Matilda,' and 'It's Always Sunny in Philadelphia'.",
    "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Yanni"
+    "l": "Wikipedia / Famous Birthdays",
+    "u": "https://en.wikipedia.org/wiki/Danny_DeVito"
    },
    "fits": [
     {
      "g": "decades-genres",
-     "sub": "Nation Easy"
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
     }
    ],
    "angles": [
     {
-     "name": "New Age Maestro",
-     "for": "",
-     "copy": "Wishing a very Happy 72nd Birthday to the incredible Yanni! What's your favourite calming instrumental track from the maestro?",
+     "name": "Happy Birthday Danny",
+     "for": "Nation Classic Hits",
+     "copy": "Happy 82nd Birthday to the iconic Danny DeVito on Tuesday! From 'Taxi' to 'Matilda,' what's your favourite role from the Hollywood legend?",
      "channels": [
       "instagram",
       "facebook",
@@ -219,177 +343,13 @@
      ],
      "time": "09:00",
      "tags": [
-      "#Yanni"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "chad-kroeger-bday",
-   "off": 1,
-   "type": "birthday",
-   "hot": true,
-   "title": "Chad Kroeger Turns 52",
-   "blurb": "Nickelback frontman and songwriter Chad Kroeger celebrates his 52nd birthday tomorrow, November 15th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Chad_Kroeger"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Nickelback's Voice",
-     "for": "Nation Rocks",
-     "copy": "Tomorrow, Nickelback's very own Chad Kroeger turns 52! Get ready to crank up 'How You Remind Me' in celebration.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#ChadKroeger"
+      "#DannyDeVito"
      ]
     },
     {
-     "name": "Rock Anthems",
+     "name": "Frank Reynolds Forever",
      "for": "Nation 00s",
-     "copy": "Happy 52nd Birthday for tomorrow to Chad Kroeger! From 'Hero' to Nickelback's biggest hits, he's given us so many rock anthems.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#Nickelback"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "diana-krall-bday",
-   "off": 2,
-   "type": "birthday",
-   "hot": false,
-   "title": "Diana Krall's 62nd Birthday",
-   "blurb": "Canadian jazz pianist and singer Diana Krall, known for her contralto vocals, turns 62 on Monday, November 16th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Diana_Krall"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Easy"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jazz Icon",
-     "for": "Nation Easy",
-     "copy": "Monday marks the 62nd birthday of the magnificent Diana Krall! Celebrate with some smooth jazz to ease into the week.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#DianaKrall"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kirk-hammett-bday",
-   "off": 4,
-   "type": "birthday",
-   "hot": true,
-   "title": "Kirk Hammett Turns 64",
-   "blurb": "Metallica's iconic lead guitarist, Kirk Hammett, celebrates his 64th birthday on Wednesday, November 18th.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Kirk_Hammett"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Guitar Legend",
-     "for": "",
-     "copy": "Get ready to shred! Metallica's Kirk Hammett turns 64 on Wednesday. What's his most iconic guitar solo in your opinion?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#KirkHammett"
-     ]
-    },
-    {
-     "name": "Metallica Man",
-     "for": "",
-     "copy": "Happy 64th Birthday for Wednesday to Kirk Hammett! From Exodus to Metallica, he's been a force in heavy metal.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#Metallica"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "miley-cyrus-bday",
-   "off": 9,
-   "type": "birthday",
-   "hot": true,
-   "title": "Miley Cyrus's 34th Birthday",
-   "blurb": "Pop superstar and 'Flowers' singer Miley Cyrus will celebrate her 34th birthday next Saturday, November 23rd.",
-   "source": {
-    "l": "Wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Miley_Cyrus"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Pop Evolution",
-     "for": "Nation Hits",
-     "copy": "Next Saturday, Miley Cyrus turns 34! From Hannah Montana to 'Endless Summer Vacation', her career has been quite the journey.",
+     "copy": "He's turning 82 on Tuesday! Raise a glass (of Fight Milk?) to Danny DeVito, still bringing the chaos as Frank Reynolds in 'It's Always Sunny'. What's your favourite Frank moment?",
      "channels": [
       "instagram",
       "facebook",
@@ -398,13 +358,41 @@
      ],
      "time": "12:00",
      "tags": [
-      "#MileyCyrus"
+      "#ItsAlwaysSunny"
      ]
+    }
+   ]
+  },
+  {
+   "id": "england-allblacks-rugby",
+   "off": 7,
+   "type": "sport",
+   "hot": true,
+   "title": "England vs All Blacks Rugby",
+   "blurb": "England will face the New Zealand All Blacks at Twickenham on Saturday, November 21, 2026, in a highly anticipated Autumn Nations Cup fixture.",
+   "source": {
+    "l": "Gainline / WorldChoice Sports",
+    "u": "https://www.gainline.co.uk/autumn-internationals-2026-fixtures-schedule-uk-kick-off-times-and-tv/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
     },
     {
-     "name": "Chart Topper",
-     "for": "Nation 00s",
-     "copy": "Wishing a future Happy 34th Birthday to Miley Cyrus! What's your favourite era of her music?",
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio South"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Next Big Rugby Clash",
+     "for": "",
+     "copy": "Mark your calendars! Next Saturday, England take on the mighty All Blacks at Twickenham. Who do you think will come out on top in this epic encounter? #ENGvNZL",
      "channels": [
       "instagram",
       "facebook",
@@ -412,55 +400,35 @@
      ],
      "time": "16:00",
      "tags": [
-      "#MileyBirthday"
+      "#RugbyUnion"
      ]
-    }
-   ]
-  },
-  {
-   "id": "england-rugby-nz-next",
-   "off": 7,
-   "type": "sport",
-   "hot": true,
-   "title": "England vs New Zealand Next Week",
-   "blurb": "England will face a formidable challenge from New Zealand in their next Autumn Nations Championship fixture at Twickenham on Saturday, November 21st.",
-   "source": {
-    "l": "RFU / ITV Sport",
-    "u": "https://www.englandrugby.com/"
-   },
-   "fits": [
+    },
     {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Big Game Build-up",
-     "for": "",
-     "copy": "The All Blacks are coming! England hosts New Zealand next Saturday at Twickenham. Who's predicting a big win for the Red Rose?",
+     "name": "Twickenham Showdown",
+     "for": "Nation Radio London",
+     "copy": "It's the ultimate showdown next Saturday! England vs the All Blacks at Twickenham. Are you buzzing for this one? #TwickenhamStadium",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "17:00",
      "tags": [
-      "#EnglandRugby"
+      "#AutumnInternationals"
      ]
     }
    ]
   },
   {
-   "id": "wales-rugby-aus-next",
+   "id": "wales-australia-rugby",
    "off": 7,
    "type": "sport",
    "hot": true,
-   "title": "Wales Rugby Hosts Australia",
-   "blurb": "Wales conclude their Nations Championship home fixtures next Saturday, November 21st, by taking on Australia at Principality Stadium.",
+   "title": "Wales vs Australia Rugby",
+   "blurb": "Wales will battle Australia on Saturday, November 21, 2026, in another exciting Autumn Nations Cup match at the Principality Stadium.",
    "source": {
-    "l": "WRU / BBC Sport Wales",
-    "u": "https://www.wru.wales/"
+    "l": "Gainline",
+    "u": "https://www.gainline.co.uk/autumn-internationals-2026-fixtures-schedule-uk-kick-off-times-and-tv/"
    },
    "fits": [
     {
@@ -478,84 +446,45 @@
    ],
    "angles": [
     {
-     "name": "Final Home Game",
+     "name": "Wales v Wallabies",
      "for": "welsh-local",
-     "copy": "Next Saturday, Wales wrap up their Autumn Nations Championship home games against Australia! Get your tickets and cheer on the Dragons!",
+     "copy": "Next Saturday, it's Wales vs Australia! Another huge game for our boys in the Autumn Nations Cup. Send your good luck messages! #WALvAUS",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "16:30",
      "tags": [
-      "#WalesRugby"
+      "#WelshRugby"
      ]
-    }
-   ]
-  },
-  {
-   "id": "uk-singles-chart",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "UK Singles Chart Latest",
-   "blurb": "Dua Lipa's 'Electric Dreams' continues its reign at Number 1 on the Official UK Singles Chart this week.",
-   "source": {
-    "l": "Official Charts Company",
-    "u": "https://www.officialcharts.com/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Topper",
-     "for": "Nation Hits",
-     "copy": "Still at Number 1! Dua Lipa's 'Electric Dreams' is dominating the Official UK Singles Chart this week. Are you loving it?",
+     "name": "Principality Battle",
+     "for": "Nation Radio Wales",
+     "copy": "The Principality Stadium prepares for another international clash next Saturday as Wales face Australia. Will you be there to witness the action? #RugbyWales",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "10:00",
+     "time": "17:30",
      "tags": [
-      "#UKCharts"
-     ]
-    },
-    {
-     "name": "Pop Perfection",
-     "for": "Nation Dance",
-     "copy": "Another week at the top for Dua Lipa! 'Electric Dreams' is the sound of the UK right now.",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#DuaLipa"
+      "#AutumnNationsCup"
      ]
     }
    ]
   },
   {
-   "id": "uk-cold-weather",
-   "off": 1,
+   "id": "rugby-christmas-lights",
+   "off": 7,
    "type": "seasonal",
    "hot": true,
-   "title": "UK Braces for Cold Snap",
-   "blurb": "Temperatures are set to drop significantly across the UK next week, with widespread frost and potential wintry showers expected.",
+   "title": "Rugby Christmas Lights Switch-On",
+   "blurb": "Rugby town centre will host its Christmas lights switch-on on Saturday, November 21, 2026, with Father Christmas joining the Mayor for the big countdown.",
    "source": {
-    "l": "Met Office",
-    "u": "https://www.metoffice.gov.uk/"
+    "l": "Coventry.gov.uk",
+    "u": "https://www.coventry.gov.uk/events/article/1183/christmas_lights_switch_on_in_coventry_2026"
    },
    "fits": [
     {
@@ -565,30 +494,100 @@
    ],
    "angles": [
     {
-     "name": "Winter is Coming",
+     "name": "Rugby Town Sparkles",
      "for": "",
-     "copy": "Brrr! The Met Office is forecasting a significant cold snap for the UK next week, with widespread frost. Time to dig out those extra layers!",
+     "copy": "Get ready for some festive sparkle! Rugby's Christmas lights switch-on is next Saturday, November 21st. A perfect family day out to kick off the season! #RugbyTown",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "08:30",
+     "time": "11:00",
      "tags": [
-      "#UKWeather"
+      "#ChristmasLights"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "black-friday-sales-kickoff",
+   "off": 7,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Black Friday Sales Kick Off",
+   "blurb": "While Black Friday is officially November 27th, many retailers in the UK are expected to begin their major sales and promotions from the weekend of November 21st.",
+   "source": {
+    "l": "PriceSpy / UtilHub",
+    "u": "https://www.pricespy.co.uk/black-friday"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Early Black Friday Deals",
+     "for": "",
+     "copy": "Heads up, bargain hunters! Black Friday might be next week, but the sales are already starting to drop from this weekend. What are you hoping to bag a deal on? #BlackFriday",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BlackFridayDeals"
      ]
     },
     {
-     "name": "Driving in Frost",
+     "name": "Shopping Prep",
      "for": "",
-     "copy": "With colder weather and frost on the way next week, make sure your car is ready for winter! Share your top tips for staying safe on icy roads.",
+     "copy": "It's almost time! Black Friday sales are expected to kick off from this weekend. Are you making a list and checking it twice for those big discounts? #SaleAlert",
      "channels": [
+      "instagram",
       "facebook",
       "x"
      ],
      "time": "13:00",
      "tags": [
-      "#WinterDriving"
+      "#Shopping"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thanksgiving-us",
+   "off": 12,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Thanksgiving in the US",
+   "blurb": "Thanksgiving Day in the United States is celebrated on Thursday, November 26, 2026, a cultural event that traditionally marks the start of the holiday shopping season.",
+   "source": {
+    "l": "The Old Farmer's Almanac",
+    "u": "https://www.almanac.com/content/when-thanksgiving"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "US Thanksgiving",
+     "for": "",
+     "copy": "Next Thursday, our friends across the pond celebrate Thanksgiving. Lots of turkey, family, and football – and it officially kicks off the big holiday shopping season! #Thanksgiving",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#AmericanTradition"
      ]
     }
    ]
