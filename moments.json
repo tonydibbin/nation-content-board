@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-21T22:30:19.310Z",
+ "updated": "2026-11-22T02:42:48.420Z",
  "moments": [
   {
-   "id": "premier-league-nov21",
+   "id": "liverpool-manutd-nov22",
    "off": 0,
    "type": "sport",
    "hot": true,
-   "title": "Premier League Weekend Action",
-   "blurb": "Top flight football continues with key clashes across the Premier League this weekend.",
+   "title": "Liverpool host Manchester United",
+   "blurb": "One of English football's biggest rivalries takes place today as Liverpool face Manchester United in the Premier League at Anfield.",
    "source": {
-    "l": "Premier League Official Site",
+    "l": "Premier League",
     "u": "https://www.premierleague.com/fixtures"
    },
    "fits": [
@@ -20,45 +20,44 @@
    ],
    "angles": [
     {
-     "name": "Weekend Kick-Off",
-     "for": "",
-     "copy": "It's a huge weekend of Premier League action! Who are you backing to grab the points today?",
+     "name": "Match Day Hype",
+     "copy": "It's Super Sunday and a massive one at that! Liverpool vs Manchester United live from Anfield. Who are you backing today?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "15:00",
      "tags": [
-      "#PremierLeague"
+      "#LIVMUN"
      ]
     },
     {
-     "name": "Sunday Review",
-     "for": "",
-     "copy": "After yesterday's drama, more Premier League clashes today. Will there be any upsets?",
+     "name": "Local Buzz",
+     "for": "Nation Radio London, Scotland, Wales",
+     "copy": "The North West derby is always a fiery affair! Liverpool host Manchester United today. Can the Reds keep up their strong form or will United spoil the party?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "14:00",
      "tags": [
-      "#PL"
+      "#PremierLeague"
      ]
     }
    ]
   },
   {
-   "id": "strictly-qf-nov21",
-   "off": 0,
-   "type": "tv",
+   "id": "black-friday-2026",
+   "off": 5,
+   "type": "seasonal",
    "hot": true,
-   "title": "Strictly Quarter-Finals",
-   "blurb": "The remaining Strictly Come Dancing couples perform in the quarter-finals tonight, hoping to secure their spot in the semis.",
+   "title": "Black Friday approaches",
+   "blurb": "The biggest shopping event of the year, Black Friday, is just five days away on Friday 27th November, with many retailers already starting their sales.",
    "source": {
-    "l": "BBC Strictly Come Dancing",
-    "u": "https://www.bbc.co.uk/programmes/b006m8dq"
+    "l": "Which?",
+    "u": "https://www.which.co.uk/news/article/when-is-black-friday-a3h6n8i2p1q5"
    },
    "fits": [
     {
@@ -68,23 +67,156 @@
    ],
    "angles": [
     {
-     "name": "Live Show Build-up",
-     "for": "",
-     "copy": "Glitterballs at the ready! It's the Strictly quarter-finals tonight. Who are you rooting for?",
+     "name": "Shopping Frenzy",
+     "copy": "Black Friday is almost here! Are you ready to grab a bargain or are you avoiding the sales madness this year?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BlackFriday"
+     ]
+    },
+    {
+     "name": "Early Deals",
+     "copy": "Retailers are already dropping early Black Friday deals! What are you hoping to snap up this week?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "threads"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#BlackFridayDeals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "christmas-markets-open",
+   "off": 0,
+   "type": "seasonal",
+   "hot": true,
+   "title": "UK Christmas Markets are open",
+   "blurb": "Christmas markets across the UK are now in full swing, offering festive cheer, food, and gift ideas in cities like London, Manchester, Birmingham, and Edinburgh.",
+   "source": {
+    "l": "VisitBritain",
+    "u": "https://www.visitbritain.com/en/things-to-do/events/christmas/christmas-markets"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Yorkshire"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festive Fun",
+     "copy": "Mulled wine, mince pies, and festive lights! Which UK Christmas market is your favourite to get into the seasonal spirit?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:00",
+     "time": "11:00",
      "tags": [
-      "#Strictly"
+      "#ChristmasMarkets"
      ]
     },
     {
-     "name": "Sunday Results Anticipation",
-     "for": "",
-     "copy": "Who impressed and who struggled on the Strictly dancefloor last night? Find out the results tomorrow!",
+     "name": "London Calling",
+     "for": "Nation Radio London",
+     "copy": "London's Christmas markets are buzzing! From Hyde Park Winter Wonderland to Southbank Centre, where are you heading for some festive magic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#LondonChristmas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "amy-grant-bday",
+   "off": 3,
+   "type": "birthday",
+   "hot": true,
+   "title": "Amy Grant turns 66",
+   "blurb": "Six-time Grammy winner and 'Queen of Christian Pop' Amy Grant celebrates her 66th birthday on Tuesday, November 25th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Amy_Grant"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Happy Birthday Amy",
+     "copy": "Wishing a very happy 66th birthday to the incredible Amy Grant! What's your favourite hit from the 'Queen of Christian Pop'?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "08:00",
+     "tags": [
+      "#AmyGrant"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-squire-bday",
+   "off": 2,
+   "type": "birthday",
+   "hot": true,
+   "title": "John Squire turns 64",
+   "blurb": "The legendary guitarist of The Stone Roses, John Squire, celebrates his 64th birthday on Monday, November 24th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/John_Squire"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Madchester Icon",
+     "copy": "Happy 64th birthday to the iconic John Squire! His guitar work defined an era with The Stone Roses. What's your favourite track?",
      "channels": [
       "instagram",
       "facebook",
@@ -92,7 +224,439 @@
      ],
      "time": "09:00",
      "tags": [
-      "#StrictlyComeDancing"
+      "#JohnSquire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "billy-connolly-bday",
+   "off": 2,
+   "type": "birthday",
+   "hot": false,
+   "title": "Billy Connolly turns 84",
+   "blurb": "The beloved Scottish comedian, musician, and actor, Sir Billy Connolly, celebrates his 84th birthday on Monday, November 24th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Billy_Connolly"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio Scotland"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Big Yin's Birthday",
+     "copy": "A very happy 84th birthday to the national treasure, Billy Connolly! What's your favourite 'Big Yin' moment?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#BillyConnolly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-mcvie-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": false,
+   "title": "John McVie turns 81",
+   "blurb": "Fleetwood Mac's legendary bassist, John McVie, celebrates his 81st birthday on Thursday, November 26th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/John_McVie"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Fleetwood Mac Legend",
+     "copy": "Happy 81st birthday to the incredible John McVie! The backbone of Fleetwood Mac's iconic sound. What's your go-to Mac track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#JohnMcVie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "natasha-bedingfield-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Natasha Bedingfield turns 45",
+   "blurb": "British pop singer-songwriter Natasha Bedingfield, known for hits like 'Unwritten' and 'These Words', celebrates her 45th birthday on Thursday, November 26th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Natasha_Bedingfield"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Pop Anthems",
+     "copy": "Feel the rain on your skin! Happy 45th birthday to the amazing Natasha Bedingfield! What's your favourite song to sing along to?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#NatashaBedingfield"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ritia-ora-bday",
+   "off": 4,
+   "type": "birthday",
+   "hot": true,
+   "title": "Rita Ora turns 36",
+   "blurb": "British singer, songwriter, and actress Rita Ora celebrates her 36th birthday on Thursday, November 26th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Rita_Ora"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "copy": "Shining bright like a diamond! Happy 36th birthday to the fabulous Rita Ora! What's your favourite track from her?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#RitaOra"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "billy-idol-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Billy Idol turns 71",
+   "blurb": "The iconic punk rock singer Billy Idol, known for hits like 'Rebel Yell' and 'White Wedding', celebrates his 71st birthday on Monday, November 30th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Billy_Idol"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Punk Rock Icon",
+     "copy": "Go, Billy, Go! Happy 71st birthday to the legendary Billy Idol! What's your favourite track from the punk rock pioneer?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BillyIdol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dougie-poynter-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Dougie Poynter turns 39",
+   "blurb": "McFly bassist and I'm A Celebrity... winner, Dougie Poynter, celebrates his 39th birthday on Monday, November 30th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Dougie_Poynter"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "McFly Fanfare",
+     "copy": "It's Dougie from McFly's birthday! Wishing the talented bassist a very happy 39th! What's your favourite McFly song?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x",
+      "tiktok"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#DougiePoynter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roger-glover-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": false,
+   "title": "Roger Glover turns 81",
+   "blurb": "Deep Purple and Rainbow bassist, Roger Glover, celebrates his 81st birthday on Monday, November 30th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Roger_Glover"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 70s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Royalty",
+     "copy": "Happy 81st birthday to rock legend Roger Glover! His basslines have powered Deep Purple and Rainbow for decades. What's your favourite track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#RogerGlover"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cyber-monday-2026",
+   "off": 8,
+   "type": "seasonal",
+   "hot": true,
+   "title": "Cyber Monday is next week",
+   "blurb": "Following Black Friday, Cyber Monday takes place on Monday 30th November, offering a final flurry of online deals for shoppers.",
+   "source": {
+    "l": "Rakuten UK Blog",
+    "u": "https://rakuten.co.uk/blog/cyber-monday-2026-when-is-it-and-how-to-find-the-best-deals"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Online Bargains",
+     "copy": "Don't miss out! Cyber Monday is just around the corner on November 30th. Get ready for those final online deals!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#CyberMonday"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "arsenal-mancity-nov29",
+   "off": 7,
+   "type": "sport",
+   "hot": true,
+   "title": "Arsenal vs Manchester City clash",
+   "blurb": "Next Sunday sees a huge Premier League fixture as Arsenal host reigning champions Manchester City in a crucial title battle.",
+   "source": {
+    "l": "Premier League",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    },
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Top of the Table",
+     "copy": "Next Sunday is HUGE! Arsenal take on Manchester City in a Premier League showdown. Who do you think will come out on top?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#ARSMCI"
+     ]
+    },
+    {
+     "name": "London Derby Anticipation",
+     "for": "Nation Radio London",
+     "copy": "The Gunners face a massive test next Sunday as Man City come to town! Can Arsenal secure a vital win at the Emirates?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#COYG"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jonathan-knight-bday",
+   "off": 7,
+   "type": "birthday",
+   "hot": false,
+   "title": "Jonathan Knight turns 58",
+   "blurb": "Jonathan Knight, member of the iconic boy band New Kids on the Block, celebrates his 58th birthday on Sunday, November 29th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Jonathan_Knight"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Blockhead Birthday",
+     "copy": "Hangin' Tough and turning 58! Happy birthday to New Kids on the Block's Jonathan Knight! What's your favourite NKOTB classic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#NKOTB"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "desree-bday",
+   "off": 8,
+   "type": "birthday",
+   "hot": true,
+   "title": "Des'ree turns 58",
+   "blurb": "British R&B singer Des'ree, known for her distinctive voice and hits like 'You Gotta Be' and 'Life', celebrates her 58th birthday on Monday, November 30th.",
+   "source": {
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Des%27ree"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 90s"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Easy"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Soulful Birthday",
+     "copy": "You gotta be strong, you gotta be bold! Happy 58th birthday to the wonderful Des'ree! Which of her timeless tracks is your favourite?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Desree"
      ]
     }
    ]
