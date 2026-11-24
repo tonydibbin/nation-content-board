@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-24T02:38:46.853Z",
+ "updated": "2026-11-24T12:59:37.373Z",
  "moments": [
   {
-   "id": "black-friday-cyber-monday-2026",
+   "id": "rugby-nations-championship-finals",
    "off": 3,
-   "type": "seasonal",
+   "type": "sport",
    "hot": true,
-   "title": "Black Friday & Cyber Monday Deals Continue",
-   "blurb": "Black Friday officially lands on Friday 27 November, with Cyber Monday following on November 30, but many retailers have already launched sales and promotions across the UK.",
+   "title": "Rugby Nations Championship Finals Weekend",
+   "blurb": "The inaugural Nations Championship concludes with Finals Weekend at Twickenham, featuring England, Wales, and the Grand Final.",
    "source": {
-    "l": "Which? / UtilHub",
-    "u": "https://www.which.co.uk/news/article/when-is-black-friday-aTB7r0C2026-aN4bL2K2r0c; https://www.utilhub.co.uk/black-friday-cyber-monday-2026/"
+    "l": "Rugby Autumn Internationals 2026",
+    "u": "https://www.autumninternationals.co.uk/autumn-internationals-2026.php"
    },
    "fits": [
     {
@@ -20,45 +20,464 @@
    ],
    "angles": [
     {
-     "name": "Deals are ON",
-     "copy": "Black Friday is officially Friday, but the deals are already in full swing! What's at the top of your shopping list this year?",
+     "name": "Grand Finale Build-up",
+     "copy": "It all comes down to this! The Rugby Nations Championship Finals Weekend kicks off at Twickenham this Friday. Who are you backing for the Grand Final?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
      "time": "08:00",
      "tags": [
-      "#BlackFriday"
+      "#Rugby"
      ]
     },
     {
-     "name": "Cyber Monday Anticipation",
-     "copy": "Don't forget Cyber Monday is on the way too! If you're holding out for online-only tech deals, that's November 30th. Planning your strategy?",
+     "name": "England vs All Blacks Rematch",
+     "copy": "England face a huge rematch against the All Blacks in the 3rd place play-off this Saturday at Twickenham. Can they secure the win?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "threads"
+      "x"
      ],
-     "time": "12:00",
+     "time": "11:00",
      "tags": [
-      "#CyberMonday"
+      "#EnglandRugby"
+     ]
+    },
+    {
+     "name": "Wales in Play-off",
+     "for": "welsh-local",
+     "copy": "Wales take on Japan in the 9th place play-off this Saturday as the Nations Championship reaches its climax. Dydd Gêm Mawr!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#WelshRugby"
      ]
     }
    ]
   },
   {
-   "id": "im-a-celeb-jungle",
+   "id": "premier-league-arsenal-mancity",
+   "off": 5,
+   "type": "sport",
+   "hot": true,
+   "title": "Premier League: Arsenal vs Man City",
+   "blurb": "A massive Premier League clash sees title rivals Arsenal host Manchester City at the Emirates Stadium this Sunday.",
+   "source": {
+    "l": "Premier League Official",
+    "u": "https://www.premierleague.com/fixtures"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Top of the Table Clash",
+     "copy": "Arsenal vs Manchester City this Sunday! A huge Premier League showdown with massive title implications. Who's taking all three points?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#PremierLeague"
+     ]
+    },
+    {
+     "name": "Weekend Football",
+     "copy": "Super Sunday football just got bigger. Arsenal face Man City in a blockbuster fixture that could define their season. Don't miss it!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "12:00",
+     "tags": [
+      "#Football"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f1-abu-dhabi-gp",
+   "off": 10,
+   "type": "sport",
+   "hot": false,
+   "title": "Formula 1 Abu Dhabi Grand Prix",
+   "blurb": "The 2026 Formula 1 season concludes with the Abu Dhabi Grand Prix weekend, featuring practice on Friday, qualifying Saturday and the race on Sunday, December 6th.",
+   "source": {
+    "l": "Formula 1 Official",
+    "u": "https://www.formula1.com/"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": ""
+    }
+   ],
+   "angles": [
+    {
+     "name": "Season Finale Buzz",
+     "copy": "The F1 season finale is almost here! The Abu Dhabi Grand Prix weekend kicks off on December 4th. Who's ready for one last dose of drama?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#F1"
+     ]
+    },
+    {
+     "name": "Yas Marina Circuit",
+     "copy": "Yas Marina Circuit awaits! The final race of the Formula 1 calendar is always a spectacle. What are your predictions for Abu Dhabi?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "16:00",
+     "tags": [
+      "#AbuDhabiGP"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jungle-o2-arena",
+   "off": 0,
+   "type": "gig",
+   "hot": true,
+   "title": "Jungle Live at The O2 Arena",
+   "blurb": "British electronic music duo Jungle play two nights at The O2 Arena in London, concluding tonight and tomorrow.",
+   "source": {
+    "l": "The O2 Arena",
+    "u": "https://www.theo2.co.uk/events/detail/jungle-2026"
+   },
+   "fits": [
+    {
+     "g": "nation-network",
+     "sub": "Nation Radio London"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Dance"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Live in London",
+     "copy": "Jungle are taking over The O2 Arena tonight and tomorrow! Who's heading down for some incredible live vibes?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "17:00",
+     "tags": [
+      "#JungleLive"
+     ]
+    },
+    {
+     "name": "London Calling",
+     "for": "nation-network",
+     "copy": "The O2 is buzzing! Jungle continue their London residency tonight. If you're there, let us know your favourite track!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "18:00",
+     "tags": [
+      "#LondonGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mariah-carey-o2-arena",
+   "off": 6,
+   "type": "gig",
+   "hot": true,
+   "title": "Mariah Carey at The O2 Arena",
+   "blurb": "The Queen of Christmas, Mariah Carey, brings her festive show to The O2 Arena in London on November 30th.",
+   "source": {
+    "l": "The O2 Arena",
+    "u": "https://www.theo2.co.uk/events/detail/mariah-carey-2026"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Xmas"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Festive Queen",
+     "copy": "Mariah Carey is bringing her iconic Christmas show to The O2 Arena on Monday! Are you ready for some festive magic?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#MariahCarey"
+     ]
+    },
+    {
+     "name": "All I Want for Christmas",
+     "copy": "It's not truly Christmas until Mariah Carey graces the stage! Catch her at The O2 on November 30th.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "14:00",
+     "tags": [
+      "#Christmas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-script-cardiff",
+   "off": 2,
+   "type": "gig",
+   "hot": true,
+   "title": "The Script in Cardiff",
+   "blurb": "The Script bring 'The Man In The Arena Tour' to Utilita Arena Cardiff this Wednesday, November 26th.",
+   "source": {
+    "l": "Cardiff Gigs Guide",
+    "u": "https://www.gigguide.co.uk/cardiff"
+   },
+   "fits": [
+    {
+     "g": "welsh-local",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Love"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Cardiff Calling",
+     "copy": "The Script are in Cardiff this Wednesday! Who's excited to see 'The Man In The Arena Tour' live at Utilita Arena?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#TheScript"
+     ]
+    },
+    {
+     "name": "Welsh Gigs",
+     "for": "welsh-local",
+     "copy": "Big gig alert for Wales! The Script hit Cardiff's Utilita Arena on Wednesday. Get ready for an unforgettable night!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#CardiffGigs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "elvana-exeter",
+   "off": 4,
+   "type": "gig",
+   "hot": false,
+   "title": "Elvana: Elvis Fronted Nirvana in Exeter",
+   "blurb": "The unique tribute act Elvana: Elvis Fronted Nirvana perform at Exeter Phoenix on Saturday, November 28th.",
+   "source": {
+    "l": "Ticketmaster UK",
+    "u": "https://www.ticketmaster.co.uk/elvana-elvis-fronted-nirvana-exeter-28-11-2026/event/1F00602F8D34125B"
+   },
+   "fits": [
+    {
+     "g": "radio-exe",
+     "sub": ""
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Exeter Rocks",
+     "copy": "Elvis fronting Nirvana? Yes, please! Elvana are bringing their wild show to Exeter Phoenix this Saturday. Get ready to rock!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#Elvana"
+     ]
+    },
+    {
+     "name": "Unique Tribute",
+     "for": "radio-exe",
+     "copy": "Something different for your Saturday night in Exeter! Elvana are at the Phoenix – it's going to be loud!",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "11:00",
+     "tags": [
+      "#ExeterMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk-singles-chart-babydoll",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "Jamie Miller's 'Babydoll' Tops UK Singles Chart",
+   "blurb": "Jamie Miller's 'Babydoll' holds the number one spot on the Official UK Singles Chart for a fifth consecutive week (week ending Nov 26).",
+   "source": {
+    "l": "Music Week",
+    "u": "https://www.musicweek.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Hits"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Chart Topper",
+     "copy": "Jamie Miller's 'Babydoll' is still number one on the UK Singles Chart! Fifth week at the top, can anyone knock it off?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#UKCharts"
+     ]
+    },
+    {
+     "name": "Pop Power",
+     "copy": "Still obsessed with 'Babydoll'? So are the UK charts! Jamie Miller holds strong at number one.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "13:00",
+     "tags": [
+      "#JamieMiller"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2-album-chart-no1",
+   "off": 0,
+   "type": "culture",
+   "hot": true,
+   "title": "U2's 'Carnaval De Luz' Debuts at UK Albums Chart No.1",
+   "blurb": "U2 have scored their 12th UK Official Albums Chart number one with their new release, 'Carnaval De Luz'.",
+   "source": {
+    "l": "Music Week",
+    "u": "https://www.musicweek.com/"
+   },
+   "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation Rocks"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation Classic Hits"
+    },
+    {
+     "g": "decades-genres",
+     "sub": "Nation 80s"
+    }
+   ],
+   "angles": [
+    {
+     "name": "Rock Legends Reign",
+     "copy": "U2 are back at number one! Their new album 'Carnaval De Luz' has debuted at the top of the UK Albums Chart. Are you listening?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "10:00",
+     "tags": [
+      "#U2"
+     ]
+    },
+    {
+     "name": "New Music Friday (Album)",
+     "copy": "A legendary return to the top! U2's 'Carnaval De Luz' is the UK's number one album. What's your favourite track?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
+     "tags": [
+      "#NewMusic"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im-a-celeb-2026",
    "off": 0,
    "type": "tv",
    "hot": true,
-   "title": "I'm A Celebrity... Get Me Out Of Here! continues",
-   "blurb": "The 26th series of I'm A Celebrity... Get Me Out Of Here! is well underway from the Australian jungle, having launched on November 16th, with the final expected around December 6th.",
+   "title": "I'm A Celebrity...Get Me Out Of Here! continues",
+   "blurb": "The 26th series of I'm A Celebrity...Get Me Out Of Here! continues nightly on ITV1, with campmates facing new Bushtucker Trials.",
    "source": {
-    "l": "wheretowatch.tv / The Independent",
-    "u": "https://wheretowatch.tv/news/when-is-im-a-celebrity-get-me-out-of-here-2026-final; https://www.independent.co.uk/tv/im-a-celebrity-2026-start-date-line-up-b2447271.html"
+    "l": "ITV Hub",
+    "u": "https://www.itv.com/watch/im-a-celebrity-get-me-out-of-here/1a2169"
    },
    "fits": [
     {
@@ -69,222 +488,7 @@
    "angles": [
     {
      "name": "Jungle Drama",
-     "copy": "The jungle drama continues tonight! Who's your favourite to be crowned King or Queen of the jungle this year?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "19:00",
-     "tags": [
-      "#ImACeleb"
-     ]
-    },
-    {
-     "name": "Bushtucker Trials",
-     "copy": "Another night, another Bushtucker Trial! What's been the most gruesome challenge you've seen so far on I'm A Celeb?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:30",
-     "tags": [
-      "#ImACeleb"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "strictly-come-dancing-nov28",
-   "off": 4,
-   "type": "tv",
-   "hot": true,
-   "title": "Strictly Come Dancing heads to Elstree",
-   "blurb": "Following Blackpool Week on November 21st, Strictly Come Dancing returns to Elstree Film Studios for its next live show on Saturday, November 28th, as the competition heats up towards the December 19th final.",
-   "source": {
-    "l": "South West Farmer / Nacionale",
-    "u": "https://www.southwestfarmer.co.uk/news/24560737.strictly-come-dancing-schedule-lineup-new-hosts/; https://www.nacionale.co.uk/entertainment/the-strictly-come-dancing-2026-final-is-on-saturday-19-december-with-blackpool-next-weekend/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Post-Blackpool Buzz",
-     "copy": "After the glitz of Blackpool, Strictly is back at Elstree this Saturday! Who are you backing to make it to the semi-final?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "threads"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#Strictly"
-     ]
-    },
-    {
-     "name": "Judges' Favourite?",
-     "copy": "The judges are getting tough! Which couple needs to really bring their A-game this weekend to avoid the dance-off?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "14:00",
-     "tags": [
-      "#StrictlyComeDancing"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "christmas-markets-uk",
-   "off": 0,
-   "type": "seasonal",
-   "hot": true,
-   "title": "UK Christmas Markets in Full Swing",
-   "blurb": "Christmas markets across the UK are now open, including major attractions in Manchester (until Dec 22), Birmingham (until Dec 24), and various London locations running into January.",
-   "source": {
-    "l": "Visit Britain / Best Christmas Markets",
-    "u": "https://www.visitbritain.com/en/things-to-do/events/christmas/christmas-markets; https://www.bestchristmasmarkets.com/christmas-market-dates-2026/"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    },
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Market Magic",
-     "copy": "The scent of mulled wine and festive treats is in the air! UK Christmas Markets are officially open and bringing all the magic. Where's your favourite to visit?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok",
-      "threads"
-     ],
-     "time": "09:00",
-     "tags": [
-      "#ChristmasMarkets"
-     ]
-    },
-    {
-     "name": "London Festive Fun",
-     "copy": "London's Christmas Markets are buzzing! From Winter Wonderland to Southbank Centre, what's your top pick for festive fun in the capital?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "11:00",
-     "tags": [
-      "#LondonChristmas"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "premier-league-fixtures-nov28",
-   "off": 4,
-   "type": "sport",
-   "hot": true,
-   "title": "Premier League Weekend Ahead",
-   "blurb": "The Premier League returns this weekend (November 28-29) with a full slate of fixtures, including a big clash between Arsenal and Manchester City on Sunday, November 29th.",
-   "source": {
-    "l": "Eventmasters / Goal.com",
-    "u": "https://www.eventmasters.co.uk/premier-league-fixtures-november-2026-confirmed/; https://www.goal.com/en-gb/premier-league/fixtures-results"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": ""
-    }
-   ],
-   "angles": [
-    {
-     "name": "Weekend Football",
-     "copy": "Get ready for a massive Premier League weekend! Which match are you most looking forward to, and what are your score predictions?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "16:00",
-     "tags": [
-      "#PremierLeague"
-     ]
-    },
-    {
-     "name": "Arsenal vs Man City",
-     "copy": "Sunday sees a huge title clash as Arsenal host Manchester City! Who's taking the points in this crucial encounter?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#ARSMCI"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "jungle-o2-london",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Jungle live at The O2 London",
-   "blurb": "British electronic music collective Jungle performs two nights at London's O2 Arena on November 24th and 25th, bringing their unique blend of funk, soul, and dance music to the stage.",
-   "source": {
-    "l": "The O2 London / Ticketle",
-    "u": "https://www.theo2.co.uk/events/detail/jungle-2026; https://www.ticketle.co.uk/london-concerts-november-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Jungle in London",
-     "copy": "Jungle are taking over The O2 tonight and tomorrow! Who's heading to Greenwich for some incredible funk and dance vibes?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#JungleLive"
-     ]
-    },
-    {
-     "name": "Busy Earnin'",
-     "copy": "Back on 74 or Busy Earnin' – what's your go-to Jungle track for a Tuesday night? They're live at The O2!",
+     "copy": "Who's glued to I'm A Celebrity? The jungle drama continues tonight! What's been your favourite trial so far?",
      "channels": [
       "instagram",
       "facebook",
@@ -292,130 +496,34 @@
      ],
      "time": "19:00",
      "tags": [
-      "#Jungle"
+      "#ImACeleb"
      ]
-    }
-   ]
-  },
-  {
-   "id": "deep-purple-london",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Deep Purple play London",
-   "blurb": "Rock legends Deep Purple are performing at London's Eventim Apollo tonight, November 24th, and the Royal Albert Hall tomorrow, November 25th.",
-   "source": {
-    "l": "Concertful / Ticketle",
-    "u": "https://www.concertful.com/uk/united-kingdom/; https://www.ticketle.co.uk/london-concerts-november-2026"
-   },
-   "fits": [
-    {
-     "g": "nation-network",
-     "sub": "Nation Radio London"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation 70s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Smoke on the Water",
-     "copy": "Deep Purple are bringing the rock to London tonight at the Eventim Apollo! Who's ready for a dose of classic rock legends?",
+     "name": "Camp Life",
+     "copy": "Another night in the jungle for our celebs! What's everyone talking about from last night's I'm A Celeb?",
      "channels": [
       "instagram",
       "facebook",
       "x"
-     ],
-     "time": "18:00",
-     "tags": [
-      "#DeepPurple"
-     ]
-    },
-    {
-     "name": "Rock Icons",
-     "copy": "Two nights of Deep Purple in London this week! Catch them tonight and tomorrow. What's your all-time favourite track?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "10:00",
-     "tags": [
-      "#RockLegends"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "justice-top10-single",
-   "off": 0,
-   "type": "culture",
-   "hot": true,
-   "title": "Justice land first UK Top 10 single",
-   "blurb": "French electronic duo Justice have achieved their first-ever UK Top 10 single with 'Flower In A Hurricane' (feat. Tame Impala, SZA and King Gizzard & The Lizard Wizard), climbing to number 9 on the Official UK Singles Chart.",
-   "source": {
-    "l": "We Rave You",
-    "u": "https://weraveyou.com/2026/11/justice-land-their-first-ever-uk-top-10-single-with-flower-in-a-hurricane/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Chart Success",
-     "copy": "Massive news for Justice! They've just landed their first ever UK Top 10 single with 'Flower In A Hurricane'. Have you heard it?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
      ],
      "time": "11:00",
      "tags": [
-      "#Justice"
-     ]
-    },
-    {
-     "name": "Dance Chart Climber",
-     "copy": "Justice breaking into the UK Top 10 with 'Flower In A Hurricane'! This track is a serious bop. What are your thoughts?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "15:00",
-     "tags": [
-      "#UKSinglesChart"
+      "#ITV"
      ]
     }
    ]
   },
   {
    "id": "billy-idol-birthday",
-   "off": 2,
+   "off": 6,
    "type": "birthday",
-   "hot": true,
-   "title": "Billy Idol turns 71",
-   "blurb": "British punk and rock icon Billy Idol celebrates his 71st birthday on Thursday, November 26th.",
+   "hot": false,
+   "title": "Happy 71st Birthday, Billy Idol",
+   "blurb": "Punk rock icon Billy Idol, known for hits like 'Rebel Yell' and 'White Wedding', turns 71 on November 30th.",
    "source": {
-    "l": "The Independent",
-    "u": "https://www.independent.co.uk/news/ap-celebrity-birthdays-for-the-week-of-nov-29-dec-5-include-don-cheadle-jay-z-and-britney-spears-b2452332.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Billy_Idol"
    },
    "fits": [
     {
@@ -425,37 +533,33 @@
     {
      "g": "decades-genres",
      "sub": "Nation Rocks"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Classic Hits"
     }
    ],
    "angles": [
     {
-     "name": "Rebel Yell",
-     "copy": "Happy 71st birthday to the one and only Billy Idol on Thursday! What's your favourite track from the punk rock legend?",
+     "name": "Punk Legend",
+     "copy": "Turning 71 this Monday, it's the one and only Billy Idol! What's your favourite track from the punk rock pioneer?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "09:30",
+     "time": "09:00",
      "tags": [
       "#BillyIdol"
      ]
     },
     {
-     "name": "80s Icon",
-     "copy": "From Generation X to a solo superstar, Billy Idol turns 71 this week! Celebrate with a blast of 'Rebel Yell' or 'White Wedding'.",
+     "name": "Rebel Yell",
+     "copy": "Monday means a birthday shout-out to Billy Idol! Still looking and sounding incredible at 71. Celebrate with a classic!",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "13:00",
+     "time": "14:00",
      "tags": [
-      "#80sMusic"
+      "#RockIcon"
      ]
     }
    ]
@@ -464,47 +568,50 @@
    "id": "britney-spears-birthday",
    "off": 8,
    "type": "birthday",
-   "hot": true,
-   "title": "Britney Spears turns 45",
-   "blurb": "Pop superstar Britney Spears celebrates her 45th birthday on Tuesday, December 2nd.",
+   "hot": false,
+   "title": "Happy 45th Birthday, Britney Spears",
+   "blurb": "Pop superstar Britney Spears, known for her chart-topping hits and iconic performances, celebrates her 45th birthday on December 2nd.",
    "source": {
-    "l": "The Independent",
-    "u": "https://www.independent.co.uk/news/ap-celebrity-birthdays-for-the-week-of-nov-29-dec-5-include-don-cheadle-jay-z-and-britney-spears-b2452332.html"
+    "l": "Wikipedia",
+    "u": "https://en.wikipedia.org/wiki/Britney_Spears"
    },
    "fits": [
+    {
+     "g": "decades-genres",
+     "sub": "Nation 00s"
+    },
     {
      "g": "decades-genres",
      "sub": "Nation Hits"
     },
     {
      "g": "decades-genres",
-     "sub": "Nation 00s"
+     "sub": "Nation Dance"
     }
    ],
    "angles": [
     {
-     "name": "It's Britney, Bitch",
-     "copy": "Get ready to celebrate! Britney Spears turns 45 on December 2nd. What's your all-time favourite Britney anthem?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x",
-      "tiktok"
-     ],
-     "time": "10:30",
-     "tags": [
-      "#BritneySpears"
-     ]
-    },
-    {
      "name": "Pop Princess",
-     "copy": "Queen of Pop Britney Spears has a birthday next week! From 'Toxic' to 'Gimme More', which track gets you dancing?",
+     "copy": "Wishing a very happy 45th birthday to the one and only Britney Spears on Wednesday! What's your ultimate Britney anthem?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "14:30",
+     "time": "09:00",
+     "tags": [
+      "#BritneySpears"
+     ]
+    },
+    {
+     "name": "Iconic Pop",
+     "copy": "Hit Me Baby One More Time for Britney's 45th on Wednesday! Celebrating the Princess of Pop with her biggest hits.",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "15:00",
      "tags": [
       "#PopMusic"
      ]
@@ -515,11 +622,11 @@
    "id": "ozzy-osbourne-birthday",
    "off": 9,
    "type": "birthday",
-   "hot": true,
-   "title": "Ozzy Osbourne turns 78",
-   "blurb": "The Prince of Darkness, Ozzy Osbourne, celebrates his 78th birthday on Friday, December 3rd.",
+   "hot": false,
+   "title": "Happy 78th Birthday, Ozzy Osbourne",
+   "blurb": "Heavy metal legend Ozzy Osbourne, 'The Prince of Darkness', celebrates his 78th birthday on December 3rd.",
    "source": {
-    "l": "Wikipedia (general knowledge - birth date)",
+    "l": "Wikipedia",
     "u": "https://en.wikipedia.org/wiki/Ozzy_Osbourne"
    },
    "fits": [
@@ -534,58 +641,67 @@
    ],
    "angles": [
     {
-     "name": "Ozzy Ozzzzzyyy!",
-     "copy": "All hail the Prince of Darkness! Ozzy Osbourne turns 78 this Friday, December 3rd. What's your favourite Black Sabbath or solo track?",
+     "name": "Prince of Darkness",
+     "copy": "All hail the Prince of Darkness! Ozzy Osbourne turns 78 on Thursday. What's your favourite Black Sabbath or solo track?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "11:00",
+     "time": "08:00",
      "tags": [
       "#OzzyOsbourne"
      ]
     },
     {
-     "name": "Rock Legend",
-     "copy": "Celebrating Ozzy Osbourne's 78th birthday this week! A true rock icon. What's the wildest Ozzy story you've ever heard?",
+     "name": "Metal Icon",
+     "copy": "It's Ozzy's birthday on Thursday! Celebrate the legendary frontman turning 78 by cranking up some classic metal.",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "16:00",
+     "time": "13:00",
      "tags": [
-      "#RockAndRoll"
+      "#HeavyMetal"
      ]
     }
    ]
   },
   {
-   "id": "jay-z-birthday",
-   "off": 10,
-   "type": "birthday",
+   "id": "black-friday-cyber-monday",
+   "off": 3,
+   "type": "seasonal",
    "hot": true,
-   "title": "Jay-Z celebrates 57th birthday",
-   "blurb": "Rap mogul and entrepreneur Jay-Z celebrates his 57th birthday on Saturday, December 4th.",
+   "title": "Black Friday & Cyber Monday Sales",
+   "blurb": "Black Friday officially lands on November 27th, with deals extending through the weekend to Cyber Monday on November 30th.",
    "source": {
-    "l": "The Independent",
-    "u": "https://www.independent.co.uk/news/ap-celebrity-birthdays-for-the-week-of-nov-29-dec-5-include-don-cheadle-jay-z-and-britney-spears-b2452332.html"
+    "l": "MoneySavingExpert",
+    "u": "https://www.moneysavingexpert.com/deals/black-friday/"
    },
    "fits": [
     {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Dance"
+     "g": "nation-network",
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "Hova's Birthday",
-     "copy": "Big birthday coming up for Jay-Z on December 4th! The rap legend turns 57. What's your favourite track from his incredible career?",
+     "name": "Deal Hunting",
+     "copy": "Black Friday is officially this Friday! Are you ready for the deals, or have you already snapped up some bargains?",
+     "channels": [
+      "instagram",
+      "facebook",
+      "x"
+     ],
+     "time": "09:00",
+     "tags": [
+      "#BlackFriday"
+     ]
+    },
+    {
+     "name": "Cyber Weekend",
+     "copy": "It's a full weekend of deals! From Black Friday to Cyber Monday, what's on your shopping list this year?",
      "channels": [
       "instagram",
       "facebook",
@@ -593,129 +709,68 @@
      ],
      "time": "12:00",
      "tags": [
-      "#JayZ"
-     ]
-    },
-    {
-     "name": "Empire State of Mind",
-     "copy": "From Marcy Projects to global icon, Jay-Z's influence is undeniable. Celebrate his 57th birthday this week with a classic track!",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "17:00",
-     "tags": [
-      "#HipHop"
+      "#CyberMonday"
      ]
     }
    ]
   },
   {
-   "id": "mariah-carey-o2-london",
-   "off": 6,
-   "type": "gig",
+   "id": "christmas-markets-uk",
+   "off": 0,
+   "type": "seasonal",
    "hot": true,
-   "title": "Mariah Carey at The O2 London",
-   "blurb": "The Queen of Christmas, Mariah Carey, brings her festive show to London's O2 Arena on Monday, November 30th, just as her classic 'All I Want For Christmas Is You' re-enters the charts.",
+   "title": "UK Christmas Markets in Full Swing",
+   "blurb": "Christmas markets across the UK, including Manchester, Birmingham, Bath, and London, are now in full swing offering festive cheer and shopping.",
    "source": {
-    "l": "The O2 London / Ticketle",
-    "u": "https://www.theo2.co.uk/events/detail/mariah-carey-2026; https://www.ticketle.co.uk/london-concerts-november-2026"
+    "l": "Visit Britain",
+    "u": "https://www.visitbritain.com/en/things-to-do/events/christmas-events/christmas-markets"
    },
    "fits": [
     {
      "g": "nation-network",
-     "sub": "Nation Radio London"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Xmas"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Hits"
-    },
-    {
-     "g": "decades-genres",
-     "sub": "Nation Love"
+     "sub": ""
     }
    ],
    "angles": [
     {
-     "name": "All I Want for Christmas...",
-     "copy": "Mariah Carey is bringing Christmas to The O2 on Monday! Get ready for a festive spectacular. Who's going?",
+     "name": "Festive Fun",
+     "copy": "The UK's Christmas markets are officially in full swing! Have you visited one yet? What's your favourite festive treat?",
      "channels": [
       "instagram",
       "facebook",
-      "x",
-      "tiktok"
+      "x"
      ],
      "time": "10:00",
      "tags": [
-      "#MariahCarey"
+      "#ChristmasMarkets"
      ]
     },
     {
-     "name": "Queen of Christmas",
-     "copy": "Her iconic hit is back in the charts, and Mariah Carey is live in London soon! It truly is beginning to look a lot like Christmas!",
+     "name": "Local Cheer",
+     "for": "welsh-local",
+     "copy": "From Cardiff to Carmarthen, our local Christmas markets are bringing all the festive cheer! Where are you heading this week?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "15:00",
+     "time": "11:00",
      "tags": [
-      "#ChristmasMusic"
+      "#WalesChristmas"
      ]
-    }
-   ]
-  },
-  {
-   "id": "interpol-bloc-party-manchester",
-   "off": 0,
-   "type": "gig",
-   "hot": true,
-   "title": "Interpol & Bloc Party in Manchester",
-   "blurb": "Interpol and Bloc Party are co-headlining a show at Aviva Studios in Manchester tonight, November 24th, bringing their indie rock sounds to the city.",
-   "source": {
-    "l": "Concertful",
-    "u": "https://www.concertful.com/uk/united-kingdom/"
-   },
-   "fits": [
-    {
-     "g": "decades-genres",
-     "sub": "Nation Rocks"
     },
     {
-     "g": "decades-genres",
-     "sub": "Nation 00s"
-    }
-   ],
-   "angles": [
-    {
-     "name": "Manchester Indie Night",
-     "copy": "Manchester! Interpol and Bloc Party are taking over Aviva Studios tonight! Who's excited for a huge night of indie rock?",
+     "name": "Exeter Sparkle",
+     "for": "radio-exe",
+     "copy": "Exeter's Christmas market is making the city sparkle! What's the best thing you've bought or eaten there so far?",
      "channels": [
       "instagram",
       "facebook",
       "x"
      ],
-     "time": "18:30",
+     "time": "12:00",
      "tags": [
-      "#ManchesterGigs"
-     ]
-    },
-    {
-     "name": "Indie Anthems",
-     "copy": "Two iconic bands, one stage! Interpol and Bloc Party are in Manchester tonight. What's your ultimate anthem from either band?",
-     "channels": [
-      "instagram",
-      "facebook",
-      "x"
-     ],
-     "time": "20:00",
-     "tags": [
-      "#BlocParty"
+      "#ExeterChristmas"
      ]
     }
    ]
